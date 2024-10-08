@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="us" mainagencycode="npv">npv_vc_programs_scrapbooks</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Vassar College Programs Scrapbooks, 1865-1982</titleproper>
+        <author>Inventory prepared by Laura Streett</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+        <address>
+          <addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+        </address>
+        <date>2011</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by Mark Seidl, <date>2022</date>.</creation>
+      <langusage>Finding aid written in <language>English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <head>Collection Summary</head>
+      <origination label="Creator:" encodinganalog="100">
+        <corpname>Vassar College</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245">Vassar College Programs Scrapbooks</unittitle>
+      <unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1865-1982</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">15 cubic feet (70 volumes)</physdesc>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+      </repository>
+      <abstract label="Abstract:" encodinganalog="520$a"> Scrapbooks containing programs relating to
+        Vassar College events.</abstract>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Administrative History</head>
+      <p>Vassar College was founded in 1861 and opened its doors in 1865.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Content Note</head>
+      <p>This collection consists of scrapbooks containing invitations, leaflets, pamphlets, programs, flyers, and other printed ephemera related to Vassar College programs and events. The first set of scrapbooks were created by the Office of the President; the compiler of the second set is unknown.</p>
+    </scopecontent>
+    <accessrestrict encodinganalog="506">
+      <head>Access</head>
+      <p>This collection is open for research according to the <archref
+          href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of
+          the Vassar College Archives and Special Collections Library</archref> without any
+        additional restrictions.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Restrictions on Use</head>
+      <p>Permission to quote (publish) from unpublished or previously published material must be
+        obtained as described in the <archref
+          href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of
+          the Vassar College Archives and Special Collections Library</archref>.</p>
+    </userestrict>
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Materials</head>
+      <p>Additional programs and events ephemera are located in the Vassar College Programs and Events Collection.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <head>Subject Headings</head>
+      <controlaccess>
+        <head>Organizations:</head>
+        <corpname source="lcnaf" encodinganalog="610">Vassar College</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Women's colleges--New York
+          (State)--Poughkeepsie</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Document Types:</head>
+        <genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+        <genreform source="aat" encodinganalog="655">Programs</genreform>
+        <genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+      </controlaccess>
+      <controlaccess>
+        <head>VCL Categories</head>
+        <subject source="local" encodinganalog="690">Vassar College Events and Issues</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd encodinganalog="500">
+      <head>Encoding Information</head>
+      <p>Encoded by Mark Seidl, July 2022. Updated by Emma Gronbeck, February 2023.</p>
+    </odd>
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>Processed by Mark Seidl, July 2022. Updated by Emma Gronbeck, February 2023.</p>
+    </processinfo>
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Vassar College Programs Scrapbooks, Archives and Special Collections Library, Vassar
+        College Libraries.</p>
+    </prefercite>
+    <dsc type="in-depth">
+      <head>Container List</head>
+      <c01 level="series" id="series1">
+        <did>
+          <unittitle>Set 1. President's Office, </unittitle>
+          <unitdate type="inclusive" normal="1865/1916">1865-1916</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container>Volume 1</container>
+            <unitdate type="inclusive" normal="1865/1893">1865-1893</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 2</container>
+            <unitdate type="inclusive" normal="1880/1904">1880-1904</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 3</container>
+            <unitdate type="inclusive" normal="1904/1916">1904-1916</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series2">
+        <did>
+          <unittitle>Set 2, </unittitle>
+          <unitdate type="inclusive" normal="1866/1982">1866-1982</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container>Volume 4</container>
+            <unitdate type="inclusive" normal="186603/186904">1866 March - 1869 April</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 5</container>
+            <unitdate type="inclusive" normal="186905/187106">1869 May - 1871 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 6</container>
+            <unitdate type="inclusive" normal="187109/187312">1871 September - 1873
+              December</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 7</container>
+            <unitdate type="inclusive" normal="187401/187602">1874 January - 1876
+              February</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 8</container>
+            <unitdate type="inclusive" normal="187603/187805">1876 March - 1878 May</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 9</container>
+            <unitdate type="inclusive" normal="187806/188011">1878 June - 1880 November</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 10</container>
+            <unitdate type="inclusive" normal="188011/188305">1880 November - 1883 May</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 11</container>
+            <unitdate type="inclusive" normal="188306/188612">1883 June - 1886 December</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 12</container>
+            <unitdate type="inclusive" normal="188701/189012">1887 January - 1890
+              December</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 13</container>
+            <unitdate type="inclusive" normal="189101/189411">1891 January - 1894
+              November</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 14</container>
+            <unitdate type="inclusive" normal="189412/189806">1894 December - 1898 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 15</container>
+            <unitdate type="inclusive" normal="189809/190306">1898 September - 1903 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 16</container>
+            <unitdate type="inclusive" normal="190309 190806">1903 September 1908 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 17</container>
+            <unitdate type="inclusive" normal="190809/191306">1908 September - 1913 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 18</container>
+            <unitdate type="inclusive" normal="191310/191606">1913 October - 1916 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 19</container>
+            <unitdate type="inclusive" normal="191609/192206">1916 September - 1922 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 20</container>
+            <unitdate type="inclusive" normal="192209/192406">1922 September - 1924 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 21</container>
+            <unitdate type="inclusive" normal="192409/192606">1924 September - 1926 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 22</container>
+            <unitdate type="inclusive" normal="192610/192806">1926 October - 1928 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 23</container>
+            <unitdate type="inclusive" normal="192807/192906">1928 July - 1929 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 24</container>
+            <unitdate type="inclusive" normal="192909/193006">1929 September - 1930 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 25</container>
+            <unitdate type="inclusive" normal="193009/193206">1930 September - 1932 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 26</container>
+            <unitdate type="inclusive" normal="193209/193306">1932 September - 1933 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 27</container>
+            <unitdate type="inclusive" normal="193309/193406">1933 September - 1934 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 28</container>
+            <unitdate type="inclusive" normal="193409/193506">1934 September - 1935 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 29</container>
+            <unitdate type="inclusive" normal="193509/193606">1935 September - 1936 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 30</container>
+            <unitdate type="inclusive" normal="193609/193706">1936 September - 1937 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 31</container>
+            <unitdate type="inclusive" normal="193709/193806">1937 September - 1938 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 32</container>
+            <unitdate type="inclusive" normal="193807/193906">1938 July - 1939 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 33</container>
+            <unitdate type="inclusive" normal="193909/194006">1939 September - 1940 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 34</container>
+            <unitdate type="inclusive" normal="194009/194106">1940 September - 1941 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 35</container>
+            <unitdate type="inclusive" normal="194109/194206">1941 September - 1942 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 36</container>
+            <unitdate type="inclusive" normal="194209/194306">1942 September - 1943 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 37</container>
+            <unitdate type="inclusive" normal="194307/194406">1943 July - 1944 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 38</container>
+            <unitdate type="inclusive" normal="194407/194507">1944 July - 1945 July</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 39</container>
+            <unitdate type="inclusive" normal="194509/194606">1945 September - 1946 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 40</container>
+            <unitdate type="inclusive" normal="194607/194706">1946 July - 1947 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 41</container>
+            <unitdate type="inclusive" normal="194707/194807">1947 July - 1948 July</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 42</container>
+            <unitdate type="inclusive" normal="194807/194906">1948 July - 1949 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 43</container>
+            <unitdate type="inclusive" normal="194907/195006">1949 July - 1950 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 44</container>
+            <unitdate type="inclusive" normal="195007/195106">1950 July - 1951 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 45</container>
+            <unitdate type="inclusive" normal="195107/195206">1951 July - 1952 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 46</container>
+            <unitdate type="inclusive" normal="195207/195306">1952 July - 1953 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 47</container>
+            <unitdate type="inclusive" normal="195307/195406">1953 July - 1954 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 48</container>
+            <unitdate type="inclusive" normal="195407/195506">1954 July - 1955 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 49</container>
+            <unitdate type="inclusive" normal="195507/195606">1955 July - 1956 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 50</container>
+            <unitdate type="inclusive" normal="195607/195706">1956 July - 1957 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 51</container>
+            <unitdate type="inclusive" normal="195707/195806">1957 July - 1958 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 52</container>
+            <unitdate type="inclusive" normal="195807/195906">1958 July - 1959 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 53</container>
+            <unitdate type="inclusive" normal="195909/196006">1959 September - 1960 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 54</container>
+            <unitdate type="inclusive" normal="196008/196108">1960 August - 1961 August</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 55</container>
+            <unitdate type="inclusive" normal="196108/196206">1961 August - 1962 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 56</container>
+            <unitdate type="inclusive" normal="196209/196306">1962 September - 1963 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 57</container>
+            <unitdate type="inclusive" normal="196308/196406">1963 August - 1964 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 58</container>
+            <unitdate type="inclusive" normal="196407/196506">1964 July - 1965 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 59</container>
+            <unitdate type="inclusive" normal="196509/196606">1965 September - 1966 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 60</container>
+            <unitdate type="inclusive" normal="196609/196706">1966 September - 1967 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 61</container>
+            <unitdate type="inclusive" normal="196709/196806">1967 September - 1968 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 62</container>
+            <unitdate type="inclusive" normal="196809/196906">1968 September - 1969 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 63</container>
+            <unitdate type="inclusive" normal="196909/197104">1969 September - 1971 April</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 64</container>
+            <unitdate type="inclusive" normal="197104/197206">1971 April - 1972 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 65</container>
+            <unitdate type="inclusive" normal="197209/197406">1972 September - 1974 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 66</container>
+            <unitdate type="inclusive" normal="197409/197605">1974 September - 1976 May</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 67</container>
+            <unitdate type="inclusive" normal="197608/197806">1976 August - 1978 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 68</container>
+            <unitdate type="inclusive" normal="197809/198006">1978 September - 1980 June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 69</container>
+            <unitdate type="inclusive" normal="198008/198105">1980 August - 1981 May</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container>Volume 70</container>
+            <unitdate type="inclusive" normal="198109/198206">1981 September - 1982 June</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

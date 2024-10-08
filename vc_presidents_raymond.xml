@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_vc_presidents_raymond </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the John Howard Raymond Papers, 1823-1913 (bulk 1823-1878) </titleproper>
+				<subtitle/>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Raymond, John H. (John Howard), 1814-1878</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> John Howard Raymond Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1823-1913 </unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1823-1878 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 2.7 cubic feet (5 boxes including 1 scrapbook)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence, manuscripts, a scrapbook, and other materials relating to Raymond's personal life as well as his work as a minister, one of the founders of the University of Rochester and then president of Vassar College.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>John H. Raymond (1814-1878) was born in New York City and entered Columbia College at the age of fourteen. He was expelled in his junior year for insubordination but continued his studies at Union College, where he was graduated in 1832. Raymond began the study of law, but a particularly persuasive sermon convinced him to study for the ministry. In 1838 he was graduated from the Baptist seminary at Madison (now Colgate) University and remained there as a teacher until 1850, when he, along with other Madison faculty and students, left to found the University of Rochester. He remained at Rochester for five years and became active in the antislavery cause. In 1855 Raymond became the first president of the Brooklyn Collegiate and Polytechnic Institute.</p>
+			<p>John H. Raymond was appointed a member of Vassar's first board of trustees; and following Milo P. Jewett's resignation in 1864, he agreed to assume the presidency of the college. When Vassar opened in 1865, the responsibility for the organization of the college and its curriculum fell on Raymond's shoulders. Within Vassar he set very high standards, and outside the college he defended it from critics of higher education for women. He was married to the former Cornelia Morse. In all his relationships Raymond appears to have been able to combine dignity with warmth and understanding. His death followed a long illness, and his final words are reported to have been: "How easy it is to glide from our work in this world to our work in heaven." </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence includes letters by Raymond, 1823-1878, concerning religious issues and themes, family events, troubles with an Irish servant over alleged stealing, educational theory, the birth of his children, death of a son in a stage accident, changes at Colgate College, and other issues; includes letters while a schoolboy to his brother and his courtship letters to Cornelia Morse; letters received from Henry Fowle Durant, James Harper, and others, 1865-1875; and letter books containing copies of his outgoing correspondence as Vassar College President, 1864-1878, concerning appointments, students, his views on women's education, and other issues. Other items include manuscripts of sermons, verse, and an autobiographical sketch; propositions regarding Vassar College salaries and other issues, 1866-1868; his scrapbook on women's education, women's work, and women's rights, 1869; tributes to him, 1878 and 1913; and some letters by his wife, Cornelia Morse Raymond, relating to
+				Vassar College concerns, 1885-1886. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Biographical information and a collection of photographs are located in the Vassariana Biographical File and the Photograph File.</p>
+			<p><archref href="https://hdl.handle.net/2027/uc1.$b18346">Life and Letters of John Howard Raymond, 1881 (via Hathi Trust)</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Durant, H. F. (Henry Fowle), 1822-1881</persname>
+				<persname source="lcnaf" encodinganalog="600"> Harper, James, 1795-1869</persname>
+				<persname source="lcnaf" encodinganalog="600"> Raymond, Cornelia M., 1861-1952</persname>
+				<persname source="lcnaf" encodinganalog="600"> Raymond family</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Colgate University</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> University of Rochester</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Presidents</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Board of Trustees</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Courtship--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650"> Family--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Education</subject>
+				<subject source="lcsh" encodinganalog="650"> Women's rights</subject>
+				<subject source="lcsh" encodinganalog="650"> Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Employment</subject>
+				<subject source="lcsh" encodinganalog="650"> Irish Americans</subject>
+				<subject source="lcsh" encodinganalog="650"> Domestics</subject>
+				<subject source="lcsh" encodinganalog="650"> Clergy</subject>
+				<subject source="lcsh" encodinganalog="650"> College presidents</subject>
+				<subject source="lcsh" encodinganalog="650"> College administrators</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Poems</genreform>
+				<genreform source="aat" encodinganalog="655"> Sermons</genreform>
+				<genreform source="aat" encodinganalog="655"> Scrapbooks</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Presidents </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007. Updated June 2008 by Laura Streett.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Container list updated November 2006 by Elizabeth Clarke.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of various donors, including Cornelia Raymond; and purchase. Four letters from Benson Lossing to John Howard Raymond and one letter to his wife, Cornelia E. Raymond may have originated with the Lossing Papers and moved at some point in the 1980s. Other material may have been moved from the Cyrys Swan Papers around the same time. </p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>John Howard Raymond Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Letter Book, </unittitle>
+					<unitdate type="inclusive"> 1864-1866 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Letter Book, </unittitle>
+					<unitdate type="inclusive"> March 3, 1866-October 15, 1875 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Letter book, </unittitle>
+					<unitdate type="inclusive"> January 9 [1870?]-June 17, 1878 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Correspondence some with typescripts,</unittitle>
+					<unitdate>1865-1877</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Cornelia M. Raymond’s Notes on John H. Raymond’s letters </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Correspondence, </unittitle>
+					<unitdate type="inclusive"> 1823 - June 1863 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> Correspondence, </unittitle>
+					<unitdate type="inclusive"> July 1863 - Oct 1868 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Correspondence, </unittitle>
+					<unitdate type="inclusive"> Feb 1869 - July 1878, n.d. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.2 </container>
+					<unittitle> Correspondence — A.L. Allen to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1872 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.3 </container>
+					<unittitle> Correspondence — Rufus Babcock to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">n.d. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.4 </container>
+					<unittitle> Correspondence — Antoinette Blackwell to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1875 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.5 </container>
+					<unittitle> Correspondence — Edward Bright to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1873 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.6 </container>
+					<unittitle> Correspondence — S.M. Buckingham to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1872 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.7 </container>
+					<unittitle> Correspondence — Charles Collins, J.C. Lockhart, et al to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1865 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.8 </container>
+					<unittitle> Correspondence — Henry Fowle Durant to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1874-1876 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.9 </container>
+					<unittitle> Correspondence — Charles S. Farrar to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">n.d. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.10 </container>
+					<unittitle> Correspondence — James Harper to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1868 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.11 </container>
+					<unittitle> Correspondence — Benson Lossing to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1867-1868 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.12 </container>
+					<unittitle> Correspondence — Benson Lossing to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1872-1873 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.13 </container>
+					<unittitle> Correspondence — Benson Lossing to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1874-1875 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.14 </container>
+					<unittitle> Correspondence — Benson Lossing to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1876-1878 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.15 </container>
+					<unittitle> Correspondence — Elias Magoon to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1873 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.16 </container>
+					<unittitle> Correspondence — Samuel F. B. Morse to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1871 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.17 </container>
+					<unittitle> Correspondence — Benson Lossing to Mrs. John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1878-1883 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.18 </container>
+					<unittitle> Correspondence — E.E. Poppleton to and from John H. Raymond,</unittitle>
+					<unitdate type="inclusive">ca. 1875 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.19 </container>
+					<unittitle> Correspondence — Ephraim Powell to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1873 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.20 </container>
+					<unittitle> Correspondence — Pratt to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1866 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.21 </container>
+					<unittitle> Correspondence — Cyrus Swan to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1873 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.22 </container>
+					<unittitle> Correspondence — C.W. Swift to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1869 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.23 </container>
+					<unittitle> Correspondence — Rezin A. Wight to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1875, 1893 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.24 </container>
+					<unittitle> Correspondence — Dr. Woolworth to John H. Raymond,</unittitle>
+					<unitdate type="inclusive">1866 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.25 </container>
+					<unittitle> Correspondence — Mrs. John H. Raymond to Cornelia M. Raymond,</unittitle>
+					<unitdate type="inclusive">1885-1886 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.26 </container>
+					<unittitle> Correspondence — Mrs. John H. Raymond to unidentified man,</unittitle>
+					<unitdate type="inclusive">6 Sep 1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.27 </container>
+					<unittitle> Miscellanesous correspondence and notes relating to Vassar College,</unittitle>
+					<unitdate type="inclusive">1866-1868 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.1 </container>
+					<unittitle> Appointment to Vassar Presidency - Extracts from Trustee meeting minutes,</unittitle>
+					<unitdate type="inclusive">29 Apr 1864 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.28 </container>
+					<unittitle> Raymond's death and memorials,</unittitle>
+					<unitdate type="inclusive">1878, 1896, n.d.</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.29 </container>
+					<unittitle> Publications</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.30 </container>
+					<unittitle> Verse, etc.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.33 </container>
+					<unittitle> Sermons</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.34 </container>
+					<unittitle> Sermons</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.35 </container>
+					<unittitle> Sermons</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.36 </container>
+					<unittitle> Autograph</unittitle>
+					<unitdate type="inclusive">undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Songs of Devotion </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.31 </container>
+					<unittitle> Sketchbook</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.32 </container>
+					<unittitle> Loose items removed from sketchbook</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Scrapbook on "Woman's Education, Woman's Work, Woman's Rights," </unittitle>
+					<unitdate>1869</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,3398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_womens_studies</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Women's Studies Program Records,
+					1977-2007</titleproper>
+				<author>Inventory prepared by Laura Streett and Mark Seidl</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College
+					Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY,
+						12604-0020</addressline>
+				</address>
+				<date>October 2011</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl, <date>October 2011</date>.</creation>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College Women's Studies Program</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Women's Studies Program
+				Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1970-2007</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1980-2002</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">5.8 cubic feet (7 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College
+					Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials documenting the history of
+				the Vassar College Women's Studies Program from its founding in 1977 to
+				2007.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History</head>
+			<p>Since at least 1971 faculty, students, and trustees had advocated the creation of a
+				Women's Studies Program. Not until 1977, however, was the first interdepartmental
+				Women's Studies course added to the College curriculum. The following year a major
+				in Women's Studies was introduced under the auspices of the Independent Program, a
+				major that drew upon courses from a variety of departments. Women's Studies became a
+				separate multidisciplinary concentration in 1986. From 1988 to 1998 the program
+				continued to add new multidisciplinary courses to its curriculum. In 2002-2003 the
+				program began offering a 12-credit multidisciplnary major and a 6-credit correlate
+				sequence.</p>
+			<p>See Ronald D. Patkus and Elizabeth A. Daniels, eds., <emph render="italic">An
+					Administrative History of Vassar College, 1861-2003</emph>, Poughkeepsie: Vassar
+				College, 2004, p. 62.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Materials documenting the history of the Vassar College Women's Studies Program from
+				its founding in 1977 to 2007. Includes memos, budgets, correspondence, notes,
+				newsletters, grant proposals, course materials, and publicity materials.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>Some materials in Series I are restricted due to personnel privacy issues. Please
+				consult the archivist for further information. The remainder of the collection is
+				open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections Library.
+				</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Curricula</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's studies--Curricula--United
+					States</subject>
+				<subject source="lcsh" encodinganalog="650">Women's studies--New York
+					(State)</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690">Vassar College Academic Departments and
+					Programs</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, October 2011. Updated by Emma Gronbeck, January 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Laura Streett and Mark Seidl, September-October 2011.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Collection transfered from the Women's Studies Program office, 2008.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Women's Studies Program Records, Archives and Special Collections
+				Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I. </ref>ADMINISTRATIVE FILES AND
+						CORRESPONDENCE</unittitle>
+					<physdesc>(Boxes 1-2)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Annual reports, correspondence, Steering Committee files, mailing lists, and
+						other materials relating to the administration of the program. Arranged
+						alphabetically.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II. </ref>CURRICULUM</unittitle>
+					<physdesc>(Boxes 2-3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Course lists, syllabi, student handbook information, and other materials
+						relating to the program curriculum. Arranged alphabetically with general
+						curriculum files preceding those for individual courses.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III. </ref>EVENTS</unittitle>
+					<physdesc>(Boxes 3-4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Film screening announcements, conference announcements, agendas for "First
+						Friday" gatherings and other materials relating to program events. Arranged
+						alphabetically.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV. </ref>SPEAKERS</unittitle>
+					<physdesc>(Boxes 4-5)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Announcements, publicity materials, schedules, and other materials relating
+						to visiting speakers. Arranged alphabetically with general files preceding
+						those for individual speakers.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V. </ref>GRANTS AND STUDIES</unittitle>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Applications, correspondence, questionnaires, and other materials relating to
+						grants for which the program applied and studies in which it participated.
+						Arranged alphabetically.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI. </ref>ORGANIZATIONS AND OTHER WOMEN'S
+						STUDIES PROGRAMS</unittitle>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Informational materials, directories, and correspondence relating to women's
+						organizations and Women's Studies programs at other academic institutions.
+						Arranged alphabetically.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII. </ref>MISCELLANEOUS SUBJECT
+						FILES</unittitle>
+					<physdesc>(Boxes 6-7)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Materials concerning athletics, coeducation, sexual harrassment, and other
+						subjects. Arranged alphabetically.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Administrative Files and Correspondence</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1</container>
+						<unittitle>Advisory Committee, </unittitle>
+						<unitdate type="inclusive">1986-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2</container>
+						<unittitle>Advisory Committee, </unittitle>
+						<unitdate type="inclusive">1989-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unittitle>Annual Reports, </unittitle>
+						<unitdate type="inclusive">1977-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4</container>
+						<unittitle>Annual Reports, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.5</container>
+						<unittitle>Annual Reports, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.6</container>
+						<unittitle>Annual Reports, </unittitle>
+						<unitdate type="inclusive">1990-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.8</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">1997-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.13</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.14</container>
+						<unittitle>Annual Report Information, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.15</container>
+						<unittitle>Annual Report Information, </unittitle>
+						<unitdate type="inclusive">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.17</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">2001-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">2003-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unittitle>Annual Report, </unittitle>
+						<unitdate type="inclusive">2006-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unittitle>Associated Colleges of the Mid-Hudson Area-Women's Studies
+							Academic Coop Program, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21</container>
+						<unittitle>Budget Proposals, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.22</container>
+						<unittitle>Budget Proposals, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.23</container>
+						<unittitle>Budget Proposals, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.24</container>
+						<unittitle>Calendar, </unittitle>
+						<unitdate type="inclusive">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unittitle>Calendar, </unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26</container>
+						<unittitle>Chairperson, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>Conferences, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.28</container>
+						<unittitle>Conferences, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1979-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unittitle>General Correspondence, </unittitle>
+						<unitdate type="inclusive">1980-1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31</container>
+						<unittitle>Copies Correspondence, </unittitle>
+						<unitdate type="inclusive">1980-1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unittitle>General Correspondence, </unittitle>
+						<unitdate type="inclusive">1981-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33</container>
+						<unittitle>Copies All Correspondence, </unittitle>
+						<unitdate type="inclusive">1981-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34</container>
+						<unittitle>General Correspondence, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unittitle>Correspondence (Copies), </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36</container>
+						<unittitle>General Communications, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.37</container>
+						<unittitle>Copies All Correspondence, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.38</container>
+						<unittitle>Copies All Correspondence, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.39</container>
+						<unittitle>General Communications, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.40</container>
+						<unittitle>Copies All Correspondence, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.41</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1986-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.42</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1987-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.43</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1988-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.44</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1989-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.45</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1991-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.46</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1992-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.47</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1993-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.48</container>
+						<unittitle>Official Correspondence, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.49</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.50</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.51</container>
+						<unittitle>Crothers, [Diane], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.52</container>
+						<unittitle>Crothers, Diane, Correspondence, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.53</container>
+						<unittitle>[Crothers Correspondence?], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.54</container>
+						<unittitle>Darlington, Beth-Personal - RESTRCTED FILE, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.55</container>
+						<unittitle>Darlington, Beth-Personal - RESTRCTED FILE, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.1</container>
+						<unittitle>Department Chairperson, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.2</container>
+						<unittitle>Department Chairperson, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.3</container>
+						<unittitle>Department Chairperson, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.4</container>
+						<unittitle>Development of the Women's Studies Program, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.5</container>
+						<unittitle>Development of the Women's Studies Program, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.6</container>
+						<unittitle>Director's Materials, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.7</container>
+						<unittitle>Faculty and Administrators Interested in Women's Studies</unittitle>
+						<unitdate type="inclusive">1981-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.8</container>
+						<unittitle>Faculty Discussion Group, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>Faculty Discussion Group, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.10</container>
+						<unittitle>Faculty Discussion Group, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.11</container>
+						<unittitle>Faculty Discussion Group, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.12</container>
+						<unittitle>Faculty Lists, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.13</container>
+						<unittitle>Faculty and Administrative Lists, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.14</container>
+						<unittitle>Freshman Orientation, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.15</container>
+						<unittitle>General Information, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16</container>
+						<unittitle>Guidelines for Program Membership, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.17</container>
+						<unittitle>Informal Committee, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.18</container>
+						<unittitle>Information Department Related, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.19</container>
+						<unittitle>Library Holdings Review, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.20</container>
+						<unittitle>Mailing List, </unittitle>
+						<unitdate type="inclusive">1992-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.21</container>
+						<unittitle>Members/Participants, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.22</container>
+						<unittitle>Members/Participants, </unittitle>
+						<unitdate type="inclusive">1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23</container>
+						<unittitle>New England Building (Use), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24</container>
+						<unittitle>Newsletter (incomplete), </unittitle>
+						<unitdate type="inclusive">1977-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.25</container>
+						<unittitle>Overview Committee, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.26</container>
+						<unittitle>Page, Barbara-personal - RESTRCTED FILE, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.27</container>
+						<unittitle>President's Discretionary Fund, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.28</container>
+						<unittitle>Program Review, </unittitle>
+						<unitdate>1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.29</container>
+						<unittitle>Proposal for Grant, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.30</container>
+						<unittitle>Self Study, </unittitle>
+						<unitdate>1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.31</container>
+						<unittitle>Staffing, </unittitle>
+						<unitdate type="inclusive">1983-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.32</container>
+						<unittitle>Steering Committee and Organizational, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.33</container>
+						<unittitle>Steering Committee, </unittitle>
+						<unitdate type="inclusive">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.34</container>
+						<unittitle>Steering Committee</unittitle>
+						<unitdate>2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.35</container>
+						<unittitle>Steering Committee, </unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.36</container>
+						<unittitle>Steering Committee, </unittitle>
+						<unitdate type="inclusive">2001-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.37</container>
+						<unittitle>Vilardi, Teresa [program coordinator], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Curriculum</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.38</container>
+						<unittitle>Academic Program at Vassar/Intro Course, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.39</container>
+						<unittitle>Africana Studies and American Culture Program</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.40</container>
+						<unittitle>American Culture, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.41</container>
+						<unittitle>American Culture - Civil Rights Course, </unittitle>
+						<unitdate type="inclusive">1979-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.42</container>
+						<unittitle>Committee on Academic Planning, </unittitle>
+						<unitdate type="inclusive">1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.43</container>
+						<unittitle>Committee on Cirricular Policy (CCP) Information, </unittitle>
+						<unitdate type="inclusive">1987-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.44</container>
+						<unittitle>Committee on Cirricular Policy (CCP), </unittitle>
+						<unitdate type="inclusive">1997-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.45</container>
+						<unittitle>Committee on Cirricular Policy (CCP), </unittitle>
+						<unitdate type="inclusive">1998-99</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.46</container>
+						<unittitle>Committee on Cirricular Policy (CCP), </unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.47</container>
+						<unittitle>Course Lists, </unittitle>
+						<unitdate type="inclusive">1970-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.48</container>
+						<unittitle>Course Lists, </unittitle>
+						<unitdate type="inclusive">1984-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.49</container>
+						<unittitle>AFRS 212: Women of the World, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.50</container>
+						<unittitle>AFRS 264: Black Women in America, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.51</container>
+						<unittitle>AFRS/POLI 352: Seminar on Politics in Multicultural Societies, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.52</container>
+						<unittitle>AMCL 280: Changing Concept of American Women, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.53</container>
+						<unittitle>AMCL 298: Changing American Culture, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.54</container>
+						<unittitle>AMCL 298: Women's Place and Women's Work, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.55</container>
+						<unittitle>AMCL 381: Changing American Culture: Women and American
+							Political Culture, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.56</container>
+						<unittitle>AMCL 383: Woman and War, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.57</container>
+						<unittitle>ANTH 105: Intro. Anthropology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.58</container>
+						<unittitle>ANTH 214: Ethnography of the Caribbean, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.59</container>
+						<unittitle>ANTH 240: Peoples of the Malay World, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.60</container>
+						<unittitle>ANTH 280: The Anthropology of Women, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.61</container>
+						<unittitle>ANTH 350: Travelling in the World, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.62</container>
+						<unittitle>ANTH 351: Linguistic Theory, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.63</container>
+						<unittitle>ANTH 362: Male/Female in Anthropological Perspective</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.64</container>
+						<unittitle>ANTH 367: Current Themes . . . The Anthropological Study of
+							Women, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.65</container>
+						<unittitle>ART/CLAS 280: Gender and Status in Classical Antiquity</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.66</container>
+						<unittitle>ART 310: Women in Classical Art, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.67</container>
+						<unittitle>ART 364: Women in the Arts, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.68</container>
+						<unittitle>CLCS 262: Work, Gender, and Social Change, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.69</container>
+						<unittitle>CLAS 281: Women in Classical Antiquity, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.70</container>
+						<unittitle>EDUC 297, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.71</container>
+						<unittitle>ENGL 248: Literary Perspectives on Women, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.72</container>
+						<unittitle>ENGL 366: Women in the Renaissance, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.73</container>
+						<unittitle>ENGL 367: Nondramatic Literature of the Renaissance</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.74</container>
+						<unittitle>ENGL 390: Studies in Middle English Literature</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.75</container>
+						<unittitle>GEOG 265: Population and Development, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.76</container>
+						<unittitle>GEOG 297: Geography of Gender, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.77</container>
+						<unittitle>GEOG 365: The Geography of Gender, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.78</container>
+						<unittitle>HISP 380: Women and Latin American Literature</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.79</container>
+						<unittitle>HIST 250: History of Women in America, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.80</container>
+						<unittitle>HIST 261: History of Women in the U.S., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.81</container>
+						<unittitle>HIST 280: Women in European History, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.82</container>
+						<unittitle>HIST 283: History of European Women to 1800, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.83</container>
+						<unittitle>HIST 320: Private Life in Pre-Industrial Europe</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.84</container>
+						<unittitle>HIST 383: Women in Latin American History, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.85</container>
+						<unittitle>INTD 287: Issues For the Nineties, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.86</container>
+						<unittitle>INTD 380: The Victorian Wife, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.87</container>
+						<unittitle>INTD 389: Testimony of the Past, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.88</container>
+						<unittitle>Medieval/Ren Culture, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.89</container>
+						<unittitle>MUSI/WMST 231, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.90</container>
+						<unittitle>Music 231, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.91</container>
+						<unittitle>PHIL 106: Philosophy, Politics and Society, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.92</container>
+						<unittitle>PHIL 250: Feminist Theory, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.93</container>
+						<unittitle>PHIL 250: Gender and Power, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.94</container>
+						<unittitle>PHIL 283: Feminist Theory, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.95</container>
+						<unittitle>PHIL 286: Theory of Emotion, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.96</container>
+						<unittitle>PHIL 305: Hannah Arendt, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.97</container>
+						<unittitle>PHIL ?: Feminism and Philosophy of the Body, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.98</container>
+						<unittitle>POLI 245: Women and American Politics, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.99</container>
+						<unittitle>POLI 282: Women in the History of Political Thought</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.100</container>
+						<unittitle>POLI 375: The Family, Society and the State</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.101</container>
+						<unittitle>PSYC 202: Principles of Development, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.102</container>
+						<unittitle>PSYC 205: Social Psychology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.103</container>
+						<unittitle>PSYC 214: Physiological Psychology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.104</container>
+						<unittitle>PSYC 260, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.105</container>
+						<unittitle>PSYC 272: Methodsand Issues in Personality and Social
+							Psychology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.106</container>
+						<unittitle>PSYC 297: The Development of Sex Differences, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.107</container>
+						<unittitle>PSYC 305: Masculinity and Femininity, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.108</container>
+						<unittitle>PSYC 335: Women and Psychopathology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.109</container>
+						<unittitle>PSYC 383: Gender and Psychology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.1</container>
+						<unittitle>RELI 362: Theologies of Human Liberation, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.2</container>
+						<unittitle>SOCI 243: Birth, Death and Public Policy, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3</container>
+						<unittitle>SOCI 250: Sex, Gender and Society, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4</container>
+						<unittitle>SOCI 251: Social Change and Revolution, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5</container>
+						<unittitle>SOCI 252: The Family, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.6</container>
+						<unittitle>SOCI 284: Comparative Sociology of Revolution</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.7</container>
+						<unittitle>SOCI 288: Professions and Power, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.8</container>
+						<unittitle>SOCI/STS 342: Women and New Technology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.9</container>
+						<unittitle>SOCI 350: Sociology of Sex Roles, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.10</container>
+						<unittitle>SOCI/STS 353: Sociobiology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.11</container>
+						<unittitle>SOCI 355: Sociological Theory/Feminist Social Theory</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.12</container>
+						<unittitle>SOCI 380: Sociology of Sex Roles, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle>STS 380: Women and New Technology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14</container>
+						<unittitle>STS ?: Women In Advanced Industrial Society, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15</container>
+						<unittitle>WMST 130: Introduction to Women's Studies (Diane Crothers), </unittitle>
+						<unitdate>1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.16</container>
+						<unittitle>WMST 130: Introduction to Women's Studies, </unittitle>
+						<unitdate type="inclusive">1979-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.17</container>
+						<unittitle>Introduction to Women's Studies, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.18</container>
+						<unittitle>WMST 130: Introduction to Women's Studies, </unittitle>
+						<unitdate type="inclusive">1983-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.19</container>
+						<unittitle>WMST 130: Introduction to Women's Studies, </unittitle>
+						<unitdate type="inclusive">1990-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.20</container>
+						<unittitle>WMST 130: Introduction to Women's Studies, </unittitle>
+						<unitdate type="inclusive">1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.21</container>
+						<unittitle>WMST 130: Introduction to Women's Studies, </unittitle>
+						<unitdate type="inclusive">1998-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.22</container>
+						<unittitle>WMST 130: Introduction to Women's Studies, </unittitle>
+						<unitdate type="inclusive">2000-20007, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.23</container>
+						<unittitle>[WMST 230]: Feminist Approaches to Science, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.24</container>
+						<unittitle>[WMST] 230: Feminist Approaches to Science/Technology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.25</container>
+						<unittitle>WMST 230: [Feminism, Science and Technology], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.26</container>
+						<unittitle>WMST 230: Women and Colonialism, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.27</container>
+						<unittitle>WMST 230: Women and Film, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.28</container>
+						<unittitle>WMST 230: Construction of Gender, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.29</container>
+						<unittitle>WMST 240: Construction of Gender, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.30</container>
+						<unittitle>WMST 251: Global Feminism, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.31</container>
+						<unittitle>WMST 262: Work, Gender and Social Change, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.32</container>
+						<unittitle>WMST 280:Women of Color, </unittitle>
+						<unitdate>Fall 1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.33</container>
+						<unittitle>WMST/INTL 280: Gender, Post Colonialism and the Visual</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.34</container>
+						<unittitle>WMST 297: Constructing American Masculinities</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.35</container>
+						<unittitle>WMST 375: Senior Seminar, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.36</container>
+						<unittitle>WMST 381: Women, Race and Writing, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.37</container>
+						<unittitle>WMST ?: Thinking Lesbian Sex and Politics, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.38</container>
+						<unittitle>WMST ?: Post Colonialism and Third World Feminsm</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.39</container>
+						<unittitle>Curriculum Change, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.40</container>
+						<unittitle>Curriculum Change, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.41</container>
+						<unittitle>Field Work, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.42</container>
+						<unittitle>Field Work, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.43</container>
+						<unittitle>Field Work, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.44</container>
+						<unittitle>Handbook, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.45</container>
+						<unittitle>Handbook Corrections, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.46</container>
+						<unittitle>Handbook, </unittitle>
+						<unitdate type="inclusive">1992-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.47</container>
+						<unittitle>Honors Criteria, </unittitle>
+						<unitdate type="inclusive">1995-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.48</container>
+						<unittitle>Introduction to Women's Studies, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.49</container>
+						<unittitle>Shirley Johnson (Gender and Work), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.50</container>
+						<unittitle>Misc. Course Material, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.51</container>
+						<unittitle>Proposed Courses, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.52</container>
+						<unittitle>Senior Theses, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.53</container>
+						<unittitle>Study Trip, </unittitle>
+						<unitdate>1998</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Events</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.54</container>
+						<unittitle>"American Family" Symposium, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.55</container>
+						<unittitle>Berkshire Conference, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.56</container>
+						<unittitle>Bishop Celebration, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.57</container>
+						<unittitle>Conference on Worldwide Education for Women, </unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.58</container>
+						<unittitle>Coalition, </unittitle>
+						<unitdate>1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.59</container>
+						<unittitle>Coalition Dinner, </unittitle>
+						<unitdate>1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.60</container>
+						<unittitle>Coalition Dinner, </unittitle>
+						<unitdate type="inclusive">1997-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.61</container>
+						<unittitle>Coalition Dinner, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.62</container>
+						<unittitle>Coalition Dinner, </unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.63</container>
+						<unittitle>Coalition Dinner, </unittitle>
+						<unitdate type="inclusive">2001-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.64</container>
+						<unittitle>Conferences, </unittitle>
+						<unitdate type="inclusive">1979-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.65</container>
+						<unittitle>Conferences, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.66</container>
+						<unittitle>Conferences, Newsletters, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.67</container>
+						<unittitle>Conferences Women's Studies Faculty, </unittitle>
+						<unitdate>1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.68</container>
+						<unittitle>Dean Daniels, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.69</container>
+						<unittitle>Dinner - May 4th, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.70</container>
+						<unittitle>End of Semester Dinner, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.71</container>
+						<unittitle>End of Semester Dinner, </unittitle>
+						<unitdate>1999 December 9</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.72</container>
+						<unittitle>End of Semester Dinner, </unittitle>
+						<unitdate>2000 May 25</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.73</container>
+						<unittitle>Events - Misc, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.74</container>
+						<unittitle>Film, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.75</container>
+						<unittitle>Film Festival, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.76</container>
+						<unittitle>Films, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.77</container>
+						<unittitle>Films, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.78</container>
+						<unittitle>Films, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.79</container>
+						<unittitle>Films/Possible Projects, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.80</container>
+						<unittitle>First Fridays, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.81</container>
+						<unittitle>First Friday, </unittitle>
+						<unitdate type="inclusive">1992-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.82</container>
+						<unittitle>First Friday, </unittitle>
+						<unitdate type="inclusive">1993-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.83</container>
+						<unittitle>First Fridays, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.84</container>
+						<unittitle>First Fridays, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.85</container>
+						<unittitle>First Friday</unittitle>
+						<unitdate type="inclusive">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.86</container>
+						<unittitle>First Friday, </unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.87</container>
+						<unittitle>First Friday, </unittitle>
+						<unitdate type="inclusive">2001-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.88</container>
+						<unittitle>First Friday Announcements of WMST Sponsored Events</unittitle>
+						<unitdate type="inclusive">1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.89</container>
+						<unittitle>Global Feminisms Conference, </unittitle>
+						<unitdate>1994, 1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.90</container>
+						<unittitle>Hunger Symposium, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.91</container>
+						<unittitle>Nancy Milford - Testimony of the Past, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.92</container>
+						<unittitle>National Women's Studies Association Conference, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.93</container>
+						<unittitle>National Women's Studies Association Conference, </unittitle>
+						<unitdate>2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.94</container>
+						<unittitle>New Faculty Reception, </unittitle>
+						<unitdate type="inclusive">1997-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.95</container>
+						<unittitle>New Faculty Reception, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.96</container>
+						<unittitle>New Faculty Reception, </unittitle>
+						<unitdate type="inclusive">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.97</container>
+						<unittitle>New Faculty Reception, </unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.98</container>
+						<unittitle>New Faculty Reception, </unittitle>
+						<unitdate type="inclusive">2001-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.1</container>
+						<unittitle>Pornography (College), </unittitle>
+						<unitdate>1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.2</container>
+						<unittitle>Pornography -- Women Against, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.3</container>
+						<unittitle>Potluck Dinner, </unittitle>
+						<unitdate>2000 December 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.4</container>
+						<unittitle>Retreat File, </unittitle>
+						<unitdate type="inclusive">1993-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.5</container>
+						<unittitle>Retreat, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.6</container>
+						<unittitle>Retreat, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.7</container>
+						<unittitle>Retreat, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.8</container>
+						<unittitle>Seven College Conference, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.9</container>
+						<unittitle>Spring Series Images and Gender, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.10</container>
+						<unittitle>Symposium on Empowerment International Perspectives</unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.11</container>
+						<unittitle>Vassar Women's Weekend, </unittitle>
+						<unitdate>1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.12</container>
+						<unittitle>Wednesday Lunches, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.13</container>
+						<unittitle>Women and Music, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.14</container>
+						<unittitle>Women's Coalition, </unittitle>
+						<unitdate type="inclusive">1994-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.15</container>
+						<unittitle>Women's Studies and International Studies Seminars/Symposiums, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.16</container>
+						<unittitle>Women's Weekend, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.17</container>
+						<unittitle>Working it Out, </unittitle>
+						<unitdate>October 7</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Speakers</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.18</container>
+						<unittitle>Lectures and Lecturers, </unittitle>
+						<unitdate type="inclusive">1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.19</container>
+						<unittitle>Lectures and Lecturers, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.20</container>
+						<unittitle>Lectures and Lecturers, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.21</container>
+						<unittitle>Lectures and Lecturers, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.22</container>
+						<unittitle>Past Speakers and Guest Lecturers, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.23</container>
+						<unittitle>Speakers - Misc., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.24</container>
+						<unittitle>Support of Speakers, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.25</container>
+						<unittitle>Support of Speakers, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.26</container>
+						<unittitle>Support of Speakers, </unittitle>
+						<unitdate type="inclusive">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.27</container>
+						<unittitle>Aisenberg, Nadya, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.28</container>
+						<unittitle>Avery, Byllye, </unittitle>
+						<unitdate>1994 October 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.29</container>
+						<unittitle>Baym, Nina, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.30</container>
+						<unittitle>Becker, Carol, </unittitle>
+						<unitdate>1999 April 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.31</container>
+						<unittitle>Berresford, Susan V., </unittitle>
+						<unitdate>1998 November 12</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.32</container>
+						<unittitle>Brodo, Susan, </unittitle>
+						<unitdate>1998 February 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.33</container>
+						<unittitle>Brody, Jennifer, </unittitle>
+						<unitdate>1999 September 23</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.34</container>
+						<unittitle>Brown, Elaine, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.35</container>
+						<unittitle>Bunch, Charlotte, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.36</container>
+						<unittitle>Butalia, Pankaj, </unittitle>
+						<unitdate>1995 November 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.37</container>
+						<unittitle>Butler, Octavia, </unittitle>
+						<unitdate>1997 April</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.38</container>
+						<unittitle>Carby, Hazel, </unittitle>
+						<unitdate>2000 September 13</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.39</container>
+						<unittitle>Chollet Towdin, Jacqueline, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.40</container>
+						<unittitle>Cixous, [Helene], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.41</container>
+						<unittitle>Daniels, Elizabeth, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.42</container>
+						<unittitle>Daniels, Kate, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.43</container>
+						<unittitle>Davies, Carol Boyce, </unittitle>
+						<unitdate>2002 February 28</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.44</container>
+						<unittitle>Davis, Natalie Zemon, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.45</container>
+						<unittitle>Dubois, Ellen, </unittitle>
+						<unitdate>1998 October 5</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.46</container>
+						<unittitle>Elshtain, Jean, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.47</container>
+						<unittitle>Enloe, Cynthia, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.48</container>
+						<unittitle>Enloe, Cynthia, </unittitle>
+						<unitdate>1995 April 6</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.49</container>
+						<unittitle>Enloe, Cynthia, </unittitle>
+						<unitdate>1998 October 29</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.50</container>
+						<unittitle>Fairstein, Linda, </unittitle>
+						<unitdate>2000 February</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.51</container>
+						<unittitle>Farrell-Smith, Janet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.52</container>
+						<unittitle>Feigin, Brenda, </unittitle>
+						<unitdate>2000 October 4</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.53</container>
+						<unittitle>Ferrell, Carolyn, </unittitle>
+						<unitdate>1999 October 16</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.54</container>
+						<unittitle>Gachukia, Eddah, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.55</container>
+						<unittitle>Garrett, Angelica, and Spaulding, Frances, </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.56</container>
+						<unittitle>Gillespie, Marcia, </unittitle>
+						<unitdate>1998 November 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.57</container>
+						<unittitle>Guggenheimer, Elinor, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.58</container>
+						<unittitle>Guy-Sheftall, Beverley, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.59</container>
+						<unittitle>Hartmann, Heidi, </unittitle>
+						<unitdate>1998 April 13</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.60</container>
+						<unittitle>Hartsock, Nancy, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.61</container>
+						<unittitle>Hawkins, Harriet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.62</container>
+						<unittitle>Held, Virginia, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.63</container>
+						<unittitle>Hite, Molly, </unittitle>
+						<unitdate>2000 February 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.64</container>
+						<unittitle>Hooks, Bell, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.65</container>
+						<unittitle>Hornbacher, Marya, </unittitle>
+						<unitdate>1999 April 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.66</container>
+						<unittitle>Gurnsey, Jane Howard, </unittitle>
+						<unitdate>2000 March 23</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.67</container>
+						<unittitle>Howe, Florence, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.68</container>
+						<unittitle>Howe, Florence, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.69</container>
+						<unittitle>Kaplan, Cora, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.70</container>
+						<unittitle>Fox Keller, Evelyn, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.71</container>
+						<unittitle>Kimmel, Michael, </unittitle>
+						<unitdate>1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.72</container>
+						<unittitle>Kim-Gibson, Dai Sil, </unittitle>
+						<unitdate>1999 November 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.73</container>
+						<unittitle>Klein, Ethel, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.74</container>
+						<unittitle>Kurgweil, Edith, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.75</container>
+						<unittitle>Layne, Linda, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.76</container>
+						<unittitle>Lerner, Gerda, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.77</container>
+						<unittitle>Lerner, Gerda, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.78</container>
+						<unittitle>Littleton, Christine, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.79</container>
+						<unittitle>Lubiano, Waheema, </unittitle>
+						<unitdate>1995 October 31</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.80</container>
+						<unittitle>Lugones, Maria, </unittitle>
+						<unitdate>1994 September 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.81</container>
+						<unittitle>Maso, Carole, </unittitle>
+						<unitdate>1999 September 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.82</container>
+						<unittitle>McDonough, Yona, </unittitle>
+						<unitdate>1999 November 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.83</container>
+						<unittitle>Mohanty, Chandra, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.84</container>
+						<unittitle>Moreau, Thirese, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.85</container>
+						<unittitle>Nicholson, Linda, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.86</container>
+						<unittitle>Painter, Nell, </unittitle>
+						<unitdate>1998 September 17</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.87</container>
+						<unittitle>Pateman, Carole, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.88</container>
+						<unittitle>Pemberton, Gayle, </unittitle>
+						<unitdate>1995 October 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.89</container>
+						<unittitle>Pollitt, Katha, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.90</container>
+						<unittitle>Sawiki, Jana, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.91</container>
+						<unittitle>Schmukler, Beatriz Elba, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.1</container>
+						<unittitle>Seaman, Barbara, </unittitle>
+						<unitdate>1997 February 6</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.2</container>
+						<unittitle>Sen, Gita, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.3</container>
+						<unittitle>Sharma, Renu, and Upreti, Tara, </unittitle>
+						<unitdate>2001 February 12</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.4</container>
+						<unittitle>Shiva, Vandana, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.5</container>
+						<unittitle>Shiva, Vandana, </unittitle>
+						<unitdate>1998 February 25</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.6</container>
+						<unittitle>Snitow, Ann, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.7</container>
+						<unittitle>Somerville, Siobhan, </unittitle>
+						<unitdate>2001 April 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.8</container>
+						<unittitle>Spelman, Eliz V., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.9</container>
+						<unittitle>Stansell, Christine, </unittitle>
+						<unitdate>2000 November 13</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.10</container>
+						<unittitle>Stimpson, Catherine, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.11</container>
+						<unittitle>Tajima Creef, Elena, </unittitle>
+						<unitdate>1998 November 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.12</container>
+						<unittitle>Toledo, Elizabeth, </unittitle>
+						<unitdate>1999 April 6</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.13</container>
+						<unittitle>Vollp, Leti</unittitle>
+						<unitdate>2001 September 17</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.14</container>
+						<unittitle>Wachman, Gay, </unittitle>
+						<unitdate>2002 April 4</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.15</container>
+						<unittitle>Warren, Kay B., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.16</container>
+						<unittitle>Wasserstein, Wendy, </unittitle>
+						<unitdate type="inclusive">1998-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.17</container>
+						<unittitle>Weber, Saskia, </unittitle>
+						<unitdate>1999 December 6</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.18</container>
+						<unittitle>Westenhoefer, Suzanne, </unittitle>
+						<unitdate>2000 April 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.19</container>
+						<unittitle>Speakers - Misc., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Grants and Studies</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.20</container>
+						<unittitle>Classroom Climate Study - Cornelius, Gray, Constantinople</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.21</container>
+						<unittitle>Global Feminisms Correspondence, </unittitle>
+						<unitdate type="inclusive">1993-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.22</container>
+						<unittitle>Grants, </unittitle>
+						<unitdate type="inclusive">1995-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.23</container>
+						<unittitle>Huber Foundation, </unittitle>
+						<unitdate>1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.24</container>
+						<unittitle>Mellon Core Group, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.25</container>
+						<unittitle>Mellon Correspondence, </unittitle>
+						<unitdate type="inclusive">1990-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.26</container>
+						<unittitle>Mellon Grant, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.27</container>
+						<unittitle>Mellon Grant, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.28</container>
+						<unittitle>Mellon Grant, </unittitle>
+						<unitdate>1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.29</container>
+						<unittitle>Mellon Group, </unittitle>
+						<unitdate>1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.30</container>
+						<unittitle>Mellon Seminars, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.31</container>
+						<unittitle>Mellon Study Questionnaires, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.32</container>
+						<unittitle>National Endowment for the Humanities (NEH) Grant, </unittitle>
+						<unitdate>n.d.</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.33</container>
+						<unittitle>National Endowment for the Humanities (NEH) Grant, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.34</container>
+						<unittitle>National Endowment for the Humanities (NEH) Grant, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.35</container>
+						<unittitle>Wheaton Co-Education and Women's College, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.36</container>
+						<unittitle>Wheaton Conference, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.37</container>
+						<unittitle>Women's Health Initiative, </unittitle>
+						<unitdate type="inclusive">1989-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.38</container>
+						<unittitle>Women's Health Initiative Computers, </unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.39</container>
+						<unittitle>Women's Health Initiative Conferences on Nutrition</unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.40</container>
+						<unittitle>Women's Health Initiative Consultants, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.41</container>
+						<unittitle>Women's Health Initiative Correspondence, </unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.42</container>
+						<unittitle>Women's Health Initiative Feasibility Studies</unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.43</container>
+						<unittitle>(Women's Health Initiative) Ann Gardon, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.44</container>
+						<unittitle>Women's Health Initiative Hartmann Fund Grant</unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.45</container>
+						<unittitle>Women's Health Initiative Heath Statistics of Women College
+							Graduates, </unittitle>
+						<unitdate>1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.46</container>
+						<unittitle>Women's Health Initiative Hewlett-Mellon Grant</unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.47</container>
+						<unittitle>Women's Health Initiative Meetings and Notes, </unittitle>
+						<unitdate type="inclusive">1987-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.48</container>
+						<unittitle>(Women's Health Initiative) Euthenics at Vassar Rebecca
+							Mitchell, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.49</container>
+						<unittitle>(Women's Health Initiative) Morgenthau, Joan, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.50</container>
+						<unittitle>(Women's Health Initiative) Rayna Rapp, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.51</container>
+						<unittitle>(Women's Health Initiative) Rockefeller Foundation, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.52</container>
+						<unittitle>(Women's Health Initiative) Judith Rodin, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.53</container>
+						<unittitle>Women's Health Initiative Study Group, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.54</container>
+						<unittitle>Women's Health Initiative Study Group - Schedules</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.55</container>
+						<unittitle>Women's Health Initiative Summer Project, </unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.56</container>
+						<unittitle>Women's Health Initiative Summer Schedules, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. Organizations and Other Women's Studies
+						Programs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.57</container>
+						<unittitle>Inquiries, </unittitle>
+						<unitdate type="inclusive">1981-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.58</container>
+						<unittitle>Inquiries Regarding Course Offerings, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.59</container>
+						<unittitle>Inquiries (Program and Positions), </unittitle>
+						<unitdate type="inclusive">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.60</container>
+						<unittitle>Inquiries (Program and Positions), </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.61</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.62</container>
+						<unittitle>National Organization of Women, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.63</container>
+						<unittitle>National Women's Studies Association, </unittitle>
+						<unitdate type="inclusive">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.64</container>
+						<unittitle>National Women's Studies Association, </unittitle>
+						<unitdate type="inclusive">1985-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.65</container>
+						<unittitle>Princeton (Women's Studies), </unittitle>
+						<unitdate type="inclusive">1982-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.66</container>
+						<unittitle>Requests for Information, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.67</container>
+						<unittitle>Women's Directory, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.68</container>
+						<unittitle>Women's Networks, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.69</container>
+						<unittitle>Women's Studies Associations, </unittitle>
+						<unitdate type="inclusive">1979-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.70</container>
+						<unittitle>Women's Studies Offerings in Other Colleges, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.71</container>
+						<unittitle>Women's Studies Programs at other Colleges and Universities, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.72</container>
+						<unittitle>York University, </unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Series VII. Miscellaneous Subject Files</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.1</container>
+						<unittitle>Admissions, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.2</container>
+						<unittitle>Athletics, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.3</container>
+						<unittitle>Bibliographies of Women, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.4</container>
+						<unittitle>Coeducation, </unittitle>
+						<unitdate type="inclusive">ca. 1975-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.5</container>
+						<unittitle>Committee for Coeducation for the Future, </unittitle>
+						<unitdate type="inclusive">1978-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.6</container>
+						<unittitle>Committee to End Sexual Harassment, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.7</container>
+						<unittitle>Consciousness Raising, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.1</container>
+						<unittitle>Dean of the Faculty H. Patrick Sullivan, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.2</container>
+						<unittitle>Extracurricular Activities, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.3</container>
+						<unittitle>Feminist Transformation of the Academy, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.4</container>
+						<unittitle>Feminist Union, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.5</container>
+						<unittitle>Gay Issues, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.6</container>
+						<unittitle>H.B. Stanton Club, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.7</container>
+						<unittitle>Harriet Stanton Club, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.8</container>
+						<unittitle>Packet Contents, </unittitle>
+						<unitdate>1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.9</container>
+						<unittitle>Publishers, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.10</container>
+						<unittitle>Sexual Harassment Committee, </unittitle>
+						<unitdate>1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.11</container>
+						<unittitle>Summer Plans, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.12</container>
+						<unittitle>Svoboda, Lisa, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.13</container>
+						<unittitle>Women and Politics, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.14</container>
+						<unittitle>Women and Science, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.15</container>
+						<unittitle>Women and Work, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.16</container>
+						<unittitle>Women in Anthropology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.17</container>
+						<unittitle>Women in Science Program, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

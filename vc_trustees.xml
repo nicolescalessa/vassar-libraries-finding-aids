@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_trustees</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Board of Trustees Records, 1861-2014</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave, Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>2009</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>June 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College. Board of Trustees</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Board of Trustees Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1861-2014</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 42 cubic feet (32 boxes and 113 volumes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials relating to the work of the Board. Includes meeting minutes, reports, correspondence and financial records.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History</head>
+			<p>The members of the first Board of Trustees were listed in the college charter, which was passed by the New York State Legislature January 18, 1861. The first meeting of the Board occured five weeks later on February 26th.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Materials relating to the work of the Board. Includes meeting minutes, reports, correspondence and financial records.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>Records from 1986 to the present are currently closed to research. The rest of the collection is open for research with permission of the office of origin and in accordance with the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref>.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Administration</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Trustees</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, June 2007. Updated by Laura Streett, March 2009. Updated by Emma Gronbeck, October 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Updated by Laura Streett, July 2011, by Mark Seidl, December 2019, and by Emma Gronbeck, November 2022 and October 2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>College transfer in multiple and continuing accessions. Some material (in boxes 10-15) was transferred from the Office of the Vice President for Finance in 2007 (A2007-046).</p>
+		</acqinfo>
+		<altformavail encodinganalog="530">
+			<head>Other Formats</head>
+			<p>Some minutes have been digitized and are searchable through a database. However, direct access to the database is restricted to the Special Collections staff. Please contact the staff for further information.</p>
+		</altformavail>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Board of Trustees Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Minutes and Reports, </unittitle>
+					<unitdate type="inclusive">1861-1998</unitdate>
+					<physdesc></physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Committees, </unittitle>
+					<unitdate type="inclusive">1861-2006</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Secretary's Files, </unittitle>
+					<unitdate type="inclusive">1931-2005</unitdate>
+				</did>
+				<scopecontent>
+					<p>The Secretary's Files are divided into three subseries. The first set is arranged alphabetically and dates primarily from the 1940s. The second set is chronological, dates from 1980 to 2005, and includes minutes, reports, agendas and some correspondence relating to regular meetings of the Board as well as its committees. The last set is in no particular order and its origin is uncertain. It dates from roughly 1982-1989</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Miscellaneous, </unittitle>
+					<unitdate type="inclusive">1868-2014</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. MINUTES and REPORTS</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Minutes of Meetings of the Full Board, </unittitle>
+						<unitdate>1861-1997</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 1, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1861-1934</emph></unitdate>
+							<physdesc><emph render="bold">(3 volumes)</emph></physdesc>
+						</did>
+					<c04 level="item">
+						<did>
+							<container>Bound Volumes</container>
+							<unittitle>Vol. 1, </unittitle>
+							<unitdate type="inclusive">1861-1891</unitdate>
+							<physdesc>(original)</physdesc>
+						</did>
+					</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1891-1921</unitdate>
+								<physdesc>(original)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1921-1934</unitdate>
+								<physdesc>(original)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 2, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1861-1945</emph></unitdate>
+							<physdesc><emph render="bold">(6 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1861-1891</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1892-1919</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1920-1926</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive">1927-1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 5, </unittitle>
+								<unitdate type="inclusive">1934-1939</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 6, </unittitle>
+								<unitdate type="inclusive">1940-1945</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 3, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1933-1997</emph></unitdate>
+							<physdesc><emph render="bold">(15 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1933 Oct - 1939 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1939-1945</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1945-1949</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive">1949-1953</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 5, </unittitle>
+								<unitdate type="inclusive">1953-1958</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 6, </unittitle>
+								<unitdate type="inclusive">1958-1963</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 7, </unittitle>
+								<unitdate type="inclusive">1963-1966</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 8, </unittitle>
+								<unitdate type="inclusive">1966-1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 9, </unittitle>
+								<unitdate type="inclusive">1968-1970</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 10, </unittitle>
+								<unitdate type="inclusive">1970-1972</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 11, </unittitle>
+								<unitdate type="inclusive">1972-1975</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 12, </unittitle>
+								<unitdate type="inclusive">1975-1978</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 13, </unittitle>
+								<unitdate type="inclusive">1978-1984</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 14, </unittitle>
+								<unitdate type="inclusive">1984-1989</unitdate>
+								<physdesc>[RESTRICTED]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 15, </unittitle>
+								<unitdate type="inclusive">1989-1997</unitdate>
+								<physdesc>(3 folders) [RESTRICTED]</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 4, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1983-1997</emph></unitdate>
+							<physdesc><emph render="bold">(3 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1983 May - 1988 Dec</unitdate>
+								<physdesc>[RESTRICTED]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1989 Oct - 1993 May</unitdate>
+								<physdesc>[RESTRICTED]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1993 Oct - 1997 Oct</unitdate>
+								<physdesc>[RESTRICTED]</physdesc>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Minutes of Executive Committee Meetings, </unittitle>
+						<unitdate>1861-1998</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 1, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1861-1925</emph></unitdate>
+							<physdesc><emph render="bold">(5 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1861-1870</unitdate>
+								<physdesc>(original)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1870-1879</unitdate>
+								<physdesc>(original)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1880-1901</unitdate>
+								<physdesc>(original, includes 3 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive">1901-1915</unitdate>
+								<physdesc>(original)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 5, </unittitle>
+								<unitdate type="inclusive">1915-1925</unitdate>
+								<physdesc>(original)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 2, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1861-1937</emph></unitdate>
+							<physdesc><emph render="bold">(11 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1861 Jan - 1863 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1863 Jul - 1865 Dec</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1866 Jan - 1872 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive">1872 Jul - 1879 Dec</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 5, </unittitle>
+								<unitdate type="inclusive">1880 Jan - 1885 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 6, </unittitle>
+								<unitdate type="inclusive">1885 Jul - 1893 Dec</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 7, </unittitle>
+								<unitdate type="inclusive">1894 Jan - 1909 Dec</unitdate>
+								<physdesc>(2 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 8, </unittitle>
+								<unitdate type="inclusive">1910 Jan - 1919 Dec</unitdate>
+								<physdesc>(2 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 9, </unittitle>
+								<unitdate type="inclusive">1920 Jan - 1925 Sep</unitdate>
+								<physdesc>(2 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 10, </unittitle>
+								<unitdate type="inclusive">1925 Sep - 1932 Jul</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 11, </unittitle>
+								<unitdate type="inclusive">1932 Sep - 1937 Dec</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 3, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1938-1969</emph></unitdate>
+							<physdesc><emph render="bold">(5 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1938 Apr - 1956 Apr</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1956 Jul - 1961 Mar</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1961 Sep - 1964 Jun</unitdate>
+							</did>
+						</c04>						
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive">1964 Sep - 1967 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 5, </unittitle>
+								<unitdate type="inclusive">1967 Sep - 1969 Jun</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Set 4, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1932-1998</emph></unitdate>
+							<physdesc><emph render="bold">(14 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1932-1939</unitdate>
+								<physdesc>(2 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1939-1946</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1946-1949</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive">1949-1953</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 5, </unittitle>
+								<unitdate type="inclusive">1953-1958</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 6, </unittitle>
+								<unitdate type="inclusive">1958-1961</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 7, </unittitle>
+								<unitdate type="inclusive">1961-1964</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 8, </unittitle>
+								<unitdate type="inclusive">1964-1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 9, </unittitle>
+								<unitdate type="inclusive">1968-1969</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 10, </unittitle>
+								<unitdate type="inclusive">1969-1972</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 11, </unittitle>
+								<unitdate type="inclusive">1972-1975</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 12, </unittitle>
+								<unitdate type="inclusive">1975-1982</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 13, </unittitle>
+								<unitdate type="inclusive">1982-1990</unitdate>
+								<physdesc>[RESTRICTED]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 14, </unittitle>
+								<unitdate type="inclusive">1990-1998</unitdate>
+								<physdesc>[RESTRICTED]</physdesc>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Reports, </unittitle>
+						<unitdate type="inclusive">1926-1979</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Reports, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1926-1946</emph></unitdate>
+							<physdesc><emph render="bold">(10 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 1, </unittitle>
+								<unitdate type="inclusive">1926-1927</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 2, </unittitle>
+								<unitdate type="inclusive">1927-1928</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 3, </unittitle>
+								<unitdate type="inclusive">1928-1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 4, </unittitle>
+								<unitdate type="inclusive">1929-1930</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 5, </unittitle>
+								<unitdate type="inclusive">1930-1931</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 6, </unittitle>
+								<unitdate type="inclusive">1931-1932</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 7, </unittitle>
+								<unitdate type="inclusive">1932-1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 8, </unittitle>
+								<unitdate type="inclusive">1933-1934</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Collected Reports, Vol. 9, </unittitle>
+								<unitdate type="inclusive">1934-1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>President's Reports, </unittitle>
+								<unitdate type="inclusive">1926-1946</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Combined Minutes and Reports, </emph></unittitle>
+							<unitdate type="inclusive"><emph render="bold">1935-1979</emph></unitdate>
+							<physdesc><emph render="bold">(40 volumes)</emph></physdesc>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive">1935-1940</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive">1940-1941</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 3, </unittitle>
+								<unitdate type="inclusive">1941-1942</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive">1942-1943</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 5, </unittitle>
+								<unitdate type="inclusive">1943-1945</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 6, </unittitle>
+								<unitdate type="inclusive">1945-1946</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 7, </unittitle>
+								<unitdate type="inclusive">1946-1947</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 8, </unittitle>
+								<unitdate type="inclusive">1947-1948</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 9, </unittitle>
+								<unitdate type="inclusive">1948-1949</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 10, </unittitle>
+								<unitdate type="inclusive">1949-1950</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 11, </unittitle>
+								<unitdate type="inclusive">1950-1951</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 12, </unittitle>
+								<unitdate type="inclusive">1951-1952</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 13, </unittitle>
+								<unitdate type="inclusive">1952-1953</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 14, </unittitle>
+								<unitdate type="inclusive">1954-1955</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 15, </unittitle>
+								<unitdate type="inclusive">1955-1956</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 16, </unittitle>
+								<unitdate type="inclusive">1956-1957</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 17, </unittitle>
+								<unitdate type="inclusive">1957-1958</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 18, </unittitle>
+								<unitdate type="inclusive">1958-1959</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 19, </unittitle>
+								<unitdate type="inclusive">1959-1960</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 20, </unittitle>
+								<unitdate type="inclusive">1960 Oct - 1961 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 21, </unittitle>
+								<unitdate type="inclusive">1961 Aug - 1962 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 22, </unittitle>
+								<unitdate type="inclusive">1962 Jun - 1963 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 23, </unittitle>
+								<unitdate type="inclusive">1963 Jun - 1964 Mar</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 24, </unittitle>
+								<unitdate type="inclusive">1964 Apr - 1965 Mar</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 25, </unittitle>
+								<unitdate type="inclusive">1965 Mar - Oct</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 26, </unittitle>
+								<unitdate type="inclusive">1965 Oct - 1966 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 27, </unittitle>
+								<unitdate type="inclusive">1966 Sep - 1967 May</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 28, </unittitle>
+								<unitdate type="inclusive">1967 May - 1968 Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 29, </unittitle>
+								<unitdate type="inclusive">1968 Jun - 1969 Feb</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 30, </unittitle>
+								<unitdate type="inclusive">1969 Jan - Aug</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 31, </unittitle>
+								<unitdate type="inclusive">1969 Sep - Dec</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 32, </unittitle>
+								<unitdate type="inclusive">1970 Jan - May</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 33, </unittitle>
+								<unitdate type="inclusive">1970 Aug - Dec</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 34, </unittitle>
+								<unitdate type="inclusive">1971</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 35, </unittitle>
+								<unitdate type="inclusive">1972</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 36, </unittitle>
+								<unitdate type="inclusive">1973</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 37, </unittitle>
+								<unitdate type="inclusive">1974-1975</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 38, </unittitle>
+								<unitdate type="inclusive">1976</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 39, </unittitle>
+								<unitdate type="inclusive">1977</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Bound Volumes</container>
+								<unittitle>Vol. 40, </unittitle>
+								<unitdate type="inclusive">1978-1979</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II. TRUSTEE COMMITTEES, </unittitle>
+					<unitdate type="inclusive">1861-2006</unitdate>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Audit Committee, </unittitle>
+						<unitdate type="inclusive">1981-2002</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10</container>
+						<unittitle>Budget Committee, </unittitle>
+						<unitdate type="inclusive">1958-1989</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10</container>
+						<unittitle>Budget and Finance Committee, </unittitle>
+						<unitdate type="inclusive">1989-2002</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 11</container>
+						<unittitle>Buildings and Grounds Committee, </unittitle>
+						<unitdate type="inclusive">1925-2002</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 15-20</container>
+						<unittitle>Buildings and Grounds Committee — Architectural planning reports and drawings, </unittitle>
+						<unitdate type="inclusive">approximately 1930-2006</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Buildings and Grounds Committee AND Executive Committee Meeting Minutes, </unittitle>
+						<unitdate type="inclusive">1861-1862</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 32</container>
+						<unittitle>Coeducation, Committee on, </unittitle>
+						<unitdate type="inclusive">1973-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Education of Women at Vassar, Committee on, </unittitle>
+						<unitdate type="inclusive">1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 9</container>
+						<unittitle>Endowment Committee, </unittitle>
+						<unitdate type="inclusive">1952-1957</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 9</container>
+						<unittitle>Faculty and Studies Committee, </unittitle>
+						<unitdate type="inclusive">1919-1971</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 11</container>
+						<unittitle>Investments and Finance Committee, </unittitle>
+						<unitdate type="inclusive">1964-1987</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Investments and Finance Committee, </unittitle>
+						<unitdate type="inclusive">1987-1989</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Investments Committee, </unittitle>
+						<unitdate type="inclusive">1989-1991</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Investments Committee, </unittitle>
+						<unitdate type="inclusive">1991-1994</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Investments Committee, </unittitle>
+						<unitdate type="inclusive">1994-1998</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Investments Committee, </unittitle>
+						<unitdate type="inclusive">1998-2002</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Investor Responsibility Committee, </unittitle>
+						<unitdate type="inclusive">1991-2002</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Nominate a President (Alan Simpson), Committee to, </unittitle>
+						<unitdate type="inclusive">1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Nominations Committee, </unittitle>
+						<unitdate type="inclusive">1984 Dec</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. SECRETARY'S FILES, </unittitle>
+					<unitdate type="inclusive">1931-2005</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Set 1, </unittitle>
+						<unitdate>1931-1951</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Advisory System</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Agenda</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Alumnae Committee of Seven Colleges</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Alumnae House</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Budget Committee</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Buildings and Grounds</unittitle>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Business Administration, Committee on</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>By-Laws</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Calendar</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Chairman of the Board of Trustees</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Chaplaincy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Comparative Expenditures</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Communications</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Comptroller</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Conferences with Faculty</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Cooperative Houses and Cooperative Systems</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Dinner Meetings</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Economies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Endowment</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Euthenics</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Executive Committee Recommendations</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty and Studies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty Club Committee and Faculty Representation</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty Representation on the Board of Trustees</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty Salaries and Benefits</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Former Trustees Still Leaving</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>General Manager</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Gifts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Governance</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Health</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Helen Kenyon Lectureship Fund</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Housing</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Investments and Finance</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Interior Decorator</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Lisburne Grange</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Maintenance Funds</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Medical Examinations</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Memorial Tablets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Mortgages</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Nominations</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>President Blanding</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>President MacCracken</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Publications of Faculty</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Refugess Scholars</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Resolutions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Scholarships</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Self Help Houses</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Seven College Conference</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Seventy-Fifth Anniversary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Social Museum</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Three Year Program</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Treasurer</unittitle>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Trustee Committees</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Tuition</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Undergraduate Life Committee</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Vassar Institute — War Time Community Service</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Veterans</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>World Youth Conference</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Set 2, </unittitle>
+						<unitdate type="inclusive">1980-2005</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unitdate type="inclusive">Oct 1980 - Feb 1982</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unitdate type="inclusive">May 1982- Dec 1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unitdate type="inclusive">Dec 1983 - Jan 1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unitdate type="inclusive">Feb 1985 - Aug 1987</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unitdate type="inclusive">Feb 1988 - Oct 1991</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unitdate type="inclusive">Feb 1992 - Feb 1998</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unitdate type="inclusive">May 1998 - Feb 2004</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 29</container>
+							<unitdate type="inclusive">May 2004 - May 2005</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Set 3, </unittitle>
+						<unitdate type="inclusive">1982-1989</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Castle in Brissac, </unittitle>
+							<unitdate type="inclusive">1982-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>New York State Liquor License, </unittitle>
+							<unitdate type="inclusive">1983-1989</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Nursery School, </unittitle>
+							<unitdate type="inclusive">1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Sunrise Lane, </unittitle>
+							<unitdate type="inclusive">1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Trustee Minutes — Access, </unittitle>
+							<unitdate type="inclusive">1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Urban Center, </unittitle>
+							<unitdate type="inclusive">1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Presidential Review, </unittitle>
+							<unitdate type="inclusive">1984-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Grants, </unittitle>
+							<unitdate type="inclusive">1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Mailings to Trustees, </unittitle>
+							<unitdate type="inclusive">1982-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Reports, </unittitle>
+							<unitdate type="inclusive">May 1986</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Executive Committee, </unittitle>
+							<unitdate type="inclusive">1983-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Advisory Group on Coeducation, </unittitle>
+							<unitdate type="inclusive">1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Governance Committee, </unittitle>
+							<unitdate type="inclusive">1982-1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Investments and Finance Committee, </unittitle>
+							<unitdate type="inclusive">1982-1986</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Personnel Committee, </unittitle>
+							<unitdate type="inclusive">1984</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — President Search Committee, </unittitle>
+							<unitdate type="inclusive">1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Committee on Religious Life, </unittitle>
+							<unitdate type="inclusive">1985-1986</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Investor Responsibility Committee, </unittitle>
+							<unitdate type="inclusive">1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Minority Affairs Committee, </unittitle>
+							<unitdate type="inclusive">1989</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Nominations Committee, </unittitle>
+							<unitdate type="inclusive">1983-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Student Conference Committee, </unittitle>
+							<unitdate type="inclusive">1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21</container>
+							<unittitle>Committees — Student Life Committee, </unittitle>
+							<unitdate type="inclusive">1984</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>SERIES IV. MISCELLANEOUS, </unittitle>
+					<unitdate type="inclusive">1868-2014</unitdate>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 22</container>
+						<unittitle>Trustee Packets, </unittitle>
+						<unitdate type="inclusive">1980-1989</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 23</container>
+						<unittitle>Trustee Packets, </unittitle>
+						<unitdate type="inclusive">1990-2005</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 25</container>
+						<unittitle>Trustee Packets, </unittitle>
+						<unitdate type="inclusive">2006-2012</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 31</container>
+						<unittitle>Trustee Packets, </unittitle>
+						<unitdate type="inclusive">2012-2014</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 24</container>
+						<unittitle>Trustee Packets, </unittitle>
+						<unitdate type="inclusive">1983-1998</unitdate>
+						<physdesc>(second copies) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 30</container>
+						<unittitle>Trustee Packets, </unittitle>
+						<unitdate type="inclusive">1998-2009</unitdate>
+						<physdesc>(second copies) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 26-27</container>
+						<unittitle>Card file index to the minutes — Full board, </unittitle>
+						<unitdate type="inclusive">approximately 1930-1995</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 27-28</container>
+						<unittitle>Card file index to the minutes — Executive Committee, </unittitle>
+						<unitdate type="inclusive">approximately 1930-1995</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Resolutions made upon death of Matthew Vassar, </unittitle>
+						<unitdate type="inclusive">26 June 1868</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Notices of Executive Committee Meetings, </unittitle>
+						<unitdate type="inclusive">1903-1906, 1908-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Nelson Report, </unittitle>
+						<unitdate type="inclusive">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Trustee Biographies, </unittitle>
+						<unitdate type="inclusive">approximately 1987-2005</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Eugenie Havemeyer's papers related to Yale/Vassar, </unittitle>
+						<unitdate type="inclusive">1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 32</container>
+						<unittitle>Frances D. Fergusson Farewell Dinner photographs, </unittitle>
+						<unitdate type="inclusive">2006</unitdate>
+						<physdesc>[compact disc]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Harriet Taylor Mauk, </unittitle>
+						<unitdate type="inclusive">1950-1951</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">1964-1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 21</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">1977-1978</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

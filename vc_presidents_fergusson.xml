@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_vc_presidents_fergusson </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Office of the President Records, Frances D. Fergusson Files, 1951-2011 (bulk 1986-2006)</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>August 2013</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2013</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Fergusson, Frances D. (Frances Daly) </persname>
+			</origination>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College. Office of the President</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Office of the President Records, Frances D. Fergusson Files</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1951-2011 </unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1986-2006 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 114 cubic feet (114 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Records of the Office of the President of Vassar College during the tenure for Frances D. Fergusson</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Frances Daly Fergusson was the President of Vassar College from 1986-2006.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Records of the Office of the President of Vassar College during the tenure for Frances D. Fergusson</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>112 boxes of this collection are currently closed for research. The remaining 2 boxes, which include President Fergusson's speeches, are open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Additional material may be found in the Archives and Special Collections Library in: </p>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-biographical-files-approximately-1900-2010">The VC Biographical Files</archref>
+			</p>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-photograph-files-approximately-1865-2008">The VC Photograph Files</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Presidents</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Administration</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Public relations</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Board of Trustees</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Buildings</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">College presidents</subject>
+				<subject source="lcsh" encodinganalog="650">Women educators</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690">Vassar College Presidents </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head/>
+			<p><?xm-replace_text {Text on Other Descriptive Data}?></p>
+		</odd>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, August 2013.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Street and Madeleine Amodio, 2011 and 2013.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Most materials were transferred in 2011 and 2013. </p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Office of the President Records, Frances D. Fergusson Files, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. A2011-014</unittitle>
+				</did>
+				<c02 level="otherlevel">
+					<did>
+						<unittitle> Restricted Material, </unittitle>
+						<unitdate>1951-2011 </unitdate>
+						<physdesc>(108 boxes) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. Miscellaneous</unittitle>
+				</did>
+				<c02 level="otherlevel">
+					<did>
+						<unittitle> Restricted Material </unittitle>
+						<unitdate> </unitdate>
+						<physdesc>(2 boxes) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. A2013-039</unittitle>
+				</did>
+				<c02 level="otherlevel">
+					<did>
+						<unittitle> Correspondence, </unittitle>
+						<unitdate>1986-2006 </unitdate>
+						<physdesc>(2 boxes - RESTRICTED) </physdesc>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<unittitle> Speeches, </unittitle>
+						<unitdate>1986-2006 </unitdate>
+						<physdesc>(2 boxes) </physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

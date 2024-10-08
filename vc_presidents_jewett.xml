@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_vc_presidents_jewett </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Milo Parker Jewett Papers, 1828-1913 (bulk 1856-1882) </titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>May 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Jewett, Milo P.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Milo Parker Jewett Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1828-1913 </unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1856-1882 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 1.1 cubic feet (4 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Papers related to Jewett's involvement with the founding of Vassar College and its early operation, as well as biographical and Jewett family materials</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Milo P. Jewett, first president of Vassar College, was born in St. Johnsbury, VT in 1801. He attended Dartmouth College and Andover Theological Seminary. In 1839 he founded the Judson Female Institute in Alabama, which was known as one of the best schools for women in the ante-bellum south. A few years later he was ordained in the Baptist ministry, having changed his views on baptism. In 1855 Jewett purchased the Cottage Hill Seminary in Poughkeepsie. There he met Matthew Vassar and is credited with suggesting to Vassar that he use his fortune to establish a women's college. Jewett was one of the original trustees of Vassar College and was elected president in 1861. Disagreements with other board memebers and ultimately with Matthew Vassar forced Jewett's resignation in 1864. In spite of his short tenure he did much to shape the early years of the college, arranging for the purchase of land and the construction of buildings which still serve the college. In 1867 Jewett moved to
+				Milwaukee, where he lived out the rest of his life as an active participant in educational, philanthropic, and religious affairs. Jewett died in 1882.</p>
+			<p>Note: Additional biographical information is available in the Vassariana Biographical File.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Papers primarily concern women's education and Vassar College and include his letters to Matthew Vassar, Nathan Bishop, Martin B. Anderson, and others relating to the proposed female college, staff and teaching appointments, his resignation, and other college affairs, 1856-1864; letters and essays from educators in response to Jewett's circular letter about the organization of Vassar Female College, 1861-1863; Jewett's essays and statements on the organization and curriculum for Vassar Female College, 1856-1864; other letters received on college business, his essay on Vassar College, and the benefits of teaching applied science (cooking), 1861-1880; his report on a trip to Europe, 1863; photocopy and typescript of his <emph render="underline"> Origin of Vassar </emph>; obituaries of Jewett, 1882, and his wife, 1889; a Vassar family letter, 1828; and letters to James Monroe Taylor about Jewett, 1888-1913.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>See also the Benson J. Lossing Papers as well as the Sarah J. Hale Papers, Vassar College Library</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Vassar, Matthew, 1792-1868</persname>
+				<persname source="lcnaf" encodinganalog="600"> Bishop, Nathan, 1808-1880</persname>
+				<persname source="lcnaf" encodinganalog="600"> Anderson, Martin B.</persname>
+				<persname source="lcnaf" encodinganalog="600"> Taylor, James Monroe, 1848-1916</persname>
+				<persname source="lcnaf" encodinganalog="600"> Vassar family</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Presidents</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Employees</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar Female College</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Family--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Education</subject>
+				<subject source="lcsh" encodinganalog="650"> Cookery--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650"> College presidents</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> Europe--Description and travel</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Presidents </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, May 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Last updated November 1999.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of various donors and purchase.</p>
+		</acqinfo>
+		<originalsloc encodinganalog="535">
+			<head>Location of Originals</head>
+			<p> Some originals are located at University of Rochester and at Dartmouth College. </p>
+		</originalsloc>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Milo Parker Jewett Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.1 </container>
+					<unittitle> Letters to Matthew Vassar, Nathan Bishop, and others, </unittitle>
+					<physdesc> (15 letters) </physdesc>
+					<unitdate type="inclusive"> 1856-1882 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.2 </container>
+					<unittitle> Positive photocopies of 10 Jewett letters to Martin B. Anderson, from the University of Rochester Library, </unittitle>
+					<physdesc> (10 photocopies) </physdesc>
+					<unitdate type="inclusive"> 1861-1866 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.3 </container>
+					<unittitle> Letters to Jewett, </unittitle>
+					<physdesc> (7 letters) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript documents by Jewett with related correspondence. </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.5 </container>
+					<unittitle> Publications:<emph render="italic"> Vassar Female College: Report on Organization, </emph>
+					</unittitle>
+					<unitdate type="inclusive"> 1863 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.5 </container>
+					<unittitle> Publications:<emph render="italic"> Vassar Female College: The President's Visit to Europe, </emph>
+					</unittitle>
+					<unitdate type="inclusive"> 1863 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.5 </container>
+					<unittitle> Publications: <emph render="italic"> In Memoriam: Milo Parker Jewett, </emph>
+					</unittitle>
+					<unitdate type="inclusive"> 1882 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.1 </container>
+					<unittitle> Correspondence with James Monroe Taylor relating to Jewett, </unittitle>
+					<physdesc> (6 letters) </physdesc>
+					<unitdate type="inclusive"> 1888-1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 2.2-2.3 </container>
+					<unittitle> Photocopies of materials relating to Jewett, </unittitle>
+					<unitdate type="inclusive"> 1828-1882 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.4 </container>
+					<unittitle> Photocopies of Jewett materials in Dartmouth College Archives. </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Handwritten copies of Jewett's manuscript, Origin of Vassar College. </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.1 </container>
+					<unittitle> Handwritten copy of Jewett’s manuscript, <emph render="underline"> Origin of Vassar College, </emph> originally given to Mrs. Mary Jameson and bound with a copy of <emph render="italic"> Catalogue of the Trustees, Officers and Students of the Judson Female Institute: Marion, Perry County, Alabama </emph> (Marion, AL, 1855) and <emph render="italic"> Memorial of Milo Parker Jewett, LL.D. </emph> (Milwaukee, 1882), as well as several letters providing the provenance of the bound manuscript. </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.2 </container>
+					<unittitle> Typescript of <emph render="underline"> Origin of Vassar College,</emph>
+					</unittitle>
+					<physdesc> (in binder) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.3-4.4 </container>
+					<unittitle> Miscellaneous negative photostatic copies </unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

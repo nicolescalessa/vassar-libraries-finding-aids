@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_whitney_marian </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Marian Parker Whitney Papers, 1842-1945 (bulk 1871-1945)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Whitney, Marian P. (Marian Parker), 1861-</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Marian Parker Whitney Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive dates:" encodinganalog="245$f"> 1842-1945 </unitdate>
+			<unitdate type="bulk" label="Bulk dates:" encodinganalog="245$f"> 1871-1945 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 6.4 cubic feet (8 boxes and 1 tube)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Materials relating to Whitney's position at Vassar College as well as her involvement with the American Association of University Professors, the International Council of Women, the National Council of Women, Connecticut Association of Working Girls' Clubs, and other women's groups. There are also biographical materials, including correspondence and diaries, containing information about Whitney's family, intellectual pursuits, travels and other personal issues.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Marian Parker Whitney (1861-1946), was an educator and daughter of the distinguished scholar, William Dwight Whitney. She was born in New Haven, CT, and attended private schools in this country and in Europe. She did graduate work at the Universities of Paris and Zurich and received a Ph.D. from Yale in 1901. After several years of teaching high school in New Haven, Miss Whitney became a professor of German at Vassar in 1905, serving as chairperson of the department for many years. One of her interests was the theater, and she introduced a popular course on contemporary comparative drama. She was author and editor of many French and German grammars and textbooks.</p>
+			<p>Miss Whitney's interests beyond Vassar were extensive. She was active in professional organizations of language teachers and in the American Association of University Professors. She was deeply concerned with improving women's social and political status. As a leading member of both the National and International Council of Women, Whitney visited Europe in 1919-1920 to study changes in women's education brought about by World War I. A supporter of separate education for women, Miss Whitney served as a trustee of Connecticut College for Women. Her death in 1946 followed a long illness.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Family correspondence includes letters received by her father William Dwight Whitney, 1842-1850; her correspondence with her parents, 1872-1891; and letters received from other family members, 1872-1900. Personal correspondence, 1871-1905, from Jennie and Fannie Bailey, Amanda Brewster, Honor Brooke, Beatrice Chamberlain, Eva Channing, Elizabeth Whitney Putnam, Marie Souvestre, Bessie M. Townsend, and Edith Woolsey concerning intellectual pursuits, travels, Brooke's work with a working girls' club in London (1889), family affairs, and other personal news. Papers from her Vassar position include minutes, reports, materials from her German and drama courses, correspondence with Presidents Taylor and MacCracken, and letters from students. Correspondence, programs, reports, bills, and other items from her work with the American Association of University Professors, the International Council of Women, the National Council of Women, Connecticut Association of Working Girls' Clubs, and
+				other women's groups, 1919-1934. Scrapbooks, class notebooks, and several manuscripts, 1871-1891 and undated; diaries from 1873 to 1945; and correspondence and other materials from trips to Europe, England, and Japan, 1886-1920.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Whitney, William Dwight, 1827-1894</persname>
+				<persname source="lcnaf" encodinganalog="600"> Bailey, Fannie</persname>
+				<persname source="lcnaf" encodinganalog="600"> Bailey, Jennie</persname>
+				<persname source="lcnaf" encodinganalog="600"> Brewster, Amanda</persname>
+				<persname source="lcnaf" encodinganalog="600"> Brooke, Honor</persname>
+				<persname source="lcnaf" encodinganalog="600"> Chamberlain, Beatrice</persname>
+				<persname source="lcnaf" encodinganalog="600"> Channing, Eva</persname>
+				<persname source="lcnaf" encodinganalog="600"> Putnam, Elizabeth Whitney</persname>
+				<persname source="lcnaf" encodinganalog="600"> Souvestre, Marie</persname>
+				<persname source="lcnaf" encodinganalog="600"> Townsend, Bessie M.</persname>
+				<persname source="lcnaf" encodinganalog="600"> Woolsey, Edith</persname>
+				<persname source="lcnaf" encodinganalog="600"> Taylor, James Monroe, 1848-1916</persname>
+				<persname source="lcnaf" encodinganalog="600"> MacCracken, H. N. (Henry Noble), 1880-1970</persname>
+				<persname source="lcnaf" encodinganalog="600"> Whitney family</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> American Association of University Professors</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> International Council of Women</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> National Council of Women of the United States</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Connecticut Association of Working Girls' Clubs</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Family--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Societies and clubs</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--England--London--Societies and clubs</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Employment</subject>
+				<subject source="lcsh" encodinganalog="650"> German language--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650"> Drama--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Diaries</subject>
+				<subject source="lcsh" encodinganalog="650"> Women college teachers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> Europe--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651"> England--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651"> Japan--Description and travel</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Scrapbooks</genreform>
+				<genreform source="aat" encodinganalog="655"> Diaries</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Family </subject>
+				<subject source="local" encodinganalog="690"> Travel </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+				<subject source="local" encodinganalog="690"> Women's History </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. </p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of estate of Emily Whitney.</p>
+			<p>2 Whitney items were found in Carl Friedrich Gauss's <emph render="underline">Theoria Mutus Corporum...</emph> (Grille 521.3 G237) and added to Multiple Collections at an unknown time. They were transferred from there to the Whitney collection (folder 4.20), March 2007.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Marian Parker Whitney Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence</unittitle>
+					<physdesc>(Boxes 1-2)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Professional Career</unittitle>
+					<physdesc>(Boxes 3-4)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Women's organizations</unittitle>
+					<physdesc>(Boxes 5-6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Miscellaneous</unittitle>
+					<physdesc>(Box 7, tube)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. Correspondence </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1 </container>
+						<unittitle> Clippings, pictures, and miscellaneous items relating to family</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle> Family letters to William Dwight Whitney, father of M.P. W., </unittitle>
+						<unitdate type="inclusive"> 1842-1850 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> William D. Whitney's letters to M.P. W. and her letters to him, </unittitle>
+						<unitdate type="inclusive"> 1872-1891 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4 </container>
+						<unittitle> M.P.W.'s letters to unidentified persons</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 1.5-1.8 </container>
+						<unittitle> M.P.W.'s letters to her mother's letters to her and other family members</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9-1.10 </container>
+						<unittitle> Letters to Emily (sister) from M.P.W. and Emily's letters to her</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 1.11-1.12 </container>
+						<unittitle> Emily's letters to her parents and letters from others to her</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 1.13-1.14 </container>
+						<unittitle> Letters to Margaret (sister) from M.P.W. and Margaret's letters to her</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 1.15-1.16 </container>
+						<unittitle> Letters of Edward B. Whitney (brother), mostly to M.P.W., </unittitle>
+						<unitdate type="inclusive"> ca. 1875-1900 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.17 </container>
+						<unittitle> Letters of Josepha (wife of Edward) to M.P.W. and her mother</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.18 </container>
+						<unittitle> Letters of congratulation to Edward on his appointment as Assistant U.S. Attorney General, </unittitle>
+						<unitdate type="inclusive"> 1893 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.19 </container>
+						<unittitle> Letters from Emily Baldwin (grandmother), </unittitle>
+						<unitdate type="inclusive"> 1872-1873 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.19 </container>
+						<unittitle> Letters from Roger Whitney (brother), </unittitle>
+						<unitdate type="inclusive"> 1872 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.20 </container>
+						<unittitle> Letters of aunts and uncles</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.21 </container>
+						<unittitle> Letters of "cousins." </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.1-2.2 </container>
+						<unittitle> Letters from "Elizabeth." </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.3 </container>
+						<unittitle> Letters from Jennie and Fannie Bailey, </unittitle>
+						<unitdate type="inclusive"> 1871-1891 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.4 </container>
+						<unittitle> Letters from Amanda Brewster</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.5 </container>
+						<unittitle> Letters from Honor Brooke, </unittitle>
+						<unitdate type="inclusive"> 1880-1898 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.6-2.7 </container>
+						<unittitle> Letters from Beatrice Chamberlain, </unittitle>
+						<unitdate type="inclusive"> 1880-1903 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.8 </container>
+						<unittitle> Letters from Eva Channing, </unittitle>
+						<unitdate type="inclusive"> 1879, 1898 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.9 </container>
+						<unittitle> Letters from Marie Souvestre, </unittitle>
+						<unitdate type="inclusive"> 1880-1896 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.9 </container>
+						<unittitle> Marie Souvestre's death, </unittitle>
+						<unitdate type="inclusive"> 1905 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.10 </container>
+						<unittitle> Letters from Bessie M. Townsend, </unittitle>
+						<unitdate type="inclusive"> 1883-1896 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.11 </container>
+						<unittitle> Letters from Edith Woolsey</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.12-2.19 </container>
+						<unittitle> Miscellaneous correspondence</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II. Professional Career </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.1 </container>
+						<unittitle> Honors</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.2 </container>
+						<unittitle> Ph.D. from Yale</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.3 </container>
+						<unittitle> Positions and offers of positions prior to Vassar. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.4 </container>
+						<unittitle> New Haven High School</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.5 </container>
+						<unittitle> Appointment Professor of German, Vassar College, </unittitle>
+						<unitdate type="inclusive"> 1905 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.6 </container>
+						<unittitle> Correspondence with Presidents Taylor and MacCracken. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.7 </container>
+						<unittitle> V.C. faculty committees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.8 </container>
+						<unittitle> V.C. German Department appointments and leaves. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.9 </container>
+						<unittitle> German Department student assistants</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.10 </container>
+						<unittitle> German Department changes in requirements</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.11 </container>
+						<unittitle> Letters from students</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.12 </container>
+						<unittitle> German Department curriculum, </unittitle>
+						<unitdate type="inclusive"> 1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.13 </container>
+						<unittitle> Oral tests in modern languages</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.14 </container>
+						<unittitle> German Department questions of students</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.15 </container>
+						<unittitle> Committee on College Lectures</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.16 </container>
+						<unittitle> Fellowships</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.17 </container>
+						<unittitle> Visiting lecturers in German Department</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.18 </container>
+						<unittitle> V.C. comparative drama course</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.19 </container>
+						<unittitle> Comparative Drama exams</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.20 </container>
+						<unittitle> Contemporary Drama</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.21 </container>
+						<unittitle> Contemporary German Drama</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.22-3.25 </container>
+						<unittitle> V.C. German courses</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.26 </container>
+						<unittitle> V.C. German graduate courses</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.27 </container>
+						<unittitle> Modern foreign language study</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.28 </container>
+						<unittitle> Gustab Falke autobiography</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.29 </container>
+						<unittitle> V.C. Modern Language Week</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.30 </container>
+						<unittitle> V.C. German-French Departments</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.31 </container>
+						<unittitle> Material on German readers by M.P.W</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 4.1-4.2 </container>
+						<unittitle> Invitations, engagements, and weddings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.3 </container>
+						<unittitle> London, </unittitle>
+						<unitdate type="inclusive"> 1886 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.4 </container>
+						<unittitle> Canal Boat letters, </unittitle>
+						<unitdate type="inclusive"> 1886 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.5 </container>
+						<unittitle> Paris, </unittitle>
+						<unitdate type="inclusive"> 1895 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.6-4.7 </container>
+						<unittitle> Europe, </unittitle>
+						<unitdate type="inclusive"> 1897-1898 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.6-4.7 </container>
+						<unittitle> M.P.W.'s letters from Europe, </unittitle>
+						<unitdate type="inclusive"> 1897 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.8 </container>
+						<unittitle> Trip to Japan, </unittitle>
+						<unitdate type="inclusive"> 1900 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.9 </container>
+						<unittitle> Spain, </unittitle>
+						<unitdate type="inclusive"> 1902 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.10 </container>
+						<unittitle> England and France, </unittitle>
+						<unitdate type="inclusive"> 1904 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.11 </container>
+						<unittitle> M.P.W.'s letters from England and Germany, </unittitle>
+						<unitdate type="inclusive"> 1908 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.12 </container>
+						<unittitle> Passport, </unittitle>
+						<unitdate type="inclusive"> 1920 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.13 </container>
+						<unittitle> Bills and receipts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.14 </container>
+						<unittitle> Carving designs and drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.15 </container>
+						<unittitle> Saturday Morning club. Programs, correspondences, etc. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.16 </container>
+						<unittitle> Organizations (recreational), programs, and hobbies. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.17 </container>
+						<unittitle> American Association of University Professors. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.18 </container>
+						<unittitle> Connecticut Association of Classical and High School Teachers</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.19 </container>
+						<unittitle> New England Modern Language Association and MLA </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.20 </container>
+						<unittitle> Miscellaneous manuscripts and notes </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.21 </container>
+						<unittitle> Manuscript: "Occupations of Women," </unittitle>
+						<unitdate type="inclusive"> (about 1883?) </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.22 </container>
+						<unittitle> Manuscript on Josiah Gibbs by Margaret D. Whitney, </unittitle>
+						<unitdate type="inclusive"> 1937 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.23 </container>
+						<unittitle> German manuscript by unknown author </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III. Women's organizations </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.1 </container>
+						<unittitle> International Council of Women (ICW), General. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.2 </container>
+						<unittitle> ICW reports, </unittitle>
+						<unitdate type="inclusive"> 1923, 1929-1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.3 </container>
+						<unittitle> ICW "current business," </unittitle>
+						<unitdate type="inclusive"> 1924 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.4 </container>
+						<unittitle> ICW business for Washington Reports, etc., </unittitle>
+						<unitdate type="inclusive"> 1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.5-5.6 </container>
+						<unittitle> ICW Washington meeting and conferences, </unittitle>
+						<unitdate type="inclusive"> 1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.7-5.9 </container>
+						<unittitle> ICW correspondence, </unittitle>
+						<unitdate type="inclusive"> 1920-1934 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.10 </container>
+						<unittitle> ICW programs, letters, resolutions, etc</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.11 </container>
+						<unittitle> ICW Bulletins</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 5.12-5.13 </container>
+						<unittitle> ICW Executive Committee. Meetings at Copenhagen, 1924, and Stockholm, 1933</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 5.14-5.16 </container>
+						<unittitle> ICW Committee on Education. Circular letters, bills, programs, questionnaires, and correspondence </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 5.17-5.18 </container>
+						<unittitle> ICW Committee on Education. Reports, and correspondence, </unittitle>
+						<unitdate type="inclusive"> 1920-1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 6.1-6.5 </container>
+						<unittitle> ICW Committee on Education. Reports, </unittitle>
+						<unitdate type="inclusive"> 1925-1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.6 </container>
+						<unittitle> ICW Committee on Education. Questionnaires, </unittitle>
+						<unitdate type="inclusive"> 1925-1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.7 </container>
+						<unittitle> ICW Committee on Education, </unittitle>
+						<unitdate type="inclusive"> 1931-1934 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.8 </container>
+						<unittitle> ICW Committee on Education. Report for Council Meeting, </unittitle>
+						<unitdate type="inclusive"> 1934 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.9 </container>
+						<unittitle> ICW Film Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 6.10-6.12 </container>
+						<unittitle> National Council of Women, </unittitle>
+						<unitdate type="inclusive"> 1919-1934 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.13 </container>
+						<unittitle> Comite d'Education Feminine</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.14 </container>
+						<unittitle> Congres International de la Condition et des Droits des Femmes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.15 </container>
+						<unittitle> International Federation of University Women. Conference at Edinburgh, </unittitle>
+						<unitdate type="inclusive"> 1932 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.16 </container>
+						<unittitle> Connecticut Association of Working Girls' Clubs. </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Series IV. Miscellaneous </unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Scrapbook, </unittitle>
+						<physdesc> (1 volume) </physdesc>
+						<unitdate type="inclusive"> 1876-1891 </unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Notebooks from George B. Adams' course in medieval institutions, </unittitle>
+						<physdesc> (3 volumes) </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Class book, </unittitle>
+						<physdesc> (1 volume) </physdesc>
+						<unitdate type="inclusive"> 1894 </unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Autograph albums, </unittitle>
+						<physdesc> (2 volumes) </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Diaries, </unittitle>
+						<physdesc> (20 volumes) </physdesc>
+						<unitdate type="inclusive"> 1873-1945 </unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Tube </container>
+						<unittitle> Yale Ph.D. diploma </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

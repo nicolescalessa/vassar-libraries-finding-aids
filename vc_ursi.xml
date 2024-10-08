@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_ursi
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Undergraduate Research Summer Institute Records, 1986-2005</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>July 2007</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>July 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College Undergraduate Research Summer Institute</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Vassar College Undergraduate Research Summer Institute Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1986-2005 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 0.3 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Materials relating to the creation and development of the Undergraduate Research Summer Institute (URSI).</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History </head>
+			<p>Vassar College's Undergraduate Research Summer Institute (URSI) was founded in 1986 to allow students and faculty to work together in the summer on research projects. The program culminates in the fall with the URSI Symposium, where the researchers present the projects' findings.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Publications, reports and other materials relating to the creation and development of the Undergraduate Research Summer Institute (URSI).</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Undergraduate Research Summer Institute</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Science--study and teaching</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Special Programs and Projects </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, July 2007</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, July 2007</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Transferred from URSI in 2007 (A2007-041)</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Undergraduate Research Summer Institute Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Symposium programs,</unittitle>
+					<unitdate type="inclusive">1987-2005</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Initial proposal,</unittitle>
+					<unitdate type="inclusive">1986</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Overview,</unittitle>
+					<unitdate type="inclusive">2005</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Survey,</unittitle>
+					<unitdate type="inclusive">2005</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Student Lists,</unittitle>
+					<unitdate type="inclusive">1986-2005</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Publications</unittitle>
+					<unitdate type="inclusive"/>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

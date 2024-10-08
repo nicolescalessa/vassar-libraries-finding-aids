@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_vc_presidents_taylor </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the James Monroe Taylor Papers, 1865-1916</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Taylor, James Monroe, 1848-1916</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> James Monroe Taylor Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1865-1916 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 4.2 cubic feet (20 boxes and 1 metal tube)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Personal and professional papers relating to Taylor's tenure as President of Vassar College as well as his larger interests in education and religion. Includes correspondence, manuscripts, clippings, photographs, articles, and certificates.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>James Monroe Taylor (1848-1916), fourth president of Vassar College, was born in Brooklyn, NY, and pursued his undergraduate studies at the University of Rochester. In 1871 he was graduated from Rochester Theological Seminary and was ordained in the Baptist ministry. After a year of travel in Europe he assumed pastorates in South Norwalk CT, and later in Providence, RI. He was married in 1873 to Kate Huntington.</p>
+			<p>In 1886 the trustees of Vassar elected James Monroe Taylor president of the college. One of his first actions upon arriving at Vassar was to abolish the preparatory division, a step that did much to raise academic standards. Taylor also worked for the endowment of professorships and broadened the curriculum to include history, economics, psychology, religion, art, and music, as well as more laboratory-based science courses. During his twenty-eight-year administration the student body more than tripled in size, and Taylor inspired in Vassar graduates an intense loyalty to the college. He turned down an offer to the presidency of Brown University in 1899. As president, Taylor conducted daily chapel, regularly taught classes, administered most of the details of the college's academic operations, and found time to write several books. He set a high standard at Vassar for academic excellence. He also toured and spoke frequently, enhancing both Vassar's reputation and his own standing
+				as an educator. When Taylor retired in 1914, he had been in poor health; and he died from pneumonia two years later.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Taylor Papers primarily concern Vassar College and the education of women and include his manuscript addresses, articles, and sermons, 1868-1913; records of faculty appointments at Vassar, ca. 1887-ca. 1913; correspondence, including his letters to Cornelia M. Raymond, 1886-1916, concerning offer of the Presidency at Brown University, lecture at Vassar by Charles Zueblin, student issues, woman's suffrage, founding date of Mount Holyoke College, religious questions, protection of Vassar students, Vassar students and the New York shirtwaist workers strike of 1910, faculty matters including a conflict between Abby Leach and Grace H. Macurdy, and other issues related to women's education; copies of his publications; notes, research materials, and manuscript of his book <emph render="underline"> Before Vassar Opened </emph>; and clippings, photographs, passport, certificates, and other miscellaneous items.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p><archref href="https://hdl.handle.net/2027/uc1.$b18345">The Life and Letters of James Monroe Taylor, by Elizabeth Hazelton Haight, 1919 (via Hathi Trust) </archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Raymond, Cornelia M., 1861-1952</persname>
+				<persname source="lcnaf" encodinganalog="600"> Zueblin, Charles, 1866-1924</persname>
+				<persname source="lcnaf" encodinganalog="600"> Leach, Abby, 1855-1918</persname>
+				<persname source="lcnaf" encodinganalog="600"> Macurdy, Grace Harriet</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Brown University</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Mount Holyoke College</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Presidents</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Women college students--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Education</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Suffrage</subject>
+				<subject source="lcsh" encodinganalog="650"> Baptists--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Strikes and lockouts--Clothing trade</subject>
+				<subject source="lcsh" encodinganalog="650"> Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Clergy</subject>
+				<subject source="lcsh" encodinganalog="650"> College presidents</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> Poughkeepsie (N.Y.)--Religious life and customs</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+				<genreform source="aat" encodinganalog="655"> Sermons</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Presidents </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Description of materials in box 19 added March 2007 by Laura Finkel. Items from Mary Taylor Gunman (A2007-038) added July 2007 by Laura Streett.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gifts of James Monroe Taylor, Margaret E. Taylor, Cornelia Raymond, and Mary Taylor Gunman. </p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>James Monroe Taylor Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.1 </container>
+					<unittitle> Addresses and articles, </unittitle>
+					<physdesc> (mainly mss) </physdesc>
+					<unitdate type="inclusive"> n.d. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.2 </container>
+					<unittitle> Addresses and articles, </unittitle>
+					<physdesc> (mainly mss) </physdesc>
+					<unitdate type="inclusive"> 1868-1874 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.3 </container>
+					<unittitle> Addresses and articles, </unittitle>
+					<physdesc> (mainly mss) </physdesc>
+					<unitdate type="inclusive"> 1881-1886 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Addresses and articles, </unittitle>
+					<physdesc> (mainly mss) </physdesc>
+					<unitdate type="inclusive"> 1895-1901 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.5 </container>
+					<unittitle> Addresses and articles, </unittitle>
+					<physdesc> (mainly mss) </physdesc>
+					<unitdate type="inclusive"> 1903-1904 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.6 </container>
+					<unittitle> Addresses and articles, </unittitle>
+					<physdesc> (mainly mss) </physdesc>
+					<unitdate type="inclusive"> 1905-1908 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.7 </container>
+					<unittitle> Addresses and articles, </unittitle>
+					<physdesc> (mainly mss) </physdesc>
+					<unitdate type="inclusive"> 1909-1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.8 </container>
+					<unittitle> Address at dedication of Taylor Hall, </unittitle>
+					<unitdate type="inclusive"> May 1915 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.9 </container>
+					<unittitle> Clippings about addresses </unittitle>
+					<physdesc> (photocopies) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3.10 </container>
+					<unittitle> Miscellaneous sermons, </unittitle>
+					<unitdate type="inclusive"> 1878, 1880 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3.11 </container>
+					<unittitle> Baccalaureate sermons, </unittitle>
+					<unitdate type="inclusive"> 1887-1894 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3.12 </container>
+					<unittitle> Baccalaureate sermons, </unittitle>
+					<unitdate type="inclusive"> 1895-1905 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3.13 </container>
+					<unittitle> Baccalaureate sermons, </unittitle>
+					<unitdate type="inclusive"> 1906-1909 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3.14 </container>
+					<unittitle> Baccalaureate sermons, </unittitle>
+					<unitdate type="inclusive"> 1910-1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 4.15-4.16 </container>
+					<unittitle> National Education Association materials </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.17 </container>
+					<unittitle> Faculty appointments A - B </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.18 </container>
+					<unittitle> Faculty appointments C - H </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.19 </container>
+					<unittitle> Faculty appointments J - P </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.20 </container>
+					<unittitle> Faculty appointments R </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.21 </container>
+					<unittitle> Faculty appointments S - Z </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.22 </container>
+					<unittitle> Miscellaneous biographical materials </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.22 </container>
+					<unittitle> Miscellaneous biographical and family materials, </unittitle>
+					<unitdate>ca. 1890-1917</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.23 </container>
+					<unittitle> Miscellaneous Taylor and Vassar materials </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.24 </container>
+					<unittitle> Letters written by Taylor, </unittitle>
+					<unitdate type="inclusive"> 1886-1898, n.d. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.25 </container>
+					<unittitle> Letters written by Taylor, </unittitle>
+					<unitdate type="inclusive"> 1899-1915 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.26 </container>
+					<unittitle> Letters written by Taylor to Cornelia M. Raymond, </unittitle>
+					<unitdate type="inclusive"> 1887-1916 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.26a </container>
+					<unittitle> Letters to Taylor, </unittitle>
+					<unitdate type="inclusive"> 1886-1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.27 </container>
+					<unittitle> Taylor - Brown University correspondence, including invitation to become president of Brown University,</unittitle>
+					<unitdate type="inclusive"> 1898-1899 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.28 </container>
+					<unittitle> Letter of refusal to Brown University </unittitle>
+					<physdesc> (printed copies) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.29 </container>
+					<unittitle> Alumnae correspondence re: Brown University</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.30 </container>
+					<unittitle> Faculty correspondence re: Brown University </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.31 </container>
+					<unittitle> Miscellaneous correspondence re: Brown University </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.32 </container>
+					<unittitle> Clippings re: Brown University's invitation, </unittitle>
+					<physdesc> (photocopies) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 8.33-8.36 </container>
+					<unittitle> Abby Leach - Grace H. Macurdy conflict, </unittitle>
+					<unitdate type="inclusive"> May 1897 - Oct 1910 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 9.37 </container>
+					<unittitle> Correspondence relating to controversial lecture at Vassar by Charles Zueblin, </unittitle>
+					<unitdate type="inclusive"> 1910 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 9.38 </container>
+					<unittitle> Letter to Vassar's "Reconstruction Committee," </unittitle>
+					<unitdate type="inclusive"> 23 April 1887 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 9.39 </container>
+					<unittitle> List of books in James Monroe Taylor's library </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 9.40 </container>
+					<unittitle> James Monroe Taylor's reading lists and notes </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 9.41 </container>
+					<unittitle> James Monroe Taylor's "reviews" of books read </unittitle>
+					<physdesc> (bound ledger) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 10.42 </container>
+					<unittitle> Obituaries, eulogies and memorials</unittitle>
+					<physdesc> (including photocopies of many clippings) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 10.42a </container>
+					<unittitle> Publication: <emph render="underline">James Monroe Taylor; a Memorial </emph>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 10.43 </container>
+					<unittitle> Taylor family </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 11.44-11.46 </container>
+					<unittitle> James Monroe Taylor's publications </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 12.47-12.48 </container>
+					<unittitle>
+						<emph render="underline"> Before Vassar Opened </emph> — notes and data </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 12.49 </container>
+					<unittitle><emph render="underline"> Before Vassar Opened</emph> — Materials used, including catalogues of Brown, Harvard and Yale, 1865-1866 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 13.50 </container>
+					<unittitle>
+						<emph render="underline"> Before Vassar Opened</emph> — Materials used, including Cornell catalogue, 1876-1877 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 13.51 </container>
+					<unittitle>
+						<emph render="underline"> Before Vassar Opened</emph> — Manuscript</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 13.52 </container>
+					<unittitle>
+						<emph render="underline"> Vassar</emph> [by Taylor and Haight] — notes and mss. on Samuel L. Caldwell for Chapter VI </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 14.53-14.54 </container>
+					<unittitle> Photographs — early and miscellaneous information concerning photos </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 14.55 </container>
+					<unittitle> Photographs — mid-years </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 14.56 </container>
+					<unittitle> Photographs — later </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 15.57 </container>
+					<unittitle> Passports and travel accounts, </unittitle>
+					<unitdate type="inclusive"> 1871, 1895 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 15.58 </container>
+					<unittitle> Presidency of Vassar, Election, etc., </unittitle>
+					<unitdate type="inclusive"> 1886 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 15.59 </container>
+					<unittitle> Clippings — arrival at Vassar and Vassar career </unittitle>
+					<physdesc> (mostly photocopies) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 15.60 </container>
+					<unittitle> Clippings — Vassar </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 15.61 </container>
+					<unittitle> Expulsion of Elizabeth Rector, special student, </unittitle>
+					<unitdate type="inclusive"> 1888 - February 1890 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 15.62 </container>
+					<unittitle> Assignment of space in Rockefeller Hall, </unittitle>
+					<unitdate type="inclusive"> 1897 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 16.62a </container>
+					<unittitle> Suffrage at Vassar — Class of 1912 petition, and miscellaneous correspondence through 1907 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 16.63 </container>
+					<unittitle> Suffrage at Vassar — Correspondence, </unittitle>
+					<unitdate type="inclusive"> 1908 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 16.64 </container>
+					<unittitle> Suffrage at Vassar — Faculty meeting, 19 March 1909 and related matters </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 16.65 </container>
+					<unittitle> Suffrage at Vassar — Correspondence, </unittitle>
+					<unitdate type="inclusive"> 1909-1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 16.66 </container>
+					<unittitle> Suffrage at Vassar — Clippings, </unittitle>
+					<physdesc> (photocopies) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 16.67 </container>
+					<unittitle> Suffrage at Vassar — Letters relating to "The 'Conservatism' of Vassar," an address to Vassar alumnae, </unittitle>
+					<unitdate type="inclusive"> 1909 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.68 </container>
+					<unittitle> Correspondence concerning founding date of Mount Holyoke, </unittitle>
+					<unitdate type="inclusive"> 1909-1911 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.69 </container>
+					<unittitle> Religious questions raised by Bolce article in Cosmopolitan, </unittitle>
+					<unitdate type="inclusive"> 1910 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.70 </container>
+					<unittitle> Correspondence concerning protection of Vassar girls, </unittitle>
+					<unitdate type="inclusive"> 1910 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.71 </container>
+					<unittitle> Correspondence concerning Vassar students and the labor movement, including the New York shirtwaist strike, </unittitle>
+					<unitdate type="inclusive"> 1910 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.72 </container>
+					<unittitle> Whitehead thesis controversy, </unittitle>
+					<unitdate type="inclusive"> 1910 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.73 </container>
+					<unittitle> Correspondence concerning creation of assistant professorships at Vassar, </unittitle>
+					<unitdate type="inclusive"> 1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.74 </container>
+					<unittitle> "Petition of the 13," related to faculty-trustee communication, </unittitle>
+					<unitdate type="inclusive"> 1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.75 </container>
+					<unittitle> James Monroe Taylor's resignation from Vassar, </unittitle>
+					<unitdate type="inclusive"> 1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17.76 </container>
+					<unittitle> Pictures found with the Taylor Papers, </unittitle>
+					<physdesc> (5 items) </physdesc>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 18 </container>
+					<unittitle> A collection of mss and papers used in preparing <emph render="underline"> Before Vassar Opened </emph>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.1 </container>
+					<unittitle> Biographical notes collected by Taylor re: Charles A. Raymond </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.2 </container>
+					<unittitle> Correspondence — Mary W. Whitney to Taylor, </unittitle>
+					<unitdate type="inclusive"> 25, 27 Jan 1913, n.d. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.3 </container>
+					<unittitle> Correspondence — Paul Monroe to Taylor, </unittitle>
+					<unitdate type="inclusive"> 9 Dec 1913 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.4 </container>
+					<unittitle> Correspondence — Edward Lathrop to Taylor, </unittitle>
+					<unitdate type="inclusive"> 7 June 1905 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.5 </container>
+					<unittitle> Correspondence — F.C. French — to and from Taylor, </unittitle>
+					<unitdate type="inclusive"> 8 June 1900 - 14 May 1902 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.6 </container>
+					<unittitle> Correspondence — Minna Hinkel re: resignation of her father, Charles Hinkle, </unittitle>
+					<unitdate type="inclusive"> 22 April 1890 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.7 </container>
+					<unittitle> Correspondence — re: resignation and death of Abby F. Goodsell, </unittitle>
+					<unitdate type="inclusive"> 1891, 1893 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.8 </container>
+					<unittitle> Correspondence — LeRoy C. Cooley to Taylor, </unittitle>
+					<unitdate type="inclusive"> 30 Oct 1906 and July 1915 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19.9 </container>
+					<unittitle> Miscellaneous items collected by Taylor re: V.C. history and humor </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 20 </container>
+					<unittitle> Letterbook, </unittitle>
+					<physdesc> (1 item) </physdesc>
+					<unitdate type="inclusive"> 1889-1894 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Tube </container>
+					<unittitle> Diplomas, </unittitle>
+					<physdesc> (3 items) </physdesc>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

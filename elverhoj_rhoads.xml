@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_elverhoj_rhoads</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to William and Sally Rhoads Collection of Elverhoj, 1887-1985 (bulk 1901-1942)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>June 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck <date>June 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Rhoads, William Bertolet, 1944-</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">William and Sally Rhoads Collection of Elverhoj</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1887-1985</unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">1901-1942</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">2.3 cubic feet (6 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<langmaterial label="Languages of Material:">Most materials are in <language
+					langcode="eng">English</language>, with some additional materials in <language
+					langcode="dan">Danish</language>, <language langcode="ger">German</language>,
+				and <language langcode="swe">Swedish</language>.</langmaterial>
+
+			<abstract label="Abstract:" encodinganalog="520$a">This collection consists of artwork, correspondence, printed ephemera, photographs, and publications created by or related to the Elverhoj Colony of Artists and Craftsmen (1912-1934) and its founding members, particularly A. H. (Anders Hansen) Andersen.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>The Elverhoj Colony of Artists and Craftsmen was founded in 1912 in Milton-on-Hudson,
+				New York, by Danish-American artists A. H. (Anders Hansen) Andersen (1874-1944) and Johannes
+				Morton. The name "Elverhøj" translates from Danish as "Elves' Hill." Founding
+				members of the colony also included painter James Scott, his sisters--textile
+				artists Bessie Scott and Henrietta Scott Miller--printmaker Ralph M. Pearson, and
+				silversmith Joseph Popelka, all of whom relocated to the Hudson Valley from Racine,
+				Wisconsin. The colony was best known for its jewelry and metal-work, but they
+				offered instruction in painting, printmaking, bookbinding, and weaving as well. In
+				addition to its role as a studio for resident artists and a workshop for art
+				instruction, the colony also hosted theater performances, exhibitions, concerts, and
+				lectures.</p>
+			<p>The Colony operated The Elverhoj Art Shop in Poughkeepsie, NY, where they sold
+				crafts for many years. In addition to this Poughkeepsie presence, the Elverhoj Colony was also patronized by Vassar president Henry Noble MacCracken,
+				as well as Vassar faculty members Oliver Samuel Tonks and Lucy Maynard Salmon, and
+				Vassar students. A number of Vassar College class rings in the 1910s were also designed by Elverhoj artists. The Elverhoj Colony closed in 1934, when A. H. Andersen lost the property to
+				foreclosure.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection consists of artwork, correspondence, printed ephemera, photographs, and publications created by or related to the Elverhoj Colony of Artists and Craftsmen (1912-1934) and its founding members, particularly A. H. (Anders Hansen) Andersen.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p> The collection is organized in six series: Series I. Artwork, 1901-1940; Series II.
+				Photographs, 1905-1934; Series III. Letters and Financial Records, 1914-1942, 1985;
+				Series IV. Printed Images and Ephemera, 1887-1937; Series V. Publications,
+				1912-1941; Series VI. Silverware, undated. </p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</archref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><extref
+					href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991018944382607396"
+					>Elverhoj: the arts and crafts colony at Milton-on-Hudson by William B. Rhoads
+					and Leslie Melvin</extref>.</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/79c066dd-1c8c-463e-a8fc-a14a6833011f">Elverhoj Colony of Artists and Craftsmen. Vassar College Subject Files, Archives and Special Collections Library, Vassar College Libraries.</archref></p>
+			<p>Vassar College Class Rings, 1920, 1922. Vassar College Realia Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</relatedmaterial>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p>Three publications were removed from the collection and catalogued separately: "John Bauer: Bland Tomtar och Troll" (1918); Kirstein, Gustav, "Max Klinger: Sechs farbige Wiedergaben seiner Werke"; and Winther, Christian, "Hjortens Flugt (Jubeludgave)," 1898.</p>
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Anderson, Anders, 1874-1944</persname>
+				<persname source="lcnaf" encodinganalog="600">Pearson, Ralph M., 1883-1958</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Elverhoj (Art colony)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Art, Danish</subject>
+				<subject source="lcsh" encodinganalog="650">Artist colonies--New York (State)--20th century</subject>
+				<subject source="lcsh" encodinganalog="650">Arts and crafts movement--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Danish Americans--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Decorative arts--New York (State)--20th century</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Milton-on-Hudson (N.Y.)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Bookplates</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Drawings (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Etchings (prints)</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Paintings (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Pamphlets</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Publications</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+				<genreform source="aat" encodinganalog="655">Watercolors (paintings)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Local History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, June 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, June 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of William and Sally Rhoads, October 2022. (M2022-009)</p>
+			<p>The Ralph Pearson print featuring a poem by Zona Gale was the gift of Adelaide Underhill, 1936.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>William and Sally Rhoads Collection of Elverhoj, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Artwork, </unittitle>
+					<unitdate type="inclusive" normal="1901/1940">1901-1940</unitdate>
+					<physdesc>(Boxes 1, 4-6)</physdesc>
+				</did>
+				<scopecontent>
+					<p>
+						This series contains original works of art in pencil, ink, and watercolor--as well as handmade prints--created by members of the Elverhoj Colony of Artists and Craftsmen, including A. H. Andersen, Ralph M. Pearson, and James Scott. The creator of many works in this series is unknown, particularly among the craft designs and renderings of products created by the Elverhoj Colony.
+					</p>
+				</scopecontent>
+				<arrangement>
+					<p>Organized into seven subseries by subject or form and sub-arranged
+						alphabetically by author or title.</p>
+				</arrangement>
+			</c01>
+
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Photographs, </unittitle>
+					<unitdate type="inclusive" normal="1905/1934">1905-1934</unitdate>
+					<physdesc>(Boxes 1, 4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>
+						This series contains photographs of Elverhoj-made crafts, such as lighting fixtures, jewelry, and silverware; Elverhoj classes or events; and other Scandinavian craftsmen and their work. 
+					</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Letters and Financial Records, </unittitle>
+					<unitdate type="inclusive" normal="1914/1985">1914-1942, 1985</unitdate>
+					<physdesc>(Boxes 1-2)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains a small collection of letters, primarily with A. H. Andersen as the recipient, as well as receipts and invoices for purchases of materials and services for the Elverhoj Colony made by A. H. Andersen.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Printed Images and Ephemera, </unittitle>
+					<unitdate type="inclusive" normal="1905/1934">1905-1934</unitdate>
+					<physdesc>(Boxes 1, 4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>
+						This series contains announcements, invitations, pamphlets, and programs related to Elverhoj events, exhibitions, and theatrical performances, as well as several items related to local or related organizations such as The Half-Moon antique shop and the Zodiac Artist Colony. Also included are printed copies of bookplates and cards created by Elverhoj artists, including printed duplicates of original cards and bookplates found in Series I. Artwork. Additional materials include printed images from the late 19th and early 20th-centuries, some of which feature artwork from Elverhoj artists and others which display artwork from Scandinavian and German artists who may have been an influence on the Elverhoj style.
+					</p>
+				</scopecontent>
+				<arrangement>
+					<p>Organized into eight subseries by form, sub-arranged alphabetically by artist
+						or title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Publications, </unittitle>
+					<unitdate type="inclusive" normal="1912/1941">1912-1941</unitdate>
+					<physdesc>(Boxes 2-4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series consists of copies of publications including <emph render="italic">The Craftsman</emph> and <emph render="italic">The Touchstone</emph>, which contain articles or references to Elverhoj, as well as examples of Elverhoj artists' work.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Silverware, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains six silver teaspoons, all marked "ELVERHOJ."</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Artwork, </unittitle>
+					<unitdate type="inclusive" normal="1901/1940">1901-1940</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Bookplate and Card Designs</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>Nelson, Geraldine D., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Print. 6 3/8 in x 5 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>Opffer, Ivan, "Christmas 1913" to Elverhoj, </unittitle>
+							<unitdate type="inclusive" normal="19131224">1913 Dec 24</unitdate>
+							<physdesc>[Pen and ink. 5 5/8 in x 3 1/2 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Pearson, Ralph M., "DUNEHILDE," </unittitle>
+							<unitdate type="inclusive" normal="191710">1917 Oct</unitdate>
+							<physdesc>[Print. 2 7/8 in x 5 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Pearson, Ralph M., "ELVERHOJ GREETINGS CHRISTMAS 1915," </unittitle>
+							<unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate>
+							<physdesc>[Etching. 1 5/8 in x 3 3/8 in (top of sheet heavily stained).
+								2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Pearson, Ralph M., "EX LIBRIS" (View of New York
+								University Library by Stanford White), </unittitle>
+							<unitdate type="inclusive" normal="1914/1915"/>
+							<physdesc>[Pencil drawing. 2 1/2 in x 4 1/2 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Pearson, Ralph M., "EX-LIBRIS-HENRY-H-TIMKEN," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Etching, signed in pencil. 2 5/8 in x 4 3/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Pearson, Ralph M., "EX LIBRIS VC 17," </unittitle>
+							<unitdate type="inclusive" normal="1917">[circa 1917]</unitdate>
+							<physdesc>[Print. 2 in x 3 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.63</container>
+							<unittitle>Pearson, Ralph M., "A Portfolio of Original Etched Bookplates by Ralph M. Pearson," American Bookplate Society, </unittitle>
+							<unitdate type="inclusive" normal="1912/1919">1912-1919</unitdate>
+							<physdesc>[Etching, signed in pencil. 6 in x 9 in. 12 prints]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle>Pearson, Ralph M., "SEASON'S GREETINGS" (Adobe building with
+								walled court, New Mexico?), </unittitle>
+							<unitdate type="inclusive">[no year] Nov 21</unitdate>
+							<physdesc>[Etching, signed in pencil. 1 7/8 in x 3 5/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.64</container>
+							<unittitle>Pearson, Ralph M., "The place where thine honor dwelleth," </unittitle>
+							<unitdate type="inclusive" normal="1914">1914</unitdate>
+							<physdesc>[Etching. 3 in x 9 3/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle>Pearson, Ralph M., Vassar College Library, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Watercolor, pencil, and ink. 4 3/8 in x 6 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.65</container>
+							<unittitle>Pearson, Ralph M., "VASSAR COLLEGE LIBRARY," drafts and alternate versions, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Etching. Various sizes. 9 prints]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle>Pearson, Ralph M., "VASSAR COLLEGE LIBRARY - HENRY NOBLE
+								MACCRACKEN FUND," </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+							<physdesc>[Print. 3 3/4 in x 6 5/8 in]</physdesc>
+						</did>
+					</c03>
+
+					<c03 level="item">
+						<did>
+							<container>Folder 1.4</container>
+							<unittitle>Scott, [James], "Greetings," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Etching. 2 in x 4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>Unknown artist, "Carl J. Smalley," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Print. 2 3/4 in x 7 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>Unknown artist, "A Christmas Carol &amp; a wish for a happy
+								new year from 3 Vandam," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Print. 4 in x 6 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>Unknown artist, "Christmas Greetings from Elverhoj," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Etching (laid down on gray paper). 2 7/8 in x 4 7/8
+								in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>Unknown artist, "EX LIBRIS HARIET HERSLOFF," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 3 1/8 in x 4 7/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Unknown artist, "Greetings from Orchard Beach," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 6 3/8 in x 7 3/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Unknown artist, landscape with trees, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 3 1/2 in x 6 3/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Unknown artist, landscape with trees ("EX LIBRIS" erased), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 3 1/2 in x 6 3/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Unknown artist, room with stove, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Print. 3 3/4 in x 5 3/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Unknown artist, snow-covered house, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Print and pastels. 6 1/2 in x 4 1/2 in]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Craft Designs</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.7</container>
+							<unittitle>[Petersen?], Four small drawings with bird motifs; two of
+								four are for frames, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.8</container>
+							<unittitle>Unknown artist, Escutcheon for keyhole, </unittitle>
+							<unitdate type="inclusive" normal="1900/1909">[190?]</unitdate>
+							<physdesc>[Pencil.]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">In pencil: "Joseph Popelka" and "Roy
+									Hutchinson." Reverse: printed form for invoice of "Racine School
+									of Fine Arts" 190_.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.8</container>
+							<unittitle>Unknown artist(s), Escutcheons and other designs, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.9</container>
+							<unittitle>Unknown artist, Three small drawings with floral motifs, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil.]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">One with reverse printed: "Racine Commercial
+									Art Department." One with plant forms surrounded by added
+									black.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.10</container>
+							<unittitle>Unknown artist, Three small drawings on thin paper with
+								[squid?] motifs, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.11</container>
+							<unittitle>Unknown artist, Windmill and plant forms, front and back, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil.]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Craft Renderings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Light Fixtures</emph></unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.1</container>
+								<unittitle>Ceiling light fixture with three spherical bulbs in
+									petal-like forms hanging from chains, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting copper). 13 15/16 in x 10
+									in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 6.1 (Oversize)</container>
+								<unittitle>Ceiling light fixture consisting of large globe within
+									circular metal frame incised with trefoil and other motifs, and
+									candle holders attached to frame; also smaller version of the
+									globe, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 14 in x 19 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.1</container>
+								<unittitle>Ceiling light fixture with square shade having a low
+									pyramidal top, suspended from ceiling plate by 5 straps , </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 10 in x 14 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 6.2 (Oversize)</container>
+								<unittitle>Dragon Set: Ceiling and wall light fixtures and painting
+									of Viking ships. Dragon heads holding candles, all in Gothic
+									wood-truss ceiling, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 14 in x 19 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">In pencil: "This represents in a general
+										way the connecting hall between the large dining halls—The
+										painting suggested should have its counterpiece on the
+										opposite gable facing the other dining room. The chandeliers
+										throughout both halls should be the same-" Also in pencil:
+										"Designed for Miss Covell/Special."</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 6.2</container>
+								<unittitle>Dragon Set: Ceiling light fixture four dragon heads
+									supporting candles and spherical globe within circular metal
+									frame, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 14 in x 15 3/8 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 6.2 (Oversize)</container>
+								<unittitle>Dragon Set: Ceiling light fixture with four dragon heads,
+									but showing two fixtures suspended from Gothic wood-truss
+									ceiling, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 14 in x 13 3/8 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.2</container>
+								<unittitle>Half-Dome Set: Ceiling light fixture with four candle
+									holders attached to circular frame suspended on four chains
+									(gold or brass and silver or steel version), </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 10 in x 14 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.2</container>
+								<unittitle>Half-Dome Set: Ceiling light fixture with four candle
+									holders attached to circular frame suspended on four chains
+									(silver or steel version), </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 10 3/4 in x 16 1/4 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.3</container>
+								<unittitle>Leaf Set: Ceiling light fixture with three spherical bulb
+									topped with leaf patterns hanging by chains from circular relief
+									medallion, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 13 7/8 in x 8 7/8 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">In pencil: "About 1/3 size" </emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.3</container>
+								<unittitle>Leaf Set: Wall sconce with curved bracket and spherical
+									bulb with leaf ornament, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 13 7/8 in x 9 7/8 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">In pen and ink: "Designed for Mr. von
+										Hoffman" In pencil: "About 2/3 size-" </emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 6.3 (Oversize)</container>
+								<unittitle>Table lamp with copper shade and ornaments and gray metal
+									base and frame, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 14 in x 19 1/8 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.1</container>
+								<unittitle>Wall light fixture, bulb hanging by chain from bracket
+									attached to horizontal wall fixture, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting copper). 9 7/8 in x 14 7/8
+									in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">In pencil: "32.50 a pair" and "C...
+										706"</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.4</container>
+								<unittitle>Wall sconce with bracket and spherical lamp bulb,
+									three-lobed leaf motif, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 10 in x 13 7/8 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">Inscribed in ink: "Designed for Spencer
+										Kellogg Jr." In pencil: "in copper 30—a pair--"</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 6.3 (Oversize)</container>
+								<unittitle>Wall sconce with curved bracket and lantern having door
+									with latch, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 11 3/8 in x 18 1/2 in (right side of paper
+									trimmed away)]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 6.1 (Oversize)</container>
+								<unittitle>Wall sconce with curved bracket and lantern having
+									trefoils, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting copper). 17 7/8 in x 18 5/8
+									in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.4</container>
+								<unittitle>Wall sconce with human face and curved bracket and
+									spherical bulb with plant forms., </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting copper). 14 in x 9 3/8
+									in]</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Jewelry</emph></unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Folder 1.12</container>
+								<unittitle>Bar pin, gold with red stone, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 4 in x 3 5/8 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">Stamped: "Elverhoj Colony of Artists &amp;
+										Craftsmen." Inscribed in ink: "Designed for Mrs.
+										Norton."</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 1.12</container>
+								<unittitle>Links, silver with inset polychrome oval, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 3 3/4 in x 3 3/4 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">Stamped "Elverhoj Colony Art Shop/Market
+										&amp; Cannon Sts./Poughkeepsie, N.Y." Pen and ink:
+										"Links-Silver-Pair $10" and "Designed for Mrs.
+										Norton."</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 5</container>
+								<unittitle>Pendant with colorful floral group on chain, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 3 1/4 in x 5 5/8 in. Framed]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">Stamped: "Elverhoj Colony of Artists &amp;
+										Craftsmen." Inscribed in ink: "Designed for Mrs.
+										Doran."</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 1.12</container>
+								<unittitle>Pendant with green stone and floral motifs, </unittitle>
+								<unitdate type="inclusive" normal="1917">circa 1917</unitdate>
+								<physdesc>[Watercolor. 3 5/8 in x 5 5/8 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">Stamped: "Elverhoj Colony of Artists &amp;
+										Craftsmen." Inscribed in ink: "Designed for Mrs.
+										Norton."</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 1.12</container>
+								<unittitle>"Shirt-waist set, actual size. Flora Americano. Corals
+									and pearls," </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 6 3/4 in x 3 in]</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Other Objects</emph></unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.5</container>
+								<unittitle>Box with copper trim and hinges, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 14 5/8 in x 10 1/8 in]</physdesc>
+							</did>
+							<scopecontent>
+								<p><emph render="italic">Faintly in pencil: "...this size
+										$36.00"</emph></p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.5</container>
+								<unittitle>Desk set with blotter, box, letter holder, ink well, and
+									bud vase, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting copper). 16 1/8 in x 8 3/4
+									in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.5</container>
+								<unittitle>Desk set with blotter, box, letter holder, ink well,
+									tray, and letter opener, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (gray, suggesting silver or steel). 14 in x 7
+									5/8 in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.5</container>
+								<unittitle>Vase with two handles, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting silver). 6 in x 13 1/8
+									in]</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Tableware</emph></unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Folder 1.13</container>
+								<unittitle>Pitcher with handle and spout, petal-like design, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting silver). 7 1/2 in x 9 1/8
+									in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 1.13</container>
+								<unittitle>Sugar bowl with two handles, petal-like design. Viewed
+									from side and above, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting copper). 7 1/2 in x 10
+									in]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.6</container>
+								<unittitle>Tea or coffee pot with creamer and sugar bowl on tray, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor (suggesting copper). 14 7/8 in x 13 1/4 in
+									(areas of dark stain)]</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folder 4.6</container>
+								<unittitle>Tea or coffee pot with petal-like design, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+								<physdesc>[Watercolor. 14 in x 9 1/2 in]</physdesc>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Figures</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>Andersen, A. H., bare breasted woman, seated (signed), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 7 7/8 in x 9 7/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>Andersen, A. H., bare breasted woman, standing with cloth
+								falling from her head over her torso (signed), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 5 1/4 in x 9 7/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>Andersen, A. H., Standing man, head lowered (signed in
+								pencil), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pen and ink drawing, dense web of lines. 5 1/4 in x 10
+								in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>Andersen, A. H., three figures fishing in small boat
+								(signed), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil and ink. 8 5/8 in x 5 1/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.15</container>
+							<unittitle>[Andersen, Anders H.?], Two trolls, one holding up a man, </unittitle>
+							<unitdate type="inclusive">[no year] Oct 5</unitdate>
+							<physdesc>[Pen and ink and gray wash. 5 7/8 in x 8 7/8 in]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Reverse, in pencil: "October... Illustrating
+								class" </emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.16</container>
+							<unittitle>Barbier, George, "L'Hiver," </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+							<physdesc>[Print and pencil. 6 1/2 in x 10 1/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 6.4 (Oversize)</container>
+							<unittitle>Cole, Timothy. "Carrière. La Maternité. Luxembourg. Paris," </unittitle>
+							<unitdate type="inclusive" normal="1909">1909</unitdate>
+							<physdesc>[Etching, matted. 16 in x 15 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 6.5 (Oversize)</container>
+							<unittitle>[J., F. T.], Two women walking at night in evening dress, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Watercolor. 16 1/2 in x 15 1/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 4.7</container>
+							<unittitle>Sunderland, [?], Cloaked woman, side profile, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Watercolor. 5 1/2 in x 12 in]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">In pencil: "in dark gray green mist"</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.17</container>
+							<unittitle>Wendt, [?], woman standing in long skirt holding basket and
+								staff (signed), </unittitle>
+							<unitdate type="inclusive" normal="19010425">1901 Apr 25</unitdate>
+							<physdesc>[Pencil. 6 7/8 in x 10 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.17</container>
+							<unittitle>Wendt, [?], young man standing in long coat (signed), </unittitle>
+							<unitdate type="inclusive" normal="19010425">1901 Apr 25</unitdate>
+							<physdesc>[Pencil. 4 7/8 in x 8 3/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Unknown artist, Boy playing a horn, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil and ink. 10 1/4 in x 8 1/4 in]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">In pencil: "[Jun Ren?] Leo
+								[Guardan?]"</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Unknown artist, Five sketches on a sheet of paper (boy in
+								shorts shown twice with net; bearded man with cap; standing figure
+								in long coat; fence and cottage along roadside), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 7 in x 10 in]</physdesc>
+						</did>
+					</c03>
+
+					<c03 level="item">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Unknown artist, Young woman standing in long coat and hat, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pen and ink over pencil. 8 in x 10 in]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Landscapes</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.19</container>
+							<unittitle>Andersen, A. H., Cows in landscape with trees, single cow on
+								back (signed in pencil), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil drawing. 9 in x 5 3/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 4.8</container>
+							<unittitle>Andersen, A. H., picturesque cottage on hillside (signed), </unittitle>
+							<unitdate type="inclusive" normal="1905">[1905?]</unitdate>
+							<physdesc>[Pencil (mounted on paperboard). 5 3/4 in x 4 1/4
+								in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.20</container>
+							<unittitle>Andersen, A. H., "Trufant Lake—Mich—1902" (signed in pencil), </unittitle>
+							<unitdate type="inclusive" normal="1902">1902</unitdate>
+							<physdesc>[Pen and ink drawing. 9 7/8 in x 5 7/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 4.9</container>
+							<unittitle>[Craig?], James, Tent on waterside surrounded by trees, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Watercolor, graywash. 9 3/8 in x 14 1/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 4.9</container>
+							<unittitle>Howard, E., "Old Tulip Tree," </unittitle>
+							<unitdate type="inclusive" normal="1934">1934</unitdate>
+							<physdesc>[Print. 11 1/2 in x 16 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 4.9</container>
+							<unittitle>Unknown artist, birch tree trunks (seven) in dark forest, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pen and black ink. 9 1/4 in x 14 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle>Unknown artist, birch tree trunks with top of cabin visible,
+								dense pen and ink strokes obscure lower part, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pen and ink. 7 7/8 in x 6 3/4 in (left edge
+								tattered)]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 6.6 (Oversize)</container>
+							<unittitle>Unknown artist, Boats in a harbor at sunrise or sunset, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Etching, signed in pencil. 21 1/2 in x 16 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.22</container>
+							<unittitle>Unknown artist, cabin with door and horizontal window
+								sheltered by tree, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pen and ink and gray wash. 4 1/2 in x 7 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.23</container>
+							<unittitle>Unknown artist, Forest with branches in foreground, </unittitle>
+							<unitdate type="inclusive" normal="190505">1905 May</unitdate>
+							<physdesc>[Watercolor. 6 3/8 in x 10 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle>Unknown artist, rocky shore, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Watercolor. 6 7/8 in x 5 3/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle>Unknown artist, ships moored at a dock, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pen. 8 3/4 in x 4 3/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Unknown artist, Tent on platform in woods at Elverhoj, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Watercolor, framed. 13 in x 15 1/4 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 6.7 (Oversize)</container>
+							<unittitle>Unknown artist, tree trunk, roots, and branches with ground
+								covered with rocks and flowers, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pen and ink with added white. 18 1/2 in x 21 1/2
+								in]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Three corners left blank with pencil note:
+									"...[?] mortise" </emph></p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Other Subjects</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.24</container>
+							<unittitle>[Andersen, Anders H.?], "At the Gate to ELVERHOJ," </unittitle>
+							<unitdate type="inclusive" normal="19401116">1940 Nov 16</unitdate>
+							<physdesc>[Watercolor. 4 3/8 in x 8 3/8 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 6.5 (Oversize)</container>
+							<unittitle>[J., F. T.], Women in bonnets at street market, </unittitle>
+							<unitdate type="inclusive" normal="1906">1906</unitdate>
+							<physdesc>[Pastels. 19 3/4 in x 12 1/2 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 3.6</container>
+							<unittitle>Pearson, Ralph M., Birch trees and a poem by Zona Gale, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Print. 7 1/2 in x 14 1/2 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.25</container>
+							<unittitle>Unknown artist, Bell with timber frame, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Pencil. 6 in x 9 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.25</container>
+							<unittitle>Unknown artist, Village with Gothic spire and illuminate
+								windows, star in night sky, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Watercolor on paper, 5 1/4 in x 7 7/8 in]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Reverse printed: "Bought of J. B. Sisson's Sons
+									Auctioneers... 372 Main Street, [Poughkeepsie]"</emph></p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Postcards</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 1.26</container>
+							<unittitle>Pearson, Ronald to Anders H. Andersen, </unittitle>
+							<unitdate type="inclusive" normal="19321222">1932 Dec 22</unitdate>
+							<physdesc>[Print. 5 1/2 in x 3 1/4 in]</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Photographs, </unittitle>
+					<unitdate type="inclusive" normal="1905/1934">1905-1934</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>Book stands, paper holders, and inkwells (Photographer: Petrus
+							Forssbergs), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[8 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.28</container>
+						<unittitle>Costumed girls. Four figures (two girls, two older), three with
+							feathered headdresses. Outdoors with path at left, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[5 1/8 in x 3 1/4 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 4.10</container>
+						<unittitle>Craftsman Erik Magnussen in necktie and white coat with hammer
+							and tool working on bowl with other silver pieces displayed on table, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[13 3/4 in x 10 5/8 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unittitle>Furniture. Three small photos of bench; drop-leaf table; and
+							these two joined with four chairs, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Photos trimmed to outlines of furniture and pasted to brown
+							backing. 3 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unittitle>Jewelry and Silverware, several labeled "Flora Americana," </unittitle>
+						<unitdate type="inclusive" normal="1926">1926, undated</unitdate>
+						<physdesc>[6 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.31</container>
+						<unittitle>Knitters. 25 young women, some with needles, others with knitting
+							looms, </unittitle>
+						<unitdate type="inclusive" normal="1918">[circa 1918?]</unitdate>
+						<physdesc>[Printed photograph]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">On reverse, newspaper clipping: "War's Effect on
+								Education." Argues for inclusion of arts in university
+							life.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unittitle>Light fixtures and candle holders (Photographer: Petrus
+							Forssbergs), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[13 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.33</container>
+						<unittitle>Man (Andersen?) seated by rocky stream in woods. At base of
+							photo, hand-lettered: "ELVERHOJ—ANNO DOMINI—1934." On reverse: pen and
+							ink of barren landscape with cut-out print of three masked men lifting
+							daggers, </unittitle>
+						<unitdate type="inclusive" normal="1934">1934</unitdate>
+						<physdesc>[Collage. 8 in x 9 3/4 in]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Inscribed in pencil: "About all that was left of
+								Elverhoj—during 1934."</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.34</container>
+						<unittitle>Portrait of W. C. Fields, signed, </unittitle>
+						<unitdate type="inclusive" normal="19050328">1905 Mar 28</unitdate>
+						<physdesc>[5 5/8 in x 10 in]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">In pen: "To my esteemed friend Andersen. Sincerely,
+								Mr. W. C. Fields"</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unittitle>Stands and hangers (Photographer: Petrus Forssbergs), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[3 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.36</container>
+						<unittitle>Waterfall, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[3 3/8 in x 5 1/2 in]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Letters and Financial Records, </unittitle>
+					<unitdate type="inclusive" normal="1914/1985">1914-1942, 1985</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.37</container>
+						<unittitle>Central Hudson Gas and Electric, invoices, </unittitle>
+						<unitdate type="inclusive" normal="1915/1916">1915-1916</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.38</container>
+						<unittitle>Charles S. Platt Company, receipts and invoices, </unittitle>
+						<unitdate type="inclusive" normal="1916/1922">1916, 1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.1</container>
+						<unittitle>Elverhoj Account Book, "Basement Hall Collection" and "Quaker
+							Road Pottery," </unittitle>
+						<unitdate type="inclusive" normal="1924">circa 1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.39</container>
+						<unittitle>Letter from Howe, Louis McHenry to Anders H. Andersen, </unittitle>
+						<unitdate type="inclusive" normal="19340208">1934 Feb 8</unitdate>
+						<physdesc>[Typewritten, signed, stamped "Newburgh Historical
+							Society."]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">On White House stationery, thanking Andersen for
+								sending FDR birthday greetings and words of commendation on Jan
+								28.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.40</container>
+						<unittitle>Letter from Plog, Arthur P. (district Service Manager, Home
+							Owners' Loan Corporation, Albany) to Mrs. Franklin D. Roosevelt,
+							regarding the foreclosure of A. H. Andersen's property, </unittitle>
+						<unitdate type="inclusive" normal="19350801">1935 Aug 1</unitdate>
+						<physdesc>[Typewritten, signed, stamped "Newburgh Historical
+							Society."]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.41</container>
+						<unittitle>Letter from Popchapin, M. M. (The Art Appreciation Movement) to
+							Anders H. Andersen, and pamphlet, </unittitle>
+						<unitdate type="inclusive" normal="19420509">1942 May 9</unitdate>
+						<physdesc>[Typewritten, signed.]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.42</container>
+						<unittitle>Letter from Roosevelt, Eleanor to Anders H. Andersen, </unittitle>
+						<unitdate type="inclusive" normal="19350724">1935 Jul 24</unitdate>
+						<physdesc>[Typewritten, signed, stamped "Newburgh Historical
+							Society."]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.42</container>
+						<unittitle>Letter from Roosevelt, Eleanor to Anders H. Anderson, </unittitle>
+						<unitdate type="inclusive" normal="19350806">1935 Aug 6</unitdate>
+						<physdesc>[Typewritten, signed, stamped "Newburgh Historical
+							Society."]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">On White House stationery. "I am sorry this avenue
+								seems to be closed. I have written to Miss Flanagan of the Federal
+								Emergency Relief, and as soon as I hear from her, I will let you
+								know."</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.43</container>
+						<unittitle>Letter from Zelner, Eleanor Lewis to Helen Gearn (Newburgh
+							Historical Society), regarding Captain Sears and Elverhoj, </unittitle>
+						<unitdate type="inclusive" normal="19850219">1985 Feb 19</unitdate>
+						<physdesc>[Typewritten, signed, stamped "Newburgh Historical
+							Society."]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.44</container>
+						<unittitle>Miscellaneous receipts and invoices, </unittitle>
+						<unitdate type="inclusive" normal="1915/1916">1915-1916</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 1.45</container>
+						<unittitle>The Volund Crafts Shop, receipt, </unittitle>
+						<unitdate type="inclusive" normal="19141024">1914 Oct 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.46</container>
+						<unittitle>W. H. Townsend, Jr., receipts, </unittitle>
+						<unitdate type="inclusive" normal="1915/1916">1915-1916</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Printed Images and Ephemera, </unittitle>
+					<unitdate type="inclusive" normal="1887/1937">1887-1937</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Announcements</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>"Elverhoj Art Colony. Your Summer Study Your Vacation and
+								Your Week-End Outing and Theatre," </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.8 (Oversize)</container>
+							<unittitle>Elverhoj auction notice, </unittitle>
+							<unitdate type="inclusive" normal="193709">1937 Sep</unitdate>
+							<physdesc>[19 in x 25 in]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>"Elverhoj Colony of Artists and Craftsmen. Summer Season -
+								June 15 - Sept 15," </unittitle>
+							<unitdate type="inclusive" normal="1918">[1918]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>"The Elverhoj Theatre and Moorish Terrace at Elverhoj Park,
+								Milton-on-Hudson, New York," </unittitle>
+							<unitdate type="inclusive" normal="1930">[1930]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>The Elverhoj Theatre, "Pluck a Rose," 1931 season
+								announcement, </unittitle>
+							<unitdate type="inclusive" normal="1931">1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>"A Summer School of Art and Handicrafts on the Hudson.
+								Elverhoj...," </unittitle>
+							<unitdate type="inclusive" normal="1914">1914</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Clippings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.2</container>
+							<unittitle>"Det Gamle Æbletree" by K. G. Ossiannilsson, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.48</container>
+							<unittitle>Pottery and craftsmanship, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Envelopes</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.49</container>
+							<unittitle>"Elverhoj Colony of Artists and Craftsmen, Milton-on-Hudson,
+								NY," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[5 envelopes]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Invitations</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.50</container>
+							<unittitle>Exhibition opening, "Hudson River Exhibition of Paintings and
+								Handicrafts," </unittitle>
+							<unitdate type="inclusive" normal="19121121">1912 Nov 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.50</container>
+							<unittitle>Exhibition opening, "Third Annual Exhibition of Fine and
+								Applied Art at Elverhoj, </unittitle>
+							<unitdate type="inclusive" normal="19140916">1914 Sep 16</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Pamphlets</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle>"Elverhoj - The Place of the Arts in the Country," </unittitle>
+							<unitdate type="inclusive" normal="1930">circa 1930</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle>"Elverhoj Lectures," </unittitle>
+							<unitdate type="inclusive" normal="1915">circa 1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle>"The Half Moon. Cornwall-on-Hudson, New York," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.52</container>
+							<unittitle>Madsen, Emil Ferdinand, "Vore Fædres Kirke - Jubilæums
+								Kantate," with illustrations by A. H. Andersen, </unittitle>
+							<unitdate type="inclusive" normal="1901">1901</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.53</container>
+							<unittitle>"The Zodiac," The Zodiac Artist Colony, </unittitle>
+							<unitdate type="inclusive" normal="1912">circa 1912</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Bookplates and Cards</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.54</container>
+							<unittitle>Andersen, A. H., Crescent moon with woman holding brushes and
+								palette and smaller man with brush and paintings, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.54</container>
+							<unittitle>Andersen, A. H., Geometric and floral design around small
+								building with sign "Furniture and Undertaking," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle>Unknown artist, "Diakonisse-Sagens Vugge," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle>Unknown artist, "EX LIBRIS EDITH M. CHAPMAN," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle>Unknown artist, "EX LIBRIS EDWARD HARVEY," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle>Unknown artist, "Greetings from Orchard Beach," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Illustrations</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.56</container>
+							<unittitle>Anderson, [?], "Nobody Loves Me," </unittitle>
+							<unitdate type="inclusive" normal="1905">1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>Corbould, H., "Thou thinkst thy children's laughing play...,"
+									<emph render="italic">Winter's Wreath</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.11</container>
+							<unittitle><emph render="italic">Dekorative Vorbilder</emph> 26, Jul.
+								Hoffman, Stuttgart, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[23 leaves]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle>Four illustrations on one card: James Scott, Roy Hutchinson,
+								Gleason, and [?] Jensen, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.3</container>
+							<unittitle>"K. W. Diefenbach: Per Aspera Ad Astra," No. 420, 424, and
+								426, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle>"Old Friend I dream again…" Rembrandt Art Co., St. Paul, </unittitle>
+							<unitdate type="inclusive" normal="1909">1909</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.12</container>
+							<unittitle>Sargent, [?], "Prophets," </unittitle>
+							<unitdate type="inclusive" normal="1887/1898">1887, 1898</unitdate>
+							<physdesc>[3 leaves]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.13</container>
+							<unittitle>Scandinavian artists, various prints, </unittitle>
+							<unitdate type="inclusive" normal="1891/1914">1891-1914,
+								undated</unitdate>
+							<physdesc>[15 leaves]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle>"Tick! Tick! Tick!," <emph render="italic">Frank Leslie's
+									Lady's Magazine</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle>Unidentified illustrations, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[2 prints]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Programs</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.59</container>
+							<unittitle>"Einar Cajanus," Elverhoj Auditorium, </unittitle>
+							<unitdate type="inclusive" normal="19240818">1924 Aug 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>The Elverhoj Theatre, </unittitle>
+							<unitdate type="inclusive" normal="19290624/19290629">1929 Jun
+								24-29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>The Elverhoj Theatre, </unittitle>
+							<unitdate type="inclusive" normal="1929078/19290713">1929 Jul
+								8-13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>The Elverhoj Theatre, </unittitle>
+							<unitdate type="inclusive" normal="19290722/19290727">1929 Jul
+								22-27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>The Elverhoj Theatre, </unittitle>
+							<unitdate type="inclusive" normal="19290729/19290803">1929 Jul 29 - Aug
+								3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>The Elverhoj Theatre, </unittitle>
+							<unitdate type="inclusive" normal="1929085/19290810">1929 Aug
+								5-10</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.61</container>
+							<unittitle>"Elverhoj Theatre, Summer Season 1930, Opening Week," </unittitle>
+							<unitdate type="inclusive" normal="19300617">1930 Jun 17</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.61</container>
+							<unittitle>The Elverhoj Theatre, "Genius in Love," </unittitle>
+							<unitdate type="inclusive" normal="19340618">1934 Jun 18</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.61</container>
+							<unittitle>The Elverhoj Theatre, "Gram," </unittitle>
+							<unitdate type="inclusive" normal="19340625">1934 Jun 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.62</container>
+							<unittitle>University Players. "Up Pops The Devil." Dinners in the
+								Elverhoj Tavern., </unittitle>
+							<unitdate type="inclusive" normal="1933">[1933]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.62</container>
+							<unittitle>University Players. "Meet The Wife," </unittitle>
+							<unitdate type="inclusive" normal="19330705">[1933] Jul 5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.62</container>
+							<unittitle>University Players. "Desperate Lady," </unittitle>
+							<unitdate type="inclusive" normal="19330712">[1933] Jul 12</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Publications, </unittitle>
+					<unitdate type="inclusive" normal="1912/1941">1912-1941</unitdate>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.4</container>
+						<unittitle><emph render="italic">Arts &amp; Decoration</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191608">1916 Aug</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.5</container>
+						<unittitle><emph render="italic">The Craftsman</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191306">1913 Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.6</container>
+						<unittitle><emph render="italic">The Craftsman</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191405">1914 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.7</container>
+						<unittitle><emph render="italic">The Craftsman</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191406">1914 Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.8</container>
+						<unittitle><emph render="italic">The Craftsman</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191503">1915 Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle><emph render="italic">The Craftsman</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191505">1915 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.10</container>
+						<unittitle><emph render="italic">The Craftsman</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191604">1916 Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 2.11</container>
+						<unittitle><emph render="italic">The Craftsman</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191606">1916 Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 4.14</container>
+						<unittitle><emph render="italic">Jule Roser</emph>, </unittitle>
+						<unitdate type="inclusive" normal="1914">1914</unitdate>
+						<physdesc>[cover and first 2 pages]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 3.1</container>
+						<unittitle><emph render="italic">KipiKawi</emph>, </unittitle>
+						<unitdate type="inclusive" normal="1912">1912</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 4.15</container>
+						<unittitle><emph render="italic">Midvinter</emph>, Vol. 16, </unittitle>
+						<unitdate type="inclusive" normal="1913">1913</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 3.2</container>
+						<unittitle><emph render="italic">The Print-Collector's Quarterly</emph>, </unittitle>
+						<unitdate type="inclusive" normal="191202">1912 Feb</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 3.3</container>
+						<unittitle><emph render="italic">Teubners Englisches Unterrichtswerk</emph>, </unittitle>
+						<unitdate type="inclusive" normal="1941">1941</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 3.4</container>
+						<unittitle><emph render="italic">The Touchstone</emph>, Vol. 5 No. 3, </unittitle>
+						<unitdate type="inclusive" normal="191906">1919 Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Folder 3.5</container>
+						<unittitle><emph render="italic">The Touchstone</emph>, Vol. 5 No. 6, </unittitle>
+						<unitdate type="inclusive" normal="191909">1919 Sep</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. Silverware, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Six silver teaspoons, all marked "ELVERHOJ," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

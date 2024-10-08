@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_dickens_charles</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Whittaker Family Charles Dickens Manuscript Collection, 1831-2003</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>April 2009</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>April 2009</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Whittaker Family (Collectors)</persname></origination>
+			<unittitle label="Title:" encodinganalog="245">Whittaker Family Charles Dickens Manuscript Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1831-2003</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">5.7 cubic feet (17 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, sheet music, playbills, artwork, ephemera, realia as well as other miscellany relating to Dickens and his work.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Victorian writer Charles Dickens (1812-1870) was one of the most well-known celebrities of his day, and his work continues to appeal to a large and diverse audience. His popularity is evident in the myriad editions and re-interpretations of his novels and short stories, but also in the presence of Dickens and his characters in a wide array of material culture.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Whittaker Family Charles Dickens Manuscript Collection includes correspondence, sheet music, playbills, artwork, ephemera, realia as well as other miscellany relating to Dickens and his work. The variety of objects in various formats, styles and composition, created while Dickens was alive but also well after his death, illustrates the enduring popularity of the author's work. Of particular note are original watercolors by both Hablot K. Browne and Joseph Clayton Clarke ("Kyd").</p>
+			<p>For more information about the history and significance of this collection, see the digital exhibit, <archref href="https://www.vassar.edu/specialcollections/exhibit-highlights/2006-2010/dickens/">Charles Dickens in the Marketplace</archref>.
+			</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p>
+				<archref href='https://library.vassar.edu/specialcollections/rarebooks"'>Whittaker Family Charles Dickens Book Collection</archref>
+			</p>
+			<p>
+				<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-autograph-files-1783-1983">Dickens material in the Vassar College Autograph Files</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="700">Kyd, 1856 or 7-1937</persname>
+				<persname source="lcnaf" encodinganalog="700">Browne, Hablot Knight, 1815-1882</persname>
+				<persname source="lcnaf" encodinganalog="700">Dickens, Charles, 1812-1870--Characters--Illustrations</persname>
+				<persname source="lcnaf" encodinganalog="700">Dickens, Charles, 1812-1870--Friends and associates</persname>
+			</controlaccess>
+			
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Engravings (prints)</genreform>
+				<genreform source="aat" encodinganalog="655">Plates (illustrations)</genreform>
+				<genreform source="aat" encodinganalog="655">Sheet music</genreform>
+				<genreform source="aat" encodinganalog="655">Playbills</genreform>
+				<genreform source="aat" encodinganalog="655">Watercolors (paintings)</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, April 2009. Updated by Emma Gronbeck, January 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett and Jared Barenholz, 2008-2009.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of the Whittaker Family, 2008.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Whittaker Family Charles Dickens Manuscript Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Dickens Biography and Reviews, </unittitle>
+					<unitdate>1843, 1854</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Images of Dickens, </unittitle>
+					<unitdate>1875, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Correspondence, </unittitle>
+					<unitdate>1862-1870</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Material relating to Dickens' Work, </unittitle>
+					<unitdate>1838-circa 1860</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Playbills, </unittitle>
+					<unitdate>[1836?]-1873, 1924</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Sheet Music, </unittitle>
+					<unitdate>1838, circa 1860s, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Art and Illustrations, </unittitle>
+					<unitdate>1831-1992, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Realia and Collectibles, </unittitle>
+					<unitdate>1912-1993</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX.</ref>Miscellaneous Dickensiana, </unittitle>
+					<unitdate>1846-2003</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. DICKENS BIOGRAPHY AND/OR REVIEWS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.15</container>
+						<unittitle>Brief article regarding <emph render="underline">American Notes</emph> review, <emph render="italic">National Intelligencer</emph>, 
+						</unittitle>
+						<unitdate>25 Feb 1843</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Mapcase — Drawer 35</container>
+						<unittitle>"Charles Dickens A Fugitive Bankrupt," <emph render="italic">New York Semi Weekly</emph>, </unittitle>
+						<unitdate>4 Aug 1854</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II. IMAGES OF DICKENS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.1</container>
+						<unittitle>Watts, Walter Henry. Tinted pencil sketch of Dickens head, with Dickens' signature</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.2</container>
+						<unittitle>Hollyer, Samuel (engraver). Engraving of Charles Dickens sitting in his Study at Gadshill, </unittitle>
+						<unitdate>1875</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Framed Storage 2.3</container>
+						<unittitle>Hart, H. Blackburn (engraver). Mezzotint engraving after the 1859 portrait by William Powell Frith</unittitle>
+						<physdesc>(framed)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.1</container>
+						<unittitle>Unknown artist. Print of a pencil drawing, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(originally framed with an 1864 personal check signed by Dickens - now included in same folder)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. CORRESPONDENCE</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.1</container>
+						<unittitle>Charles Dickens to Charles W. Kent, </unittitle>
+						<unitdate>8 June 1870</unitdate>
+						<physdesc>(facsimile)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.2</container>
+						<unittitle>Charles Dickens to Charles W. Kent, </unittitle>
+						<unitdate>15 Oct 1862</unitdate>
+						<physdesc>(ALS, envelope and transcription)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.3</container>
+						<unittitle>Charles Dickens to Mr. Armstrong, </unittitle>
+						<unitdate>9 May 1862</unitdate>
+						<physdesc>(ALS on All the Year Round stationery, transcription)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>SERIES IV. MATERIAL RELATING TO DICKENS' WORKS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.14</container>
+						<unittitle>
+							<emph render="underline">Barnaby Rudge</emph>, Chapters 19-20, <emph render="italic">New York Mirror</emph>, </unittitle>
+						<unitdate>29 May 1841</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.26</container>
+						<unittitle>Advertisement for the first bound edition of <emph render="underline">Oliver Twist</emph>, </unittitle>
+						<unitdate>1838</unitdate>
+						<physdesc>(1 poster card)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5. 27</container>
+						<unittitle>Advertisement for the first printing of <emph render="underline">Little Dorrit</emph>, </unittitle>
+						<unitdate>1857</unitdate>
+						<physdesc>(1 poster card)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.11</container>
+						<unittitle>Plates from the Pollock’s Juvenile Drama play set, <emph render="underline">Oliver Twist or, The Parish Boy’s Progress</emph>, (London: B. Pollock), </unittitle>
+						<unitdate>[circa 1860])</unitdate>
+						<physdesc>(35 prints, including some torn items and several duplicates)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>SERIES V. PLAYBILLS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.10</container>
+						<unittitle>
+							<emph render="italic">The Strange Gentleman</emph>, St. James Theatre, [London], </unittitle>
+						<unitdate>Oct [1836?]</unitdate>
+						<physdesc>(extremely brittle)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2</container>
+						<unittitle>
+							<emph render="italic">Sam Weller! or the Pickwickians</emph>, Strand Theatre, London, </unittitle>
+						<unitdate>July 1837</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unittitle>
+							<emph render="italic">Sam Weller! or the Pickwickians</emph>, Theatre Royal, Bath, </unittitle>
+						<unitdate>Dec 1837</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.10</container>
+						<unittitle>
+							<emph render="italic">The Pickwickians</emph>, Theatre Royal, Birmingham, </unittitle>
+						<unitdate>Apr 1838</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Mapcase — Drawer 35</container>
+						<unittitle>
+							<emph render="italic">A Christmas Carol</emph>, Adelphi Theatre, London, </unittitle>
+						<unitdate>Jan 1844</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>
+							<emph render="italic">Nicholas Nickleby</emph>, Boston Theatre, Boston, </unittitle>
+						<unitdate>Mar 1847</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>
+							<emph render="italic">Nicholas Nickleby</emph>, Boston Museum, Boston, </unittitle>
+						<unitdate>Jan 1849</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>
+							<emph render="italic">Savage and the Maiden</emph>, National Theatre, [Boston], </unittitle>
+						<unitdate>May 1850</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.5</container>
+						<unittitle>
+							<emph render="italic">Fortunio and his Seven Gifted Servants</emph>(featuring Charles Dickens, Jr. as King Alfourite), Theatre Royal, Tavistock House, </unittitle>
+						<unitdate>8 Jan 1855</unitdate>
+						<physdesc>(fabric - torn)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle>original enclosure for Fortunio…</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.11</container>
+						<unittitle>
+							<emph render="italic">Holly-Tree Inn</emph>, Standard Theatre, London, </unittitle>
+						<unitdate>Jan [1856]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Mapcase — Drawer 35</container>
+						<unittitle>
+							<emph render="italic">A Christmas Carol</emph>, Adelphi Theatre, London, </unittitle>
+						<unitdate>Jan 1860</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4</container>
+						<unittitle>
+							<emph render="italic">Oliver Twist</emph>, Howard Athenæum, Boston, </unittitle>
+						<unitdate>1861</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>
+							<emph render="italic">Oliver Twist</emph>, Boston Theatre, Boston, </unittitle>
+						<unitdate>Jan 1870</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>
+							<emph render="italic">Oliver Twist</emph>, The Globe, Boston, </unittitle>
+						<unitdate>Mar 1871</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Mapcase — Drawer 35</container>
+						<unittitle>
+							<emph render="italic">Some Bells That Rang</emph>, Britannia Theatre, London, </unittitle>
+						<unitdate>Mar 1873</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.4</container>
+						<unittitle>
+							<emph render="italic">Dickens Christmas Pageant, including The Fezziwig Swarry</emph>, Milwaukee-Downer College, Milwaukee, WI, </unittitle>
+						<unitdate>1924</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>SERIES VI. SHEET MUSIC</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.6</container>
+						<unittitle>"The Chimes Quadrille, Composed for the Musical Bouquet," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.3</container>
+						<unittitle>Bruton and Allen. "My Dear Old Faithful Doll." London: Charles Jeffreys, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.4</container>
+						<unittitle>Caldicott and Oxenford. "Jenny Wren (The Doll's Dressmaker)." London: Patey and Willis, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7</container>
+						<unittitle>Carpenter and Crouch. "The Chimes Song." London: Duff and Hodgson, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.8</container>
+						<unittitle>Carpenter and Glover. "What Are The Wild Waves Saying." London: Robert Cocks and Co., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.5</container>
+						<unittitle>Glindon and Craven. "The Literary Dustman: A Comic Song." London: T. Purday, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.6</container>
+						<unittitle>Godfrey, Dan. "Little Nell: Waltz." London: Chappell and Co., </unittitle>
+						<unitdate>1860s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.7</container>
+						<unittitle>Lancelot, F. "The Cricket on the Hearth." London: Bingley and Strange, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unittitle>Marriott, C. H. R. "Dolly Varden Quadrille." London: Ashdown and Parry, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Montgomery, W. H. "Little Dorrit's Polka." London: D'Almaine and Co., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unittitle>Normann, Jules. "Little Dorrit's Polka." London: Musical Bouquet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12</container>
+						<unittitle>Roe, John, Jr. "Roe's Pickwickian Quadrilles." London: Duff and Co., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.13</container>
+						<unittitle>Russell, Henry. "The Ivy Green, A Ballad." Philadelphia: L. A. Alfred Schmidt, </unittitle>
+						<unitdate>1838</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.14</container>
+						<unittitle>Van Noorden, P. E. "'All the Year Round' Schottische." London: George Emery and Co., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.8</container>
+						<unittitle>Van Noorden, P. E. Little Dorrit's Schottische." London: George Emery and Co., </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>SERIES VII. ART and ILLUSTRATIONS</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Barnard, Frederick</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.5</container>
+							<unittitle>Character Sketches published by California Art &amp; Engraving Co., </unittitle>
+							<unitdate>circa 1930</unitdate>
+							<physdesc>(9 prints)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Browne, Hablot K. (Phiz)</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.2</container>
+							<unittitle>Stiles illustrations — Punch and Judy show</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.3</container>
+							<unittitle>Stiles illustrations — Punch and Judy show with child</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.4</container>
+							<unittitle>Stiles illustrations —"Follow. Follow Me! — Hunting party"</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.5</container>
+							<unittitle>Stiles illustrations — Three men</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.6</container>
+							<unittitle>Stiles illustrations — Woman and pig</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.7</container>
+							<unittitle>Stiles illustrations — Woman leaning on stile</unittitle>
+							<physdesc>(pencil and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.8</container>
+							<unittitle>Stiles illustrations — Couple embracing</unittitle>
+							<physdesc>(pencil and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.9</container>
+							<unittitle>Stiles illustrations — Man lifting woman over, with windmill in background</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.10</container>
+							<unittitle>Stiles illustrations — Man lifting woman over, with town in background</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.11</container>
+							<unittitle>Stiles illustrations — Man helping woman</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.12</container>
+							<unittitle>Stiles illustrations — "Farewell Brother Noah, Farewell Sister Rebecca"</unittitle>
+							<physdesc>(ink and watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.6</container>
+							<unittitle>Plates from <emph render="underline">Bleak House</emph>, unknown edition, but similar to volume 17 of the <emph render="underline">Gadshill Works of Charles Dickens</emph>
+							</unittitle>
+							<physdesc>(8 plates)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Buss, Robert</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.7</container>
+							<unittitle>Plates from <emph render="underline">The Pickwick Papers</emph>, unknown edition</unittitle>
+							<physdesc>(2 plates)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Clarke, Joseph Clayton ("Kyd")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.1</container>
+							<unittitle>Old Curiosity Shop — Nell</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.2</container>
+							<unittitle>Old Curiosity Shop — Grandfather Trent</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.3</container>
+							<unittitle>Old Curiosity Shop — Kit</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.4</container>
+							<unittitle>Old Curiosity Shop — Quilp</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.5</container>
+							<unittitle>Old Curiosity Shop — Dick Swiveller</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.6</container>
+							<unittitle>Old Curiosity Shop — The Single Gentleman</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.7</container>
+							<unittitle>Old Curiosity Shop — Sampson Brass</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.8</container>
+							<unittitle>Old Curiosity Shop — Sally Brass</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.9</container>
+							<unittitle>Old Curiosity Shop — Mrs. Jarley</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.10</container>
+							<unittitle>Old Curiosity Shop — The Little Marchionesse</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.11</container>
+							<unittitle>Old Curiosity Shop — Mr. Chuckster</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.12</container>
+							<unittitle>Old Curiosity Shop — Jowl</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.13</container>
+							<unittitle>Old Curiosity Shop — Short</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.14</container>
+							<unittitle>Old Curiosity Shop — Codlin</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.15</container>
+							<unittitle>Old Curiosity Shop — The Old Schoolmaster</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.16</container>
+							<unittitle>Old Curiosity Shop — The Furnace Man</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.17</container>
+							<unittitle>Old Curiosity Shop — Mr. Vuffin</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.18</container>
+							<unittitle>Old Curiosity Shop — Slum</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.19</container>
+							<unittitle>Cover of <emph render="underline">Character Sketches from Charles Dickens</emph>
+							</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.20</container>
+							<unittitle>Letter from Jerome Kern to Randolph Hearst expressing their mutual interest in the "Kyd" illustrations</unittitle>
+							<unitdate>14 Feb [no year]</unitdate>
+							<physdesc>(accompanied Our Mutual Friend watercolor set)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.21</container>
+							<unittitle>Our Mutual Friend — Cover page for set</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.22</container>
+							<unittitle>Our Mutual Friend — Jenny Wren</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.23</container>
+							<unittitle>Our Mutual Friend — Mr. Boffin</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.24</container>
+							<unittitle>Our Mutual Friend — Mr. Veneering</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.25</container>
+							<unittitle>Our Mutual Friend — Sloppy</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.26</container>
+							<unittitle>Our Mutual Friend — Bradley Headstone</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.27</container>
+							<unittitle>Our Mutual Friend — Mr. Venus</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.28</container>
+							<unittitle>Our Mutual Friend — Mr. Fledgeby</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.29</container>
+							<unittitle>Our Mutual Friend — Mr. Podsnap</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.30</container>
+							<unittitle>Our Mutual Friend — Silas Wegg</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.31</container>
+							<unittitle>Our Mutual Friend — Rogue Riderhood</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.32</container>
+							<unittitle>Our Mutual Friend — Mr. Twemlow</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.33</container>
+							<unittitle>Our Mutual Friend — The Cherub</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.34</container>
+							<unittitle>Our Mutual Friend — Mr. Dolls</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.35</container>
+							<unittitle>Our Mutual Friend — Mrs. Todgers [?]</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.36</container>
+							<unittitle>Our Mutual Friend — [Mr. Riah?]</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.37</container>
+							<unittitle>Our Mutual Friend — 3 unidentified men</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.38</container>
+							<unittitle>Miscellaneous Characters — Barnaby Rudge</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.39</container>
+							<unittitle>Miscellaneous Characters — David Copperfield</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.40</container>
+							<unittitle>Miscellaneous Characters — Uriah Heep</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.41</container>
+							<unittitle>Miscellaneous Characters — <emph render="underline">Oliver Twist</emph>
+							</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.42</container>
+							<unittitle>Miscellaneous Characters — Fagin</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.43</container>
+							<unittitle>Miscellaneous Characters — Mr. Bumble</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.44</container>
+							<unittitle>Miscellaneous Characters — Dick Swiveller</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.45</container>
+							<unittitle>Miscellaneous Characters — Mr. Pickwick</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.46</container>
+							<unittitle>Miscellaneous Characters — Tony Weller</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.47</container>
+							<unittitle>Miscellaneous Characters — Sam Weller</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.48</container>
+							<unittitle>Miscellaneous Characters — The Fat Boy</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.49</container>
+							<unittitle>Miscellaneous Characters — Mr. Pickwick</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.50</container>
+							<unittitle>Miscellaneous Characters — Unidentified man</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.51</container>
+							<unittitle>Miscellaneous Characters — Major Bagstock</unittitle>
+							<physdesc>(watercolor with description sheet)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.52</container>
+							<unittitle>Miscellaneous Characters — The Game Chicken</unittitle>
+							<physdesc>(watercolor with description sheet)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.53</container>
+							<unittitle>Miscellaneous Characters — Rogue Riderhood</unittitle>
+							<physdesc>(watercolor with description sheet)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.54</container>
+							<unittitle>Miscellaneous Characters — Job Trotter</unittitle>
+							<physdesc>(watercolor with description sheet)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.55</container>
+							<unittitle>Miscellaneous Characters — Codlin</unittitle>
+							<physdesc>(watercolor with description sheet)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.56</container>
+							<unittitle>Miscellaneous Characters — Sally Brass</unittitle>
+							<physdesc>(watercolor with description sheet)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.57</container>
+							<unittitle>Miscellaneous Characters — Fagin</unittitle>
+							<physdesc>(watercolor with description sheet)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Copping, Harold</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.8</container>
+							<unittitle>Set of cards showing miscellaneous Dickens scenes and characters. Norfolk, England: Peacock Collection of Holt, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(16 cards plus title card)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Cruikshank, George</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Plates from <emph render="underline">Oliver Twist</emph>, most from volumes published by Richard Bentley, London, </unittitle>
+							<unitdate>1837-1838</unitdate>
+							<physdesc>(24 items in a portfolio)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.9</container>
+							<unittitle>Plates from <emph render="underline">Oliver Twist</emph>
+							</unittitle>
+							<physdesc>(10 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.10</container>
+							<unittitle>Two engravings from wood blocks engraved by Thomas Williams after designs by Cruikshank. Printed and published by Nicolas McDowall, Old Stile Press, </unittitle>
+							<unitdate>1992</unitdate>
+							<physdesc>(No. 24 of 150 copies)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.11</container>
+							<unittitle>Notes, colored sketches, and a bill for copper plates (from J. Yates the engraver) for Cruikshank's illustration of <emph render="underline">Sketches By Boz</emph>.</unittitle>
+							<physdesc>(3 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.12</container>
+							<unittitle>Letter to [Jones?] about the "corps" attending church in uniform, </unittitle>
+							<unitdate>23 Nov 1861</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Furniss, Harry</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.13</container>
+							<unittitle>Plates [possibly from <emph render="italic">Charles Dickens Library</emph>, vol. 4, <emph render="underline">Nicholas Nickleby</emph> (London: Educational Book Co., 1910)]</unittitle>
+							<physdesc>(3 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Russell, Walter</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.14</container>
+							<unittitle>Unidentified man</unittitle>
+							<physdesc>(watercolor)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Seymour, Robert</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.15</container>
+							<unittitle>Invoices for Seymour illustrations, </unittitle>
+							<unitdate>1831</unitdate>
+							<physdesc>(2 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.16</container>
+							<unittitle>"Sketches by Seymour: A Scramble for Puff Pastry…," S.n., 26 Bride Lane, Fleet Street, [London]</unittitle>
+							<physdesc>(back cover illustration?)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>"Sketches by Seymour: High Musical Connoisseurs and A Monkey Fancier," William Spooner (for Mrs. Seymour), London, </unittitle>
+							<unitdate>1839</unitdate>
+							<physdesc>(print)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellaneous and Multiple</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.17</container>
+							<unittitle>Plates from <emph render="underline">The Posthumous Papers of the Pickwick Club</emph>, Philadelphia: Carey, Lea and Blanchard, </unittitle>
+							<unitdate>1838</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.18</container>
+							<unittitle>Silhouettes of Dickens and 19 of his characters. London: Dickens' Old Curiosity Shop</unittitle>
+							<physdesc>(20 prints)</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>SERIES VIII. REALIA and COLLECTIBLES</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Cigarette Cards</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.1</container>
+							<unittitle>Player's — Characters from Dickens, as drawn by Joseph Clayton Clarke (Kyd), </unittitle>
+							<unitdate>[1923?]</unitdate>
+							<physdesc>(50 cards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.2</container>
+							<unittitle>R &amp; J Hill —Historic Places from Dickens' Classics — small size, </unittitle>
+							<unitdate>[1926?]</unitdate>
+							<physdesc>(50 cards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.3</container>
+							<unittitle>R &amp; J Hill — Historic Places from Dickens' Classics — large size, </unittitle>
+							<unitdate>[1926?]</unitdate>
+							<physdesc>(50 cards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.4</container>
+							<unittitle>Cope's — Dickens Character Series, </unittitle>
+							<unitdate>[1939]</unitdate>
+							<physdesc>(25 cards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.5</container>
+							<unittitle>Godfrey Phillips — Dickens bust card, no. 41 of a series</unittitle>
+							<physdesc>(1 card)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Tea Cards</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.5</container>
+							<unittitle>Brooke Bond — Famous People series — Dickens, no 6 of a series of 50</unittitle>
+							<physdesc>(1 card)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Stamps</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.6</container>
+							<unittitle>Charles Dickens Centenary Testimonial Committee — Sheet of stamps created to commemorate the centenary of Dickens' birth, published by <emph render="italic">Strand Magazine</emph>, London and New York, </unittitle>
+							<unitdate>1912</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.7</container>
+							<unittitle>Kenmore — Charles Dickens: Greatest novelist of All Time — set commemorating the centenary of Dickens' death, </unittitle>
+							<unitdate>1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.8</container>
+							<unittitle>British Post Office —First day covers and stamps commemorating the centenary of Dickens' death, </unittitle>
+							<unitdate>1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.9</container>
+							<unittitle>Fleetwood — Joyous Carols of Christmas —first day covers, </unittitle>
+							<unitdate>1978</unitdate>
+							<physdesc>(2 sets)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.10</container>
+							<unittitle>Miscellaneous stamps from a variety of countries, </unittitle>
+							<unitdate>circa 1970-1993</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Coins</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Commemorating the 100th anniversary of the birth Charles Dickens, </unittitle>
+							<unitdate>1912</unitdate>
+							<physdesc>(1 brass coin)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>John Roberts coin commemorating the 100th anniversary of the death Charles Dickens, </unittitle>
+							<unitdate>1970</unitdate>
+							<physdesc>(1 silver coin, numbered 00025)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Commemorating the 100th anniversary of the death Charles Dickens, </unittitle>
+							<unitdate>1970</unitdate>
+							<physdesc>(1 large brass coin)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Commemorating the 100th anniversary of the death Charles Dickens, </unittitle>
+							<unitdate>1970</unitdate>
+							<physdesc>(3 smaller brass coins)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>"God Bless Us Every One," </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(1 silver coin)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Spoons</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Set of 12 spoons featuring Dickens characters, with accompanying rack. [Franklin Mint], </unittitle>
+							<unitdate>[1981]</unitdate>
+							<physdesc>(pewter [and plastic?])</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 9 and 17</container>
+							<unittitle>Set of 12 spoons featuring characters from "A Christmas Carol," with accompanying rack. [Franklin Mint], </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(pewter)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Ceramics</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Covered dish featuring Sairey Gamp. New Hall Hanley Pottery, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(ceramic)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Set of 6 pin dishes featuring Dickens Characters. New Hall Hanley Pottery, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(ceramic)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Decorative plate with portrait commemorating the centenary of Dickens' death. No. 158 of 5,000. England: Spode, </unittitle>
+							<unitdate>1970</unitdate>
+							<physdesc>(bone china)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Decorative plate with portrait commemorating the centenary of Dickens' death. No. 1,100 of 5,000. England: Spode, </unittitle>
+							<unitdate>1970</unitdate>
+							<physdesc>(bone china)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Set of four place settings, including dinner plates, bread and butter plates, salad bowls, cups and saucers. England: EIT [English Ironstone Tableware], </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(ceramic)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Place Mats and Coasters</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Set of 6 place mats featuring Dickens scenes. England: Pimpernel, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(coated cork)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Coasters — Set of 6 coasters featuring Dickens scenes. England: Pimpernel, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(coated cork)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Statuary</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Bookends — busts of Charles Dickens. NY: Pompeian Bronze Co., </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(bronze)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Door knocker — Charles Dickens' head, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(bronze)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 16</container>
+							<unittitle>Statues — Bust of Charles Dickens, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(ceramic)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 11</container>
+							<unittitle>Statues — Set of 3 figurines of Dickens characters possibly by Peerage, </unittitle>
+							<unitdate>[1966?]</unitdate>
+							<physdesc>(brass)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12</container>
+							<unittitle>Statues — Set of 4 figurines of Dickens characters possibly by Peerage, </unittitle>
+							<unitdate>[1966?]</unitdate>
+							<physdesc>(brass)</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>SERIES IX. MISCELLANEOUS DICKENSIANA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.12</container>
+						<unittitle>Gadshill Place — Particulars and Conditions of Sale of Charles Dickens' home, County of Kent, </unittitle>
+						<unitdate>1879</unitdate>
+						<physdesc>(map included)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.19</container>
+						<unittitle>General Theatrical Fund — Advertisement card announcing First Anniversary Festival, </unittitle>
+						<unitdate>6 Apr 1846</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.13</container>
+						<unittitle>General Theatrical Fund — Broadside announcing First Anniversary Festival, </unittitle>
+						<unitdate>6 Apr 1846</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.20</container>
+						<unittitle>Dickens-Irving Fellowship Centenary — Letter from Eleanor Roosevelt to [Enid Dickens?] Hawksley, </unittitle>
+						<unitdate>7 Dec 1937</unitdate>
+						<physdesc>(1 ALS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.21</container>
+						<unittitle>Dickens-Irving Fellowship Centenary — invitation to Sarah Herbert to join the committee and come to the dinner, </unittitle>
+						<unitdate>1937</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.22</container>
+						<unittitle>Macready, William Charles (actor and friend of Charles Dickens) — Illustrated poem: "The King and the Norse King…"</unittitle>
+						<physdesc>(Bound MS, 6 pages)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Stonehouse, James. Poem "Addressed to Charles Dickens Esq., on the occasion of his presiding at the Annual Soirée of the Mechanics' Institution, Liverpool, Monday, February 26, 1844"</unittitle>
+						<physdesc>(1 ms draft, 2 edited ts, 1 final ts)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Mapcase — Drawer 35</container>
+						<unittitle>Map: "Johnson's England and Wales" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.1</container>
+						<unittitle>Personal check from Dickens to W. Ring, </unittitle>
+						<unitdate>1864</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.23</container>
+						<unittitle>Brochure for the George and Vulture, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.24</container>
+						<unittitle>Newspaper clippings mentioning Dickens, </unittitle>
+						<unitdate>1915-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.25</container>
+						<unittitle>Invitation to the California State University Northridge Library's Dickens dinner, </unittitle>
+						<unitdate>2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.28</container>
+						<unittitle>Dickens House — admission ticket and brochure, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

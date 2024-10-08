@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_carroll_ruth</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Ruth Robinson Carroll Papers, 1913-1962</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke, <date>November 2006</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Carroll, Ruth, 1899-</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Ruth Robinson Carroll Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1913-1962</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.2 cubic feet (2 boxes, 1 OV folder)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Memory book of Ruth Robinson, 1913-1918; drawings, sketches, and manuscript drafts of Ruth and Latrobe Carroll's children's books, 1934-1962, including <emph render="italic">Bounce and the Bunnies</emph>, <emph render="italic">Scuffles</emph>, <emph render="italic">Old Mrs. Billups and the Black Cats</emph>, <emph render="italic">Where's the Bunny?</emph>, and <emph render="italic">Where's the Kitty?</emph>; and drafts and published versions of the article "Through the World of Silence," 1950.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Ruth Robinson, writer, artist, and illustrator of children's books, was born in Lancaster, NY in 1899, where she formed an early interest in art. She majored in Art at Vassar and after graduation in 1922 continued her studies at the Art Students League and with private instructors. In 1928, she married Latrobe Carroll, an editor. Dissatisfied with sales of her paintings, she decided to turn her talents to illustrating animal stories for children. Sharing their Greenwich Village apartment with a series of models such as Puddles, a rabbit, Ruth Robinson Carroll published such children's books as <emph render="italic">Bounce the Bunnies</emph> and <emph render="italic">Chimp and Chump</emph>.</p>
+			<p>In 1934, Mr. Carroll quit his editorial work and began collaboration with his wife. The Carrolls were attracted to the landscape and people of Appalachia and in 1950 moved to North Carolina. Rural life in the Great Smokies region inspired a series of books about a mountain family, the Tatums, and their animals. In 1964 From the Appalachians, a portfolio of paintings and drawings by Mrs. Carroll, was published with an introduction by her husband. The Carrolls collaborated on a number of books, including <emph render="italic">Luck of Roll and Go</emph>, <emph render="italic">Scruffles</emph>, <emph render="italic">Tough Enough</emph>, <emph render="italic">Runaway Pony</emph>, and <emph render="italic">The Picnic Bear</emph>.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Memory book of Ruth Robinson, 1913-1918; drawings, sketches, and manuscript drafts of Ruth and Latrobe Carroll's children's books, 1934-1962, including <emph render="italic">Bounce and the Bunnies</emph>, <emph render="italic">Scuffles</emph>, <emph render="italic">Old Mrs. Billups and the Black Cats</emph>, <emph render="italic">Where's the Bunny?</emph>, and <emph render="italic">Where's the Kitty?</emph>; and drafts and published versions of the article "Through the World of Silence," 1950.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Carroll, Latrobe</persname>
+				<persname source="lcnaf" encodinganalog="600">Robinson, Ruth, 1899-</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Children's literature--Women authors</subject>
+				<subject source="lcsh" encodinganalog="650">Illustrated books, Children's</subject>
+				<subject source="lcsh" encodinganalog="650">Women authors, American</subject>
+				<subject source="lcsh" encodinganalog="650">Illustrators</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Drawings (visual works)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Children and Children's Literature</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, November 2006. Updated by Emma Gronbeck, June 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Ruth Robinson Carroll.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Ruth Robinson Carroll Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> <emph render="italic"> Bounce and the Bunnies</emph>, New York: Harcourt, 1934</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> <emph render="italic"> Scruffles</emph>, London: Oxford University Press, 1943</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> <emph render="italic"> Old Mrs. Billups and the Black Cats</emph>, NY: Henry Z. Walck, 1961</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> <emph render="italic"> Where's the Bunny?</emph>, NY: Oxford University Press, 1950</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> <emph render="italic"> Where's the Kitty?</emph>, NY: Henry Z. Walck, [1962]</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Miscellaneous</unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle><emph render="italic">Bounce and the Bunnies</emph>, New York: Harcourt, 1934</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folders 1-5</container>
+						<unittitle>Original drawings and color separation tracings, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle><emph render="italic">Scruffles</emph>, London: Oxford University Press, 1943</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 6</container>
+						<unittitle>Dummy, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle><emph render="italic">Old Mrs. Billups and the Black Cats</emph>, NY: Henry Z. Walck, 1961</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 7</container>
+						<unittitle>Drafts 1-2, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 8</container>
+						<unittitle>Draft 3, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 9</container>
+						<unittitle>Draft 4, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 10</container>
+						<unittitle>Draft 5, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 11</container>
+						<unittitle>Draft 6, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 12</container>
+						<unittitle>Draft 7, with criticism by Latrobe "Toby" Carroll, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 13</container>
+						<unittitle>Manuscript sent to publisher, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 14</container>
+						<unittitle>Dummy, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 15</container>
+						<unittitle>Preliminary sketches, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 16</container>
+						<unittitle>Discarded sketches, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 17</container>
+						<unittitle>Drawings, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2, Folder 18</container>
+						<unittitle>Gathering, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle><emph render="italic">Where's the Bunny?</emph>, NY: Oxford University Press, 1950</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 2, Folder 19</container>
+						<unittitle>Drafts, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2, Folder 20</container>
+						<unittitle>Discarded sketches, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2, Folder 21</container>
+						<unittitle>Dummy, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folders 22-25</container>
+						<unittitle>Illustrations, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folders 26-27</container>
+						<unittitle>Illustrations, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle><emph render="italic">Where's the Kitty?</emph>, NY: Henry Z. Walck, [1962]</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 28</container>
+						<unittitle>Discarded sketches, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 29</container>
+						<unittitle>Sketches for final finished drawing, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 30</container>
+						<unittitle>Final drawings [?], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 31</container>
+						<unittitle>Dummy, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 32</container>
+						<unittitle>Drafts, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2, Folder 33</container>
+						<unittitle>Proof sheet, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Miscellaneous</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 34</container>
+						<unittitle>Drafts of article "Through the World of Silence," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2, Folder 35</container>
+						<unittitle>"Through the World of Silence", <emph render="italic">The Horn Book</emph>, </unittitle>
+						<unitdate type="inclusive">1950 Sep-Oct</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 36</container>
+						<unittitle>Watercolor by Carroll of Vassar College Students Building, </unittitle>
+						<unitdate type="inclusive">1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1, Folder 37</container>
+						<unittitle>"Memory Book" of Ruth Robinson, </unittitle>
+						<unitdate type="inclusive">1913-1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2, Folder 38</container>
+						<unittitle>Miscellaneous printed material, </unittitle>
+						<unitdate type="inclusive">1953-1962</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Oversize Multi-Collection Box</container>
+						<unittitle>Autographed broadside of <emph render="italic">Runaway Pony, Runaway Dog</emph>, by Ruth &amp; Latrobe Carroll, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

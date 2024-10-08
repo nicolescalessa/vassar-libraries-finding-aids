@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_churchill_ruth_hornblower</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Ruth Hornblower Churchill Papers, 1932-1963 (bulk 1933-1934)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>17 Mar 2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Churchill, Ruth Hornblower</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Ruth Hornblower Churchill Papers, </unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1932-1963 </unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1933-1934 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.2 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondece and other materials relating to Churchill's time as a trustee of Vassar College, particularly regarding international alumni.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Ruth Hornblower Churchill (VC 1908), VC alumna trustee, compiled <emph render="italic">The Home Bible</emph> and wrote <emph render="italic">Mother's Chronicle</emph>. A kindergarten and first grade teacher, Churchill co-founded the Harvard Arlington Guidance Program. Churchill was married to three husbands: Robert Atkins, Chester Greenough and Lawrence W. Churchill. </p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>18 Apr 1887</date>
+					<event>Ruth Hornblower born, Arlington, MA</event>
+				</chronitem>
+				<chronitem>
+					<date>1908</date>
+					<event>Graduated Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1910</date>
+					<event>Married Robert W. Atkins</event>
+				</chronitem>
+				<chronitem>
+					<date>1927</date>
+					<event>Divorced Robert W. Atkins</event>
+				</chronitem>
+				<chronitem>
+					<date>1931</date>
+					<event>Married Chester Noyes Greenough</event>
+				</chronitem>
+				<chronitem>
+					<date>1936</date>
+					<event>Co-founded Harvard Arlington Guidance Program</event>
+				</chronitem>
+				<chronitem>
+					<date>1938</date>
+					<event>Chester Noyes, Harvard University English Professor, Greenough died</event>
+				</chronitem>
+				<chronitem>
+					<date>1953</date>
+					<event>Married Lawrence Whitfield Churchill</event>
+				</chronitem>
+				<chronitem>
+					<date>1959</date>
+					<event>Lawrence Churchill died</event>
+				</chronitem>
+				<chronitem>
+					<date>9 July 1970</date>
+					<event>Ruth Hornblower Churchill died</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Ruth Churchill Papers include correspondence, drafts of speeches eulogizing VC alumni Harriet Sawyer and Martha Bowie Branch, and materials related to Alumnae House events. Particularly notable is the correspondence between Churchill and VC international alumni regarding VC's impact on their lives as well as their activities since graduation.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Churchill biographical file in the AAVC (Alumnae and Alumni of Vassar College) Records.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Branch, Martha Bowie</persname>
+				<persname source="lcnaf" encodinganalog="600">Sawyer, Harriet</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Students, Foreign--United States</subject>
+				<subject source="lcsh" encodinganalog="650">College trustees</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Trustees </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 17 Mar 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Archives and Special Collections Library staff.</p>
+		</processinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Ruth Hornblower Churchill Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.1</container>
+					<unittitle> Foreign students' letters, </unittitle>
+					<unitdate>1933-1934, 1963</unitdate>
+				</did>
+				<scopecontent>
+					<p>— Includes correspondence between Churchill and VC international alumni regarding VC's impact on their lives as well as their activities since graduation.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.2</container>
+					<unittitle> Miscellaneous</unittitle>
+				</did>
+				<scopecontent>
+					<p>— Materials and drafts of speeches eulogizing VC alumni Harriet Sawyer and Martha Bowie Branch, as well as Alumni House events. Folder includes correspondence between Churchill and Janet [Churchill's neice?], the Office of the [VC] President, Mary Bell, Alumnae House Registrar and Zeta Thornbury</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.3</container>
+					<unittitle> Report: Retiring Alumni Trustees - Responses, </unittitle>
+					<unitdate>1934</unitdate>
+				</did>
+				<scopecontent>
+					<p>— Includes a printed report on Churchill's study of VC's international students and correspondence as well as materials related to her retirement.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.4</container>
+					<unittitle> Trustee's Scholarship Committee, </unittitle>
+					<unitdate>1932-1934</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

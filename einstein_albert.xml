@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_einstein_albert</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Morris and Adele Bergreen Albert Einstein Collection, 1919-1988</titleproper>
+				<author>Inventory prepared by Ronald Patkus and Rachel Schles</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>2003</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke<date>December 2006</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Einstein, Albert, 1879-1955</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Morris and Adele Bergreen Albert Einstein Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1919-1988</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">2.2 cubic feet (11 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<langmaterial label="Language of Material">Correspondence in <language langcode="ger">German</language> and <language langcode="eng">English</language>.
+			</langmaterial>
+			<abstract label="Abstract:" encodinganalog="520$a">Composed mainly of correspondence between Einstein and the executor of his estate, Otto Nathan. Also includes letters from Elsa Einstein to Nathan, as well as some manuscripts, ephemera and photographs of Einstein.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Albert Einstein was a professor of physics at the University of Zurich and the University of Berlin. From 1933 to his death in 1955 he was a professor at the Institute for Advanced Study at Princeton University.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Composed mainly of correspondence between Einstein and the executor of his estate, Otto Nathan. A number of letters discuss the fate of Jews in Europe and other aspects of World War II. Others deal with Brandeis University, Jewish affairs in the United States, and personal matters. Also included are letters from Elsa Einstein to Nathan, as well as some manuscripts, ephemera, and photographs of Einstein.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>	
+				<persname source="lcnaf" encodinganalog="600">Beard, Charles A. (Charles Austin), 1874-1948</persname>
+				<persname source="lcnaf" encodinganalog="600">Nathan, Otto, 1893-1987</persname>
+				<persname source="lcnaf" encodinganalog="600">Freud, Sigmund, 1856-1939</persname>
+				<persname source="lcnaf" encodinganalog="600">Einstein, Elsa, 1876-1936</persname>
+				<persname source="lcnaf" encodinganalog="600">Frankfurter, Felix, 1882-1965</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Brandeis University</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Jews--Europe</subject>
+				<subject source="lcsh" encodinganalog="650">Jews--United States</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945</subject>
+				<subject source="lcsh" encodinganalog="650">Intellectuals</subject>
+				<subject source="lcsh" encodinganalog="650">Political refugees</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Politics</subject>
+				<subject source="local" encodinganalog="690">War and War Crimes</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, December 2006. Updated by Emma Gronbeck, March 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Arranged and described by Ronald D. Patkus and Rachel Schles. Last updated 2003.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Morris and Adele Bergreen, 2003.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Morris and Adele Bergreen Albert Einstein Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is organized into 3 series and arranged chronologically within each of those series.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Correspondence,</unittitle>
+					<unitdate type="inclusive">1934-1988</unitdate>
+					<physdesc>(Boxes 1-3)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Manuscripts and Ephemera of Albert Einstein,</unittitle>
+					<unitdate type="inclusive">1930-1953</unitdate>
+					<physdesc>(Box 3)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Photographs,</unittitle>
+					<unitdate type="inclusive">1919-1950</unitdate>
+					<physdesc>(Boxes 4-8)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. CORRESPONDENCE</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters of Albert Einstein</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/ad9abdac-7b11-45a5-a0db">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[May 1934?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/40101354-1b70-48b5-86fb">Albert Einstein to Louis Brandeis</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">29 May 1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/4566571c-39ec-4f17-9fbd">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">21 Aug 1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.4</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/584df705-6840-4946-90c4">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">June 1935</unitdate>
+</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/b79b717e-84e1-4820-bc05">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">8 June [1935?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/849a98fb-4375-4736-b336">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">7 July 1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.7</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/b09345fe-d986-403a-8591">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">30 Jan 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.8</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8f8168d8-38fe-474a-9091">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">25 Feb 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.9</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/9994731a-d850-4b08-a8f9">Albert Einstein to "Dear Afterlife!"</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">4 May 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.10</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/05f4f389-9d96-4791-b67a">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">7 May 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.11</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/15a15607-0bf8-4a5c-98a3">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">7 July 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.12</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c35da801-dab1-4d3b-8024">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">14 July 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.13</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c48a8769-e481-41bd-9b24">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">22 July 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/73f8212f-e515-4ef7-aa44">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(2 telegrams)</physdesc>
+							<unitdate type="inclusive">Sept 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.15</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/a4e428c6-2d1b-4e31-b784">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">15 Sept 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.16</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/87c01250-4cee-4f88-b481">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[16 May 1937?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.17</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8feed12d-6ff1-4de6-b278">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">21 July 1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/3a6a7d4f-afe5-492a-b71d">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">22 July 1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.19</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/946dd608-a167-4641-8c52">Albert Einstein to Otto Nathan, written at the conclusion of a letter from Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[July 1937?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.20</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/9ebe1e39-611c-40fe-a2b6">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">8 Nov 1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8823ca05-af48-41d1-8bf7">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">1 Dec 1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.22</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/bfff52a3-7ac7-46b2-a71e">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">8 Apr [1938?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.23</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/599c19e2-da8f-49de-acb8">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">31 May 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.24</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c3cac3e7-68c7-4862-9564">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">12 July 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.25</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/d0730fc4-e6d6-4b36-8de7">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">18 Sept 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.26</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/79790f97-4819-43c4-88c1">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">25 Oct 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.27</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/932daa28-68f1-45f5-bebf">Albert Einstein to Samuel Leidesdorf</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">25 Oct 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.28</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/31a3ad9e-e3cc-41bf-a422">Albert Einstein autograph draft unsigned On the recto of a sheet of autograph mathematical equations. At the bottom of the letter are notes meant for Otto Nathan and Herbert Maass</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[1939?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.29</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/3c96ef0b-d001-48ad-be6d">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">17 Jan 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.30</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/804f0da7-1423-417f-a924">Albert Einstein to Otto Nathan Written at the bottom and side of a letter from Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[Feb 1939?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.31</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/2c73a00b-81a3-4783-bfa3">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">22 June 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.32</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/5e84ef6a-994f-4cf1-beb4">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[10 July 1939?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.33</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/5a194d60-9b4f-442a-a07d">Albert Einstein to Otto Nathan written at the bottom of the letter from Maass and Davidson </archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[August 1939?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.34</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/ac7b4f6b-84ad-43de-81a3">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[5 Sept 1939?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.35</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/f4acacb4-8496-4b09-b29c">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">23 Oct 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.36</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/04df52e5-b794-4818-b9de">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">29 Oct 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.37</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/4414065f-a3de-45d3-800a">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">3 Nov 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.38</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/6a93cd31-c0d7-419e-b17a">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[24 Nov 1939?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.39</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/803b1031-d510-4033-8d55">Albert Einstein to Helene Dukas</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[Summer 1940?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.40</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8e4360ef-bb8e-4db9-96a8">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[10 Jan 1940?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.41</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8a97f237-0838-452b-acab">Albert Einstein to Helene Dukas</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[9 May 1940?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.42</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/50b7fd06-b469-4759-9ae0">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">7 July 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.43</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/995dc74b-7b40-461f-a452">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">30 July 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.44</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/14bc36d1-c088-45bc-be16">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">31 July 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.45</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c5907fc0-394b-4795-99c6">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">7 Aug 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.46</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/e6e2c893-4e4b-49d0-84ca">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">14 Aug 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/fb489eae-6456-4b08-9a8d">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">16 Aug 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.48</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/b4cd3df7-19d5-493e-8cdb">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">23 Aug 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.49</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/ba6fab93-6deb-4abd-8d0a">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">19 Nov 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.50</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/75318761-ca1f-41a0-b491">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">2 May 1941</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/1e2521b4-6037-48cb-b5ab">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">14 Jan 1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.52</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/9dee0766-7195-4444-8adc">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">26 Feb 1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.53</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/a14328a3-5924-4314-b362">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[2 Sept 1942?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.54</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/309164a7-c02d-4f06-9bcb">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">15 Dec 1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/36ca0ef7-1245-4260-8636">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">6 Feb 1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.56</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8be456c1-a7aa-474d-968e">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">8 Mar 1945</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/aeefaa9b-6d17-45a6-9efd">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">12 Nov 1945</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/bc05a1f4-1629-4a1f-9c00">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[20 May 1946?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.59</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/3139f628-930f-42aa-8fe3">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[11 May 1947?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8179308a-6f87-4ca8-ac67">Albert Einstein to Mr. Lazurs</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">19 July 1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.1</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/2781b460-a3ed-4709-99ad">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">5 Oct 1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.2</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/dba7c03d-bb35-4447-be14">Albert Einstein to Dr. Meili</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">19 July 1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.3</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/cfc8ff9b-174c-4f0c-ad8b">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[2 July 1948?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.4</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/a645710a-d37a-4285-ac68">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">22 July 1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.5</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/4adbf661-e2da-4208-895a">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[29 Aug 1948?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.6</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/d597cfa5-dac2-4334-9ae7">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">4 Sept 1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.7</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c5c15d26-f9c5-4d09-b5e6">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">7 Oct 1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.8</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/01cd0296-50b9-4755-ab2a">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[17 Feb 1949?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.9</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c4dfc303-5274-4a4a-8617">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">17 Feb 1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.10</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/cea240a6-3f24-470e-8303">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">19 Feb 1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.11</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/7454c548-d164-419f-9503">Albert Einstein to Abram Sacher</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">4 July 1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.12</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8371832f-4baa-4c79-bdcf">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">13 Aug 1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.13</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/a535bfd7-1b5e-449e-99bc">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">25 Jan 1950</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.14</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/7a68d12a-90e8-40f5-8a71">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">11 May 1950</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.15</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/e1ed82d5-e0a2-4375-9db9">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">22 May 1953</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.16</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/69491f82-3ee2-4b5d-819b">Albert Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">11 June [according to Nathan should be July] 1953</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters of Otto Nathan</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.17</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/f2fc956d-9117-47cf-afe4">Otto Nathan to Elsa Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">24 Sept 1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.18</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/b60407ea-dd84-451e-b14b">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">21 July 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.19</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/894844df-0083-43d0-8a6c">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">24 July 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.20</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/491c754f-ff3a-4c09-843c">Otto Nathan to B. Charney</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">22 Mar 1937 Vladeck</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.21</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/d1ccc97b-612e-444c-9586">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">6 Apr 1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.22</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/3bee208e-a502-4d05-88d2">Otto Nathan to David Niles</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">10 Apr 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.23</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/4e8f97b8-9238-489e-a5da">Otto Nathan to Miss Nike</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">19 Apr 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.24</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/7de1a068-fcf8-4c5e-bcb9">Otto Nathan to Kurt Battsele</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">19 Apr 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.25</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/0dd24911-1faa-432d-957a">Otto Nathan to Lillie Schultz</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">11 Sept 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.26</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/e73c566b-1f04-4c67-b4db">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">2 Oct 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.27</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/0a011b97-48f7-4bed-8cfe">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">4 Nov 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.28</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c4161d9c-1114-41f7-9258">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">6 Nov 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.29</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/332cd5d6-50eb-477a-a9ae">Otto Nathan to Herbert Maass</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">6 Nov 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.30</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/b2e724fb-950b-4bb9-af1e">Otto Nathan to Paul Guggenheim</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">6 Nov 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.31</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/dc8d3297-feaa-4e71-bcfc">Otto Nathan to Miss Nike</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">6 Nov 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.32</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/ee520054-9485-4121-8767">Otto Nathan to Mr. Lawson</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">15 Dec 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.33</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/33fe88c7-d2cd-4fc4-836c">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">30 May 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.34</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/5b7a87de-0cf1-42e7-a8f8">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">19 June 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.35</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8afdd7b8-942a-43e1-9b00">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">14 Nov 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.36</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/bac3016e-70b1-415b-a9f9">Otto Nathan to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">25 June 1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.37</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/c6088b3a-9b98-45f7-a092">Otto Nathan, signed "A.E." Richard Grossman. Likely Otto to Nathan's handwritten copy of a letter by Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">11 Aug 1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.38</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/f7d4080c-c840-4d39-8bfc">Otto Nathan to the American Jewish Congress</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">4 Nov 1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.39</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/613960d4-577a-456a-b09b">Otto Nathan to Louise Waterman</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">4 Nov 1947 Wise</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.40</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/6acc10b9-deca-4f04-98f7">Otto Nathan to Abram Sacher</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">24 May 1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.41</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/3443ac1b-e4a4-41f3-a4cd">Otto Nathan to Martin Blackman. With typed brochure titled "The Writings of Albert Einstein"</archref>, </unittitle>
+							<physdesc>(2 items)</physdesc>
+							<unitdate type="inclusive">7 Feb 1975</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters of Elsa Einstein</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.1</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/ef90d52e-eda5-4642-b005">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">25 Jan 1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.2</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/034db365-05cf-4381-b50b">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[May or June 1934?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.3</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/cd814720-49fe-4dd4-8b32">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.4</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/817927f5-3197-4b0c-8128">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">17 Sept 1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.5</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/5dd98053-88c3-4749-99b1">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">20 Sept 1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.6</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/99ac490a-09fa-4179-9421">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">8 June 1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.7</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/3b4e362d-6beb-4761-83d5">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">17 July 1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.8</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/0c9cb49b-c8fb-4e53-b6a2">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">22 July 1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.9</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/e9d4c75b-9ecb-422a-862f">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">24 July 1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.10</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/b3fbfbd2-a3cb-434f-abec">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">27 May 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.11</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/9c7e3bcc-bea4-408a-96b7">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">[10 Oct 1936?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.12</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/7736a4ec-5067-4541-8998">Elsa Einstein to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">29 Nov [1936?]</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters of Others</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.13</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/d0eed6fa-2025-4d51-acc5">Felix Frankfurter to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">25 May 1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.14</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/1cab67b0-f3ae-44fb-bf95">Sigmund Freud to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">3 May 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.15</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/a7505157-5969-47b9-babf">Charles A. Beard to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.16</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/1d9236d7-6107-4480-98b2">Herbert Maass to Samuel Leidesdorf</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">1 Nov 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.17</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/f3d45e27-2b07-4bec-a513">David Levy to Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">10 Nov 1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.18</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/80d5a752-78fe-4e20-9eb2">Frank Aydelotte to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">3 Feb 1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.19</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/ec5b88b1-2247-426e-8496">Michael Nisselson to Albert Einstein. In an initialed note below Einstein has written. "Not Answered A.E.,"</archref> </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">2 May 1953</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.20</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/6e672c6f-10e4-425f-bbcf">Abram Sacher to Albert Einstein</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">20 May 1953</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.21</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/2eac0919-39a8-4cc2-ac36">Michael Gruning to The Einstein Archives</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">18 May 1988</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II: MANUSCRIPTS AND EPHEMERA OF ALBERT EINSTEIN</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Manuscripts (including typescripts)</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.22</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/60e00bc4-ba6e-43ce-8ceb">Unsigned typescript for the "Labor/Chest May Day Demonstration"</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">May 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.23</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/5ce34001-c547-4a9d-a79b">Typed, autographed manuscript signed. Concerning the National Council of Jewish Women ending with a call to help the Jewish people</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">7 Jan 1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.24</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/aa2dcada-bf57-4393-a94d">Typescript unsigned memorandum regarding Einstein's last will</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">9 Mar 1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.25</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/0d7b1c8a-9584-467f-8635">Twelve line poem written in honor of Helene Dukas</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">3 Aug 1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.26</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/93138e72-e0d9-4bb5-9ab9">Twenty-eight-line poem for Emmanuel Libman</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[Oct 1942?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.27</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/146e9929-cef9-449c-b7f8">Twenty line birthday poem possibly for Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive">14 July 1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.28</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/8701c588-98bb-4d8a-a13d">Typescript [Apparently for The National Wartime Conference on May 1944]</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[May 1944?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.29</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/d8594f1c-6fa9-4f4f-bb69">Statement regarding George Alpert and Brandeis University's Board of Trustees</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">25 July 1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.30</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/a94a09af-a226-4521-af22">Typescript regarding U.S. relations with Russia</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[27 May 1948?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.31</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/752799a6-6786-4561-ab20">English translation of typescript regarding U.S. relations with Russia</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">1 June 1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.32</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/a19aeb65-7b2f-43aa-b21c">Typescript on the subject of war atomic weapons and politics</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[10 June 1948?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.33</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/52852084-9971-4b8e-85a0">Manuscript discussing war, politics, world cooperation, etc.</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[July 1948?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.34</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/f0783704-403d-430b-bba2">Typescript, regarding Greenglass' fallibility as a witness and two points where the Rosenbergs could be found to have acted suspiciously</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">23 Mar 1952</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.35</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/525f901e-86ee-4bbd-b7a4">Typescript concerning the breakdown of collective security</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.36</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/50814af9-f752-4b68-a135">Unsigned manuscript probably pre-World War II</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Ephemera</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.37</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/1f496dba-7e73-4da1-b268">A page removed from a calendar to note the book belongs to Otto Nathan and in the case of an accident Einstein should be contacted</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[end of Dec 1941?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.38</container>
+							<unittitle>Five checks signed in full by Albert Einstein, </unittitle>
+							<physdesc>(5 items)</physdesc>
+							<unitdate type="inclusive">1947-1953</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.39</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/1f8fba55-7416-46bf-96b7">Albert Einstein and Henry Wallace signed petition</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[1950?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.40</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/547e303c-50cf-4af3-a2dc">Albert Einstein's pocket calendar for 1930</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">1930</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. PHOTOGRAPHS</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Signed Photographs</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.1</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/0e8d7b58-b26f-44c2-a18e">Albert Einstein in a v-neck sweater</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">17 Oct 1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.1</container>
+							<unittitle>Five mounted photographs of Albert Einstein, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.1</container>
+							<unittitle>Albert Einstein at the tiller of a sailboat, framed, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.1</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/e6862623-12ac-441e-9ef1">Albert Einstein looking directly into the camera</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Unsigned Photographs</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.2</container>
+							<unittitle>Albert Einstein in jacket and tie looking to his left above his glasses, framed, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.2</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/d4f5422b-299e-4f33-a2e5">Albert Einstein in 3/4 profile looking directly into camera</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.3</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/d4809d15-2b8a-4261-8400">Albert Einstein shown in 3/4 profile with pen clip showing on the collar of his sweatshirt</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.4</container>
+							<unittitle>Albert Einstein seated wearing a sweater with his head slightly raised in profile, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.2</container>
+							<unittitle>Albert Einstein sitting wearing a wing-tip collared shirt, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.3</container>
+							<unittitle>Albert Einstein and his wife, Tokyo, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">Nov 1922</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.4</container>
+							<unittitle>Albert Einstein and Charles St. John with St. John's spectrographic apparatus, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.5</container>
+							<unittitle>'Albert Einstein' by Joseph Scharl, Oil painting on burlap 1/2 portrait of Albert Einstein, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">1950</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.6</container>
+							<unittitle>'Professor Einstein' by S. Elfinger, charcoal drawing of Albert Einstein's head, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">[1954?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.7</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/89b44fdd-bf30-4a79-93d9">Albert Einstein and Otto Nathan walking in garden</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.8</container>
+							<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/albert-einstein-digital-collection/5dc1eca3-e5fb-46ba-ab12">Albert Einstein smoking in garden with Otto Nathan</archref>, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Albert Einstein smoking in garden with Otto Nathan, </unittitle>
+							<physdesc>(1 framed item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.9</container>
+							<unittitle>Albert Einstein on a porch wearing fuzzy slippers, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.10</container>
+							<unittitle>A youthful picture of Albert Einstein with his sister Maja, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.11</container>
+							<unittitle>Albert Einstein seated with four other gentlemen, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.12</container>
+							<unittitle>Sculpture of Albert Einstein's hands, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.13</container>
+							<unittitle>Profile of sculpture of Albert Einstein's head, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.14</container>
+							<unittitle>"Albert Einstein" by Jo Davidson, terra cotta bust of Albert Einstein, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.15</container>
+							<unittitle>Profile of sculpture of Albert Einstein's Head with artist, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

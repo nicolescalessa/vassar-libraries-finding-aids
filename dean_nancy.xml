@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_dean_nancy</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Nancy Dean Papers, 1950-2017</titleproper>
+				<author>Inventory prepared by Janine St. James</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>February 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2018</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Dean, Nancy</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Nancy Dean Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1950-2017 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 6.5 cubic feet (20 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Collection includes manuscripts of Dean’s scholarly works, fiction and theatrical writing, as well as subject files and teaching files. Collection includes correspondence with friends and family, handwritten notes and manuscript drafts, as well as index cards containing notes used for research and/or teaching. Publicity and press clippings files include reviews of Dean’s theatrical works. Collection also contains audio visual materials, including CDs, DVDs, as well as audio and video cassettes. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Nancy Dean (1930-2017), was an scholar of medieval history and literature specializing in Chaucer, professor, playwright, author of fiction, plays and opera, and noted advocate and philanthropist for LGBTQ causes. She founded the Astraea Foundation, which supports the needs of lesbians and women of color. With Beva Eastman, her partner of 54 years, she went on to create the Open Meadows Foundation, a global fund supporting political change directed by and benefiting women and girls. A Vassar alumna (VC Class of 1952), Dean received a masters degree from Radcliffe (1953), a PhD in Medieval Studies from New York University (1963), followed by a 28-year teaching career at Hunter College (1963-1991), teaching Medieval Studies, Chaucer, Creative Writing and Women’s Studies). Before teaching at Hunter, Dean taught at the American College for Girls in Istanbul, Turkey for three years during the 1950s.</p>
+			<p>Published works by Dean include: In the Mind of the Writer (Cranfield Press), In the Looking Glass: Twenty-one modern short stories by women, (Putnam Press, 1977), and published short stories in periodicals including Room with a View (The Gathering) and IKON (Requited Love). Her first novel entitled Anna’s Country, was written and published under the pseudonym, Elizabeth Lang (Naiad Press, 1981). Playscripts include: Larks and Owls (1986), Returning Home (1989), Hetty Pepper’s Stew (1986), Blood and Water (1986), Ophelia’s Laughter (1988), Ripe Avocados (2008), Gloria’s Visit (1990), Which Marriage? (1991), Burning Bridges (1992), Upstairs? In the Afternoon? (1995), and That Ilk (1998).</p>
+			<p>Excerpts from her libretto Criseyde, a feminist reading of Chaucer’s Troilus and Criseyde, were presented in Middle English at performance staged at City University of New York in 2008. Dean was a member of both the Dramatists Guild and the Women Playwrights Collective.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Manuscripts, many in draft form, comprise the majority of the collection, documenting Dean’s academic work from Vassar undergraduate studies through graduate and PhD work at Radcliffe and New York University. Included among these is Dean’s PhD dissertation, Studies in Chaucer’s Use of Ovid in Selected Early Poems. Speech and lecture files include talks given at Vassar, Allegheny College, Hunter College, Brooklyn College and Smith College. Playscripts and opera librettos, both in draft and final form are also included among her writings. Playscript files also include some correspondence, editorial notations, contracts, agreements, and program notes. Manuscript files for dramatic works contain scripts, research notes, correspondence, musical scores, and publicity.</p>
+			<p>Dean’s correspondence files include both professional and personal communication. Of note are letters written to both her mother and father during her years teaching in Turkey during the 1950s.</p>
+			<p>Teaching and subject files document Dean’s management of her career as both a writer and college professor. A collection of oversized index cards contain notes used for researching and/or teaching 17th &amp; 18th century literature. Teaching files also contain class schedules, notes, bibliographies and syllabi. Audio visual material includes CDs, DVDs, and audio and video tapes documenting selections from Dean’s theatrical works including a recording of Dean reading the libretto of her opera, Criseyde.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Hunter College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women college teachers--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Women dramatists--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Women novelists--United States</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Manuscripts (documents)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> LGBTQ (Lesbian, Gay, Bisexual,Transgender &amp; Queer) Life and Culture </subject>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head/>
+			<p/>
+		</odd>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, July 2019. Updated by Mark Seidl, September 2020.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, 2019.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p/>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Nancy Dean Papers Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p> The collection is arranged into eight series. Manuscripts are arranged alphabetically, by title. Writings are arranged into subseries by name by of teaching institution, and by genre (fiction and playscripts), as arranged by the author. Subject and teaching files are arranged alphabetically, as titled by the creator.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series1"> Series I. </ref> Subject Files, </unittitle>
+					<unitdate>approximately 1952-2011</unitdate>
+					<physdesc>(Box 1-2)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series2"> Series II. </ref> Teaching Files , </unittitle>
+					<unitdate>1988, undated</unitdate>
+					<physdesc>(Box 3-6, 19)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series3"> Series III. </ref> Writings, </unittitle>
+					<unitdate>approximately 1974-2000</unitdate>
+					<physdesc>(Box 7-15)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series4"> Series IV. </ref> Correspondence,</unittitle>
+					<unitdate>1951-2009</unitdate>
+					<physdesc>(Box 16-17)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series5"> Series V. </ref> Speeches and Lectures, </unittitle>
+					<unitdate>approximately 1976-2011</unitdate>
+					<physdesc>(Box 18)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series6"> Series VI. </ref> Publicity and Press clippings, </unittitle>
+					<unitdate> 1977-2008</unitdate>
+					<physdesc>(Box 18-19)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series7"> Series VII. </ref> Photographs, </unittitle>
+					<unitdate>approximately 1956-2000</unitdate>
+					<physdesc>(Box 18)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series8"> Series VIII. </ref>Audiovisual Material, </unittitle>
+					<unitdate>approximately 1967-2008</unitdate>
+					<physdesc>(Box 20)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. SUBJECT FILES, </unittitle>
+					<unitdate>approximately 1952-2011</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.1-1.3</container>
+						<unittitle>Actor's Alliance,</unittitle>
+						<unitdate>1989-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>19.2</container>
+						<unittitle>Astrea Foundation,</unittitle>
+						<unitdate>1979-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.4</container>
+						<unittitle>Bio file, certificates, awards,</unittitle>
+						<unitdate>1982-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>20.1</container>
+						<unittitle>Bio file, certificates, Vassar, Harvard, New York University, Hunter College,</unittitle>
+						<unitdate>1952-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.5</container>
+						<unittitle>Bio file, resumes, artist statements,</unittitle>
+						<unitdate>1976-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.6</container>
+						<unittitle>Collected bibliographies, feminist writings</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.7</container>
+						<unittitle>Criseyde, opera, character studies,</unittitle>
+						<unitdate>2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.8</container>
+						<unittitle>Criseyde, opera, copyright certification,</unittitle>
+						<unitdate>2009-2010</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.9</container>
+						<unittitle>The Crystal Quilt, publicity,</unittitle>
+						<unitdate>1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.10</container>
+						<unittitle>Hunter College, Future Speak,</unittitle>
+						<unitdate>1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.11</container>
+						<unittitle>Hunter College Annual Report, Asst. Dean of Instruction,</unittitle>
+						<unitdate>1967-1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.12</container>
+						<unittitle>Hunter College, resume, teaching file, memos,</unittitle>
+						<unitdate>1963-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.13</container>
+						<unittitle>International Women Playwrights Conference,</unittitle>
+						<unitdate>1991-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.14-1.15</container>
+						<unittitle>Intimate Acts: Eight Contemporary Lesbian Plays,</unittitle>
+						<unitdate>1996-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.16</container>
+						<unittitle>Lesbian Theater Project,</unittitle>
+						<unitdate>1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.17</container>
+						<unittitle>Love Creek Productions,</unittitle>
+						<unitdate>1986-2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.18</container>
+						<unittitle>Manhattan Repertory Theatre,</unittitle>
+						<unitdate>2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.1</container>
+						<unittitle>Medieval Club,</unittitle>
+						<unitdate>1967-1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.2</container>
+						<unittitle>Medieval Literature,</unittitle>
+						<unitdate>1974-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.3</container>
+						<unittitle>New York University, reference/teaching,</unittitle>
+						<unitdate>1960-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.4</container>
+						<unittitle>Open Meadows Foundation, press releases, newsletters,</unittitle>
+						<unitdate>1986-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.5-2.9</container>
+						<unittitle>Pen and Brush Playwrights Conference,</unittitle>
+						<unitdate>1996-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.10</container>
+						<unittitle>Play agreements, requests,</unittitle>
+						<unitdate>1992-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.11</container>
+						<unittitle>That Ilk, play, correspondence, press, agreements,</unittitle>
+						<unitdate>1998-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.12</container>
+						<unittitle>Vassar, Smashing History: 150 Years of LGBTQA, speech text, logistical file,</unittitle>
+						<unitdate>2001-2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.13</container>
+						<unittitle>Women's One World Theater, play, Upstairs in the Afternoon,</unittitle>
+						<unitdate>1996</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. TEACHING FILES, </unittitle>
+					<unitdate>1988, undated</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>3.1-3.6, 4.1-4.6, 19.3</container>
+						<unittitle>17th, 18th Century Literature, index cards (notes),</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>4.7</container>
+						<unittitle>Chaucer: The Early Works, class bibliography,</unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>5.1-5.6, 6.1-6.6</container>
+						<unittitle>Chaucer, index cards (notes),</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>19.4</container>
+						<unittitle>Teaching tool, timeline, Anglo Saxon Period</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. WRITINGS, </unittitle>
+					<unitdate>approximately 1950-2015</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>General</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>7.1</container>
+							<unittitle>Book of Duchess,</unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(manuscript and typescritp)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.2-7.3</container>
+							<unittitle>Book proposal, Anthology of Visions of the 1990s,</unittitle>
+							<unitdate>1988-1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.4</container>
+							<unittitle>Book proposal, The Best Stories By American Women,</unittitle>
+							<unitdate>1987-1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.5</container>
+							<unittitle>Book proposal, Women, According to Women: Twenty One Short Stories,</unittitle>
+							<unitdate>1977-1980</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.6</container>
+							<unittitle>Chaucer's Complaint, A Genre Descended from the Heroides, Comparative Literature,</unittitle>
+							<unitdate>1967</unitdate>
+							<physdesc>(offprint)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.7-7.10</container>
+							<unittitle>Chaucer's House of Fame, first draft, with edits, bibliography,</unittitle>
+							<unitdate>1978</unitdate>
+							<physdesc>(notes)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.11</container>
+							<unittitle>Chaucer and Ovid, introduction,</unittitle>
+							<unitdate>undates</unitdate>
+							<physdesc>(edited typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.12</container>
+							<unittitle>Chaucer's Use of Myth,</unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>7.13</container>
+							<unittitle>Criseyde,</unittitle>
+							<unitdate>2005</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>19.5-19.7</container>
+							<unittitle>Criseyde, opera, full musical score,</unittitle>
+							<unitdate>2010</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.1</container>
+							<unittitle>Criseyde, opera libretto,</unittitle>
+							<unitdate>2001</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.2</container>
+							<unittitle>Criseyde, opera, piano and vocal score,</unittitle>
+							<unitdate>2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.3</container>
+							<unittitle>Criseyde, opera, scene list,</unittitle>
+							<unitdate>2006</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.4</container>
+							<unittitle>Criseyde, An Opera in Three Acts, Being a Feminist Retelling of Chaucer's Troilus and Criseyde, libretto</unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.5-8.6</container>
+							<unittitle>Ecloga Theoduli,</unittitle>
+							<unitdate>1970-1971</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.7</container>
+							<unittitle>Ecloga Theoduli, What School Child Might Have Learned from the Ecloga Theoduli, </unittitle>
+							<unitdate>1972-1973</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.8</container>
+							<unittitle>The Gatherings, by Elizabeth Lang [Nancy Dean],</unittitle>
+							<unitdate>1976</unitdate>
+							<physdesc>(includes edits)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.9</container>
+							<unittitle>Ladies Mile, TS,</unittitle>
+							<unitdate>2012</unitdate>
+							<physdesc>(typescript; includes corresposdence)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.10</container>
+							<unittitle>Nun's Priest's Tale,</unittitle>
+							<unitdate>1971-1974</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.11</container>
+							<unittitle>Ovid's Elegies From Exile, Chaucer's Book III, House of Fame,</unittitle>
+							<unitdate>1964</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>9.1-9.3</container>
+							<unittitle>Poetry,</unittitle>
+							<unitdate>1953-1975</unitdate>
+							<physdesc>(manbuscripts, notes)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>9.4</container>
+							<unittitle>Requited Love, Ikon Press, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>9.5-9.6</container>
+							<unittitle>Song to David Chretien Yvain,</unittitle>
+							<unitdate>1961, 1971</unitdate>
+							<physdesc>(includes notes, correspondence)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.1-10.3</container>
+							<unittitle>Submitted/Unpublished fiction,</unittitle>
+							<unitdate>1950-1970</unitdate>
+							<physdesc>(typescripts)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.4-10.6</container>
+							<unittitle>Three Voices, One Song,</unittitle>
+							<unitdate>1999-2000</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Fiction</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>10.7-10.10</container>
+							<unittitle>Essays, short stories</unittitle>
+							<unitdate>1970-1990</unitdate>
+							<physdesc>(typescripts)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.11-10.12, 11.1-11.4</container>
+							<unittitle>Murder on the Mantel,</unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Playscripts</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>11.5</container>
+							<unittitle>Blood and Water,</unittitle>
+							<unitdate>1988-2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.6</container>
+							<unittitle>Burning Bridges,</unittitle>
+							<unitdate>2010</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.7</container>
+							<unittitle>The Cooky Thief,</unittitle>
+							<unitdate>1998</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.8</container>
+							<unittitle>Counter Talk,</unittitle>
+							<unitdate>1999</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.9</container>
+							<unittitle>Gloria's Visit,</unittitle>
+							<unitdate>1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.10</container>
+							<unittitle>Hetty Pepper's Stew,</unittitle>
+							<unitdate>1987, 2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.11</container>
+							<unittitle>High Buttoned Sneakers: The Bartow Pell Staircase,</unittitle>
+							<unitdate>2009</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.12</container>
+							<unittitle>Larks and Owls,</unittitle>
+							<unitdate>1984-1986</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.13-11.14</container>
+							<unittitle>The Misanthrope,</unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.1-12.2</container>
+							<unittitle>Murder at the Regatta,</unittitle>
+							<unitdate>1998</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.3</container>
+							<unittitle>Ophelia,</unittitle>
+							<unitdate>2004-2015</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.4</container>
+							<unittitle>Ophelia's Laughter,</unittitle>
+							<unitdate>1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.5</container>
+							<unittitle>Ophelia's Rainbows,</unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.6</container>
+							<unittitle>Resort,</unittitle>
+							<unitdate>2002</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.7</container>
+							<unittitle>Returning Home,</unittitle>
+							<unitdate>1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.8</container>
+							<unittitle>Ripe Avocados,</unittitle>
+							<unitdate>2001-2005</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.9</container>
+							<unittitle>That Ilk,</unittitle>
+							<unitdate>1987-2000</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.10</container>
+							<unittitle>Upstairs in the Afternoon,</unittitle>
+							<unitdate>1995-1996</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.11</container>
+							<unittitle>Which Marriage?,</unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.12</container>
+							<unittitle>The Yellow Wallpaper, based on a short story by Charlotte Perkins Gilman,</unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Harvard University</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>13.1</container>
+							<unittitle>Miscellaneous academic papers,</unittitle>
+							<unitdate>1952-1953</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Hunter College</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>13.2</container>
+							<unittitle>How Were Medieval School Children Introduced to Myths,</unittitle>
+							<unitdate>1973</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.3-13.7</container>
+							<unittitle>The Complaints of Machaut and Chaucer, </unittitle>
+							<unitdate>1962, 1983</unitdate>
+							<physdesc>(typescripts)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>New York University</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>13.8</container>
+							<unittitle>Bibliography, Titus Andronicus,</unittitle>
+							<unitdate>1959</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.9</container>
+							<unittitle>Chaucer,</unittitle>
+							<unitdate>1960</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.10-13.11</container>
+							<unittitle>Chaucer's Use of Ovid,</unittitle>
+							<unitdate>1960</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.12</container>
+							<unittitle>Dissertation Abstract, Studies in Chaucer's Use of Ovid,</unittitle>
+							<unitdate>1961-1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.1-14.6</container>
+							<unittitle>Dissertation, PhD, Studies in Chaucer's Use of Ovid in Selected Early Poems,</unittitle>
+							<unitdate>1963</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.7</container>
+							<unittitle>Dryden, Pope, Swift, Chaucer (final exam),</unittitle>
+							<unitdate>1960</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.8-14.10</container>
+							<unittitle>Dryden, Pope, Shakespeare, Milton,</unittitle>
+							<unitdate>1960-1961</unitdate>
+							<physdesc>(typescript, notes)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.11</container>
+							<unittitle>Milton: An Explication of Sonnet XI,</unittitle>
+							<unitdate>1960</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>15.1-15.4</container>
+							<unittitle>Richard Coeur de Lion,</unittitle>
+							<unitdate>1961</unitdate>
+							<physdesc>(manuscript, typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>15.5</container>
+							<unittitle>The Wife of Bath,</unittitle>
+							<unitdate>1960</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>19.8</container>
+							<unittitle>The Use of Ovid's Tale Seyx and Alcyone,</unittitle>
+							<unitdate>1960</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Vassar College</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>15.6</container>
+							<unittitle>Chaucer,</unittitle>
+							<unitdate>1950</unitdate>
+							<physdesc>(typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>15.7</container>
+							<unittitle>Preaching in Chaucer's Time,</unittitle>
+							<unitdate>1950</unitdate>
+							<physdesc>(edited typescript)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>15.8</container>
+							<unittitle>Vassar Alumnae Magazine,</unittitle>
+							<unitdate>October 1967</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Other Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>15.9-15.10</container>
+							<unittitle>Ginnie Goddard on Nancy Dean, Contemporary Lesbian Writers,</unittitle>
+							<unitdate>1991-1994</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. CORRESPONDENCE, </unittitle>
+					<unitdate>1951-2017</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Professional</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>16.1</container>
+							<unittitle>From Nancy Dean,</unittitle>
+							<unitdate>1951, 1956</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>16.2-16.3</container>
+							<unittitle>To Nancy Dean, from friends/associates,</unittitle>
+							<unitdate>1951-1999</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>16.4-16.10</container>
+							<unittitle>To/From Nancy Dean, re: Criseyde, opera logistics,</unittitle>
+							<unitdate>2003-2009</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>16.11</container>
+							<unittitle>Re: In the Mind of the Writer, published work,</unittitle>
+							<unitdate>1972-1973</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>16.12-16.13</container>
+							<unittitle>Re: Playwriting,</unittitle>
+							<unitdate>1991-2000</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>16.14-16.16</container>
+							<unittitle>Re: Teaching, Vassar, Hunter, NYU, Turkey,</unittitle>
+							<unitdate>1958-2017</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Personal</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>17.1</container>
+							<unittitle>From Dean, Archie [father],</unittitle>
+							<unitdate>1951-1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>17.2</container>
+							<unittitle>From Dean, Ella Lang [mother],</unittitle>
+							<unitdate>1952-1962</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>17.3-17.10</container>
+							<unittitle>From Nancy Dean to parents,</unittitle>
+							<unitdate>1956-1962</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V. SPEECHES/LECTURES, </unittitle>
+					<unitdate>approximately 1976-2011</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>18.1</container>
+						<unittitle>All Lesbian Theater is Political, Allegheny College,</unittitle>
+						<unitdate>1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.2</container>
+						<unittitle>Barnard College - The Scholar and the Feminist Towards a Politics of Sexualtiy,</unittitle>
+						<unitdate>1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.3</container>
+						<unittitle>Brooklyn College, Women's Studies Association Conference, Culture and Change,</unittitle>
+						<unitdate>1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.4</container>
+						<unittitle>CUNY Conference, Working Towards Multiculturalism,</unittitle>
+						<unitdate>1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.5</container>
+						<unittitle>Draddy Lecture, Hunter College, Social Change and the English Language,</unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.6</container>
+						<unittitle>The Female Man, Women's Studies,</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(edited typescript</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.7</container>
+						<unittitle>Hunter College Women's Studies, Setting the Record Straight,</unittitle>
+						<unitdate>1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.8</container>
+						<unittitle>Memorial, Elizabeth Evans,</unittitle>
+						<unitdate>1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.9</container>
+						<unittitle>Modern Language Association, Feminist Short Stories, New Forms and Styles,</unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.10</container>
+						<unittitle>New York Women's Association, The Ending of Woman On Edge of Time,</unittitle>
+						<unitdate>1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.11</container>
+						<unittitle>On Late Bloomers, The Crystal Quilt,</unittitle>
+						<unitdate>1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.12</container>
+						<unittitle>Smith College, interview transcript,</unittitle>
+						<unitdate>2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.13</container>
+						<unittitle>Spyer, Thea-memorial,</unittitle>
+						<unitdate>2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.14</container>
+						<unittitle>Vassar College, Smashing 150 Years of LGBTIQA at Vassar, To Be a Freshman in 1948,</unittitle>
+						<unitdate>2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.15</container>
+						<unittitle>Writing at Hunter College, Conference,</unittitle>
+						<unitdate>1996</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> SERIES VI. PUBLICITY/PRESS CLIPPINGS, </unittitle>
+					<unitdate>1977-2008</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>18.16</container>
+						<unittitle>Anna's Country, by Elizabeth Lang [Nancy Dean],</unittitle>
+						<unitdate>1981-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.17</container>
+						<unittitle>Blood and Water, one act play,</unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.18</container>
+						<unittitle>Criseyde, opera program, City Opera, CUNY,</unittitle>
+						<unitdate>2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>19.1</container>
+						<unittitle>In the Looking Glass, edited by Nancy Dean and Myra Stark,</unittitle>
+						<unitdate>1977-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.19</container>
+						<unittitle>Women's Theatre Collective,</unittitle>
+						<unitdate>1985-1999</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle> SERIES VII. PHOTOGRAPHS, </unittitle>
+					<unitdate>approximately 1956-2000</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>18.20</container>
+						<unittitle>Portrait, Nancy Dean</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.21</container>
+						<unittitle>Publicity photos, That Ilk production,</unittitle>
+						<unitdate>19980-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>18.22</container>
+						<unittitle>Photographic prints separated from correspondence, family/friends,</unittitle>
+						<unitdate>1956-1962</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle> SERIES VIII. AUDIO/VISUAL MATERIALS, </unittitle>
+					<unitdate>approximately 1967-2008</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Blood and Water, audio cassette,</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Burning Bridges,</unittitle>
+						<unitdate>1993</unitdate>
+						<physdesc>(VHS tape)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Criseyde, opera,</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(CD, DVD)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Criseyde, Nancy Dean reading libretto,</unittitle>
+						<unitdate>2008</unitdate>
+						<physdesc>(CD)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Hetty Pepper's Stew,</unittitle>
+						<unitdate>2008</unitdate>
+						<physdesc>(CD)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Iliad, Anthony Quayle,</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(audio cassette)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Ripe Avocados,</unittitle>
+						<unitdate>2008</unitdate>
+						<physdesc>(CD)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Sounds of Chaucer's English, Knapp and Snortum,</unittitle>
+						<unitdate>1967</unitdate>
+						<physdesc>(audio cassette)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>That Ilk, music and voice cues,</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(CD)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

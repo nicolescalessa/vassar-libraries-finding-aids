@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_claflin_agnes_rindge</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Agnes Rindge Claflin Papers, circa 1901 - circa 1977</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>January 2009</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2009</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Claflin, Agnes Rindge, 1900-1977</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Agnes Rindge Claflin Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">circa 1901 - circa 1977</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1927-1934</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">3.3 cubic feet (5 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The bulk of the Claflin collection is from the years 1927-1934, the period in which she received her graduate degrees and began to teach at Vassar College as an associate professor and later as a full professor. While the collection itself is mainly made up of correspondence, it also contains an eclectic selection of material, including: various drafts of her doctoral thesis, newspaper clippings concerning her career, programs of exhibits, class notes and assorted miscellanea.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Agnes Millicent Rindge was born on May 19, 1900 in Grand Rapids, Michigan. Upon graduating the Madeira School in 1917, she attended Mount Holyoke College for two years, and in 1921, having being elected to Phi Beta Kappa, received her B.A. magna cum laude from Radcliffe College. In 1923, Rindge joined the faculty of the Vassar Art Department as an instructor. She returned to Radcliffe to do graduate work, receiving her M.A. in 1927 and her Ph.D. in 1928. In the fall of that year, Rindge rejoined the Vassar Art Department as an associate professor. After three years, she was promoted to the rank of full professor. Rindge was director of the Vassar Art Gallery (1943-1962), Chairperson of the Art Department (1943-1965), and Mary Conover Mellon Professor of Art (1961-1965).</p>
+			<p>Her most extensive written work is <emph render="italic">Sculpture</emph> which was published in 1929. Subsequently, she wrote <emph render="italic">The Elder Pieter Bruegel: A Short Essay</emph> (1936), as well as numerous articles for publications such as <emph render="italic">International Studio</emph>, <emph render="italic">Parnassus</emph>, and <emph render="italic">Formes</emph>.</p>
+			<p>Over the course of several decades, Rindge lectured at many of this country's foremost institutions of higher learning, including: New York University Institute of Fine Arts, Chicago Art Institute, Wadsworth Athenaeum, Columbia University, Yale School of Fine Art, and at other universities too many to enumerate.</p>
+			<p>During World War II, Rindge served as Executive Secretary and Consultant in the Art Division of the Coordinator of Inter-American Affairs (1941-1942), and continued as Consultant in the Program of Cultural Relations with Latin America, where she was concerned with the circulation and exposure of Latin American Art within the United States.</p>
+			<p>At approximately the same time, she became a member of the Advisory Committee of the Museum of Modern Art (1944), and served as Assistant Executive Vice President of the Museum (1943-44). In connection with a Calder <emph render="italic">Sculpture</emph> exhibition held at the Museum of Modern Art, she wrote and narrated a film entitled <emph render="italic">Alexander Calder: <emph render="italic">Sculpture</emph> and Constructions</emph>.</p>
+			<p>Rindge was active in many art organizations, including membership in the Commission on Arts of the American Association of Colleges (1939), Chairperson of the Committee on Fellowships of the College Art Association (1945-1948), member of the Editorial Board of Art in America (1940-1943), as well as President of the American Federation of Arts (1944-1945).</p>
+			<p>Her associates included Alfred Barr, founder of the Museum of Modern Art, A. Everett Austin, head of the Wadsworth Athenaeum, as well as artists such as Alexander Calder, Eugene Berman and Pavel Tchelitchew.</p>
+			<p>Rindge was noted for her colorful manner of dress and for having, as one former student and later colleague put it, a "verbal wit and playfulness that so often outran pedestrian minds." Yet Rindge was also known not to accept less than what she felt a person capable of -- "She had expectations, and when they were fulfilled she was encouraging; when they were not, one felt one had placed more than oneself in jeopardy."*</p>
+			<p>In 1945, Miss Rindge married Philip W. Claflin, a captain in the U.S. Army. Mrs. Claflin was awarded an honorary degree of Doctor of Letters from Wheaton College in 1962, and a year later received the Graduate Society Medal from Radcliffe College. She died on June 12, 1977, at the age of seventy-seven.</p>
+			<p>*Quotations from Pamela Askew, <emph render="italic">Bulletin of the Vassar Art Gallery</emph>, Claflin collection, Box 6, Folder 93.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The bulk of the Claflin collection is from the years 1927-1934, the period in which she received her graduate degrees and began to teach at Vassar College as an associate professor and later as a full professor. While the collection itself is mainly made up of correspondence, it also contains an eclectic selection of material, including: various drafts of her doctoral thesis, newspaper clippings concerning her career, programs of exhibits, class notes and assorted miscellanea.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/14ffd37c-3483-48c8-9977-c0b55037e42d"
+				>Pamela Askew Papers</archref></p>
+			<p>Vassar College Art Department Records</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Art--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650">Women college teachers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, January 2009. Updated by Emma Gronbeck, February 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Jonathan S. Lubliner, 1983.</p>
+			<p>Updated by Laura Streett, 2016.</p>
+			<p>Updated by Emma Gronbeck, February 2024.</p>
+			<p>Accession M2019-034 is currently unprocessed.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Photocopies of correspondence between A. Everett Austin, Jr., et al. and Claflin, were the gift of the Wadsworth Athenaeum, Hartford, CT, April 1991.</p>
+			<p>The class notes, postcards, and photos in boxes 3 and 4 were donated by Christina Houghtaling, VC 1974, in October 2015. Ms. Houghtaling rescued the material from a dumpster on or near campus some time after Claflin's death. [M2016-001]</p>
+			<p>Teaching materials and correspondence were transferred from the Vassar College Art Department, 2016. [M2019-034]</p>
+			<p>Baby photograph of Agnes Rindge Claflin in Folder 154 was the gift of Julian Rebelo, February 2024. [M2024-005]</p>
+			<p>The source of the rest of the collection is unknown, although some material was likely transferred from the Art Department, circa 1977-1981.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Agnes Rindge Claflin Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Personal Material, </unittitle>
+					<unitdate type="inclusive">1910-1935</unitdate>
+					<physdesc>(Box 1)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series includes correspondence with parents, letters to relatives and childhood friends, as well as information on her wedding and the death of her mother, Miriam Rindge.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Professional Material, </unittitle>
+					<unitdate type="inclusive">(Box 1)</unitdate>
+					<physdesc>1929-1963</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series consists of material related to Claflin's professional activities outside of Vassar College.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Harvard University, </unittitle>
+					<unitdate type="inclusive">1926-1932</unitdate>
+					<physdesc>(Box 1)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series includes Claflin's correspondence with Harvard professors and personnel, as well as class notes and several versions of her published doctoral thesis, <emph render="italic">Sculpture</emph>.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Vassar College, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+					<physdesc>(Boxes 1-2)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains correspondence with faculty, alumnae and students and official faculty memorandums among other things.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Financial papers, </unittitle>
+					<unitdate type="inclusive">1928-1936</unitdate>
+					<physdesc>(Box 2)</physdesc>
+				</did>
+				<scopecontent>
+					<p>The three boxes of this series contain personal bills, letters concerning salary, canceled checks and bank statements.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> General Material, </unittitle>
+					<unitdate type="inclusive">circa 1901-1934</unitdate>
+					<physdesc>(Boxes 2-4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series is, for the most part, a "catch all" category; many of Claflin's friends were also her colleagues and vice versa -- many items which could not realistically fit into the aforementioned groups were placed here. Much in the way of personal and professional correspondence that did not meet the guidelines of the overall scheme have been arranged alphabetically in the General Material series. Also included:Index cards with photographs, organized by subject, and miscellaneous post cards and photographs of actors (M2016-001).</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Addition: M2019-034, </unittitle>
+					<unitdate type="inclusive">1929 - circa 1977</unitdate>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+				<scopecontent><p>
+					Correspondence, teaching materials, and printed material related to Claflin's work in the Vassar College Art Department.
+				</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>PERSONAL MATERIAL</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>General</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>Greeting cards, invitations, Christmas cards</unittitle>
+							<physdesc>(24 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Letters from childhood friends, </unittitle>
+							<physdesc>(27 items)</physdesc>
+							<unitdate type="inclusive">1910-1912</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle>Letters from childhood friends, </unittitle>
+							<physdesc>(12 items)</physdesc>
+							<unitdate type="inclusive">1925-1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.4</container>
+							<unittitle>Letters from Sally H. Dunn, childhood friend</unittitle>
+							<physdesc>(4 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>Death of Miriam Rindge, mother</unittitle>
+							<physdesc>(4 letters, 1 newspaper clipping)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Wedding of Agnes and Philip Claflin</unittitle>
+							<physdesc>(1 invitation, 4 newspaper clippings)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence with relatives</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.7</container>
+							<unittitle>Correspondence with relatives</unittitle>
+							<physdesc>(14 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.8</container>
+							<unittitle>Correspondence with Ruth Harter, aunt</unittitle>
+							<physdesc>(8 letters, 4 poems)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.9</container>
+							<unittitle>Letters from Miriam Rindge to Ruth Harter</unittitle>
+							<physdesc>(3 letters)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Travel</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.10</container>
+							<unittitle>European travel arrangements, </unittitle>
+							<physdesc>(4 items)</physdesc>
+							<unitdate type="inclusive">1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.11</container>
+							<unittitle>Maps, schedules, ship information</unittitle>
+							<physdesc>(3 maps, 1 log abstract, 1 train schedule)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Personal Miscellanea</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.12</container>
+							<unittitle>Miscellaneous items</unittitle>
+							<physdesc>(30 items including poems, limericks, and newspaper clippings)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters from parents</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.13</container>
+							<unittitle>Rindge, Harry, </unittitle>
+							<physdesc>(14 letters)</physdesc>
+							<unitdate type="inclusive">1911, 1928-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>Rindge, Harry, </unittitle>
+							<physdesc>(25 letters)</physdesc>
+							<unitdate type="inclusive">1930-1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.15</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(13 letters)</physdesc>
+							<unitdate type="inclusive">1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.16</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(6 letters)</physdesc>
+							<unitdate type="inclusive">1929-1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.17</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(16 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(10 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.19</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(15 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.20</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(9 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(10 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.22</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(9 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.23</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(4 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.24</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(9 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.25</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(10 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.26</container>
+							<unittitle>Rindge, Miriam, </unittitle>
+							<physdesc>(7 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>PROFESSIONAL MATERIAL</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>College Art Association American Institute for Persian Art and Archaeology</unittitle>
+						<physdesc>(15 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.28</container>
+						<unittitle>Committee on Medieval and Renaissance Studies of the Archaeological Institute of America</unittitle>
+						<physdesc>(12 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unittitle>Advisory Committee for Scholarship Grants in the Fine Arts of the Carnegie Corporation</unittitle>
+						<physdesc>(12 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unittitle>National Soap <emph render="italic">Sculpture</emph> Committee</unittitle>
+						<physdesc>(13 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31</container>
+						<unittitle>Lectures given</unittitle>
+						<physdesc>(7 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unittitle>Announcements, gallery and exhibit openings</unittitle>
+						<physdesc>(14 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33</container>
+						<unittitle>Miscellaneous professional correspondence: Abbot – McMahon</unittitle>
+						<physdesc>(37 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34</container>
+						<unittitle>Miscellaneous professional correspondence: Pope – Richard</unittitle>
+						<physdesc>(12 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unittitle>Newspaper clippings on Claflin's career, </unittitle>
+						<physdesc>(20 clippings)</physdesc>
+						<unitdate type="inclusive">1929-1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36</container>
+						<unittitle>Miscellaneous professional material(includes guide to Warburg Institute of London, listing Guggenheim Fellowships for 1933, copy of Art in America</unittitle>
+						<physdesc>(10 items)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>HARVARD UNIVERSITY</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Ph.D. Thesis</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.37</container>
+							<unittitle>Outlines of work</unittitle>
+							<physdesc>(4 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.38</container>
+							<unittitle>Preface, Bibliography, Summary</unittitle>
+							<physdesc>(2 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.39</container>
+							<unittitle>Introduction, "The Nature and Function of Sculpture" pp. xv - 12, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.40</container>
+							<unittitle>"Requirements of Sculpture as an Art Form" pp.15 - 32 , <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.41</container>
+							<unittitle>"The Origin and Purpose of Sculpture" pp. 33 - 50, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.42</container>
+							<unittitle>"Analysis of Grand Periods of Sculpture"(Romanesque) pp. 53 - 82, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.43</container>
+							<unittitle>"Analysis . . ." (incomplete 2nd version) pp. 56 - 82, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.44</container>
+							<unittitle>"Further Analysis of Grand Periods of Sculpture"(incomplete) pp. 83 - 96, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.45</container>
+							<unittitle>"Realism" pp. 99 - 139, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.46</container>
+							<unittitle>"Realism" (incomplete 2nd version) pp. 99 - 117, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>"The Contemporary Creed" pp. 143 - 184, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.48</container>
+							<unittitle>"The Contemporary Creed" (incomplete 2nd version) pp. 155 - 184, <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.49</container>
+							<unittitle><emph render="italic">Sculpture</emph>, Various loose pages</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.50</container>
+							<unittitle>Footnotes, edited material</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle>Rough notes</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters of Reference</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.52</container>
+							<unittitle>Letters of introduction from Dr. Paul Sachs, B - K</unittitle>
+							<physdesc>(9 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.53</container>
+							<unittitle>Letters of introduction from Dr. Paul Sachs, L - W</unittitle>
+							<physdesc>(8 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.54</container>
+							<unittitle>Professional cards of introduction from Dr. Paul Sachs</unittitle>
+							<physdesc>(41 cards)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Harvard Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle>C-M</unittitle>
+							<physdesc>(19 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.56</container>
+							<unittitle>P-S</unittitle>
+							<physdesc>(24 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellanea</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>Harvard Co-op date book, </unittitle>
+							<unitdate type="inclusive">1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>Report Card, </unittitle>
+							<unitdate type="inclusive">1926-1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>Application for Radcliffe commencement, </unittitle>
+							<unitdate type="inclusive">1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>Ballot for Radcliffe alumnae election</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>Program of Radcliffe graduation</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Class Notes</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle>Ancient Art</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.59</container>
+							<unittitle>Ancient Painting</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>Dutch Painting in the 17th Century</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.61</container>
+							<unittitle>Economic Theory</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.62</container>
+							<unittitle>Fine Arts 9a, vol. I</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.63</container>
+							<unittitle>Fine Arts 9a, vol. II</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.64</container>
+							<unittitle>Fine Arts 9a, vol. III</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.65</container>
+							<unittitle>French notes on Medieval Art</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.66</container>
+							<unittitle>French Painting</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.67</container>
+							<unittitle>[Greco-Roman Art I]</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.68</container>
+							<unittitle>[Greco-roman Art II]</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.69</container>
+							<unittitle>Hellenistic and Greco-Roman <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.70</container>
+							<unittitle>Intellectual History of Medieval Europe</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.71</container>
+							<unittitle>Medieval Manuscripts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.72</container>
+							<unittitle>Medieval <emph render="italic">Sculpture</emph></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.73</container>
+							<unittitle>Modes of Painting Oriental Art Miscellanea</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74</container>
+							<unittitle>Monastic Art I</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74a</container>
+							<unittitle>Monastic Art II</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74b</container>
+							<unittitle>Renaissance History I</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74c</container>
+							<unittitle>Renaissance History II</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74d</container>
+							<unittitle>Roman Painting</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74e</container>
+							<unittitle>Romanesque Architecture</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74f</container>
+							<unittitle>Romanesque Historical Survey</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74g</container>
+							<unittitle>Romanesque >Sculpture I</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74h</container>
+							<unittitle>Romanesque Sculpture II</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74i</container>
+							<unittitle>Spanish Painting</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74j</container>
+							<unittitle>Technical Aspects of Art</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74k</container>
+							<unittitle>[Unidentified, written in French]</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74l</container>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74m</container>
+							<unittitle>Syllabus for Art Outline B</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74n</container>
+							<unittitle>Syllabus for Fine Arts Ic</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74o</container>
+							<unittitle>[Reproduction of Art Slides I]</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74p</container>
+							<unittitle>[Reproduction of Art Slides II]</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>VASSAR COLLEGE</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence with Alumnae</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74q</container>
+							<unittitle>Adelaide (last name unknown)</unittitle>
+							<physdesc>(7 letters, 5 photographs)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.75</container>
+							<unittitle>Alter</unittitle>
+							<physdesc>(18 items, including 5 newspaper clippings)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.76</container>
+							<unittitle>Berstein - Kelly</unittitle>
+							<physdesc>(18 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.77</container>
+							<unittitle>Kohn</unittitle>
+							<physdesc>(17 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.78</container>
+							<unittitle>Louchheim - Miller</unittitle>
+							<physdesc>(12 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.79</container>
+							<unittitle>Rombauer - Wilson</unittitle>
+							<physdesc>(33 letters (1 unidentified))</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Faculty Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.80</container>
+							<unittitle>Barber, Leila, </unittitle>
+							<physdesc>(16 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.81</container>
+							<unittitle>Borden - Gould</unittitle>
+							<physdesc>(13 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.82</container>
+							<unittitle>MacCracken, Henry Noble</unittitle>
+							<physdesc>(13 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.83</container>
+							<unittitle>Lamson - Tonks</unittitle>
+							<physdesc>(14 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Student Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.84</container>
+							<unittitle>Correspondence with VC students</unittitle>
+							<physdesc>(13 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.85</container>
+							<unittitle>Letters of Recommendation for VC students — general</unittitle>
+							<physdesc>(16 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.86</container>
+							<unittitle>Letters of Recommendation for VC students — to Vassar Committee on Fellowships</unittitle>
+							<physdesc>(7 letters)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Newspaper Clippings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.87</container>
+							<unittitle>Art department and Claflin</unittitle>
+							<physdesc>(5 clippings)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Lectures</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.88</container>
+							<unittitle>Speakers at Vassar</unittitle>
+							<physdesc>(13 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.89</container>
+							<unittitle>Lectures given at Vassar Clubs</unittitle>
+							<physdesc>(8 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Memorandums</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.90</container>
+							<unittitle>Faculty memorandums</unittitle>
+							<physdesc>(12 memorandums)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Retirement</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.91</container>
+							<unittitle>Publicity plans of Vassar News Office</unittitle>
+							<physdesc>(12 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.92</container>
+							<unittitle>Claflin exhibition</unittitle>
+							<physdesc>(9 clippings &amp; programs)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Death</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.93</container>
+							<unittitle>Vassar press release, Bulletin of Art Gallery in memory of Claflin</unittitle>
+							<physdesc>(4 items, 2 obituaries)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.94</container>
+							<unittitle>Program of exhibition in Claflin's memory</unittitle>
+							<physdesc>(2 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellanea</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.95</container>
+							<unittitle>Miscellaneous items</unittitle>
+							<physdesc>(20 items, letters, poems and slide info.)</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>FINANCIAL PAPERS</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Grand Rapids Trust Company</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.96</container>
+							<unittitle>Bank Statements and Correspondence, </unittitle>
+							<physdesc>(4 items)</physdesc>
+							<unitdate type="inclusive">1 Jan 1928 - 1 July 1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.97</container>
+							<unittitle>Bank Statements and Correspondence, </unittitle>
+							<physdesc>(2 items)</physdesc>
+							<unitdate type="inclusive">6 June 1928 - 1 Jan 1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.98</container>
+							<unittitle>Bank Statements and Correspondence, </unittitle>
+							<physdesc>(2 items)</physdesc>
+							<unitdate type="inclusive">6 Dec 1928 - 1 July 1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.99</container>
+							<unittitle>Bank Statements and Correspondence, </unittitle>
+							<physdesc>(3 items)</physdesc>
+							<unitdate type="inclusive">6 June 1929 - 1 Jan 1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.100</container>
+							<unittitle>Bank Statements and Correspondence, </unittitle>
+							<physdesc>(4 items)</physdesc>
+							<unitdate type="inclusive">6 Dec 1929 - 28 July 1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.101</container>
+							<unittitle>Bank Statements and Correspondence, </unittitle>
+							<physdesc>(8 items)</physdesc>
+							<unitdate type="inclusive">7 June 1930 - 4 June 1931, undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Personal Bills</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.102</container>
+							<unittitle>Abercrombie &amp; Fitch-Best Co., </unittitle>
+							<physdesc>(33 items)</physdesc>
+							<unitdate type="inclusive">1929-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.103</container>
+							<unittitle>Blue Ribbon Dyeing and Cleaning Co. - Franklin &amp; Simon Co., </unittitle>
+							<physdesc>(42 items)</physdesc>
+							<unitdate type="inclusive">1928-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.104</container>
+							<unittitle>Hawes Inc. - Luckey, Platt &amp; Co., </unittitle>
+							<physdesc>(48 items)</physdesc>
+							<unitdate type="inclusive">1929-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.105</container>
+							<unittitle>Mack and Frey - Radcliffe Alumnae Fund, </unittitle>
+							<physdesc>(35 items)</physdesc>
+							<unitdate type="inclusive">1929-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.106</container>
+							<unittitle>Robert Hamilton - Zimmer Brothers, foreign and unidentified bills, </unittitle>
+							<physdesc>(39 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Western Reserve University</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.107</container>
+							<unittitle>Job Offer</unittitle>
+							<physdesc>(20 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Vassar College</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.108</container>
+							<unittitle>Appointment and Letters Concerning Salary</unittitle>
+							<physdesc>(13 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.109</container>
+							<unittitle>Personal Bills</unittitle>
+							<physdesc>(67 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Vassar Bank</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.110</container>
+							<unittitle>Checking statements, canceled checks, </unittitle>
+							<unitdate type="inclusive">Nov-Dec 1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.111</container>
+							<unittitle>Checking statements, canceled checks, </unittitle>
+							<unitdate type="inclusive">Jan-Apr 1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.112</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Sept. 1928-June 1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.113</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Oct. 1929-May 1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.114</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">May-Dec 1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.115</container>
+							<unittitle>Checking statements, canceled checks, </unittitle>
+							<unitdate type="inclusive">Dec. 1930-Mar. 1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.116</container>
+							<unittitle>Checking statements, canceled checks, </unittitle>
+							<unitdate type="inclusive">Apr-May1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.117</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Dec. 1930-Oct. 1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.118</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Oct. 1931-Nov. 1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.119</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Nov-Dec 1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.120</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Jan-Dec 1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.121</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Jan-Oct 1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.122</container>
+							<unittitle>Checking statements, canceled checks, </unittitle>
+							<unitdate type="inclusive">Aug-Sept 1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.123</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Oct. 1934-May 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.124</container>
+							<unittitle>Bankbook, </unittitle>
+							<unitdate type="inclusive">Oct. 1935-May 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.125</container>
+							<unittitle>Receipts, various bank material</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellanea</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.126</container>
+							<unittitle>Miscellaneous materials, including checkbooks, taxation letter, </unittitle>
+							<physdesc>(14 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>GENERAL MATERIAL</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.127</container>
+							<unittitle>Askew, Constance, </unittitle>
+							<physdesc>(2 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.127a</container>
+							<unittitle>[Askew], Kirk, </unittitle>
+							<physdesc>(11 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.128</container>
+							<unittitle>A - B, </unittitle>
+							<physdesc>(34 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.129</container>
+							<unittitle>Brewer, Joseph, </unittitle>
+							<physdesc>(15 letters)</physdesc>
+							<unitdate type="inclusive">1926-1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.130</container>
+							<unittitle>Brewer, Joseph, </unittitle>
+							<physdesc>(13 letters)</physdesc>
+							<unitdate type="inclusive">1933-1934, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.131</container>
+							<unittitle>Burrage, Francis, </unittitle>
+							<physdesc>(19 letters)</physdesc>
+							<unitdate type="inclusive">1927-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.132</container>
+							<unittitle>Burrage, Francis, </unittitle>
+							<physdesc>(21 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.133</container>
+							<unittitle>Choate, Nat, </unittitle>
+							<physdesc>(20 letters)</physdesc>
+							<unitdate type="inclusive">1927-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.134</container>
+							<unittitle>C - E, </unittitle>
+							<physdesc>(22 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.135</container>
+							<unittitle>F, </unittitle>
+							<physdesc>(29 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.136</container>
+							<unittitle>Gordon, Douglas, </unittitle>
+							<physdesc>(19 letters)</physdesc>
+							<unitdate type="inclusive">1928-1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.137</container>
+							<unittitle>Gordon, Douglas, </unittitle>
+							<physdesc>(20 letters)</physdesc>
+							<unitdate type="inclusive">1931-1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.138</container>
+							<unittitle>G - I, </unittitle>
+							<physdesc>(20 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.139</container>
+							<unittitle>J, </unittitle>
+							<physdesc>(16 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.141</container>
+							<unittitle>K - M, </unittitle>
+							<physdesc>(43 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.142</container>
+							<unittitle>Norton, W.W., </unittitle>
+							<physdesc>(11 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.143</container>
+							<unittitle>Porter, Alan, </unittitle>
+							<physdesc>(5 letters)</physdesc>
+							<unitdate type="inclusive">1933-1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.144</container>
+							<unittitle>Porter, Alan, </unittitle>
+							<physdesc>(6 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.145</container>
+							<unittitle>Rowland, Ben, </unittitle>
+							<physdesc>(12 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.146</container>
+							<unittitle>O - Sa, </unittitle>
+							<physdesc>(29 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.147</container>
+							<unittitle>So - T, </unittitle>
+							<physdesc>(24 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.148</container>
+							<unittitle>Wheeler, Dinsmore, </unittitle>
+							<physdesc>(7 letters)</physdesc>
+							<unitdate type="inclusive">1928-1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.149</container>
+							<unittitle>Wheeler, Dinsmore, </unittitle>
+							<physdesc>(4 letters)</physdesc>
+							<unitdate type="inclusive">1930-1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.150</container>
+							<unittitle>Wheeler, Dinsmore, </unittitle>
+							<physdesc>(10 letters)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.151</container>
+							<unittitle>W, </unittitle>
+							<physdesc>(17 letters)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.152</container>
+							<unittitle>Unidentified, </unittitle>
+							<physdesc>(25 items)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Olivet College</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.153</container>
+							<unittitle>Joseph Brewer Address</unittitle>
+							<physdesc>(1 item)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Photographs</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.154</container>
+							<unittitle>Photographs of Claflin, </unittitle>
+							<unitdate type="inclusive">circa 1901, undated</unitdate>
+							<physdesc>(3 photographs)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Wadsworth Athenaeum</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.155</container>
+							<unittitle>Photocopies of correspondence from A. Everett Austin, Jr., et al. and Claflin,</unittitle>
+							<physdesc>[may not be photocopied or quoted without permission from Wadsworth Athenaeum]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Rouault Poster</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Mapcase</container>
+							<unittitle>Poster of a Georges Rouault painting given to a friend</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>M2016-001</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Miscellaneous post cards and photographs of actors</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Index cards with photographs, organized by subject</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Addition: M2019-034</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Correspondence, teaching materials, and printed materials, </unittitle>
+						<unitdate type="inclusive">1929 - circa 1977</unitdate>
+						<physdesc>[unprocessed]</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_carpenter_clinton</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Clinton A. Carpenter Papers, 1923–1997 (bulk 1951–1997) </titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>January 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2016</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Carpenter, Clinton A., 1921-2005</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Clinton A. Carpenter Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1923–1997 </unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1951–1997 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 4.5 cubic feet (9 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The papers of Clinton A. Carpenter center on his work as a composer, specifically his interpretation of Gustav Mahler's 10th Symphony. The materials include correspondence, subject files, musical scores, typescripts, Mahler-related newsletters and publications, photographic prints, press clippings, and one audio recording. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note <?xm-replace_text { or Administrative History}?></head>
+			<p>Clinton A. Carpenter (1921 – 2005) was the first American composer to complete Mahler’s unfinished Tenth Symphony. A Chicago native, Carpenter was employed as an insurance underwriter, with a life-long commitment to studying the works of Gustav Mahler, in particular, Mahler’s unfinished Tenth Symphony. Carpenter attended Eastman School of Music after returning from the Army at the close of World War II, and received his degree from Eastman in 1947. Carpenter initially completed his composition of Mahler’s Tenth Symphony in 1949. By the early 1950s, as an exercise in further studying Mahler’s orchestration, Carpenter attempted to reconstruct the orchestral version of the symphony from his own studies on the piano. Carpenter later went on to compare his own orchestral page with the Mahler score to identify differences. Later versions of Mahler’s Tenth Symphony edited by Carpenter were completed in 1952, 1954, 1955 and 1957. Carpenter finished his interpretation of the symphony in
+				1966. In 1983, the Carpenter composition received its world premiere in Chicago, performed by the Chicago Civic Orchestra. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The papers of Clinton A. Carpenter center on his work as a composer, specifically his interpretation of Gustav Mahler's 10th Symphony. The materials include correspondence, subject files, musical scores, typescripts, Mahler-related newsletters and publications, photographic prints, press clippings, and one audio recording. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Mahler, Gustav, 1860-1911</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Symphonies--Scores</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Scores (documents for music)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>Titles:</head>
+				<title render="italic" encodinganalog="630"> Mahler, Gustav, 1860-1911. Symphonies, no. 10</title>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Music </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, January 2018.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, 2016.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Transferred from the Vassar College Music Library in 2010.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Clinton A. Carpenter Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series 1. Subject Files,</ref>
+					</unittitle>
+					<unitdate>1956-1997</unitdate>
+					<physdesc>(Boxes 1 and 3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Subject files include Carpenter’s extensive documentation of his studies of Mahler’s methodologies, including typescript notations regarding Mahler’s Timing and Keys. Subject files include notes regarding Mahler’s temperament, the literature he read, a timeline of the composer’s life, studies of his handwriting, and terms used by the composer. Typed notes include Carpenter’s comparisons between Mahler and his contemporaries, with lists of performances arranged by date and musical style, including the number of performances executed during each composer’s lifetime. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series 2. Musical Scores, </ref>
+					</unittitle>
+					<unitdate>1965-1966, undated</unitdate>
+					<physdesc>(Boxes 1 and 4-8)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Musical scores include extensive performance notes, for both the conductor and musicians, following the first performance of Carpenter’s interpretation of Mahler’s 10th Symphony in 1983. Scores include, Carpenter’s own rendering of the composition, in two volumes, with notations, as well as the Paul Zsolnay publication of Mahler’s Tenth, which was Carpenter’s first introduction to the composition.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series 3. Typescripts, </ref>
+					</unittitle>
+					<unitdate>1969-1988</unitdate>
+					<physdesc>(Box 1)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Typescripts include articles written by Carpenter on Wheeler’s interpretations of the 10th symphony, and also includes Carpenter’s bio.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series 4. Printed Material, </ref>
+					</unittitle>
+					<unitdate>1923-1995</unitdate>
+					<physdesc>(Boxes 1-3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Printed material includes a run (1956 – 1995) of the International Gustav Mahler Society Newsletter, with Carpenter’s notations.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> Series 5. Correspondence, </ref>
+					</unittitle>
+					<unitdate>1956-1999</unitdate>
+					<physdesc>(Box 3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Includes incoming and outgoing correspondence.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6"> Series 6. Miscellaneous, </ref>
+					</unittitle>
+					<unitdate>circa 1960, 1983</unitdate>
+					<physdesc>(Boxes 1 and 9)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Includes a scrapbook of programs, pressclippings and photographs from the world premiere of Carpenter’s composition (Chicago, 1983) and audio recording of Mahler’s 10th Symphony by the British Broadcasting BBC Broadcasting Corporation (BBC), circa 1960.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series 1. Subject Files </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 1.10 - 1.11 </container>
+						<unittitle> 10th Symphony notes and movement themes </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.1 </container>
+						<unittitle> Carpenter inventory of archival holdings, </unittitle>
+						<unitdate> 1996 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.2 </container>
+						<unittitle> Colorado Mahler Festival, clippings, programs, </unittitle>
+						<unitdate> 1997 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.5 </container>
+						<unittitle> Comparisons between Mahler and contemporaries </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.3 - 1.4 </container>
+						<unittitle> Errata, notes for 10th Symphony performance, Chicago, </unittitle>
+						<unitdate> 1983 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.6 </container>
+						<unittitle> Handwriting study of Gustav Mahler </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 3.6 - 3.7 </container>
+						<unittitle> International Gustav Mahler Society Annual Reports, </unittitle>
+						<unitdate> 1956-1994 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.7-1.9 </container>
+						<unittitle> Orchestration and Instrumentation notes </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.12 </container>
+						<unittitle> Terms used by Mahler </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.13 </container>
+						<unittitle> Timeline of Mahler’s life </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.14 </container>
+						<unittitle> Timing and keys, notes, 10th Symphony </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series 2. Musical Scores </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 7.1 </container>
+						<unittitle> Critical Edition of Total Works, Volume XI, Last Four Movements from Symphony No. 10, edited by Clinton A. Carpenter, includes additional remarks on Carpenter urtext </unittitle>
+						<physdesc> (bound manuscript) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 8.1 </container>
+						<unittitle> Critical Edition of Total Works, volume XI, Last Four Movements from Symphony No. 10, edited by Clinton Carpenter, with general comments on urtext </unittitle>
+						<physdesc> (facsimile) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 8.2-8.5 </container>
+						<unittitle> Gustav Mahler 10th Symphony, Paul Zsolnay Edition </unittitle>
+						<physdesc> (facsimile) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 5.1-5.2 </container>
+						<unittitle> Gustav Mahler X Symphonie, by Clinton A. Carpenter, Volumes I, II, including performance notes </unittitle>
+						<physdesc> (manuscript)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 7.3 </container>
+						<unittitle> Gustav Mahler’s Lieder und Gesange, Vol. 3 </unittitle>
+						<physdesc> (facsimile) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 7.4 </container>
+						<unittitle> Gustav Mahler’s Symphony No. 10 </unittitle>
+						<physdesc> (facsimile) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.1-6.2 </container>
+						<unittitle> Mahler Symphony No. 10, Part I, Part II, interpreted by Clinton A.Carpenter </unittitle>
+						<physdesc> (manuscript) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.3 </container>
+						<unittitle> Mahler Symphony No. 10, transcribed for Piano-Four Hands, by Clinton A. Carpenter, </unittitle>
+						<physdesc> (manuscript) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.21 </container>
+						<unittitle> Mahler, The Youth’s Magic Horn, No. 220, Wiener Philharmonischer, </unittitle>
+						<unitdate> 1966 </unitdate>
+						<physdesc> (photocopy) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 4.1-4.2 </container>
+						<unittitle> Mahler’s 10th Symphony-Carpenter, 1st and 2nd movements, </unittitle>
+						<physdesc> (manuscript) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.16-1.19 </container>
+						<unittitle> Mahler’s 10th Symphony, Carpenter score </unittitle>
+						<physdesc> (photocopy) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 4.3 </container>
+						<unittitle> Mahler’s 10th Symphony, Cooke Version, 2 Piano Version, Bowman </unittitle>
+						<physdesc> (photocopy) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 4.4 </container>
+						<unittitle> Mahler’s 10th Symphony, Freidrich Block, Piano Arrangements 2, 4 and 5th movements </unittitle>
+						<physdesc> (photocopy) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 4.5 </container>
+						<unittitle> Mahler’s 10th Symphony, Performing Edition by Joe Wheeler, </unittitle>
+						<unitdate> 1965 </unitdate>
+						<physdesc> (annotated photocopy) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.20 </container>
+						<unittitle> Mahler’s 9th Symphony, Erwin Ratz score </unittitle>
+						<physdesc> (photocopy) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.15 </container>
+						<unittitle> Study of Mahler’s Das Klagende Lied, by Alfred Rose, </unittitle>
+						<physdesc> (photocopy) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 7.2 </container>
+						<unittitle> Theme in 5th Movement As Might Be Written by Von Webern-A Satire </unittitle>
+						<physdesc> (manuscript) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series 3. Typescripts </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 1.22 </container>
+						<unittitle> Mahler’s 10th Symphony — articles written by Clinton Carpenter, </unittitle>
+						<unitdate> 1969-1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.23-1.24 </container>
+						<unittitle> Mahler Werke Verzeichnis — index of performances, including commentary </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.25 </container>
+						<unittitle> Wheeler version of Mahler’s 10th Symphony — article for Journal of the Conductor’s Guild, by Clinton Carpenter, </unittitle>
+						<unitdate> circa 1983 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Series 4. Printed Material </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 3.12 </container>
+						<unittitle> Gustav Mahler, A Performing Version of the draft for the 10th Symphony, by Deryck Cooke, </unittitle>
+						<unitdate> 1966 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.1-2.19 </container>
+						<unittitle> International Gustav Mahler Society Newsletter, </unittitle>
+						<unitdate> 1956-1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 3.8-3.11 </container>
+						<unittitle> Mahler clippings, articles, programs, </unittitle>
+						<unitdate> 1923-1992 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 3.13 </container>
+						<unittitle> Mahler, Symphony No. 10, Associated Music Publishers, </unittitle>
+						<unitdate> 1951 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 3.14 </container>
+						<unittitle> Mahler, Symphony No. 10, Adagio, Universal Edition </unittitle>
+						<unitdate> 1964, 1990 </unitdate>
+						<physdesc>(2 copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.29-1.30 </container>
+						<unittitle> News About Mahler Research, publication by the International Gustav Mahler Society, </unittitle>
+						<unitdate> 1977-1995 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> Series 5. Correspondence </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 3.1 </container>
+						<unittitle> Correspondence to Clinton Carpenter re: Mahler Symposium, Utrecht, </unittitle>
+						<unitdate> 1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 3.2-3.3 </container>
+						<unittitle> Correspondence, to and from Clinton Carpenter, </unittitle>
+						<unitdate> 1956-1999 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 3.4 </container>
+						<unittitle> Nieman, Herman, Secretary of Gustav Mahler Society, </unittitle>
+						<unitdate> 1957- 1992 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 3.5 </container>
+						<unittitle> Nikkels, Dr. Eveline, </unittitle>
+						<unitdate> 1989-1994 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> Series 6. Miscellaneous </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 1.26-1.28 </container>
+						<unittitle> Scrapbook — world premiere of Carpenter performance of Mahler’s 10th Symphony, Chicago, </unittitle>
+						<unitdate> 1983-04 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unittitle> Audio recording — Mahler’s 10th Symphony, BBC Broadcast, Deryck Cooke, </unittitle>
+						<unitdate> circa 1960</unitdate>
+						<physdesc>(quarter-inch audio tape reel)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

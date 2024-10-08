@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">
+			<?xm-replace_text {MAIN ENTRY - Last Name first}?>npv_buckley_barbara</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Barbara S. Buckley Papers, 1941-1959</titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>January 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2016</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Buckley, Barbara S.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Barbara S. Buckley Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1941-1959</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 6 boxes (2 cubic feet)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Collection consists primarily of musical compositions, both original manuscripts and copy prints, as well as a small volume of correspondence, press clippings, writings and biographical documentation.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note <?xm-replace_text {or Administrative History}?></head>
+			<p>Barbara S. Buckley (Mallinckrodt) was born in Wilmington, Delaware and was both a musician (piano, violin and flute) and composer. She studied at the American School at Fontainebleau under the direction of Nadia Boulanger. Buckley also studied at Boston University, Vassar College (Class of 1945), and Bryn Mawr (1941). Her compositions include a symphony, string quartets, chamber music for strings and piano, solo piano works, a work for solo organ, songs, sacred choral music, and chamber music for winds or brass. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Barbara S. Buckley Papers, 1941 - 1959, contain Buckley’s musical compositions, both original manuscripts and photostat copies. Files include her notations and sketches for works created between 1948 and 1959. One letter sized document box contains four folders of correspondence, one of which includes a note from Buckley’s mentor, Nadia Boulanger. Files include press clippings, programs, and two folders of writings by Buckley, possibly from her work as an undergraduate student. One reference folder contains inventory lists describing the collection’s contents, one created at the time of the collection’s accession to Vassar College (including lyrics of selected pieces), and one handwritten collection of inventory lists, circa 1950s. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">
+					<?xm-replace_text {Personal Name}?>Boulanger, Nadia</persname>
+				<persname source="lcnaf" encodinganalog="600">
+					<?xm-replace_text {Personal Name}?> Golschmann, Vladimir, 1893-1972</persname>
+				<persname source="lcnaf" encodinganalog="600"><?xm-replace_text {Personal Name}?>
+				</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">
+					<?xm-replace_text {Corporate Name}?></corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Violin and viola music--Scores</subject>
+				<subject source="lcsh" encodinganalog="650"> Organ and piano music--Scores</subject>
+				<subject source="lcsh" encodinganalog="650"> Vocal music--Scores</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Music </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, 2019.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, June 2017.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Elizabeth Bryden, 2017.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Barbara S. Buckley Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p> The collection is arranged into seven series. Compositions are arranged alphabetically, as titled by the creator. </p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Compositions, </unittitle>
+					<unitdate>1948-1959</unitdate>
+					<physdesc>(Boxes 1-5)</physdesc>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Orchestral Works,</unittitle>
+						<unitdate>1952-1959</unitdate>
+						<physdesc>(Boxes 1-2)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Piano and Organ Works, </unittitle>
+						<unitdate>1951-1959</unitdate>
+						<physdesc>(Box 2)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Quartets, </unittitle>
+						<unitdate>1950-1959</unitdate>
+						<physdesc>(Boxes 2-3)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Small Ensembles, </unittitle>
+						<unitdate>1950-1959</unitdate>
+						<physdesc>(Boxes 3-4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Violin and Viola </unittitle>
+						<unitdate>1953-1958</unitdate>
+						<physdesc>(Box 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Vocal Works</unittitle>
+						<unitdate>1948-1959</unitdate>
+						<physdesc>(Box 5)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II. </ref> Biographical , </unittitle>
+					<unitdate>1943-1959</unitdate>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III. </ref> Correspondence, </unittitle>
+					<unitdate>1949-1958</unitdate>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series IV. </ref> Press Clippings, </unittitle>
+					<unitdate>1947</unitdate>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> Series V. </ref> Programs and Invitations, </unittitle>
+					<unitdate>1953-1958</unitdate>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6"> Series VI. </ref> Writings, </unittitle>
+					<unitdate>1941-1942</unitdate>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7"> Series VII. </ref> Reference, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. Compositions </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Orchestral Works </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 1.1 </container>
+							<unittitle> Divertimento for String Orchestra no. 1, full score and parts, negative print, original MS and bound copy, </unittitle>
+							<unitdate> 1954-1955 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.2 </container>
+							<unittitle> Overture to Winterset, original MS </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.3 </container>
+							<unittitle> Passacaglia for Orchestra (Carlo Gesualdo), original MS </unittitle>
+							<unitdate> 1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.4 - 1.6, 2.1 </container>
+							<unittitle> Symphony no. 1, original MS, negative copy, </unittitle>
+							<unitdate> 1952-1954 </unitdate>
+							<physdesc> (2 bound copies) </physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.2 </container>
+							<unittitle> Symphony no. 2 in D, One Movement, original MS, draft </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Piano and Organ Works </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 2.3 </container>
+							<unittitle> Sonata no. 1 in D, “For Mrs. Olga Muller and Eudoxia Woodward,” original MS and print, </unittitle>
+							<unitdate> 1955 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.4 </container>
+							<unittitle> Sonatine Pour Deux Pianos, (3) original MSS, </unittitle>
+							<unitdate> 1954 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.5 </container>
+							<unittitle> Arietta for Organ, (2) prints, </unittitle>
+							<unitdate> 1951 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.6 </container>
+							<unittitle> Pianoforte, Variations on a theme by Paganini, original MS, unfinished, </unittitle>
+							<unitdate> 1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.7 </container>
+							<unittitle> Sonata Pour Piano, (3) MSS </unittitle>
+							<unitdate> 1954 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Quartets </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 2.8 - 2.10 </container>
+							<unittitle> Children’s Quartet, Five Pieces for Children, original MSS, </unittitle>
+							<unitdate> 1950-1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.1 </container>
+							<unittitle> Hidden Words, String Quartet, Prière de Salut, Commune of Healing, Soprano solo, original MS, prints and parts, including sketches, </unittitle>
+							<unitdate> 1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.2 </container>
+							<unittitle> String Quartet no. 1, master score and parts, </unittitle>
+							<unitdate> 1957 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.3 </container>
+							<unittitle> String Quartet no. 2, original MS and parts (copies), </unittitle>
+							<unitdate> 1959 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Small Ensembles </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 3.4 </container>
+							<unittitle> Concert no. 1 (Kleine), violins I and II, viola II - Ubellaunig, </unittitle>
+							<unitdate> 1951 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.5 </container>
+							<unittitle> Concerto for Two Trumpets and String Orchestra, includes unfinished sketches, </unittitle>
+							<unitdate> 1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.6 </container>
+							<unittitle> Oboe Trio, Sonate Pour Oboe, Cello, Piano, original MS and parts, notes and copies, </unittitle>
+							<unitdate> 1958-1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.7 </container>
+							<unittitle> Oboe Trio, original MS and parts, </unittitle>
+							<unitdate> 1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.8 </container>
+							<unittitle> Quintetta I, violin, (2) photocopied MSS </unittitle>
+							<unitdate> 1950-1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.9 </container>
+							<unittitle> Quintetta I, strings and piano score (parts), photocopied MS, </unittitle>
+							<unitdate> 1950-1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.1 </container>
+							<unittitle> Sonata for oboe, violoncello and piano, original MS and photocopies </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.2 </container>
+							<unittitle> Suite for Percussion and Piano, original MS and parts, </unittitle>
+							<unitdate> 1958-1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.3 </container>
+							<unittitle> Trio for Strings, Op. 2, original MS and parts </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.4 </container>
+							<unittitle> Woodwind Quintet, original MS, unfinished, </unittitle>
+							<unitdate> 1954 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Violin and Viola </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 4.5 </container>
+							<unittitle> Petite Suite for Two Violins, original MS, </unittitle>
+							<unitdate> 1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.6 </container>
+							<unittitle> Sonata no. 1 for Viola and Piano, original MS </unittitle>
+							<unitdate> 1958 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.7 </container>
+							<unittitle> Sonata no. 2 in D, violin and piano, “To L. Voserchian and E. Dick,” original MS, negative and positive prints, </unittitle>
+							<unitdate> 1954 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.8 </container>
+							<unittitle> Sonata for Violin and Piano, “To Mr. and Mrs. Alfred Krips,” MS score, master sheets, (1) bound copy </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Vocal Works </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 5.1 </container>
+							<unittitle> A Voice on the Winds (Lionel Johnson), soprano, piano, master copy, </unittitle>
+							<unitdate> 1951 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.2 </container>
+							<unittitle> Air for Contralto and Viola, St. John 14:27, master print, </unittitle>
+							<unitdate> 1951 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.3 </container>
+							<unittitle> Canata no. 1 (By Night On My Bed I Sought Him), soprano, cello, piano, original MSS, master copies, </unittitle>
+							<unitdate> 1958 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.4 </container>
+							<unittitle> Communion Service, Children’s Choir, Organ, Viola, All Saints Episcopal Church, (2) original MSS, </unittitle>
+							<unitdate> 1955 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.5 </container>
+							<unittitle> Comparative Analysis, soprano, piano, original MS, </unittitle>
+							<unitdate> 1957 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.6 </container>
+							<unittitle> Love Song, Op. 3, no. 1 (Robert Nichols), voice, piano, original MSS, positive and negative prints, </unittitle>
+							<unitdate> 1948 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.7 </container>
+							<unittitle> Lullaby for Christopher (Sapp), soprano, piano, original MSS, </unittitle>
+							<unitdate> 1952 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.8 </container>
+							<unittitle> Missa Brevis, choir, 2 violins, 2 flutes, drum triange, 2 trumpets in B flat, original MS, photocopies, </unittitle>
+							<unitdate> 1954-1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.9 </container>
+							<unittitle> The Navigators, Op. 3, no. 3 (Walter James Turner), baritone, piano, original MS, negative and positive prints, </unittitle>
+							<unitdate> 1949 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.10 </container>
+							<unittitle> Pie Jesu, soprano, piano, photocopy, </unittitle>
+							<unitdate> 1951 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.11 </container>
+							<unittitle> Psalm 1 Op. 4, no. 1, psalm 1:1-3 King James Version, soprano, alto, tenor, bass chorus, piano, original MS, negative and positive prints, </unittitle>
+							<unitdate> 1949 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.12 </container>
+							<unittitle> Psalm 139, contralto, piano, original MS, mock up, master and copies </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.13 </container>
+							<unittitle> The Snail (John Donne), tenor, baritone, piano, original MS, </unittitle>
+							<unitdate> 1957 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.14 </container>
+							<unittitle> Spirit, Silken Thread (Margo Ruddock), medium voice, piano, master copies, </unittitle>
+							<unitdate> 1952 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.15 </container>
+							<unittitle> To Quick My Ear (Emily Dickinson), voice, piano, original MS, incomplete, </unittitle>
+							<unitdate> 1957 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.16 </container>
+							<unittitle> A Widow Bird, Op. 3, no. 3 (Walter James Turner), baritone, piano, original MS, positive and negative prints, </unittitle>
+							<unitdate> 1949 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.17 </container>
+							<unittitle> Winter Song (Oliver Heford), voice, piano, MS draft, </unittitle>
+							<unitdate> 1952 </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II. Biographical </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 6.1 </container>
+						<unittitle> Certificate of Attendance, Ecoles des Americaines, </unittitle>
+						<unitdate> 1952 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.2 </container>
+						<unittitle> Handwritten text and notations addressing congressional bill regarding scientific research and study, </unittitle>
+						<unitdate> 1945-09-28 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.3 </container>
+						<unittitle> School transcript, Boston University School of Fine and Applied Arts, </unittitle>
+						<unitdate> 1959 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.4 </container>
+						<unittitle> Vassar College, Italian assignments, </unittitle>
+						<unitdate> 1943-02-17 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.5 </container>
+						<unittitle> Vassar College report card, </unittitle>
+						<unitdate> 1943 February </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III. Correspondence (to BSB) </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 6.6 </container>
+						<unittitle> Boulanger, Nadia, </unittitle>
+						<unitdate> 1957-09-16 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.7 </container>
+						<unittitle> Compton, Arthur H. (telegram), </unittitle>
+						<unitdate> 1949 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.8 </container>
+						<unittitle> Golschmann, Vladimir, (2) letters, </unittitle>
+						<unitdate> 1957 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.9 </container>
+						<unittitle> Rudolf, Max, Cincinnati Symphony Orchestra, </unittitle>
+						<unitdate> 1958-11-29 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Series IV. Press clippings </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 6.10 </container>
+						<unittitle> (4) clippings </unittitle>
+						<unitdate> 1947, undated </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> Series V. Programs and invitations </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 6.11 </container>
+						<unittitle> Isabella Stewart Gardner Museum, Mademoiselle Nadia Boulanger Reception, </unittitle>
+						<unitdate> 1958-04-24 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.12 </container>
+						<unittitle> St. Louis Women’s Symphony, Palais de Fountainebleu, </unittitle>
+						<unitdate> 1947, 1953 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> Series VI. Writings </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 6.13 </container>
+						<unittitle> A Small Anthology, TS, </unittitle>
+						<unitdate> 1942-05-12 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 6.14 </container>
+						<unittitle> Essays, holograph, </unittitle>
+						<unitdate> 1941 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle> Series VII. Reference </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 6.15 </container>
+						<unittitle> Composition inventory lists, including lyrics of selected works </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

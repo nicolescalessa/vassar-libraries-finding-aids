@@ -1,0 +1,3629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_benet_family</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Benét Family Papers, 1803-1970</titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College
+					Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY,
+						12604-0020</addressline>
+				</address>
+				<date>April 2016</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2016</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100"><persname>Benét Family</persname></origination>
+			<unittitle label="Title:" encodinganalog="245">Benét Family Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1803-1970</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">21 cubic feet (32 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a"><corpname>Archives and Special
+					Collections Library, Vassar College Libraries</corpname></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, manuscripts,
+				clippings, journals, business and legal documents and photographic prints relating
+				the Benét Family’s personal, professional, and creative activity. A significant
+				volume of the collection contains correspondence between family members, including
+				letters to and from Stephen Vincent Benét and William Rose Benét. The collection
+				includes manuscript drafts by Laura Benét, as well as some ephemera and printed
+				material collected by the family.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>Laura, William Rose, and Stephen Vincent Benét were the children of James Walker
+				Benét and Frances Neill Rose. James Walker Benét was a colonel in the U.S. Army,
+				following in the footsteps of his father, the first Stephen Vincent Benét, a
+				brigadier general. Both father and son managed ordnance, and because of this, Laura,
+				William and Stephen spent much of their early childhood living at a series of
+				arsenals: Fort Hamilton on the shores of the New York Harbor, the Springfield Armory
+				in Massachusetts, the Frankfort Arsenal near Philadelphia, the Watervliet Arsenal
+				near Albany, and finally the Benicia Arsenal in California. They also spent periods
+				with Colonel Benét's grandparents in Washington, D.C., and lived for several years
+				in Bethlehem, Pennsylvania, and Buffalo, New York.</p>
+			<p>It was while the family was at the Watervliet Arsenal, that the boys were sent to
+				Albany Academy (then a military school), and Laura attended the Emma Willard School
+				in Troy. Laura went to Vassar College to continue her education, and William went to
+				Yale. Stephen, who was much younger, attended Hitchcock Academy in California while
+				his father was stationed in Benicia, then followed his brother to Yale.</p>
+			<p>Laura Benét employed herself as a social worker, newspaper editor, poet and author.
+				She worked as a settlement worker at the Spring Street Settlement in New York City,
+				1915-1917; as a placement worker at the Children's Aid Society, New York City; a
+				sanitary inspector for the American Red Cross, Augusta, Georgia, 1917-1919; a
+				secretary and assistant book page editor at the New York Evening Post; an editor at
+				the New York Sun; as a book review editor's assistant and book review substitute at
+				the New York Times; and as a free-lance writer from 1930 until her death. She
+				received and award from the National Poetry Center in 1936, and an honorary degree
+				from Moravian College in Bethlehem, Pennsylvania in 1967.</p>
+			<p>William Rose Benét was an author and poet as well. He wrote for <emph render="italic"
+					>Century Magazine</emph>, the <emph render="italic">Saturday Review of
+					Literature</emph>, and published several books of poems, and one novel. He was
+				posthumously awarded the Pulitzer Prize for <emph render="italic">The Dust Which is
+					God</emph>, an autobiographical verse narrative. He was married four times. He
+				had three children with Teresa Thompson (sister to the novelist Kathleen Thompson
+				Norris), who died during the influenza pandemic in 1919, just seven years after they
+				were married. He had another child with the poet Elinor Wylie. They were married
+				from 1923 until her death in 1928. His third marriage was to Lora Baxter
+				(1932-1937), and his last marriage was to Marjorie Flack, an author and illustrator
+				of children's books. Their marriage lasted from 1941 to his death in 1950.</p>
+			<p>Stephen Vincent Benét was also an author and poet. He too won a Pulitzer Prize, in
+				1929, for one of his most noted poems, "John Brown's Body." He may be best known,
+				however, for his short story, "The Devil and Daniel Webster." Stephen married
+				Rosemary Carr, a reporter in Paris for the <emph render="italic">Chicago
+					Tribune</emph>, in 1921, and had three children. He had severe cases of scarlet
+				fever and typhoid as a child, and suffered from arthritis as an adult; he died in
+				1943 of a heart attack at the age of 44.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Family Nicknames</head>
+			<chronlist>
+				<chronitem>
+					<date>1827-1895</date>
+					<event>Stephen Vincent Benét — Grandpapa</event>
+				</chronitem>
+				<chronitem>
+					<date>1831-1916</date>
+					<event>Mary Lee Rose — Ammah</event>
+				</chronitem>
+				<chronitem>
+					<date>1833-1900</date>
+					<event>Laura Amanda Walker Benét — Grandmama, Lolly</event>
+				</chronitem>
+				<chronitem>
+					<date>1857-1928</date>
+					<event>James Walker Benét — Jack</event>
+				</chronitem>
+				<chronitem>
+					<date>1860-1940</date>
+					<event>Frances Neill Rose Benét — Fan, Fanny</event>
+				</chronitem>
+				<chronitem>
+					<date>1863-1948</date>
+					<event>Laurence Vincent Benét — Uncle Larry</event>
+				</chronitem>
+				<chronitem>
+					<date>1881-1911</date>
+					<event>Teresa Thompson Benét — Tee</event>
+				</chronitem>
+				<chronitem>
+					<date>1884-1979</date>
+					<event>Laura Benét — Tissy</event>
+				</chronitem>
+				<chronitem>
+					<date>1886-1950</date>
+					<event>William Rose Benét — Willie</event>
+				</chronitem>
+				<chronitem>
+					<date>1898-1943</date>
+					<event>Stephen Vincent Benét — Tibbie</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection includes extensive family correspondence, including letters to and
+				from Laura Benét’s brothers Stephen Vincent and William Rose. Correspondence of note
+				includes a letter to Laura Benét from Edna St. Vincent Millay, letters from Rachel
+				Field and Lola Ridge, and two letters from Robert Frost, to William Rose Benét.
+				Eight folders contain correspondence from novelist Kathleen Thompson Norris to her
+				sister Teresa Thompson Benét, wife of William Rose Benét. Some correspondence to
+				Laura Benét includes editorial commentary from Stephen Vincent Benét (SEE
+				manuscripts: All for a Silver Shoe, and Inheritors of the Earth).</p>
+			<p>A significant volume of the collection’s correspondence is from Laura to her mother
+				Frances Rose Benét and father, Colonel James Walker Benét, written during her years
+				at Vassar (1904 – 1907). Many of the letters note the name of the dormitory in which
+				she lived at the time of writing. Letters in the collection include extensive
+				correspondence between Laura and her mother, Frances Rose, as well as correspondence
+				between Frances Rose and her mother Mary Lee Rose.</p>
+			<p>Photographic prints include a scrapbook (1907) of Benicia Arsenal (California), home
+				of Frances and James Walker Benét during the years Laura completed studies at
+				Vassar, and a small collection of photographic prints taken at Slabsides, the New
+				York residence of American naturalist and nature essayist, John Burroughs.</p>
+			<p>Three cubic feet contain manuscript drafts by Laura Benét, one of which holds
+				primarily fragments of writings, partial drafts and notations.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><extref href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991009062119707396">Many of Laura Benét's books are available in the Vassar Alumnae/i Collection. Of
+				particular note for researchers interested in the family is a book about her childhood: <emph render="italic">When William Rose, Stephen Vincent, and I Were Young</emph>.</extref></p>
+		</relatedmaterial>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p>A small collection of books owned by Laura Benét was removed from the papers and
+				added to Vassar's rare book collection.</p>
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Barker, Elsa, 1869-1954</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, Laura</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, James, 1914-</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, S. V. (Stephen Vincent), 1827-1895</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, Stephen Vincent, 1898-1943</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, William Rose, 1886-1950</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, James Walker, 1857-1928</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, Frances Neill Rose, 1860-1940</persname>
+				<persname source="lcnaf" encodinganalog="600">Benét, Laurence Vincent, 1863-1948</persname>
+				<persname source="lcnaf" encodinganalog="600">Burroughs, John, 1837-1921</persname>
+				<persname source="lcnaf" encodinganalog="600">Frost, Robert, 1874-1963</persname>
+				<persname source="lcnaf" encodinganalog="600">Field, Rachel, 1894-1942</persname>
+				<persname source="lcnaf" encodinganalog="600">Goethals, George W. (George Washington), 1858-1928</persname>
+				<persname source="lcnaf" encodinganalog="600">Millay, Edna St. Vincent, 1892-1950</persname>
+				<persname source="lcnaf" encodinganalog="600">Norris, Kathleen Thompson, 1880-1966</persname>
+				<persname source="lcnaf" encodinganalog="600">Ridge, Lola, 1873-1941</persname>
+				<persname source="lcnaf" encodinganalog="600">Taylor, Prentiss, 1907-1991</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Yale University</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Poets, American</subject>
+				<subject source="lcsh" encodinganalog="650">Authors, American--20th century--Family relationships</subject>
+				<subject source="lcsh" encodinganalog="650">Arsenals--United States--History</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Benicia (Calif.)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Journals</genreform>
+				<genreform source="aat" encodinganalog="655">Manuscripts</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, April 2016. Updated by Emma Gronbeck, August 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, 2015.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>First accession was donated by Patricia and Donald Kennelly in 1991. There was
+				another accession from the Kennellys in 2008.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Benét Family Papers, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is intellectually arranged roughly by family generation.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series1">Series I.</ref> Laura Benét, </unittitle>
+					<unitdate type="inclusive">1873-1970</unitdate>
+				</did>
+				<scopecontent>
+					<p>Correspondence</p>
+					<p>Financial and Legal Material</p>
+					<p>Notebooks</p>
+					<p>Biography</p>
+					<p>Miscellaneous</p>
+					<p>Writings</p>
+					<p>Manuscripts of other Writers</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series2">Series II.</ref> William Rose Benét, </unittitle>
+					<unitdate type="inclusive">1884-1936</unitdate>
+				</did>
+				<scopecontent>
+					<p>Correspondence</p>
+					<p>Correspondence to and from Teresa Thompson Benét</p>
+					<p>Writings</p>
+					<p>Miscellaneous</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series3">Series III.</ref> Stephen Vincent
+						Benét, </unittitle>
+					<unitdate type="inclusive">1912-1940s</unitdate>
+				</did>
+				<scopecontent>
+					<p>Correspondence</p>
+					<p>Miscellaneous</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series4">Series IV.</ref> Parents of Laura, William, and
+						Stephen, </unittitle>
+					<unitdate type="inclusive">1810-1942</unitdate>
+				</did>
+				<scopecontent>
+					<p>James Walker Benét</p>
+					<p>Frances Neill Rose Benét</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series5">Series V.</ref> Grandparents of Laura, William,
+						and Stephen, </unittitle>
+					<unitdate type="inclusive">1872-1895</unitdate>
+				</did>
+				<scopecontent>
+					<p>Stephen Vincent Benét, Sr., Laura Walker Benét, and (Great Uncle) Laurence
+						Benét.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series6">Series VI.</ref> Children of William and
+						Stephen, </unittitle>
+					<unitdate type="inclusive">1920s-1930s</unitdate>
+				</did>
+				<scopecontent>
+					<p>Wiliam Rose and Teresa Thompson Benét's Children: Frances Rosemary Benét,
+						James Walker Benét, Jr., and Kathleen Anne Benét.</p>
+					<p>Stephen Vincent and Rosemary Carr Benét's Children: Stephanie and Thomas
+						Benét.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series7">Series VII.</ref> Miscellaneous Benét Family
+						Material, </unittitle>
+					<unitdate type="inclusive">1803-1969</unitdate>
+				</did>
+				<scopecontent>
+					<p>Unidentified and miscellaneous family items</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series8">Series VIII.</ref> Photographic
+						Prints, </unittitle>
+					<unitdate type="inclusive">1882-1939</unitdate>
+				</did>
+				<scopecontent>
+					<p>Portraits and snapshots of people, images of family homes, and some
+						unidentified landscapes.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. LAURA BENÉT</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence - Incoming</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.5</container>
+							<unittitle>Arnold, Adelaide, </unittitle>
+							<unitdate>1928-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.6</container>
+							<unittitle>Bacon, Leonard, </unittitle>
+							<unitdate>1926-1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.7</container>
+							<unittitle>Council for Democracy, </unittitle>
+							<unitdate>1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.9</container>
+							<unittitle>Davies, Caro, includes poem "Red Moon," </unittitle>
+							<unitdate>1967-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.10</container>
+							<unittitle>Davies, Mary Carolyn, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.8</container>
+							<unittitle>Fechet, d’Alary, </unittitle>
+							<unitdate>1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.11</container>
+							<unittitle>Feeney, Leonard, </unittitle>
+							<unitdate>1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.12</container>
+							<unittitle>Field, Rachel, </unittitle>
+							<unitdate>1932-1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.13</container>
+							<unittitle>Gousenberg, Abraham, </unittitle>
+							<unitdate>November, 1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.14</container>
+							<unittitle>Johnson, Edith Warner, </unittitle>
+							<unitdate>1959</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.15</container>
+							<unittitle>Johnson, Edith Warner, including poems and notations, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.16</container>
+							<unittitle>Lowell, Amy, </unittitle>
+							<unitdate>January, 1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.17</container>
+							<unittitle>Millay, Edna St. Vincent, includes verse of "The Splendor of
+								Man," </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.18</container>
+							<unittitle>Miller, Ben, </unittitle>
+							<unitdate>1928-1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.19</container>
+							<unittitle>Moffat, Marjorie, </unittitle>
+							<unitdate>1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.20</container>
+							<unittitle>Pike, Violet, </unittitle>
+							<unitdate>1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.21</container>
+							<unittitle>Ridge, Lola, </unittitle>
+							<unitdate>1928-1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.22</container>
+							<unittitle>Taylor, Prentiss, </unittitle>
+							<unitdate>1933-1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.23</container>
+							<unittitle>Widdemer, Margaret, </unittitle>
+							<unitdate>1932 Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.1</container>
+							<unittitle>Condolence letters, </unittitle>
+							<unitdate>1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.2</container>
+							<unittitle>Christmas cards, notecards, </unittitle>
+							<unitdate>1930s–1950s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 4.3-4.14</container>
+							<unittitle>General, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.15</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1892-1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 4.16-4.20</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1904-1909</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.21</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1911-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 4.22-4.23</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1920-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 4.24-4.28</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1930-1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 4.29-4.35</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1940-1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.36</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1950-1959</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 4.37-4.39</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1961-1969</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence - Incoming, from family members</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 5.1-5.24</container>
+							<unittitle>from Benét, Frances, Rose, </unittitle>
+							<unitdate>1900s-1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.25</container>
+							<unittitle>from Benét, Laura Walker, </unittitle>
+							<unitdate>1893-1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.19</container>
+							<unittitle>from Benét, Laurence, </unittitle>
+							<unitdate>1892-1945</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.26</container>
+							<unittitle>from Benét, William Rose, </unittitle>
+							<unitdate>1873-1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.27</container>
+							<unittitle>from Rose, Mary Lee, </unittitle>
+							<unitdate>1896-1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.28</container>
+							<unittitle>from Rose, William J., </unittitle>
+							<unitdate>1893</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.29</container>
+							<unittitle>from miscellaneous nephews, nieces, in-laws, </unittitle>
+							<unitdate>1929-1961</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 5.30-5.35, 18.11</container>
+							<unittitle>from Benét, James Walker, </unittitle>
+							<unitdate>1892-1907</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence - Outgoing</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 6.1-6.36</container>
+							<unittitle>to Benét, Frances Rose, </unittitle>
+							<unitdate>1893-1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 7.1-7.7</container>
+							<unittitle>to Benét, James Walker, </unittitle>
+							<unitdate>1893-1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 7.8-7.17</container>
+							<unittitle>to Rose, Mary Lee, </unittitle>
+							<unitdate>1892-1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.18</container>
+							<unittitle>to Benét, Stephen Vincent, </unittitle>
+							<unitdate>1906-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.19</container>
+							<unittitle>to Benét, William Rose, </unittitle>
+							<unitdate>1904-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.20</container>
+							<unittitle>to Rose, Agnes M., </unittitle>
+							<unitdate>1904-1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.21</container>
+							<unittitle>to misc. family members, </unittitle>
+							<unitdate>1905-1936</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Financial and Legal Material</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>Basket For A Fair, The Poetry Review, </unittitle>
+							<unitdate>1935 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.2–1.3</container>
+							<unittitle>Correspondence, World Center of Women’s Archives, Poetry
+								Society of America, The Author’s Guild, </unittitle>
+							<unitdate>1895-1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.4-1.5</container>
+							<unittitle>Correspondence, Doubleday, Doran &amp; Co., </unittitle>
+							<unitdate>1929-1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>New York Times, book review invoices, </unittitle>
+							<unitdate>1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.1</container>
+							<unittitle>Association for Arts in Childhood, Schroeder Foundation,
+								women’s War Work Abroad, </unittitle>
+							<unitdate>1918-1944</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 3.2-3.3</container>
+							<unittitle>Doubleday, Doran &amp; Co., copyright titles, </unittitle>
+							<unitdate>1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.4</container>
+							<unittitle>Publishers correspondence, miscellany</unittitle>
+							<unitdate>1920-1962</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Notebooks</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.22</container>
+							<unittitle>Anonymous journal (damaged), </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.23</container>
+							<unittitle>Anonymous journal, </unittitle>
+							<unitdate>1887</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.24</container>
+							<unittitle>Day books, </unittitle>
+							<unitdate>1929 - 1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.25</container>
+							<unittitle>Journal, </unittitle>
+							<unitdate>1889-1901</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.26</container>
+							<unittitle>Journal, </unittitle>
+							<unitdate>1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.27</container>
+							<unittitle>Journal, writing drafts, "A Cat in Distress," </unittitle>
+							<unitdate>1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.28</container>
+							<unittitle>Latin notes, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.29</container>
+							<unittitle>"My Literary Log," books read by James Walker and Frances
+								Rose Benét, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.30</container>
+							<unittitle>Research notes, Emily Dickinson, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.31</container>
+							<unittitle>Research notes, Shakespeare, Leland Opera House, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.32</container>
+							<unittitle>Shopping lists, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biography</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.7-1.10</container>
+							<unittitle>Calendars, journals, </unittitle>
+							<unitdate>1923-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 25</container>
+							<unittitle>Scrapbook - poetry press clippings, </unittitle>
+							<unitdate>circa 1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.1</container>
+							<unittitle>Scrapbook, </unittitle>
+							<unitdate>1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.24-1.29</container>
+							<unittitle>Clippings, </unittitle>
+							<unitdate>1897-1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 2.1-2.4</container>
+							<unittitle>Clippings, </unittitle>
+							<unitdate>1896-1970</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.2</container>
+							<unittitle>Sheet music book - "Duos," </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.2</container>
+							<unittitle>Sheet music book, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.16-1.17</container>
+							<unittitle>Notes, lists, fragments of writing, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Recipes, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.19</container>
+							<unittitle>Report card, sample college entrance exams (Smith, Wellesley,
+								Vassar), </unittitle>
+							<unitdate>1903-1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.20</container>
+							<unittitle>Schoolwork, Calvert School lesson outlines, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.21-1.22</container>
+							<unittitle>Sketches, drawings, prints (including Prentiss Taylor
+								prints), </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.24</container>
+							<unittitle>Certificate, air warden, </unittitle>
+							<unitdate>1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.5</container>
+							<unittitle>St. Paul’s Church, handbill, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.23</container>
+							<unittitle>Ephemera, includes Academy of American Poets contest winner
+								cards, </unittitle>
+							<unitdate>1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.30-1.41</container>
+							<unittitle>Programs and pamphlets, </unittitle>
+							<unitdate>1880-1967</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.16</container>
+							<unittitle>Programs - Yale, Theodore Roosevelt Memorial, </unittitle>
+							<unitdate>1936, 1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.42</container>
+							<unittitle>Vassar related - programs, invitations, student association
+								by-laws, </unittitle>
+							<unitdate>1905-1907</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.43-1.44</container>
+							<unittitle>Research notecards, world history, papacy, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.11-1.15</container>
+							<unittitle>Poetry, A - Z</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.1</container>
+							<unittitle>Ada’s Triumph</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.2</container>
+							<unittitle>All for a Silver Shoe, includes letter with critique from
+								Stephen Vincent Benét</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.3</container>
+							<unittitle>Always Look in A Coffee</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.4</container>
+							<unittitle>Andy’s Heron</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.5</container>
+							<unittitle>Animals’ Christmas</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.6</container>
+							<unittitle>Aunt Hester’s Bird</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.7</container>
+							<unittitle>An Ass and an Angel</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 8.8-8.9</container>
+							<unittitle>Bible Stories</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.10</container>
+							<unittitle>The Bird</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.11</container>
+							<unittitle>Bless the Beasts</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.12</container>
+							<unittitle>The Box a Bee Crept In</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.13</container>
+							<unittitle>The Bracelet that Became a Crown</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.14</container>
+							<unittitle>Bret Harte in Literature</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.15</container>
+							<unittitle>Bullfrog Dentistry</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.16</container>
+							<unittitle>Castle Gardens</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.17</container>
+							<unittitle>The Cherrywood Cradle</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.18</container>
+							<unittitle>Cinnamon Saint</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.19</container>
+							<unittitle>The Cloud the Brought Bread</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.20</container>
+							<unittitle>Cody’s Boy</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.21</container>
+							<unittitle>The Coffee Pot on the Dunes</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.22</container>
+							<unittitle>The Comrade</unittitle>
+							<physdesc>(TS, MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.23</container>
+							<unittitle>Conies on the Rock</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 8.24-8.40</container>
+							<unittitle>Curious Heart</unittitle>
+							<physdesc>(TS, MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.41</container>
+							<unittitle>Dancing Skunks</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.42</container>
+							<unittitle>A Day in the Orchard</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.43</container>
+							<unittitle>Daydawn’s Child</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.44</container>
+							<unittitle>Desolation; Three People</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.45</container>
+							<unittitle>The Diamond</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.46</container>
+							<unittitle>Doll Voodoo</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.47</container>
+							<unittitle>Dye Your Hair Red</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.48</container>
+							<unittitle>Earth’s Inheritance</unittitle>
+							<physdesc>(Fragment, MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.49</container>
+							<unittitle>Easter Hats</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 8.49-8.50</container>
+							<unittitle>Edgar Allen Poe</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.51</container>
+							<unittitle>Editorial on Girls’ Camps</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.52</container>
+							<unittitle>Eglina</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.53</container>
+							<unittitle>Emerald; The Ruby; Amber</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.54</container>
+							<unittitle>Emperor Wilhelm II</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.55</container>
+							<unittitle>Engineers Get Gipped</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.56</container>
+							<unittitle>Faith is Victory</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.57</container>
+							<unittitle>Fanny and Her Four Aunts</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.58</container>
+							<unittitle>Fanny Fuddle and the Flight of Time</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.59</container>
+							<unittitle>The Fat King</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.60</container>
+							<unittitle>Father Gafney</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.61</container>
+							<unittitle>Father Gafney’s Toumbstone</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.62</container>
+							<unittitle>First Aid to an Eclipse</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 8.63-8.66</container>
+							<unittitle>Florina</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.67</container>
+							<unittitle>Florina’s Ready Pen</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.68</container>
+							<unittitle>The Foresters</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 10.1-10.49</container>
+							<unittitle>Fragments of writings, including writings of Florina,
+								Flatboat Days, The Dog Boy, Growing Pains, A Faithful Drudge, The
+								Guilded Weathercock, Jenny Lind</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 3.26-3.27</container>
+							<unittitle>Fragments of writings, including Homecoming, Christmas
+								Market</unittitle>
+							<physdesc>(TS, MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.69</container>
+							<unittitle>Fresh Springs</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.70</container>
+							<unittitle>Gilda’s Tower</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.71</container>
+							<unittitle>Golden Lass</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.72</container>
+							<unittitle>Greatness</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.73</container>
+							<unittitle>Guard and Guide</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 8.74-8.75</container>
+							<unittitle>Guardian Harp</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.76</container>
+							<unittitle>The Harp</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.77</container>
+							<unittitle>The Hat the Virgin Trimmed</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.88</container>
+							<unittitle>The Heron</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.89</container>
+							<unittitle>The Hidden Valley</unittitle>
+							<physdesc>(TS, MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.90</container>
+							<unittitle>The Hole that Spelled Canary</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.91</container>
+							<unittitle>Un Homme d’Affaires</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 8.92-8.93</container>
+							<unittitle>Horse Sense</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.94</container>
+							<unittitle>The Houses at the End of the Ave</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.95</container>
+							<unittitle>How Tall We Are</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.96</container>
+							<unittitle>Inheritors of the Earth, includes letter with critique from
+								Stephen Vincent Benét</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.97</container>
+							<unittitle>The Imp’s Armor</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.98</container>
+							<unittitle>In Queen Bess’ Day</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.99</container>
+							<unittitle>In the Last Analysis</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 8.100-9.4</container>
+							<unittitle>Jenny Lind</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.5-9.6</container>
+							<unittitle>Jenny, Wren, and the Voodoo</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.7</container>
+							<unittitle>Kelly’s Girl</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.8</container>
+							<unittitle>The King that Was Hid</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.9</container>
+							<unittitle>The Lad With the Loaves and Fishes</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.10</container>
+							<unittitle>Let the Sea Come</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.11-9.12</container>
+							<unittitle>Loch Berries</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.13</container>
+							<unittitle>Look in a Coffee Pot</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.14</container>
+							<unittitle>Love’s Young Dream</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.15</container>
+							<unittitle>Lucky Strike, Sparrow Hawk</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.16</container>
+							<unittitle>MacDowell Colony Studio</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.17</container>
+							<unittitle>Magnet of Desire</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.18</container>
+							<unittitle>Mary and Martha</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.19</container>
+							<unittitle>Many a Mickle</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.20</container>
+							<unittitle>Marry, Come Up!</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.21</container>
+							<unittitle>The Mouse’s Telegram</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.22</container>
+							<unittitle>Mr. Dolberg’s Workbox</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.23</container>
+							<unittitle>A Monkey and a Grandmother</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.24</container>
+							<unittitle>Mountain Oracle</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.25</container>
+							<unittitle>Mountain Sheep</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.26</container>
+							<unittitle>The Mouse’s Pudding</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.27</container>
+							<unittitle>Music and Molasses</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.28-9.33</container>
+							<unittitle>Neptune in Virgo</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.34</container>
+							<unittitle>Never Did Run Smooth</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.35</container>
+							<unittitle>The Nine Springs</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.36</container>
+							<unittitle>Old-Fashioned Bouquet</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.37</container>
+							<unittitle>Orpha Comfort’s Heart</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.38</container>
+							<unittitle>Pepper Profits</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.39</container>
+							<unittitle>The Persistent Caller</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.40-9.41</container>
+							<unittitle>Phil’s Quarry</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.42</container>
+							<unittitle>Phinias Barnum</unittitle>
+							<physdesc>(Fragment, MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.43</container>
+							<unittitle>Pinkey’s Night Ride</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.44</container>
+							<unittitle>Prologue: Memory</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.45</container>
+							<unittitle>The Quarry</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.46</container>
+							<unittitle>Rag Day</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.47</container>
+							<unittitle>The Red Box</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.48</container>
+							<unittitle>A Shaker Valentine</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.49</container>
+							<unittitle>Shakespeare as Sonneteer</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.50-9.51</container>
+							<unittitle>Sapphics</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.52-9.60</container>
+							<unittitle>Shelley</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.61</container>
+							<unittitle>She Was Great</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.62</container>
+							<unittitle>A Ship Set Sail</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.63</container>
+							<unittitle>Some Achieve Marriage</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.64</container>
+							<unittitle>Spring Again</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.65</container>
+							<unittitle>The Stairs</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.66</container>
+							<unittitle>Steve’s Dad</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.67</container>
+							<unittitle>Steve and the Sawmill</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.68</container>
+							<unittitle>The Store that Turned into a Post Office</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.69</container>
+							<unittitle>Substance in Shadow</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.70</container>
+							<unittitle>The Summons of Father LaBrosse</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.71</container>
+							<unittitle>Sunday Dinner</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.72</container>
+							<unittitle>Take a Green Apple</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.73</container>
+							<unittitle>Talk on Animal Poems</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.74</container>
+							<unittitle>Ten Cents</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.75</container>
+							<unittitle>That Which Has Wings</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.76</container>
+							<unittitle>The Things We Are</unittitle>
+							<physdesc>(Revision, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.77-9.78</container>
+							<unittitle>Tip Top’s Hat</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.79</container>
+							<unittitle>Toby’s Radio Lunch</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.80</container>
+							<unittitle>Tom Tiddler’s Ground</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.81</container>
+							<unittitle>The Tree</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.82</container>
+							<unittitle>A Turkey’s Thanksgiving</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.83</container>
+							<unittitle>The Two Coaches</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.84</container>
+							<unittitle>Unemployed Fairies</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.85</container>
+							<unittitle>Valentine’s vs. Twins</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.86</container>
+							<unittitle>Watch Your Step</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.87</container>
+							<unittitle>Watchman Stork</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.88</container>
+							<unittitle>Watch Your Step</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.89</container>
+							<unittitle>Water, Water</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.90</container>
+							<unittitle>The Way of an Eagle</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.91</container>
+							<unittitle>A Wedding Cinema</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.92</container>
+							<unittitle>What the Animals Saw</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.93</container>
+							<unittitle>The Whitetop Fiddlers’ Convention</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.94-9.95</container>
+							<unittitle>With This Ring</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.96</container>
+							<unittitle>Who Rang that Bill?</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.97</container>
+							<unittitle>Wind and Bread</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.98</container>
+							<unittitle>The Wooden Box</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 9.99-9.101</container>
+							<unittitle>The Workbox</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.102</container>
+							<unittitle>Young Witnesses</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Manuscripts of Other Writers</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.1</container>
+							<unittitle>Barker, Elsa - Unidentified</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.2</container>
+							<unittitle>Barker, Elsa - A Special Purpose</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.3</container>
+							<unittitle>Barker, Elsa - Cat Comedy</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.4</container>
+							<unittitle>Barker, Elsa - Der Kalte Graal</unittitle>
+							<physdesc>(Published Score)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.5</container>
+							<unittitle>Barker, Elsa - Do It Softly</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.6</container>
+							<unittitle>Barker, Elsa - Facts Relative to…Peary North Pole articles, </unittitle>
+							<unitdate>1936</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 11.7-11.10</container>
+							<unittitle>Barker, Elsa - Fragments, notes</unittitle>
+							<physdesc>(MS, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Barker, Elsa - Hard as Nails</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Barker, Elsa - In Her Own Way</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.13</container>
+							<unittitle>Barker, Elsa - Judy Breaks Through</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.14</container>
+							<unittitle>Barker, Elsa - Hymns, </unittitle>
+							<unitdate>1935</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.15</container>
+							<unittitle>Barker, Elsa - Laughing Lion, </unittitle>
+							<unitdate>circa 1935</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.16</container>
+							<unittitle>Barker, Elsa - Letters from a Living Dead Man</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.17</container>
+							<unittitle>Barker, Elsa - Letters from a Living Dead Man, </unittitle>
+							<unitdate>1917</unitdate>
+							<physdesc>(published work, Italian ed)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.18</container>
+							<unittitle>Barker, Elsa - The Living Dead Man, The Channel</unittitle>
+							<unitdate>1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.19</container>
+							<unittitle>Barker, Elsa - Love and the God of Death</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 11.20-11.23</container>
+							<unittitle>Barker, Elsa - Moon Above the Mountains</unittitle>
+							<physdesc>(Draft Fragment, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.24</container>
+							<unittitle>Barker, Elsa - My Search for God, </unittitle>
+							<unitdate>1940</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.25</container>
+							<unittitle>Barker, Elsa - Notes for unidentified work</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.26</container>
+							<unittitle>Barker, Elsa - The Old Place</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.27</container>
+							<unittitle>Barker, Elsa - Peary</unittitle>
+							<physdesc>(Draft Fragment, TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.28</container>
+							<unittitle>Barker, Elsa - Poems</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.29</container>
+							<unittitle>Barker, Elsa - The Scab</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.30</container>
+							<unittitle>Barker, Elsa - The Secret Companions</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.31</container>
+							<unittitle>Barker, Elsa - This Book</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.32</container>
+							<unittitle>Barker, Elsa - Wayna</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.33</container>
+							<unittitle>Barker, Elsa - Virginia</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.34</container>
+							<unittitle>Barker, Elsa - Barker, Elsa – Reviews of Works</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.35</container>
+							<unittitle>Barker, Elsa - Barker, Elsa – TS submitted to Treasury
+								Department</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 11.36-11.40</container>
+							<unittitle>Barker, Elsa - Fragments, including The Secret Companions,
+								Virginia, The Dragon’s Left Eye, The Alligator Puzzle</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 11.41-11.50</container>
+							<unittitle>Barker, Elsa - Poems, misc.</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 11.51-11.58</container>
+							<unittitle>Barker, Elsa - Unidentified</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Garvin, [?] -Description of transcontinental trip, </unittitle>
+							<unitdate>1946</unitdate>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.6</container>
+							<unittitle>Bharati, Baba - Jim, Books One &amp; Two</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.2</container>
+							<unittitle>Sikelianos, Anghelos - Akritan Songs</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 12.3-12.4</container>
+							<unittitle>Sikelianos, Anghelos - The Awakener</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.5</container>
+							<unittitle>Sikelianos, Anghelos - The Death of Digenis</unittitle>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.16</container>
+							<unittitle>Winthrop, John - Poem, On Duty</unittitle>
+							<physdesc>(MS)</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II. WILLIAM ROSE BENÉT</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence - Incoming</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.12</container>
+							<unittitle>Bacon, Leonard, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.12</container>
+							<unittitle>Benét, James Walker, Jr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.13</container>
+							<unittitle>Benét, James and Kathleen, </unittitle>
+							<unitdate>1927, 1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.22</container>
+							<unittitle>Benét, Laurence, </unittitle>
+							<unitdate>1908, 1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.14</container>
+							<unittitle>Benét, Stephen Vincent, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 21.3-21.4</container>
+							<unittitle>Benét, Teresa Thompson, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.15</container>
+							<unittitle>Fisher, Alfred High, </unittitle>
+							<unitdate>1915-1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.16</container>
+							<unittitle>Frost, Robert (includes card from Frances Frost), </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.17</container>
+							<unittitle>Frost, Robert, </unittitle>
+							<unitdate>1921 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.18</container>
+							<unittitle>Miller, Ben, </unittitle>
+							<unitdate>1924-1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.19</container>
+							<unittitle>Morley, Christopher, </unittitle>
+							<unitdate>1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.20</container>
+							<unittitle>Morley, Kit, </unittitle>
+							<unitdate>1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.21</container>
+							<unittitle>Noyes, Alfred, </unittitle>
+							<unitdate>1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.22</container>
+							<unittitle>Publishers, including Harper &amp; Bros., Yale Review,
+								Harrison Smith, Inc., </unittitle>
+							<unitdate>1905-1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.23</container>
+							<unittitle>Rose, Mary Lee, </unittitle>
+							<unitdate>1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.24</container>
+							<unittitle>Untermeyer, Louis, </unittitle>
+							<unitdate>1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 13.25-13.29</container>
+							<unittitle>Miscellaneous friends and associates, </unittitle>
+							<unitdate>1904-1936</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence - Outgoing</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.8</container>
+							<unittitle>Benét, Laura, </unittitle>
+							<unitdate>1904-1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.9</container>
+							<unittitle>Benét, Stephen Vincent, </unittitle>
+							<unitdate>1903-1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Benét, Teresa Thompson, </unittitle>
+							<unitdate>1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.10</container>
+							<unittitle>Rose, Mary Lee, </unittitle>
+							<unitdate>1896-1913</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.11</container>
+							<unittitle>to miscellaneous family members including James Walker Benét
+								and Frances Rose Benét, </unittitle>
+							<unitdate>1884-1924</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence to and from Teresa Thompson Benét</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 19.15-19.17</container>
+							<unittitle>from family members including Frances Rose and James Walker
+								Benét, </unittitle>
+							<unitdate>1913-1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 19.19-19.21</container>
+							<unittitle>to family members including Mary Lee Rose, Agnes Mahon, Laura
+								Benét, Frances Rose and James Walker Benét, </unittitle>
+							<unitdate>1912-1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 19.22-19.29</container>
+							<unittitle>from Norris, Kathleen Thompson (Teresa's sister) to family
+								members, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.33</container>
+							<unittitle>The Enlisted Man, </unittitle>
+							<unitdate>1905</unitdate>
+							<physdesc>(MS, including notations)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.34</container>
+							<unittitle>Hoodman Blind, A Novel in Verse, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.35</container>
+							<unittitle>Notes, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.36</container>
+							<unittitle>Sesfina (poem), </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.37</container>
+							<unittitle>The Shore Road, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(MS, including notations)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.38</container>
+							<unittitle>Poetry, clippings, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.39</container>
+							<unittitle>Poetry, including To a Falcon, The Joke, Mimi and the
+								Foreboding Frost, Frustrate Boast, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(TS)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.30</container>
+							<unittitle>Receipt, golf score book (with sketch by WRB), </unittitle>
+							<unitdate>1901</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.31</container>
+							<unittitle>Receipts, invoices, Poetry Society membership card, </unittitle>
+							<unitdate>1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.32</container>
+							<unittitle>Notes, including undated Christmas list, </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.40</container>
+							<unittitle>War Department memoranda, contracts with Yale University
+								Press, </unittitle>
+							<unitdate>1914-1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.6</container>
+							<unittitle>Insurance policy, </unittitle>
+							<unitdate>1912</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. STEPHEN VINCENT BENÉT</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence - Incoming</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.1</container>
+							<unittitle>Alanova, Kyra, </unittitle>
+							<unitdate>1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.23</container>
+							<unittitle>Benét, Rosemary Carr, </unittitle>
+							<unitdate>1939-1940s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.2</container>
+							<unittitle>Untermeyer, Louis, </unittitle>
+							<unitdate>1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.3</container>
+							<unittitle>Miscellaneous correspondents, including Aggie Mahon, Laura
+								Walker Benét, </unittitle>
+							<unitdate>1905-1940s</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence - Outgoing</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.4</container>
+							<unittitle>to Benét, Frances Rose, </unittitle>
+							<unitdate>1912</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.5</container>
+							<unittitle>to Rose, Mary Lee, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.6</container>
+							<unittitle>Membership confirmation, Mory’s Association, </unittitle>
+							<unitdate>1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.7</container>
+							<unittitle>Little Golightly, The Elks Magazine, </unittitle>
+							<unitdate>1930</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>SERIES IV. THE PARENTS OF LAURA, WILLIAM, AND STEPHEN</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>JAMES WALKER BENÉT</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Correspondence - Incoming</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 18.1-18.5</container>
+								<unittitle>Correspondence from friends, family and associates, </unittitle>
+								<unitdate>1891-1927</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 18.6</container>
+								<unittitle>Goethals, George Washington, </unittitle>
+								<unitdate>1882</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.18</container>
+								<unittitle>from Benét, Laurence, </unittitle>
+								<unitdate>1886-1905</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.26</container>
+								<unittitle>from Cox, Margaret, </unittitle>
+								<unitdate>1917-1918</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Correspondence - Outgoing</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 19.1</container>
+								<unittitle>to misc. family members, including Teresa Thompson, James
+									Walker Benét, Jr., </unittitle>
+								<unitdate>1895-1915</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 19.2</container>
+								<unittitle>to friends, associates, </unittitle>
+								<unitdate>1895-1916</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 19.1-19.7</container>
+								<unittitle>to Benét, Frances Rose, </unittitle>
+								<unitdate>1818-1927</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 18.12</container>
+								<unittitle>to Benét, Laura, </unittitle>
+								<unitdate>1916-1927</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 18.13-18.14</container>
+								<unittitle>to Benét, William Rose, </unittitle>
+								<unitdate>1898-1917</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 19.8</container>
+								<unittitle>to Rose, Mary Lee, </unittitle>
+								<unitdate>1902-1914</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 18.7-18.10</container>
+								<unittitle>to Miller, Ben, </unittitle>
+								<unitdate>1920-1927</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Miscellaneous</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 23</container>
+								<unittitle>An Autobiography, with footnotes by his younger brother, </unittitle>
+								<unitdate>undated</unitdate>
+								<physdesc>(TS)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 22.18</container>
+								<unittitle>Journal, [James Walker Benét?], </unittitle>
+								<unitdate>1920</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 26.3</container>
+								<unittitle>Centennial International Exhibition - Stock certificate, </unittitle>
+								<unitdate>1926</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 18.15</container>
+								<unittitle>"Watervliet Arsenal Bids you Welcome to the May Day
+									Fete," </unittitle>
+								<unitdate>1919</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>FRANCES NEILL ROSE BENÉT</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Correspondence - Incoming</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 14.1-14.23</container>
+								<unittitle>From miscellaneous friends and associates, </unittitle>
+								<unitdate>1871-1942</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.17</container>
+								<unittitle>Benét, Laurence, </unittitle>
+								<unitdate>1880-1938</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 14.24-14.26</container>
+								<unittitle>Rose, Mary Lee, </unittitle>
+								<unitdate>1898-1906</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Correspondence - Outgoing</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 15.1</container>
+								<unittitle>to miscellaneous family members, including Elizabeth
+									Neill Rose, Betsy Jane[?], </unittitle>
+								<unitdate>1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 15.2-15.11</container>
+								<unittitle>to Benét, James Walker, </unittitle>
+								<unitdate>1885-1915</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 15.12-15.18</container>
+								<unittitle>to Benét, William Rose, includes letter regarding WRB’s
+									probation from Yale University, </unittitle>
+								<unitdate>1905-1919</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 15.19</container>
+								<unittitle>to Mahon, Agnes, </unittitle>
+								<unitdate>1905-1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 16.1</container>
+								<unittitle>to Rose, Mary Lee and William, </unittitle>
+								<unitdate>1906-1908</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 16.2-16.30</container>
+								<unittitle>to Rose, Mary Lee, </unittitle>
+								<unitdate>1810-1917</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Writings</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 17.1-17.16</container>
+								<unittitle>Journals, </unittitle>
+								<unitdate>1903-1940</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 17.17</container>
+								<unittitle>A Woman, a Horse and a Dead Man, </unittitle>
+								<unitdate>undated</unitdate>
+								<physdesc>(MS)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 17.18</container>
+								<unittitle>Virtue Is It’s Own Reward, </unittitle>
+								<unitdate>undated</unitdate>
+								<physdesc>(TS, MS)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Finances</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 21.6-21.9</container>
+								<unittitle>Business records, including invoices, bank receipts,
+									banking correspondence, check registers, </unittitle>
+								<unitdate>1875-1939</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Correspondence between extended Neill/Rose family
+								members</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.27</container>
+								<unittitle>Mahon, A.M., correspondence to Rose, Mary Lee, </unittitle>
+								<unitdate>1867-1885</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 27.1</container>
+								<unittitle>Mahon, David and Elizabeth, correspondence to, </unittitle>
+								<unitdate>1812-1872</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 27.4</container>
+								<unittitle>Neill, Catherine, correspondence to, </unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.28</container>
+								<unittitle>Neill, David, correspondence to, </unittitle>
+								<unitdate>1820</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 21.1-21.2</container>
+								<unittitle>Neill, Elizabeth, correspondence to, </unittitle>
+								<unitdate>1916-1925</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.29</container>
+								<unittitle>Neill, Sophia, correspondence to, </unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.30</container>
+								<unittitle>Neill, William, correspondence to Rose, Mary Lee, </unittitle>
+								<unitdate>1852-1858</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 20.31-20.33</container>
+								<unittitle>Rose, Agnes, correspondence to, </unittitle>
+								<unitdate>1866-1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 20.34-20.37</container>
+								<unittitle>Rose, Mary Lee, correspondence to, </unittitle>
+								<unitdate>1883-1919</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 20.38</container>
+								<unittitle>Rose, William J., correspondence from, </unittitle>
+								<unitdate>1870-1878</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 19.9-19.14</container>
+								<unittitle>To Mary Lee Rose from family members including Laura
+									Benét, William Rose Benét, Teresa Benét and Frances Rose Benét, </unittitle>
+								<unitdate>1862-1937</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>SERIES 5: GRANDPARENTS OF LAURA, WILLIAM, AND STEPHEN</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.14-20.16</container>
+						<unittitle>Benét, Laura Walker, correspondence to/from, </unittitle>
+						<unitdate>1883-1894</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.20</container>
+						<unittitle>to Benét, Laura Walker from Laurence Benét, </unittitle>
+						<unitdate>1885-1894</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.24</container>
+						<unittitle>Benét, Stephen Vincent, Sr., correspondence to/from, </unittitle>
+						<unitdate>1872-1895</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.21</container>
+						<unittitle>to Benét, Stephen Vincent, Sr. from Laurence Benét, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 27.3</container>
+						<unittitle>Correspondence, from (great uncle) Laurence Vincent Benét, to
+							family members, </unittitle>
+						<unitdate>1882-1888</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>SERIES 6: CHILDREN OF WILLIAM AND STEPHEN</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.10</container>
+						<unittitle>Benét, Frances Rosemary, correspondence from, </unittitle>
+						<unitdate>1926-1935</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.11</container>
+						<unittitle>Benét, James Walker, Jr., correspondence to/from, </unittitle>
+						<unitdate>1920s-1930s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.13</container>
+						<unittitle>Benét, Kathleen Anne, correspondence from, </unittitle>
+						<unitdate>1920s, 1930s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.25</container>
+						<unittitle>Benét, Stephanie and Thomas, correspondence to family members, </unittitle>
+						<unitdate>1930s</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>SERIES 7: MISCELLANEOUS BENÉT FAMILY MATERIAL</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.1-20.9</container>
+						<unittitle>Miscellaneous unidentified correspondence to/from various family
+							members, </unittitle>
+						<unitdate>1906-1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 22.1-22.16</container>
+						<unittitle>Deteriorated correspondence to various/unidentified Benét family
+							members, </unittitle>
+						<unitdate>1900s-1930s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.39</container>
+						<unittitle>Insurance policies, stocks, </unittitle>
+						<unitdate>1894-1931</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.40-20.44</container>
+						<unittitle>Invoices, receipts, </unittitle>
+						<unitdate>1907-1943</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.45</container>
+						<unittitle>Real estate holdings, correspondence with J.F. Ellis, Esquire, </unittitle>
+						<unitdate>1890s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.5</container>
+						<unittitle>Real estate holdings, Laura and William Rose Benét, </unittitle>
+						<unitdate>1928</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.10</container>
+						<unittitle>Last will and testament, Catherine Neill, Frances Rose Benét, </unittitle>
+						<unitdate>1899, 1939</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.15</container>
+						<unittitle>Real estate agreement, </unittitle>
+						<unitdate>1890</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.11</container>
+						<unittitle>Journal, anonymous, </unittitle>
+						<unitdate>1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 22.17</container>
+						<unittitle>Journal, Mahon, F.E., </unittitle>
+						<unitdate>1863</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.13</container>
+						<unittitle>Report cards, lists - Benét, William Rose, Kathleen, Frances
+							Rose, Walker, </unittitle>
+						<unitdate>1870-1928</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.14</container>
+						<unittitle>Writings, unidentified typescripts, manuscripts, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 22.18</container>
+						<unittitle>Journal, [James Walker Benét?], </unittitle>
+						<unitdate>1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 22.19</container>
+						<unittitle>Printing plate - calling card for Elizabeth Neill Rose, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 26.1</container>
+						<unittitle>Mathematics lesson book, </unittitle>
+						<unitdate>1803</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 27.2</container>
+						<unittitle>Photostats from the New York State Library, including an Ada
+							Rehan letter and images of the Old Pearl Street Theatre, </unittitle>
+						<unitdate>1943</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>SERIES VIII. PHOTOGRAPHIC PRINTS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.1</container>
+						<unittitle>Photo album - including the Benicia Arsenal and family travels in
+							the west, </unittitle>
+						<unitdate>circa 1905-1911</unitdate>
+						<physdesc>(fire damaged)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.1</container>
+						<unittitle>Scrapbook - "Benicia Arsenal Views," </unittitle>
+						<unitdate>circa 1905-1911</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.3</container>
+						<unittitle>Family groups and portraits, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.4</container>
+						<unittitle>Miscellaneous and unidentified family, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.24</container>
+						<unittitle>Unidentified family portrait, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.1</container>
+						<unittitle>Laura Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.5</container>
+						<unittitle>Laura Benet - Slabsides and Vassar, </unittitle>
+						<unitdate>circa 1904-1907</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.4</container>
+						<unittitle>Laura Benet with Rosemary Carr, Stephen Vincent Benet, and their
+							3 children, </unittitle>
+						<unitdate>1938 Spring</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.1</container>
+						<unittitle>Stephen Vincent Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.3</container>
+						<unittitle>William Rose Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.4</container>
+						<unittitle>William Rose Benet - portrait from Albany Academy, </unittitle>
+						<unitdate>circa 1899-1904</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.3</container>
+						<unittitle>Children of Teresa and William Rose Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.2</container>
+						<unittitle>Teresa Benet and children [?], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.2</container>
+						<unittitle>James Walker Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.5</container>
+						<unittitle>Francis Rose Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.6</container>
+						<unittitle>Francis Rose Benet - portraits, </unittitle>
+						<unitdate>1882, 1915</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.8</container>
+						<unittitle>Frances Rose Neill Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.7</container>
+						<unittitle>Mary Lee Rose, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.1</container>
+						<unittitle>"Mrs. Rose", </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.2</container>
+						<unittitle>Mary Mahon, </unittitle>
+						<unitdate>1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.8</container>
+						<unittitle>Rosemary Benet, aged approximately 2 years, </unittitle>
+						<unitdate>circa 1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.9</container>
+						<unittitle>Kathleen and Charles Norris with Frances Rosemary and Kathleen
+							Anne Benet, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.5</container>
+						<unittitle>Wedding of Kathleen Anne Benet and George B. Fry II, </unittitle>
+						<unitdate>1939 August</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.6</container>
+						<unittitle>Rachel Lyman Field at 3 years old, </unittitle>
+						<unitdate>1898</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.7</container>
+						<unittitle>Anna and Marian Watts, </unittitle>
+						<unitdate>1897, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.9</container>
+						<unittitle>Anna Bundy Jacobs, Westtown Farmhouse, Pennsylvania, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.17</container>
+						<unittitle>Signed portrait of unidentified author, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.11</container>
+						<unittitle>Painting of Helen Parry Eden at 24</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.10</container>
+						<unittitle>Friends - named</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.14</container>
+						<unittitle>Friends - named</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.11</container>
+						<unittitle>Unidentified women photographed in Philadelphia</unittitle>
+						<physdesc>(cartes des visite)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.12</container>
+						<unittitle>Woman from the Neill Family photographed in
+							Philadelphia</unittitle>
+						<physdesc>(carte desvisite)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.13</container>
+						<unittitle>Miscellaneous and unidentified women</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.15</container>
+						<unittitle>Miscellaneous and unidentified women</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.10</container>
+						<unittitle>Unidentified women</unittitle>
+						<physdesc>(tin types)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.2</container>
+						<unittitle>Unidentified women</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.7</container>
+						<unittitle>Portrait of an unidentified woman</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.8</container>
+						<unittitle>Portrait of an unidentified woman</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.4</container>
+						<unittitle>Portrait of an unidentified man (Laurence V. Benet?)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.15</container>
+						<unittitle>Unidentified men</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.16</container>
+						<unittitle>Unidentified children - Norwalk, Connecticut</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.17</container>
+						<unittitle>Unidentified children - groups</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.19</container>
+						<unittitle>Miscellaneous and unidentified children</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.20</container>
+						<unittitle>Unidentified children</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.14</container>
+						<unittitle>Unidentified children</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.3</container>
+						<unittitle>Three portraits of unidentified children, including one taken by
+							Walter Scott Shinn, </unittitle>
+						<unitdate>circa 1920, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.18</container>
+						<unittitle>Unidentified child</unittitle>
+						<physdesc>(tintype)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.12</container>
+						<unittitle>Portrait of unidentified child, taken by Philip Conklin, Troy,
+							New York</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.13</container>
+						<unittitle>Portrait of unidentified child, framed in Washington,
+							DC</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.3</container>
+						<unittitle>Benicia Arsenal, </unittitle>
+						<unitdate>1907</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.21</container>
+						<unittitle>Rectory of St. Luke's Protestant Episcopal Church, Mechanicsburg,
+							Pennsylvania, </unittitle>
+						<unitdate>1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.22</container>
+						<unittitle>Augusta, Georgia - Flood of [1888?]</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.2</container>
+						<unittitle>Miscellaneous and unidentified buildings and
+							landscapes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.16</container>
+						<unittitle>Unidentified homes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.23</container>
+						<unittitle>Unidentified homes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.2</container>
+						<unittitle>Locations, homes, landscapes, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.3</container>
+						<unittitle>Unidentified homes and people</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.4</container>
+						<unittitle>Miscellaneous and unidentified buildings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.5</container>
+						<unittitle>Miscellaneous and unidentified landscapes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.25</container>
+						<unittitle>Negatives</unittitle>
+						<physdesc>(damaged)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.6</container>
+						<unittitle>Postcards</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

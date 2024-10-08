@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_carman_bliss</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Bliss Carman Papers, approximately 1888-1926</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>November 2006</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Carman, Bliss, 1861-1929</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Bliss Carman Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> approximately 1888-1926 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 0.8 cubic feet (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence, manuscripts, photographs, a scrapbook and other material relating to the life and work of the poet, Bliss Carman.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note <?xm-replace_text {or Administrative History}?></head>
+			<p>Canadian poet, born in Fredericton, New Brunswick, 15 April 1861. Descended from Loyalists who fled to Canada after the American Revolution, Carman was the son of William Carman and Sophia Mary Bliss Carman. He graduated from the University of New Brunswick in 1881 with honors in classics. He received his M.A. from New Brunswick as well, in 1884. He also studied at Harvard and the Universities of Oxford and Edinburgh. </p>
+			<p>In 1888 Carman began working as a journalist in New York for Cosmopolitan and other magazines. In subsequent years, he established the short-lived The Chapbook and then moved to Boston and worked with a number of other magazines, including the Atlantic Monthly, Boston Transcript, and The Literary World. Carman's first volume of poetry, Low Tide on Grand Pre, garnered much acclaim. Other publications include Songs from Vagabondia, The Poetry of Life, The Making of Personality, Sappho: One Hundred Lyrics, and other collections of essays and poetry. </p>
+			<p>At the end of Carman's career, he lectured wideley and received a number of honorary degrees and awards including the Lorne Pierce Medal, Canada's highest literary distinction. Soon after receiving that degree, on 8 June 1929, he died suddenly of a brain hemorrhage.</p>
+			<p>For more infomation, see Carman's biography in the Literature Online (LION) database.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, manuscripts, photographs, a scrapbook and other material relating to the life and work of the poet, Bliss Carman.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Canadian Poetry</subject>
+				<subject source="lcsh" encodinganalog="650">Authors, Canadian</subject>
+				<subject source="lcsh" encodinganalog="650">Poets, Canadian</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, November 2006.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original proceesing date unknown.</p>
+			<p>Updated by Dean Rogers and Laura Streett, November 2006. </p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Provenance is currently unclear, but at least some part of the collection was donated by Mitchell Kennerley in 1931.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Bliss Carman Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Container List</head>
+			<p>There is no container list currently available for this collection.</p>
+		</dsc>
+	</archdesc>
+</ead>

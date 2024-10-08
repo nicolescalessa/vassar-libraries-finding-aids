@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_ballenberg_doris</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Doris Ballenberg Papers, 1931-1935</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>October 2008</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>May 2008</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Ballenberg, Doris</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Doris Ballenberg Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1931-1935</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.2 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, clippings, ephemera, and poetry from Ballenberg's time as a student at Vassar College. Includes two poems by "Betty" and "Muriel." "Muriel" may be Muriel Rukeyser, VC 1934, but it may also be Muriel Fox, VC 1935.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Doris Ballenberg Newman was a member of the Vassar College Class of 1935. She served on the student newspaper, the <emph render="italic">Miscellany News</emph>, from 1931-1932.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection contains correspondence, clippings, ephemera, and poetry from Ballenberg's time as a student at Vassar College. Includes two poems by "Betty" and "Muriel." "Muriel" may be Muriel Rukeyser, VC 1934, but it may also be Muriel Fox, VC 1935. All three served on the <emph render="italic">Miscellany News</emph>, but because the poems are undated it is difficult to determine the authorship. "Betty" may be Elizabeth Brown, VC 1935, Muriel Fox's freshman roommate. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref>.</p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Class of 1934</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Class of 1935</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, May 2008. Updated by Emma Gronbeck, January 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, May 2008.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Barbara Newman Morris, May 2008 (M2008-006).</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Doris Ballenberg Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>Folder 1</container>
+					<unittitle>Clippings, </unittitle>
+					<unitdate type="inclusive" normal="1935" certainty="approximate">circa 1935</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2</container>
+					<unittitle>Correspondence, </unittitle>
+					<unitdate type="inclusive" normal="1935">1935, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3</container>
+					<unittitle>Ephemera, </unittitle>
+					<unitdate type="inclusive" normal="1931/1935">1931-1935</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4</container>
+					<unittitle>Poems, from "Muriel and Betty" to Doris Ballenberg, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

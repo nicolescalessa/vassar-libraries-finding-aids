@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_carroll_eugene</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Eugene A. Carroll Papers, 1890-2014 (bulk 1944-2014)</titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave.</addressline>
+					<addressline>Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>March 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Janine St. Germain, <date>2018</date></creation>
+			<langusage>Finding aid written in <language langcode="eng">English.</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:">
+				<persname encodinganalog="100" role="creator">Carroll, Eugene A.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Eugene A. Carroll Papers</unittitle>
+			<unitdate label="Inclusive dates:" type="inclusive" encodinganalog="245$f">1890-2014</unitdate>
+			<unitdate label="Bulk dates:" type="bulk" encodinganalog="245$f">1944-2014</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 12.5 cubic feet (14 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> The Eugene A. Carroll Papers document Carroll's academic career as an art historian, curator, writer, as well as his involvement as executor of the William K. Rose estate. The papers contain professional and personal correspondence and include letters documenting Carroll's relationship with his partner, William K. Rose, during the 1960s. The W.K. Rose material also includes photographic prints, travel journals, a limited volume of subject files and writings by Rose, and one audio tape interview. The Carroll Papers contain subject files, including teaching and research reference materials, travel files, datebooks, writings by Carroll, correspondence with colleagues, friends, and Rose, as well as a limited volume of correspondence from Carroll to his parents. Holdings also include journals, photographic prints, and documentation regarding the management of the Rose estate and Vassar's W.K. Rose fellowship. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Eugene A. Carroll, scholar of 16th century Italian Renaissance artist Rosso Fiorentino, was born in St. Louis, Missouri in 1931. Carroll was a professor of Art History at Vassar College from 1965 to 1999, serving as chair of the department from 1980 to 1983. He received a PhD from Harvard University in Art History (1964), and an M.A. in the History of Art from Harvard University (1958). He completed a Fulbright Scholarship in Florence, Italy in 1955, a fellowship at the American Academy in Rome (1958), and was later awarded membership at the Institute for Advanced Study, Princeton (1983). Carroll curated and wrote the catalogue for the exhibition, <emph render="italic">Rosso Fiorentino: Drawing Prints, and Decorative Arts</emph>, at the National Gallery of Art, Washington D.C. in 1987. His partner, William K. Rose (1924-1968) was a professor of English at Vassar College.</p>
+		</bioghist>
+		<bibliography>
+			<head>Bibliography</head>
+			<bibliography>
+				<head>Books:</head>
+				<bibref><title render="italic">The Print Images of Rosso Fiorentino</title>, Grunwald Center for the Graphic Arts, University of California, Los Angeles, 1989.</bibref>
+				<bibref><title render="italic">Rosso Fiorentino, Drawings, Prints, and Decorative Arts</title>, National Gallery of Art, Washington, D.C., 1987.</bibref>
+				<bibref><title render="italic">The Drawings of Rosso Fiorentino</title>, Garland Press, New York, 1976.</bibref>
+			</bibliography>
+			<bibliography>
+				<head>Articles and Reviews:</head>
+				<bibref>"On Rosso's Volterra Deposition and Other Tragedies," <emph render="italic">Acts of the Seminario di Studio, Il Pontormo e Il Rosso a Volterra</emph>, Empoli and Volterra, 22-24 September 1994, Marsilio Editori, Venice, 1995.</bibref>
+				<bibref>"Printmaking in Renaissance France," review of <emph render="italic">The French Renaissance in Prints from the Bibliotheque Nationale de France</emph>, exhibition catalogue, UCLA at the Armand Hammer Museum of Art and Cultural Center, Los Angeles, The Metropolitan Museum of Art, New York, Bibliotheque Nationale, Paris, 1994-1995, Grunwald Center for the Graphic Arts, University of California, Los Angeles, 1994, in <emph render="italic">Print Quarterly</emph>, London, 1995.</bibref>
+				<bibref>Review of Eric Darragon, Manierisme en crise: le "Christ en gloire" de Rosso Fiorentino Citta di Castello 1528-1530). (Collection Academie de France -a Rome, 6), Rome, 1983, in <emph render="italic">Renaissance Quarterly</emph>, 38, 1, Spring, 1985.</bibref>
+				<bibref>"Introduction" to <emph render="italic">Charlap-Roseman-Ryan</emph>, exhibition catalogue, Vassar College Art Gallery, Poughkeepsie, 1983.</bibref>
+				<bibref>Review of Edward J. Olszewski, with the assistance of Jane Glaubinger, <emph render="italic">The Draftsman's Eve: Late Italian Renaissance Schools and Styles</emph>, Cleveland, the Cleveland Museum of Art, in cooperation with the Indiana University Press, Bloomington, 1981, in <emph render="italic">Renaissance Quarterly</emph>, 35, 4, Winter, 1982.</bibref>
+				<bibref>Review of Felton Gibbons, <emph render="italic">Catalogue of Italian Drawings in the Art Museum, Princeton University</emph>, Princeton University Press, 1977, in <emph render="italic">Renaissance Quarterly</emph>, 32, 1, Spring, 1979.</bibref>
+				<bibref>Review of <emph render="italic">The Farnese Hours, The Pierpont Morgan Library, New York</emph>, Introduction and commentaries by Webster Smith, New York, 1976, in <emph render="italic">The Art Bulletin</emph>, 61, 1, March, 1979.</bibref>
+				<bibref>"A Drawing by Rosso Fiorentino of Judith and Holofernes," <emph render="italic">Los Angeles County Museum of Art Bulletin</emph>, 24, 1978.</bibref>
+				<bibref>Introductory essay, "Teaching and Learning from Vassar's Collection," and catalogue entry, "Florentine Painting, Mid-Sixteenth Century, The Expulsion of Adam and Eve," in <emph render="italic">Promised Gifts</emph>, exhibition catalogue, Vassar College, 1977.</bibref>
+				<bibref>"Fontainebleau: Fruit of a Royal Commitment," <emph render="italic">Art News</emph>, 72, 5, May, 1973.</bibref>
+				<bibref>"Rosso in France," <emph render="italic">Actes du Collogue Internationale sur l'Art de Fontainebleau (Fontainebleau at Paris, 18. 19, 20 October 1972)</emph>, edited by Andre Chastel, Paris, 1975.</bibref>
+				<bibref>"Some Drawings by Salviati formerly attributed to Rosso Fiorentino," <emph render="italic">Master Drawings</emph>, 9, I, 1971.</bibref>
+				<bibref>Catalogue entries on works attributed to Verrocchio, ,Jacopo Sansovino, Tacca, and Sustermans, in <emph render="italic">The Italian Heritage</emph>, exhibition catalogue, Committee to Rescue Italian Art (CRIA), Wildenstein's, New York, 1967.</bibref>
+				<bibref>"Lappoli, Alfani, Vasari, and Rosso Fiorentino," <emph render="italic">The Art Bulletin</emph>, 108, 1966, 168-180.</bibref>
+				<bibref>"Drawings by Rosso Fiorentino in the British Museum," <emph render="italic">The Burlington Magazine</emph>, 108, 1966, 168-180.</bibref>
+				<bibref>"Some Drawings by Rosso Fiorentino," <emph render="italic">The Burlington Magazine</emph>, 103, 1951, 446-454.</bibref>
+			</bibliography>
+			<bibliography>
+				<head>Conference Papers, Lectures, Panels:</head>
+				<bibref>"On Rosso's Volterra Deposition and Other Tragedies," paper given at symposium, <emph render="italic">Il Rosso a Volterra</emph>, Volterra, Centro Studi "Santa Maria Maddalena," 23 September 1994.</bibref>
+				<bibref>"The Print images of Rosso Fiorentino," inaugural Mary Stansbury Ruiz Memorial Lecture, Grunwald Center for the Graphic Arts, University of California Los Angeles, 23 April 1989.</bibref>
+				<bibref>"The Making of the Rosso Exhibition," Talk to the Boston Vassar Club, at Wellesley College Faculty Club, 4 May 1988.</bibref>
+				<bibref>"The Late Work of Rosso Fiorentino, " Institute for Advanced Study, Princeton, 7 November 1983.</bibref>
+				<bibref>"The 'opinione contraria' of Rosso Fiorentino: An Investigation into the Fortune, Fame, and Fate of a Renaissance Artist," Princeton University, 12 October 1983.</bibref>
+				<bibref>Respondent to papers given at the Woman's Session, College Art Association of America meetings, Washington, D.C., 2 February 1979.</bibref>
+				<bibref>"Rosso Fiorentino and the Conceits of Florentine Painting around 1520," The National Gallery of Art, Washington, D.C., 19 June 1977.</bibref>
+				<bibref>Earlier version of the same, The Walters Art Gallery, Baltimore, 25 February 1974.</bibref>
+				<bibref>"Rosso's Roman Manners," Brown University, 3 March 1973.</bibref>
+				<bibref>"Rosso in France," College de France, Paris, 18 October 1972, paper given at the Colloque International sur l'Art de Fontainebleau, Paris, College de France and Fontainebleau, Château, 18-20 October 1972.</bibref>
+				<bibref>"Rosso in France: The Unseen Master," The Frick Collection, New York, 7 October 1972.</bibref>
+			</bibliography>
+		</bibliography>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>Student material in boxes 6 and 14 are restricted. Otherwise, this collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p>SEE: The Papers of <archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-w-k-rose-papers-1914-1970-bulk-1940-1968">William K. Rose</archref>.</p>
+		</relatedmaterial>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Papers of Eugene Carroll document Carroll's career as a Vassar professor, chair of the college's art history department, and his scholarly and curatorial pursuits focused on the study of the Italian mannerist painter, Rosso Fiorentino. Teaching files include handwritten notes and syllabi, some of which document Vassar academic culture at the time of Carroll's tenure. Correspondence files document his personal, academic, and professional life, including correspondence with colleagues from a range of academic and cultural institutions. Correspondence includes documentation regarding curatorial and general exhibition activities, advice to colleagues in the field of art history, and research efforts, including European travel related to Carroll's research on Fiorentino. Correspondence files after 2000 include copies of emails, both to and from Carroll. The papers also contain reference and research files, travel documentation including scrapbooks, photographic prints, date books
+				and journals.</p>
+			<p>The collection includes selected holdings from the Papers of W.K. Rose, once held by Eugene Carroll, executor of the Rose estate. Subseries in both the Carroll and Rose papers contain correspondence, biographical files, subject files, writings, printed materials, photographic prints, journals, datebooks, scrapbooks, and realia.</p>
+			<p>See the associated guide to the Papers of W.K. Rose for additional holdings related to materials held in Series 1, Papers of William K. Rose.</p>
+		</scopecontent>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" authfilenumber="n97074545" encodinganalog="600">Bedford, Agnes</persname>
+				<persname normal="English, Isobel, 1920-1994" source="lcnaf" authfilenumber="nb2001035516" encodinganalog="600">Braybrooke, June, 1920-1994</persname>
+				<persname source="lcnaf" authfilenumber="n80161513" encodinganalog="600">Chisholm, Anne</persname>
+				<persname source="lcnaf" authfilenumber="n50001701" encodinganalog="600">Denson, Alan</persname>
+				<persname source="lcnaf" authfilenumber="n50035079" encodinganalog="600">Hicks, Granville, 1901-1982</persname>
+				<persname source="lcnaf" authfilenumber="n85065425" encodinganalog="600">Janschka, Fritz, 1919-</persname>
+				<persname source="lcnaf" authfilenumber="n78053223" encodinganalog="600">Lafourcade, Bernard</persname>
+				<persname source="lcnaf" authfilenumber="n80026782" encodinganalog="600">Mason, Ellsworth</persname>
+				<persname source="lcnaf" authfilenumber="n87929513" encodinganalog="600">Nochlin, Linda</persname>
+				<persname source="lcnaf" authfilenumber="n50023189" encodinganalog="600">Pope-Hennessy, John Wyndham, Sir, 1913-1994</persname>
+				<persname source="lcnaf" authfilenumber="n79124604" encodinganalog="600">Schafer, R. Murray</persname>
+				<persname source="lcnaf" authfilenumber="n80011173" encodinganalog="600">Shoemaker, Innis H.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" authfilenumber="n78088008" encodinganalog="610">Vassar College</corpname>
+				<corpname source="lcnaf" authfilenumber="n79054426" encodinganalog="610">National Gallery of Art (U.S.)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" authfilenumber="sh85006507" encodinganalog="650">Archaeology</subject>
+				<subject source="lcsh" authfilenumber="sh88003312" encodinganalog="650">Art--16th century</subject>
+				<subject source="lcsh" authfilenumber="sh85080590" encodinganalog="650">Mannerism (Art)</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" authfilenumber="79023147" encodinganalog="651">Great Britain</geogname>
+				<geogname source="lcnaf" authfilenumber="n79021783" encodinganalog="651">Italy</geogname>
+				<geogname source="lcnaf" authfilenumber="n81013960" encodinganalog="651">Mexico</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Audiotapes</genreform>
+				<genreform source="aat" encodinganalog="655">Clippings</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Legal instruments</genreform>
+				<genreform source="aat" encodinganalog="655">Manuscripts</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Art and Artists </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, March 2018.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, 2018.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The Papers of Eugene A. Carroll, including selected holdings of William K. Rose as described in this finding aid, came as a bequest from the estate of Eugene A. Carroll to Vassar College in 2017.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Eugene A. Carroll Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is arranged into two series, the Papers of William K. Rose, and the Papers of Eugene A. Carroll. The Rose Papers contain nine subseries. The Carroll Papers contain eight subseries.</p>
+			<p>Correspondents of note and correspondent files of substantial volume are arranged alphabetically by name, otherwise the series is arranged chronologically. Subject files are arranged alphabetically, as titled by the creator.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series1">Series I. </ref>Papers of Eugene A. Carroll</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1955-2012</unitdate>
+						<physdesc>(Box 3, 7-12)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biography, </unittitle>
+						<unitdate>1949-1993</unitdate>
+						<physdesc>(Box 13)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Journals/Scrapbooks, </unittitle>
+						<unitdate>1890-2014</unitdate>
+						<physdesc>(Box 13-14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files, </unittitle>
+						<unitdate>1944-2014</unitdate>
+						<physdesc>(Box 5-6)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings, </unittitle>
+						<unitdate>1953-2011</unitdate>
+						<physdesc>(Box 3, 6)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Materials, </unittitle>
+						<unitdate>1968-1981</unitdate>
+						<physdesc>(Box 3, 6)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Realia, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(Box 14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Photographs, </unittitle>
+						<unitdate>1944-2005</unitdate>
+						<physdesc>(Box 14)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series2">Series II. </ref>Papers of William K. Rose</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1958-1975</unitdate>
+						<physdesc>(Box 1-2)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical, </unittitle>
+						<unitdate>1924-1968</unitdate>
+						<physdesc>(Box 3, 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Journals, </unittitle>
+						<unitdate>1958-1965</unitdate>
+						<physdesc>(Box 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files, </unittitle>
+						<unitdate>1957-1972</unitdate>
+						<physdesc>(Box 3, 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings, </unittitle>
+						<unitdate>1936-1969</unitdate>
+						<physdesc>(Box 3, 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Materials, </unittitle>
+						<unitdate>1967</unitdate>
+						<physdesc>(Box 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Realia, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(Box 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Audiotape, </unittitle>
+						<unitdate>1967</unitdate>
+						<physdesc>(Box 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Photographs, </unittitle>
+						<unitdate>1926-1968</unitdate>
+						<physdesc>(Box 4-5)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. Papers of Eugene A. Carroll, </unittitle>
+					<unitdate>1890-2014</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1955-2012</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>7.1-7.31</container>
+							<unittitle>General, to EAC, </unittitle>
+							<unitdate>1968-1976</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>8.1-8.35</container>
+							<unittitle>General, to EAC, </unittitle>
+							<unitdate>1976-1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>9.1-9.32</container>
+							<unittitle>General, to EAC, </unittitle>
+							<unitdate>1984-1994</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.1-10.27</container>
+							<unittitle>General, to EAC, </unittitle>
+							<unitdate>1995-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.28</container>
+							<unittitle>Allen, Gerry and Gayle, </unittitle>
+							<unitdate>1998-2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.29</container>
+							<unittitle>Askew, Pamela, </unittitle>
+							<unitdate>1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.3</container>
+							<unittitle>Barnett, James, </unittitle>
+							<unitdate>2003-2007</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>10.31-10.53</container>
+							<unittitle>Braybrooke, June, </unittitle>
+							<unitdate>1968-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.1</container>
+							<unittitle>Bedford, Agnes, </unittitle>
+							<unitdate>1968-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.2-11.6</container>
+							<unittitle>Cook-Barber, Leila, </unittitle>
+							<unitdate>1968-1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.7</container>
+							<unittitle>Costamagna, Philippe, </unittitle>
+							<unitdate>1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.8</container>
+							<unittitle>Cuno, James, </unittitle>
+							<unitdate>1983-1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.9</container>
+							<unittitle>Dean, Dorothy, </unittitle>
+							<unitdate>1970-1976</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.1</container>
+							<unittitle>Denson, Alan, </unittitle>
+							<unitdate>1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.20-3.21</container>
+							<unittitle>Finkelpearl, Kitty and Phil, </unittitle>
+							<unitdate>1968-1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.1</container>
+							<unittitle>Finkelpearl, Tom, </unittitle>
+							<unitdate>1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.11</container>
+							<unittitle>Frantz, Andrew Gibson, </unittitle>
+							<unitdate>1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.12</container>
+							<unittitle>Harper, Philip Rathbun, </unittitle>
+							<unitdate>1979</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.22-3.23</container>
+							<unittitle>Hawkins, Harriet, </unittitle>
+							<unitdate>1971-1993</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.13</container>
+							<unittitle>Hennessy, Sir John Pope, </unittitle>
+							<unitdate>1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.14-11.19</container>
+							<unittitle>Janschka, Fritz and Aichele, Porter, </unittitle>
+							<unitdate>1974-2015</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.2</container>
+							<unittitle>Karpinski, Caroline, </unittitle>
+							<unitdate>1989-2001</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.21</container>
+							<unittitle>Kestler, Richard, </unittitle>
+							<unitdate>1978</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.22</container>
+							<unittitle>Lee, John (Tibor deNagy Gallery), </unittitle>
+							<unitdate>1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.23</container>
+							<unittitle>McAndrews, John and Betty, </unittitle>
+							<unitdate>1969-1982</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.24</container>
+							<unittitle>Morrison, Marie, </unittitle>
+							<unitdate>1972-1994</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.25</container>
+							<unittitle>Mundy, James, </unittitle>
+							<unitdate>1973-1978</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.26</container>
+							<unittitle>Pooler, Jack, </unittitle>
+							<unitdate>1970-1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.27</container>
+							<unittitle>Posner, Donald, </unittitle>
+							<unitdate>1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.28-11.34</container>
+							<unittitle>Potter, Margaret, </unittitle>
+							<unitdate>1976-1992</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.35-11.36</container>
+							<unittitle>Russell, Diane, </unittitle>
+							<unitdate>1984-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.37</container>
+							<unittitle>Saganic, Livio, </unittitle>
+							<unitdate>1986</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.38-11.40</container>
+							<unittitle>Shoemaker, Innis, </unittitle>
+							<unitdate>1968-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.41</container>
+							<unittitle>Smith, Joshua, </unittitle>
+							<unitdate>1970-1976</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.42</container>
+							<unittitle>Turner, John, </unittitle>
+							<unitdate>1994-2000</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.43-11.44</container>
+							<unittitle>Voss, Susan, </unittitle>
+							<unitdate>1982-2012</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>11.45-11.47, 12.1-12.35</container>
+							<unittitle>Whittlesey, Margaret, </unittitle>
+							<unitdate>1969-1999</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.36</container>
+							<unittitle>General, from EAC, </unittitle>
+							<unitdate>1975-1992</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>12.37-12.39</container>
+							<unittitle>To parents, Fulbright Scholarship year, </unittitle>
+							<unitdate>1955</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical, </unittitle>
+						<unitdate>1949-1993</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>13.1</container>
+							<unittitle>Certificate, Harris Teachers College, </unittitle>
+							<unitdate>1952</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.2</container>
+							<unittitle>Curriculum vitae, Eugene A. Carroll, </unittitle>
+							<unitdate>1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.3</container>
+							<unittitle>IDs, driver's license, Vassar ID's, </unittitle>
+							<unitdate>1971-1993</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>15</container>
+							<unittitle>Scrapbook, Carroll family, </unittitle>
+							<unitdate>1890-2000</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.4-13.5</container>
+							<unittitle>Yearbook, Teachers College, </unittitle>
+							<unitdate>1949, 1951</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.6-13.7</container>
+							<unittitle>Yearbook, high school, </unittitle>
+							<unitdate>1946-1947</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Journals/Scrapbooks, </unittitle>
+						<unitdate>1890-2014</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>13.8</container>
+							<unittitle>1963-1965 diaries, </unittitle>
+							<unitdate>1963-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.9</container>
+							<unittitle>Autograph books, </unittitle>
+							<unitdate>1941 -1944</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.10-13.15</container>
+							<unittitle>Daily Diaries, </unittitle>
+							<unitdate>1988-1991</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>13.16-14.1</container>
+							<unittitle>Datebooks, </unittitle>
+							<unitdate>1958-2014</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.2-14.3</container>
+							<unittitle>[RESTRICTED] Grade books, </unittitle>
+							<unitdate>1965-1999</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.4</container>
+							<unittitle>Phone/Address books </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.5</container>
+							<unittitle>Scrapbook, color prints, published in The Dial, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.6 14.7</container>
+							<unittitle>Travel diaries, postcards, </unittitle>
+							<unitdate>1957-1981</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files, </unittitle>
+						<unitdate>1944-2014</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>5.21</container>
+							<unittitle>16th c. Architecture </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.22</container>
+							<unittitle>16th c. Italian painting, Sydney Freedberg </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.23</container>
+							<unittitle>16th c. Venetian Painters </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.24</container>
+							<unittitle>Adams, Janis / Brown, Jane, </unittitle>
+							<unitdate>1969-1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.25</container>
+							<unittitle>Archaeology of the Roman Empire, Prof. Hanfmann </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.26</container>
+							<unittitle>Artwork, by Shana M. Dressler, </unittitle>
+							<unitdate>1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.27</container>
+							<unittitle>Baroque painting in Northern Europe, Rosenberg </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.28</container>
+							<unittitle>Coleman, Robert, </unittitle>
+							<unitdate>1996</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.29</container>
+							<unittitle>Committee, Experimental College, Vassar, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.3</container>
+							<unittitle>Committee, Honors subcommittee, Vassar, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.31</container>
+							<unittitle>Committee on Research, Vassar, </unittitle>
+							<unitdate>1979-1980</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.32</container>
+							<unittitle>Committee to Rescue Italian Art, </unittitle>
+							<unitdate>1967-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.33-5.35</container>
+							<unittitle>Faculty fellowships, Vassar, </unittitle>
+							<unitdate>1967-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.36</container>
+							<unittitle>Fellowship, W.K. Rose, </unittitle>
+							<unitdate>1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.37</container>
+							<unittitle>Fine Print Fair, </unittitle>
+							<unitdate>1987-1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.38</container>
+							<unittitle>Florence, Siena </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.39-5.40</container>
+							<unittitle>Fontainebleau et Paris, print images of Rosso Fiorentino, talks, </unittitle>
+							<unitdate>circa 1970-1979</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.41</container>
+							<unittitle>Fulbright notes </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.42</container>
+							<unittitle>Fulbright scholarship, </unittitle>
+							<unitdate>1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.43</container>
+							<unittitle>Institute for Advanced Study, Princeton </unittitle>
+							<unitdate>1982-1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.44</container>
+							<unittitle>Italian Renaissance Literature </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.45</container>
+							<unittitle>Lecture engagements, </unittitle>
+							<unitdate>1984-1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.46</container>
+							<unittitle>Leonardo lecture, Powerpoint file, </unittitle>
+							<unitdate>2014</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.47</container>
+							<unittitle>Northern Influence on Italian Art </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.48</container>
+							<unittitle>New York University art history panel, </unittitle>
+							<unitdate>1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.49</container>
+							<unittitle>Oriental art, Benjamin Rowland </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.5</container>
+							<unittitle>Paleography </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.51</container>
+							<unittitle>Publishing agreement, Garland Publishing, The Drawings of Rosso Fiorentino, </unittitle>
+							<unitdate>1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.52-6.2</container>
+							<unittitle>Publishing Houses, </unittitle>
+							<unitdate>1979-1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.3</container>
+							<unittitle>Renaissance history </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.4</container>
+							<unittitle>Rome, notes </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.5</container>
+							<unittitle>Roman art </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.6</container>
+							<unittitle>Roman mosaics </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.7</container>
+							<unittitle>Rose estate-includes correspondence, </unittitle>
+							<unitdate>1970-1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.8</container>
+							<unittitle>Rose estate-gift of W.K. Rose Papers to Vassar College, </unittitle>
+							<unitdate>2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.9-6.12, 3.8</container>
+							<unittitle>Rose Estate documentation, </unittitle>
+							<unitdate>1968-1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.13</container>
+							<unittitle>Rose Estate, estate appraisals, </unittitle>
+							<unitdate>1970-1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.14</container>
+							<unittitle>Rose Estate, legal, </unittitle>
+							<unitdate>1968-1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.15, 3.9</container>
+							<unittitle>Rose Estate, Rose Fellowship, </unittitle>
+							<unitdate>1968-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.16-6.18, 3.10, 3.11</container>
+							<unittitle>Rose Estate, Memorial Service for W.K. Rose, memorial text drafts, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.19-6.22</container>
+							<unittitle>Rose, scrapbook made by EAC about W.K. Rose, </unittitle>
+							<unitdate>1944-1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.23-6.25</container>
+							<unittitle>Teaching and research offers, </unittitle>
+							<unitdate>1951-1991</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.26</container>
+							<unittitle>Typist, dispute over manuscript project, </unittitle>
+							<unitdate>1980</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.27</container>
+							<unittitle>Umbria trip, itinerary, </unittitle>
+							<unitdate>2007</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.28-6.34</container>
+							<unittitle>Vassar, post tenure review, </unittitle>
+							<unitdate>1971-1998</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.35-6.36</container>
+							<unittitle>Vassar tenure review, </unittitle>
+							<unitdate>1981-1992</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.37</container>
+							<unittitle>Venice, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.38-6.40</container>
+							<unittitle>[RESTRICTED] Letters of recommendation, for colleagues and students, </unittitle>
+							<unitdate>1979-1993</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings, </unittitle>
+						<unitdate>1953-2011</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>6.41</container>
+							<unittitle>"A Crucifixion Drawing by Pellegrino Tibaldi," (MS), undated </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.12</container>
+							<unittitle>"A Drawing by Rosso Fiorentino of Judith and Holofernes," Los Angeles Museum of Art, Bulletin, </unittitle>
+							<unitdate>1978</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.42</container>
+							<unittitle>"A History of the Art Department at Vassar College, from 1930s Onward," </unittitle>
+							<unitdate>2011</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.43</container>
+							<unittitle>"A Silverpoint Portrait by Rosso Fiorentino and General Consideration of Fiorentino's Style," </unittitle>
+							<unitdate>1957</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.44</container>
+							<unittitle>Book review-"The Farnese Hours, Pierpont Morgan Library," Art Bulletin </unittitle>
+							<unitdate>1979</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.45</container>
+							<unittitle>Book review-"French Renaissance Prints from the Bibliotheque Nationale de France," Print Quarterly, </unittitle>
+							<unitdate>1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.13</container>
+							<unittitle>"Drawings by Rosso Fiorentino in The British Museum," The Burlington Magazine, </unittitle>
+							<unitdate>1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.14</container>
+							<unittitle>"Lappoli, Alfani, Vasari, and Rosso Fiorentino," reprint, The Art Bulletin, </unittitle>
+							<unitdate>1967</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.46</container>
+							<unittitle>"Printmaking in Renaissance France," off print, Print Quarterly XII, </unittitle>
+							<unitdate>1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.47</container>
+							<unittitle>"Roman Painting, 1520-1527," </unittitle>
+							<unitdate>1957</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.48</container>
+							<unittitle>"Rosso in France," off print, Actes du Colloque International sur l'Art de Fontainebleau </unittitle>
+							<unitdate>1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.15</container>
+							<unittitle>"Some Drawings by Rosso Fiorentino," off print, The Burlington Magazine, </unittitle>
+							<unitdate>1961</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.49</container>
+							<unittitle>"Some Drawings by Salviati Formerly Attributed to Rosso Fiorentino," Master Drawings, </unittitle>
+							<unitdate>1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.5</container>
+							<unittitle>"The Tau Cross of Rosso's Volterra Deposition," Source Notes in the History of Art, </unittitle>
+							<unitdate>1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Writings, Others, </unittitle>
+							<unitdate>1953-1977</unitdate>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>3.16</container>
+								<unittitle>"Rosso Fiorentino's ‘Sposalizio' in San Lorenzo," by Graham Smith, off print, Pantheon, </unittitle>
+								<unitdate>1976</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>3.17</container>
+								<unittitle>"Moses and the Daughters of Jethro by Rosso Fiorentino," by Graham Smith, offprint, Pantheon, </unittitle>
+								<unitdate>1977</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>6.51</container>
+								<unittitle>"Raphael: The Stanza Della Segnatura in the Vatican," by Sidney Freedberg, </unittitle>
+								<unitdate>1953</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>3.18</container>
+								<unittitle>The Question of Fetti as Fresco Painter…" by Pamela Askew, reprint, The Art Bulletin, </unittitle>
+								<unitdate>1968</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Materials, </unittitle>
+						<unitdate>1968-1981</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>3.19</container>
+							<unittitle>Art prints, misc., </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.52</container>
+							<unittitle>Catalog, Outstanding Dissertations in the Fine Arts, Garland Publishing </unittitle>
+							<unitdate>1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.53</container>
+							<unittitle>Vassar Journal, dedicated to W.K. Rose, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>6.54</container>
+							<unittitle>Vassar Quarterly, Winter, Spring/Summer, </unittitle>
+							<unitdate>1981</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Realia, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>14.8</container>
+							<unittitle>Toy bear, black satin cap with tassel</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Photographic Prints, </unittitle>
+						<unitdate>1944-2005</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>14.9-14.12</container>
+							<unittitle>Photographs, including "50th Birthday Book," </unittitle>
+							<unitdate>circa 1960-1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.13-14.17</container>
+							<unittitle>Scrapbook, including photos, correspondence, ephemera, </unittitle>
+							<unitdate>1944-2005</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>14.18</container>
+							<unittitle>Slides, teaching materials, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. Papers of William K. Rose, </unittitle>
+					<unitdate>1924-1974</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1958-1974</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.7</container>
+							<unittitle>to EAC from WKR, </unittitle>
+							<unitdate>1966-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.9</container>
+							<unittitle>from EAC to WKR, </unittitle>
+							<unitdate>1966-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.11</container>
+							<unittitle>General, to WKR, </unittitle>
+							<unitdate>1958-1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.13</container>
+							<unittitle>Chisholm, Anne, </unittitle>
+							<unitdate>1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.14</container>
+							<unittitle>Denson, Alan, </unittitle>
+							<unitdate>1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.15</container>
+							<unittitle>Finkelpearl, Tom, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.16</container>
+							<unittitle>Hicks, Granville, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.17</container>
+							<unittitle>Lafourcade, Bernard, </unittitle>
+							<unitdate>1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.18</container>
+							<unittitle>Mason, Ellsworth, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.1-1.19</container>
+							<unittitle>Schafer, R. Murray, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical, </unittitle>
+						<unitdate>1924-1968</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>3.2</container>
+							<unittitle>Celebrity autograph book, </unittitle>
+							<unitdate>circa 1930-1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.1</container>
+							<unittitle>Certificates, birth, death; library card, press ID, </unittitle>
+							<unitdate>1924-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.2</container>
+							<unittitle>Certificate, Board of Ed., California, </unittitle>
+							<unitdate>1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.3</container>
+							<unittitle>Certificate, Cornell Univ., Phi Kappa Phi Honor Society, </unittitle>
+							<unitdate>1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.3</container>
+							<unittitle>ID cards, Longshoreman, </unittitle>
+							<unitdate>1944</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.4</container>
+							<unittitle>Passports, </unittitle>
+							<unitdate>1952-1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.5-4.8</container>
+							<unittitle>Yearbooks, high school, </unittitle>
+							<unitdate>1937-1940</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Journals, </unittitle>
+						<unitdate>1958-1965</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>4.9-4.11</container>
+							<unitdate>1958-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.12</container>
+							<unittitle>Greece, undated</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.13</container>
+							<unittitle>Sardinia, </unittitle>
+							<unitdate>circa 1960-1969</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files, </unittitle>
+						<unitdate>1957-1972</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>4.14</container>
+							<unittitle>"Letters of Wyndham Lewis," royalty statements, </unittitle>
+							<unitdate>1963, 1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.6-3.7</container>
+							<unittitle>"The Men of 1914," publishing contracts, </unittitle>
+							<unitdate>1964-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>3.4</container>
+							<unittitle>Trust and Estate documentation, Rosenberg Estate, </unittitle>
+							<unitdate>1957-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.15</container>
+							<unittitle>Wees, William, Guggenheim Foundation application, </unittitle>
+							<unitdate>1965</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings, </unittitle>
+						<unitdate>1936-1969</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>3.5</container>
+							<unittitle>"Iris Murdoch, Informally," Harper's Bazaar, includes agreement for purchase of literary material, </unittitle>
+							<unitdate>1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.16</container>
+							<unittitle>"Pound and Lewis: The Crucial Years," (MS), </unittitle>
+							<unitdate>1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.17</container>
+							<unittitle>"The Rosenberg Gazette," </unittitle>
+							<unitdate>1936</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Materials, </unittitle>
+						<unitdate>1967</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>4.18</container>
+							<unittitle>"Abelard as Autobiographer: The Motives and Meaning of His Story of Calamities," by Mary M. McLaughlin, inscribed to W.K. Rose, </unittitle>
+							<unitdate>1967</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Realia, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>4.19</container>
+							<unittitle>Wallets (3)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Audiotape, </unittitle>
+						<unitdate>1967</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>4.2</container>
+							<unittitle>Iris Murdoch interview with W.K. Rose, 1 7/8 ipm reel to reel tape, </unittitle>
+							<unitdate>11/23/1967</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Photographs, </unittitle>
+						<unitdate>1926-1968</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>4.21</container>
+							<unittitle>Friends, Christmas, </unittitle>
+							<unitdate>1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.22-4.24</container>
+							<unittitle>Friends, colleagues </unittitle>
+							<unitdate>circa 1950-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.25</container>
+							<unittitle>Friends, colleagues-scrapbook, "Summer of 1955," </unittitle>
+							<unitdate>1955</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.26</container>
+							<unittitle>Friends, Braybrooke, June, </unittitle>
+							<unitdate>1962-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.27</container>
+							<unittitle>Friends, Hawkins, T.H., </unittitle>
+							<unitdate>1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.28</container>
+							<unittitle>Friends, Mercer, Caroline, and others, </unittitle>
+							<unitdate>1960</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.29</container>
+							<unittitle>Friends, Nochlin, Linda and Pommer, Richard, wedding, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.3</container>
+							<unittitle>Friends, Pierce, Hubbel, </unittitle>
+							<unitdate>1962</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.31-4.33</container>
+							<unittitle>Friends, Family, Colleagues-scrapbook, </unittitle>
+							<unitdate>circa 1950-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.34</container>
+							<unittitle>Friends, W.K. Rose and Eugene A. Carroll, undated </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.35-4.40</container>
+							<unittitle>Family portraits, including image of Rube Goldberg, </unittitle>
+							<unitdate>circa 1926-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.41-4.43</container>
+							<unittitle>Egypt, </unittitle>
+							<unitdate>1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.44</container>
+							<unittitle>France, Spain, UK, </unittitle>
+							<unitdate>circa 1950-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.45</container>
+							<unittitle>Greece, Italy, (negatives), </unittitle>
+							<unitdate>1960</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.46</container>
+							<unittitle>Ireland, </unittitle>
+							<unitdate>circa 1960-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>4.47-4.49</container>
+							<unittitle>Italy, </unittitle>
+							<unitdate>1953, circa 1960-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.1</container>
+							<unittitle>Italy, scrapbook, </unittitle>
+							<unitdate>1957</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.2</container>
+							<unittitle>Italy, Venice Biennale, </unittitle>
+							<unitdate>1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.3-5.4</container>
+							<unittitle>Italy, </unittitle>
+							<unitdate>circa 1950-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.5</container>
+							<unittitle>Mexico, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.6</container>
+							<unittitle>Mexico City, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.7</container>
+							<unittitle>Russia, </unittitle>
+							<unitdate>1959</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.8</container>
+							<unittitle>Sicily, </unittitle>
+							<unitdate>circa 1960-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.9-5.11</container>
+							<unittitle>U.K., </unittitle>
+							<unitdate>1958-1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.12</container>
+							<unittitle>Unidentified headshots</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.13-5.14</container>
+							<unittitle>Unidentified negatives, </unittitle>
+							<unitdate>circa 1960-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.15</container>
+							<unittitle>Unidentified b/w snapshots, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.16</container>
+							<unittitle>Vassar snapshots, negatives, </unittitle>
+							<unitdate>circa 1960-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.17</container>
+							<unittitle>W.K. Rose, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.18</container>
+							<unittitle>W.K. Rose, London, </unittitle>
+							<unitdate>1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.19</container>
+							<unittitle>W.K. Rose, photocopy, </unittitle>
+							<unitdate>circa 1940-1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>5.2</container>
+							<unittitle>W.K. Rose and EAC, </unittitle>
+							<unitdate>1966-1968</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

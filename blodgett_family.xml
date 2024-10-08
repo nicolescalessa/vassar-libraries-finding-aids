@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_blodgett_family</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Blodgett Family Account Books, 1895-1976</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar
+					College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College
+					Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY,
+						12604-0020</addressline>
+				</address>
+				<date>June 2023</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck, <date>June 2023</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="700">
+				<persname source="local">Blodgett, Minnie A. Cumnock, 1862-1931</persname>
+			</origination>
+			<origination label="Creator:" encodinganalog="100">
+				<persname source="local">Hadley, Katherine Blodgett, 1898-1980</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Blodgett Family Account Books</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1895-1976</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">2.4 cubic feet (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">A collection of account books relating to the Blodgett family, primarily describing household affairs and expenses. The majority of the books were kept by Katherine Blodgett Hadley (VC 1920), two of the books were kept by Minnie Cumnock Blodgett (VC 1884), and the final book is undated and entitled “Gregory and Vail Hay Book” and inscribed with “From the [Dear?] Library, Fishkill Village.”</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Minnie A. (Cumnock) Blodgett (1862-1931) was a Vassar graduate, Class of 1884, and was later a member of the Board of Trustees. She married John W. Blodgett in 1895 and had two children: John W. Blodgett, Jr. and Katherine (Blodgett) Hadley. Katherine followed in her mother's footsteps, graduating from Vassar in 1920. She served on the Board of Trustees from 1942 to 1954 and was Chairman of the Board from 1945 to 1952.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection consists of forty-four account books relating to the Blodgett family, primarily describing household affairs and expenses. Forty-one volumes were kept by Katherine Blodgett Hadley (VC 1920), two volumes were kept by Minnie Cumnock Blodgett (VC 1884), and the final volumes is undated, but the first page is embossed with “Lindmark’s Book Shop, Poughkeepsie, New York,” a business that was established in 1912. It is entitled “Gregory and Vail Hay Book” and inscribed with “From the [Dear?] Library, Fishkill Village.”</p>
+			<p>Collection is arranged chronologically.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections Library.
+				</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<famname source="local" encodinganalog="610">Blodgett family</famname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Households--Economic aspects--United States</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Account books</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">Local History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, June 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, June 2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The Katherine Blodgett Hadley account books were the gift of Barbara Hadley Stanton (VC 1957), December 1980.</p>
+			<p>Provenance of the Minnie A. Cumnock Blodgett and "Gregory and Vail Hay Book" volumes is unknown.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Blodgett Family Account Books, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="item">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Minnie A. (Cumnock) Blodgett - Account Books, Vol. 1, </unittitle>
+					<unitdate type="inclusive" normal="1895/1904">1895-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Minnie A. (Cumnock) Blodgett - Account Books, Vo1. 2, </unittitle>
+					<unitdate type="inclusive" normal="1907/1912">1907-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 1</container>
+					<unittitle>"Gregory and Vail Hay Book, from [Dear?] Library, Fishkill Village" - Account Book, </unittitle>
+					<unitdate type="inclusive" normal="1912/1919">circa 1910s</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="bold">Katherine (Blodgett) Hadley - Account Books</emph></unittitle>
+				</did>
+			<c02 level="item">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Vol. 1, </unittitle>
+					<unitdate type="inclusive" normal="1937">1937</unitdate>
+				</did>
+			</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Vol. 2, </unittitle>
+						<unitdate type="inclusive" normal="1938">1938</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Vol. 3, </unittitle>
+						<unitdate type="inclusive" normal="1939">1939</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 4, </unittitle>
+						<unitdate type="inclusive" normal="1940">1940</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 5, </unittitle>
+						<unitdate type="inclusive" normal="1941">1941</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 6, </unittitle>
+						<unitdate type="inclusive" normal="1942">1942</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 7, </unittitle>
+						<unitdate type="inclusive" normal="1943">1943</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 8, </unittitle>
+						<unitdate type="inclusive" normal="1944">1944</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 9, </unittitle>
+						<unitdate type="inclusive" normal="1945">1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 10-11, </unittitle>
+						<unitdate type="inclusive" normal="1946">1946</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 12, </unittitle>
+						<unitdate type="inclusive" normal="194">1947</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 13, </unittitle>
+						<unitdate type="inclusive" normal="194">1948</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 14, </unittitle>
+						<unitdate type="inclusive" normal="1949">1949</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 15, </unittitle>
+						<unitdate type="inclusive" normal="1950">1950</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 16, </unittitle>
+						<unitdate type="inclusive" normal="1951">1951</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 17, </unittitle>
+						<unitdate type="inclusive" normal="1952">1952</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 18, </unittitle>
+						<unitdate type="inclusive" normal="1953">1953</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 19, </unittitle>
+						<unitdate type="inclusive" normal="1954">1954</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 20, </unittitle>
+						<unitdate type="inclusive" normal="1955">1955</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 21, </unittitle>
+						<unitdate type="inclusive" normal="1956">1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Vol. 22, </unittitle>
+						<unitdate type="inclusive" normal="1957">1957</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 23, </unittitle>
+						<unitdate type="inclusive" normal="1958">1958</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 24, </unittitle>
+						<unitdate type="inclusive" normal="1959">1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 25, </unittitle>
+						<unitdate type="inclusive" normal="1960">1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 26, </unittitle>
+						<unitdate type="inclusive" normal="1961">1961</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 27, </unittitle>
+						<unitdate type="inclusive" normal="1962">1962</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 28, </unittitle>
+						<unitdate type="inclusive" normal="1963">1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 29, </unittitle>
+						<unitdate type="inclusive" normal="1964">1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 30, </unittitle>
+						<unitdate type="inclusive" normal="1965">1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 31, </unittitle>
+						<unitdate type="inclusive" normal="1966">1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 32, </unittitle>
+						<unitdate type="inclusive" normal="1967">1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 33, </unittitle>
+						<unitdate type="inclusive" normal="1968">1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 34, </unittitle>
+						<unitdate type="inclusive" normal="1969">1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 35, </unittitle>
+						<unitdate type="inclusive" normal="1970">1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 36, </unittitle>
+						<unitdate type="inclusive" normal="1971">1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 37, </unittitle>
+						<unitdate type="inclusive" normal="1972">1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 38, </unittitle>
+						<unitdate type="inclusive" normal="1973">1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 39, </unittitle>
+						<unitdate type="inclusive" normal="1974">1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 40, </unittitle>
+						<unitdate type="inclusive" normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Vol. 41, </unittitle>
+						<unitdate type="inclusive" normal="1976">1976</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

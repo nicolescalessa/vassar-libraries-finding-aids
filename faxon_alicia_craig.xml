@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_faxon_alicia_craig </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Alicia Craig Faxon Papers, circa 1969-2014</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>November 2006</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Faxon, Alicia Craig</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Alicia Craig Faxon Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> approximately 1969-2014 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 4.7 cubic feet (8 boxes) </physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Manuscripts, galley proofs, and notes for <emph render="underline">Collecting Art on a Shoestring</emph>, <emph render="underline">Pre-Raphaelite Art in its European Context</emph> as well as other writings and Faxon biographical material.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Alicia Craig Faxon (b. 1931- ), teacher, art historian, and critic, was graduated from Vassar in 1952. She studied history at Radcliffe on a Vassar fellowship and received a master's degree in 1953. In the same year she married Richard Bremer Faxon, an Episcopal clergyman. After teaching American history at the high-school and college level, Mrs. Faxon's interest turned to art history. She is an author and editor. Her works include <emph render="underline">Collecting Art on a Shoestring</emph>, <emph render="underline">Pre-Raphaelite Art in its European Context</emph>, <emph render="underline">Rossetti's Images of Botticelli</emph> and other publications. Throughout the 1970's Mrs. Faxon wrote on art for various Boston area publications, including the Boston Globe, and taught at the New England School of Art and the Massachusetts College of Art. She has served as a guest curator, trustee, and acting director of the Danforth Museum in Framingham. Alicia Craig Faxon received A
+				Ph.D. in art history from Boston University in 1979.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Manuscript, galley proofs, and notes for <emph render="underline">Collecting Art on a Shoestring</emph>, <emph render="underline">Pre-Raphaelite Art in its European Context</emph> as well as other writings and Faxon biographical material.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Art--Collectors and collecting</subject>
+				<subject source="lcsh" encodinganalog="650"> Art--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650"> Women teachers</subject>
+				<subject source="lcsh" encodinganalog="650"> Art historians</subject>
+				<subject source="lcsh" encodinganalog="650"> Art critics</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Art and Artists </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, November 2006.</p>
+			<p>Updated by Laura Streett, January 2015.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+			<p>Updated by Laura Streett, March 2005, June 2009 and January 2015.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Alicia Craig Faxon.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Alicia Craig Faxon Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Container List</head>
+			<p>There is no container list currently available for this collection.</p>
+		</dsc>
+	</archdesc>
+</ead>

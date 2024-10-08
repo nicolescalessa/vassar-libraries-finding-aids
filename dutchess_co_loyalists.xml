@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_dutchess_county_loyalists</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Dutchess County Loyalists Papers, 1776-1922</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library Staff</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>March 2014</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl, <date>March 2014</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245"> Dutchess County Loyalists Papers </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1776-1922 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 1 box (0.5 cubic feet )</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Letters and legal documents regarding Loyalist residents of Dutchess County and Poughkeepsie, NY, during and immediately after the American Revolution; transcripts and descriptions of materials by Albany, NY, dealer Pierre and Scropes, Inc.; photocopies of original documents.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>During the American Revolution (1775-1783) those who remained loyal to Great Britain often found themselves threatened and forced to flee their homes by their Patriot neighbors. Many who fled made new homes in the Canadian maritime provinces of New Brunswick and Nova Scotia. Before fleeing, Loyalists frequently petitioned the Crown for aid and, after the Revolution, undertook legal proceedings to gain compensation for property they lost when they left. The materials in this collection document the experience of a number of Loyalists who lived in Dutchess County, NY, and ultimately fled to New Brunswick.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Letters and legal documents regarding Loyalist residents of Dutchess County and Poughkeepsie, NY, during and immediately after the American Revolution; transcripts and descriptions of materials by Albany, NY, dealer Pierre and Scropes, Inc.; photocopies of original documents.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">American loyalists--New York (State)--Dutchess County</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcsh" encodinganalog="651">Dutchess County (N.Y.)--History--1775-1865--Sources</geogname>
+				<geogname source="lcsh" encodinganalog="651">Poughkeepsie (N.Y.)--History--1775-1865--Sources</geogname>
+				<geogname source="lcsh" encodinganalog="651">New York (State)--History--1775-1865--Sources</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Local History </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, March 2014. Updated by Mark Seidl, May 2014.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Mark Seidl, March 2014</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Purchased from Pierre and Scropes, Inc., June 1922. Transferred from Special Collections Dewey material, March 2014.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Dutchess County Loyalists Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is arranged in two series, and alphabetically within each series.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I. </ref>Original Documents, </unittitle>
+					<unitdate>1776-1786 </unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II. </ref>Dealer's Materials, </unittitle>
+					<unitdate>circa 1920</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series includes the materials provided by the dealer Pierre and Scropes, Inc., including enclosures, transcripts of the documents, and photocopies of the documents and transcripts.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. Original Documents</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1 </container>
+						<unittitle> Appointment of Gilbert Livingston as attorny for John Beardsley, </unittitle>
+						<unitdate>1789</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle> Descent of B. Crannell, </unittitle>
+						<unitdate>circa 1785</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> Letter from Mr. Crannell to his sons-in-law Gilbert and Tappan, </unittitle>
+						<unitdate>1785</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4 </container>
+						<unittitle> Letter from Reverend John Beardsley to Gilbert Livingston, </unittitle>
+						<unitdate>1786</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.5 </container>
+						<unittitle> Petition of the faithful subjects of his Majesty King Geo. the third, </unittitle>
+						<unitdate>1776</unitdate>
+					</did>
+				</c02>
+				<c02 level="file" id="file">
+					<did>
+						<container> Folder 1.6 </container>
+						<unittitle> Schedule of real estate, </unittitle>
+						<unitdate>circa 1785</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II. Dealer's Materials</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.7 </container>
+						<unittitle> Dealer's description of Five Poughkeepsie Loyalists documents, </unittitle>
+						<physdesc>[original ms. and photocopy] </physdesc>
+						<unitdate> circa 1922 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.8 </container>
+						<unittitle> Dealer's description of Petition of the faithful subjects . . ., </unittitle>
+						<physdesc>[original ms. and photocopy] </physdesc>
+						<unitdate> circa 1922 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9 </container>
+						<unittitle> Dealer's enclosure for Five Poughkeepsie Loyalists documents, </unittitle>
+						<physdesc>[includes typed description] </physdesc>
+						<unitdate>circa 1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.10 </container>
+						<unittitle> Dealer's enclosure for Petition of the faithful subjects . . ., </unittitle>
+						<physdesc>[includes typed description] </physdesc>
+						<unitdate>circa 1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.11 </container>
+						<unittitle> Photocopies, </unittitle>
+						<unitdate>circa 1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.12 </container>
+						<unittitle> Typed transcript of Petition of the faithful subjects . . ., </unittitle>
+						<unitdate>circa 1922</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_last_first </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Sally J. Template Papers, 1861-1891</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>February 2022</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl <date>February 2022</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Template, Sally J., 1813-1891</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Sally J. Template Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1861-1891 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 2 cubic feet (8 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence, artwork, and ephemera relating to Template's work as a template. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Sally J Template was a template. Noted works include <emph render="underline">Tales of a Template</emph> and and <emph render="underline"> Template on Template </emph>.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, artwork, and ephemera relating to Template's work as a template. Includes correspondence regarding samples, diagrams, patterns and stencils. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-biographical-files-approximately-1900-2010">Vassar College Biographical Files</archref>
+			</p>
+		</relatedmaterial>
+		<separatedmaterial encodinganalog="544 0">
+			<head> Separated Materials</head>
+			<p>Templates library of rare books on templates was added to the Rare Book Collection.</p>
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="local" encodinganalog="600">Template, Nathan</persname>
+				<persname source="lcnaf" encodinganalog="600">Stanton, Elizabeth Cady, 1815-1902</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">International Union of Templates</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Family--New York (State)</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Washington (D.C.)--Description</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Bookplates</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Printing and Publishing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, 2022.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Guide created 2000. Updated by Mark Seidl, February 2022.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Purchased from H. Armour Smith in 1948. </p>
+			<p>Runge note donated in 2001(M2014-014).</p>
+			<p>Greenleaf correspondence purchased in 2009 (M2009-007).</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Sally J. Template Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence</unittitle>
+					<physdesc>(Boxes 1-3)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Ephemera</unittitle>
+					<physdesc>(Box 4)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. CORRESPONDENCE </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Correspondence to Sally Template </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.1 </container>
+							<unittitle> International Template Union </unittitle>
+							<physdesc> (100 items) </physdesc>
+							<unitdate type="inclusive"> 1881-1900 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.2 </container>
+							<unittitle> International Template Union </unittitle>
+							<physdesc> (150 items) </physdesc>
+							<unitdate type="inclusive"> 1900-1920</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Correspondence from Sally Template </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.1 </container>
+							<unittitle> Family</unittitle>
+							<physdesc> (3 items) </physdesc>
+							<unitdate type="inclusive"> 1855 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.19 </container>
+							<unittitle> Buckingham, Stephen M., </unittitle>
+							<physdesc> (5 items) </physdesc>
+							<unitdate type="inclusive"> 21 June 1878 </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. EPHEMERA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.1 </container>
+						<unittitle> V.C. Alumnae Association, </unittitle>
+						<physdesc> (3 items) </physdesc>
+						<unitdate type="inclusive"> approximately 1876 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.2 </container>
+						<unittitle> V.C. Alumnae, Boston, </unittitle>
+						<physdesc> (11 items) </physdesc>
+						<unitdate type="inclusive"> 1884 </unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

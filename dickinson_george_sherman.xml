@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_dickinson_george_sherman</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the George Sherman Dickinson Papers, approximately 1909-1964 (bulk 1913-1914, 1955-1964)</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>September 2008</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>September 2008</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Dickinson, George Sherman, 1888-1964</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> George Sherman Dickinson Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">approximately 1909-1964</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1913-1914, 1955-1964 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 74 letters in one box (0.3 cubic feet )</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Letters from George Sherman Dickinson to Oliver M. Sayler and Joan Stambaugh. Also includes three letters from Bess Dickinson to Sayler.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>George Sherman Dickinson (b. 9 Feb. 1888, St. Paul, MN; d. 6 Nov. 1964, Chapel Hill, NC) was an organist, choirmaster, professor of music and librarian. He did his undergraduate work at Oberlin College (A.B. 1909, Mus. B 1910) and his graduate work at Harvard University (A.M. 1912). He married Bessie May McClure in 1913. They spent the following year in Europe, mostly in Berlin where he studied with Hugo Kaun and Paul Juon. In 1916 he accepted a teaching position at Vassar College. His impact on the Music Department was profound. Not only he was a popular professor, he served as chair of the department from 1932-1944, planned the Belle Skinner Hall of Music, and was named Music Librarian in 1927. Dickinson retired from Vassar in 1953. </p>
+			<p> For more biographical details, see the Dickinson material in the <archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-biographical-files-approximately-1900-2010">Vassar College Biographical Files</archref>. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection includes two main sets of letters. One set contains 25 letters from George Sherman Dickinson to author and theatre critic, Oliver M. Sayler, as well as 3 letters from Bess Dickinson to Sayler. Dickinson met Sayler when they were both undergraduates at Oberlin College. Most of the letters are from 1913-1914, when the Dickinsons were in Berlin. These letters are largely about travel arrangements, but there is some information about George Dickinson's studies, including a brief description of his work with Hugo Kaun and Paul Juon. 5 letters are from Dickinson's time at Vassar College and range in date from 1919-1931. </p>
+			<p>The second set of letters are from Dickinson to Joan Stambaugh (VC 1955), a former student who kept in touch after he retired in 1953. These letters include advice about living in Germany (Stambaugh held fellowships at Freiburg University from 1955-1961), news about Vassar College, reports on Dickinson's work, advice on Stambaugh's work in philosophy as well as music, and personal updates. There are 44 Stambaugh letters. They date from 1955-1964.</p>
+			<p>There is also a letter from Charles Gordon Post dated 22 Feb 1964, and a response to an invitation from the Vassar Class of 1917 to attend their opening of the Senior Parlor in Main Building in October 1916.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>See also the Dickinson material in: </p>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-biographical-files-approximately-1900-2010">Vassar College Biographical Files</archref>
+			</p>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-skinner-hall-records-1929-1934">Skinner Hall Records</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Dickinson, Bessie McClure</persname>
+				<persname source="lcnaf" encodinganalog="600"> Sayler, Oliver Martin, 1887- </persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Department of Music</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Germany--Description and travel</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Music </subject>
+				<subject source="local" encodinganalog="690"> Travel </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, September 2008.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, September 2008.</p>
+		</processinfo>
+		<custodhist encodinganalog="561">
+			<head>Custodial History</head>
+			<p>The Sayler letters [M2008-008] were purchased by Philip Prenzel on Ebay as part of a larger collection of Sayler material.</p>
+		</custodhist>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The Stambaugh letters were a gift of Joan Stambaugh, November 1991. The Sayler letters [M2008-008] were purchased from Philip Prenzel, July 2008. </p>
+			<p>The Post letter was a gift from Post in 1969. The provenance of the Senior Parlor opening invitation is unknown. Both were added to this collection from the <archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-autograph-files-1783-1983">Autograph Files</archref> in 2008.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>George Sherman Dickinson Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Container List</head>
+			<p>There is no container list currently available for this collection.</p>
+		</dsc>
+	</archdesc>
+</ead>

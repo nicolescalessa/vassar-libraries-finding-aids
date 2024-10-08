@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_fradkin_elvira_kush</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Elvira Kush Fradkin Papers, 1932-1972</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar
+					College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>2007</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>February 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Fradkin, Elvira Kush, 1891-1972</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Elvira Kush Fradkin Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1932-1972</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.2 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The collection consists of drafts of several of United Nations representative and political activist Elvira Kush Fradkin's writings on disarmament, including a draft of the book <emph render="italic">To Bomb or Not to Bomb?</emph>. Also included are a photograph, newspaper clippings, two letters, biographical data on Fradkin, and a pamphlet on the disarmament conference.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Elvira Kush Fradkin (1891-1972), a resident of Montclair, N.J. for many years,
+				attended the Ethical Culture School in New York City and graduated from Vassar
+				College in 1913. A year later, she received her Master's degree from Columbia, where
+				she studied economics and psychology. She was married to Dr. Leon H. Fradkin, a
+				dentist. Throughout the 1920's and 1930's, Mrs. Fradkin was active in organizations
+				for peace, disarmament, and women's rights. She was the author of <emph render="italic">Chemical
+					Warfare: Its Possibilities and Probabilities</emph>, published in 1929 by the Carnegie
+				Endowment for International Peace, as well as <emph render="italic">The Air Menace and the Answer</emph> (1934).</p>
+				<p>Following World War II, Mrs. Fradkin committed herself to supporting the United
+				Nations. From 1947 to 1970, she represented the International Association for Liberal
+				Christianity and Religious Freedom at the United Nations and she was a leader of
+				the New Jersey branch of the American Association for the United Nations. In 1950,
+				she published <emph render="italic">A World Airlift</emph>, in which she advocated for an international air police
+				patrol under the United Nations. Mrs. Fradkin's support for a controversial causes
+				was unswerving, even after she was the target of a Ku Klux Klan cross burning in
+				1937. She died in 1972.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection consists of drafts of several of Fradkin's writings on disarmament, including a draft of the book <emph render="italic">To Bomb or Not to Bomb?</emph>. Also included are a photograph, newspaper clippings, two letters, biographical data on Fradkin, and a pamphlet on the disarmament conference.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p>Separated Material: Elvira K. Fradkin's Vassar College diploma was separated from the collection and added to the Vassar College Realia Collection.</p>
+			<p>Separated Material: A book of class songs from 1913 was separated from the collection and added to the Class of 1913 box.</p>
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">United Nations</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Conference for the Reduction and
+					Limitation of Armaments (1932-1934 : Geneva, Switzerland)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Disarmament</subject>
+				<subject source="lcsh" encodinganalog="650">Women and politics</subject>
+				<subject source="lcsh" encodinganalog="650">Women and peace</subject>
+				<subject source="lcsh" encodinganalog="650">Women's rights</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings</genreform>
+				<genreform source="aat" encodinganalog="655">Ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Politics</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, February 2007. Updated by Emma Gronbeck, June 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Updated by Emma Gronbeck, June 2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Rosalind (Fradkin) Altemus (VC 1940), 1973.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Elvira Kush Fradkin Papers, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>Folder 1</container>
+					<unittitle>Article: Fradkin, Elvira, "Behind the Scenes at the First World
+						Disarmament Conference," draft, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2</container>
+					<unittitle>Article: Fradkin, Elvira, "The Women's Contribution to Disarmament
+						Conference," draft, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3</container>
+					<unittitle>Article: Fradkin, Elvira, "To Bomb or Not to Bomb?," draft, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4</container>
+					<unittitle>Biographical Data, </unittitle>
+					<unitdate type="inclusive" normal="1973">circa 1973</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 5-15</container>
+					<unittitle>Book: Fradkin, Elvira, <emph render="italic">To Bomb or Not to Bomb?: A United Nations Air
+						Police Patrol</emph>, draft, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 16</container>
+					<unittitle>Clippings, </unittitle>
+					<unitdate type="inclusive" normal="1932-1972">1932-1972</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 17</container>
+					<unittitle>Photograph of Fradkin with others in front of General Clay's plane, </unittitle>
+					<unitdate type="inclusive" normal="195110">1951 Oct</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 18</container>
+					<unittitle>Letter: "A Christmas Letter from Mrs. Elvira K. Fradkin, your United
+						Nations Seminar Director and UN Non-Governmental Representative for the
+						American Unitarian Association and the American Universalist Association", </unittitle>
+					<unitdate type="inclusive" normal="196012">1960 Dec</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 19</container>
+					<unittitle>Letter from L. I. Vladimirov to Elvira K. Fradkin, </unittitle>
+					<unitdate type="inclusive" normal="19700310">1970 Mar 10</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 20</container>
+					<unittitle>Pamphlet: "The Story of the Disarmament Declaration", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,3606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_bergeret_ida</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Ida Treat Bergeret Papers, 1889-1978</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>November 2006</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Bergeret, Ida Treat, 1889?-1978</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Ida Treat Bergeret Papers, </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1889-1978</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">4.3 cubic feet (7 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Papers reflect her personal and
+				professional life and include travel diaries and notes, manuscripts and published
+				versions of her articles and stories on China, Russia, Tahiti, Abyssinia, Djibouti,
+				and the Red Sea slave trade, 1928-1967; correspondence with her two of her three
+				husbands, Paul Vaillant-Couturier and Andre Bergeret; letters from Wolfgang Wolff
+				written from Tahiti, 1934-1939; correspondence with her literary agent Marie Rodell,
+				1965-1967, and with the <emph render="italic">New Yorker</emph> and other publishers
+				and editors; 86 letters from her friend Pierre Teilhard de Chardin, 1926-1952, and
+				correspondence, contracts, and royalty statements, 1968, pertaining to Chardin's
+				book <emph render="italic">Letters to Two Friends</emph>, 1926-1952; notes,
+				clippings, and scrapbooks concerning her experiences in London during World War II,
+				1943-1945; manuscripts and publications by other authors; letters and articles of
+				Simone and Max Begonen; and family and personal photographs.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Ida Treat was born in Joliet, Illinois, in 1899 and attended Western Reserve
+				University. After earning a doctorate in letters at the University of Paris she
+				returned in 1913 to Western Reserve, where she taught romance languages for the next
+				seven years. In the 1920s she went back to France, where she lived as a writer and
+				journalist for more than twenty years. While working as a correspondent for Paris Vu
+				in the 1930s, she traveled throughout Europe, China, and the South Pacific. Her
+				articles and stories appeared in United States periodicals such as <emph
+					render="italic">The Nation</emph>, <emph render="italic">The New Yorker</emph>,
+				Harpers, and The Saturday Evening Post. She was married She was married three times,
+				to Raymond O'Neil, Paul Vaillant-Couturier and André Bergeret. In her writing she
+				used the name Ida Treat.</p>
+			<p>In 1948 Ida Treat Bergeret came to Vassar as Professor of English. She retired in
+				1954 after more than five years of teaching writing courses. When she died in 1978,
+				her colleague and friend, Barbara Swain said that "she had freedom and adventure in
+				a way that might make her a choice for a feminist model today. But she wouldn’t like
+				that very much. She was always too independent for playing roles."</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Papers reflect her personal and professional life and include travel diaries and
+				notes, manuscripts and published versions of her articles and stories on China,
+				Russia, Tahiti, Abyssinia, Djibouti, and the Red Sea slave trade, 1928-1967;
+				correspondence with her two of her three husbands, Paul Vaillant-Couturier and Andre
+				Bergeret; letters from Wolfgang Wolff written from Tahiti, 1934-1939; correspondence
+				with her literary agent Marie Rodell, 1965-1967, and with the <emph render="italic"
+					>New Yorker</emph> and other publishers and editors; 86 letters from her friend
+				Pierre Teilhard de Chardin, 1926-1952, and correspondence, contracts, and royalty
+				statements, 1968, pertaining to Chardin's book <emph render="italic">Letters to Two
+					Friends</emph>, 1926-1952; notes, clippings, and scrapbooks concerning her
+				experiences in London during World War II, 1943-1945; manuscripts and publications
+				by other authors; letters and articles of Simone and Max Begonen; and family and
+				personal photographs.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Begonen, Simone</persname>
+				<persname source="lcnaf" encodinganalog="600">Begonen, Max</persname>
+				<persname source="lcnaf" encodinganalog="600">Wolff, Wolfgang</persname>
+				<persname source="lcnaf" encodinganalog="600">Vaillant-Couturier, Paul, 1892-1937</persname>
+				<persname source="lcnaf" encodinganalog="600">Bergeret, Andre</persname>
+				<persname source="lcnaf" encodinganalog="600">Teilhard de Chardin, Pierre</persname>
+				<persname source="lcnaf" encodinganalog="600">Rodell, Marie</persname>
+				<persname source="lcnaf" encodinganalog="600">Bergeret family</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">New Yorker</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Slavery--Middle East</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Diaries</subject>
+				<subject source="lcsh" encodinganalog="650">Publishers and publishing</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--England--London</subject>
+				<subject source="lcsh" encodinganalog="650">Women college teachers</subject>
+				<subject source="lcsh" encodinganalog="650">Women travelers</subject>
+				<subject source="lcsh" encodinganalog="650">Women authors</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">China--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Soviet Union--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Tahiti--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Ethiopia--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Djibouti--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Middle East--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">London (England)--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Abyssinia--Description and travel</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Slavery and Antislavery</subject>
+				<subject source="local" encodinganalog="690">Travel</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke November 2006.</p>
+			<p>Last updated March 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Originial processing date unknown. Last updated February 2013.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Ida Treat Bergeret.</p>
+			<p><emph render="italic">Anchored Heart</emph> manuscript in Box 7 was a gift of the Hot
+				Springs County Library, 2013.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Ida Treat Bergeret Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Correspondence to Bergeret from de
+						Chardin</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Correspondence to Bergeret from Paul
+						Vaillant-Couturier</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Correspondence to Bergeret from
+						Various Individuals</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Correspondence to Bergeret from
+						Others</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Fan Mail</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> General Correspondence to
+						Bergeret</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Correspondence from Bergeret to
+						Various Individuals</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Unpublished Manuscripts by
+						Bergeret</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX.</ref> Other Manuscripts by
+						Bergeret</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">Series X.</ref> Published Manuscripts by
+						Bergeret</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series11">Series XI.</ref> Published Articles by
+						Bergeret</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series12">Series XII.</ref> Translations and Reviews by
+						Bergeret</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series13">Series XIII.</ref> Manuscripts by Others</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series14">Series XIV.</ref> Articles by Others</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series15">Series XV.</ref> Poetry by Others</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series16">Series XVI.</ref> Articles By and About Teilhard de
+						Chardin</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series17">Series XVII.</ref> Clippings</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series18">Series XVIII.</ref> Financial Papers</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series19">Series IXX.</ref> World War II</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series20">Series XX.</ref> Printed Material</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series21">Series XXI.</ref> Diaries</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series22">Series XXII.</ref> Biographical: Ida Treat
+						Bergeret</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series23">Series XXIII.</ref> Drawings</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series24">Series XXIV.</ref> Photographs and
+						Scrapbooks</unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Correspondence to Bergeret from Teilhard de Chardin</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1</container>
+						<unitdate type="inclusive">1926 Apr 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2</container>
+						<unitdate type="inclusive">1926 May 3-23</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unitdate type="inclusive">1926 Jun 2-11</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4</container>
+						<unitdate type="inclusive">1926 Jun 25 - Jul 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.5</container>
+						<unitdate type="inclusive">1926 Aug 6 - Sep 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.6</container>
+						<unitdate type="inclusive">1926 Oct 12 - Nov 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7</container>
+						<unitdate type="inclusive">1926 Nov 28 - Dec 25</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.8</container>
+						<unitdate type="inclusive">1927 Jan 22 - Mar 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unitdate type="inclusive">1927 Apr 6 - May 11</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unitdate type="inclusive">1927 May 24 - Oct 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unitdate type="inclusive">[1927] Nov 30 - [1933] Oct 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12</container>
+						<unitdate type="inclusive">[1933] Oct 20 - 1934 Jun 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.13</container>
+						<unitdate type="inclusive">1934 Aug 18 - 1935 [Paris]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.14</container>
+						<unitdate type="inclusive">1935 [Paris] - 1935 Sep 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.15</container>
+						<unitdate type="inclusive">1936 Jan 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16</container>
+						<unitdate type="inclusive">1936 Oct 30 - 1937 Jun 28</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.17</container>
+						<unitdate type="inclusive">1937 Aug 15 - 1948 Mar 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unitdate type="inclusive">1948 Mar 16 - May 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unitdate type="inclusive">1948 Jul 8 - Dec 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unitdate type="inclusive">1949 Jul 19 - 1950 Jul 25</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21</container>
+						<unitdate type="inclusive">1950 Aug 30 - 1952 Oct 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.22</container>
+						<unitdate type="inclusive">1926 Apr 26 - Jun 11</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.23</container>
+						<unitdate type="inclusive">1926 Jun 25 - Sep 15</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.24</container>
+						<unitdate type="inclusive">1926 Oct 12 - Dec 25</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unitdate type="inclusive">1927 Jan 22 - Apr 20</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26</container>
+						<unitdate type="inclusive">1927 Jul 4 - Aug 27</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unitdate type="inclusive">1927 Jul 24 - [1933] Oct 7</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.28</container>
+						<unitdate type="inclusive">[1933] Oct 20 - 1934 Nov 17</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unitdate type="inclusive">1934 Dec 31 - 1935 Sep 18</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unitdate type="inclusive">1936 Jan 22 - 1937 Jun 28</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31</container>
+						<unitdate type="inclusive">1937 Aug 15 - 1948 Apr 16</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unitdate type="inclusive">1948 Apr 19 - 1948 Dec 3</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33</container>
+						<unitdate type="inclusive">1949 Jul 19 - 1950 Jul 25</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34</container>
+						<unitdate type="inclusive">1950 Aug 30 - 1952 Oct 14</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Correspondence to Bergeret from Paul Vaillant-Couturier</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unitdate type="inclusive">1921-1924</unitdate>
+						<physdesc>(9 letters)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36</container>
+						<unitdate type="inclusive">1926 Jul 13 - [1927 Nov 9?]</unitdate>
+						<physdesc>(4 letters, 2 postcards)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.37</container>
+						<unitdate type="inclusive">1928 Jan 28 - Oct [19?]</unitdate>
+						<physdesc>(6 letters, 1 fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.38</container>
+						<unitdate type="inclusive">1929 Feb 26 - Mar 18</unitdate>
+						<physdesc>(12 TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.39</container>
+						<unitdate type="inclusive">1930 Jun 2, 1934</unitdate>
+						<physdesc>(3 letters, 2 fragments, 1 telegram)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.40</container>
+						<unitdate type="inclusive">1934, 1937</unitdate>
+						<physdesc>(5 letters, 1 telegram)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.41-1.51</container>
+						<unitdate type="inclusive">undated </unitdate>
+						<physdesc>(106 letters, 16 frag., 3 drawings)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.52-1.56</container>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(36 TS)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Correspondence to Bergeret from Various Individuals</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.57</container>
+						<unittitle>Begouen, Simone and Max, </unittitle>
+						<unitdate type="inclusive">1951 Sep 9 - 1954 Sep 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.58</container>
+						<unittitle>Begouen, Simone and Max, </unittitle>
+						<unitdate type="inclusive">1954 Jan 15 - 1957 Nov 17</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.59</container>
+						<unittitle>Begouen, Simone and Max, </unittitle>
+						<unitdate type="inclusive">1958 Feb 2 - 1960 Oct 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.60</container>
+						<unittitle>de Cizancourt, Annick, </unittitle>
+						<unitdate type="inclusive">1966 Apr 2 - 1968 Dec 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.61</container>
+						<unittitle>de Cizancourt, Annick, </unittitle>
+						<unitdate type="inclusive">1969 Feb 9 - 1973 Feb 5</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.62</container>
+						<unittitle>de Cizancourt, Joël, </unittitle>
+						<unitdate type="inclusive">1965 Jan 24 - Nov 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.63</container>
+						<unittitle>de Cizancourt, Joël, </unittitle>
+						<unitdate type="inclusive">1966 Jan - Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.64</container>
+						<unittitle>de Cizancourt, Joël, </unittitle>
+						<unitdate type="inclusive">1967 Jun 10 - Jul 11</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.65</container>
+						<unittitle>de Cizancourt, Joël, </unittitle>
+						<unitdate type="inclusive">1968 Feb 15 - Dec 27</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.66</container>
+						<unittitle>de Cizancourt, Joël, </unittitle>
+						<unitdate type="inclusive">1969 Sep 8 - Dec 21</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.67</container>
+						<unittitle>de Cizancourt, Joël, </unittitle>
+						<unitdate type="inclusive">1970 [Feb 21?] - Aug 29</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.68</container>
+						<unittitle>de Cizancourt, Joël, </unittitle>
+						<unitdate type="inclusive">1972 Dec 8 - 1973 Jan 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.69</container>
+						<unittitle>Michel, Dr. François, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.70</container>
+						<unittitle>Rodell, Marie, </unittitle>
+						<unitdate type="inclusive">1965 Apr 27 - 1967 Apr 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.71</container>
+						<unittitle>Treat, Francis H. [father], </unittitle>
+						<unitdate type="inclusive">1922 Aug 15 - Dec 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.72</container>
+						<unittitle>Treat, Francis H., </unittitle>
+						<unitdate type="inclusive">1923 Jan 3 - Nov 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.73</container>
+						<unittitle>Treat, Francis H., </unittitle>
+						<unitdate type="inclusive">1924 Jan 8 - Oct 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.74</container>
+						<unittitle>Treat, Francis H., </unittitle>
+						<unitdate type="inclusive">1925 Jun 14 - 1927 Jan 12</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.75</container>
+						<unittitle>Treat, Francis H., </unittitle>
+						<unitdate type="inclusive">1928 Mar 8 - 1929 May 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.76</container>
+						<unittitle>Treat, Grace D. [sister], </unittitle>
+						<unitdate type="inclusive">1930 Jan 12 - 1970 Aug 27</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.77</container>
+						<unittitle>Treat, Grace D., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.78</container>
+						<unittitle>Treat, Dorothy A. [sister], </unittitle>
+						<unitdate type="inclusive">1963 May 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.1</container>
+						<unittitle>Wolff, Wolfgang, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.2</container>
+						<unittitle>Wolff, Wolfgang, </unittitle>
+						<unitdate type="inclusive">1935</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.3</container>
+						<unittitle>Wolff, Wolfgang, </unittitle>
+						<unitdate type="inclusive">1936</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.79</container>
+						<unittitle>Wolff, Wolfgang, </unittitle>
+						<unitdate type="inclusive">1937-1946</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.80</container>
+						<unittitle>Family members [unidentified], </unittitle>
+						<unitdate type="inclusive">1969 Dec 26 - 1973 Jan 5</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.81</container>
+						<unittitle>Family members, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.82</container>
+						<unittitle>Family members, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Correspondence to Bergeret from others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.83</container>
+						<unittitle>A, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.84</container>
+						<unittitle>B, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.85</container>
+						<unittitle>C – E, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.86-1.87</container>
+						<unittitle>F, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.88</container>
+						<unittitle>G, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.89</container>
+						<unittitle>H – L, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.90</container>
+						<unittitle>M, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.91</container>
+						<unittitle>N – O, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.92</container>
+						<unittitle>P – R, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.93-1.95</container>
+						<unittitle>S, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.96</container>
+						<unittitle>T – Z, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Fan Mail</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.97</container>
+						<unitdate type="inclusive">1941 Mar 25 - Nov 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.98</container>
+						<unitdate type="inclusive">1941 Nov 19 - 1942 Feb 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.99</container>
+						<unitdate type="inclusive">1942 Feb 24 - Dec 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.100</container>
+						<unitdate type="inclusive">1948 Mar 29 - 1951 Mar 8</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.101</container>
+						<unitdate type="inclusive">1954 Mar 12 - 1959 Jan 9</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.102</container>
+						<unitdate type="inclusive">1959 Apr 4 - Jul 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.103</container>
+						<unitdate type="inclusive">1959 Oct 14 - 1966 Dec 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.104-1.106</container>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. General Correspondence to Bergeret</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.107</container>
+						<unittitle>from Publishers, </unittitle>
+						<unitdate type="inclusive">1948 Mar 29 - 1951 Jun 28</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.108</container>
+						<unittitle>from Publishers, </unittitle>
+						<unitdate type="inclusive">1953 Feb 2 - 1957 Jan 29</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.109</container>
+						<unittitle>from Publishers, </unittitle>
+						<unitdate type="inclusive">1941 Jun 5 - 1967 Oct 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.110</container>
+						<unittitle>Letters of condolence - death of André Bergeret, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.111</container>
+						<unittitle>re: China, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.112</container>
+						<unittitle>re: "Bouillon", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.113</container>
+						<unittitle>re: André Bergeret and divorce, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.114</container>
+						<unittitle>re: André Bergeret and divorce, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.115</container>
+						<unittitle>re: New American Library, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.116</container>
+						<unittitle>re: New American Library, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.117</container>
+						<unittitle>re: Pearls, Arms and Hashish, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.118</container>
+						<unittitle>[unidentified], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Series VII. Correspondence from Bergeret to various individuals</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.119</container>
+						<unittitle>[Armgard], </unittitle>
+						<unitdate type="inclusive">[no year] Sep 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.120</container>
+						<unittitle>Begouen, Simone, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.121</container>
+						<unittitle>de Cizancourt, Jöel and Annick, </unittitle>
+						<unitdate type="inclusive">1966 Mar 12, 1969 Mar 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.122</container>
+						<unittitle>Vaillant-Couturier, Paul, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.123</container>
+						<unittitle>Vaillant-Couturier, Paul, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.124</container>
+						<unittitle>Vaillant-Couturier, Paul, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.125</container>
+						<unittitle>Vaillant-Couturier, Paul, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.126</container>
+						<unittitle>Vaillant-Couturier, Paul, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.127</container>
+						<unittitle>Rodell, Marie, </unittitle>
+						<unitdate type="inclusive">1965 May 16 - 1967 Jul 28</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.128</container>
+						<unittitle>Vaillant-Couturier, Marie-Claude, </unittitle>
+						<unitdate type="inclusive">1937</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.129</container>
+						<unittitle>Weil, Elsie, </unittitle>
+						<unitdate type="inclusive">1936 Dec 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.130</container>
+						<unittitle>[unidentified], </unittitle>
+						<unitdate type="inclusive">1966 Jan 13</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>Series VIII. Unpublished Manuscripts by Bergeret</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.131</container>
+						<unittitle>The Apple, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.132</container>
+						<unittitle>The Artists as Young Men, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.133</container>
+						<unittitle>Cordon Bleu, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.134</container>
+						<unittitle>The Enemy, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.135</container>
+						<unittitle>Master—And Dog, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.136</container>
+						<unittitle>The Monument, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS, draft)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.137</container>
+						<unittitle>The Monument, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS, draft)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.138</container>
+						<unittitle>The Monument, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS, draft)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.139</container>
+						<unittitle>Dogs of War, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.140</container>
+						<unittitle>The Occupant, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.141</container>
+						<unittitle>A Piece of Research, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.142</container>
+						<unittitle>Rebuild the City, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.143</container>
+						<unittitle>The Spanish Neighbor, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.144</container>
+						<unittitle>untitled manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>Series IX. Other Manuscripts by Bergeret</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.1 - 2.16</container>
+						<unittitle>Abyssinia - Red Sea – Djibouti, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.17</container>
+						<unittitle>Athens in the Morning, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.18</container>
+						<unittitle>Baby, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.19</container>
+						<unittitle>Back to Paris, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.20</container>
+						<unittitle>Bird Story (A Brittany Fable), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.21</container>
+						<unittitle>Bouillon, working copy, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.22</container>
+						<unittitle>Bouillon, working copy, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23</container>
+						<unittitle>Brittany – Justice, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24</container>
+						<unittitle>Camargue, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.25</container>
+						<unittitle>China: Friend in China, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.26</container>
+						<unittitle>China: Lin Chu-win, a New Chinese Star, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.27</container>
+						<unittitle>China: My Friend Hsu, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.28</container>
+						<unittitle>China: My Friend Hsu, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.29</container>
+						<unittitle>China: My Friend Hsu, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.30</container>
+						<unittitle>China: My Friend Hsu, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.31</container>
+						<unittitle>China: My Friend Hsu, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.32</container>
+						<unittitle>China: Miscellaneous Fragments, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.33</container>
+						<unittitle>China: Miscellaneous Fragments, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.34</container>
+						<unittitle>China: Missing Men, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.35</container>
+						<unittitle>China: Missing Men, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.36</container>
+						<unittitle>China: Missing Men, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.37</container>
+						<unittitle>China: Tsiang, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.38</container>
+						<unittitle>Early Chapters of a Biography, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.39</container>
+						<unittitle>Early Chapters of a Biography, pp 1-20, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.40</container>
+						<unittitle>Early Chapters of a Biography, pp 21-43, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.41</container>
+						<unittitle>Early Chapters of a Biography, pp 44-68, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.42</container>
+						<unittitle>Early Chapters of a Biography, pp 69-87, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.43</container>
+						<unittitle>Early Chapters of a Biography, pp 88-100, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.44</container>
+						<unittitle>Early Chapters of a Biography, pp 101-105, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.45</container>
+						<unittitle>[Early Chapters of a Biography? Notes], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.46</container>
+						<unittitle>Fille de Ferme, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.47</container>
+						<unittitle>Gavin, pp 1-25, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.48</container>
+						<unittitle>Gavin, pp 26-49, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.49</container>
+						<unittitle>Histoire d’Giseaux, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.50</container>
+						<unittitle>Un Hotel Pour Animaux, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.51</container>
+						<unittitle>John Bull, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.52</container>
+						<unittitle>Lois’s Diary, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.53</container>
+						<unittitle>Nation Preconcues de la France, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.54</container>
+						<unittitle>A New Status for Overseas France, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.55</container>
+						<unittitle>A New Status for France-Overseas, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.56</container>
+						<unittitle>People Who Have Given Up Hope, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.57</container>
+						<unittitle>Un Petit Poisson, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.58</container>
+						<unittitle>Politics and Fish, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.59</container>
+						<unittitle>Portrait of a Gentleman - Last of a Line, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.60</container>
+						<unittitle>Russia: Bread, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.61</container>
+						<unittitle>Russia: The Liquidation of the "Commune", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.62</container>
+						<unittitle>Russia: Moscow: Changes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.63</container>
+						<unittitle>Russia: Picture Book, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.64</container>
+						<unittitle>Russia: Stettin, </unittitle>
+						<unitdate type="inclusive">1921</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.65</container>
+						<unittitle>Russia: Stettin, </unittitle>
+						<unitdate type="inclusive">1921</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.66</container>
+						<unittitle>Russia: A Tent on the Steppe (Despair), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.67</container>
+						<unittitle>Russia: Miscellaneous Fragments, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.68</container>
+						<unittitle>Saint Gonidec, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.69</container>
+						<unittitle>Les Singes d’Ivoire, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.70</container>
+						<unittitle>Souvenirs d’un Spéologue - Michel Bouillon, pp 1-30, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.71</container>
+						<unittitle>Souvenirs d’un Spéologue - Michel Bouillon, pp 31-60, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.72</container>
+						<unittitle>Souvenirs d’un Spéologue - Michel Bouillon, pp 61-89, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.73</container>
+						<unittitle>Souvenirs d’un Spéologue - Michel Bouillon, pp 90-110, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.74</container>
+						<unittitle>Souvenirs d’un Spéologue - Michel Bouillon, pp 70-90, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.75</container>
+						<unittitle>Souvenirs d’un Spéologue - Michel Bouillon, pp 91-110, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.76</container>
+						<unittitle>Summer in Brittany - Chapter I, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.77</container>
+						<unittitle>Tahiti: A-you: A Boy in Tahiti, pp 1-25, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.78</container>
+						<unittitle>Tahiti: A-you: A Boy in Tahiti, pp 26-37, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.79</container>
+						<unittitle>Tahiti: Beggarman – Thief, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.80</container>
+						<unittitle>Tahiti: The Covered Wagon: 1936, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.81</container>
+						<unittitle>Tahiti: Dead Islands, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.82</container>
+						<unittitle>Tahiti: Dead Islands The Giants Were Kinder, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.83</container>
+						<unittitle>Tahiti: The Giant Walks South, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.84</container>
+						<unittitle>Tahiti: The House on the Beach - Island Neighbors, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.85</container>
+						<unittitle>Tahiti: The House on the Beach - Chapter 2, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.86</container>
+						<unittitle>Tahiti: Land in the Pacific - The Giant Walks South, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.87</container>
+						<unittitle>Tahiti: Maison Close - Shutters?, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.88</container>
+						<unittitle>Tahiti: Music Under the Palms, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.89</container>
+						<unittitle>Tahiti: Papeete, Port of Call, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.90</container>
+						<unittitle>Tahiti: Peace in Tahiti, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.91</container>
+						<unittitle>Tahiti: Tahiti Remembered, pp 1-15, </unittitle>
+						<unitdate type="inclusive">[1967]</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.92</container>
+						<unittitle>Tahiti: Tahiti Remembered, pp 16-32, </unittitle>
+						<unitdate type="inclusive">[1967]</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.93</container>
+						<unittitle>Tahiti: Tahiti Story, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.94</container>
+						<unittitle>Tahiti: Tahiti - the Land, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.95</container>
+						<unittitle>Tahiti: Treasure Islanders, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.96</container>
+						<unittitle>Tahiti: The Tuamotus’ Big Holiday, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.97</container>
+						<unittitle>Tahiti: List of Illustrations for "The Tuamotus’ Big
+							Holiday", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.98</container>
+						<unittitle>Tahiti: What X and Mme Say About R, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.99</container>
+						<unittitle>Tahiti: Unidentified Typescript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.100</container>
+						<unittitle>Tahiti: Miscellaneous Fragments, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.101</container>
+						<unittitle>Tahiti: Miscellaneous Fragments, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.102</container>
+						<unittitle>The Tall Men, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.103</container>
+						<unittitle>Three Sailors, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.104</container>
+						<unittitle>Time and The Siren, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.105</container>
+						<unittitle>Top Flight, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.106</container>
+						<unittitle>Top Flight, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.107</container>
+						<unittitle>Top Flight: Notebook, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.108</container>
+						<unittitle>Wind, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.109</container>
+						<unittitle>Wind on the Acropolis, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.110</container>
+						<unittitle>Untitled Manuscript - Chapter 1, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.111</container>
+						<unittitle>Untitled Manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.112</container>
+						<unittitle>Untitled Manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.113</container>
+						<unittitle>Untitled Manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.114</container>
+						<unittitle>Untitled Manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.115</container>
+						<unittitle>Untitled Manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS, fragment)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.116</container>
+						<unittitle>Miscellaneous Notes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.4</container>
+						<unittitle>Bird Shooting in the French Pyrenees, </unittitle>
+						<unitdate type="inclusive">[1945]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.117</container>
+						<unittitle>Histoire d’Giseaux, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.5</container>
+						<unittitle>Home to Brittany, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.118</container>
+						<unittitle>Nous qui Mourrons Peut-être un Jour..., pp 1-15, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.119</container>
+						<unittitle>Nous qui Mourrons Peut-être un Jour..., pp 16-30, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.120</container>
+						<unittitle>Nous qui Mourrons Peut-être un Jour..., pp 31-46, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.121</container>
+						<unittitle>Nous qui Mourrons Peut-être un Jour..., pp 47-61, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.122</container>
+						<unittitle>Nous qui Mourrons Peut-être un Jour..., pp 62-76, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.6</container>
+						<unittitle>Nous qui Mourrons Peut-être un Jour..., pp 78-90, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.123</container>
+						<unittitle>Nous qui Mourrons Peut-être un Jour..., pp 91-100, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.7</container>
+						<unittitle>Paris Gives the Tone..., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.8</container>
+						<unittitle>People of France, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.9</container>
+						<unittitle>The Press of Paris: 1945, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.10</container>
+						<unittitle>Prise d’Armes sur les Corvettes F.N.F.L., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.11</container>
+						<unittitle>Return to Paris, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.12</container>
+						<unittitle>Trout Fishing in the French Pyrenees, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.13</container>
+						<unittitle>Untitled Manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(fragment)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>Series X. Published Manuscripts by Bergeret</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.124</container>
+						<unittitle>"Christiane," The New Yorker, </unittitle>
+						<unitdate type="inclusive">1958 Nov 29</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.125</container>
+						<unittitle>"The Pigeon Loft", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS, 19 p.)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.126</container>
+						<unittitle>"Sailor’s Wife", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS, 20 p.)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.127</container>
+						<unittitle>"So Tall A Lady," The New Yorker, </unittitle>
+						<unitdate type="inclusive">1960 Jul 20</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.128</container>
+						<unittitle>The Anchored Heart, Harcourt Brace (book jacket), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>The Anchored Heart, Harcourt Brace, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle>Series XI. Published Articles by Bergeret</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.129</container>
+						<unittitle>Another War Victim, The Nation, v. 118, no. 307, p. 738-39, </unittitle>
+						<unitdate type="inclusive">1924 Jun 25</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.130</container>
+						<unittitle>Babar: The Winged Elephant, Tomorrow, p. 32-34, </unittitle>
+						<unitdate type="inclusive">1942 Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.131</container>
+						<unittitle>Back to France, Tricolore: News of France at War, v. 4, no. 8,
+							Mar.-Apr. 1945, p. 106-127, </unittitle>
+						<unitdate type="inclusive">1945 Mar-Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.132</container>
+						<unittitle>Big Game, The New Yorker, p. 39-46, </unittitle>
+						<unitdate type="inclusive">1957 Oct 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.133</container>
+						<unittitle>Billboard on the Rue de Longchamp, The New Yorker, 1 Mar. 1941, </unittitle>
+						<unitdate type="inclusive">1941 Mar 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.134</container>
+						<unittitle>Brittany Village, Tricolore, v. 4, no. 9, p. 138-, </unittitle>
+						<unitdate type="inclusive">1945 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.135</container>
+						<unittitle>"Captain" Hildegard, The American Girl, p. 17-, </unittitle>
+						<unitdate type="inclusive">1930 Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.136</container>
+						<unittitle>China: La Dame T’ang, The Vassar Quarterly Review, v. 34, no. 3,
+							p. 428-438, </unittitle>
+						<unitdate type="inclusive">1958 Summer</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.137</container>
+						<unittitle>China: Interrogatoire de la Chine, Vu, p. 1-18, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.138</container>
+						<unittitle>China: Interrogatoire de la Chine, Vu, p. 19-27, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.139</container>
+						<unittitle>China: Interrogatoire de la Chine, Vu, p. 28-40, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.140</container>
+						<unittitle>China: Interrogatoire de la Chine, Vu, p. 41-52, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.141</container>
+						<unittitle>China: Interrogatoire de la Chine, Vu, p. 53-66, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.142</container>
+						<unittitle>China’s New Zealand, The Delphian Quarterly, p. 6-12, </unittitle>
+						<unitdate type="inclusive">1942 Oct</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.143</container>
+						<unittitle>La Civilization au Secours de la Sorcellerie, Vu, no. 158, p.
+							403-405, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.144</container>
+						<unittitle>The Clock, The New Yorker, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.145</container>
+						<unittitle>Continued Story, The Nation, p. 640-642, </unittitle>
+						<unitdate type="inclusive">1941 Dec 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.146</container>
+						<unittitle>Escape from Djibouti, The Saturday Evening Post, </unittitle>
+						<unitdate type="inclusive">1942 May 9</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.147</container>
+						<unittitle>Fear Beyond Reason, The New Yorker, p. 148-, </unittitle>
+						<unitdate type="inclusive">1955 Nov 12</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.148</container>
+						<unittitle>Fifteenth of December, The Nation, v. 136, no. 3524, p. 58-59, </unittitle>
+						<unitdate type="inclusive">1933 Jan 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.149</container>
+						<unittitle>Flash Flood, Holiday, v. 42, no. 4, p. 48-, </unittitle>
+						<unitdate type="inclusive">1967 Oct</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.150</container>
+						<unittitle>France and Germany, Friends, The Nation, v.123, no. 3208, p.
+							688-689, </unittitle>
+						<unitdate type="inclusive">1926 Dec 29</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.151</container>
+						<unittitle>France Comes Off the Bread Ration, Tricolore, v. 5, no. 4, p.
+							400+, </unittitle>
+						<unitdate type="inclusive">1945 Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.152</container>
+						<unittitle>France la Deuxième Patrie, Vogue, p. 40, 80, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.153</container>
+						<unittitle>A Free Frenchman Writes from the East, The Yale Review, p. 201-,
+							including book reviews by Treat (fragment), </unittitle>
+						<unitdate type="inclusive">[1941?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.154</container>
+						<unittitle>The French Labor Split; After the French Elections, The Nation,
+							v. 114, no. 2973, 28 June 1922, p. 783-786; v. 118, no. 3075, 11 June
+							1924, p. 673-674, </unittitle>
+						<unitdate type="inclusive">1922-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.155</container>
+						<unittitle>General de Gaulle Steps Down, The Nation, p. 194-195, </unittitle>
+						<unitdate type="inclusive">1946 Feb 16</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.156</container>
+						<unittitle>Georges Bruyere...Notre Conscience Ouvrière, unidentified
+							publication, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.157</container>
+						<unittitle>La Grotte Azilienne..., L’Anthropologie, v. 38, p. 15-, </unittitle>
+						<unitdate type="inclusive">1928</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.158</container>
+						<unittitle>The Gun in the Corner, Tomorrow, p.15-17, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.159</container>
+						<unittitle>In a French Kitchen II, Homes and Gardens, p. 49, 64, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.160</container>
+						<unittitle>Insomnia and the Black Sheik, The New Yorker, </unittitle>
+						<unitdate type="inclusive">1950 Oct 21</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.161</container>
+						<unittitle>Kassem ou la Croisiere Secrete, Vu, no. 95-97, 99-101, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.162</container>
+						<unittitle>The Legion in Paris - Is This America? The Nation, v. 125 , no.
+							3250, p. 421-422, </unittitle>
+						<unitdate type="inclusive">1927 Oct 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.163</container>
+						<unittitle>The Little Family of Labo, The Vassar Quarterly Review, v.19, no.
+							3, p. 390-402, </unittitle>
+						<unitdate type="inclusive">1943 Summer</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.164</container>
+						<unittitle>London in the Spring, The Nation, p. 629-630, </unittitle>
+						<unitdate type="inclusive">1943 May 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.165</container>
+						<unittitle>The Lorraine Cross in Scotland, Tricolore, v.4, no. 6, </unittitle>
+						<unitdate type="inclusive">1945 Jan</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.166</container>
+						<unittitle>Meeting Hitler’s Army, Harper’s Magazine, p. 472-484, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.167</container>
+						<unittitle>Meeting Mr. Saito, The Nation, p. 597-599, </unittitle>
+						<unitdate type="inclusive">1942 May 23</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.168</container>
+						<unittitle>No Obligations, The Nation, p. 256-258, </unittitle>
+						<unitdate type="inclusive">1942 Feb 28</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.169</container>
+						<unittitle>Note sur le Permien marin de Madagascar, extract from Comptes
+							rendus des seances de l’Academie des Sciences, vol. 182, p. 1092, </unittitle>
+						<unitdate type="inclusive">1926 May 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.170</container>
+						<unittitle>Nuages sur le Pacifique, parts 1-3, Vu, nos. 385-387, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.171</container>
+						<unittitle>Nuages sur le Pacifique, parts 4-6, Vu, nos. 388-390, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.172</container>
+						<unittitle>Nuages sur le Pacifique, parts 7-8, Vu, nos. 391-392, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.173</container>
+						<unittitle>Nuages sur le Pacifique, parts 9-10, Vu, no. 393-394, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.174</container>
+						<unittitle>Paris in the Morning, The Nation, p. 175-, </unittitle>
+						<unitdate type="inclusive">1946 Jan 17</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.175</container>
+						<unittitle>Paris Looks at Everyman’s House, The Nation, p. 175-, </unittitle>
+						<unitdate type="inclusive">1946 Aug 17</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.176</container>
+						<unittitle>The Pigeon Loft, The New Yorker, p. 95-, </unittitle>
+						<unitdate type="inclusive">1958 Mar 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.177</container>
+						<unittitle>Prospecting for Buried Worlds, The Nation, v. 123, no. 3203, p.
+							528 -529, </unittitle>
+						<unitdate type="inclusive">1926 Nov 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.1</container>
+						<unittitle>Reveillon in Paris, The Nation, p. 71-72, </unittitle>
+						<unitdate type="inclusive">1946 Jan 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.2</container>
+						<unittitle>Sailing Forbidden Coasts, National Geographic, v. 60, no. 3, p.
+							356-372, </unittitle>
+						<unitdate type="inclusive">1931 Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3</container>
+						<unittitle>Sailing Forbidden Coasts, National Geographic, v. 60, no. 3, p.
+							373-386, </unittitle>
+						<unitdate type="inclusive">1931 Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4</container>
+						<unittitle>Sailor’s Wife, The New Yorker, p. 301, </unittitle>
+						<unitdate type="inclusive">1957 Jan 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5</container>
+						<unittitle>So Tall a Lady, The New Yorker, p. 26-, </unittitle>
+						<unitdate type="inclusive">1960 Jul 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.6</container>
+						<unittitle>Sorcery in the Pyrenees, Travel (fragment), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.7</container>
+						<unittitle>The Third Monsieur, The New Yorker, p. 20-, </unittitle>
+						<unitdate type="inclusive">1954 Jul 31</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.8</container>
+						<unittitle>To Celebes, The New Yorker, p. 152-, </unittitle>
+						<unitdate type="inclusive">1963 Oct 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.9</container>
+						<unittitle>Watch Dogs of the High Seas, Travel, v. 80, no. 3, p. 4-, </unittitle>
+						<unitdate type="inclusive">1943 Jan</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.10</container>
+						<unittitle>When Reindeer Roamed the Pyrenees, parts I and II, Scientific
+							American, </unittitle>
+						<unitdate type="inclusive">1929 Dec, 1930 Jan</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.11</container>
+						<unittitle>Young China Plans for the Future, Travel, p. 16-, </unittitle>
+						<unitdate type="inclusive">[1936 Oct 1?]</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series12">
+				<did>
+					<unittitle>Series XII. Translations and Reviews by Bergeret</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.12</container>
+						<unittitle>"The House of Stupidity," by Alberto Savinio. Translated from
+							Italian, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle>"Homer Barchetta," by Alberto Savinio. Translated from
+							Italian, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14</container>
+						<unittitle>"My Mother Does Not Understand Me," by Alberto Savinio.
+							Translated from Italian, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(TS)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15</container>
+						<unittitle>Re: Alberto Savinio: Notes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.16</container>
+						<unittitle>Review: Behind the Urals, by John Scott, Political Science
+							Quarterly, v. 57, no. 4, p. 601-604, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series13">
+				<did>
+					<unittitle>Series XIII. Manuscripts by Others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 3.17-3.29</container>
+						<unittitle>Dorothy Treat: Report on the Geology of Boulder and Latimer
+							Counties., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.30</container>
+						<unittitle>Dorothy Treat: Story of Owls, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.31</container>
+						<unittitle>[Simone Begouen?]: Letter from North Africa
+							[Morocco?], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.32</container>
+						<unittitle>[Simone Begouen?]: Letter from North Africa
+							[Morocco?], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.33</container>
+						<unittitle>Unidentified Manuscript, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series14">
+				<did>
+					<unittitle>Series XIV. Articles by Others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.34</container>
+						<unittitle>Aven, Mark: "On the Bridge", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.35</container>
+						<unittitle>Begouen, Max: "Dessins Abstraits et Figurations en ‘Perspective
+							Tordue’", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.36</container>
+						<unittitle>Fournier, Willy: "Sauvetage", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.37</container>
+						<unittitle>Igolen, Georges: "Roses of the Dadès", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.38</container>
+						<unittitle>[Savinio, Maria?]: "Quadri ad Ago", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.39</container>
+						<unittitle>Tongue, Margaret: "Icharus and Dedalus, Walter on
+							Monday,", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.40</container>
+						<unittitle>Walker, Joseph A.: Top Flight, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.41</container>
+						<unittitle>White, E.B.: Farmer White’s Brown Eggs, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series15">
+				<did>
+					<unittitle>Series XV. Poetry by Others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.42</container>
+						<unittitle>Tongue, Margaret: Poetry, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.43</container>
+						<unittitle>Tongue, Margaret: Poetry, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.44</container>
+						<unittitle>Miscellaneous Poetry, Ballads, etc., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series16">
+				<did>
+					<unittitle>Series XVI. Articles By and About Teilhard de Chardin</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.45</container>
+						<unittitle>L’Afrique et les Origines Humaines, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.46</container>
+						<unittitle>Breuil: Le Père Teilhard et Son "Phenomene Humain", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.47</container>
+						<unittitle>Breuil, Abbe H. "Soixante ans de découvertes . . . ", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.48</container>
+						<unittitle>L’Energie Humaine, p. 1 – 17, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.49</container>
+						<unittitle>L’Energie Humaine, p. 18 – 40, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.50</container>
+						<unittitle>L’Energie Humain, p. 41 – 59, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.51</container>
+						<unittitle>L’Energie Humain, p. 60 – 69, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.52</container>
+						<unittitle>L’Humanité se muet-elle biologiquement sure
+							elle-même?, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.53</container>
+						<unittitle>Une interpretation biologique plausible de l’Histoire Humain: la
+							Formation de la "Noosphère.", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.54</container>
+						<unittitle>Introduction a la Vie Chretienne, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.55</container>
+						<unittitle>La Paléontologie et l’Apparition de l’Homme, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.56</container>
+						<unittitle>Le Pere Teilhard de Chardin, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.57</container>
+						<unittitle>Pour y Voir Clair. Réflexions sur Deux Formes Inverses
+							d’Esprit, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.58</container>
+						<unittitle>Quelques Réflexions sur la Conversation du Monde, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.59</container>
+						<unittitle>Le rebondissement humain de l’évolution et ses
+							conséquences, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.60</container>
+						<unittitle>Sauvons l’Humanité, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.61</container>
+						<unittitle>Science et Religion: Sont-elles incompatables?, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.62</container>
+						<unittitle>La Structure Phylétique du Groupe Humain, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.63</container>
+						<unittitle>La Structure Phylétique du Groupe Humain, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.64</container>
+						<unittitle>Les Unités Humaines Naturelles . . ., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.65</container>
+						<unittitle>Unidentified Typescript [Evolution], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series17">
+				<did>
+					<unittitle>Series XVII. Clippings</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.66</container>
+						<unittitle>Primitive Hearths in the Pyrenees, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.14</container>
+						<unittitle>Reviews: The Anchored Heart, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.15</container>
+						<unittitle>Reviews: In France it was Spring, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.67</container>
+						<unittitle>Reviews: Pearls, Arms, and Hashish, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.16</container>
+						<unittitle>re: André Bergeret, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.17</container>
+						<unittitle>re: Paul Vaillant-Couturier, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.18</container>
+						<unittitle>re: Paul Vaillant-Couturier, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.68</container>
+						<unittitle>re: Teilhard de Chardin, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.19</container>
+						<unittitle>Miscellaneous Clippings, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.20</container>
+						<unittitle>Miscellaneous Clippings, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.21</container>
+						<unittitle>Miscellaneous Clippings, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series18">
+				<did>
+					<unittitle>Series XVIII. Financial Papers</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.69</container>
+						<unittitle>Banque de Bretagne, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.70</container>
+						<unittitle>Banque de Bretagne, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.22</container>
+						<unittitle>Contracts, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.23</container>
+						<unittitle>Contracts, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.24</container>
+						<unittitle>Contracts: The New Yorker, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.71</container>
+						<unittitle>Royalty Statements, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series19">
+				<did>
+					<unittitle>Series XIX. World War II</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.72</container>
+						<unittitle>Cadran, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.73</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.74</container>
+						<unittitle>Documents and Miscellaneous Correspondence, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.75</container>
+						<unittitle>Invasion Diary, </unittitle>
+						<unitdate type="inclusive">1944 Jun 6 - Sep 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.76</container>
+						<unittitle>Tricolore, vol. IV, no. 6, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.77</container>
+						<unittitle>Tricolore, vol. IV, no. 8, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.78</container>
+						<unittitle>Tricolore, vol. IV, no. 9, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.79</container>
+						<unittitle>Tricolore, vol. V, no. 4, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.80</container>
+						<unittitle>Miscellaneous Notes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series20">
+				<did>
+					<unittitle>Series XX. Printed Material</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.81</container>
+						<unittitle>Archives Internationales Claude Bernard re: Philippe
+							Decourt, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.82</container>
+						<unittitle>Archives Internationales Claude Bernard re: Philippe
+							Decourt, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.83</container>
+						<unittitle>First American tour of Mei Lan-Fang, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.84</container>
+						<unittitle>Hommage à Leon Moussinac, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.85</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series21">
+				<did>
+					<unittitle>Series XXI. Diaries</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.86</container>
+						<unittitle>Diary: Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">1926</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.87</container>
+						<unittitle>Diary: Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">1943 Jan-Feb</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.88</container>
+						<unittitle>Diary: Ida Treat Bergeret, London, </unittitle>
+						<unitdate type="inclusive">1944</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.89</container>
+						<unittitle>Diary: Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">1950 Sep - Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.90</container>
+						<unittitle>Diary: Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">1953 Jun - 1957 Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.91</container>
+						<unittitle>Diary: Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">1953-1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.92</container>
+						<unittitle>Diary: Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">1954-1958</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.93</container>
+						<unittitle>Diary: Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">circa 1977 Jun - Aug</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.94</container>
+						<unittitle>Diary (?): notes, Ida Treat Bergeret "Mes lettres à Paul", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.95</container>
+						<unittitle>Diary: Dorothy Treat, </unittitle>
+						<unitdate type="inclusive">1961 Feb - Mar</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series22">
+				<did>
+					<unittitle>Series XXII. Biographical: Ida Treat Bergeret</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.96</container>
+						<unittitle>Autobiographical, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.97</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.98</container>
+						<unittitle>Obituary, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.99</container>
+						<unittitle>Résumé, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.100</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.101</container>
+						<unittitle>Trips, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.102</container>
+						<unittitle>Trips, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.103</container>
+						<unittitle>Trips: notes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series23">
+				<did>
+					<unittitle>Series XXIII. Drawings</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.1</container>
+						<unittitle>Drawing by B. Palencio for Ida Treat, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.2</container>
+						<unittitle>Facsimile of drawing: "La Mère de Paul sur son . . .
+							", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.3</container>
+						<unittitle>Drawings: "Primitive Hearths in the Pyrenees", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.4</container>
+						<unittitle>Drawings: "Primitive Hearths in the Pyrenees", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[see also box 24, folder 468]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series24">
+				<did>
+					<unittitle>Series XXIV. Photographs and Scrapbooks</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.5</container>
+						<unittitle>André Bergeret, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.6</container>
+						<unittitle>Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.7</container>
+						<unittitle>Ida Treat Bergeret, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.8</container>
+						<unittitle>Paul Vaillant-Couturier, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.9</container>
+						<unittitle>Paul Vaillant-Couturier, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.10</container>
+						<unittitle>Pére Teilhard de Chardin, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.11</container>
+						<unittitle>Treat Family, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.12</container>
+						<unittitle>Treat Family, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.13</container>
+						<unittitle>Treat Family, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.14</container>
+						<unittitle>Treat Family, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.15</container>
+						<unittitle>Treat Family, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.16</container>
+						<unittitle>Bouillon, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.17</container>
+						<unittitle>Bouillon, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.18</container>
+						<unittitle>China, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.19</container>
+						<unittitle>Djibouti, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.20</container>
+						<unittitle>[Early Chapters of a Biography], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.21</container>
+						<unittitle>"Primitive Hearths in the Pyrenees", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.22</container>
+						<unittitle>World War II [unidentified individuals], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.23</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.24</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.25</container>
+						<unittitle>Five (5) Tintypes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.1</container>
+						<unittitle>Two (2) watercolors by Paul Vaillant-Couturier, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>One (1) photograph album, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Two (2) scrapbooks, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+
+		</dsc>
+	</archdesc>
+</ead>

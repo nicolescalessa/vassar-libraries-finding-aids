@@ -1,0 +1,2714 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_artistic_autographs</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Artistic Autographs Collection, 1800-1869</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>2 Feb 2009</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>12 Feb 2009</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245">Artistic Autographs Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1800-1869 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">2.1 cubic feet (7 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">A set of correpondence to and from various artists, art collectors and art dealers. Correspondents include Elias Magoon and John Britton. </abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>A set of correpondence to and from various artists, art collectors and art dealers. Correspondents include Elias Magoon and John Britton. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="700">Magoon, Elias Lyman</persname>
+				<persname source="lcnaf" encodinganalog="700">Britton, John, 1771-1857</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Artists--Autographs</subject>
+				<subject source="lcsh" encodinganalog="650">Artists--19th century</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">autographs (manuscripts)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Art and Artists </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 12 Feb 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>The collection was originally housed in 4 volumes. The collection was removed from those volumes at an unknown time, but probably ca. 1985-1998.</p>
+			<p>Container list compiled by Jared Berenholz, 2 Feb 2009.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>This collection may have been acquired by the Vassar College in conjunction with the Magoon art collection, now housed at the Frances Lehman Loeb Art Center.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Artistic Autographs, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container> 1.1 </container>
+					<unittitle> Eginton, H. to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 7 July 1835 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.2 </container>
+					<unittitle> Britton, John to Eginton, H.,</unittitle>
+					<unitdate type="inclusive"> 28 Jan [1835?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.3 </container>
+					<unittitle> Eaton, Thomas to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 9 Feb 1822 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.4 </container>
+					<unittitle> Eaton, Thomas to [Britton, John],</unittitle>
+					<unitdate type="inclusive"> 2 Mar 1822 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.5 </container>
+					<unittitle> Eaton, Thomas to [Britton, John],</unittitle>
+					<unitdate type="inclusive"> 10 Mar 1823 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.6 </container>
+					<unittitle> Millers, G. [Rev.] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 13 July 1806 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.7 </container>
+					<unittitle> Soane, George to Britton, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.8 </container>
+					<unittitle> Soane, Geo[rge] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.9 </container>
+					<unittitle> Bedford, Dr. to "Sir,"</unittitle>
+					<unitdate type="inclusive"> 5 June 1804 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.10 </container>
+					<unittitle> "To Mr. Britton,"</unittitle>
+					<unitdate type="inclusive"> 29 May n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.11 </container>
+					<unittitle> Children, J[ohn] G[eorge] to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 21 Apr 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.12 </container>
+					<unittitle> Nichols, John Bowyer to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 21 Apr 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.13 </container>
+					<unittitle> Britton, John to Donaldson, H.,</unittitle>
+					<unitdate type="inclusive"> 6 Mar 1837 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.14 </container>
+					<unittitle> [letter],</unittitle>
+					<unitdate type="inclusive"> 2 Oct 1838 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.15 </container>
+					<unittitle> Willson, Edward James,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.16 </container>
+					<unittitle> Windows,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.17 </container>
+					<unittitle> Baptisteries,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.18 </container>
+					<unittitle> [Bridges],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.19 </container>
+					<unittitle> [Jerusalem, The Church of the Holy Sepulcher, Reference to Plan],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.20 </container>
+					<unittitle> [Towers],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.21 </container>
+					<unittitle> [France to Germany],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.22 </container>
+					<unittitle> Soane, John to Britton, John and Mr. Wrightwich ,</unittitle>
+					<unitdate type="inclusive"> Dec 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.23 </container>
+					<unittitle> Snow, W. "Reminiscence of the Soane portrait,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.24 </container>
+					<unittitle> [London Bridge],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.25 </container>
+					<unittitle> Soane, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.26 </container>
+					<unittitle> [?],</unittitle>
+					<unitdate type="inclusive"> 9 Jan [18?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.27 </container>
+					<unittitle> [Letter],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.28 </container>
+					<unittitle> Walford, Thomas to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 18 Nov 1818 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.29 </container>
+					<unittitle> Extract from the Vestry Book, Cirencester, 1671 ,</unittitle>
+					<unitdate type="inclusive"> 1671 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.30 </container>
+					<unittitle> Anecdotes of the late Sir John Soane,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.31 </container>
+					<unittitle> Nisard. Histoire et description . . . Nimes,</unittitle>
+					<unitdate type="inclusive"> 1835 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.32 </container>
+					<unittitle> Notice historique sure Notre to Dame de Paris,</unittitle>
+					<unitdate type="inclusive"> 1836 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.33 </container>
+					<unittitle> Soane, John. A statement of the facts…,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.34 </container>
+					<unittitle> Grose, Francis [transcripts of his letters to various people],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.35 </container>
+					<unittitle> Doors,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.36 </container>
+					<unittitle> Soane, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.37 </container>
+					<unittitle> [letter],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.38 </container>
+					<unittitle> [From Tour in Germany by John Russell...],</unittitle>
+					<unitdate type="inclusive"> 1824 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.39 </container>
+					<unittitle> Britton, John. "Saints &amp; Sinners" to Soane, John ,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.40 </container>
+					<unittitle> Bridges,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.41 </container>
+					<unittitle> Porches,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.42 </container>
+					<unittitle> Britton, John. "On Porches" to paper for Architect’s Institute,</unittitle>
+					<unitdate type="inclusive"> 12 June 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.43 </container>
+					<unittitle> [document to Portico],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.44 </container>
+					<unittitle> ["order of toasts"],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.45 </container>
+					<unittitle> Soane’s Museum ; Soane to Britton, Dec. 2, 1825 ; Desc. Of Church at E. Dereham,</unittitle>
+					<unitdate type="inclusive"> 2 Dec 1825 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.1 </container>
+					<unittitle> Fry, William Thomas to "Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.2 </container>
+					<unittitle> Burton, Decimus to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 4 June 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.3 </container>
+					<unittitle> Knight, William [Henry?] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.4 </container>
+					<unittitle> Blenham, Matthew Holbecke to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 17 Feb 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.5 </container>
+					<unittitle> Cobett, William to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.6 </container>
+					<unittitle> Repton, John Adey to Ellis, Henry,</unittitle>
+					<unitdate type="inclusive"> [1827] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.7 </container>
+					<unittitle> Goldicutt, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 22 Apr 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.8 </container>
+					<unittitle> Wightwick, George to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 25 May 1827 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.9 </container>
+					<unittitle> Soane, John to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 15 Oct 1809 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.10 </container>
+					<unittitle> Soane, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.11 </container>
+					<unittitle> Soane, George to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 5 Aug 1838 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.12 </container>
+					<unittitle> Smith, Sally to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 19 Jan 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.13 </container>
+					<unittitle> Re: Soane,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.14 </container>
+					<unittitle> Welch, R. to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 20 Apr 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.15 </container>
+					<unittitle> Turner, Charles to Soane, John,</unittitle>
+					<unitdate type="inclusive"> 16 Feb 1833 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.16 </container>
+					<unittitle> Soane, John to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 31 July 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.17 </container>
+					<unittitle> Soane, John to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.18 </container>
+					<unittitle> Soane, John to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.19 </container>
+					<unittitle> Soane, John to [Brown?],</unittitle>
+					<unitdate type="inclusive"> 10 Jan 1832 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.20 </container>
+					<unittitle> Soane, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 16 Feb 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.21 </container>
+					<unittitle> Soane, John to "My Dear Friends,"</unittitle>
+					<unitdate type="inclusive"> 12 Sept 1826 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.22 </container>
+					<unittitle> Soane, John to [Britton, John],</unittitle>
+					<unitdate type="inclusive"> 28 Dec 1822 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.23 </container>
+					<unittitle> Willson, James to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 18 Dec 1812 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.24 </container>
+					<unittitle> Soane, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> July 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.25 </container>
+					<unittitle> Soane, John to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 6 Apr [1804?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.26 </container>
+					<unittitle> Soane, John to [Britton, John],</unittitle>
+					<unitdate type="inclusive"> 9 Apr 1817 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.27 </container>
+					<unittitle> Soane, George to Britton, John,</unittitle>
+					<unitdate type="inclusive"> [1837] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.28 </container>
+					<unittitle> Taylor, James to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 20 Sept 1831 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.29 </container>
+					<unittitle> Soane, John to [Britton, John],</unittitle>
+					<unitdate type="inclusive"> Apr 1827 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.30 </container>
+					<unittitle> Soane, John to [Comm?], P.C.,</unittitle>
+					<unitdate type="inclusive"> 1 Dec [1800?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.31 </container>
+					<unittitle> Soane, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.32 </container>
+					<unittitle> Knight, William [Henry?] to [Britton, John],</unittitle>
+					<unitdate type="inclusive"> Oct 1827 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.33 </container>
+					<unittitle> [letter],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.34 </container>
+					<unittitle> Burton, James to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 21 June [1825?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.35 </container>
+					<unittitle> Material between letters 46 &amp; 47,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.1 </container>
+					<unittitle> Stuart, Dudley Coults to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 2 Jan 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.2 </container>
+					<unittitle> Croly, George to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 16 Mar 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.3 </container>
+					<unittitle> Dale, Thomas to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 7 May 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.4 </container>
+					<unittitle> Grey, Earl to Stuart, Lord Dudley,</unittitle>
+					<unitdate type="inclusive"> 31 Dec 1869 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.5 </container>
+					<unittitle> Raddon, William to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 31 Oct 1836 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.6 </container>
+					<unittitle> Harding, James Duffield to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 27 June 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.7 </container>
+					<unittitle> Frith, William Powell to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 3 Dec 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.8 </container>
+					<unittitle> De la Motte, Phillip Henry to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 4 Dec 1849 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.9 </container>
+					<unittitle> Ward, Thomas to Wagstaff,</unittitle>
+					<unitdate type="inclusive"> 22 June 1849 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.10 </container>
+					<unittitle> Lance, George to "My Dear Friend,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.11 </container>
+					<unittitle> Clint, George to Wagstaff, Cornelius,</unittitle>
+					<unitdate type="inclusive"> 22 Jan 1837 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.12 </container>
+					<unittitle> Allen, James Baylis to Wagstaff, Mr.,</unittitle>
+					<unitdate type="inclusive"> 28 June 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.13 </container>
+					<unittitle> Haydon, Benjamin R. to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 26 July 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.14 </container>
+					<unittitle> Carew, John E. to The Committee at Manchester,</unittitle>
+					<unitdate type="inclusive"> 20 Jan 1837 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.15 </container>
+					<unittitle> Humphreys, William to Wagstaff, Charles E.,</unittitle>
+					<unitdate type="inclusive"> 16 Feb 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.16 </container>
+					<unittitle> Russell, Lord William to Wagstaff, Mr.,</unittitle>
+					<unitdate type="inclusive"> 16 Apr 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.17 </container>
+					<unittitle> Biard to Monsieur,</unittitle>
+					<unitdate type="inclusive"> 29 May 1827 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.18 </container>
+					<unittitle> Duncan, Edward to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 27 June 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.19 </container>
+					<unittitle> Hussey, Richard Charles to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 11 Nov 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.20 </container>
+					<unittitle> Bone, C.R. to "Sir,"</unittitle>
+					<unitdate type="inclusive"> 27 June 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.21 </container>
+					<unittitle> Donaldson, to Wagstaff, Mrs.,</unittitle>
+					<unitdate type="inclusive"> 25 Feb 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.22 </container>
+					<unittitle> Clint, Alfred to Wagstaff,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.23 </container>
+					<unittitle> Bacon, Frederick to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.24 </container>
+					<unittitle> Brandard, John to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 26 June 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.25 </container>
+					<unittitle> Pye, John to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.26 </container>
+					<unittitle> Hayter, George to Graves, N,</unittitle>
+					<unitdate type="inclusive"> 6 Nov 1844 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.27 </container>
+					<unittitle> Burford, Robert to Wagstaffe, G.G.,</unittitle>
+					<unitdate type="inclusive"> 1 July 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.28 </container>
+					<unittitle> Watt, James Henry to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.29 </container>
+					<unittitle> Inskipp, James to Wagstaff,</unittitle>
+					<unitdate type="inclusive"> 9 Jan 1835 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.30 </container>
+					<unittitle> Parris, Edmond Thomas to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> [24 Dec 1849?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.31 </container>
+					<unittitle> Duncan, Thomas to Wagstaff, Mr.,</unittitle>
+					<unitdate type="inclusive"> 17 Mar 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.32 </container>
+					<unittitle> Lupton, Thomas to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 28 Sept 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.33 </container>
+					<unittitle> Phillips, Thomas to Wagstaff, E.,</unittitle>
+					<unitdate type="inclusive"> 21 June 1837 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.34 </container>
+					<unittitle> Fairland, Thomas to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 27 Feb 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.35 </container>
+					<unittitle> Pickersgill, Henry Hall to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 13 Oct 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.36 </container>
+					<unittitle> Brockedon, William to [?],</unittitle>
+					<unitdate type="inclusive"> 22 Mar 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.37 </container>
+					<unittitle> Bartholomew, Valentine to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 28 June 1850 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.38 </container>
+					<unittitle> Neiman [N.?] to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 1849 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.39 </container>
+					<unittitle> Leslie, Charles Robert to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 20 Mar n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.40 </container>
+					<unittitle> Green, Benjamin Richard to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 3 Nov 1848 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.41 </container>
+					<unittitle> Phillips, Thomas to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 27 May 1841 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.42 </container>
+					<unittitle> Mulready, William, Jr. to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 16 June n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.43 </container>
+					<unittitle> Collins, William to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.44 </container>
+					<unittitle> Lawrence, Thomas to [?],</unittitle>
+					<unitdate type="inclusive"> 24 July 1828 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.45 </container>
+					<unittitle> Ritchie, L to Wagstaffe, Mrs.,</unittitle>
+					<unitdate type="inclusive"> 6 May n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.46 </container>
+					<unittitle> Woodman, Richard to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> 30 Dec 1845 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.47 </container>
+					<unittitle> Roberts, David to Wagstaff, C. E.,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.48 </container>
+					<unittitle> Stanfield, Clarkson to "Gentlemen,"</unittitle>
+					<unitdate type="inclusive"> 23 Jan 1844 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.49 </container>
+					<unittitle> Heath, Charles to John Britton [?],</unittitle>
+					<unitdate type="inclusive"> 9 July 1844 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.50 </container>
+					<unittitle> Wild, James William to [?],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.51 </container>
+					<unittitle> Smirke, Sydney to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 28 Apr 1848 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.52 </container>
+					<unittitle> D’Orsay, Count to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 25 Nov 1848 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.53 </container>
+					<unittitle> Sharpe, Edmund to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 22 May 1848 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.54 </container>
+					<unittitle> Le Keux, Henry to "Dear John,"</unittitle>
+					<unitdate type="inclusive"> 29 Feb 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.55 </container>
+					<unittitle> Le Keux, Henry to "My Dear John,"</unittitle>
+					<unitdate type="inclusive"> 27 Apr 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.56 </container>
+					<unittitle> Parker, John Henry to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 10 Apr 1848 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.57 </container>
+					<unittitle> Billings, Robert William to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 11 Sept 1848 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.58 </container>
+					<unittitle> Bliss, Dr. Philip to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 20 Nov 1854 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.59 </container>
+					<unittitle> Jones, Henry Longueville to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 7 Jan 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.60 </container>
+					<unittitle> Chesney, Francis Rawdon to Le Keux, J,</unittitle>
+					<unitdate type="inclusive"> 6 June 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.61 </container>
+					<unittitle> Smirke, Robert to "Sir,"</unittitle>
+					<unitdate type="inclusive"> 25 Aug 1828 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 3.62 </container>
+					<unittitle> Corbould, Henry to Le Keux, Mr.,</unittitle>
+					<unitdate type="inclusive"> 1 June n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.1 </container>
+					<unittitle> Wright, Thomas to Le Keux, J.H.,</unittitle>
+					<unitdate type="inclusive"> 19 May n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.2 </container>
+					<unittitle> Le Keux, John Sr. to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 31 Aug 1844 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.3 </container>
+					<unittitle> [?] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.4 </container>
+					<unittitle> [?],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.5 </container>
+					<unittitle> Roberts, David to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 14 May 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.6 </container>
+					<unittitle> Foggo, George to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 21 Mar 1838 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.7 </container>
+					<unittitle> Masquerier, J[ohn] J[ames] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 12 Dec 1836 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.8 </container>
+					<unittitle> Ward, F. O. to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 16 Oct 1845 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.9 </container>
+					<unittitle> Nash, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 20 Feb 1819 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.10 </container>
+					<unittitle> Ross, W[illiam] C[harles] to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 8 Oct 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.11 </container>
+					<unittitle> Allom, T[homas] to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 20 Mar 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.12 </container>
+					<unittitle> Wightwick, George to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 6 Apr 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.13 </container>
+					<unittitle> Pickersgill, H[enry] W[illiam],</unittitle>
+					<unitdate type="inclusive"> 13 July 1831 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.14 </container>
+					<unittitle> Hosking, Wm. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 16 June 1835 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.15 </container>
+					<unittitle> Parris, Edmond Thomas to John Britton,</unittitle>
+					<unitdate type="inclusive"> 30 Dec n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.16 </container>
+					<unittitle> Harding, J[ames] D[uffield],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.17 </container>
+					<unittitle> Higham, Thomas to "Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.18 </container>
+					<unittitle> Heath, C[harles] to Britton, John [?],</unittitle>
+					<unitdate type="inclusive"> [30 May 1834 ?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.19 </container>
+					<unittitle> Radclyffe, W[illiam] to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 23 [Dec 18?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.20 </container>
+					<unittitle> Noble, Samuel to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 14 Nov 1828 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.21 </container>
+					<unittitle> Sands, R. to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.22 </container>
+					<unittitle> Britton, John to [Ansted, Henry?],</unittitle>
+					<unitdate type="inclusive"> 5 July 1823 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.23 </container>
+					<unittitle> Robinson, G.W. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 27 June 1827 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.24 </container>
+					<unittitle> Rickman, J[ohn] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 1 [or 12?] Feb 1836 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.25 </container>
+					<unittitle> Pye, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 28 May 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.26 </container>
+					<unittitle> Finden, W[illiam] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 15 Oct 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.27 </container>
+					<unittitle> Bury, [Lady] Charlotte [Susan] Maria to Mr. Moyes [James?] ,</unittitle>
+					<unitdate type="inclusive"> 28 June 1833 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.28 </container>
+					<unittitle> De La Warr, Earl to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 7 June 1836 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.29 </container>
+					<unittitle> Northampton, Marquis of to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 26 Aug 1841 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.30 </container>
+					<unittitle> Courtenay, Earl to [Crary, Esq.],</unittitle>
+					<unitdate type="inclusive"> 6 July 1801 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.31 </container>
+					<unittitle> McLellan, Archibald to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 16 Apr 1835 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.32 </container>
+					<unittitle> Hall, [J.I.?] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 12 Sept 1854 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.33 </container>
+					<unittitle> Johnson, D.L. [Miss] to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 21 Nov 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.34 </container>
+					<unittitle> Adamson, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 13 Nov. 1841 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.35 </container>
+					<unittitle> Brockedon, William to Moyes, James,</unittitle>
+					<unitdate type="inclusive"> 13 June 1828 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.36 </container>
+					<unittitle> Bliss, Dr. Philip to Mr. Moyes [James?],</unittitle>
+					<unitdate type="inclusive"> 1 Nov 1827 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.37 </container>
+					<unittitle> Galt, John to Mr. Moyes [James],</unittitle>
+					<unitdate type="inclusive"> 22 July 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.38 </container>
+					<unittitle> Johnston, Alexander, Jr. to Moyes, James,</unittitle>
+					<unitdate type="inclusive"> 22 Dec 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.39 </container>
+					<unittitle> Leach, J. (Col.) to Moyes, James,</unittitle>
+					<unitdate type="inclusive"> 30 Oct 1831 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.40 </container>
+					<unittitle> Leigh, S. to Moyes, James,</unittitle>
+					<unitdate type="inclusive"> 20 Nov 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.41 </container>
+					<unittitle> Lamb, Henry to Moyes, James,</unittitle>
+					<unitdate type="inclusive"> 10 Mar 1815 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.42 </container>
+					<unittitle> Raffles, [Rev. Dr.] Thomas to Moyes, James,</unittitle>
+					<unitdate type="inclusive"> 30 June 1830 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.43 </container>
+					<unittitle> Lee, Samuel [Rev. Dr.] to Moyes, James,</unittitle>
+					<unitdate type="inclusive"> 17 Jan 1837 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.44 </container>
+					<unittitle> Lee, Sara to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 14 Nov 1837 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.45 </container>
+					<unittitle> Soane, John to Moyes, W.,</unittitle>
+					<unitdate type="inclusive"> 15 Sept 1832 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.46 </container>
+					<unittitle> Ainsworth, William Harrison to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 23 Mar 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.47 </container>
+					<unittitle> Yates, James to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 26 Oct 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.48 </container>
+					<unittitle> Martineau, Joseph to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 11 June n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.49 </container>
+					<unittitle> Moffatt, W.B. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 16 Sept 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.50 </container>
+					<unittitle> Cunningham, Peter to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 29 June 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.51 </container>
+					<unittitle> Brooke, Arthur to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 6 June 1830 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.52 </container>
+					<unittitle> Boswortth, James to Gould, N.,</unittitle>
+					<unitdate type="inclusive"> 19 Nov 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.53 </container>
+					<unittitle> Moffatt, John to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 11 Nov 1826 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.54 </container>
+					<unittitle> Maunder, Samuel to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 3 Oct 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.55 </container>
+					<unittitle> Mackintosh, R.D. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 7 Feb 1835 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.56 </container>
+					<unittitle> Malkin, Benjamin Heath to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 5 Feb 1826 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 4.57 </container>
+					<unittitle> Mudford, William to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 7 Mar 1821 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.1 </container>
+					<unittitle> Mudford, William to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 23 Mar n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.2 </container>
+					<unittitle> Murdoch, Menardes to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 10 Oct 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.3 </container>
+					<unittitle> Moseley, W.M. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 23 Jan 1813 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.4 </container>
+					<unittitle> Monteith, William to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 1 Apr n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.5 </container>
+					<unittitle> Noble, J. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 9 Mar1814 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.6 </container>
+					<unittitle> Nicholson, Alexander to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 2 July 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.7 </container>
+					<unittitle> Nichols, John Bowyer to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 20 May 1844 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.8 </container>
+					<unittitle> Burges, A. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 5 May 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.9 </container>
+					<unittitle> Rhodes, Ebenezer to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 25 Apr 1822 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.10 </container>
+					<unittitle> Moon, Francis Graham to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 6 Jan 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.11 </container>
+					<unittitle> Munder, Thomas to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 19 Jan 1838 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.12 </container>
+					<unittitle> Miller, Thomas to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 17 Dec 1838 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.13 </container>
+					<unittitle> Carter, J. to "Honoured Sir,"</unittitle>
+					<unitdate type="inclusive"> 30 Dec. 1845 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.14 </container>
+					<unittitle> Croker, Thomas Crofton, "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 27 July 1838 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.15 </container>
+					<unittitle> Blewitt, Octavian to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 4 Mar 1840 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.16 </container>
+					<unittitle> Neeld, Joseph to "dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 10 Feb 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.17 </container>
+					<unittitle> Kemp, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 14 Mar 1840 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.18 </container>
+					<unittitle> Holmes, John to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 27 Nov 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.19 </container>
+					<unittitle> Kendall, Edward Augustus to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 6 Apr 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.20 </container>
+					<unittitle> Christie, James to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 9 May 1822 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.21 </container>
+					<unittitle> Bray, Anna Elizabeth to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 11 June 1849 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.22 </container>
+					<unittitle> Brown, Thomas to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 6 May 1840 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.23 </container>
+					<unittitle> Alexander, G. to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 1 July 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.24 </container>
+					<unittitle> Meyrick, Samuel Rush to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 28 Aug 1812 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.25 </container>
+					<unittitle> Akerman, John Yonge to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 10 May 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.26 </container>
+					<unittitle> Hobhouse, Benjamin to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 13 May 1819 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.27 </container>
+					<unittitle> Mavor, William Fordyce to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 9 June 1808 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.28 </container>
+					<unittitle> Mantell, Gideon [Algernon] to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 18 Jan 1834 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.29 </container>
+					<unittitle> Sharp, Daniel to Cox, Rev. F. A.,</unittitle>
+					<unitdate type="inclusive"> 25 Apr 1844 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.30 </container>
+					<unittitle> Choate, Rufus to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 5 Dec 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.31 </container>
+					<unittitle> Story, Joseph to Griggs, George,</unittitle>
+					<unitdate type="inclusive"> 23 Apr 1840 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.32 </container>
+					<unittitle> White, George H. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 28 Apr 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.33 </container>
+					<unittitle> Webster, Fletcher to Everett, Edward,</unittitle>
+					<unitdate type="inclusive"> 31 May 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.34 </container>
+					<unittitle> Périn, [Alphonse?] to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 22 Aug 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.35 </container>
+					<unittitle> Avery, Samuel Putnam to "My Dear Sir" [Elias Magoon?] ,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.36 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 27 Apr n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.37 </container>
+					<unittitle> Beaumont, Georgine de to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 10 Dec 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.38 </container>
+					<unittitle> Everett, Edward to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 31 May 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.39 </container>
+					<unittitle> Collins, R. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 11 Dec 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.40 </container>
+					<unittitle> Everett, Edward to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 30 May 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.41 </container>
+					<unittitle> Petit, John Louis to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 27 Feb 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.42 </container>
+					<unittitle> Britton, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 9 Nov 1855 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.43 </container>
+					<unittitle> Everett, Edward to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 22 Nov 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.44 </container>
+					<unittitle> Everett, Edward to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 23 Nov 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.46 </container>
+					<unittitle> Lockwood, Rembrandt to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 4 Dec 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.47 </container>
+					<unittitle> Wyld, William to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 14 Aug 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.48 </container>
+					<unittitle> Gifford, Sanford Robinson,</unittitle>
+					<unitdate type="inclusive"> 9 Apr 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.49 </container>
+					<unittitle> Périn, [Alphonse?] to "Cher Monsieur,"</unittitle>
+					<unitdate type="inclusive"> 10 Nov 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.50 </container>
+					<unittitle> Wyld to William to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 11 Sept 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.51 </container>
+					<unittitle> Weir, Robert Walter to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 17 Mar 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.53 </container>
+					<unittitle> White, Edwin to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> [1856] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.54 </container>
+					<unittitle> Chappel, Alonzo to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 19 Nov 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.55 </container>
+					<unittitle> Mount, William Sidney to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 6 Apr 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 5.56 </container>
+					<unittitle> Shattuck, Aaron Draper to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 7 Mar 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.1 </container>
+					<unittitle> Wickes, P to Le Keux, J,</unittitle>
+					<unitdate type="inclusive"> 20 Aug n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.2 </container>
+					<unittitle> Le Keux, J. H. to Magoon, Elias J.,</unittitle>
+					<unitdate type="inclusive"> 9 Nov 1855 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.3 </container>
+					<unittitle> Smyth, William Henry –"My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 6 June 1842 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.4 </container>
+					<unittitle> Viney, James to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 19 Nov 1826 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.5 </container>
+					<unittitle> Merridew, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 3 Feb 1831 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.6 </container>
+					<unittitle> Markland, James Heywood to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 26 Dec 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.7 </container>
+					<unittitle> Mears, Thomas to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.8 </container>
+					<unittitle> Currer, Frances Mary Richardson to "Sir,"</unittitle>
+					<unitdate type="inclusive"> 7 Dec 1808 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.9 </container>
+					<unittitle> Jackson, Thomas to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 5 May 1867 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.10 </container>
+					<unittitle> Layton, William to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 10 Feb 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.11 </container>
+					<unittitle> Cresy, Edward to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 16 July 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.12 </container>
+					<unittitle> Coll, Henry to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 4 Nov 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.13 </container>
+					<unittitle> Fell [Fels?], Edward to "My dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.14 </container>
+					<unittitle> Grellier, William to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 24 Nov 1840 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.15 </container>
+					<unittitle> Shield, William to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 13 May 1823 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.16 </container>
+					<unittitle> Landon, W to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 7 Nov 1838 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.17 </container>
+					<unittitle> Gasper, D to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 24 Nov 1836 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.18 </container>
+					<unittitle> Anonymous [Trundens?] to Britton, J,</unittitle>
+					<unitdate type="inclusive"> 16 Feb 1818 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.19 </container>
+					<unittitle> Goldicutt, John to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 6 Feb 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.20 </container>
+					<unittitle> Blakeway, John Brickdale to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 8 Aug 1814 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.21 </container>
+					<unittitle> Burney, Charles Parr to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 18 May 1806 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.22 </container>
+					<unittitle> Cartwright, Edmund to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 24 Apr 1830 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.23 </container>
+					<unittitle> Cliffe, C.F. to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 14 Sept 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.24 </container>
+					<unittitle> Godwin, William to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 28 Nov 1828 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.25 </container>
+					<unittitle> King, Edward [?] to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 13 Feb 1801 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.26 </container>
+					<unittitle> Malcolm, J. P. to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.27 </container>
+					<unittitle> Morice, J to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 26 June 1841 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.28 </container>
+					<unittitle> Nares, Robert to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 11 Mar 1811 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.29 </container>
+					<unittitle> Miller, W to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 3 Jan 1841 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.30 </container>
+					<unittitle> Man [or Marr?], John to Brayley and Britton,</unittitle>
+					<unitdate type="inclusive"> 8 Oct 1804 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.31 </container>
+					<unittitle> Hoare, P to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 31 Jan 1802 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.32 </container>
+					<unittitle> Hughes, John to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 26 Mar 1821 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.33 </container>
+					<unittitle> Taylor, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 10 Sept 1812 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.34 </container>
+					<unittitle> Ormerod, George to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> [7 May 1835?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.35 </container>
+					<unittitle> Upham, Edward to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 1 May </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.36 </container>
+					<unittitle> Omerod, George to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 20 Apr 1807 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.37 </container>
+					<unittitle> Vincent, William to "Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.38 </container>
+					<unittitle> Vivian, George to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 3 June 1847 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.39 </container>
+					<unittitle> Wyse, Thomas to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 17 Jan 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.40 </container>
+					<unittitle> Yarrell, William to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 8 Sept 1854 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.41 </container>
+					<unittitle> Palarowe [?] Francis to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.42 </container>
+					<unittitle> Edmonds, Richard Jr. to [?],</unittitle>
+					<unitdate type="inclusive"> 11 Apr 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.43 </container>
+					<unittitle> Wellbeloved, Charles to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 16 Feb 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.44 </container>
+					<unittitle> Delamotte, P.H. [?] to Le Keux, J. H.,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.45 </container>
+					<unittitle> Virtue, George to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 20 Nov 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.46 </container>
+					<unittitle> Bidder, George Parker to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 8 August 1839 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.47 </container>
+					<unittitle> Walker, Ellen Loveday to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 10 Mar 1828 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.48 </container>
+					<unittitle> Peel, Robert to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 2 Dec n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.49 </container>
+					<unittitle> Vigors, Nicholas Aylward to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 1 July 1829 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.50 </container>
+					<unittitle> Lockhart, John Gibson to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 25 July 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.51 </container>
+					<unittitle> Willson, Edward James to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 22 Feb 1813 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.52 </container>
+					<unittitle> Mullen, J to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 22 May 1846 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.53 </container>
+					<unittitle> Nichols, John Gough to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 9 July 1833 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.54 </container>
+					<unittitle> Prouis, John to Britton, John,</unittitle>
+					<unitdate type="inclusive"> 5 Nov 1824 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.55 </container>
+					<unittitle> Boone, W to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.56 </container>
+					<unittitle> Parden, C.F. to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 8 Sept 1817 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.57 </container>
+					<unittitle> Crawford, Louisa M.J.M. to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 10 Aug 1843 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.58 </container>
+					<unittitle> Watts, Susanna to "Sir,"</unittitle>
+					<unitdate type="inclusive"> 8 May 1807 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.59 </container>
+					<unittitle> Haggard, William Henry to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 17 May 1820 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 6.60 </container>
+					<unittitle> La Vosperne to Britton, J[ohn],</unittitle>
+					<unitdate type="inclusive"> 6 Dec 1819 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.1 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 9 May 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.2 </container>
+					<unittitle> Everett, Edward to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 30 May 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.3 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 5 May 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.4 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 3 Sept 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.5 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 4 Sept 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.6 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 10 Nov 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.7 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 7 Jan 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.8 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 26 Feb 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.9 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 8 May 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.10 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 2 July 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.11 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 10 Sept 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.12 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 5 Jan 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.13 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 6 Apr 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.14 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 31 Dec 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.15 </container>
+					<unittitle> Le Keux, J[ohn] H[enry] to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 12 Jan 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.16 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 25 Jan 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.17 </container>
+					<unittitle> Le Keux, John Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 16 Mar 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.18 </container>
+					<unittitle> Le Keux, John henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 12 Oct 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.19 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 15 July 1855 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.20 </container>
+					<unittitle> Ruskin, J[ohn] to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 17 Jan n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.21 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 8 Oct n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.22 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 14 May n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.23 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 5 Feb n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.24 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 21 Apr 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.25 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 25 Sept 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.26 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 15 Dec 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.27 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 9 Oct n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.28 </container>
+					<unittitle> Ruskin, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 15 Nov 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.29 </container>
+					<unittitle> White, George H. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 18 July 1856 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.30 </container>
+					<unittitle> White, George H. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 3 Sept 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.31 </container>
+					<unittitle> White, George H. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 26 Feb 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.32 </container>
+					<unittitle> White, George H to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 12 Aug 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.33 </container>
+					<unittitle> White, George H. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 9 Sept 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.34 </container>
+					<unittitle> Page, Julius to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 23 Jan 1857 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.35 </container>
+					<unittitle> Buckley, J.E. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 17 May 1855 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.36 </container>
+					<unittitle> Swain, James B to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 22 June n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.37 </container>
+					<unittitle> Greene, Edward D.E. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 27 July 1861 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.38 </container>
+					<unittitle> Champney, Benjamin to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 14 Sept 1861 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.39 </container>
+					<unittitle> Moore, Charles Herbert to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 26 May 1861 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.40 </container>
+					<unittitle> Beaumont, Georgine de to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 26 May 1861 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.41 </container>
+					<unittitle> Périn, Alphonse to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> [6 July 1859?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.42 </container>
+					<unittitle> Richards, William Trost to Warren, George B., Jr. ,</unittitle>
+					<unitdate type="inclusive"> 4 Apr 1861 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.43 </container>
+					<unittitle> Shattuck, Aaron Draper to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 17 May 1861 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.44 </container>
+					<unittitle> Butler, Benjamin Franklin to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 29 Apr 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.45 </container>
+					<unittitle> Webster, Daniel to "My Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> 14 Oct 1828 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.46 </container>
+					<unittitle> Everett, Edward to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 17 Oct 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.47 </container>
+					<unittitle> Schaus, W. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 5 Sept 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.48 </container>
+					<unittitle> Weale, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.49 </container>
+					<unittitle> Farrer, Thomas Charles to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.50 </container>
+					<unittitle> Rogers, John to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 7 Nov n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.51 </container>
+					<unittitle> Griggs, S.W. to "Dear Sir,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.52 </container>
+					<unittitle> [Poem?],</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.53 </container>
+					<unittitle> Avery, Samuel Putnam to "Dear Friend,"</unittitle>
+					<unitdate type="inclusive"> undated </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.54 </container>
+					<unittitle> Gerry, Samuel L. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 22 Sept 1860 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.55 </container>
+					<unittitle> Beard, William Holbrook to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 17 Oct 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.56 </container>
+					<unittitle> Nichols, Edward W. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> [22 Oct 1861?] </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.57 </container>
+					<unittitle> Hart, William to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 27 Nov n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.58 </container>
+					<unittitle> Church, Frederic Edwin to Palmer, [Erastus Dow?] ,</unittitle>
+					<unitdate type="inclusive"> 27 Dec 1858 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.59 </container>
+					<unittitle> Young, J. H. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 22 Jan n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.60 </container>
+					<unittitle> Sanford Robinson Gifford to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 7 June 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.61 </container>
+					<unittitle> Boughton, George Henry to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 4 July 1859 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 7.62 </container>
+					<unittitle> Duncanson, R.S. to Magoon, Elias L.,</unittitle>
+					<unitdate type="inclusive"> 16 Feb 1861 </unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

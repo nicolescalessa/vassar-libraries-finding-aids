@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_gifford_william
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the William Gifford Papers, approximately 1955-2015</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library Staff</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>20 July 2006</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>20 Feb 2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Gifford, William</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">William Gifford Papers </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1955-2015</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.0 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The William Gifford Papers include correspondence between Gifford and former students and colleagues, including several poets and writers, such as Elizabeth Spires, Thomas Beller, Erica Funkhouser, and Curtis Sittenfeld.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>William Gifford (born 1928, Plainfield N.J.) taught in the English Department at Vassar from 1955-1996. A novelist and scholar of John Donne, Gifford taught Senior Composition and was a favorite among his students. </p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1928</date>
+					<event>Gifford born in Plainfield, N.J.</event>
+				</chronitem>
+				<chronitem>
+					<date>1950</date>
+					<event>B.A. Swarthmore College</event>
+				</chronitem>
+				<chronitem>
+					<date>1952</date>
+					<event>M.A. University of California</event>
+				</chronitem>
+				<chronitem>
+					<date>1955</date>
+					<event>Ph.D. University of California</event>
+				</chronitem>
+				<chronitem>
+					<date>1955</date>
+					<event>Joined Vassar College Faculty, Department of English</event>
+				</chronitem>
+				<chronitem>
+					<date>1976</date>
+					<event>Appointed Full Professor, Vassar College Department of English</event>
+				</chronitem>
+				<chronitem>
+					<date>1996</date>
+					<event>Retired from Vassar College</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The William Gifford Papers include correspondence between Gifford and former students and colleagues, including several poets and writers, such as Elizabeth Spires, Thomas Beller, Erica Funkhouser, and Curtis Sittenfeld.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname encodinganalog="600">Spires, Elizabeth</persname>
+				<persname encodinganalog="600">Beller, Thomas</persname>
+				<persname encodinganalog="600">Funkhouser, Erica </persname>
+				<persname encodinganalog="600">Sittenfeld, Curtis </persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Teacher-student relationships</subject>
+				<subject source="lcsh" encodinganalog="650">Novelists</subject>
+				<subject source="lcsh" encodinganalog="650">College teachers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 20 Feb 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by The Archives and Special Collections Library Staff, 20 July 2006.</p>
+			<p>Collection's contents updated, 2019.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Collection assembled and acquired through the efforts of William Gifford and The Archives and Special Collections Library, who petitioned materials from correspondents. The first accession was in 2003.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>William Gifford Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Correspondent List</head>
+			<c01 level="file">
+				<did>
+					<unittitle> Amon, Eileen McDonald </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Beller, Thomas </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Blackorby, Melinda Clemmons </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Bussan, Mimi </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Callahan, Tara </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Davey, Eve Jenkins </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Elisofon, Marguerite Karter </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Engstrom, Katrena </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Franks, Lucinda </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Freund, Charles </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Funkhouser, Erika, </unittitle>
+					<unitdate>1993-2003</unitdate>
+					<physdesc>
+						<extent> (2 Folders) </extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Jacabs, Sherry </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Katri, Cindy Lenorowitz </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Kennison, Cynthia, </unittitle>
+					<unitdate> 1975-1994</unitdate>
+					<physdesc>
+						<extent> (2 Folders) </extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Kilgore, Kathryn, </unittitle>
+					<unitdate>1970-2003</unitdate>
+					<physdesc>
+						<extent> (2 Folders) </extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Kinnison, Karen </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Kosek, Raphael </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Li, Mei Sun </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Lobl, Rebecca </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> McAlden, Susan Rosenberg </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Moldow, Erika </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Newell, Bonnie </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Nurnberger, Alissa </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Passer, Richard </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Pearson, Amy Hethcoat </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Price, Roberta </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Reynolds, Nancy </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Schoenbrod, Kathryn </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Scranton, Risa Scherer </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Sheffield, Anne </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Silverman, Taije </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Sinder-Brown, Vivian </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Sittenfeld, Curtis </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Socolow, Elizabeth Anne Sussman </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Spiller, Jill </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Spires, Elizabeth, </unittitle>
+					<unitdate>1974-2008 </unitdate>
+					<physdesc>
+						<extent> (12 Folders) </extent></physdesc>
+				</did>
+				<scopecontent>
+					<p><emph render="italic"> — Includes poems written by Spires at Vassar, annotated by William Gifford</emph></p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Sutton-Mattocks, Alison, </unittitle>
+					<unitdate>1976-2003</unitdate>
+					<physdesc>
+						<extent> (3 Folders) </extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Vag, Anna-Maria </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Wallach, Jeffrey </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Warden, Sarah </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle> Zimmerman, Miriam </unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

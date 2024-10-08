@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_clarkson_rosetta </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Rosetta Shear Clarkson Papers, 1904-1956</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Encoded by Elizabeth Clarke <date>December 2006</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Clarkson, Rosetta Shear, 1892-1950</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Rosetta Shear Clarkson Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1904-1956 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 3.6 cubic feet (4 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Photographs, clippings, manuscripts, correspondence, and scrapbooks relating to Clarkson's study and cultivation of herbs.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Rosetta Elizabeth Shear was born in 1892 in Orwell, NY and was graduated from Vassar in 1914. Like many college women of that time, she became a high school teacher. In the early 1920's she took a leave from teaching to get her master's degree at Columbia. While researching her study of Henry Porter, an Elizabethan dramatist, she became fascinated with old herbals and began to study and cultivate herbs. In 1938 she and her husband, Ralph C. Clarkson, moved to Milford, Connecticut, where she devoted herself exclusively to herbs. Her work at their home, Salt Acres, was instrumental in reviving herb culture in the United States. She grew more than three hundred herbs, lectured widely, showed her gardens to hundreds of visitors annually, and supplied seeds to commercial growers and private individuals at no charge. From 1936 - 1939 she published THE HERB JOURNAL, which was sent free to more than two thousand people each month. She wrote several books on herb cultivation and use, and
+				founded the Herb Lovers Book Club to publish reprint editions of old herbals and gardening books which she and her husband collected. After years of poor health she died in 1950.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Collection primarily concerns her interest and professional activities as an herb enthusiast and includes her diaries and engagement books, 1904-1947; a travel diary, circa 1932; letters from Remsen B. Ostrander, 1918; correspondence concerning her publications and her book collecting activities, 1937-1956; manuscripts and galley proofs from her books <emph render="underline">Green Enchantment</emph>, <emph render="underline">Herbs: Their Culture and Use</emph>, and <emph render="underline">Magic Fragrance</emph>, and other notes and manuscripts; and copyright correspondence and various issues of <emph render="italic">The Herb Journal</emph>, 1936-1938. Other items include her Master's thesis on Henry Porter with related correspondence, 1924; accounts, 1937-1939; and miscellaneous biographical information and photographs.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Ostrander, Remsen B.</persname>
+				<persname source="lcnaf" encodinganalog="600"> Porter, Henry</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Herbs</subject>
+				<subject source="lcsh" encodinganalog="650">Herb gardening</subject>
+				<subject source="lcsh" encodinganalog="650">Cookery (Herbs)</subject>
+				<subject source="lcsh" encodinganalog="650">Book collecting</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Diaries</subject>
+				<subject source="lcsh" encodinganalog="650">Women travelers</subject>
+				<subject source="lcsh" encodinganalog="650">Women authors, American</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+				<subject source="local" encodinganalog="690"> Nature and Natural History </subject>
+				<subject source="local" encodinganalog="690"> Travel </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, December 2006.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Eleanor P. Clarkson.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Rosetta Shear Clarkson Papers, Archives and Special Collections, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container> Folders 1.1-1.4 </container>
+					<unittitle> Biographical information: personal documents, honors, Kingston Academy, </unittitle>
+					<unitdate type="inclusive"> 1908-1910 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.5 </container>
+					<unittitle> Pictures </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.6 </container>
+					<unittitle> Collection of pressed plants </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.7 </container>
+					<unittitle> Accounts, </unittitle>
+					<unitdate type="inclusive"> 1937-1939 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.8 </container>
+					<unittitle> Letters from Remsen B. Ostrander, </unittitle>
+					<unitdate type="inclusive"> 1918 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.9 </container>
+					<unittitle> Correspondence relating to selection, </unittitle>
+					<unitdate type="inclusive"> 1937 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.10 </container>
+					<unittitle> Book-collecting correspondence, </unittitle>
+					<unitdate type="inclusive"> 1937-1938 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.11 </container>
+					<unittitle> Correspondence relating to publications, </unittitle>
+					<unitdate type="inclusive"> 1937-1948 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.12 </container>
+					<unittitle> Correspondence with the Macmillan Company, </unittitle>
+					<unitdate type="inclusive"> 1939-1956 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.13 </container>
+					<unittitle> Herb Lovers Book Club </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> 22 diaries and engagement books, </unittitle>
+					<unitdate type="inclusive"> 1904-1947 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Travel diary, </unittitle>
+					<unitdate type="inclusive"> 1932 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 2.1–2.2 </container>
+					<unittitle> Magazine articles, brochures, and charts by R.S.C. </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.3 </container>
+					<unittitle> Printing, binding, and publicity </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.4 </container>
+					<unittitle> Manuscript of Green Enchantment (NY: Macmillan), </unittitle>
+					<unitdate type="inclusive"> 1940 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 2.5-2.9 </container>
+					<unittitle> Manuscript, typescript, galley proof and page proofs, Herbs; Their Culture and Uses (NY: Macmillan), </unittitle>
+					<unitdate type="inclusive"> 1942 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 2.10-2.11 </container>
+					<unittitle> The Herb Journal and copyright correspondence, file of this publication edited by R.S.C. </unittitle>
+					<unitdate type="inclusive"> 1936-1938 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> 2 notebooks of information on individual herbs </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 3.1-3.2 </container>
+					<unittitle> Manuscript and typed copy of Magic Fragrance (Limited edition), consisting of first 12 issues of The Herb Journal, </unittitle>
+					<unitdate type="inclusive"> 1937 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 3.3-3.4 </container>
+					<unittitle> Master thesis, New Facts about Henry Porter and His Work (Columbia University), Issue of PMLA Related correspondence, </unittitle>
+					<unitdate type="inclusive"> 1942 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folders 3.5-3.9 </container>
+					<unittitle> Miscellaneous manuscripts and notes relating to herbs, </unittitle>
+					<unitdate type="inclusive"> Sept 1927 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 4 </container>
+					<unittitle> Two scrapbooks relating to activities and publications </unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

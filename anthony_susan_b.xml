@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_anthony_susan_b</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Susan B. Anthony Papers, 1854-1905</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>November 2006</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Anthony, Susan B. (Susan Brownell), 1820-1906</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Susan B. Anthony Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1854-1905</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.4 cubic feet (1 box with 99 items)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Copies and some originals of correspondence to and from Susan B. Anthony, as well as a few autographed statements.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Susan Brownell Anthony was born in Adams, Massachusetts on 15 February 1820. Her parents, Daniel Anthony and Lucy Read, raised her and her seven siblings as Quakers. After a series of financial setbacks and relocations, the Anthony family settled in Rochester, New York, where Susan B. Anthony became acquainted with many abolitionists and women's rights reformers of her day, including William Lloyd Garrison, Frederick Douglass, Amelia Bloomer, and Samuel May. In the early 1850s, she formed an alliance with Elizabeth Cady Stanton that was critical to the fight for woman suffrage.</p>
+			<p>In the late 1860s, Anthony published a radical periodical, <emph render="italic">The Revolution</emph>, and became executive director of the National Woman Suffrage Association. In 1892, two years after this organization had merged with the American Woman Suffrage Association, she became president of the combined organization, the National American Woman Suffrage Association. By the time Anthony died on 13 March 1906 in Rochester, New York, at the age of eighty-six, four states had granted women equal suffrage.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The main concern of Anthony's letters from 1854-1866 was the antislavery movement. After the Civil War, she directed all her energy to the struggle for equal rights for women. Major Correspondents include Francis Jackson Garrison, William Lloyd Garrison, Samuel May, Eliza R. Whiting, and Elizabeth Cady Stanton. (Letters from Anthony to Stanton are located in Vassar's Stanton collection). Most letters are hand-written and have an accompanying transcript.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/d92225fa-1cde-4705-8753-64ff9954bdfc">Alma Lutz Papers, Archives and Special Collections Library, Vassar College Libraries.</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/03ddd4c9-6f29-4168-9bdc-da651fe5acc7">Elizabeth Cady Stanton Papers, Archives and Special Collections Library, Vassar College Libraries</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a3484ae3-ba69-40f2-b9a4-c59340f17cbb">Woman Suffrage and Women's Rights Collection, Archives and Special Collections Library, Vassar College Libraries.</archref></p>
+			<p><extref href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991000026529707396">The Papers of Elizabeth Cady Stanton and Susan B. Anthony. Microfilm. Wilmington, Del.: Scholarly Resources, c1991. 45 microfilm reels. VC microfilm no. 947.</extref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Garrison, Francis Jackson, 1848-1916</persname>
+				<persname source="lcnaf" encodinganalog="600">Garrison, William Lloyd, 1805-1879</persname>
+				<persname source="lcnaf" encodinganalog="600">May, Samuel, 1810-1899</persname>
+				<persname source="lcnaf" encodinganalog="600">Stanton, Elizabeth Cady, 1815-1902</persname>
+				<persname source="lcnaf" encodinganalog="600">Whiting, Eliza Rose Gray</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">National American Woman Suffrage Association</corpname>
+				<corpname source="lcnaf" encodinganalog="610">National Woman Suffrage Association (U.S.)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Slavery--Anti-slavery movements</subject>
+				<subject source="lcsh" encodinganalog="650">Women's rights</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Suffrage</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Social conditions</subject>
+				<subject source="lcsh" encodinganalog="650">Women social reformers</subject>
+				<subject source="lcsh" encodinganalog="650">Abolitionists</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">United States--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Politics and government</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Slavery and Antislavery</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, November 2006. Updated by Emma Gronbeck, March 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+			<p>Guide updated by Dean Rogers, September 2005.</p>
+			<p>Links to digital content added by Zack Bodnar, July 2015.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Alma Lutz, Vassar Class of 1912.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Susan B. Anthony Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Correspondence, </unittitle>
+					<unitdate type="inclusive">1854-1905</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters from Susan B. Anthony</unittitle>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters to Susan B. Anthony</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Autographed Cards, </unittitle>
+					<unitdate type="inclusive">1872-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Receipt, </unittitle>
+					<unitdate type="inclusive">1899</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I: Correspondence</unittitle>
+				</did>
+				<scopecontent><p>[except where noted, each item is hand-written and has an accompanying typed transcript]</p></scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters from Susan B. Anthony</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>1.1</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/5d762ddb-041c-4971-8f60-747547048c0c" show="new">Susan B. Anthony to Elizabeth Cady Stanton</archref>, </unittitle>
+							<physdesc>(typed transcription only)</physdesc>
+							<unitdate type="inclusive">26 May 1856</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.2</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/59c0ac91-8572-44ba-b0f0-dab439a377cc" show="new">Susan B. Anthony to Elizabeth Cady Stanton</archref>, </unittitle>
+							<physdesc>(typed transcription only)</physdesc>
+							<unitdate type="inclusive">17 June [1856]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.3</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/e86f3bb0-c288-4188-9a70-603b8f3f53b3" show="new">Susan B. Anthony to Elizabeth Cady Stanton</archref>, </unittitle>
+							<physdesc>(typed transcription only)</physdesc>
+							<unitdate type="inclusive">25 Aug 1860</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.4</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/db0c426b-29c3-44df-889e-69c9c5e8c1b0" show="new">Susan B. Anthony to Elizabeth Cady Stanton</archref>, </unittitle>
+							<physdesc>(typed transcription only)</physdesc>
+							<unitdate type="inclusive">[Feb 1861]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.5</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/c7cbf07b-218b-4a55-b4cd-4b00efc8a797" show="new">Susan B. Anthony to Elizabeth Cady Stanton</archref>, </unittitle>
+							<physdesc>(typed transcription only, Original in Stanton Scrapbook, Vol. 1)</physdesc>
+							<unitdate type="inclusive">27 Feb 1862</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.6</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/4678aa78-4f3a-43cf-9f5d-42c2c606f4a2" show="new">Susan B. Anthony to Betsey Voorhees</archref>, </unittitle>
+							<unitdate type="inclusive">28 June 1854</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.7</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/857f6f83-b650-4870-844f-8b8568b141c1" show="new">Susan B. Anthony to Mr. [Samuel] May</archref>, </unittitle>
+							<unitdate type="inclusive">25 Dec 1855</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.8</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/d12681d9-f836-4a70-b43f-e59f7bda7579" show="new">Susan B. Anthony to William Lloyd Garrison</archref>, </unittitle>
+							<unitdate type="inclusive">8 Mar 1859</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.9</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/6ec79294-89f7-4e81-a50c-2f3cf20957b0" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">1 July 1863</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.10</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/4bc6667a-3eda-48e4-b1da-dbc4f9bd2112" show="new">Susan B. Anthony to [Samuel] May</archref>, </unittitle>
+							<unitdate type="inclusive">1 July 1863</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.11</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/30f53492-5a10-40dc-a50b-2f9f7b64980c" show="new">Susan B. Anthony to Mr. Crane</archref>, </unittitle>
+							<unitdate type="inclusive">[186?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.12</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/22000796-3566-4c76-a2c5-4fb623f39690" show="new">Susan B. Anthony to Mrs. Drake</archref>, </unittitle>
+							<unitdate type="inclusive">18 Sept 1863</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.13</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/2bbb4bed-a05c-4027-98f8-40110b98cb35" show="new">Susan B. Anthony to [Samuel] May</archref>, </unittitle>
+							<unitdate type="inclusive">21 Sept 1863</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.14</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/377d42de-cf3e-4787-a4dd-7c73d5867e4c" show="new">Susan B. Anthony to Edmund G. Galin</archref>, </unittitle>
+							<unitdate type="inclusive">14 Dec 1863</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.15</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/65a382ed-b322-4940-b23f-02e6946ffddd" show="new">Susan B. Anthony, E. Cady Stanton and Edwin A Studwell to Ludlow Patton</archref>, </unittitle>
+							<unitdate type="inclusive">[1866]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.16</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/474a9cb1-d632-4525-a09d-b928a9fe1f05" show="new">Susan B. Anthony to Miss Assing</archref>, </unittitle>
+							<unitdate type="inclusive">1 Mar 1866</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.17</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/d066c9e1-7390-4cf6-b16b-de932e330281" show="new">Susan B. Anthony to A.E.R.A. Association</archref>, </unittitle>
+							<unitdate type="inclusive">9 Jan 1869</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.18</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/678ba148-4227-47d3-b3e1-a0220fd0be0d" show="new">Susan B. Anthony to "Dear Sir"</archref>, </unittitle>
+							<physdesc>(no transcription)</physdesc>
+							<unitdate type="inclusive">4 Jan 1869</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.19</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/2f74f902-10ad-4a03-b7f9-a8fa4c824bc4" show="new">Susan B. Anthony to Mr. Denton</archref>, </unittitle>
+							<physdesc>(no transcription)</physdesc>
+							<unitdate type="inclusive">8 Feb 1869</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.20</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/889e74b1-1afe-4f31-a39a-1ef1e7a7ecee" show="new">Susan B. Anthony to "My Dear Friends"</archref>, </unittitle>
+							<unitdate type="inclusive">30 Aug 1869</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.21</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/4e53c3c8-4b0c-4553-9b70-8dc147da720d" show="new">Susan B. Anthony to Redpath</archref>, </unittitle>
+							<unitdate type="inclusive">1 Jan 1870</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.22</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/a2771838-65ac-498e-9c5b-2586e9e0f2ef" show="new">Susan B. Anthony to T. B. Pugh</archref>, </unittitle>
+							<unitdate type="inclusive">9 Nov 1870</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.23</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/3c32ff09-8eb1-4c87-b692-2ac7666655ad" show="new">Susan B. Anthony to Man "Who Dares" (Redpath)</archref>, </unittitle>
+							<unitdate type="inclusive">23 Dec 1870</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.24</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/a002add0-4dbc-482e-ab12-92816a6c2fb7" show="new">Susan B. Anthony to Mrs. Oliver Bennett</archref>, </unittitle>
+							<unitdate type="inclusive">9 Feb 1871</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.25</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/1f797cc7-b01a-40bb-8753-cac06dec221f" show="new">Susan B. Anthony to Mr. Grover</archref>, </unittitle>
+							<unitdate type="inclusive">9 Feb 1871</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.26</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/ea98af0d-f235-472f-86aa-c38e9449a614" show="new">Susan B. Anthony to "Young Man"</archref>, </unittitle>
+							<unitdate type="inclusive">19 Aug 1871</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.27</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/b7f8ed3a-0b04-4752-a93d-265f45e42ec7" show="new">Susan B. Anthony to Mrs. Livermore</archref>, </unittitle>
+							<unitdate type="inclusive">28 Sept 1872</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.28</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/caf51090-fd78-4c8a-86e2-22f9a1d858d5" show="new">Susan B. Anthony to "Young Man"</archref>, </unittitle>
+							<unitdate type="inclusive">19 Nov 1872</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.29</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/744cf313-6274-4e96-86a3-41f3b97ddf6f" show="new">Susan B. Anthony to J. D. Buck</archref>, </unittitle>
+							<unitdate type="inclusive">22 Aug 1882</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.30</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/dbc6c741-a684-4333-adf6-0a2cc1257947" show="new">Susan B. Anthony to "Dear Sir"</archref>, </unittitle>
+							<unitdate type="inclusive">12 Jan 1875</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.31</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/a17478e7-4019-4510-ab3c-6a78f0e0716f" show="new">Susan B. Anthony to "Dear Sir"</archref>, </unittitle>
+							<unitdate type="inclusive">8 Dec 1875</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.32</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/2e5ee6a3-8ef3-4bc6-a9b5-57e13d6a939a" show="new">Susan B. Anthony to William Lloyd Garrison</archref>, </unittitle>
+							<unitdate type="inclusive">10 Feb 1876</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.33</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/657b5317-c8d5-40ed-b6cb-9aa3e04b4a64" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">18 July 1876</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.34</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/8e312f2f-6b7d-44d5-9e2a-24b2f3d5cd45" show="new">Susan B. Anthony to Thomas C. Powell</archref>, </unittitle>
+							<unitdate type="inclusive">22 Oct 1876</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.35</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/8d39d6c3-f194-4d65-a64b-ab6feb6d6aaf" show="new">Susan B. Anthony to Mrs. Grey</archref>, </unittitle>
+							<unitdate type="inclusive">20 Nov 1880</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.36</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/0a145556-a1fe-4fe8-a8a2-36f219a3cfed" show="new">Susan B. Anthony to Mrs. Blake</archref>, </unittitle>
+							<unitdate type="inclusive">7 Jan 1881</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.37</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/f1a8a270-4038-4ebf-9038-862a57478f39" show="new">Susan B. Anthony to "Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">9 Feb 1881</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.38</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/7ba2c0ea-0175-4664-a75e-76f5bf2124f5" show="new">Susan B. Anthony to Mr. Weinheimer</archref>, </unittitle>
+							<unitdate type="inclusive">5 May 1882</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.39</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/be515eca-dd0b-4a2d-8628-59c8ccbd1eb5" show="new">Susan B. Anthony to Mr. Weinheimer</archref>, </unittitle>
+							<unitdate type="inclusive">26 May 1882</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.40</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/c146c826-f2ca-4d5f-b964-42547cd3b555" show="new">Susan B. Anthony to Mrs. Mellen</archref>, </unittitle>
+							<unitdate type="inclusive">5 Nov 1883</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.41</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/993d086c-13a2-4afc-87d3-ddbf6ca73042" show="new">Susan B. Anthony to Mrs. Hutchins</archref>, </unittitle>
+							<unitdate type="inclusive">7 Jan 1884</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.42</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/13055c0b-da23-45c9-bc51-d76d261b8d0c" show="new">Susan B. Anthony to "Dear Sir"</archref>, </unittitle>
+							<unitdate type="inclusive">18 Jan 1884</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.43</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/ab4946ab-19f9-4bd7-b6d3-18f21d4e7f54" show="new">Susan B. Anthony to Mrs. Blake</archref>, </unittitle>
+							<unitdate type="inclusive">21 Feb 1884</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.44</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/d14e0a73-0fe3-4dd9-9146-b64553161dc8" show="new">Susan B. Anthony to Mrs. Thomas</archref>, </unittitle>
+							<unitdate type="inclusive">22 Mar 1884</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.45</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/ac3a8bd1-ae3f-43bf-9c99-0e4086dbbfef" show="new">Susan B. Anthony to Mrs. Bowles</archref>, </unittitle>
+							<physdesc>(no transcription)</physdesc>
+							<unitdate type="inclusive">21 Aug 1884</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.46</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/060a42c7-f223-4cb3-ab4a-0346e8b3203e" show="new">Susan B. Anthony to Mr. Weinheimer</archref>, </unittitle>
+							<unitdate type="inclusive">21 July 1885</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.47</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/4934da2e-0de4-485b-b115-daf125dc495b" show="new">Susan B. Anthony to Frank</archref>, </unittitle>
+							<unitdate type="inclusive">11 Oct 1885</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.48</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/0507fc0b-7b4c-48d5-86f0-bd9f1cf535c2" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">15 Oct 1885</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.49</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/231db827-2c43-425d-baba-84633ad4d68b" show="new">Susan B. Anthony to Miss Boothe and Mrs. Wright</archref>, </unittitle>
+							<unitdate type="inclusive">7 Nov 1885</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.50</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/84bd7a2b-5e02-4ce7-aacf-47c28d089f57" show="new">Susan B. Anthony to Scribners</archref>, </unittitle>
+							<unitdate type="inclusive">16 Feb 1886</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.51</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/13fda9b4-7129-4642-9044-0cc3562ffd8e" show="new">Susan B. Anthony to Weinheimer</archref>, </unittitle>
+							<unitdate type="inclusive">24 June 1886</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.52</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/f5b141af-751a-4d10-b7fa-7c280b1bcde2" show="new">Susan B. Anthony to Wendell P. Garrison</archref>, </unittitle>
+							<unitdate type="inclusive">13 July 1887</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.53</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/5fca7e4b-7f2a-4d5d-85ac-2c08083d6725" show="new">Susan B. Anthony to Miss Booth</archref>, </unittitle>
+							<unitdate type="inclusive">22 Jan 1888</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.54</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/d3b2600d-43b0-4b80-ba53-9b69c41df441" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">6 Feb 1888</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.55</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/b15badfa-3a63-44a8-9ce3-06ba844a0793" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">11 Mar 1888</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.56</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/a055ef34-4496-4985-aa42-92224274e6ad" show="new">Susan B. Anthony to Grover Cleveland</archref>, </unittitle>
+							<unitdate type="inclusive">27 Mar 1888</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.57</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/3cec02df-19b2-48c4-a8d4-0f53ceddbf7b" show="new">Susan B. Anthony to "My Dear"</archref>, </unittitle>
+							<unitdate type="inclusive">6 Apr 1888</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.58</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/2dbf1fa3-b738-44c4-a834-6b620b4258b7" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">1 Oct 1888</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.59</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/ab3fd300-e8de-41be-b872-6762e941ef94" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">2 July 1889</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.60</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/cd1da9a4-fd76-44a2-9dc3-a0e685e0abad" show="new">Susan B. Anthony to Mrs. H. Hollway</archref>, </unittitle>
+							<unitdate type="inclusive">19 Aug 1889</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.61</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/c92dcd0c-5ae6-49fa-9c19-3147fe1ef8e1" show="new">Susan B. Anthony to Garrison Family</archref>, </unittitle>
+							<unitdate type="inclusive">2 Nov 1889</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.62</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/ca6cd4a1-b044-43b6-a31d-cd4b2551357b" show="new">Susan B. Anthony to Francis J. Garrison</archref>, </unittitle>
+							<unitdate type="inclusive">7 Mar 1890</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.62</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/bbbdc90c-ee3d-4448-893a-4303073d85da" show="new">Susan B. Anthony to Francis J. Garrison</archref>, </unittitle>
+							<unitdate type="inclusive">11 Mar 1890</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.62</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/a3999166-a681-4002-b331-3d1369ff8b89" show="new">Susan B. Anthony to Francis J. Garrison</archref>, </unittitle>
+							<unitdate type="inclusive">6 April 1890</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.63</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/9a82108c-65ad-4479-b361-f803a72ef7fb" show="new">Susan B. Anthony to Mrs. Whiting</archref>, </unittitle>
+							<unitdate type="inclusive">4 Aug 1892</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.64</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/ac0c2918-8d91-450f-8297-00dd3aebc1c7" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">8 Dec 1892</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.65</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/0835cee2-002c-4edb-8653-437e229fbe85" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">1 Jan 1894</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.66</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/c0393d20-1bab-43b5-a957-5d7b2b435704" show="new">Susan B. Anthony to Mrs. Whiting</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">2 Apr 1894</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.67</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/83c5f732-3dee-4b58-9879-ba1bcb3d4a8e" show="new">Susan B. Anthony to Miss Hosmer</archref>, </unittitle>
+							<unitdate type="inclusive">21 Nov 1896</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.68</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/7a904798-d6db-4492-ae55-6f170efd5c6a" show="new">Susan B. Anthony to Maj. James B. Pond</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">11 Jan 1897</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.69</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/c524b93e-48e7-4603-bfb6-8aa4cb3e4b24" show="new">Susan B. Anthony to Frances Garrison</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">5 Mar 1897</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.70</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/12aff9c9-dd8f-4c17-9264-9cbd06463a1e" show="new">Susan B. Anthony to Miss Miller</archref>, </unittitle>
+							<unitdate type="inclusive">23 Aug 1897</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.71</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/38e51777-a2ef-4e7c-95a4-ef51b6e683d8" show="new">Susan B. Anthony to "Frank"</archref>, </unittitle>
+							<unitdate type="inclusive">6 Feb 1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.72</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/9bd795d9-2d23-40fd-823a-70237ef3792b" show="new">Susan B. Anthony to "My Dear Friend"</archref>, </unittitle>
+							<unitdate type="inclusive">6 Feb 1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.73</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/82641750-29e3-4899-a60c-1e78c6db6e38" show="new">Susan B. Anthony to Mrs. J.P. Smith</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">29 Mar 1900</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.74</container>
+							<unittitle>
+								<archref href="hhttps://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/e734fd52-5b8e-416f-8e3b-ff461442a353" show="new">Susan B. Anthony to Mrs. Whiting</archref>, </unittitle>
+							<unitdate type="inclusive">25 May 1900</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.75</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/b8e7357b-a6ff-474f-8ec3-01f7b1dda245" show="new">Susan B. Anthony to Mr. Pond</archref>, </unittitle>
+							<unitdate type="inclusive">30 July 1900</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.76</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/c11f0a1a-cfd5-498f-bdfa-1b6f8c708d93" show="new">Susan B. Anthony to Mrs. Whiting</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">5 Mar 1901</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.77</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/75e5e607-01ea-4540-a511-203cba9c6d82" show="new">Susan B. Anthony to Nora (Stanton Barney)</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">24 Nov 1902</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.78</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/6cb19f2e-9b21-4c4d-a323-5009b9e08761" show="new">Susan B. Anthony and Ida Husted Harper to Mr. Hamilton Holt</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">1903</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.79</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/d51bb161-feef-4d32-8381-b3ae0e8836ee" show="new">Susan B. Anthony to Mrs. George Bass</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">16 Jan 1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.80</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/7be0027d-bd53-4097-ab0d-bccefdc3c6f9" show="new">Susan B. Anthony to Mrs. George Bass</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">1903</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.81</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/5f229c19-cf6c-4dc0-9805-a6a9ee52fa52" show="new">Susan B. Anthony to Librarian, Vassar College</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">31 Mar 1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.82</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/d1ba858d-2876-4f5a-8e46-a31f824bcff8" show="new">Susan B. Anthony to Robert L. Stanton</archref>, </unittitle>
+							<physdesc>(typed transcription only)</physdesc>
+							<unitdate type="inclusive">15 Apr 1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.83</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/15de87b2-7f8c-4afc-90b1-b23f2d169174" show="new">Susan B. Anthony to "Dear Sirs"</archref>, </unittitle>
+							<unitdate type="inclusive">15 Dec 1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.84</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/ff3de411-0d50-4a34-92b7-c16238f03ba2" show="new">Susan B. Anthony to Barrows Brothers and Co.</archref>, </unittitle>
+							<unitdate type="inclusive">14 Jan 1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.85</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/4dc6f185-694a-42eb-ac3d-f2cb3aa81524" show="new">Susan B. Anthony to Miss C. Gallop</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">3 May 1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.86</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/e194fefc-74d1-4d2d-b804-068e2bfcccc8" show="new">Fragment of letter by Susan B. Anthony</archref>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.87</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/67462de0-2fb5-49fa-9f11-f814da607e6e" show="new">Fragment of letter by Susan B. Anthony</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters to Susan B. Anthony</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>1.88</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/feb09a97-491a-4664-92dc-d791c090ffeb" show="new">Harriett Beecher Stowe to Susan B. Anthony</archref>, </unittitle>
+							<unitdate type="inclusive">Dec 1869</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.89</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/a3c947b5-3779-4004-bf5f-ef8085fe8bbc" show="new">Robert J. Burdette to Susan B. Anthony</archref>, </unittitle>
+							<unitdate type="inclusive">18 Mar 1903</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>1.90</container>
+							<unittitle>
+								<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/1e5731d5-eab2-4427-b94c-7806417f22fc" show="new">Lillian M. N. Stevens to Susan B. Anthony</archref>, </unittitle>
+							<physdesc>(TLS)</physdesc>
+							<unitdate type="inclusive">13 Jan 1902</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II: Autographed Cards</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.91</container>
+						<unittitle>
+							<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/8e357a79-3a75-4ece-b7a6-898191dd88e5" show="new">"A person, citizen, and voter…"</archref>, </unittitle>
+						<physdesc>(typed transcription only)</physdesc>
+						<unitdate type="inclusive">15 Nov 1872</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.92</container>
+						<unittitle>
+							<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/a1c2a83b-d066-415a-a63b-a65246df5634" show="new">"Let woman’s opinion be counted at the ballot box precisely as man's is!!"</archref>, </unittitle>
+						<unitdate type="inclusive">18 Jan 1884</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.93</container>
+						<unittitle>
+							<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/bbcf8524-c5fb-4089-8e63-195d0e580911" show="new">"Perfect equality of rights for women - civil and political - is the demand of the National Woman Suffrage Association..."</archref>, </unittitle>
+						<unitdate type="inclusive">8 Sept 1889</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.94</container>
+						<unittitle>
+							<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/23f1f02a-6dae-4cd0-a05b-441bdc4f6c1c" show="new">Autographed slip for Birthday celebration</archref>, </unittitle>
+						<unitdate type="inclusive">15 Feb 1900</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.95</container>
+						<unittitle>
+							<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/74c74e94-3333-42eb-8144-d35624c227a7" show="new">"Perfect equality of rights - civil and political - moral and social, industrial and educational - is the end of my effort"</archref>, </unittitle>
+						<unitdate type="inclusive">24 May 1904</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.96</container>
+						<unittitle>
+							<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/5904d609-493b-4208-af0d-ad69f2203beb" show="new">"Freedom to Women"</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Receipt</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.97</container>
+						<unittitle>
+							<archref href="https://digitallibrary.vassar.edu/collections/other-collections/susan-b-anthony-collection/226f68b1-2818-4d35-a6fa-74d05e8d7939" show="new">Receipt for "Convention Expenses"</archref>, </unittitle>
+						<unitdate type="inclusive">17 May 1899</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_furness_caroline</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Caroline Furness Papers, 1840-1938</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>December 2023</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>February 2007.</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Furness, Caroline E. (Caroline Ellen), 1869-1936</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Caroline Furness Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"
+				>1840-1938</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1887-1928</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">4 cubic feet (5 boxes, 1 OV folder)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<langmaterial label="Language of Material:">Materials are in <language langcode="eng">English</language>, with some materials in <language langcode="jpn">Japanese</language>.</langmaterial>
+			<abstract label="Abstract:" encodinganalog="520$a">The Caroline Furness Papers consist
+				of correspondence, personal and professional papers, writings, research, and
+				photographs created and assembled by American astronomer and Vassar faculty member
+				Caroline E. Furness. Notable correspondents include Furness’s father, Henry B.
+				Furness; Vassar faculty member Mary W. Whitney; Kan'ichi Asakawa; Sakusaburo
+				Uchigasaki; Rose O'Neill; Vilhjalmur Stefansson; and other astronomers, including
+				Jan van der Bilt, Phoebe Waterman Haas, and Ruth E. Smith.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Caroline Eleanor Furness (1869-1936) was an American astronomer and professor at
+				Vassar College. Born in Cleveland, Ohio, on June 24, 1869, to Henry B. Furness and
+				Caroline Sarah Baker, she spent her adolescence in Cincinnati, where her father was a high-school
+				science teacher. She came to Vassar in 1887 as part of the class of 1891, and would be
+				associated with the college for most of her life. In 1894, she became Professor Mary
+				W. Whitney's assistant in the Vassar College Observatory, and in 1900 received her
+				Ph.D. from Columbia University. She became an associate professor at Vassar in 1911,
+				director of the Observatory a few years later, and Alumnae Maria Mitchell Professor
+				of Astronomy in 1916. Her best-known publication is <emph render="italic">Introduction to Variable Stars</emph>,
+				published in 1915.</p>
+			<p>One of Furness's many interests outside her astronomical work was Japan, particularly
+				the education of Japanese women and their opportunities for participation in civic
+				and political life. In 1918, Furness travelled to Japan and met with numerous women
+				educators and political figures, including Umeko Tsuda, one of the five girls sent
+				to the United States in 1872 as part of the Iwakura Mission. Two of the other five
+				girls were Vassar graduates Sutematsu (Yamakawa) Oyama (VC 1882) and Shigeko (Nagai)
+				Uriu (VC Spec 1878-1881). During her visit, she collaborated with the Red Cross
+				of Japan and the Unitarian Women of Japan.</p>
+			<p>Furness taught at Vassar until her death in 1936.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence makes up the largest portion of the Furness papers and includes 182
+				letters written by Caroline E. Furness to her friends and family, primarily during
+				her years as a Vassar student, 1887-1891. Incoming correspondence consists of 2,199
+				letters received from family, friends, colleagues, and other professional
+				acquaintances on various personal and professional topics, from family life and
+				travel, to astronomical work and women's suffrage. Additional materials include
+				travel diaries from trips to Europe and Japan with records of star sightings;
+				astronomy and birdwatching notebooks; drafts of written works; records from the
+				Vassar College Astronomy Department; photographs of Furness and her visits to Japan;
+				and research on Matthew Vassar's family history.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><extref href="https://hdl.handle.net/10079/fa/mssa.ms.0040">Kan'ichi Asakawa Papers
+					(MS 40). Manuscripts and Archives, Yale University Library</extref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/a6c843fb-3f36-46b3-999a-fbba2d8eba29"
+					>Maria Mitchell Papers</archref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/a6c843fb-3f36-46b3-999a-fbba2d8eba29"
+					>Sutematsu Yamakawa Oyama Papers</archref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/93963b5b-9028-4f39-bb0b-7f6d18e066cf"
+					>Shigeko Nagai Uriu Papers</archref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/6d56238d-c66d-4c97-a67e-a96b14eb9f84"
+					>Vassar College Biographical Files</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Asakawa, Kan'ichi, 1873-1948</persname>
+				<persname source="lcnaf" encodinganalog="600">Bilt, Jan van der, 1876-1962</persname>
+				<persname source="lcnaf" encodinganalog="600">Furness, H. B.</persname>
+				<persname source="local" encodinganalog="600">Furness family</persname>
+				<persname source="local" encodinganalog="600">Haas, Phoebe Waterman</persname>
+				<persname source="lcnaf" encodinganalog="600">O'Neill, Rose Cecil, 1874-1944</persname>
+				<persname source="local" encodinganalog="600">Smith, Ruth E.</persname>
+				<persname source="lcnaf" encodinganalog="600">Stefansson, Vilhjalmur, 1879-1962</persname>
+				<persname source="lcnaf" encodinganalog="600">Uchigasaki, Sakusaburo</persname>
+				<persname source="lcnaf" encodinganalog="600">Vassar, Matthew, 1792-1868</persname>
+				<persname source="lcnaf" encodinganalog="600">Whitney, Mary Watson, 1847-1921</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">American Unitarian Association</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Pan-Pacific Women's Conference (1927)</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Astronomers</subject>
+				<subject source="lcsh" encodinganalog="650">Astronomy--Research</subject>
+				<subject source="lcsh" encodinganalog="650">Astronomy--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Diaries</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Education--Japan</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Japan--Social conditions</subject>
+				<subject source="lcsh" encodinganalog="650">Women college teachers</subject>
+				<subject source="lcsh" encodinganalog="650">Women scientists</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Cincinnati (Ohio)--Politics and government</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Cyanotypes (photographic prints)</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Essays</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Postcards</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">East Asia and South Asia</subject>
+				<subject source="local" encodinganalog="690">Math, Science and Medicine</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, February 2007. Updated by Emma Gronbeck, December 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, December 2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Estate of Caroline Furness.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Caroline Furness Papers, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series1">Series I.</ref> Correspondence, </unittitle>
+					<unitdate>1840-1935</unitdate>
+					<physdesc>(Boxes 1-3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence makes up the largest part of the Caroline E. Furness Papers
+						and includes letters to and from Caroline E. Furness's family, friends, and
+						professional contacts. Her outgoing correspondence consists primarily of
+						letters written to her family during her years at Vassar. Incoming family
+						correspondence consists of letters from Furness's father, H. B. Furness,
+						about Cincinnati, Ohio politics, his reading, her work and career, family
+						matters, and other intellectual pursuits (131 letters); her sister Mary (74
+						letters); and her cousins, Alexander and Philip Macomber, and their father
+						James. Professional correspondence related to astronomy includes extensive
+						correspondence with Furness's Vassar mentor, Mary Watson Whitney, about
+						intellectual and professional issues, travel, affairs of friends, and other
+						personal news (1,098 letters); as well as letters on both personal and
+						professional topics from a variety of Dutch and American astronomers,
+						including Jan van der Bilt, Benjamin Boss, Annie J. Cannon, Edwin B. Frost,
+						Phoebe Waterman Haas (VC 1904), Alberta Hawes, John Hedrick, Harold Jacoby,
+						Jacobus Kapteyn, Carl Otto Lampland, Harriet McWilliams Parsons, Ruth Emily
+						Smith, Lillian M. Wickham, and Anne Sewell Young.</p>
+					<p>Additional correspondents include a number of Japanese educators and
+						activists, particularly Yale professor Kan'ichi Asakawa, the first Japanese
+						citizen to teach at an American university and one of the major figures
+						involved in establishing the field of Asian Studies in the United States (85
+						letters); as well as professor and politician Sakusaburo Uchigasaki (13
+						letters); and Michi Kawai, a Japanese educator and Christian activist who
+						helped found the Japanese YWCA (2 letters). Other notable correspondents
+						include Rose O'Neill, inventor of the Kewpie Doll (6 letters); and Arctic
+						explorer and ethnologist Vilhjalmur Stefansson (5 letters).</p>
+				</scopecontent>
+				<arrangement>
+					<p>Correspondence is organized into 3 subseries: Outgoing Correspondence,
+						Incoming Correspondence, and Correspondence Between Others. Each subseries
+						is arranged alphabetically with unidentified correspondence filed at the end
+						of the sequence.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series2">Series II.</ref> Personal and Professional
+						Papers, </unittitle>
+					<unitdate>1901-1938</unitdate>
+					<physdesc>(Box 3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series consists of assorted materials related to Caroline Furness's
+						personal and professional matters. It includes personal and family
+						memorabilia, such as passports and clippings; printed ephemera and notes
+						from trips to Japan and the Netherlands; printed ephemera and notes related
+						to professional organizations; and materials related to Furness's career as
+						Professor of Astronomy at Vassar College. Vassar College materials include
+						correspondence related to Furness's struggle to be promoted from associate
+						professor of astronomy to head of the department after Mary Whitney's
+						retirement in 1910; financial records of the department; annual reports and
+						budgets; and student papers from 1925.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series3">Series III.</ref> Writings, </unittitle>
+					<unitdate>1890-1928</unitdate>
+					<physdesc>(Box 3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series consists of Caroline Furness's writings and related
+						correspondence, including notebooks on various topics from astronomy to
+						birdwatching; travel journals from trips abroad; drafts of written works;
+						and correspondence related to published books and articles.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series4">Series IV.</ref> Photographs, </unittitle>
+					<unitdate>circa 1870-1926, undated</unitdate>
+					<physdesc>(Box 4)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series consists of photographic prints and cyanotypes of Caroline
+						Furness during various periods of her life. Also included are photographs of
+						family, friends, places, and people met during Furness's visit to Japan in
+						1918-1919.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series5">Series V.</ref> Vassar Family Research, </unittitle>
+					<unitdate>1926-1932</unitdate>
+					<physdesc>(Box 4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series consists of Caroline Furness's correspondence, notes, and copies
+						of documents related to her research into Matthew Vassar and his family
+						history. Furness commissioned B. H. Vores to research Matthew Vassar's
+						family history in Norfolk, particularly whether concrete evidence could be
+						found as to whether or not William Vassar of Shipdham was Matthew Vassar's
+						grandfather, and the series includes their correspondence as well as Vores's
+						final report on his findings. Also included is correspondence with other
+						individuals regarding the Vassar family's genealogy, notably Vassar relative
+						William A. F. Vassar.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Correspondence, </unittitle>
+					<unitdate type="inclusive" normal="1886/1934">1886-1935</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Outgoing (from Caroline E. Furness)</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.01</container>
+							<unittitle>"Miss Borden", </unittitle>
+							<unitdate type="inclusive" normal="19351026">1935 Oct 26</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.02</container>
+							<unittitle>Furness, Caroline Sarah (Baker), </unittitle>
+							<unitdate type="inclusive" normal="1887/1888">1887-1888</unitdate>
+							<physdesc>[16 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.03</container>
+							<unittitle>Furness, H. B., </unittitle>
+							<unitdate type="inclusive" normal="1888/1892">1888-1892</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.04</container>
+							<unittitle>Furness, H. B. and Caroline Sarah (Baker), </unittitle>
+							<unitdate type="inclusive" normal="1887/1891">1887-1891</unitdate>
+							<physdesc>[14 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.05</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1887/1888">1887-1888</unitdate>
+							<physdesc>[18 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.06</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1889">1889</unitdate>
+							<physdesc>[37 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.07</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1890">1890</unitdate>
+							<physdesc>[37 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.08</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1891">1891</unitdate>
+							<physdesc>[20 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.09</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1892">1892</unitdate>
+							<physdesc>[16 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.10</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1921">1921, undated</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.11</container>
+							<unittitle>"Miss Hequeinberg", </unittitle>
+							<unitdate type="inclusive" normal="19100523">1910 May 23</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.12</container>
+							<unittitle>"Miss Kenyon", </unittitle>
+							<unitdate type="inclusive" normal="19181124">1918 Nov 24</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.13</container>
+							<unittitle><emph render="italic">The New York Times</emph>, </unittitle>
+							<unitdate type="inclusive" normal="19250224">1925 Feb 24</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>Swartz, Helen, </unittitle>
+							<unitdate type="inclusive" normal="1909/1910">1909-1910</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.15</container>
+							<unittitle>Unidentified, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Incoming (to Caroline E. Furness)</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.16</container>
+							<unittitle>A General, </unittitle>
+							<unitdate type="inclusive" normal="1906/1923">1906-1923</unitdate>
+							<physdesc>[22 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.17</container>
+							<unittitle>American Unitarian Association, </unittitle>
+							<unitdate type="inclusive" normal="1912/1921">1912-1921</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Asakawa, Kan'ichi, </unittitle>
+							<unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate>
+							<physdesc>[14 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.19</container>
+							<unittitle>Asakawa, Kan'ichi, </unittitle>
+							<unitdate type="inclusive" normal="1919">1919</unitdate>
+							<physdesc>[7 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.20</container>
+							<unittitle>Asakawa, Kan'ichi, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920</unitdate>
+							<physdesc>[7 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle>Asakawa, Kan'ichi, </unittitle>
+							<unitdate type="inclusive" normal="1921">1921</unitdate>
+							<physdesc>[22 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.22</container>
+							<unittitle>Asakawa, Kan'ichi, </unittitle>
+							<unitdate type="inclusive" normal="1922">1922</unitdate>
+							<physdesc>[14 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.23</container>
+							<unittitle>Asakawa, Kan'ichi, </unittitle>
+							<unitdate type="inclusive" normal="1923">1923</unitdate>
+							<physdesc>[11 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.24</container>
+							<unittitle>Asakawa, Kan'ichi, </unittitle>
+							<unitdate type="inclusive" normal="1924/1925">1924-1925,
+								undated</unitdate>
+							<physdesc>[10 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.25</container>
+							<unittitle>"Aunt Ellen", </unittitle>
+							<unitdate type="inclusive" normal="1904">1904</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.26</container>
+							<unittitle>"Aunt Maria", </unittitle>
+							<unitdate type="inclusive" normal="1898">1898</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.27</container>
+							<unittitle>Auesaki, N. [Anesaki, Masaharu?], </unittitle>
+							<unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.28</container>
+							<unittitle>B General, </unittitle>
+							<unitdate type="inclusive" normal="1898/1931">1898-1931</unitdate>
+							<physdesc>[36 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.01</container>
+							<unittitle>[Bemporad, A.?] (Reale Osservatario Astronomico di Napoli), </unittitle>
+							<unitdate type="inclusive" normal="1916/1917">1916-1917</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.29</container>
+							<unittitle>Bigelow, Harriet, </unittitle>
+							<unitdate type="inclusive" normal="1916/1922">1916-1922</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.30</container>
+							<unittitle>Bilt, Jan van der (Utrecht University Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1916/1922">1916-1922</unitdate>
+							<physdesc>[15 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.31</container>
+							<unittitle>Boss, Benjamin (Dudley Observatory, Albany, NY), </unittitle>
+							<unitdate type="inclusive" normal="1911, 1917">1911, 1917</unitdate>
+							<physdesc>[7 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.32</container>
+							<unittitle>Buyo, George, </unittitle>
+							<unitdate type="inclusive" normal="1920/1922">1920-1922</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.33</container>
+							<unittitle>C General, </unittitle>
+							<unitdate type="inclusive" normal="1911/1930">1911-1930</unitdate>
+							<physdesc>[17 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.34</container>
+							<unittitle>Canby, Henry S., </unittitle>
+							<unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.35</container>
+							<unittitle>Cannon, Annie J. (Harvard College Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1920/1931">1920-1931</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.36</container>
+							<unittitle>Carnegie Institute of Washington, </unittitle>
+							<unitdate type="inclusive" normal="1910/1913">1910-1913</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.37</container>
+							<unittitle>Carroll, Ruth (Robinson) (VC 1922), </unittitle>
+							<unitdate type="inclusive" normal="1922/1925">1922-1925,
+								undated</unitdate>
+							<physdesc>[15 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.38</container>
+							<unittitle>Chase, Frederica (Lick Observatory, University of
+								California), </unittitle>
+							<unitdate type="inclusive" normal="1906">1906, undated</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.39</container>
+							<unittitle>Cobb, [Florence?] B., </unittitle>
+							<unitdate type="inclusive" normal="1919/1922">1919-1922</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.40</container>
+							<unittitle>D General, </unittitle>
+							<unitdate type="inclusive" normal="1904/1934">1904-1934</unitdate>
+							<physdesc>[13 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.41</container>
+							<unittitle>Doolittle, Eric (University of Pennsylvania, Flower
+								Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1896/1900">1896-1900</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.42</container>
+							<unittitle>E General, </unittitle>
+							<unitdate type="inclusive" normal="1914/1928">1914-1928</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.43</container>
+							<unittitle>Edmonds, Harry (International House, NY), </unittitle>
+							<unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate>
+							<physdesc>[13 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.44</container>
+							<unittitle>Emoto, S., </unittitle>
+							<unitdate type="inclusive" normal="1918/1926">1918-1926</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.45</container>
+							<unittitle>F General, </unittitle>
+							<unitdate type="inclusive" normal="1910/1930">1910-1930</unitdate>
+							<physdesc>[16 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.46</container>
+							<unittitle>Fairweather, Elizabeth, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>Frost, Edwin B. and Mary, </unittitle>
+							<unitdate type="inclusive" normal="1900/1921">1900, 1921</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.48</container>
+							<unittitle>Furness, H.B. (Henry B.), </unittitle>
+							<unitdate type="inclusive" normal="1887/1890">1887-1890</unitdate>
+							<physdesc>[27 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.49</container>
+							<unittitle>Furness, H.B. (Henry B.), </unittitle>
+							<unitdate type="inclusive" normal="1891/1896">1891-1896</unitdate>
+							<physdesc>[27 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.50</container>
+							<unittitle>Furness, H.B. (Henry B.), </unittitle>
+							<unitdate type="inclusive" normal="1897/1903">1897-1903</unitdate>
+							<physdesc>[28 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle>Furness, H.B. (Henry B.), </unittitle>
+							<unitdate type="inclusive" normal="1904/1911">1904-1911</unitdate>
+							<physdesc>[49 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.52</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1888">1888</unitdate>
+							<physdesc>[9 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.53</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1889">1889</unitdate>
+							<physdesc>[13 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.54</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1891/1898">1891, 1898</unitdate>
+							<physdesc>[7 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="1902/1914">1902-1914</unitdate>
+							<physdesc>[11 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.56</container>
+							<unittitle>Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[34 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>G General, </unittitle>
+							<unitdate type="inclusive" normal="1913/1924">1913-1924</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle>Groenman, [Bebu?], </unittitle>
+							<unitdate type="inclusive" normal="1908/1920">1908-1920</unitdate>
+							<physdesc>[16 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.59</container>
+							<unittitle>H General, </unittitle>
+							<unitdate type="inclusive" normal="1907/1931">1907-1931</unitdate>
+							<physdesc>[21 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>Haas, Phoebe (Waterman) (Mount Wilson Solar Observatory; VC
+								1904), </unittitle>
+							<unitdate type="inclusive" normal="1906/1913">1906-1913</unitdate>
+							<physdesc>[15 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.61</container>
+							<unittitle>Hawes, Alberta (University of Michigan Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1925/1929">1925-1929,
+								undated</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.62</container>
+							<unittitle>Hedrick, John (Georgetown College Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1910/1923">1910-1923</unitdate>
+							<physdesc>[10 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.63</container>
+							<unittitle>Holmes, John Haynes, </unittitle>
+							<unitdate type="inclusive" normal="1911/1923">1911-1923</unitdate>
+							<physdesc>[11 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.64</container>
+							<unittitle>I General, </unittitle>
+							<unitdate type="inclusive" normal="1918/1923">1918-1923</unitdate>
+							<physdesc>[18 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.65</container>
+							<unittitle>Imaoka, Nokuichiro (The Japan Unitarian Association), </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.66</container>
+							<unittitle>Inouye, Hide [Inoue, Hideko], </unittitle>
+							<unitdate type="inclusive" normal="1922">1922</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.67</container>
+							<unittitle>Jacoby, Harold (Columbia University Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1897/1922">1897-1922</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.68</container>
+							<unittitle><emph render="italic">The Japan Advertiser</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.69</container>
+							<unittitle><emph render="italic">The Japan Times</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.02</container>
+							<unittitle>Japanese Red Cross Society (Societe Japonaise de la
+								Croix-Rouge), </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[6 letters, 1 report]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.70</container>
+							<unittitle>K General, </unittitle>
+							<unitdate type="inclusive" normal="1887/1929">1887-1929</unitdate>
+							<physdesc>[26 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.71</container>
+							<unittitle>Kano, Hisaakira and Tateu, </unittitle>
+							<unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
+							<physdesc>[12 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.72</container>
+							<unittitle>Kapteyn, Jacobus (University of Groningen), </unittitle>
+							<unitdate type="inclusive" normal="1910/1929">1910, 1929,
+								undated</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.73</container>
+							<unittitle>Kawai, Michi, </unittitle>
+							<unitdate type="inclusive" normal="1919">1919</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74</container>
+							<unittitle>Kunihara, M., </unittitle>
+							<unitdate type="inclusive" normal="1921">1921</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.75</container>
+							<unittitle>L General, </unittitle>
+							<unitdate type="inclusive" normal="1910/1929">1910-1929</unitdate>
+							<physdesc>[22 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.76</container>
+							<unittitle>Lampland, Carl Otto (Lowell Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1916/1917">1916-1917</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.77</container>
+							<unittitle>Lathrop, John Howland, </unittitle>
+							<unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.78</container>
+							<unittitle>M General, </unittitle>
+							<unitdate type="inclusive" normal="1900/1931">1900-1931</unitdate>
+							<physdesc>[29 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.79</container>
+							<unittitle>MacCracken, Henry, </unittitle>
+							<unitdate type="inclusive" normal="1917/1931">1917-1931</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.80</container>
+							<unittitle>Macomber, Alexander, </unittitle>
+							<unitdate type="inclusive" normal="1915/1929">1915-1929</unitdate>
+							<physdesc>[19 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.81</container>
+							<unittitle>Macomber, James, </unittitle>
+							<unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.82</container>
+							<unittitle>Macomber, Philip, </unittitle>
+							<unitdate type="inclusive" normal="1917/1921">1917-1921</unitdate>
+							<physdesc>[32 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.83</container>
+							<unittitle>Moore, Eva Perry (National Council of Women), </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[7 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.84</container>
+							<unittitle>N General, </unittitle>
+							<unitdate type="inclusive" normal="1899/1930">1899-1930</unitdate>
+							<physdesc>[14 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.85</container>
+							<unittitle>[Narkena, Joh'se?] and [Burna, R. Warsena?], </unittitle>
+							<unitdate type="inclusive" normal="1908/1913">1908-1913</unitdate>
+							<physdesc>[12 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.86</container>
+							<unittitle>National American Woman Suffrage Association, </unittitle>
+							<unitdate type="inclusive" normal="1918">1918</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.01</container>
+							<unittitle>O General, </unittitle>
+							<unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.02</container>
+							<unittitle>O'Neil, Rose, </unittitle>
+							<unitdate type="inclusive" normal="1927/1929">1927, 1929</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.03</container>
+							<unittitle>Osabe, Shirow, </unittitle>
+							<unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
+							<physdesc>[7 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.04</container>
+							<unittitle>Oyama family, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920, undated</unitdate>
+							<physdesc>[2 letters, 1 in Japanese]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.05</container>
+							<unittitle>P General, </unittitle>
+							<unitdate type="inclusive" normal="1888/1931">1888-1931</unitdate>
+							<physdesc>[31 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.06</container>
+							<unittitle>Pan-Pacific Union, </unittitle>
+							<unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate>
+							<physdesc>[4 letters, 2 printed ephemera]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.07</container>
+							<unittitle>Parsons, Harriet McWilliams (Yerkes Observatory; VC 1915), </unittitle>
+							<unitdate type="inclusive" normal="1915/1921">1915-1921</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.08</container>
+							<unittitle>R General, </unittitle>
+							<unitdate type="inclusive" normal="1900/1922">1900-1922</unitdate>
+							<physdesc>[13 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.09</container>
+							<unittitle>Renner, Martha (Mount Wilson Solar Observatory; VC 1909), </unittitle>
+							<unitdate type="inclusive" normal="1911/1912">1911-1912</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.10</container>
+							<unittitle>S General, </unittitle>
+							<unitdate type="inclusive" normal="1886/1929">1886-1929</unitdate>
+							<physdesc>[34 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.11</container>
+							<unittitle>Smith, Ruth Emily (Mount Wilson Solar Observatory; VC 1906), </unittitle>
+							<unitdate type="inclusive" normal="1906/1912">1906-1912</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.12</container>
+							<unittitle>Stefansson, Vilhjalmur, </unittitle>
+							<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.13</container>
+							<unittitle><emph render="italic">The Survey</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1920/1928">1920-1928</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.14</container>
+							<unittitle>T General, </unittitle>
+							<unitdate type="inclusive" normal="1908/1924">1908-1924</unitdate>
+							<physdesc>[10 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.15</container>
+							<unittitle>Uchigasaki, Sakusaburo, </unittitle>
+							<unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate>
+							<physdesc>[13 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.16</container>
+							<unittitle>Uhyenthart, C. M., </unittitle>
+							<unitdate type="inclusive" normal="1909">1909, undated</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.17</container>
+							<unittitle>Uriu, Shigeko (Nagai), </unittitle>
+							<unitdate type="inclusive" normal="19110611">1911 Jun 11</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.18</container>
+							<unittitle>V General, </unittitle>
+							<unitdate type="inclusive" normal="1908/1928">1908-1928</unitdate>
+							<physdesc>[12 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.19</container>
+							<unittitle>W General, </unittitle>
+							<unitdate type="inclusive" normal="1889/1931">1889-1931</unitdate>
+							<physdesc>[28 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.20</container>
+							<unittitle>Waring, Louisa, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.21</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1890">1890</unitdate>
+							<physdesc>[14 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.22</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1891">1891</unitdate>
+							<physdesc>[26 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.23</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1892">1892</unitdate>
+							<physdesc>[33 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.24</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1893">1893</unitdate>
+							<physdesc>[26 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.25</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1894">1894</unitdate>
+							<physdesc>[34 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.26</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1895">1895</unitdate>
+							<physdesc>[9 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.27</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1896">1896</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.28</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1897">1897</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.29</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1898">1898</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.30</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1899">1899</unitdate>
+							<physdesc>[33 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.31</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1900">1900</unitdate>
+							<physdesc>[15 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.32</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1901/1903">1901-1903</unitdate>
+							<physdesc>[8 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.33</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1904">1904</unitdate>
+							<physdesc>[32 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.34</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1905/1907">1905, 1907</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.35</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1909">1909</unitdate>
+							<physdesc>[18 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.36</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191006/191009">1910
+								Jun-Sep</unitdate>
+							<physdesc>[65 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.37</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191010/191012">1910
+								Oct-Dec</unitdate>
+							<physdesc>[69 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.38</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191101/191102">1911
+								Jan-Feb</unitdate>
+							<physdesc>[55 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.39</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191103/191104">1911
+								Mar-Apr</unitdate>
+							<physdesc>[41 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.40</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191105/191108">1911
+								May-Aug</unitdate>
+							<physdesc>[75 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.41</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191109/191112">1911
+								Sep-Dec</unitdate>
+							<physdesc>[70 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.42</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191201">1912 Jan</unitdate>
+							<physdesc>[24 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.43</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191202/191204">1912
+								Feb-Apr</unitdate>
+							<physdesc>[64 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.44</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191205/191208">1912
+								May-Aug</unitdate>
+							<physdesc>[63 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.45</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191209/191212">1912
+								Sep-Dec</unitdate>
+							<physdesc>[76 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.46</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191301/191303">1913
+								Jan-Mar</unitdate>
+							<physdesc>[57 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.01</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191304/191306">1913
+								Apr-Jun</unitdate>
+							<physdesc>[48 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.02</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="191307/191312">1913
+								Jul-Dec</unitdate>
+							<physdesc>[69 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.03</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate>
+							<physdesc>[41 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.04</container>
+							<unittitle>Whitney, Mary Watson, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[14 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.05</container>
+							<unittitle>Wickham, Lillian M. (Mount Wilson Solar Observatory; VC
+								1907), </unittitle>
+							<unitdate type="inclusive" normal="1908/1909">1908-1909</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.06</container>
+							<unittitle>Y General, </unittitle>
+							<unitdate type="inclusive" normal="1915/1931">1915-1931</unitdate>
+							<physdesc>[13 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.07</container>
+							<unittitle>Yasui, Tetsu, </unittitle>
+							<unitdate type="inclusive" normal="1920/1923">1920, 1923</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.08</container>
+							<unittitle>Young, Anne Sewell (Mount Holyoke College Observatory), </unittitle>
+							<unitdate type="inclusive" normal="1924, 1931">1924, 1931</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.09</container>
+							<unittitle>Unidentified, </unittitle>
+							<unitdate type="inclusive" normal="1868/1907">1868-1907</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.10</container>
+							<unittitle>Unidentified, </unittitle>
+							<unitdate type="inclusive" normal="1908/1909">1908-1909</unitdate>
+							<physdesc>[7 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.11</container>
+							<unittitle>Unidentified, </unittitle>
+							<unitdate type="inclusive" normal="1912/1933">1912-1933</unitdate>
+							<physdesc>[17 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.12</container>
+							<unittitle>Unidentified, </unittitle>
+							<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+							<physdesc>[12 letters in Japanese]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.13</container>
+							<unittitle>Unidentified, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence Between Others</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Multiple Collection Box 1 (Oversize)</container>
+							<unittitle>Baker, Louisa to Furness, Caroline Sarah (Baker), </unittitle>
+							<unitdate type="inclusive"/>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.14</container>
+							<unittitle>Whitney, Mary Watson to Furness, Mary Baker, </unittitle>
+							<unitdate type="inclusive" normal="18910222">1891 Feb 22</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.15</container>
+							<unittitle>Unidentified fragments, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[2 fragments]</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Personal and Professional Papers, </unittitle>
+					<unitdate type="inclusive" normal="1901/1938">1901-1938</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.16</container>
+						<unittitle>American Association of Variable Star Observers, annual meeting
+							pamphlet, </unittitle>
+						<unitdate type="inclusive" normal="1921">1921</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.17</container>
+						<unittitle>China Club of Seattle, resolutions, </unittitle>
+						<unitdate type="inclusive" normal="19180622">1918 Jun 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.18</container>
+						<unittitle>Furness, Caroline - Passports, </unittitle>
+						<unitdate type="inclusive" normal="1918/1926">1918, 1926</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.19</container>
+						<unittitle>Furness, Samuel - Obituary, </unittitle>
+						<unitdate type="inclusive" normal="1914">1914</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.20</container>
+						<unittitle>Japan: Business cards, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.21</container>
+						<unittitle>Japan: Ephemera and receipts, </unittitle>
+						<unitdate type="inclusive" normal="1919/1925">1919-1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.22</container>
+						<unittitle>Japan: Invitations and ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1918/1923">1918-1923</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.23</container>
+						<unittitle>Japan: Notes, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 5 (Oversize)</container>
+						<unittitle>Japan: Wooden box containing a cloth scroll with a message in Japanese from the Women's Patriotic Association of Japan to the AAVC, </unittitle>
+						<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						<physdesc>[27x7x7 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.24</container>
+						<unittitle>Netherlands: Ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1905">1905, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.25</container>
+						<unittitle>Printed ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1923/1929">1923-1929</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.26</container>
+						<unittitle>Third Pan-Pacific Science Congress, Japan, program and notebook, </unittitle>
+						<unitdate type="inclusive" normal="1926">1926</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Vassar College Astronomy
+							Department</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.27</container>
+							<unittitle>Furness promotion correspondence, </unittitle>
+							<unitdate type="inclusive" normal="1911/1915">1911-1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.28</container>
+							<unittitle>Invoices and receipts, </unittitle>
+							<unitdate type="inclusive" normal="1923/1927">1923-1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.29</container>
+							<unittitle>Observatory, bank books, </unittitle>
+							<unitdate type="inclusive" normal="1901/1930">1901-1911, 1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.30</container>
+							<unittitle>Press releases, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.31</container>
+							<unittitle>Reports and budgets, </unittitle>
+							<unitdate type="inclusive" normal="1923/1938">1923-1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.32</container>
+							<unittitle>Student papers, A-E, </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.33</container>
+							<unittitle>Student papers, F-M, </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.34</container>
+							<unittitle>Student papers, R-S, </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.35</container>
+							<unittitle>Student papers, T-Z and fragments, </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.36</container>
+						<unittitle>Vassar College Fellowship Committee report, </unittitle>
+						<unitdate type="inclusive" normal="1910">1910</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Writings, </unittitle>
+					<unitdate type="inclusive" normal="1890/1928">1890-1928</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.37</container>
+						<unittitle>Astronomical notebook, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.38</container>
+						<unittitle>Birdwatching journal, </unittitle>
+						<unitdate type="inclusive" normal="1890/1895">1890-1895</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.39</container>
+						<unittitle>Birdwatching journal, </unittitle>
+						<unitdate type="inclusive" normal="1896/1897">1896-1897</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.40</container>
+						<unittitle><emph render="italic">An Introduction to the Study of Variable
+								Stars</emph>, correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1915/1924">1915-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.41</container>
+						<unittitle><emph render="italic">An Introduction to the Study of Variable
+								Stars</emph>, reviews, </unittitle>
+						<unitdate type="inclusive" normal="1915/1917">1915-1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.42</container>
+						<unittitle>"Medical Opportunities for Women in Japan," correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1920">1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 3.43-3.46</container>
+						<unittitle>Notebook, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.47</container>
+						<unittitle>Notebook - "Holland", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.48</container>
+						<unittitle>Notebook - "The Heat of the Sun", </unittitle>
+						<unitdate type="inclusive" normal="1895">1895</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.49</container>
+						<unittitle>Notes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.50</container>
+						<unittitle>Notes - "England and London", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.51</container>
+						<unittitle>Notes - Furness family, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.52</container>
+						<unittitle>Notes - Personal, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.53</container>
+						<unittitle>Poems and drawings, </unittitle>
+						<unitdate type="inclusive" normal="1890">1890, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.54</container>
+						<unittitle><emph render="italic">Perturbations</emph>, draft, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[TS with MS formulae, 378 p.]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.55</container>
+						<unittitle>Travel journal, </unittitle>
+						<unitdate type="inclusive" normal="190106/190109">1901 Jun-Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.56</container>
+						<unittitle>Travel journal, </unittitle>
+						<unitdate type="inclusive" normal="192606/192610">1926 Jun-Oct</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.57</container>
+						<unittitle>Travel journal, </unittitle>
+						<unitdate type="inclusive" normal="1926/1928">1926, 1928</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.58</container>
+						<unittitle>Untitled work about Louisa May Alcott, draft, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[MS, 18 p.]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Photographs, </unittitle>
+					<unitdate type="inclusive" normal="1870/1926">circa 1870-1926,
+						undated</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.03</container>
+						<unittitle>Balangas, Philippines, </unittitle>
+						<unitdate type="inclusive" normal="1910/1919">circa 1910s</unitdate>
+						<physdesc>[3 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.04</container>
+						<unittitle>Furness, Caroline - Baby photographs, </unittitle>
+						<unitdate type="inclusive" normal="1870">circa 1870</unitdate>
+						<physdesc>[26 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.05</container>
+						<unittitle>Furness, Caroline - Childhood and family, </unittitle>
+						<unitdate type="inclusive" normal="1872/1886">circa 1872-1886</unitdate>
+						<physdesc>[17 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.06</container>
+						<unittitle>Furness, Caroline - Portrait, </unittitle>
+						<unitdate type="inclusive" normal="1896">circa 1896</unitdate>
+						<physdesc>[5 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.07</container>
+						<unittitle>Furness, Caroline - Teaching years, </unittitle>
+						<unitdate type="inclusive" normal="1908/1930">circa 1908-1930</unitdate>
+						<physdesc>[7 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.08</container>
+						<unittitle>Furness, Caroline - Vassar years, </unittitle>
+						<unitdate type="inclusive" normal="1887/1891">circa 1887-1891</unitdate>
+						<physdesc>[6 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.09</container>
+						<unittitle>Furness, Caroline in Japan, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						<physdesc>[2 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.10</container>
+						<unittitle>Furness, Caroline in Japan, group photograph (including S.
+							Uchigasaki), </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.11</container>
+						<unittitle>Furness, Caroline in Japan, group photograph with Japanese women
+							in Mito, Japan, </unittitle>
+						<unitdate type="inclusive" normal="19190621">1919 Jun 21</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.12</container>
+						<unittitle>Furness, Caroline in Japan with Japanese military officials, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.13</container>
+						<unittitle>Furness, Caroline in Japan with Japanese Unitarians, </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.14</container>
+						<unittitle>Furness, Caroline in Japan with the Society for the Study of
+							Women's Problems, </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.15</container>
+						<unittitle>Furness, Caroline in Japan with Taitsu Sunday School staff and
+							students, Tokyo, </unittitle>
+						<unitdate type="inclusive" normal="191906">1919 Jun</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.16</container>
+						<unittitle>Furness, Caroline in Japan with unidentified groups, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						<physdesc>[5 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.17</container>
+						<unittitle>Furness, Caroline in Japan with unidentified individuals, </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+						<physdesc>[4 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.18</container>
+						<unittitle>Furness, Caroline with Shirow Osabe and Chikako Kinoshita, </unittitle>
+						<unitdate type="inclusive" normal="19261014">1926 Oct 14</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.19</container>
+						<unittitle>Furness, Caroline with Vassar College Observatory cat, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[4 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.20</container>
+						<unittitle>Holden, Edward Roy (age 9 months), </unittitle>
+						<unitdate type="inclusive" normal="18970929">1897 Sep 29</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.21</container>
+						<unittitle>Morris, William and family, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[2 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.22</container>
+						<unittitle>Saiki family, Kyoto, </unittitle>
+						<unitdate type="inclusive" normal="1914">1914</unitdate>
+						<physdesc>[1 photograph]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.23</container>
+						<unittitle>Vassar College campus, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[14 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.24</container>
+						<unittitle>Vassar College Observatory, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[6 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.25</container>
+						<unittitle>Vassar College Observatory apartment, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[6 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.26</container>
+						<unittitle>Whitney, Mary Watson, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[4 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.27</container>
+						<unittitle>Whitney, Mary Watson with Caroline Furness and others, </unittitle>
+						<unitdate type="inclusive" normal="1890/1909">1890, 1909, undated</unitdate>
+						<physdesc>[11 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.28</container>
+						<unittitle>Unidentified individuals and groups, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[26 photographs]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Vassar Family Research, </unittitle>
+					<unitdate type="inclusive" normal="1926/1932">1926-1932</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Correspondence</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.29</container>
+							<unittitle>Ambler, Alice to and from Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1928">1928</unitdate>
+							<physdesc>[12 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.30</container>
+							<unittitle>Barnaby, E. L. to Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.31</container>
+							<unittitle>Bernau, R. and Charles to and from Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1928/1931">1928-1931</unitdate>
+							<physdesc>[10 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.32</container>
+							<unittitle>Galloway, L.M. to Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.33</container>
+							<unittitle>Hallinan, Hazel to and from Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1928">1928</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.34</container>
+							<unittitle>Harwood, Margaret to Furness, Caroline (including 3
+								transcribed letters from Matthew Vassar to Maria Mitchell and 1
+								transcribed lecture by Maria Mitchell), </unittitle>
+							<unitdate type="inclusive" normal="1929">1929</unitdate>
+							<physdesc>[2 letters, 3 transcribed letters, 1 transcribed
+								lecture]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.35</container>
+							<unittitle>Malerby, [Mrs.] to and from Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="192805/192808">1928
+								May-Aug</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.36</container>
+							<unittitle>Miscellaneous to Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1926/1932">1926-1932</unitdate>
+							<physdesc>[21 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.37</container>
+							<unittitle>Mottram, R. H. from Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="192803/192805">1928
+								Mar-May</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.38</container>
+							<unittitle>Schwab, Mildred to and from Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="192810/192811">1928
+								Oct-Nov</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.39</container>
+							<unittitle>Various to Furness, Caroline concerning Matthew Vassar
+								portraits, </unittitle>
+							<unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.40</container>
+							<unittitle>Vassar, William A. F. (and Fred Johnson) to and from Furness,
+								Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1928/1931">1928-1931</unitdate>
+							<physdesc>[10 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.41</container>
+							<unittitle>Vores, B. H. to and from Furness, Caroline, </unittitle>
+							<unitdate type="inclusive" normal="1928">1928</unitdate>
+							<physdesc>[4 letters, 1 report]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Notes</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 4.42-4.43</container>
+							<unittitle>Matthew Vassar family, </unittitle>
+							<unitdate type="inclusive" normal="1928">circa 1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.44</container>
+							<unittitle>Vassar family and property, </unittitle>
+							<unitdate type="inclusive" normal="1928">circa 1928</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Research</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.45</container>
+							<unittitle>Transcribed documents, </unittitle>
+							<unitdate type="inclusive" normal="1928">circa 1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.46</container>
+							<unittitle>Vassar, Matthew, Jr. - Diary (1890-1931), </unittitle>
+							<unitdate type="inclusive" normal="1928">circa 1928</unitdate>
+							<physdesc>[transcript]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Writings</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.47</container>
+							<unittitle>Ambler, Alice, "Matthew Vassar's French Huguenot Ancestry,"
+									<emph render="italic">Vassar Quarterly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="192811">1928 Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.48</container>
+							<unittitle>Furness, Caroline, "Matthew Vassar's Family," <emph
+									render="italic">Vassar Quarterly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="192811">1928 Nov</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

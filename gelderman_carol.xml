@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_gelderman_carol
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Carol Gelderman Papers, 1981-1984</titleproper>
+				<author>Inventory prepared by Madeleine Amodio</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>7 July 2011</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Madeleine Amodio, <date>2011</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Gelderman, Carol W.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> The Carol Gelderman Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1981-1984 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 4.9 cubic feet (7 Boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> This collection comprises the research material Carol Gelderman compiled for use in her biography of Mary McCarthy, entitled <emph render="italic">Mary McCarthy: A Life</emph>. The bulk of the collection is interview material, including audio cassettes. Several of the interviews were with Mary McCarthy but most were with others who knew or worked with McCarthy. There is also correspondence as well as articles and portions of books either by or about Mary McCarthy and her work.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Carol Wettlaufer Gelderman, born on 2 December 1939, first became interested in Mary McCarthy after discovering they had both been educated for a time by The Religious of the Sacred Heart. This interest of hers would eventually lead to writing or editing several pieces about Mary McCarthy, including <emph render="italic">Mary McCarthy: A Life</emph>, the first comprehensive biography of Mary McCarthy, and <emph render="italic">Conversations with Mary McCarthy</emph>. She also contributed to <emph render="italic">Twenty-four Ways of Looking at Mary McCarthy: The Writer and Her Work</emph>.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p> This collection comprises the research material Carol Gelderman compiled for use in her biography of Mary McCarthy, entitled <emph render="italic">Mary McCarthy: A Life</emph>. The bulk of the collection is interview material, including audio cassettes. Several of the interviews were with Mary McCarthy but most were with others who knew or worked with McCarthy. There is also correspondence as well as articles and portions of books either by or about Mary McCarthy and her work.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-mary-mccarthy-papers-1925-1990-bulk-1960-1989">Mary McCarthy Papers</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> McCarthy, Mary, 1912-1989</persname>
+				<persname source="lcnaf" encodinganalog="600"> Wilson, Edmund, 1895-1972</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Novelists</subject>
+				<subject source="lcsh" encodinganalog="650"> Women authors--Biography</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> Castine (Me.)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Interviews </genreform>
+				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Madeleine Amodio, July 2011.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Madeleine Amodio in July 2011. Last updated 7 July 2011.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The bulk of the collection was received in 2005 from Carol Gelderman (M2005-016). Additional material was received in 2009 (M2009-014). </p>
+		</acqinfo>
+		<phystech>
+			<head>Physical Characteristics and Technical Requirements</head>
+			<p>A tape player is required to play the tapes in Series X.</p>
+		</phystech>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>The Carol Gelderman Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Forebears </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series I contains original photographs given to Carol Gelderman by Mary McCarthy which portray her family and herself, and also a detailed file on Simon Manly Preston, Mary McCarthy's great-grandfather.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II. </ref> Early Childhood </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series II contains notes, correspondence, and research conducted by Carol Gelderman into Mary McCarthy's early Seattle childhood.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III. </ref> Vassar Years </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series III contains copies of prose composed by Mary McCarthy in her time at Vassar College, as well as reviews of <emph render="italic">The Group</emph> and interviews and articles about Mary McCarthy and her time at Vassar.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series IV. </ref> First Marriage </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series IV contains both interviews and articles published during the time of Mary McCarthy's first marriage and correspondence from Mary McCarthy to Emmanuel Roussuck, who was an art dealer who routinely lent her paintings for parties.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> Series V. </ref> Partisan Review </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series V contains articles and interviews taken from the Partisan Review. The bulk of this series is interviews with friends of Mary McCarthy.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6"> Series VI. </ref> Second Marriage </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series VI contains information pertaining to Mary McCarthy's second marriage, including personal information about Edmund Wilson and articles both by and about Mary McCarthy published during the time of her second marriage.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7"> Series VII. </ref> Third Marriage/Later Years </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series VII contains research and information about Mary McCarthy in her later years, and during the time period of her third marriage.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8"> Series VIII. </ref> Fourth Marriage </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series VIII contains, along with information about the CIA's investigation into Mary McCarthy, information about her from the time period of her fourth marriage, including information about her Vietnam trip and the Lillian Hellman/Mary McCarthy court case.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9"> Series IX. </ref> Interview Transcriptions and Interview Requests </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series IX contains interview requests and written interviews conducted by Carol Gelderman.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10"> Series X. </ref> Recorded Interviews </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series X contains cassette tape recordings of interviews Carol Gelderman conducted with various people. The numbering system for this series was devised by the archivist.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series11"> Series XI. </ref> Mary McCarthy Correspondence </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series XI contains correspondence from and to Mary McCarthy, with the bulk being copies of letters Mary McCarthy sent to others.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series12"> Series XII. </ref> Miscellaneous </unittitle>
+				</did>
+				<scopecontent>
+					<p>Series XII contains various correspondence and reviews of <emph render="italic">Mary McCarthy: A life</emph>, as well as several publications pertaining to Gelderman's research.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I: Forebears </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1 </container>
+						<unittitle> Original Mary McCarthy Photos </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle> Simon Manly Preston </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II: Early Childhood </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> Early Childhood </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4 </container>
+						<unittitle> Seattle Years- Forest Ridge 1912-1918 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.5 </container>
+						<unittitle> Seattle Years- Annie Wright Episcopal 1912-1918 </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III: Vassar Years </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folders 1.6-1.7 </container>
+						<unittitle> Vassar College </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.8 </container>
+						<unittitle> Vassar Years- Interviews/Articles </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Series IV: First Marriage </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9 </container>
+						<unittitle> First Marriage- Interviews/Articles </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.10 </container>
+						<unittitle> Emmanuel Roussuck - Art Dealer </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> Series V: Partisan Review </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folders 1.11-1.12 </container>
+						<unittitle> Articles/Miscellaneous </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.13 </container>
+						<unittitle> Interviews </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.1 </container>
+						<unittitle> Interviews- Irving Howe </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.2 </container>
+						<unittitle> Interviews- Dwight Macdonald to Nicola Chiaromonte </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.14 </container>
+						<unittitle> Interviews- Dwight Macdonald </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.15 </container>
+						<unittitle> Interviews- Delmore Schwartz </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.16 </container>
+						<unittitle> Interviews- Stephen Spender </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> Series VI: Second Marriage </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.17 </container>
+						<unittitle> Personal Information/Edmund Wilson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.18 </container>
+						<unittitle> Second Marriage- Edmund Wilson Information- Rosalind Wilson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.19 </container>
+						<unittitle> Portsmouth/Wellfleet- <emph render="italic">The Oasis</emph> Xerox- Robert Cowell Papers, 1949-1955 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.20 </container>
+						<unittitle> Part VI: Jim West, 1960-1987 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.21 </container>
+						<unittitle> Second Marriage- Articles By/About Mary McCarthy- Articles, 1940-1945 </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle> Series VII: Third Marriage/Later Years </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.22 </container>
+						<unittitle> Hannah Arendt From 1949 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.23 </container>
+						<unittitle> Hannah Arendt From 1949- Reviews of Hannah Arendt </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.24 </container>
+						<unittitle> Articles/Books about Mary McCarthy, 1949-1962 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.3 </container>
+						<unittitle> Articles/Books about Mary McCarthy, 1949-1962 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.25 </container>
+						<unittitle> Articles About Mary McCarthy, 1949-1962 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.26 </container>
+						<unittitle>
+							<emph render="italic">The Oasis</emph>- A Xerox of 1st Edition: Random House </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.1 </container>
+						<unittitle> Later Years- Carol Gelderman Interviews with Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.2 </container>
+						<unittitle> Later Years- Carol Gelderman Interviews with Mary McCarthy- Summer 1984, </unittitle>
+						<unitdate> 1984 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.3 </container>
+						<unittitle> Carol Gelderman Stuff- Letters from Library, etc.- 3rd/4th Marriage, Later Years </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.6 </container>
+						<unittitle> Third Marriage- Articles by Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.7 </container>
+						<unittitle> Third Marriage- Articles by Mary McCarthy- Congress for Cultural Freedom </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.8 </container>
+						<unittitle> Third Marriage- Articles by Mary McCarthy- John Davenport </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle> Series VIII: Fourth Marriage </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.4 </container>
+						<unittitle> Investigation by CIA into Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.9 </container>
+						<unittitle> Vietnam- Vietnam </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.10 </container>
+						<unittitle> Vietnam- Articles about Mary McCarthy/Vietnam </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.11 </container>
+						<unittitle> Writings- Later Life- Mary McCarthy Speeches </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.12 </container>
+						<unittitle> Writings- Later Life-Articles/Book Reviews by Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.13 </container>
+						<unittitle> Writings- Later Life-Articles/Book Reviews about Mary McCarthy, 1963-1987 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 2.14-2.15 </container>
+						<unittitle> Writings- Later Life </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.4 </container>
+						<unittitle> Writings- Later Life </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.16 </container>
+						<unittitle> Lillian Hellman/Mary McCarthy- Articles about Lillian Hellman and Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.17 </container>
+						<unittitle> Lillian Hellman/Mary McCarthy- Mary McCarthy/Lillian Hellman Court Case </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.18 </container>
+						<unittitle> Articles/Book Reviews- Mary McCarthy Bibliography </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.19 </container>
+						<unittitle> Articles/Book Reviews- Inventory of Mary McCarthy Archives at Vassar </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.20 </container>
+						<unittitle> Articles/Book Reviews- Mary McCarthy Death Notices </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle> Series IX: Interviews and Interview Requests </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.30 </container>
+						<unittitle> Malcolm Cowley, Sherman, Ct. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.31 </container>
+						<unittitle> Mrs Alan Barth </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.32 </container>
+						<unittitle> Mrs Elizabeth (Jerome) Greenebaum </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.33 </container>
+						<unittitle> Judy Knickerbocker- Mrs Nicholas </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.34 </container>
+						<unittitle> Helen Wilson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.35 </container>
+						<unittitle> Helen Sawyer Farnsworth - Mrs Jerry </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.36 </container>
+						<unittitle> Mrs Robert Penn Warren </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.37 </container>
+						<unittitle> Dr Gordon Ray, President of the John Simon Guggenheim Memorial Foundation </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.1 </container>
+						<unittitle> Possible Talk Stuff </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.2 </container>
+						<unittitle> William Buell Radio Free Europe </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.3 </container>
+						<unittitle> OECD Francis Cassavetti </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.4 </container>
+						<unittitle> Dick Cavett- Channel 13 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.5 </container>
+						<unittitle> Mrs F.W. Dupec </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.6 </container>
+						<unittitle> Mr and Mrs David DuVivier </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.7 </container>
+						<unittitle> Mrs Nicola Chiaromonte </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.8 </container>
+						<unittitle> Mrs Thomas Finletter- Eileen Geist </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.9 </container>
+						<unittitle> Philippe Franchine </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.10 </container>
+						<unittitle> Mrs Stuart Frazier </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.11 </container>
+						<unittitle> Stanley Geist </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.12 </container>
+						<unittitle> Brendan Gill - The New Yorker </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.13 </container>
+						<unittitle> Alan Gilyn </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.14 </container>
+						<unittitle> Hester Green and Mark Hamilton of A.M. Heath </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.15 </container>
+						<unittitle> Doris Grumbach </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.16 </container>
+						<unittitle> Walter Goldwater </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.17 </container>
+						<unittitle> Clement Greenberg </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.18 </container>
+						<unittitle> Miriam Gross </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.19 </container>
+						<unittitle> Elizabeth Hardwick </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.20 </container>
+						<unittitle> Francis Haskell </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.21 </container>
+						<unittitle> Mrs Benjamin Hibshman </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.22 </container>
+						<unittitle> Mary Hooven </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.23 </container>
+						<unittitle> Kot Jelenski </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.24 </container>
+						<unittitle> Mrs John Jessup- Eunice Clark </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.25 </container>
+						<unittitle> Colton Johnson Telephone Interview </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.26 </container>
+						<unittitle> Gloria Jones - Mrs James </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.27 </container>
+						<unittitle> William Jovanovich </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.28 </container>
+						<unittitle> Ward Just </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.29 </container>
+						<unittitle> Harold Kavlan </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.30 </container>
+						<unittitle> Mr and Mrs Terence Kilmartin (literary editor of <emph render="underline">Observer</emph>) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.31 </container>
+						<unittitle> Nicholas King </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.32 </container>
+						<unittitle> Dr Lotte Kohler </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.33 </container>
+						<unittitle> Lady Caroline Lowell </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.34 </container>
+						<unittitle> Mme Angelique Levi </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.35 </container>
+						<unittitle> Mary McCarthy to Mrs Robert Lowell- Elizabeth Hardwick </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.36 </container>
+						<unittitle> Dwight Macdonald </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.37 </container>
+						<unittitle> Nancy Macdonald </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.38 </container>
+						<unittitle> Flip McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.39 </container>
+						<unittitle> Mary Dabney McCarthy San Francisco </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.40 </container>
+						<unittitle> Kevin McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.41 </container>
+						<unittitle> Kevin McCarthy- Mary McCarthy Interviews Done for <emph render="underline">People</emph>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.42 </container>
+						<unittitle> Preston McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.43 </container>
+						<unittitle> Mrs Sheridan McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.44 </container>
+						<unittitle> James Merrill </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.45 </container>
+						<unittitle> Professor Ulrich Middledorf </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.46 </container>
+						<unittitle> Karl Miller </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.47 </container>
+						<unittitle> Herbert Mitgang </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.48 </container>
+						<unittitle> Mr and Mrs William Mostyn-Owen </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.49 </container>
+						<unittitle> Mrs Curt Muser </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.50 </container>
+						<unittitle> John Myers </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.51 </container>
+						<unittitle> Ellen Adler Oppenheim </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.52 </container>
+						<unittitle> Interview with Ben O'Sullivan </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.53 </container>
+						<unittitle> Benjamin O'Sullivan Interview </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.54 </container>
+						<unittitle> Cees Nooteboom </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.55 </container>
+						<unittitle> Cleo Paturis </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.56 </container>
+						<unittitle> Eleanor Perenai </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.57 </container>
+						<unittitle> William Phillips </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.58 </container>
+						<unittitle> Mrs William Prince- Augusta Dabney </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.59 </container>
+						<unittitle> Jonathan Kaudal - International Herald Tribune </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.60 </container>
+						<unittitle> John Richardson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.61 </container>
+						<unittitle> Yale Richmond </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.62 </container>
+						<unittitle> Jess Rosenberg </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.63 </container>
+						<unittitle> Larry Rivers </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.64 </container>
+						<unittitle> Mrs John Russell- Peggy Besnier </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.65 </container>
+						<unittitle> Mayer Schapiro </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.66 </container>
+						<unittitle> Brandt and Brandt </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.67 </container>
+						<unittitle> Arthur Schelsinger, Jr </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.68 </container>
+						<unittitle> The Reverend Mr and Mrs F.Q. Shafer </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.69 </container>
+						<unittitle> Elizabeth Niebuhr Sifton </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.70 </container>
+						<unittitle> William Shawn </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.71 </container>
+						<unittitle> Robert Silvers </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.72 </container>
+						<unittitle> Eileen Simpson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.73 </container>
+						<unittitle> Roger Straws </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.74 </container>
+						<unittitle> Werner Stemans </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.75 </container>
+						<unittitle> Eve Stwertka </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.76 </container>
+						<unittitle> Signora Fiorella Superbi </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.77 </container>
+						<unittitle> Diana Trilling </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.78 </container>
+						<unittitle> Niccolo Tucci </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.79 </container>
+						<unittitle> Frank Preston </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.80 </container>
+						<unittitle> William Tuohy- LA Times </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.81 </container>
+						<unittitle> Margo Viscusi </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.82 </container>
+						<unittitle> Nick Wahl </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.83 </container>
+						<unittitle> Mrs Charles Walker </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.84 </container>
+						<unittitle> Lord George Weidenfeld </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.85 </container>
+						<unittitle> Alison West </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.86 </container>
+						<unittitle> Mrs Harold Williams </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.87 </container>
+						<unittitle> Celia Woyawoda </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.88 </container>
+						<unittitle> Revel Wilson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.89 </container>
+						<unittitle> Francis Wyndham </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.90 </container>
+						<unittitle> Barry Zorthian </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.24 </container>
+						<unittitle> Lionel Abel </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.25 </container>
+						<unittitle> James Atlas </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.26 </container>
+						<unittitle> R.W. Abble, Jr- NYT London International Press Center </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.27 </container>
+						<unittitle> William Barrett </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.28 </container>
+						<unittitle> Signora Luigi Biso </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.29 </container>
+						<unittitle> Mrs William Blane </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.30 </container>
+						<unittitle> Dr Seymour Bonwit </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.31 </container>
+						<unittitle> Mary Brady- Mrs Leslie </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.32 </container>
+						<unittitle> Thomas F.S. Buckley </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.33 </container>
+						<unittitle> Irma Brandeis </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.34 </container>
+						<unittitle> Bowden Broadwater </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.35 </container>
+						<unittitle> [Correspondence to/from Carol Gelderman] </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle> Series X: Recorded Interviews </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.1 </container>
+						<unittitle> Nancy Macdonald, </unittitle>
+						<unitdate> 5 Jan 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.2 </container>
+						<unittitle> Dwight Macdonald </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.3 </container>
+						<unittitle> Walker- NYC, </unittitle>
+						<unitdate> 20 Oct </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.4 </container>
+						<unittitle> Elizabeth Hardwick- Her Apartment,</unittitle>
+						<unitdate> 21 Oct 1981 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.5 </container>
+						<unittitle> Eileen Simpson Side 2 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.6 </container>
+						<unittitle> Eileen Simpson Side 1 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.6 </container>
+						<unittitle> Rosamond Russell </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.7 </container>
+						<unittitle> Rosamond and John Russell </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.8 </container>
+						<unittitle> Brendan Gill </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.8 </container>
+						<unittitle> Shafer Side 1 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.9 </container>
+						<unittitle> Shafer Sides 2 and 3 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.10 </container>
+						<unittitle> Kevin McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.11 </container>
+						<unittitle> Kevin Sides 3 and 4 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.12 </container>
+						<unittitle> Mrs Sheridan McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.13 </container>
+						<unittitle> Preston McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.14 </container>
+						<unittitle> Mary McCarthy Interview </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.15 </container>
+						<unittitle> Tom Buckley McCarthy, </unittitle>
+						<unitdate> 12 Oct 1981 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.16 </container>
+						<unittitle> Silvers </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.17 </container>
+						<unittitle> Clement Greenberg, </unittitle>
+						<unitdate> Jan 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.18 </container>
+						<unittitle> William Shawn at the New Yorker,</unittitle>
+						<unitdate> 26 Oct 1981 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.18 </container>
+						<unittitle> Muser Side 1, </unittitle>
+						<unitdate> 26 Oct 1981 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.19 </container>
+						<unittitle> Muser Side 2 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.20 </container>
+						<unittitle> Prof. Ulrich Middeldorf, </unittitle>
+						<unitdate> 3 May </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.20 </container>
+						<unittitle> Signora E. Sartori,</unittitle>
+						<unitdate> 3 May </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.21 </container>
+						<unittitle> Jessup </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.22 </container>
+						<unittitle> Viscusi </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.23 </container>
+						<unittitle> Viscusi, </unittitle>
+						<unitdate> Jan 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.24 </container>
+						<unittitle> Mrs Stuart Frazier </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 5.25 </container>
+						<unittitle> Rosenberg Sides 1 and 2 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.1 </container>
+						<unittitle> Rosenberg Side 3 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.1 </container>
+						<unittitle> Frank Preston Side 1 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.2 </container>
+						<unittitle> Frank Preston Sides 2 and 3 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.3 </container>
+						<unittitle> Myrtle and Frank Preston Side 4, </unittitle>
+						<unitdate> 22 March 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.4 </container>
+						<unittitle> Mrs Harold Williams Side One </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.3 </container>
+						<unittitle> Mrs Harold Williams Side 2, </unittitle>
+						<unitdate> 22 March 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.4 </container>
+						<unittitle> Mary Dabney McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.5 </container>
+						<unittitle> August Dabney </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.6 </container>
+						<unittitle> Sir Harold Acton, </unittitle>
+						<unitdate> 2 May </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.7 </container>
+						<unittitle> Jon Nanday </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.7 </container>
+						<unittitle> Randal -Washington Post Office in Paris </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.8 </container>
+						<unittitle> Alison West- Institute of Fine Arts- NYU, </unittitle>
+						<unitdate> 10 June 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.9 </container>
+						<unittitle> Caroline Blackwood Lowell, </unittitle>
+						<unitdate> 13 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.10 </container>
+						<unittitle> Cees Nooteboom, </unittitle>
+						<unitdate> 20 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.11 </container>
+						<unittitle> Cees Nooteboom </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.12 </container>
+						<unittitle> Cleo Paturis </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.13 </container>
+						<unittitle> Francis Cassavetti, </unittitle>
+						<unitdate> 8 Dec, 23 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.14 </container>
+						<unittitle> William Tuohy- London,</unittitle>
+						<unitdate> 14 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.15 </container>
+						<unittitle> Philippe Franchine- Owner of Continental Palace in Saigon </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.16 </container>
+						<unittitle> Terrence Kilmartin, </unittitle>
+						<unitdate> 17 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.17 </container>
+						<unittitle> Terrence Kilmartin- London,</unittitle>
+						<unitdate> 18 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.17 </container>
+						<unittitle> Francis Haskell- Oxford, </unittitle>
+						<unitdate> 18 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.18 </container>
+						<unittitle> Miriam Grass at The London Observer,</unittitle>
+						<unitdate> 18 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.19 </container>
+						<unittitle> Mary Brady Side 1 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.19 </container>
+						<unittitle> Doris Grumbach </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.20 </container>
+						<unittitle> Countess Anna Maria Cigonga </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.21 </container>
+						<unittitle> Stwertka </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.22 </container>
+						<unittitle> Eve Stwertka, </unittitle>
+						<unitdate> 9 Jan 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.23 </container>
+						<unittitle> Madame Levi Sides 1 and 2 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.24 </container>
+						<unittitle> Angelique Levi </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.25 </container>
+						<unittitle> Walter Goldwater </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.26 </container>
+						<unittitle> Karl Miller- Head of Engineering Department University College London and London RB, </unittitle>
+						<unitdate> 15 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.26 </container>
+						<unittitle> Lord Weidenfeld 5-6pm, </unittitle>
+						<unitdate> 15 April 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.27 </container>
+						<unittitle> Kohler </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.28 </container>
+						<unittitle> William Mostyn-Owen </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Tape 6.29 </container>
+						<unittitle> Gaia Servadio Mostyn-Owen, </unittitle>
+						<unitdate> 19 April 1982 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle> Series XI: Mary McCarthy Correspondence </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.1 </container>
+						<unittitle> Mary McCarthy to Carmen </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.2 </container>
+						<unittitle> Mary McCarthy to Jim West/Jim West to Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.3 </container>
+						<unittitle> Edmund Wilson to Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.4 </container>
+						<unittitle> Mary McCarthy to Edmund Wilson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.5 </container>
+						<unittitle> Mary McCarthy to Ben O'Sullivan </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.6 </container>
+						<unittitle> To Frani Blough from Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.7 </container>
+						<unittitle> Mary McCarthy to William Jovanovich </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.8 </container>
+						<unittitle> William Jovanovich to Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.9 </container>
+						<unittitle> Sales Figures </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.10 </container>
+						<unittitle> Mary McCarthy to Doris Gumbach </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.11 </container>
+						<unittitle> Doris Gumbach to Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.12 </container>
+						<unittitle> Mary McCarthy to Bill shawn </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.13 </container>
+						<unittitle> Mary McCarthy to Fred Dupeel </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.14 </container>
+						<unittitle> Mary McCarhty to David and Ellie DuVivier </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.15 </container>
+						<unittitle> Mary McCarthy to Bernard Berenson </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.16 </container>
+						<unittitle> Mary McCarthy to Reuel Wilson/ RW to MM </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.17 </container>
+						<unittitle> Mary McCarthy to Dwight MacDonald </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.18 </container>
+						<unittitle> Mary McCarthy to Nicola Chiaromonte/ NC to Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.19 </container>
+						<unittitle> Hannah Arendt to Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.20 </container>
+						<unittitle> Mary McCarthy to Hannah Arendt </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 4.21-4.23 </container>
+						<unittitle> Miscellaneous Correspondence </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.5 </container>
+						<unittitle> Mary McCarthy to Kevin McCarthy </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series12">
+				<did>
+					<unittitle> Series XII: Miscellaneous </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.5 </container>
+						<unittitle> Letters to Carol Gelderman from Various People </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.21 </container>
+						<unittitle> Correspondence between Carol Gelderman and Mary McCarthy- Interview in Paris </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.22 </container>
+						<unittitle> Correspondence between Carol Gelderman and Mary McCarthy- From Carol Gelderman to Mary McCarthy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.23 </container>
+						<unittitle> McCarthy's Corrections on Galleys </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.24 </container>
+						<unittitle> [Correspondence from Mary McCarthy to Carol Gelderman] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.25 </container>
+						<unittitle> Copies of Letters between Mary McCarthy to Carol Gelderman- Some Maybe Missing i.e. in Other Files in Another Tape </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 2.26-2.27 </container>
+						<unittitle><emph render="italic"> Mary McCarthy: A Life</emph> - Reviews- Originals </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.28 </container>
+						<unittitle> Reviews of <emph render="italic">Mary McCarthy: a Life</emph>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.29 </container>
+						<unittitle> Carol Gelderman Reviews- <emph render="italic">Mary McCarthy: A Life</emph> Xerox copies </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.36 </container>
+						<unittitle> Nooteboom, Cees. "Nederlandse Poëzie." <emph render="italic">Avenue</emph>. May 1982: 132-133. Print. [Dutch] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.37 </container>
+						<unittitle> Banks, William Nathaniel. "Castine, Maine, and St. Andrews, New Brunswick, Canada."<emph render="italic"> The Magazine Antiques</emph>. July 1980: 102-119. Print. </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

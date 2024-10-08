@@ -1,0 +1,4373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_breed_collection</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Breed Collection of Maps, Documents, and Prints, 1545-1973</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>October 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2018</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245">Breed Collection of Maps, Documents, and
+				Prints</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1545-1973</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">Approximately 300 items</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Collection of maps, charts and atlas
+				pages, documents, and illustrations depicting various regions of the globe ranging
+				from the 16th to 19th centuries.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Collection of maps, charts and atlas pages, documents, and illustrations depicting
+				various regions of the globe ranging from the 16th to 19th centuries. Of particular
+				note are maps of Great Britain, Germany, Italy, the North American colonies, and
+				South America. The documents relate to Peter Chester, Colonial Governor of West
+				Florida. All measurements are approximate.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library.
+				</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<archref href="https://library.vassar.edu/specialcollections/rarebooks" show="new">
+					Atlas Collection</archref>
+			</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/d9893e8f-9586-4cb5-97a4-45ac250ae564">Edward Lasker Collection of Atlases and Maps</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/8ea220d6-2a9e-4c5c-8344-71e490b0e1bb">Richmond John Rathbone Collection of Rare Maps</archref></p>
+			<p>Vassar College Archives Maps Collection</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Blaeu, Joan, 1596-1673</persname>
+				<persname source="lcnaf" encodinganalog="600">Blaeu, Willem, 1635-1701</persname>
+				<persname source="lcnaf" encodinganalog="600">Blaeu, Willem Janszoon, 1571-1638</persname>
+				<persname source="lcnaf" encodinganalog="600">Bowen, Emanuel, 1693 or 1694-1767</persname>
+				<persname source="lcnaf" encodinganalog="600">Chester, Peter, approximately 1717-1799</persname>
+				<persname source="lcnaf" encodinganalog="600">Clarke, W. B.</persname>
+				<persname source="lcnaf" encodinganalog="600">Danckerts, Justus, 1635-1701</persname>
+				<persname source="lcnaf" encodinganalog="600">Fer, Nicolas de, 1646-1720</persname>
+				<persname source="lcnaf" encodinganalog="600">Homann, Johann Baptist, 1663-1724</persname>
+				<persname source="lcnaf" encodinganalog="600">Jansson, Jan, 1588-1664</persname>
+				<persname source="lcnaf" encodinganalog="600">Kitchin, Thomas, 1719-1784</persname>
+				<persname source="lcnaf" encodinganalog="600">Moll, Herman, -1732</persname>
+				<persname source="lcnaf" encodinganalog="600">Morden, Robert, approximately 1650-1703</persname>
+				<persname source="lcnaf" encodinganalog="600">Ortelius, Abraham, 1527-1598</persname>
+				<persname source="lcnaf" encodinganalog="600">Popple, Henry, -1743</persname>
+				<persname source="lcnaf" encodinganalog="600">Seutter, Matthäus, 1678-1757</persname>
+				<persname source="lcnaf" encodinganalog="600">Tirion, Isaak, 1705-1769</persname>
+				<persname source="lcnaf" encodinganalog="600">Visscher, Nicolaes, 1649-1702</persname>
+				<persname source="lcnaf" encodinganalog="600">Wit, Frederik de, 1629 or 1630-1706</persname>	
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">North America--History--Colonial period, ca. 1600-1775</geogname>
+				<geogname source="lcnaf" encodinganalog="651">North America--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Europe--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Great Britain--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Germany--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Italy--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">South America--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">West Florida--History--Sources</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Maps</genreform>
+				<genreform source="aat" encodinganalog="655">Manuscripts (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Title pages</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Maps</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, July 2011. Updated October 2018 and January 2019. Last updated by Emma Gronbeck, September 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Earliest processing date unknown. Updated by Maya Peraza-Baker, 2008. Material
+				unrelated to original Breed Collection removed, collection rehoused, and described
+				by Janine St. Germain in 2019.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Donated by Jocelyn Harrington Breed (VC 1936).</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Breed Collection of Maps, Documents, and Prints, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The maps are organized into series roughly by geographic area. There is considerable overlap
+				between the sub-series, though, so careful browsing is required to complete a
+				thorough search of the collection.</p>
+			<p>Within each series, maps are arranged in item number order.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> MAPS — AFRICA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> MAPS — ASIA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> MAPS — ATLANTIC OCEAN </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> MAPS — AUSTRALIA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> MAPS — CANADA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6"> MAPS — CARIBBEAN </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7"> MAPS — CENTRAL AMERICA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">MAPS — CUBA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">MAPS — EUROPE — COMPLETE </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">MAPS — EUROPE — CENTRAL EUROPE </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series11">MAPS — EUROPE — EASTERN EUROPE </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series12"> MAPS — EUROPE — BALKANS </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series13">MAPS — EUROPE — MEDITERRANEAN SEA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series14"> MAPS — EUROPE — TWO OR MORE COUNTRIES </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series15"> MAPS — EUROPE — DENMARK </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series16"> MAPS — EUROPE — FLANDERS </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series17"> MAPS — EUROPE — FRANCE </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series18">MAPS — EUROPE — GERMANY </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series19"> MAPS — EUROPE — GREAT BRITAIN </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series20"> MAPS — EUROPE — HUNGARY </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series21"> MAPS — EUROPE — ITALY </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series22"> MAPS — EUROPE — LITHUANIA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series23"> MAPS — EUROPE — LUXEMBOURG </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series24"> MAPS — EUROPE — NETHERLANDS </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series25"> MAPS — EUROPE — PORTUGAL </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series26">MAPS — EUROPE — RUSSIA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series27"> MAPS — EUROPE — SPAIN </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series28"> MAPS — EUROPE — SWITZERLAND </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series29"> MAPS — MEXICO </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series30"> MAPS — NEAR EAST </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series31"> MAPS — NORTH AMERICA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series32"> MAPS — PACIFIC OCEAN </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series33"> MAPS — POLAR REGIONS </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series34"> MAPS — ROMAN EMPIRE </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series35"> MAPS — SOLAR SYSTEM </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series36"> MAPS — SOUTH AMERICA </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series37"> MAPS — UNITED STATES </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series38"> MAPS — WEST INDIES </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series39"> MAPS — WESTERN HEMISPHERE </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series40"> MAPS — WORLD </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series41"> MAPS — MISCELLANEOUS </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series42"> MISCELLANEOUS PIECES </ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series43"> DOCUMENTS</ref></unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series44"> PRINTS AND ILLUSTRATIONS</ref></unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>MAPS — AFRICA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>021 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">A New Map of Egypt from the latest
+							authorities</emph>, by John Cary, Engineer, </unittitle>
+						<unitdate>1811</unitdate>
+						<physdesc>(19.25 x 23.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>083 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A New and Correct Map of Africa laid down
+								from the most Exact Observations and Discoveries</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.75 x 41 | tinted ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: Customs of the natives; View of Cape of Good Hope.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>084 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Fezzae et Marocchi regna Africae
+							celeberrima</emph>, Describebat Abrah: [Abraham Ortelius, 1527-1598], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text containing descriptions of Fessanvm and Mavrocanvm attached.</p>
+						<p>— Total of 3 leaves joined together, unnumbered.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>085 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">To the Right and Honorable Charles Earl of
+								Peterborow and Monmouth, etc. This map of Africa . . . is most
+								humbly dedicated by: [Herman Moll] Geographer</emph>, [London], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 41 | tinted ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: View of Cape of Good Hope with 3 plans of fortifications.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>086 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Totius Africae Nova Repraesentatio . . .
+						</emph>, a Io Baptista Homanno [Johann Baptist Homann, 1663-1724] . . . Norimbergae, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(tinted and decorated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>238 (Box 1)</container>
+						<unittitle><emph render="italic">Africa, According to Newest and most Exact
+							Observations By Herman Moll Geographer</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(10 x 14.5 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>239 (Box 1)</container>
+						<unittitle><emph render="italic">Aphricae Tabvla I</emph>, [Northwest
+							Africa and southern coast of Spain], </unittitle>
+						<unitdate>1552</unitdate>
+						<physdesc>(12.25 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In pencil: "Munster's Ptolemy 1552." </p>
+						<p>— Text on verso: "Aphricae . . ."</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>MAPS — ASIA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>022 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Tabula Tartariae et majoris partis Regni
+							Chinae</emph>, editae a [Frederik de Wit, 1629 or 1630-1706] [Amsterdam], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 23 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>023 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic"> Asiae: Nova Descriptio Auctore Iodoco
+								Hondio</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(15.5 x 20 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— On verso: pages 343-344, "Novvelle Asie."</p>
+						<p>— Decorative motif at center of each page.</p>
+						<p>— "Nnnnnnn" on lower part of right-hand page.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>087 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A New and Correct Map of Asia laid down
+								from the most Exact Observations and Discoveries . . . </emph>,
+							London, Printed and sold by John Bowles, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24 x 41 | tinted ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: Christian Church at Jerusalem; Incarnations of the god Wistnou;
+							Group of idols worshipped in Asia.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>240 (Box 1)</container>
+						<unittitle><emph render="italic">Tabula Asiae III</emph>, </unittitle>
+						<unitdate>1545</unitdate>
+						<physdesc>(12.25 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Armenia and Caspian Sea.</p>
+						<p>— In pencil: "Munster's Ptolemy 1545." </p>
+						<p>— Text on verso: "Tertia Asiae . . ."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>241 (Box 1)</container>
+						<unittitle><emph render="italic">Tabula Asiae IIII</emph>, </unittitle>
+						<unitdate>1552</unitdate>
+						<physdesc>(12.25 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Near East</p>
+						<p>— In pencil: "Munster's Ptolemy 1552."</p>
+						<p>— Text on verso: "Qvarta . . ." </p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>275 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Asia recens summa cura . . . </emph>,
+							Auct. Henr. Hondio</unittitle>
+						<physdesc>(23.25 x 19.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Dutch on reverse.</p>
+						<p>— Small rips, tears and slight water damage.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>282 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">To the Right Honourable William, Lord
+								Cowper . . .</emph>, Herman Moll, D. Midwinter, [Thomas Bowles], and
+							Philip Overton, London, </unittitle>
+						<unitdate>approximately 1721-1724</unitdate>
+						<physdesc>(22.5 x 38 | large folio)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Asia and Africa.</p>
+						<p>— 7 insets. Wind vectors and compass rose.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>MAPS — ATLANTIC OCEAN</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>024 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Chart shewing the tracks across the North
+								Atlantic Ocean of Don Christopher Columbus</emph>. (1st-4th
+							voyages). Published By George P. Putnam, New York, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(11.5 x 19 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>025 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Carte Réduite de l'Ocean Occidental . .
+								.</emph>, </unittitle>
+						<unitdate>1776</unitdate>
+						<physdesc>(13 x 19.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— North Atlantic 50 Lat. to the equator, showing parts of coasts of North
+							and South America, Europe, and Africa.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>026 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">A New Map, or Chart in Mercators
+								Projection, of the Western or Atlantic Ocean, with part of Europe,
+								Africa and America</emph>, </unittitle>
+						<unitdate>[after 1764 Aug 25]</unitdate>
+						<physdesc>(18.5 x 22 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>222 (Box 2)</container>
+						<unittitle><emph render="italic">Oceano Atlantico</emph>, Por D. Tomas
+							Lopez, </unittitle>
+						<unitdate>1788</unitdate>
+						<physdesc>(7 x 7 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Area adjacent to the Tropic of Cancer.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>MAPS — AUSTRALIA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>088 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A Map of New South Wales showing Stock
+								Routes, Tanks, Wells, and Trucking Stations</emph>, Sydney &amp;
+							Melbourne, The Picturesque Atlas Pub. Co., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(17 x 25.75 | black and white with red lines and dots ; in 2
+							pieces)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>089 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A Map of Victoria, Showing Average Annual
+								Rainfall</emph>, Comp. From records supplied by the Government
+							Astronomer, R. L. J. Ellery . . . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.5 x 17 | black and white and blue ; in 2 pieces)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>MAPS — CANADA</unittitle>
+				</did>
+				
+				<c02 level="item">
+					<did>
+						<container>030 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Nieuwe Kaart Van Kanada, De Landen aas de
+								Hudsons Baay en de Noordwestlyke . . . </emph> Te Amsterdam by [Isaak
+							Tirion, 1705-1769], </unittitle>
+						<unitdate>1769</unitdate>
+						<physdesc>(14 x 18 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>223 (Box 2)</container>
+						<unittitle><emph render="italic">British Colonies in North America</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(8 x 10 | tinted)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>MAPS — CARIBBEAN</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>031 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Mappa Aestivarum Insularum . . .</emph> /
+								<emph render="italic">A Mapp of the Sommer Ilands . . .</emph>
+							Amstelodamensis, Abraham Goos, </unittitle>
+						<unitdate>1626, [1631?]</unitdate>
+						<physdesc>(17 x 22 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso of pages 41-42.</p>
+						<p>— Date should perhaps be 1622. See list at right-hand bottom of map.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>MAPS — CENTRAL AMERICA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>032 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Kaart van de Laudengte van Panama, Volgens
+								de Spaanische astekeningen opgemaakt</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 18.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In pencil: "Isaak Tirion."</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>MAPS — CUBA</unittitle>
+				</did>
+			
+				<c02 level="item">
+					<did>
+						<container>225 (Box 2)</container>
+						<unittitle><emph render="italic">The Form of Landing our Troops on the
+								Island of Cuba for the Besieging of the Havana, 1762</emph>,
+							Engraved for the London Magazine, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(8 x 11 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— 6 ships and ships' boats loaded with troops.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>244 (Box 1)</container>
+						<unittitle><emph render="italic">A New Map of the Island of Cuba with
+							correct Plans of all the Principal Ports and Harbours it
+							contains</emph>, J. Gibson sculp., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.5 x 13.75 | tinted)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>MAPS — EUROPE — COMPLETE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>098 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A New Map of Europe done from the most
+								Accurate Observations Communicated to the Royal Society at London .
+								. . </emph>, London, Christopher Browne, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 41 | tinted and decorated ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: Battles and fortifications relating to Queen Ann's victories
+							over the French.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>215 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">To her most Sacred Majesty Ann Queen of
+								Great Britain, France &amp; Ireland. This map of Europe . . . is
+								dedicated by . . . Herman Moll Geographer</emph>, [London] </unittitle>
+						<unitdate>1708</unitdate>
+						<physdesc>(24.5 x 40.5 | tinted and decorated ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: Map of waterway connecting the Volga and the Don in Russia.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>226 (Box 2)</container>
+						<unittitle><emph render="italic">Europe with its respective
+							divisions</emph>, [London] Published by J. Rowe, </unittitle>
+						<unitdate>1706</unitdate>
+						<physdesc>(6 x 7.25 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>288 (Framed Storage 2.7)</container>
+						<unittitle><emph render="italic">Theatrum historicum ad annum christi
+								quadragentesimum in quo tum Imperii Romani barbarorum . . .</emph>,
+							P. Mortimer. Amsteredam, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(32.5 x 28.5, including frame and matting)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: Map of waterway connecting the Volga and the Don in Russia.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>MAPS — EUROPE — CENTRAL EUROPE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>033 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Silesiae Ductus Nova Et Accurata
+							Description</emph>, Joannes Janssonius [Jan Jansson, 1588-1664] Excu., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso: unnumbered page and page 524.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>091 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Ducatus Silesiae Glogani Vera Delineatio
+								Secundâ curâ ac labore consecta A Iona Sculteto Sprotta
+								Silesio</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso of pages 61-62.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>092 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Moravia Marchionatus, auctore I. A. Comenio.
+						</emph>, Amstelodami, Guiljelm Blaeuw [Blaeu, Willem (Janszoon?], exeudit., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24.25 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 75-76): "Morvia."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>093 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Regni Poloniae et Ducatus Lithuaniae,
+								Voliniae, Podoliae, Ucraniae, </emph> Prussiae et Curlandiae
+							descriptio emendata per [Justus Danckerts, 1635-1701], Amstelodami . . . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>094 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Silesiae Ducatus Accurata et vera
+								delineation. Viris magnific acgenerosis . . .</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+					<physdesc/>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>095 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Stiria Steyrmarck</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc/>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>096 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Tabula Ductus Carnioliae Vindorum Marchiae
+							et Histriae . . .</emph>, Io. Bapt. Homanno [Johann Baptist Homann, 1663-1724] S.C.M. Geogr. Noribergae
+							. . ., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 24.5 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: St. Laybach and Cirknitzer See.</p>
+						<p>— Region northeast of Adriatic Sea. Principal country shown is "Crain."
+							Trieste on the Adriatic is included.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>277 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Regni Polonie, Et Ducatus, Lithvaniae
+								Voliniae, Podoliae, Vcraniae, Prvssiae, Livoniae, et Cvrlandiae . .
+								.</emph>, Amstelodami, [Frederik de Wit, 1629 or 1630-1706] . . .</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(22 x 20.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Significant tears, rips and pieces falling off.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>281 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Darstellung des Grundisses und Prospectus
+								der Konigl Preussisch Magdeburgischen und des Saal-Crayses Haupt
+								Stadt Halle . . .</emph>, Homann's Heirs (after J.B. &amp; J.C.
+							Homann). Nuremberg, </unittitle>
+						<unitdate>approximately 1770</unitdate>
+						<physdesc>(19 x 23)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Originally published approximately 1727.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle>MAPS — EUROPE — EASTERN EUROPE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>214 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">The Map of Moscovy, Poland, Little
+								Tartary, and ye Black Sea etc . . . </emph> by [Herman Moll]
+							Geographer, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 42 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: Northern Russia.</p>
+						<p>— Done by the Czar's order (Peter Alexovitz).</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series12">
+				<did>
+					<unittitle>MAPS — EUROPE — BALKANS</unittitle>
+				</did>
+			
+				<c02 level="item">
+					<did>
+						<container>027 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Daciarum, Moesiarumque, vetus
+							descriptio</emph>, Abrahami Ortelij [Abraham Ortelius, 1527-1598], </unittitle>
+						<unitdate>1595</unitdate>
+						<physdesc>(17 x 22.5 | colored boundary lines)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— European Turkey: Rumania, Moesia.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>028 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Walachia, Servia, Bulgaria, Romania. Per
+							Gerardum Mercatorem</emph>, Guiljelmus, Blaeu [Blaeu, Willem (Janszoon?)], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso - unnumbered pages.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>242 (Box 1)</container>
+						<unittitle><emph render="italic">Goritiae, Karstii, Chaczeolae, Carniolae,
+								Histriae, et Windorum Marchae descrip</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9 x 13.75 | tinted ; edges folded under)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Parts of Yugoslavia and Rumania.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>274 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Carniola, Cilia Comitatus et Windorum
+							Marchia</emph>, Ger. Mercatore auctore. Guiljelm Blaeu [Blaeu, Willem (Janszoon?)] excudit, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso of pages 79-80.</p>
+						<p>— Could be Yugoslavia.</p>
+					</scopecontent>
+				</c02>
+				
+			</c01>
+			<c01 level="series" id="series13">
+				<did>
+					<unittitle>MAPS — EUROPE — MEDITERRANEAN SEA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>117 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Chart of the Mediterranean Sea</emph>,
+							Drawn and Engraved for Thomson's New General Atlas, </unittitle>
+						<unitdate>1817</unitdate>
+						<physdesc>(21 x 27.75 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>118 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Tabula Neoterica Crete Sive Candie
+								Insule</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(18 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Harbor maps inset.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>119 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Plan Géometral de la Ville et de la
+								Montagne de Gibraltar . . . </emph>, Par L. Denis Géographe et
+							Auteur du Conducteur Francais, </unittitle>
+						<unitdate>1781</unitdate>
+						<physdesc>(18 x 26 | tinted)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series14">
+				<did>
+					<unittitle>MAPS — EUROPE — TWO OR MORE COUNTRIES</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>097 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A New Map of Denmark and Sweden According
+								to the Newest and most Exact Observations By [Herman Moll]
+								Geographer</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 40.5 | tinted ; folded)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>102 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Tabula Episcopatuum Leodiensis et
+								Coloniensis Trevirensis . . . </emph>, per [Theodore Danckerts],
+							[Amstelodami], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Flanders and Germany.</p>
+						<p>— Treveri (peoples); Trier (city); Leodium (Liege in Belgium).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>103 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Tabula Rheni et Mosae . . .</emph>, Exc:
+							Guiljel. Blaeuw [Blaeu, Willem (Janszoon?)], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Flanders and Germany — Rhine and Meuse.</p>
+						<p>— Text on verso of pages 15-16.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>104 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Kaerte van de vier Ambachten</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Flanders and Netherlands.</p>
+						<p>— Text on verso of pages 121-122.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>105 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Castellania Furnensis</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Flanders and Netherlands.</p>
+						<p>— Text in Latin on verso (pages 91-92): "Castellania Fvrnensis."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>106 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Wasia, t' land van Waes</emph>, Antonius
+							Sanderus, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Flanders and Netherlands.</p>
+						<p>— Text in Latin on verso (pages 123-24): "Wasia . . ."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>114 (Map Case Drawer 13)</container>
+						<unittitle>6 leaves by Herman Moll, </unittitle>
+						<unitdate>1712-1714</unitdate>
+					</did>
+					<scopecontent>
+						<p>— Includes 3 maps:</p>
+						<p>— <emph render="italic">A New and Exact Map of France .
+								. . </emph>, undated (2 leaves)</p>
+						<p>— <emph render="italic">A New Map
+								of Italy Distinguishing all the Sovreignties in it whether States,
+								Kingsoms, Butchies, Principalities, Republics etc . . .</emph>, 1714
+							(2 leaves)</p>
+						<p>— <emph render="italic">A New Map of Germany, Hungary,
+								Transylvania and the Suisse</emph>, 1712 (2 leaves)</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>115 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Lotharingle et Utriusque Alsatiae . .
+							.</emph>, delineatio per [Theodore Danckerts], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.25 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Germany, Netherlands and France.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>252 (Box 1)</container>
+						<unittitle><emph render="italic">Nova Graecia XXII, Nova Tabula </emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.25 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Greece and Asia Minor.</p>
+						<p>— In pencil: "Munster's Ptolemy 1552."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>279 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Regni Sueciae,Tabula Generalis . . .
+						</emph>, Per. [Frederik de Wit, 1629 or 1630-1706] Amstelodami . . . </unittitle>
+						<physdesc>(22.75 x 20.75 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Small tear at bottom of map.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series15">
+				<did>
+					<unittitle>MAPS — EUROPE — DENMARK</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>034 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Iutia Septentrionalis</emph>, per
+							Gerardum Mercatorem, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 23 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in French on verso (unnumbered pages): "La Jvtie
+							septentrionale."</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series16">
+				<did>
+					<unittitle>MAPS — EUROPE — FLANDERS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>035 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Nova Totius Belgii sive Germaniae
+							Interioris . . . </emph>, Amstelodami, apud Ioannem
+							Ianssonium [Jan Jansson, 1588-1664], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.75 x 23.25 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Dutch on verso (unnumbered pages): "Nederlant."</p>
+					</scopecontent>
+				</c02>				<c02 level="item">
+					<did>
+						<container>036 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Dioecesis Leodiensis Accurata Tebula
+							</emph>, Amstelodami, Sumptibus Henrici Hondii, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 23 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in French on verso (unnumbered pages): "L'Eveshe de Liege."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>037 (Map Case Drawer 12)</container>
+						<unittitle>[Flandria Teutonica], </unittitle>
+						<physdesc>(12 x 20 | tinted ; half of map missing)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (p.84) "Flandria Tevtonica."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>099 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Leodiensis Diocesis</emph>, Amsterdami,
+							apud Guiljelmum et Ioannem Blaeu [Willem (Janszoon?) Blaeu and Joan Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Liege.</p>
+						<p>— Text on verso of page 255b.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>100 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Prima pars Brabantiae cuius caput
+							Lovanivm</emph>, auctore Michaele Florentio a Langren. Guiljelmus
+							Blaeu [Willem (Janszoon?) Blaeu] excudit., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 |tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 7-8): " . . . Lovanivm."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>101 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Tabula generalis totius Belgii qua
+							Provinvia XVII</emph>, Infer. Germaniae . . . a Iohanne Baptista
+							Homanno [Johann Baptist Homann, 1663-1724], Norimbergae, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>107 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Belgii Universi seu Inferioris Germaniae .
+							. . </emph>, a Tobia Majero . . . cura et studio Homannianorum
+							Heredum, </unittitle>
+						<unitdate>1747, 1748</unitdate>
+						<physdesc>(21.25 x 24.75 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>108 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Flandria et Zeelandia
+							Comitatvs</emph>, apud Guiljelmum Blaeuw [Blaeu, Willem (Janszoon?)], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 23.75 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 29-30): "Flandria Comitatvs."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>Plan of the situation where the Battle of Ramillies was fought
+							May ye 23d 1706: designed upon the spot by G. L. Mosburger . . .
+							, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 20.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 illustrations made for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+				
+			</c01>
+			<c01 level="series" id="series17">
+				<did>
+					<unittitle>MAPS — EUROPE— FRANCE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>109 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Comitatus Burgundiae . . .</emph>, per
+							Nicolm. Visscher [Nicolaes Visscher, 1649-1702], [Amsterdam]: Bat., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 24.25 | colored boundary lines and
+							decorations)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>110 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Comitatuum Hannoniae et Nambrci
+								descriptio</emph>, Amsterdami, apud Guiljelmii et Ioannem
+							Blaeu [ Willem (Janszoon?) Blaeu and Joan Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 141-142): "Hannonia Comitatvs."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>111 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">France</emph>, by A. K. Johnston, Edinburgh
+							and Glasgow, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(21.5 x 26 | black and white with colored lineation)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— National Atlas, page 7.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>112 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Carte nouvelle du Gouvernement General de
+							La Champagne par le Sr. Robert de Vaugondy</emph>, A Paris chez le
+							Sr. De La Marche, </unittitle>
+						<unitdate>1783</unitdate>
+						<physdesc>(27.75 x 21 | colored boundaries)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— List of names at right side.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>113 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Diocese de Nismes . . . </emph> par J.B.
+							Nolin. A Paris, chez Mondhare et Jean rue St. Jean de Beauvais, </unittitle>
+						<unitdate>1787</unitdate>
+						<physdesc>(20 x 25.75 | colored boundaries)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Illustrations in margins.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>245 (Box 1)</container>
+						<unittitle><emph render="italic">A Map of the Country about Tournay, Lille,
+								Douai, Arras, Valencienes, etc.</emph>, By Cha: Price and Iohn Senex
+							Geographers, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(10 x 12.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Page 460.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>246 (Box 1)</container>
+						<unittitle><emph render="italic">Tabula Europae III</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.25 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In pencil: "Munster's Ptolemy 1552."</p>
+						<p>— Text on verso: "Gallia . . . " </p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">A map of France . . ., </emph></unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 20 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 illustrations made for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">Plan of the City and Citadel of
+								Lisle</emph>, </unittitle>
+						<unitdate>[1708]</unitdate>
+						<physdesc>(16 x 20 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 illustrations made for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series18">
+				<did>
+					<unittitle>MAPS — EUROPE — GERMANY</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>015 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Scenographia Urbium Silasiae, Tab.
+							IV</emph>, entworfen von F. B. Werner Siles. und ausgefertiget von
+							Homaennischen Erben, Nurnberg, </unittitle>
+						<unitdate>1738</unitdate>
+						<physdesc>(20.5 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Views of 9 towns.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>016 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Scenographia Urbium Silasiae, Tab.
+							V</emph>, entworfen von F. B. Werner u. herausgegeben von
+							Homaennischen Erben. Nurnberg, </unittitle>
+						<unitdate>1738</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Views of 7 towns.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>017 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Scenographia Urbium Silasiae, Tab.
+							VII</emph>, entworfen von F. B. Werner u. herausgegeben von
+							Homaennischen Erben. Nurnberg, </unittitle>
+						<unitdate>1738</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Views of 7 towns.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>039 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Bavaria ducatus</emph>, Per Ger.
+							Mercatorem, apud Guiljelmum Blaeu [Willem (Janszoon?)Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text for "Bavaria dvcatvs" attached, total of 3 sheets.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>041 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Palatinatvs Bavariae</emph>, Amsterdami,
+							Excudit Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22.25 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages not numbered).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>042 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Territorium Argentoratense</emph>, Ioannes
+							Ianssonius [Jan Jansson, 1588-1664] excudit., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 23 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in French on verso (unnumbered pages): "Le Territoire de
+							Strasbovrg."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>044 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Territorium Norimbergense</emph>,
+							Amstelodami exc. Guiljelm. Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: City of Nvrnberg.</p>
+						<p>— Text in Latin on verso: "Norimbergense Territ."</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>124 (Map Case Drawer 14)</container>
+						<unittitle>[Map of wooded and farming country crossed by the Fossa
+							Friderico passing through Muelrose], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(22 x 25.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Name of Fridericus Guiljelmus, Electoris Brandenburgici appears in
+							descriptive material.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>125 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Alemannia sive Svevia svperior</emph>, A
+							Christophoro Hurtero, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 319-320).</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>126 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Bavaria ducatus</emph>, Per. Ger.
+							Mercatorem, Apud Guiljelmum Blaeu [Willem (Janszoon?)Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 87-88).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>127 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Carte itineraire par le Pays de l'
+							Electorat de Saxe . . . </emph>, publiee par les foins des Heritiers
+							de Homann l' An 1752, </unittitle>
+						<unitdate>[1752?]</unitdate>
+						<physdesc>(21.75 x 26 | decorated in black and white, boundaries and cities
+							tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>128 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Comitatus Hennebergensis</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 303-304).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>129 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Comitatus Marchia et Ravensberg</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 23.75 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 253-254): "Comitatvs Marcha et
+							Ravensberg."</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>130 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Cursus Rheni a Basilea usque ad Bonnam, III
+								. . . </emph>,per Homannianos Heredes Noribergae, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 24.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>131 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Ducatus Brunsuicensis . . . </emph>, edita
+							cura Ioh. Bapt. Homanni [Johann Baptist Homann, 1663-1724], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 24.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>132 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Ducatus Bronsuincensis . . .</emph>,
+							Casparo Dauthendeij, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 217-218): "Bronsvincensis Dvcatvs"
+							(Brunswick).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>133 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Ducatus Lunenburgensis . . . </emph>,
+							auctore Iohanne Mellingero. Amstelodami, Guiljelm. Blaewx [Willem (Janszoon?) Blaeu] excudit, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 215-216).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>134 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Ducatus Saxoniae superioris . . . </emph>,
+							per Fridericum Zollmannum in publicum emissus ab Homannianis Heredibus,
+							Norib. A 1732 . . . Tab. III, </unittitle>
+						<unitdate>1732</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>135 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Ducatus Silesiae Schwidnicensis</emph>,
+							authore Friderico Kuhnovio . . . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (page 71): "Schwidnicensis Dvcatvs."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>136 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Episcopatus Halberstat</emph>,
+							Amstlaedami, apud Joannem Blaew [Joan Blaeu, 1596-1673], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (page 224b): "Halberstadiensis episcopatvs."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>137 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Erpach Comitatvs</emph>, Amstelodami,
+							Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (page 305): "Erpach Comitatvs." </p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>138 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Franconia Vulgo Franctenlandt</emph>,
+							excudit Guiljelmus Blaeu [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 299-300).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>139 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Accoratiffina Germaniae tabula denuo in
+							lucem edita a Iusto Danckerts [Justus Danckerts, 1635-1701], Amstelodami, </emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.25 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>140 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Hassia svperior et Mogvntinvs
+								archiepiscopatvs</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 281-282).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>141 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Magdeburgensis Archiepiscopatvs</emph>,
+							Amsteloedami, G. Blaeu [Willem (Janszoon?) Blaeu] excudebat, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 221-222): "Archiepiscop.
+							Magdebvrgensis."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>142 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Mansfeldia Comitatvs</emph>, Auctore
+							Tilemanno Stella Sig. Apud Guiljelm. Blaeu [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 113-114): "Mansfeldia Comitatvs."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>143 (Box 1)</container>
+						<unittitle><emph render="italic">Marca Brandenbvrgensis and
+								Pomerania</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(10 x 13.75 | black and white with red lineation)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (page or number 19).</p>
+						<p>— Text on verso (pages 129-130).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>144 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Marchionatus Brandenburgisi pars, quae
+								Marchia Vetus, vulgo Altemarck, dicitur</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 129-130).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>145 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Marchionatus Brandenburgici partes duae,
+								Nova Marchia et Uckerana</emph>, Auctore Osao Joannis Gotho, Gustovo
+							Magni cosmographo, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 137-138).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>146 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Marchionatvs Brandenburgici partes duae,
+								Ruppin Comitatus and Prignits Reguincula</emph>, Auth. Olao Iohannis
+							Gotho, Gustavo Magno cosm, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (page 139).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>147 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Oldenbvrg comitatvs</emph>, Amstelodami,
+							Guiljelm. Blaeuw [Willem (Janszoon?) Blaeu] excudit, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 245-246).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>148 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Palatinatvs Bavariae</emph>, Amsterdami,
+							Excudit Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 97-98).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>149 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Principatus Anhaltinus</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 115-116): "Principatvs Anhaltinvs."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>150 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">S.R.I. Circulus Rhenanus Superior . . .
+						</emph>Norimbergae, Ioh. Baptistae Homanni [Johann Baptist Homann, 1663-1724], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>151 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Saltzburg Archiepiscopatus, et Carinthia
+								Ducatus</emph>, Auct. Ger. Mercatore. Amsterdami, apud Guiljelmum
+							Blaeu [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 81-82).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>152 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Serenisfimo Principi ac Domino, Domino
+								Ernesto Frierico . . . Ejusdem Principatus
+								Saxo-Hildurghusian</emph>, Norimbergae, Ionnes Bapt. Homann [Johann Baptist Homann, 1663-1724], </unittitle>
+						<unitdate>1710</unitdate>
+						<physdesc>(22.5 x 25.5 | tinted and decorated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>153 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Saxonia superior, cum Lusatia et
+								Misnia</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24.25 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Praga at central lower edge.</p>
+						<p>— Text on verso (pages 101-102).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>154 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Silesia Inferior . . .</emph>, a Jona
+							Sculteto, Sprotta-Silensio Joh. et corn. Blaeu [Willem (Janszoon?) Blaeu] excud., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 55-56): "Silesia Inferior."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>155 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Terra Advocatorum vulgo Voightland</emph>,
+							Descripta ab Olao Ioannis Gotho, Amsterdam, Blaeu [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 105-106).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>156 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Territorii Novoforensis in Superiore
+								Palatinatu accurata descriptio</emph>, Auctore Nicolao Rittershusio
+							D., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 24 | tinted ; was mended at center, but is separating
+							again)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 99-100).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>157 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Territorii Novaforensis in Superior
+								Palatinatu, accurata descriptio</emph>, Auct. Nicolao Rittershusio
+							D., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(22 x 26 | tinted)</physdesc>
+					</did>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>158 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Theatrm Belli Rhenani . . .
+							Norimbergae</emph>, Ioan. Baptista Homan [Johann Baptist Homann, 1663-1724], </unittitle>
+						<unitdate>[1702?]</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>159 (Box 1)</container>
+						<unittitle><emph render="italic">Thvringia, Comitatuum Prouincialium Romani
+								Imperii secunda . . .</emph>, Iohan busemecher excudit
+							Coloniae, </unittitle>
+						<unitdate>1603</unitdate>
+						<physdesc>(10.25 x 12.25 | black and white with red lineation)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (page or number 32).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>160 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Waldeck Comitatus</emph>, Amsterdami, apud
+							Guiljelmum Blaeu [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso in Latin (pages 297-298): "Waldeck comitatvs."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>161 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Wetteravia Vulgo Die Wetteram</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Franckfurt near lower left.</p>
+						<p>— Text on verso (pages 287-288).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>247 (Box 1)</container>
+						<unittitle><emph render="italic">Cartinthiae ducatus, et Goritiae
+							Palatintus</emph>, Wolf. Lazio auctore, 
+						</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(11 x 17 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (page 89).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>278 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Nova Anhaltini Prinicpatus Tabula Autore
+								IOH Tobia Schuchart . . . </emph>, MDCCX, </unittitle>
+						<unitdate>1710</unitdate>
+						<physdesc>(25.5 x 21.875 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Small tear, but otherwise good condition .</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>289 (Box 1)</container>
+						<unittitle><emph render="italic">Westfalia</emph>, [Abraham Ortelius, 1527-1598], <emph
+								render="italic">Theatro</emph>. Anversa, Plantin, </unittitle>
+						<unitdate>1593</unitdate>
+						<physdesc>(9.5 x 11.55, including matting | handcolored with
+							inset)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Numbered 44.</p>
+						<p>— Handwritten note in pencil, "Ortelius 1593."</p>
+						<p>— Text in Italian on verso.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>290 (Box 1)</container>
+						<unittitle><emph render="italic">Pomerania</emph>, [Abraham Ortelius, 1527-1598], <emph
+								render="italic">Theatro</emph>. Anversa, Plantin, </unittitle>
+						<unitdate>1593</unitdate>
+						<physdesc>(9.5 x 11.55, including matting | handcolored with
+							inset)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Numbered 49.</p>
+						<p>— Handwritten note in pencil, "Ortelius 1593."</p>
+						<p>— Text in Italian on verso.</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">A correct map of the North West part of
+							Germany containing Westphalia &amp; Lower Saxony</emph> by [Emanuel Bowen, 1693 or 1694-1767], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 20 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 illustrations made for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">A new and correct map of the South West
+							part of Germany, containing the Archbishopricks and Electorates of
+							Mentz and Triers . . . </emph>, by [Emanuel Bowen, 1693 or 1694-1767], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 19.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 Illustrations made for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series19">
+				<did>
+					<unittitle>MAPS — EUROPE — GREAT BRITAIN</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>045 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Britannia Romana</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(15.25 x 16.75 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>046 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Britannia Saxonica</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(15.25 x 17 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Note at upper left: "To be placed before the 2nd Book."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>047 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Cambriae Typus Auctore Humfredo Lhuydro
+								Denbigiense Cambrobritanno</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 23 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Wales</p>
+						<p>— Text in French on verso: "La IV table d' Angleterre, laquelle contient
+							La Cambrie ov Wallie."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>048 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Comitatus Rotelandiae [Rutlandshire]
+							tabula nova &amp; aucta</emph>, Sold by A. Swale, A. Churchil and
+							Partners, </unittitle>
+						<unitdate>[1690]</unitdate>
+						<physdesc>(15 x 17.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Section of England bounded by Leicestershire, Northamptonshire and
+							Lincolnshire.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>049 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Devonshire</emph>, by Robert Morden, Sold
+							by Abel Swale Awnsham &amp; Iohn Churchil, </unittitle>
+						<unitdate>[1690]</unitdate>
+						<physdesc>(17.5 x 15.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>050 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic"> Devonshire</emph>, by Robert Morden, Sold
+							by Abel Swale Awnsham &amp; Iohn Churchil, </unittitle>
+						<unitdate>[1690]</unitdate>
+						<physdesc>(17.5 x 15.5 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>051 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic"> Devonshire</emph>, by Robert Morden, Sold
+							by Abel Swale Awnsham &amp; Iohn Churchil, </unittitle>
+						<unitdate>[1690]</unitdate>
+						<physdesc>(17.5 x 15.5 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>052 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Eboracum, Lincolnia, Derbia, Staffordia,
+							Notinghamia, Lecestria, Rutlandia, et Norfolcia</emph>, Per Gerardum
+							Mercatorem . . . , </unittitle>
+						<unitdate>[1595]</unitdate>
+						<physdesc>(15.5 x 20.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso: "Angeliae . . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>053 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Lecestriae Rutlandiaeq. Comitatuum
+							delineatio</emph>, printed and sold by P. Stent, </unittitle>
+						<unitdate>1602</unitdate>
+						<physdesc>(18 x 22 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>162 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">A New Map of Great Britain. According to
+							the Newest and most exact observations by Herman Moll
+							Geographer</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 40.5 | tinted ; once folded in quarters, now in 3 pieces ;
+							margins badly torn with small pieces missing)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: Shetland Isles.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>163 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Suthsexia vermacule Sussex</emph>,
+							Amstelodami, apud Gerardum Valk et Petrum Schenk, </unittitle>
+						<unitdate>[1630]</unitdate>
+						<physdesc>(22 x 25.75 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>164 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Rutlandia Comitatus. Rutlandshire</emph>, </unittitle>
+						<unitdate>[1646]</unitdate>
+						<physdesc>(20 x 23.75 | tinted and decorated in bright colors including a
+							pastoral scene and coats of arms)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (p.285-286): " . . .
+							Rvtland-shire/Leicester-shire."</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>165 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">A general Plott and description of the
+							Fennes and surounded grounds in the sixe Counties of Norfolke,
+							Suffolke, Cambridge, with in the Isle of Ely, Huntington,
+							Northampton and Lincolne etc</emph>, Amstelodami, Sumptibus Henrici
+							Hondii, </unittitle>
+						<unitdate>1632</unitdate>
+						<physdesc>(19.5 x 23.25 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in French on verso: "Description des pays inondes, appellees The
+							Fenne . . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>166 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">The City of London in the Time of the
+							Saxons (about the year 1000)</emph>, compiled from the most
+							authentic documents, London, J. &amp; E. Wallis, </unittitle>
+						<unitdate>1817</unitdate>
+						<physdesc>(21.75 x 24 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>216 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">Map of the County of Devon from an actual
+							survey made in the years 1825 &amp; 1826</emph>, by C. &amp; J.
+							Greenwood, </unittitle>
+						<unitdate>1829</unitdate>
+						<physdesc>(25.5 x 30 | tinted ; mounted on cloth)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: Lundy Island, upper left; View of Exeter Cathedral, lower
+							right.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>217 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">Map of the County of Rutland from and
+							actual survey made in the year 1825</emph>, by C. &amp; J.
+							Greenwood, </unittitle>
+						<unitdate>1831</unitdate>
+						<physdesc>(25.5 x 31 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— View of Burley House in lower left.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>218 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">A New Map of Ireland, drawn from the
+							survey made by [Dr. William Petty] . . . </emph>, Sold by [Robert Morden] at
+							the Atlas in Corn-hill . . . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 38 | tinted ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: British Isles.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>227 (Box 2)</container>
+						<unittitle><emph render="italic">Cambridgeshire</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(4 x 6.25 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in English on verso: "Cambridge-shire Chapter XVIII."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>228 (Box 2)</container>
+						<unittitle><emph render="italic">Devonshire</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(4 x 6.25 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso: "Devonshire. Chapter IX . . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>229 (Box 2)</container>
+						<unittitle><emph render="italic">L'Escosse, suivant les dernieres
+								Relations</emph>, Par N. Sanson, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(7 x 8 | black and white)</physdesc>
+					</did>
+				</c02>
+				
+			
+			
+				<c02 level="item">
+					<did>
+						<container>248 (Box 1)</container>
+						<unittitle><emph render="italic">Devonshire</emph>, by John Cary engraver,
+							London, J. cary, </unittitle>
+						<unitdate>1793</unitdate>
+						<physdesc>(9.25 x 12 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>249 (Box 1)</container>
+						<unittitle><emph render="italic">Devonshire</emph>, by J. &amp; C.
+							Walker,London, Longman, Orme, Rees &amp; Co., </unittitle>
+						<unitdate>1836</unitdate>
+						<physdesc>(13.5 x 16.25 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>250 (Box 1)</container>
+						<unittitle><emph render="italic">Rutlandshire</emph>, by John Cary
+							engraver, London, J. Cary, </unittitle>
+						<unitdate>1793</unitdate>
+						<physdesc>(9 x 12 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>251 (Box 1)</container>
+						<unittitle><emph render="italic">Saxon England according to the Saxon
+							Chronicles</emph>, W. H. Toms, sculp, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(10.75 x 17 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Place-names in Old English.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>280 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">A New Description of the Shyres Lothian
+								and Linlithgo</emph>, by Timothy Pont. W. &amp; [Joan Blaeu], </unittitle>
+						<unitdate>1654</unitdate>
+						<physdesc>(14.5 x 21 | handcolored)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Originally published in the Mercator/Hondius Atlas of 1630.</p>
+						<p>— Text in French on verso.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>284 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Hantshire Described and Divided</emph>,
+							John Speed. London, </unittitle>
+						<unitdate>1676</unitdate>
+						<physdesc>(15 x 20 | handcolored)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Engraved by Jodocus Hondius, Amsterdam. Published by Thomas Bassett and
+							Richard Chiswell, London.</p>
+						<p>— Text in English on verso.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series20">
+				<did>
+					<unittitle>MAPS — EUROPE — HUNGARY</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>167 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Novissima et accuratissima totius
+								Hungariae tabula</emph>, par P. Du Val . . . Amsterdam, Gedruckt by
+							[Justus Danckerts, 1635-1701], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24 | tinted and decorated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>168 (Box 1)</container>
+						<unittitle>Maps from Johann van der Bruggen's <emph render="italic">Tabvla
+								XIII. Repraesentantes Regnum Hungariae, cum adjancentibus Provinciis
+								and Tabvlae IX. Repraesentantes Regna et Provinciae Haereditarias
+								Caesareas </emph>, Avgvstae Vindel, excudit Johannes Andreas Pfeffel
+							S. Caes. Maj. Chalcographus, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.75 x 16.25 | 23 pages sewn together)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series21">
+				<did>
+					<unittitle>MAPS — EUROPE — ITALY</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>054 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Pianta del Cratere, tra Napoli e
+								Cuma</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(14.25 x 19)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>055 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Pianta Litorale sue adiacenzae, da confini
+								dl Regno di Napoli fin a Pesto</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+					<scopecontent>
+						<p>— Map of Italian coast near Naples and Salerno.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>056 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Pianta topographica della citta di Napoli
+								in Campagna Felice</emph>, Napoli, Presso Nic. Gervasi, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(14.5 x 19.75)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>057 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Territorro Cremasco</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.5 x 22.25 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (page 69-70): "Territorivm Cremense . . . "</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>169 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Italy</emph> (southern part), by A.K.
+							Johnson, Edinbugh &amp; Glasgow, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(21.5 x 26 | colored boundary lines and title shield)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>170 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Karstia, Carniola, et Windorum Marchia . .
+							. </emph>, per Gerardum Mercatorem, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 23 | Colored boundary lines and title shield)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in French on verso: "La Karstie . . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>171 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic"> Status ecclesiasticus et magnus ducatus
+							Thoscanae</emph>, per [Frederik de Wit, 1629 or 1630-1706], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 25 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>172 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Status et Ducatus Mediolanensis
+								Reipublicae Genuensis et Ducatus Parmensis et Montisferrati</emph>,
+							novissima descriptio per [Frederik de Wit, 1629 or 1630-1706] Amstelodami, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24.5 | colored boundary lines ; decorated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>173 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Status Reipublicae Genuensis nec non
+								Prospectuum celeberrimae ejusdem Urbis et Portus . . .</emph>,
+							Aucthore Ioh Baptista Hohmanno [Johann Baptist Homann, 1663-1724], Norimbergae, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(21.25 x 24.25 | tinted)</physdesc>
+					</did>
+				</c02>
+			
+				<c02 level="item">
+					<did>
+						<container>174 (Box 2)</container>
+						<unittitle><emph render="italic">Neapolis Regnum</emph>, Matthew Seutteri [Matthäus Seutter, 1678-1757], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(8 x 10 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>175 (Box 2)</container>
+						<unittitle><emph render="italic">Dominum Venetum . . .</emph>, a [Matthäus Seutter, 1678-1757] . . . Conr. Lotter, Augsburg, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(8 x 10 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>176 (Box 1)</container>
+						<unittitle><emph render="italic">Tabula Europae VI</emph>, </unittitle>
+						<unitdate>1545</unitdate>
+						<physdesc>(12.25 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In pencil: "Munster's Ptolemy 1545."</p>
+						<p>— Text on verso: "Italia . . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>177 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Belli typvs in Italia . . . in Statv
+								Mediolanesnsi et Dvcatv Mantvae . . . </emph>, per Io. Bapt.
+							Homannvm [Johann Baptist Homann, 1663-1724], </unittitle>
+						<unitdate>1702</unitdate>
+						<physdesc>(20.5 x 23.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>178 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Statvs Parmensis siv Ducatus Parmensis et
+								Placen Tinus una cum Ditione Buxetana et Valle Tarae . . .</emph>,
+							ab Homannianis Heredibvs, </unittitle>
+						<unitdate>1731</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted, with insets and decoration in black and
+							white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>179 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Mayland, die Haupt — Stadt des
+								Herzogthumbs . . .</emph>, edirt und zu finden in der Homännischen
+							Officin, Pianta del Castello di Milano…, </unittitle>
+						<unitdate>1734</unitdate>
+						<physdesc>(21 x 24.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Pianta del Castello di Milano 15 Dec. 1733 is the central feature.</p>
+						<p>— 8 insets of fortifications around the margins. </p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>253 (Box 1)</container>
+						<unittitle><emph render="italic">Plan of Ancient Rome</emph>, by W.B.
+							Clarke, architect [London] Published under the superintendence of the
+							Society for the diffusion of Useful Knowledge, </unittitle>
+						<unitdate>1830</unitdate>
+						<physdesc>(13 x 16.25 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">A map of Italy . . . , </emph></unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 20 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 pages of illustrations made for Tyndal's continuation of
+							Rapin's History of England. </p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series22">
+				<did>
+					<unittitle>MAPS — EUROPE — LITHUANIA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>058 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Magni Ducatus Lithuaniae</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 22.75 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in French on verso: "La Samogitie" and "La Litvanie."</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series23">
+				<did>
+					<unittitle>MAPS — EUROPE — LUXEMBOURG</unittitle>
+				</did>
+			
+				<c02 level="item">
+					<did>
+						<container>059 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Lvtzenbvrgen . . .</emph>, Iacobo Surhonio
+							Montano auctore, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(17 x 22 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (p.26). "Lvtzenbvrgvm Dvcatvs."</p>
+						<p>— In pencil on verso: "1555?"</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>116 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Lutzenburg ducatus</emph>, Amsterdami,
+							apud Guiljelmum et Ioannem Blaeu [Willem (Janszoon?) Blaeu and Joan Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 23-24).</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series24">
+				<did>
+					<unittitle>MAPS — EUROPE — NETHERLANDS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>061 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Rhinolandiae, Amstelandiae, et circumiacent
+							. . . </emph>, Auct. Balthazaro Flor. A Berckenrode. Amsterdam,
+							Frederick de Wit, </unittitle>
+						<unitdate>1667</unitdate>
+						<physdesc>(19 x 23 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>120 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Agri Biemstrani descriptio a
+							L.I.S.</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Showing polders, canals and villages, including Schermerhorn on the
+							Schermer.</p>
+						<p>— Text on verso (pages 51-52).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>121 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Clivia ducatus et Ravenstein
+								dominium</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Ravenstein, showing Nimmegen toward the upper left.</p>
+						<p>— Text on verso (pages 249-250).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>122 (Map Case Drawer 14)</container>
+						<unittitle><emph render="italic">Geldria ducatus, et Zutfania comitatus
+						</emph>, Amsterda Apud Guilj. Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 1-2).</p>
+						<p>— Gederland. Geldern, a ducal capital, the Netherlands.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>123 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">United Provinces, or Netherlands. . .,
+							History of England, </emph> By Herman Moll, South Britain. London:
+							Printed and Sold by Ino. Bowles . . ., </unittitle>
+						<unitdate>1728</unitdate>
+						<physdesc>(24.5 x 41.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— 2 maps attached to each other (4 pages).</p>
+						<p>— Insets: (1) Chart of North Sea and several city views; (2) Coats of Arms
+							and list of cities.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>180 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Tabula Bergarum ad Zomam Stenbergae et
+								novorum ibi operum </emph>, Ad amussim fecit Francisco van Schoten
+							Math. Professor in Acad. Leidensi. Exc. Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<physdesc>(20 x 23 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 83-84).</p>
+						<p>— Bergen and Steenbergen.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>181 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Territorium Bergense</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso: "Castellania Bergensis" (pages 99-100).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>182 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Ultraiectum Dominum</emph>, excudit
+							Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu], City of Utrecht, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 65-66): "Vltraiectinvm Dominivm."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>183 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Walachria, Zelandiae Cisscaldinae insula
+								occidentalis,</emph></unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 59-60).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>184 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">. . . Zelandiae Cisscaldinae . . .
+							</emph>, islands near the East Scheldt, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (pages 61-62).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>185 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Zvydhollandia stricte
+							sumta</emph>, Amsterdami, Guiljelmus Blaeu [Blaeu, Willem (Janszoon?)] excudit, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 24 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (pages 35-36): "Hollandia Avstralia."</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">Battle of Maestricht . . . May 14th,
+								1703,</emph></unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 20 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 pages of illustrations for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">A new and correct map of the Netherlands .
+							. . </emph>, by [Emanuel Bowen, 1693 or 1694-1767], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 19 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 pages of illustrations for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+				
+			</c01>
+			<c01 level="series" id="series25">
+				<did>
+					<unittitle>MAPS — EUROPE — PORTUGAL</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>188 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Portugalliae et Algarbiae . . .</emph>, a
+							Ioanne Bapt Homanno [Johann Baptist Homann, 1663-1724], Nirimberg, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.25 x 24 | tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: portion of Brazil.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series26">
+				<did>
+					<unittitle>MAPS — EUROPE — RUSSIA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>189 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Moscovey in Europe</emph>, from the latest
+							observations, humbly inscribed to Abel Ketelbey of the Inner Temple Esq.
+							By I Senex, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(21 x 25 | colored boundary lines)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>190 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">A new map of the Russian Empire . .
+								.</emph>, by J. Cary, engraver. London: J. Cary, </unittitle>
+						<unitdate>1811</unitdate>
+						<physdesc>(19.25 x 23.25 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— 2 separate but contiguous maps; part of title appears on each one.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series27">
+				<did>
+					<unittitle>MAPS — EUROPE — SPAIN</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>272 (Box 1)</container>
+						<unittitle><emph render="italic">Tabula Evropae II,</emph>, </unittitle>
+						<unitdate>1552</unitdate>
+						<physdesc>(12.25 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In pencil: "Munster's Ptolemy 1552."</p>
+						<p>— Text on verso: "Hispania . . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>273 (Box 1)</container>
+						<unittitle><emph render="italic">Oporto</emph>, [London] Pub. under the
+							superintendence of the Society for the Diffusion of Useful
+							Knowledge, </unittitle>
+						<unitdate>1833</unitdate>
+						<physdesc>(13 x 16 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— City plans with engraved view added.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">Plan of the City and the Castle of Alicant,
+								besieged by the Chevalier d' Asfeldt Nov. 30th 1708</emph>
+							, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 20 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 illustrations made for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle><emph render="italic">Plan of the City of Barcelona</emph>
+							, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 20 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One of 10 illustrations made for Tyndal's continuation of Rapin's
+							History of England.</p>
+					</scopecontent>
+				</c02>
+				
+			</c01>
+			<c01 level="series" id="series28">
+				<did>
+					<unittitle>MAPS — EUROPE — SWITZERLAND</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>194 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic"> Helvetia . . . </emph>, Describebat Gerard
+							Mercator, et excudebat Guiljelmus Blaeu [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 24.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— With 3 attached, unnumbered, pages of text from the atlas: "Svngovia,
+							Brisgoia, Helvetia . . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>195-196 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">. . . Helvetiae, Rhaetiae, Valesiae et
+							partis Sabaudia tabula</emph>, ex officiana Iusti Danckerts [Justus Danckerts, 1635-1701], [Amsterdam].
+							. . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.75 x 24 | tinted; 2 copies, each colored differently)
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>197 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Carte de la Suisse . . .</emph>, publiee
+							par Francois Grasset . . . a Lausanne, 1769. Supervised by M. Robert de
+							Vaugonfy, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(21 x 27.5 | colored boundaries)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series29">
+				<did>
+					<unittitle>MAPS — MEXICO</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>254 (Box 1)</container>
+						<unittitle><emph render="italic">Mexico or New Spain in which the Motions
+								of Cortes may be traced</emph>, for the Rev Dr. Robertson's History
+							of America, by Thomas Kitchin Senior, W. Strahan and T. Cadell, Sept 29,
+							1777, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12 x 16 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Pencil note: "modern color."</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series30">
+				<did>
+					<unittitle>MAPS — NEAR EAST</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>060 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A new and accurate map of Turkey in Asia,
+							Arabia etc.</emph>, by [Emanuel Bowen, 1693 or 1694-1767], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(16 x 19.25 | black and white ; decorated)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series31">
+				<did>
+					<unittitle>MAPS — NORTH AMERICA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>062 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">An accurate map of North America
+								describing and distinguishing the British and Spanish dominions . .
+								. according to the definitive treaty concluded at Paris 10th Feb.
+								1763 . . . </emph>, by [Emanuel Bowen, 1693 or 1694-1767] . . . and John Gibson . . .
+							, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(21.5 x 57.5 | tinted boundary lines ; edges in poor condition; in
+							2 pieces)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: Baffin and Hudson's Bay. With articles from the treaty printed in
+							ocean areas.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>063 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Carte des parties nord et ouest de
+							L'Amerique dressée d'aprés les relations les plus authentiques . .
+						</emph>, Nouvelle édition réduite par M. de Vougondy en, </unittitle>
+						<unitdate>1772</unitdate>
+						<physdesc>(15.5 x 18 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Shows Indian tribes.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>186 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Nouvelle Carte Particuliere de l'
+								Amerique, ou sont exactement marquees les Provinces suivant comme la
+								Caroline Meridionale, la Floride . . . A Map of the British Empire
+								in America . . . </emph>, by Henry Popple, at Amsterdam, printed for
+							Iohn Covens and Corneius Mortier, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>219 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">To the Right Honourable John Lord Sommers
+								. . . this map of North America . . . is most humbly dedicated by .
+								. . Herman Mill . . . </emph>, [London] </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 40.5 | tinted and decorated; folded ; margins in poor
+							condition)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: drying cod in New Found Land; and several ports and
+							harbours..</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>231 (Box 2)</container>
+						<unittitle><emph render="italic">North America</emph>, </unittitle>
+						<unitdate>1776</unitdate>
+						<physdesc>(8.25 x 10.25 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>255 (Box 1)</container>
+						<unittitle><emph render="italic">Cette carte de Californie et Du Nouveau
+								Mexique</emph>, par N. de Fer, </unittitle>
+						<unitdate>1705</unitdate>
+						<physdesc>(10 x 14.25 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>256 (Box 1)</container>
+						<unittitle><emph render="italic">A New Map of ye North Parts of America
+								Claimed by France under ye names of Louisiana, Mississippi, Canada,
+								&amp; New France, with the Adjoyning Territories of England and
+								Spain</emph>, By Herman Moll Geographer, </unittitle>
+						<unitdate>1730</unitdate>
+						<physdesc>(9.25 x 14 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>257 (Box 1)</container>
+						<unittitle><emph render="italic">A Map of the British Plantations on the
+								Continent of America</emph>, </unittitle>
+						<unitdate>1739</unitdate>
+						<physdesc>(13.75 x 12 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>258 (Box 1)</container>
+						<unittitle><emph render="italic">America del Norte</emph>, J.
+							Barthelemier, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9.5 x 12 | black and white)</physdesc>
+					</did>
+				</c02>
+				
+				
+				<c02 level="item">
+					<did>
+						<container>287 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">Insulae Americanae in Oceano
+								Septentrionali ac Regiones Adiacentes . . .</emph>, Nicholas
+							Visscher. Amsterdam, </unittitle>
+						<unitdate>approximately 1680</unitdate>
+						<physdesc>(8.25 x 22 | handcolored)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series32">
+				<did>
+					<unittitle>MAPS — PACIFIC OCEAN</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>064 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Carte de la partie septentrionale de la
+								Mer du Sud . . . tiree de la Carte Generale Angloise des decouvertes
+								de Captaine Cook</emph>, Grave par Dupuis, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.25 x 18 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Northern Pacific Ocean with adjoining coasts.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>065 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A map of the discoveries made by Captains
+							Cook &amp; Clerke in the Years 1778 &amp; 1779 between the Eastern
+							Coast of Asia and the Western Coast of North America when they
+							attempted to Navigate the North Sea . . . </emph>, </unittitle>
+						<unitdate>1795</unitdate>
+						<physdesc>(15 x 18 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Engraved for Carey's America edition of Guthrie's Geography
+							improved.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>187 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">The Russian discoveries from the map
+								published by the Imperial Academy of St. Petersburg, </emph>,
+							London, Printed for Robert Sayer, </unittitle>
+						<unitdate>1775</unitdate>
+						<physdesc>(21.5 x 29.25 | colored boundary lines)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Northeastern Asia and Northwestern North America.</p>
+					</scopecontent>
+				</c02>
+				
+			</c01>
+			<c01 level="series" id="series33">
+				<did>
+					<unittitle>MAPS — POLAR REGIONS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>066 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Nieuwe Kaart van de Noord Pool . . .
+							</emph>, Amsterdam, door Isaak Tirion, </unittitle>
+						<unitdate>1735</unitdate>
+						<physdesc>(16 x 18.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Northern hemisphere with North Pole at center.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series34">
+				<did>
+					<unittitle>MAPS — ROMAN EMPIRE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>067 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Romani Imperii Imago</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in pencil on verso (page vii): "Ortelius 1612."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>068 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Orbis Romani Par Occidentalis . . .
+							</emph>, [London] Drawn &amp; engraved for J. Harrison, </unittitle>
+						<unitdate>1790</unitdate>
+						<physdesc>(17.5 x 21 | black and white)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series35">
+				<did>
+					<unittitle>MAPS — SOLAR SYSTEM</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>191 (Map Case Drawer 15)</container>
+						<unittitle>
+							<emph render="italic">Systema solari et planetarium ex hypothesi
+								Copernicana . . . </emph>, a Iohanne Bapt. Homanno [Johann Baptist Homann, 1663-1724],
+							Noribergae, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20 x 23.5 | tinted)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series36">
+				<did>
+					<unittitle>MAPS — SOUTH AMERICA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>069 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Carte de la Terre Ferme, de la Guyane, et
+							du Pays des Amanzones . . .</emph>, Par M. Bonne . . . A Paris, chez
+							Lattre, a la Ville de Bordeaux, </unittitle>
+						<unitdate>1771</unitdate>
+						<physdesc>(15 x 20 | tinted borders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>070 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Description de Lima</emph>, Tom: VI, No.
+							32. Pag: 134, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(17.5 x 21 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Northwestern South America, including Peru and plan of Lima</p>
+						<p>— Page illustrated with 2 maps and 2 engravings.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>071 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Kaart van het Onderkoningsehap van Peru
+							zig uitstrekkende over Chili, Paraguay en anderen Spaansche Landen:
+							also ook van Brazil en verdure Bezitting en van Portugal in Zuid –
+							Amerika</emph>, Amsterdam by Isaak Tirion, </unittitle>
+						<unitdate>1765</unitdate>
+						<physdesc>(16 x 19 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— All of South America except nothern part above the equator.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>072 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Venezuela cum parte Australi Novae
+							Andalusiae</emph>, Amstelodami, Henricus Hondius
+							Excudit, </unittitle>
+						<unitdate>1636</unitdate>
+						<physdesc>(19.5 x 22.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in English on verso (pages 449-450): "The description of Venesvela
+							. . . "</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>073 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Paraguay, ó Prov. de Rio de la Plata cum
+							regionibus adiacentibus Tucuman et Sta. Cruz De La Sierra</emph>,
+							Amstelodami, Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu] excudit, </unittitle>
+						<unitdate>1642</unitdate>
+						<physdesc>(18 x 21.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (unnumbered pages): "Descriptio Paragvay . . .
+							"</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>074 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Venezuela cum parte Australi Novae
+							Andalusiae</emph>, Amstelodami, Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu]
+							Excudit, </unittitle>
+						<unitdate>1642</unitdate>
+						<physdesc/>
+					</did>
+					<scopecontent>
+						<p>— Text in German on verso (page 20 and unnumbered page): "Venezvela."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>075 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Venezuela cum parte Australi Novae
+							Andalusiae</emph>, Amstelodami, Ioannes Ianssonius
+							excudit, </unittitle>
+						<unitdate>1666</unitdate>
+						<physdesc>(19.75 x 23 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in Latin on verso (unnumbered pages): "Venezvelae descriptio."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>192 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Mapa y Planta de Rio de la Plata Leventada
+							y Emendada novamente por los Pilotos del Rey</emph>, Delineada y
+							publicaca por el Senor Bellin, </unittitle>
+						<unitdate>1770</unitdate>
+						<physdesc>(18.5 x 25.5 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>193 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">The Coast of Caracas Cumana Paria and the
+							Mouths of Rio Orinoco with the Islands of Trinidad Margarita Tabago
+							Grenada and St. Vincent </emph>, by Thomas Jefferys Geographer to his
+							Majesty . . . London, Laurie :&amp; Whittle, </unittitle>
+						<unitdate>1794</unitdate>
+						<physdesc>(21 x 28 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>220 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">To the Right and Honorable Charles Earl of
+							Sunderland . . . This Map of South America . . . </emph>, Herman
+							Moll Geographer, [London] </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 41 | tinted and decorated ; folded ; margins in poor
+							condition)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: View of Potosi in Peru.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>221 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">L'Amerique Meridionale ou la Partie
+							Meridionale des Indes Occidentales . . . les provinces de terre
+							ferme le Perous et le Chili . . . et le Brasil etc . . .</emph>,
+							chez I.B. Nolin [etc.], </unittitle>
+						<unitdate>1704</unitdate>
+						<physdesc>(23 x 31.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— South America.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>224 (Box 2)</container>
+						<unittitle><emph render="italic">Carthagena</emph>, Engraved for Luffman's
+							Select Plans, Vol. II. London, Luffman, </unittitle>
+						<unitdate>1802</unitdate>
+						<physdesc>(8.5 x 11 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Showing the harbor.</p>
+					</scopecontent>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>232 (Box 2)</container>
+						<unittitle><emph render="italic">South America</emph>, Engraved for Morse's
+							American geography by A. Doolittle N.H. Published by Thomas &amp;
+							Andrews, Boston, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9 x 8.25 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>233 (Box 2)</container>
+						<unittitle><emph render="italic">South America from the Best
+							Authorities</emph>, Engraved by B. Baker Islington, </unittitle>
+						<unitdate>1800</unitdate>
+						<physdesc>(8.5 x 10 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>243 (Box 1)</container>
+						<unittitle><emph render="italic">Brasil Nuova Tavola</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9 x 12.5 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In pencil: "Pirckheimer's Ptolemy 1562."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>259 (Box 1)</container>
+						<unittitle><emph render="italic">Amérique Méridionale</emph>, Par M. Bonne,
+							Ingénier Hydrographe de la Marine, Liv. VII et X no.29. Andre
+							sculp, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9.5 x 13.75 | tinted boundaries)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>260 (Box 1)</container>
+						<unittitle><emph render="italic">Tierra Nova</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9 x 12.25 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Whole continent with only Castilla del Oro, Perv Provincia, El Brasil
+							marked.</p>
+						<p>— Text on verso (page 61): "Americae sive Perv . . . "</p>
+						<p>— In pencil: "Pirckheimer's Ptolemy 1562."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>261 (Box 1)</container>
+						<unittitle><emph render="italic">Pervviae Avriferae Regionis typos. Didaro
+								Mendezio auctore</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(10.5 x 15.75 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text in French on verso (page 9): "Le Perv."</p>
+						<p>— In pencil: "Ortelius 1579."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>262 (Box 1)</container>
+						<unittitle><emph render="italic">Castilia avrifera cvm vicinis
+								provinciis</emph>, </unittitle>
+						<unitdate>1597</unitdate>
+						<physdesc>(11.5 x 13.5 | black and white)</physdesc>
+					</did>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>263 (Box 1)</container>
+						<unittitle><emph render="italic">Le Detroit de Magellan</emph>, Par le Sr.
+							de Fer. A Paris . . . , </unittitle>
+						<unitdate>1700</unitdate>
+						<physdesc>(10.5 x 14.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>264 (Box 1)</container>
+						<unittitle><emph render="italic">An Accurate Map of South America Drawn
+							from the Sieur Rober, Geogr. to the French King with
+							Improvements</emph>, </unittitle>
+						<unitdate>1766</unitdate>
+						<physdesc>(8.25 x 13 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>265 (Box 1)</container>
+						<unittitle><emph render="italic">Map of the Countries on the South Sea from
+							Panama to Guayquil</emph>, For the Rec. Dr. Robertsonis History of
+							American. By Thomas Kitchin Senior Hydrographer to his Majesty, pub . . .
+							by W. Strahan and T. Cadell, </unittitle>
+						<unitdate>1777</unitdate>
+						<physdesc>(10 x 15 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>283 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Brasilia</emph>, Johannes Blau [Joan Blaeu]
+							Amsterdam, </unittitle>
+						<unitdate>approximately 1645</unitdate>
+						<physdesc>(15 x 19)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Latin text on verso.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container>285 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Amerique Meridionale par N. Sanson
+								d'Abbeville Geographe de Roy</emph>, Nicolas Sanson.
+							Paris, </unittitle>
+						<unitdate>1650</unitdate>
+						<physdesc>(15.5 x 21.25 | outline handcolor)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>286 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Nova Hispania et Nova Galicia</emph>, G.
+							Blaeu [Willem (Janszoon?) Blaeu]. Amsterdam, </unittitle>
+						<unitdate>approximately 1640</unitdate>
+						<physdesc>(15 x 19.25)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— No text on verso.</p>
+						<p>— Map has been mounted to a backing sheet.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series37">
+				<did>
+					<unittitle>MAPS — UNITED STATES</unittitle>
+				</did>
+				
+				<c02 level="item">
+					<did>
+						<container>076 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Carte de la Partie Méridionale des
+								Etats-Unis</emph>, Pl. IX a la Fin du Tom. II., </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(17 x 22.5 | black and white ; poor condition)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Virginia, Kentucky, North Carolina, South Carolina, Georgia.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>077 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">County map of the state of
+								California</emph>, </unittitle>
+						<unitdate>1872</unitdate>
+						<unitdate>undated</unitdate>
+						<physdesc>(15 x 23 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: City of San Francisco; San Francisco Bay and vicinity.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>078 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Partie Des Etats-Unis de l'Amérique
+							Septentrionale</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(22 x 18 | black and white ; poor condition)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Western New England, N.Y. and as far south as South Carolina.</p>
+						<p>— Small inset: "Canada Superieur et Inferieur."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>079 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">The states of Maryland and Delaware from
+							the latest Surveys</emph>, D. Martin sculpt., N. York. Pub. by John
+							Reid, New York., </unittitle>
+						<unitdate>[1795?]</unitdate>
+						<physdesc>(16.5 x 20.5 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>198 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Carte geopraphique des Provinces Neu York
+							et Neu Jersey en Amerique</emph>, publié par les Heritiers de Homann
+							1778. Avec Priv. de Sa. Maj. Imperiale, </unittitle>
+						<unitdate>1778</unitdate>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.5 | Black and white, with yellow boundaries and
+							border)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Shows parts of present New York, Vermont, New Hampshire, and
+							Massachusetts, with Lake Champlain at the center.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>199 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Novi Belgii, Novaeque Angliae nec non
+							partis Virginiae tabula multis in locis emendata per Nivolaum
+							Visscher</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 25.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Facsimile? From Chagnon :&amp; Co., Prints, Framing, French books, 26
+							West 46th Street, New York City, in 1939.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>234 (Box 2)</container>
+						<unittitle><emph render="italic">West Point and its Vicinity</emph>, </unittitle>
+						<unitdate>1866</unitdate>
+						<physdesc>(6 x 8 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>235 (Box 2)</container>
+						<unittitle><emph render="italic">Geological map of the country between San
+							Diego and the Colorado River California</emph>, prepared in Office
+							of P.R.R. Exp. &amp; Surveys, By W. P. Blake, </unittitle>
+						<unitdate>1855</unitdate>
+						<physdesc>(7.5 x 10 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— United States War Department.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>266 (Box 1)</container>
+						<unittitle><emph render="italic">An Accurate map of New York in North
+							American from a late Survey</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(11.25 x 14.25 | colored boundaries, etc.)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>267 (Box 1)</container>
+						<unittitle><emph render="italic">Map showing Moqui Indian Reservation and
+								Pueblos and lines of the United States land surveys</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9 x 11.25 | colored boundary lines)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— From 11th census, Indians.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>268 (Box 1)</container>
+						<unittitle><emph render="italic">United States</emph>, Edinburgh &amp;
+							Dublin, J. &amp; F. Tallis, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(11 x 14 | colored boundaries)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>269 (Box 1)</container>
+						<unittitle><emph render="italic">Virginia and Maryland</emph>, by Herman Moll
+							Geographer, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(8.5 x 15 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>270 (Box 1)</container>
+						<unittitle><emph render="italic">Virginia, Maryland, and Delaware</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(9 x 11.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Must have been created after the inception of railroads.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>271 (Box 1)</container>
+						<unittitle>Group of sketch maps of U.S. West, by U.S. Army, </unittitle>
+						<unitdate>1846-1847, undated</unitdate>
+					</did>
+					<scopecontent>
+						<p>— [California coast from San Francisco to San Diego], June 19,
+							1847 (14 x 16; Inset: Lowe, California.)</p>
+						<p>— <emph render="italic">Sketch accompanying Col. Price's
+							despatch of 18 April, 1847 (8.75 x 10.25)</emph></p>
+						<p>— <emph render="italic">Sketch accompanying Col. Price's
+							despatch of 15 Feb. 1847</emph> (7.5 x 10; Showing Rio del Norte with Joya and Embudo.)</p>
+						<p>— <emph render="italic">Sketch accompanying Col. Price's
+							despatch</emph> (11.25 x 13; Pueblo de Taos at center.)</p>
+						<p>— <emph render="italic">Sketch of the actions fought at San
+							Pascal in upper California between the Americas and Mexicans,
+							Dec. 6th &amp; 7th 1846 (9 x 13)</emph></p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series38">
+				<did>
+					<unittitle>MAPS — WEST INDIES</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>080 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">A new general chart for the West Indies of
+								E. Wright's Projection vut. Mercator's Chart . . . </emph>,
+							London, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(18.5 x 23 | black and white)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series39">
+				<did>
+					<unittitle>MAPS — WESTERN HEMISPHERE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>200 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">America, Drawn and Engraved for Thomson's
+								new General Atlas, 1st. July 1813</emph>, </unittitle>
+						<unitdate>1813</unitdate>
+						<physdesc>(20.5 x 27.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>201 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">America Septentrionalis</emph>,
+							Amstelodami, Excudit Ionnes Ianssonius [Jan Jansson, 1588-1664], </unittitle>
+						<unitdate>1623</unitdate>
+						<physdesc>(19.5 x 25.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Facsimile? See Novi Belgii, page 23.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>202 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Americae, mappa generalis . . . </emph>,
+							Homonnianis Heredibus, </unittitle>
+						<unitdate>1746</unitdate>
+						<physdesc>(21 x 24.5 | tinted and decorated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>203 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Americae Nova Tabula</emph>, Auct:
+							Guiljelino Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 25.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Facsimile? See Novi Belgii, page 23.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>204 (Map Case Drawer 16)</container>
+						<unittitle><emph render="italic">Carte d'Amérique divisée en ses principaux
+								états . . .</emph>, par J. B. Poirson . . . A Paris, chez
+							Jean, </unittitle>
+						<unitdate>1798</unitdate>
+						<physdesc>(21.75 x 31.5 | colored boundaries)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— North America, South America, southwestern Europe, northwestern
+							Africa.</p>
+						<p>— Inset: Polar regions of North America.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>205 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Charte von America nach Olmedilla
+								Arrowsmith, Azara, und andern guten Quellen entworfen </emph>, von
+							F. W. Streit . . . Nurnberg bei Friedrich Campe, </unittitle>
+						<unitdate>1817</unitdate>
+						<physdesc>(23 x 29 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>206 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">A New and Exact Map of America laid Down
+								from the Latest observations &amp; Discoveries</emph>, [London] Sold
+							by I. Bowles at Mercers Hall in Cheapside, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 40.5 | tinted ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: Indian life, Niagara Falls, drying cod at New Foundland, and
+							various harbour maps.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>207 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Novissima et accuratissima totius
+							Americae</emph>, descriptio per I. Danckerts [Justus Danckerts, 1635-1701]. Amsterdam, </unittitle>
+						<unitdate>[1688?]</unitdate>
+						<physdesc>(19.75 x 23.25 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>208 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Novissima et accuratissima totius Americae
+						</emph>, descriptio per N. Visscher (1623), </unittitle>
+						<unitdate>[1973?]</unitdate>
+						<physdesc>(19.5 x 25.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— 1973 facsimile? See Novi Belgii, page 23.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>209 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Teâtre de la Gueue en Amerique telle
+								qu'elle est à present Possedée par las Espagnols</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.5| tinted and decorated)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Gulf coast, Mexico and Central America.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series40">
+				<did>
+					<unittitle>MAPS — WORLD</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>081 (Map Case Drawer 13)</container>
+						<unittitle><emph render="italic">Orbis Veteribus Notus</emph>, Drawn and
+							Engraved from d'anville's Map of the Antient World . . ., [London] For
+							John Harrison, </unittitle>
+						<unitdate>1788</unitdate>
+						<physdesc>(17.5 x 21.75 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>082 (Map Case Drawer 13)</container>
+						<unittitle>[no title] <emph render="italic">National Atlas, page 44,
+								Glasgow; Robert Weir – Lumsden &amp; Son, Engraved by W &amp; A.K.
+								Johnston</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(13 x 21.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— One half of a world map.</p>
+						<p>— Insets: coffee and sugar map, spice map, tea map, and sketches of Torrid
+							Zone plants.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>210 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Basis Geographicae Recentioris Astronomica
+								. . . </emph> Norimbergae: a Iohanne Gabriele Doppelmaiero . . .
+							opera Ioh. Bapt. Homanni [Johann Baptist Homann, 1663-1724] . . . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.75 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>211 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">A new and correct Map of ye world</emph>,
+							[London] Printed for and sold by Thomas Bowles . . . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(24.5 x 40.5 | tinted ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Many insets and instructional materials printed in margins, including a
+							map of the moon.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>212 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">Planiglobii terrestris cum utroq
+								hemisphaerio caelstri . . . </emph>, publice proponit Io. Bapt.
+							Homann [Johann Baptist Homann, 1663-1724] . . . , </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(20.5 x 24.5 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Both northern and southern hemispheres viewed from the poles.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>213 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">A New and Correct Map of the World, Laid
+								Down According To The Newest Discoveries, And From The Most Exact
+								Observations</emph>, by Herman Moll Geographer, </unittitle>
+						<unitdate>1709</unitdate>
+						<physdesc>(24.5 x 41 | tinted and decorated ; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Insets: moon, solar system, etc.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>236 (Box 2)</container>
+						<unittitle><emph render="italic">A Map of the World, on Mercators
+								Projection</emph>, </unittitle>
+						<unitdate>1755</unitdate>
+						<physdesc>(8 x 12 | black and white)</physdesc>
+					</did>
+				</c02>
+			
+				<c02 level="item">
+					<did>
+						<container>276 (Map Case Drawer 15)</container>
+						<unittitle><emph render="italic">A Historic Map of the Roman Empire . . .
+							</emph>, By Monsieur William Del Isle… Herman Moll . . ., </unittitle>
+						<unitdate>1709</unitdate>
+						<physdesc>(47.125 x 20.375 | tinted; folded)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Inset: The world.</p>
+						<p>— Some large tears and rips</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series41">
+				<did>
+					<unittitle>MAPS — MISCELLANEOUS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>029 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Castellania Aldenardensis</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(13 x 20 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Pages 47-48 of text with map at top of page 48.</p>
+						<p>— Size refers to the size of the page, not the map. </p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>038 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Ditivncvla de Laleve</emph>, Vedasto du
+							Plonich auctore, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12 x 20)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Pages 127-128 of text with map at head of page 128).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>040 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Coloniensis Archiepiscopatus</emph>,
+							Auctore Ioh. Gigante medico et mathematico. Amsterdam,
+							Blaeu [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19 x 22 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Text on verso (unnumbered pages).</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>043 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Territorii Lendaviensis pars
+								Septentrionalis</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12 x 20 | tinted)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Lindau in Bavaria (Germany)?</p>
+					</scopecontent>
+				</c02>
+
+			</c01>
+			<c01 level="series" id="series42">
+				<did>
+					<unittitle>MISCELLANEOUS PIECES</unittitle>
+				</did>
+				
+				<c02 level="item">
+					<did>
+						<container>004 (Map Case Drawer 12)</container>
+						<unittitle>[Page of text:] <emph render="italic">L'Ancienne Germanie
+						</emph>, </unittitle>
+						<physdesc>(12.75 x 19.5)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Printed on both sides of unnumbered page.</p>
+						<p>— Lists of tribes, in old French, beginning with "Saxones."</p>
+						<p>— See also map under Germany: <emph render="italic">Germaniae tabula denuo
+							. . .</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>005 (Map Case Drawer 12)</container>
+						<unittitle>[Page of text in French] <emph render="italic">La Litvanie,
+							Cimbrique</emph>, Briesve &amp; nouvelle description de
+							Lituanie, </unittitle>
+						<physdesc>(12 x 19.5)</physdesc>
+						<unitdate>undated</unitdate>
+						<physdesc/>
+					</did>
+					<scopecontent>
+						<p>—Unnumbered page of text, no maps.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>006 (Map Case Drawer 12)</container>
+						<unittitle>Illustration of Atlas holding up the sky while standing on the
+							globe of earth, from Frederick de Wit's <emph render="italic"
+								>Atlas</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+					<scopecontent>
+						<p>— Text: "Bij Frederick de Wit in de Calverstraet bij den Dam in de Witte
+							Poskaert."</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>007 (Map Case Drawer 12)</container>
+						<unittitle>[Title page] [<emph render="italic">Geographiae Blaviannae
+							Volvmen tertivm Qvo Germania Qvae Est Europae Liber Octavvs
+							continentvr</emph>, Amstelaedami, Labore &amp; Sumptibus Ioannis
+							Blaev [Joan Blaeu, 1596-1673], </unittitle>
+						<unitdate>1662</unitdate>
+						<physdesc>(11.75 x 20.25)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>008 (Map Case Drawer 12)</container>
+						<unittitle>[Title page] Atlas, <emph render="italic">Amstelaedami</emph>,
+							Chés I. B. Elwe, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(13 x 22.75 | decorated in color</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>009 (Map Case Drawer 12)</container>
+						<unittitle>[Title page] <emph render="italic">Neuer Atlas…uber die Ganze
+							Welt . . . </emph>, von [Johann Baptist Homann, 1663-1724], Nuernberg, Verlegung
+							des Auctoris, </unittitle>
+						<unitdate>1710</unitdate>
+						<physdesc>(12 x 20.5 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>010 (Map Case Drawer 12)</container>
+						<unittitle>[Title page] <emph render="italic">Atlas antiquus, sacer et
+								profanus disposuit &amp;emendavit tabulas</emph>, Joannes Clericus,
+							Amstelodami, apud Petrum Mortier, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.5 x 19.75 | illustrated in color)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>011 (Map Case Drawer 12)</container>
+						<unittitle>[Title page] <emph render="italic">Nieuwen Atlas ofte Weereldts
+								– Beschrijvinge/ Vervolgh van't Tweede Deel. Inhoudende Vranckryck,
+								en Hispanien</emph>, Amstelodami, apud Ioannem
+							Ianssonium [Jan Jansson, 1588-1664], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(12.5 x 19.75 | decorated in color)</physdesc>
+					</did>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>012 (Map Case Drawer 12)</container>
+						<unittitle>[2 unnumbered pages from an atlas, no maps] <emph render="italic"
+								>Preface au Lecteur</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(19.5 x 23.25)</physdesc>
+						<physdesc/>
+					</did>
+					<scopecontent>
+						<p>— Signed (in type): "Henry Hondius et Iean Ianson."</p>
+						<p>— Size is of open pages.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>013 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Carte qui represente toutes les pieces qui
+							sont comprises dans l'architecture militaire, ou l'art des
+							fortifications . . .</emph>, Utrect, Casper Specht, </unittitle>
+						<unitdate>1703</unitdate>
+						<physdesc>(20 x 25 | black and white)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>014 (Map Case Drawer 12)</container>
+						<unittitle>[Chart] <emph render="italic">Schematismus Geographiae
+								Mathematicae, id est, repreasentatio figararum . . . </emph>,
+							Norimbergae, Homann Heredum, </unittitle>
+						<unitdate>1753</unitdate>
+						<physdesc>(21 x 25.5 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>018 (Map Case Drawer 12)</container>
+						<unittitle>Genealogical chart of Eberhard Ludwig, Herzogen zu Wurtenberg und
+							Teck . . . Augspurg, Matthaeus Seutter, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(21.5 x 26 | color)</physdesc>
+					</did>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>020 (Map Case Drawer 12)</container>
+						<unittitle><emph render="italic">Genealogical chart of Konigl. Hauss,
+								Preussen, Familien Vorstell</emph>, Augspurb, Matt. [Seutter], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(22 x 25 | color)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>[Images and extracted pages clipped from a volume on
+							Australia]</unittitle>
+						<physdesc>(27 pieces)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In a large bag.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>[Page of text in Italian] Descriptions of Tavola XLIV, XLV,
+							XLVI, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(18 x 25.5)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Pages 81-82.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>[Pages of illustrated text in German] Plat VI, XXXIX, XLI, LVII,
+							LVIII, LXX, LXXXII, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(7 sheets)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Concerns both secular and Biblical personages.</p>
+						<p>— Pages not consecutive.</p>
+						<p>— Tied between heavy corrugated cardboard.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series43">
+				<did>
+					<unittitle>DOCUMENTS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>291 (Box 2)</container>
+						<unittitle>[Florida] By Peter Chester to Elias Dwenford, Surveyour-General, concerning
+							land grant for Alexander Offutt, </unittitle>
+						<unitdate>1772 Feb 4</unitdate>
+						<physdesc>(Printed form with hand-drawn map attached. 2 sheets)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>291 (Box 2)</container>
+						<unittitle>[Florida] James Robertson, reduced Warrant-officer who had served in the
+							siege of Quebec. Petition to Peter Chester, governor of West Florida,
+							for land grant, </unittitle>
+						<unitdate>1777 Feb 3</unitdate>
+						<physdesc>(1 sheet)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>291 (Box 2)</container>
+						<unittitle>[Florida] Petition of Archibald Dalziel, a reduced Warrant-officer of his
+							Majesty’s Navy … during the last war, for grant of lands due such
+							Warrant officers in West Florida, </unittitle>
+						<unitdate>approximately 1776</unitdate>
+						<physdesc>(1 sheet)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>291 (Box 2)</container>
+						<unittitle>[Florida] Pensacola [Fla.] to Peter Chester, governor of West Florida
+							[1772-1777] for Tho. Hutchins by Alex. Dr. Macullogh his attorney [clerk
+							of the Council of West Florida, 1776]. Petition for the renewal of
+							Warrant for 200 acres, </unittitle>
+						<unitdate>1776 Apr 3</unitdate>
+						<physdesc>(1 sheet)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>291 (Box 2)</container>
+						<unittitle>[Florida] Renewal of warrant for land in West Florida for Thomas Jones.
+							Signed by Gov. Peter Chester, </unittitle>
+						<unitdate>1776 Apr 17</unitdate>
+						<physdesc>(Printed form with hand-drawn map attached. 2 sheets)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>291 (Box 2)</container>
+						<unittitle>[Florida] Pensacola [Fla.] to Peter Chester, gov … by William Mackapern (?)
+							for renwal of a warrant for 200 acres, </unittitle>
+						<unitdate>1776 Apr 22</unitdate>
+						<physdesc>(1 sheet)</physdesc>
+					</did>
+				</c02>
+				
+			</c01>
+			<c01 level="series" id="series44">
+				<did>
+					<unittitle>PRINTS AND ILLUSTRATIONS</unittitle>
+				</did>
+				<scopecontent>
+					<p>Container list currently incomplete.</p>
+				</scopecontent>
+				<c02 level="item">
+					<did>
+						<container>001 (Map Case Drawer 12)</container>
+						<unittitle>[Plate ] Sicilie . . . Foro di Vulcano . . . [Italy], Plate no. 4, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(14.25 x 19.5)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Engraving of scene with fumaroles; spectators in foreground and
+							approaching the vents.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>002 (Map Case Drawer 12)</container>
+						<unittitle>[Plate] . . . Fabriche . . . della Citta di Cuma riedute da
+							Mezzogiorno . . . [Italy], Plate no. 30, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(14.25 x 19.5)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Engraving of ruins and caves with reaper and companion in foreground;
+							other figures.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>003 (Map Case Drawer 12)</container>
+						<unittitle>[Plate] <emph render="italic">Veduta delle Stufe ed Epitaffio di
+							Tritoli</emph>, [Italy], Plate no. 15, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(14.25 x 19.75)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Depicts ruins.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>019 (Map Case Drawer 12)</container>
+						<unittitle>[Plate] <emph render="italic">Diana Efesina Trovata nelli scavi
+							della Villa Adriana in Tivoli</emph> [Italy], Plate XXXII, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(18 x 25 | black and white engraving)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>090 (Map Case Drawer 13)</container>
+						<unittitle>[Print] <emph render="italic">Overwinnings Van Namen Syn
+								Casteel, nieuwe Forten en Liniën; In't aansien van des Franfen
+								Konings Leger, sterk 118000. Man. Door Willem de III. Koning van
+								Groot Brittannien, etc.</emph>, Amsterdam, Uytegegeven by Pieter
+							Persoy, </unittitle>
+						<unitdate>[1695?]</unitdate>
+						<physdesc>(24 x 30 | black and white)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Battle scene.</p>
+						<p>— MDCXCV may indicate date.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>230 (Box 2)</container>
+						<unittitle><emph render="italic">Bay of Naples</emph>, [Italy], Engraved
+							for Luffman's Select Plans of the principal Cities, Harbours, Fortes
+							etc. in the World, Vol. I, </unittitle>
+						<unitdate>1800</unitdate>
+						<physdesc>(8.5 x 11 | tinted)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>237 (Box 1)</container>
+						<unittitle>[Illustration] <emph render="italic">Akbar's Tomb –
+								Secundra</emph>, Drawn by W. Purser; engraved by J.
+							Rolph, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(7.25 x 11.)</physdesc>
+					</did>
+				</c02>
+	<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>Colored print of Niagara Falls. By J. &amp; F. Tallis, London,
+							Edinburgh &amp; Dublin, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>[12 prints of Northeastern United States scenes, mostly New York
+							State, by W.H. Bartlett, </unittitle>
+						<unitdate>1837-1839</unitdate>
+						<physdesc>(8 x 10.625 | color)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>5 miscellaneous lithographs, etc. of New York City and
+							vicinity, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(4.5 x 6.5)</physdesc>
+						<physdesc>(4.5 x 7.125)</physdesc>
+						<physdesc>(4.5 x 7.125)</physdesc>
+						<physdesc>(7 x 9.5)</physdesc>
+						<physdesc>(7 x 9.5)</physdesc>
+					</did>
+				</c02>
+				
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>[37 Illustrations] from <emph render="italic">The History of the
+							Indian Empire</emph>, 2 vols, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(7.5 x 11)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— Three scattered signatures of text included: pages 293, 296-298; pages
+							329, 332, 333, 336; and pages 385-392.</p>
+						<p>— In envelope.</p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>MISSING AS OF 2019</container>
+						<unittitle>[Print] Regent Street… [London], No.79 of R. Ackerman's
+							Repository of Arts, </unittitle>
+						<unitdate>1822</unitdate>
+						<physdesc>(6 x 9.5 | color)</physdesc>
+					</did>
+					<scopecontent>
+						<p>— In separate envelope.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

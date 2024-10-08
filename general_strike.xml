@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_general_strike
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the General Strike Collection, 1926</titleproper>
+				<author>Inventory prepared by Mark Seidl</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>August 2014</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl <date>August 2014</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245">General Strike Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1926 May</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">3.9 cubic feet (6 flat boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Newspapers, bulletins, timetables, public notices, and facsimiles documenting the course of the General Strike.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>The General Strike was a massive wave of labor strikes that occurred in Great Britain in May of 1926. The strike originated in a dispute between coal miners, who wanted to protect their existing work conditions, and mine owners, who sought to cut wages and extend work hours. To force their demands, owners on May 1 locked roughly one million miners out of their mines. In response, the Trade Unions Congress (TUC), an umbrella organization of British trade unions, called for sympathy strikes throughout the country. By May 4 over one million workers in a variety of industries had answered the call and taken to the streets. The nation-wide strike lasted until May 12, when the TUC, under pressure from the government, called on strikers to return to their jobs. The coal miners' strike continued, however, until November, when the miners' own economic needs compelled them to accept mine owners' demands.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The General Strike Collection includes newspapers, both daily and weekly, strike bulletins, railway timetables, assorted public notices, and facsimiles of publications pertaining to the strike. Of particular interest is a set of the newspaper, The Strand Gazette, with variant strike issues.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">General Strike, Great Britain, 1926</subject>
+				<subject source="lcsh" encodinganalog="650">Labor--Great Britain</subject>
+				<subject source="lcsh" encodinganalog="650">Strikes and lockouts--Great Britain</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Politics </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, August 2014.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Mark Seidl, August 2014.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The items in this collection were donated by Lucy Maynard Salmon and cataloged in Dewey. Original acquisition date unknown. Transferred from Special Collections Dewey materials on June 13, 2014.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>General Strike Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is arranged alphabetically by document type.</p>
+		</arrangement>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Bulletins of provincial newspapers</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 3-6</container>
+					<unittitle> Daily newspapers</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Facsimiles of testimonials re. Gerstner machines from newspaper offices</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Illustrated records of the strike</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle> Miscellaneous strike bulletins</unittitle>
+					<physdesc>(2 folders)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle> Political bulletins</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle> Public notices</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle> Railway time-tables</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle> Set of The Strand Gazette</unittitle>
+					<physdesc>(with variant issues)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle> Strike issues of weekly newspapers</unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

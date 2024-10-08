@@ -1,0 +1,2735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_english_documents
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the English Documents Collection, 1552-1875</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>April 2007</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College. Library</corpname></origination>
+			<unittitle label="Title:" encodinganalog="245"> English Documents Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1552-1875 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 15 cubic feet (325 items in 15 boxes and 6 mapcase drawers)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Deeds, leases, apprenticeship indentures rent rolls, wills, customs certificates and other legal documents, mostly from Devon, Kent and Somerset. </abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Deeds, leases, apprenticeship indentures rent rolls, wills, customs certificates and other legal documents, mostly from Devon, Kent and Somerset. </p>
+			<p> A list created in 1979 mentions a "1551 court roll, Shrubwell, Buttscombe &amp; L, Somerset," but it has either been mislabeled or mislaid as of March 2014. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Real property--England--Devon</subject>
+				<subject source="lcsh" encodinganalog="650"> Real property--England--Kent</subject>
+				<subject source="lcsh" encodinganalog="650"> Real property--England--Somerset</subject>
+				<subject source="lcsh" encodinganalog="650"> Probate Records--England--Devon</subject>
+				<subject source="lcsh" encodinganalog="650"> Probate Records--England--Kent</subject>
+				<subject source="lcsh" encodinganalog="650"> Probate Records--England--Somerset</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> Devon (England)--Genealogy--Sources</geogname>
+				<geogname>Devon (England)--History--Sources</geogname>
+				<geogname source="lcnaf" encodinganalog="651"> Kent (England)--Genealogy--Sources</geogname>
+				<geogname>Kent (England)--History--Sources</geogname>
+				<geogname source="lcnaf" encodinganalog="651"> Somerset (England)--Genealogy--Sources</geogname>
+				<geogname>Somerset (England)--History--Sources</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Medieval and Early Modern Manuscripts </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+			<p>Updated by Laura Streett/Streett, February 2008 and March 2014.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+			<p>Update by Maya Peraza-Baker, December 2007.</p>
+			<p>Update by Laura Streett, March 2014.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>According to a collection inventory (completed presumably by Nat Alcock in 1979), the material was "apparently bought in London in 1938, and presented to the College thereafter, by a faculty member." However, according to a 1967 list of manuscript collections at Vassar, compiled by librarian Frances Goudy, the collection was a gift of Dorothy Meigs Eidlitz, Vassar Class of 1914.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>English Documents Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is intellectually arranged in seven series, and chronologically within each of those series. It is physically arranged according to the size of the document.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Deeds </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II. </ref> Wills </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III. </ref> Apprenticeship Indentures, </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series IV. </ref> Marriage Settlements, </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> Series V. </ref> Church Records </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6"> Series VI. </ref> Customs Bonds and Certificates </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7"> Series VII. </ref> Miscellaneous </unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. DEEDS </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Devon </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.03 </container>
+							<unittitle> Aveton Gifford, Devon, </unittitle>
+							<unitdate> 10 July 1637 </unitdate>
+							<physdesc> (14" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.08 </container>
+							<unittitle> Cleyhanger, Devon, </unittitle>
+							<unitdate> 20 October 1680 </unitdate>
+							<physdesc> (13" x 9.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.10 </container>
+							<unittitle> Brandninch, Devon, </unittitle>
+							<unitdate> 13 June 1687 </unitdate>
+							<physdesc> (15" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.29 </container>
+							<unittitle> Diptford, Devon, </unittitle>
+							<unitdate> 16 July 1692 </unitdate>
+							<physdesc> (25" x 26.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.30 </container>
+							<unittitle> Diptford, Devon, </unittitle>
+							<unitdate> 16 July 1692 </unitdate>
+							<physdesc> (26" x 27.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.31 </container>
+							<unittitle> Diptford, Devon, </unittitle>
+							<unitdate> 16 July 1692 </unitdate>
+							<physdesc> (24" x 28") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.32 </container>
+							<unittitle> Diptford, Devon, </unittitle>
+							<unitdate> 16 July 1692 </unitdate>
+							<physdesc> (27" x 29") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.22 </container>
+							<unittitle> Exeter, Devon, </unittitle>
+							<unitdate> 1 May 1714 </unitdate>
+							<physdesc> (11" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.07 </container>
+							<unittitle> Exeter, Devon, </unittitle>
+							<unitdate> 30 April 1714 </unitdate>
+							<physdesc> (10.5" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.42 </container>
+							<unittitle> South Leigh; Honiton, Devon, </unittitle>
+							<unitdate> 1 July 1736 </unitdate>
+							<physdesc> (26.5" x 32") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.32 </container>
+							<unittitle> Barnstaple Quay, copy of property description, </unittitle>
+							<unitdate> 6 October 1737 </unitdate>
+							<physdesc> (7.5" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.02 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 16 October 1737 </unitdate>
+							<physdesc> (13.5" x 22") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.43 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 15 September 1745 </unitdate>
+							<physdesc> (27.5" x 35") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.10 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 23 February 1748 </unitdate>
+							<physdesc> (18.5" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.44 </container>
+							<unittitle> Paignton, Devon, </unittitle>
+							<unitdate> 12 December 1747 </unitdate>
+							<physdesc> (26.5" x 35") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.12 </container>
+							<unittitle> Lifton, Devon, </unittitle>
+							<unitdate> 24 March 1748 or 1749 </unitdate>
+							<physdesc> (17" x 27") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.15 </container>
+							<unittitle> Harberton, Devon, </unittitle>
+							<unitdate> 22 July 1752 </unitdate>
+							<physdesc> (13" x 16.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.20 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 5 December 1754 </unitdate>
+							<physdesc> (23.5" x 29.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.19 </container>
+							<unittitle> Axmouth, etc., Devon, </unittitle>
+							<unitdate> 1762 </unitdate>
+							<physdesc> (14" x 18") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.05 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 13 June 1767 </unitdate>
+							<physdesc> (19" x 25.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.47 </container>
+							<unittitle> Ilfracombe, Devon, </unittitle>
+							<unitdate> 29 September 1770 </unitdate>
+							<physdesc> (28" x 34") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.51 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 14 November 1792 </unitdate>
+							<physdesc> (32.5" x 36") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.53 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 30 January 1794 </unitdate>
+							<physdesc> (27" x 32.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.54 </container>
+							<unittitle> Barnstaple, Devon, </unittitle>
+							<unitdate> 30 July 1830 </unitdate>
+							<physdesc> (25" x 29.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> KENT </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 7.05 </container>
+							<unittitle> Chatham, Kent, </unittitle>
+							<unitdate> 10 January 1615 </unitdate>
+							<physdesc> (12" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.04 </container>
+							<unittitle> Lydd, Kent, </unittitle>
+							<unitdate> 16 June1660 </unitdate>
+							<physdesc> (12.5" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.04 </container>
+							<unittitle> Hever, Chepsted, Kingsdown &amp; Mapplecombe, Kent, </unittitle>
+							<unitdate> 23 February 1664 </unitdate>
+							<physdesc> (21" x 30.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.09 </container>
+							<unittitle> Southwell Manor, Biddinden, Kent, </unittitle>
+							<unitdate> 15 August 1682 </unitdate>
+							<physdesc> (11.5" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.05 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 29-30 August 1687 </unitdate>
+							<physdesc> (12.5" x 22") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.08 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 30 August 1687 </unitdate>
+							<physdesc> (22" x 28") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.04 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 14 April 1687 </unitdate>
+							<physdesc> (18" x 23") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.16 </container>
+							<unittitle> Ockley, Kent, </unittitle>
+							<unitdate> 25 September 1699 </unitdate>
+							<physdesc> (14" x 17") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.33 </container>
+							<unittitle> Tonbridge, Som. Haldlow, Leigh, Tuedley, Penbury, Kent. includes a platt of the pieces concerned, </unittitle>
+							<unitdate> 28 November 1702 </unitdate>
+							<physdesc> (24.5" x 32.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.10 </container>
+							<unittitle> Tonbridge, Kent, </unittitle>
+							<unitdate> 2 February 1707 </unitdate>
+							<physdesc> (23.5" x 32") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.34 </container>
+							<unittitle> Tonbridge, Kent, </unittitle>
+							<unitdate> 11 November 1709 </unitdate>
+							<physdesc> (26" x 32") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.20 </container>
+							<unittitle> Dartford, Kent, </unittitle>
+							<unitdate> 1 December 1709 </unitdate>
+							<physdesc> (12.5" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.35 </container>
+							<unittitle> Tunbridge Wells, </unittitle>
+							<unitdate> 24 February 1712 </unitdate>
+							<physdesc> (24.5" x 27.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.05 </container>
+							<unittitle> Tunbridge, Kent, </unittitle>
+							<unitdate> 20 April 1713 </unitdate>
+							<physdesc> (12.5" x 23.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.08 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 24 May 1716 </unitdate>
+							<physdesc> (18" x 26.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.36 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 25 May 1716 </unitdate>
+							<physdesc> (30.5" x 34") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.09 </container>
+							<unittitle> Tunbridge, Kent, </unittitle>
+							<unitdate> 17 July 1716 </unitdate>
+							<physdesc> (12" x 23.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.01 </container>
+							<unittitle> Speldhurst Common; Bishops Down, Kent, </unittitle>
+							<unitdate> 20 April 1719 </unitdate>
+							<physdesc> (12.5" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.13 </container>
+							<unittitle> Tunbridge Wells, K; the Great House – attached long inventory of house contents, </unittitle>
+							<unitdate> 10 March 1719 or 1720 </unitdate>
+							<physdesc> (21.5" x 28.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.38 </container>
+							<unittitle> Tunbridge, Wells, Kent, </unittitle>
+							<unitdate> 24 June 1721 </unitdate>
+							<physdesc> (25.5" x 29") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.39 </container>
+							<unittitle> Tunbridge, Wells, Kent, </unittitle>
+							<unitdate> 24 June 1721 </unitdate>
+							<physdesc> (24.5" x 31.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.15 </container>
+							<unittitle> Whitstable, Kent, </unittitle>
+							<unitdate> 1 May 1723 </unitdate>
+							<physdesc> (18" x 29.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.04 </container>
+							<unittitle> Swadlands; Speldhurst, Kent, </unittitle>
+							<unitdate> 1 November 1725 </unitdate>
+							<physdesc> (20.5" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.03 </container>
+							<unittitle> Speldhurst &amp; Tunbridge, Kent, </unittitle>
+							<unitdate> 1-2 October 1728 </unitdate>
+							<physdesc> (16.5" x 26") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.40 </container>
+							<unittitle> Speldhurst &amp; Tunbridge, Kent, </unittitle>
+							<unitdate> 2 October 1728 </unitdate>
+							<physdesc> (25.5" x 34") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.26 </container>
+							<unittitle> Tunbridge, Kent, slip abstracting deed, </unittitle>
+							<unitdate> 23 December 1734 </unitdate>
+							<physdesc> (5" x 8") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.10 </container>
+							<unittitle> Tunbridge, Kent, </unittitle>
+							<unitdate> 23 December 1734 </unitdate>
+							<physdesc> (17.5" x 24.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.18 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 19 June 1739 </unitdate>
+							<physdesc> (13" x 20.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.04 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 20 June 1739 </unitdate>
+							<physdesc> (20.5" x 26.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.05 </container>
+							<unittitle> Tunbridge Wells, Kent, </unittitle>
+							<unitdate> 20 June 1739 </unitdate>
+							<physdesc> (20" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.19 </container>
+							<unittitle> Tonbridge, Kent, </unittitle>
+							<unitdate> 27 October 1743 </unitdate>
+							<physdesc> (22.5" x 26") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.12 </container>
+							<unittitle> Speldhurst, Kent, </unittitle>
+							<unitdate> 4 November 1747 </unitdate>
+							<physdesc> (10.5" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.09 </container>
+							<unittitle> Speldhurst, Kent, </unittitle>
+							<unitdate> 4-5 November 1747 </unitdate>
+							<physdesc> (18.5" x 21") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.01 </container>
+							<unittitle> Lyminge, Kent, </unittitle>
+							<unitdate> 27 November 1750 </unitdate>
+							<physdesc> (13.5" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.02 </container>
+							<unittitle> Plumstead, Kent, </unittitle>
+							<unitdate> 15 March 1753 </unitdate>
+							<physdesc> (13.5" x 21") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.46 </container>
+							<unittitle> Speldhurst, Kent, </unittitle>
+							<unitdate> 25 October 1768 </unitdate>
+							<physdesc> (27.5" x 35") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.21 </container>
+							<unittitle> Speldhurst, Kent, </unittitle>
+							<unitdate> 4 January 1774 </unitdate>
+							<physdesc> (15" x 19") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.04 </container>
+							<unittitle> Canterbury, Kent, </unittitle>
+							<unitdate> 23 January 1787 </unitdate>
+							<physdesc> (13" x 16.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.08 </container>
+							<unittitle> Chelsfield, Kent, </unittitle>
+							<unitdate> 24 May 1792 </unitdate>
+							<physdesc> (16" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.52 </container>
+							<unittitle> Chelsfield, Kent, </unittitle>
+							<unitdate> 25 May 1792 </unitdate>
+							<physdesc> (27" x 32.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Somerset </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder M.01 </container>
+							<unittitle> Blagdon Manor, Som, </unittitle>
+							<unitdate> 2 April 1612 </unitdate>
+							<physdesc> (23" x 27") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 7.03 </container>
+							<unittitle> Lullington Mill, Som, </unittitle>
+							<unitdate> 24 May 1611 </unitdate>
+							<physdesc> (17.5" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 7.04 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 25 March 1613 </unitdate>
+							<physdesc> (9.5" x 22.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.23 </container>
+							<unittitle> Templecombe, Som, </unittitle>
+							<unitdate> 22 June 1621 </unitdate>
+							<physdesc> (26" x 31") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 7.07 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 6 August 1630 </unitdate>
+							<physdesc> (16.5" x 21") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.01 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 3 March 1631 </unitdate>
+							<physdesc> (17.5" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.02 </container>
+							<unittitle> Templecombe, Som, </unittitle>
+							<unitdate> 17 November 1632 </unitdate>
+							<physdesc> (23" x 27.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.24 </container>
+							<unittitle> Templecombe, Som, </unittitle>
+							<unitdate> 20 October 1632 </unitdate>
+							<physdesc> (27" x 31.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.02 </container>
+							<unittitle> Barrow Minchin, Som, </unittitle>
+							<unitdate> 13 February 1634 </unitdate>
+							<physdesc> (20" x 24") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.04 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 24 April 1649 </unitdate>
+							<physdesc> (14" x 25.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.05 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 20 March 1651 or 1652 </unitdate>
+							<physdesc> (11" x 25" - 2 copies) </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.03 </container>
+							<unittitle> Templecombe, Som, </unittitle>
+							<unitdate> 13 February 1651 </unitdate>
+							<physdesc> (22.5" x 30") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.06 </container>
+							<unittitle> Henstridge, Som, </unittitle>
+							<unitdate> 12 February 1658 </unitdate>
+							<physdesc> (12.5" x 26.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.25 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 9 May 1661 </unitdate>
+							<physdesc> (25" x 32") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.05 </container>
+							<unittitle> Banwell, Som, </unittitle>
+							<unitdate> 18 March 1662 </unitdate>
+							<physdesc> (12.5" x 14") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.08 </container>
+							<unittitle> Sparlgrove &amp; Westcombe, Som, </unittitle>
+							<unitdate> 24 August 1665 </unitdate>
+							<physdesc> (9.5" x 20") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 8.07 </container>
+							<unittitle> Templecome, Som &amp; Westhope, Camb/Hunts., </unittitle>
+							<unitdate> 25 April 1664 </unitdate>
+							<physdesc> (17" x 22.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.05 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 6 May 1669 </unitdate>
+							<physdesc> (10.5" x 31") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.07 </container>
+							<unittitle> Baltonsborough, exch. of open field land in Northfield there., </unittitle>
+							<unitdate> 20 December 1671 </unitdate>
+							<physdesc> (10" x 16.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.01 </container>
+							<unittitle> South Barrow, Som, </unittitle>
+							<unitdate> 26 April 1671 </unitdate>
+							<physdesc> (13" x 25.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.26 </container>
+							<unittitle> Woolton, Buckleigh, Som &amp; Baltonsborough, Som, </unittitle>
+							<unitdate> 12 April 1672 </unitdate>
+							<physdesc> (26" x 29") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.04 </container>
+							<unittitle> Batcombe, Som, </unittitle>
+							<unitdate> 29 March 1673 </unitdate>
+							<physdesc> (14" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.03 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 19 March 1672 </unitdate>
+							<physdesc> (19.5" x 26.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.06 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 30 December 1675 </unitdate>
+							<physdesc> (15.5" x 29") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.02 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 10 May 1671 </unitdate>
+							<physdesc> (12.5" x 26") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.05 </container>
+							<unittitle> South Barrow, Som, </unittitle>
+							<unitdate> 26 July 1676 </unitdate>
+							<physdesc> (6.5" x 25.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.06 </container>
+							<unittitle> South Barrow, Som, </unittitle>
+							<unitdate> 26 July 1676 </unitdate>
+							<physdesc> (12" x 26") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.07 </container>
+							<unittitle> Templecombe Manor, Som, </unittitle>
+							<unitdate> 26 October 1676 </unitdate>
+							<physdesc> </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.07 </container>
+							<unittitle> Westcombe, Batcombe, Som, </unittitle>
+							<unitdate> 3 March 1681 </unitdate>
+							<physdesc> (5" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.27 </container>
+							<unittitle> Hungerford Farley, Som, </unittitle>
+							<unitdate> 23 September 1681 </unitdate>
+							<physdesc> (25" x 27.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.08 </container>
+							<unittitle> Templecombe, Som, </unittitle>
+							<unitdate> 23 August 1682 </unitdate>
+							<physdesc> (17" x 25") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.01 </container>
+							<unittitle> Barhayes Manor, Som; long schedule of property reserved, </unittitle>
+							<unitdate> 25 June 1684 </unitdate>
+							<physdesc> (11" x 23") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.28 </container>
+							<unittitle> Barhayes Manor, Som; long schedule of property reserved, </unittitle>
+							<unitdate> 25 June 1684 </unitdate>
+							<physdesc> (28" x 35") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.10 </container>
+							<unittitle> Westcombe, Batcombe, Som, </unittitle>
+							<unitdate> 21 April 1684 </unitdate>
+							<physdesc> (7.5" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 9.09 </container>
+							<unittitle> Westcombe, Batcombe, Som, </unittitle>
+							<unitdate> 22 April 1684 </unitdate>
+							<physdesc> (15" x 24.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.02 </container>
+							<unittitle> Westcombe, Som, </unittitle>
+							<unitdate> 22 May 1685 </unitdate>
+							<physdesc> (11.5" x 23") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.03 </container>
+							<unittitle> Abbots Leigh, Som, </unittitle>
+							<unitdate> 20 September 1686 </unitdate>
+							<physdesc> (17" x 20.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.06 </container>
+							<unittitle> House sometime burntdown now re-edified, known as House on the Heath, Bedminster, Som, </unittitle>
+							<unitdate> 3 September 1687 </unitdate>
+							<physdesc> (16" x 24") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.14 </container>
+							<unittitle> Bathampton, Som, </unittitle>
+							<unitdate> 20 October 1693 </unitdate>
+							<physdesc> (13" x 19") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.12 </container>
+							<unittitle> Barrow Gurney, Somerset, signed by Sarah and William Hasell of Bristol, </unittitle>
+							<unitdate> 9 September 1693 </unitdate>
+							<physdesc> (14" x 18") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.09 </container>
+							<unittitle> Butmore, Baltonsboroough, Som, </unittitle>
+							<unitdate> 23 November 1695 </unitdate>
+							<physdesc> (23" x 24") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.07 </container>
+							<unittitle> Abbot Leigh, Som; that Great House lately built, </unittitle>
+							<unitdate> 22 June1695 </unitdate>
+							<physdesc> (16.5" x 23.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.08 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 15 November 1699 </unitdate>
+							<physdesc> (9" x 21") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.09 </container>
+							<unittitle> Batcombe, Som, </unittitle>
+							<unitdate> 8 May 1700 </unitdate>
+							<physdesc> (17.5" x 20") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.11 </container>
+							<unittitle> Beckington, Som, </unittitle>
+							<unitdate> 13 February 1701 or 1702 </unitdate>
+							<physdesc> (14" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 10.10 </container>
+							<unittitle> Beckington, Som, </unittitle>
+							<unitdate> 15 April 1701 </unitdate>
+							<physdesc> (10" x 23") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.01 </container>
+							<unittitle> Beckington Som, </unittitle>
+							<unitdate> 16 February 1701 or 1702 </unitdate>
+							<physdesc> (20" x 24.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.33 </container>
+							<unittitle> Tonbridge, Som. Haldlow, Leigh, Tuedley, Penbury, Kent. includes a platt of the pieces concerned, </unittitle>
+							<unitdate> 28 November 1702 </unitdate>
+							<physdesc> (24.5" x 32.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.02 </container>
+							<unittitle> Batheaston, Som, </unittitle>
+							<unitdate> 20 October 1703 </unitdate>
+							<physdesc> (14" x 22") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.19 </container>
+							<unittitle> Banwell, Som, </unittitle>
+							<unitdate> 3 May 1706 </unitdate>
+							<physdesc> (12" x 14.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.18 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 25 November 1705 </unitdate>
+							<physdesc> (10" x 20") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.03 </container>
+							<unittitle> Abbotscombe, Som, </unittitle>
+							<unitdate> 9 March 1709 </unitdate>
+							<physdesc> (11.5" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.11 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 23 February 1709 </unitdate>
+							<physdesc> (22" x 29") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.04 </container>
+							<unittitle> Long Ashton, Som, </unittitle>
+							<unitdate> 3 December 1712 </unitdate>
+							<physdesc> (18.5" x 23") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.06 </container>
+							<unittitle> Ashbrittle, Som, </unittitle>
+							<unitdate> 5 April 1714 </unitdate>
+							<physdesc> (13.5" x 21.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.23 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 10 January 1716 </unitdate>
+							<physdesc> (11" x 17") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.24 </container>
+							<unittitle> Beckington, Som, </unittitle>
+							<unitdate> 11 June 1718 </unitdate>
+							<physdesc> (14" x 17.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.01 </container>
+							<unittitle> Baltonsborough, Som </unittitle>
+							<unitdate> 3 December 1718 </unitdate>
+							<physdesc> (18" x 27") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.37 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 31 December 1718 </unitdate>
+							<physdesc> (24.5" x 28") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.12 </container>
+							<unittitle> North St., Bedminster, Som, </unittitle>
+							<unitdate> 24 January 1718 or 1719 </unitdate>
+							<physdesc> (23" x 27") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.11 </container>
+							<unittitle> Abbotscombe, Somerset, </unittitle>
+							<unitdate> 24 September 1719 </unitdate>
+							<physdesc> (11.5" x 19") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.14 </container>
+							<unittitle> Beckington, Som, </unittitle>
+							<unitdate> 1 June 1721 </unitdate>
+							<physdesc> (20" x 30") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.05 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 17 February 1726 </unitdate>
+							<physdesc> (16" x 20") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.06 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 3 April 1728 </unitdate>
+							<physdesc> (16.5" x 23.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.41 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 2 June 1731 </unitdate>
+							<physdesc> (26" x 32") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.06 </container>
+							<unittitle> Templecombe, Som, </unittitle>
+							<unitdate> 1 August 1731 </unitdate>
+							<physdesc> (16.5" x 10") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.16 </container>
+							<unittitle> Templecombe, Som, </unittitle>
+							<unitdate> 1-2 August 1731 </unitdate>
+							<physdesc> (30" x 32") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.09 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 16 August 1731 </unitdate>
+							<physdesc> (17" x 24.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.01 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 1 February 1736 </unitdate>
+							<physdesc> (17.5" x 21") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.17 </container>
+							<unittitle> Bedminster, Som, </unittitle>
+							<unitdate> 11 February 1736 or 1737 </unitdate>
+							<physdesc> (24" x 30") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.03 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 29 June 1738 </unitdate>
+							<physdesc> (23" x 27") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.06 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 30 September 1741 </unitdate>
+							<physdesc> (13" x 20.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.10 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 12 October 1744 </unitdate>
+							<physdesc> (10" x 19.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.07 </container>
+							<unittitle> Baltonsborough, Som, </unittitle>
+							<unitdate> 13 October 1744 </unitdate>
+							<physdesc> (17" x 27.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.08 </container>
+							<unittitle> Ashweek, Som, </unittitle>
+							<unitdate> 26 December 1744 </unitdate>
+							<physdesc> (13.5" x 20") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 13.11 </container>
+							<unittitle> Bedminster, Som, </unittitle>
+							<unitdate> 23 September 1748 </unitdate>
+							<physdesc> (18" x 24.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.03 </container>
+							<unittitle> Long Ashton, Som, </unittitle>
+							<unitdate> 19 March 1755 </unitdate>
+							<physdesc> (21.5" x 27.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.04 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 24 February 1759 </unitdate>
+							<physdesc> (17.5" x 24") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.45 </container>
+							<unittitle> Ashweek, Som, </unittitle>
+							<unitdate> 16 September 1762 </unitdate>
+							<physdesc> (25" x 32") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.06 </container>
+							<unittitle> Ashweek, Som, </unittitle>
+							<unitdate> 25 July 1781 </unitdate>
+							<physdesc> (12.5" x 20.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.24 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 12 April 1782 </unitdate>
+							<physdesc> (12" x 19.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.48 </container>
+							<unittitle> Batcombe, Som; printed leases by Duke of Chandos, </unittitle>
+							<unitdate> 24 June 1785 </unitdate>
+							<physdesc> (26.5" x 30") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.49 </container>
+							<unittitle> Batcombe, Som; printed leases by Duke of Chandos, </unittitle>
+							<unitdate> 24 June 1785 </unitdate>
+							<physdesc> (27" x 30") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.50 </container>
+							<unittitle> Batcombe, Som; printed leases by Duke of Chandos, </unittitle>
+							<unitdate> 24 June 1785 </unitdate>
+							<physdesc> (27" x 30") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.05 </container>
+							<unittitle> Blagdon, Som, </unittitle>
+							<unitdate> 21 February 1792 </unitdate>
+							<physdesc> (14" x 17.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.21 </container>
+							<unittitle> South Barrow, Som; rectory, </unittitle>
+							<unitdate> 15 September 1801 </unitdate>
+							<physdesc> (20" x 29.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. WILLS </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Devon </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.12 </container>
+							<unittitle> Will of Margaret [Kech?], Bigbury, Devon. </unittitle>
+							<unitdate> 13 December 1702 </unitdate>
+							<physdesc> (7.5" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.14 </container>
+							<unittitle> Will of James Ayres, Honiton, Devon, </unittitle>
+							<unitdate> 6 January 1705 </unitdate>
+							<physdesc> (8.5" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.21 </container>
+							<unittitle> Will of Francis Stout, Holbeton, Devon, </unittitle>
+							<unitdate> 23 August 1711 </unitdate>
+							<physdesc> (9.5" x 14.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.09 </container>
+							<unittitle> Will of Robert Bennett, Halmston, Devon </unittitle>
+							<unitdate> 2 June 1741 </unitdate>
+							<physdesc> (10" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.13 </container>
+							<unittitle> Will of John Wood, Farway, Devon, </unittitle>
+							<unitdate> 7 May 1746 </unitdate>
+							<physdesc> (9.5" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.14 </container>
+							<unittitle> Will of John Penneck, Barley, Devon </unittitle>
+							<unitdate> 1 March 1750 </unitdate>
+							<physdesc> (9.5" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.17 </container>
+							<unittitle> Release signed by Gertrude Chope, Bideford regarding the will of Roger Wollocombe of Roborough, Devon, </unittitle>
+							<unitdate> 28 November 1755 </unitdate>
+							<physdesc> (15" x 19.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.07 </container>
+							<unittitle> Will of William Palmer, Devon, </unittitle>
+							<unitdate> 10 February 1783 </unitdate>
+							<physdesc> (12.5" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.13 </container>
+							<unittitle> Will codicil of John Walker Foote, Beer Ferris, Devon, </unittitle>
+							<unitdate> 9 October 1810 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.13 </container>
+							<unittitle> Will and codicil of Benjamin Mardon, Exeter, Devon, </unittitle>
+							<unitdate> 12 July 1813 </unitdate>
+							<physdesc> (13" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.37 </container>
+							<unittitle> Residuary Account — Stamps and Taxes Form for the estate of Mary Froude, Denbury Devon, </unittitle>
+							<unitdate> 28 October 1839 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Kent </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.02 </container>
+							<unittitle> Will and probate of Anne Pembroke, Boughton under the Blean, Kent, </unittitle>
+							<unitdate> 5 April 1726 </unitdate>
+							<physdesc> (11" x 14.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.04 </container>
+							<unittitle> Legacy receipts and Will of Hannah Gilpin, Sevenoaks, Kent, </unittitle>
+							<unitdate> 28 April 1727 </unitdate>
+							<physdesc> (12" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.05 </container>
+							<unittitle> Will of Elizabeth Hills, Dartford, Kent, </unittitle>
+							<unitdate> 26 December 1729 </unitdate>
+							<physdesc> (12.5" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.41 </container>
+							<unittitle> Discharges, re will Thomas Ballard, High Halden, Kent, </unittitle>
+							<unitdate> August 1791 </unitdate>
+							<physdesc> (5 pages) </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.11 </container>
+							<unittitle> Will of Elizabeth Whitaker, Pembury, Kent, </unittitle>
+							<unitdate> August 1806 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.13 </container>
+							<unittitle> Will of John Walker Foote, March [Devon or Kent?], </unittitle>
+							<unitdate> 9 October 1810 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.55 </container>
+							<unittitle> Will of John Smith, Herne Bay, Kent, </unittitle>
+							<unitdate> 7 September 1835 </unitdate>
+							<physdesc> (24.5" x 28.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Somerset </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.02 </container>
+							<unittitle> Will of William (Th?)(Fl)etcher of Butcombe, Som., </unittitle>
+							<unitdate> 26 April 1652 </unitdate>
+							<physdesc> (14" x 18.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.03 </container>
+							<unittitle> Will of Symon Brimstead, Hilbishop, Som., </unittitle>
+							<unitdate> 20 September 1654 </unitdate>
+							<physdesc> (11.5" x 14.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.13 </container>
+							<unittitle> Will of James Davison of Westcombe, Batcombe, Som, </unittitle>
+							<unitdate> 12 July 1693 </unitdate>
+							<physdesc> (12.5" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.17 </container>
+							<unittitle> Will of Henry Davison, Westcombe, Batcombe, Som, </unittitle>
+							<unitdate> 4 January 1705 </unitdate>
+							<physdesc> (12.5" x 18") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.10 </container>
+							<unittitle> Will of William Carter, Beckington, Som, </unittitle>
+							<unitdate> 20 or 23 July 1717 </unitdate>
+							<physdesc> (18" x 23.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 11.12 </container>
+							<unittitle> Will of John Stone, Ashbrittle, Som, </unittitle>
+							<unitdate> 7 October 1718 </unitdate>
+							<physdesc> (16.5" x 19") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.03 </container>
+							<unittitle> Will of Richard Welch [Somerset?], </unittitle>
+							<unitdate> 13 June 1721 </unitdate>
+							<physdesc> (12" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.03 </container>
+							<unittitle> Probate Grant of Richard Welch [Somerset?], </unittitle>
+							<unitdate> 13 June 1721 </unitdate>
+							<physdesc> (12" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.18 </container>
+							<unittitle> Will &amp; copy, Thomas Davison of Westcombe, Som, </unittitle>
+							<unitdate> 6 March 1722 </unitdate>
+							<physdesc> (7.5" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.02 </container>
+							<unittitle> Will &amp; copy, Thomas Davison of Westcombe, Som, </unittitle>
+							<unitdate> 6 March 1722 </unitdate>
+							<physdesc> (19.5" x 27") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.07 </container>
+							<unittitle> Will of James Tree, Som, </unittitle>
+							<unitdate> 8 December 1729 </unitdate>
+							<physdesc> (12.5" x 22.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 12.08 </container>
+							<unittitle> Will of Samuel Palmer, Som, </unittitle>
+							<unitdate> 6 October 1730 </unitdate>
+							<physdesc> (18" x 23.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.18 </container>
+							<unittitle> Copy of 1757 will of Philip Tabor of Burrow Lane, Somerset, used in probate of his wife, </unittitle>
+							<unitdate> 31 May 1759 </unitdate>
+							<physdesc> (6.5" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.23 </container>
+							<unittitle> Will of Elizabeth Dabine, Pedweek, Ashcott, Som, </unittitle>
+							<unitdate> 30 June 1780 </unitdate>
+							<physdesc> (10" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.01 </container>
+							<unittitle> Will of Sarah Batterbury, Bath, Som, </unittitle>
+							<unitdate> 18 December 1785 </unitdate>
+							<physdesc> (10" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.15 </container>
+							<unittitle> Will of Edward Chapman, Som, </unittitle>
+							<unitdate> 30 May 1833 </unitdate>
+							<physdesc> (12" x 20.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.17 </container>
+							<unittitle> Will of Thomas Bessem, Beominster, Som, </unittitle>
+							<unitdate> 18 August 1836 </unitdate>
+							<physdesc> (14.5" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 7.01 </container>
+							<unittitle> Will of John Bird, Ashbrittle, Som. — copy of 1718/1719 or 1818/1819 original, </unittitle>
+							<unitdate> n.d. </unitdate>
+							<physdesc> (13.5" x 16.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Unidentified and Miscellaneous </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.40 </container>
+							<unittitle> Will of William Babb, Gurlyn, Cornwall, </unittitle>
+							<unitdate> 19 July 1791 </unitdate>
+							<physdesc> (7.5" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.09 </container>
+							<unittitle> Will of Jonas Blandford, Stapleton, Glouster, </unittitle>
+							<unitdate> 2 November 1801 or 1804 </unitdate>
+							<physdesc> (16.5" x 20.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.12 </container>
+							<unittitle> Will of Samuel Kentish (Lt. Royal Navy), </unittitle>
+							<unitdate> 11 February 1827 </unitdate>
+							<physdesc> (16.5" x 20") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.18 </container>
+							<unittitle> Will of Francis Lee, London, </unittitle>
+							<unitdate> 14 December 1838 </unitdate>
+							<physdesc> (15.5" x 17.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. APPRENTICESHIP INDENTURES </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Devon </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.06 </container>
+							<unittitle> Apprenticeship Indenture, Husbandry, Devon, </unittitle>
+							<unitdate> 22 April 1796 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.23 </container>
+							<unittitle> Apprenticeship Indenture of Henry May as a shoemaker, Devon, </unittitle>
+							<unitdate> 15 March 1859 </unitdate>
+							<physdesc> (10" x 14") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Kent </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.11 </container>
+							<unittitle> Apprenticeship Indenture as apothecary to Thomas Crutteden of Cranbrooke, Kent, </unittitle>
+							<unitdate> 1 March 1692 </unitdate>
+							<physdesc> (12" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.08 </container>
+							<unittitle> Apprenticeship Indenture, Kent, </unittitle>
+							<unitdate> 25 May 1797 </unitdate>
+							<physdesc> (13.5" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.16 </container>
+							<unittitle> Apprenticeship Indenture of Peter Brown as a barber, Kent, </unittitle>
+							<unitdate> 6 December 1828 </unitdate>
+							<physdesc> (10" x 14") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.39 </container>
+							<unittitle> Apprenticeship Indenture, Butchery, Kent, </unittitle>
+							<unitdate> 13 March 1845 </unitdate>
+							<physdesc> (9" x 10") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.24 </container>
+							<unittitle> Apprenticeship Indenture of Thomas Stevens as a sailmaker, Bideford, Kent, </unittitle>
+							<unitdate> 18 September 1865 </unitdate>
+							<physdesc> (9.5" x 14") </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. MARRIAGE SETTLEMENTS </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Devon</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.22 </container>
+							<unittitle> Letter regarding marriage settlement between Anne and Ralph Barnes, archdeacon of Totnes, Devon, contested after the death of Ralph Barnes </unittitle>
+							<unitdate> 6 September 1820 </unitdate>
+							<physdesc> (8.5" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.35 </container>
+							<unittitle> Proposal by Earl of Morley regarding the marriage settlement of Mr &amp; Mrs Stapleton – refers to Hardwick estate &amp; Cholwich, Cornwood, Devon, </unittitle>
+							<unitdate> 1839 </unitdate>
+							<physdesc> (8.5" x 13") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Kent </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.12 </container>
+							<unittitle> Inventory attached to marriage settlement betweeen Ann Brookhouse and Thomas Dolby, Canterbury, Kent, </unittitle>
+							<unitdate> 14 February 1809 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Somerset</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 7.06 </container>
+							<unittitle> Settlement regarding the marriage of John [Knotting?] the Younger and Marie Saffyn, Bicknoller and Stogumber, Somerset, </unittitle>
+							<unitdate> 10 September 1610 </unitdate>
+							<physdesc> (16" x 25.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V. CHURCH RECORDS </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Devon</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.37 </container>
+							<unittitle> Certificate of Declaration of Adherence to the Act of Uniformity and the Act Abrogating the Oaths of Supremacy by John Ross when he became the Bishop of Exeter, Canterbury, Devon, </unittitle>
+							<unitdate> 23 January 1778 </unitdate>
+							<physdesc> (7.5" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folders 3.01 - 3.20 </container>
+							<unittitle> Sacrament Certificate Totnes, Devon: Parish Register, </unittitle>
+							<unitdate> 1805 - 1827 </unitdate>
+							<physdesc> (20 certificates, 7" x 9.5") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Kent </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.43 </container>
+							<unittitle> Baptismal record of Thomas, late son of John Sheafe, Bethersden, Kent, </unittitle>
+							<unitdate> 24 May 1686 </unitdate>
+							<physdesc> (3.5" x 6") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.44 </container>
+							<unittitle> Extract from the Register of St. Pauls, Deptford Kent recording the marriage of Benjamin Cole of All Hallows, Lombard Street, [London], and Frances Wager, spinster, of St Pauls, Deptford on 23 Dec 1746 </unittitle>
+							<unitdate> </unitdate>
+							<physdesc> (5" x 8") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.02 </container>
+							<unittitle> Baptism Certificate of William and Thomas Oben, East Malling, Kent, </unittitle>
+							<unitdate> 27 August 1792 </unitdate>
+							<physdesc> (6" x 12") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Somerset</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.08 </container>
+							<unittitle> Permission granted by John, Bishop of Bath and Wells, to remove (at the request of Mary Davison) certain pews of the church at Batcombe, Somerset, </unittitle>
+							<unitdate> 20 October 1741 </unitdate>
+							<physdesc> (12" x 19") </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> SERIES VI. CUSTOMS BONDS AND CERTIFICATES </unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.05 </container>
+						<unittitle> Customs Bond from Reign of Charles II, </unittitle>
+						<unitdate> 1680 </unitdate>
+						<physdesc> (4.5" x 8") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.08 </container>
+						<unittitle> Customs Bond and Certificate, </unittitle>
+						<unitdate> 1694 </unitdate>
+						<physdesc> (4.5" x 8") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.09 </container>
+						<unittitle> Customs Bond and Certificate, </unittitle>
+						<unitdate> 7 March 1695 </unitdate>
+						<physdesc> (4.5" x 8") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.10 </container>
+						<unittitle> Customs Certificate w/ Gov. Stamp, </unittitle>
+						<unitdate> 4 April 1695 </unitdate>
+						<physdesc> (4.5" x 8") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.13 </container>
+						<unittitle> Customs Certificate w/ Gov. Stamp, </unittitle>
+						<unitdate> 26 June 1704 </unitdate>
+						<physdesc> (5" x 6.5") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.24 </container>
+						<unittitle> Landing Certificate, Dartmouth, </unittitle>
+						<unitdate> 4 April 1734 </unitdate>
+						<physdesc> (7" x 12") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.28 </container>
+						<unittitle> Landing Certificate, Plymouth, </unittitle>
+						<unitdate> 4 May 1743 </unitdate>
+						<physdesc> (5" x 9.5") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.29 </container>
+						<unittitle> Customs Certificate w/ Gov. Stamp, </unittitle>
+						<unitdate> 3 May 1745 </unitdate>
+						<physdesc> (5" x 7") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 1.38 </container>
+						<unittitle> Customs Certificate w/ Gov. Stamp, </unittitle>
+						<unitdate> 16 July 1782 </unitdate>
+						<physdesc> (6" x 8") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 6.06 </container>
+						<unittitle> License and customs agreement signed by Thomas Wills and Robert Black regarding the export of wool to London from Barnstaple, Devon, </unittitle>
+						<unitdate> 6 September 1792 </unitdate>
+						<physdesc> (10" x 16") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 2.03 </container>
+						<unittitle> Landing Certificate, Port Barnstaple, </unittitle>
+						<unitdate> 21 September 1792 </unitdate>
+						<physdesc> (8.5" x 13") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 2.04 </container>
+						<unittitle> Landing Certificate, Bristol, </unittitle>
+						<unitdate> 19 October 1792 </unitdate>
+						<physdesc> (6.5" x 8") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 2.14 </container>
+						<unittitle> Customs Certificate, </unittitle>
+						<unitdate> 10 April 1813 </unitdate>
+						<physdesc> (8" x 9.5") </physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Folder 2.15 </container>
+						<unittitle> Landing Certificate, Port Whitehaven, </unittitle>
+						<unitdate> 3 August 1816 </unitdate>
+						<physdesc> (8" x 8") </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle> SERIES VII. MISCELLANEOUS </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Devon </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.02 </container>
+							<unittitle> Request for Ann Bussel to appear in court as a witness in the trial of Edward [Hurfe?] for "felonious stealing of half a crowne from her," Cadleigh, Devon, </unittitle>
+							<unitdate> ca. 1660-1685 </unitdate>
+							<physdesc> (8" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.15 </container>
+							<unittitle> Agreement to sell, Philip Hooper from Anthony Eveleigh, Farrington, Devon [now Sowton], </unittitle>
+							<unitdate> 1 April 1710 </unitdate>
+							<physdesc> (7.5" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.23 </container>
+							<unittitle> Agreement between John Smith of Shobrooke, Devon, and his creditors, </unittitle>
+							<unitdate> 9 April 1730 </unitdate>
+							<physdesc> (8.5" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.07 </container>
+							<unittitle> Accounts received for Arthur Farwell in Ashburton and Totnes, Devon, </unittitle>
+							<unitdate> 1733-1736 </unitdate>
+							<physdesc> (13" x 16.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.25 </container>
+							<unittitle> 1734 copy 12 January 1733 document regarding the bankrupcy and creditors of John Anstey of Tiverton, Devon, </unittitle>
+							<unitdate> 15 October 1734 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.11 </container>
+							<unittitle> Fine – Milton Abbot &amp; Ermington, Stephen Maddaford, pl. ; John&amp; Mary Prout, John &amp; Sarah Hawkins – 2 Mess, 3 gdns, 20 ac. Land, 4 ac. Mead., 2 ac. Pasture, Devon, </unittitle>
+							<unitdate> 1745 </unitdate>
+							<physdesc> (9" x 18") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.30 </container>
+							<unittitle> Receipt for annuity payable from Fishley Devon, </unittitle>
+							<unitdate> 23 April 1751 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.31 </container>
+							<unittitle> File of lawyers a/cs – Mr Henry Beavis to P.M. Docton. Esq., Barnstaple, Devon, </unittitle>
+							<unitdate> 1754, 1758 </unitdate>
+							<physdesc> (5 documents) </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.35 </container>
+							<unittitle> Document regarding debt owed to William Parry and William Makean by Joseph Guest, Cullompton, Devon, </unittitle>
+							<unitdate> 1773 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.20 </container>
+							<unittitle> Document from Chancery Court case, </unittitle>
+							<unitdate> March1773 </unitdate>
+							<physdesc> (10.5" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.36 </container>
+							<unittitle> Petition by John Merivale to receive the remains of his parents estate from Jonathan Green, Tavistock, Devon, </unittitle>
+							<unitdate> 21 May 1774 </unitdate>
+							<physdesc> (12.5" x 7.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.22 </container>
+							<unittitle> Schedule of deeds belonging to Miss Harris of Pickwell, Devon, re Cornish lands, incl, tin &amp; copper setts. 1750 on, </unittitle>
+							<unitdate> 28 July 1778 </unitdate>
+							<physdesc> (15" x 19") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.02 </container>
+							<unittitle> Document regarding a complaint by Peter Goodright against Stephen Badtitle regarding farming rights, Devon, </unittitle>
+							<unitdate> June 1786 </unitdate>
+							<physdesc> (10" x 10.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.03 </container>
+							<unittitle> Bill of Complaint by Chancellor Baron Edward Thurlow, Ashfield, Suffolk, regarding the estate of Addis Archer and his heirs, Plymouth, Devon, </unittitle>
+							<unitdate> 26 July 1786 </unitdate>
+							<physdesc> (10.5" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.05 </container>
+							<unittitle> Copy, fine re manor of Torre, Devon, Baron Cliffor of Chudleigh and Charles Butler, Esq., plaintiffs, </unittitle>
+							<unitdate> 1795 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.07 </container>
+							<unittitle> Calculation of value of manors of Maristow, Buckland, Monachorum, Bickleigh, Shaugh Prior, Walkhampton, Devon from printed particulars of rents, </unittitle>
+							<unitdate> ca. 1800 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.46 </container>
+							<unittitle> Letter from the new Bishop of Exeter to Mr. [Francis] Freeling about his franking priviledge, </unittitle>
+							<unitdate> 26 June [180?] </unitdate>
+							<physdesc> (7.5" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.09 </container>
+							<unittitle> Terms of a survey on behalf of Richard Berryman for letting land to farm Trillacot, North Petherwin, Devon, </unittitle>
+							<unitdate> 27 January 1802 </unitdate>
+							<physdesc> (7.5" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.10 </container>
+							<unittitle> Court Citation to Mrs. Frances (Fanny) Pellatt, regarding the estate of her late husband, Henry Pellatt, Canterbury, </unittitle>
+							<unitdate> 20 September 1803 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.10 </container>
+							<unittitle> Check for wages for John Teague who served in the Navy aboard the Prince and the Trent, and died 1798. Check issued to his sister Letitia Teague, Plymouth, Devon, </unittitle>
+							<unitdate> 14 May 1803 </unitdate>
+							<physdesc> (10.5" x 17.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.12 </container>
+							<unittitle> Shares in the the Little Duke Copper Mine in Tavistock, Devon, </unittitle>
+							<unitdate> July 1806 </unitdate>
+							<physdesc> (2 certificates, 8.5" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.16 </container>
+							<unittitle> Affidavits regarding the July 1816 fire in Buckfastleigh, Devon, </unittitle>
+							<unitdate> May 1817 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.17 </container>
+							<unittitle> Affidavit of Reverend Matthew Lowndes regarding the July 1816 fire in Buckfastleigh, Devon, </unittitle>
+							<unitdate> 16 June 1817 </unitdate>
+							<physdesc> (8.5" x 13.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.11 </container>
+							<unittitle> Return of people liable for militia service, including 63 names, ages and occupations, Bardninch, Devon, </unittitle>
+							<unitdate> 1817 </unitdate>
+							<physdesc> (15" x 19.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.18 </container>
+							<unittitle> Pedigree of the Turner Family of Cadbury, Devon, </unittitle>
+							<unitdate> 24 February 1819 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.19 </container>
+							<unittitle> Chancery Court document regarding a survey of an estate in Cadbury, Devon, possibly owned by John Pitt, </unittitle>
+							<unitdate> June 1819 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.28 </container>
+							<unittitle> Letter to William Drew, Esq., London, from someone whose mother has just died in Exeter, </unittitle>
+							<unitdate> 16 February 1822 </unitdate>
+							<physdesc> (7.5" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.27 </container>
+							<unittitle> Document regarding tolls and repairs for the roads from Tavistock to Morwellham, Devon, </unittitle>
+							<unitdate> 14 December 1822 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.29 </container>
+							<unittitle> List of deeds held by Robert Talley, [Devon?] </unittitle>
+							<unitdate> 8 February 1823 </unitdate>
+							<physdesc> (7.5" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.30 </container>
+							<unittitle> List of materials, dated 1651-1776, received by the executors of the estate of Ann Kirkham, Washbourne, Harberton, Devon, </unittitle>
+							<unitdate> 2 December 1825 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.32 </container>
+							<unittitle> Rental records of the Manor of Meldon, Devon, for one year, </unittitle>
+							<unitdate> 1833 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.21 </container>
+							<unittitle> Printed appeal from the Court of Chancery re will of George Acland Barbor, Fremington, Devon, </unittitle>
+							<unitdate> 1842 </unitdate>
+							<physdesc> (11" x 17.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.38 </container>
+							<unittitle> List of pieces performed at the Theatre Royal Devonport between September 1844 and February 1845, addressed to the Dramatic Authors Society, </unittitle>
+							<unitdate> 2 July 1845 </unitdate>
+							<physdesc> (8.5" x 10") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.22 </container>
+							<unittitle> Stock certificates from the Cawson Hill Copper, Lead and Tin Mining Company, Devon, owned by Matthew Johnston, </unittitle>
+							<unitdate> 12 November 1852 </unitdate>
+							<physdesc> (4 certificates, 9" x 9.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.48 </container>
+							<unittitle> Letter by James Thomson, architect and surveyor, describing the West Hoe Estate at Plymouth as a potential building site, </unittitle>
+							<unitdate> ca. 1850s </unitdate>
+							<physdesc> (8" x 10") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.41 </container>
+							<unittitle> Letter from Reverend Owen Lucas O'Neil, Cornworthy Vicarage, Totnes, Devon, </unittitle>
+							<unitdate> 4 July 1864 </unitdate>
+							<physdesc> (5.5" x 8") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.42 </container>
+							<unittitle> Letter from "Dippertown Office" regarding land at Lewtrenchard belonging to Parson Gould, </unittitle>
+							<unitdate> 6 August 1865 </unitdate>
+							<physdesc> (7" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.47 </container>
+							<unittitle> Receipt, Colyton, Devon, </unittitle>
+							<unitdate> 23 July [18??] </unitdate>
+							<physdesc> (4" x 6") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Kent </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.01 </container>
+							<unittitle> Receipt, payment for house in Deptford, Kent, </unittitle>
+							<unitdate> 20 November 1651 </unitdate>
+							<physdesc> (8" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.04 </container>
+							<unittitle> Agreement between [Clement Tipp?] and John Kingsford of Canterbury, </unittitle>
+							<unitdate> 28 January 1675 </unitdate>
+							<physdesc> (8" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.06 </container>
+							<unittitle> "Mortgage agreement of William Barnes, Boughton, Kent" </unittitle>
+							<unitdate> 9 October 1688 </unitdate>
+							<physdesc> (7" x 10.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.07 </container>
+							<unittitle> Agreement between John Lemott Honywood of Marks Hall, Essex and John [Hunt?] of Kent, </unittitle>
+							<unitdate> 22 May 1689 </unitdate>
+							<physdesc> (7" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.45 </container>
+							<unittitle> Letter to John Mascall, New Romney, from [John Brewer?], </unittitle>
+							<unitdate> ca. 1680s </unitdate>
+							<physdesc> (6" x 7.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.11 </container>
+							<unittitle> Agreement about land or a mortgage by Charles [Lunkin?], Kent, </unittitle>
+							<unitdate> 26 June 1701 </unitdate>
+							<physdesc> (8" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.16 </container>
+							<unittitle> William Courthope of Paternoster Row, London, about a mortgage due to him from tenants in Cranbrook, Kent, </unittitle>
+							<unitdate> 8 October 1718 </unitdate>
+							<physdesc> (8" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.17 </container>
+							<unittitle> Articles of Agreement between John [Sharpsigh?], Stephen [Sharpsigh?], and George Courthope about land in Cranbrook, Kent, </unittitle>
+							<unitdate> 12 February 1721 </unitdate>
+							<physdesc> (7.5" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.20 </container>
+							<unittitle> Request for reparations regarding the lease of the Kingshead Inn, Dartford, Kent, formerly owned by Anno Rooves, </unittitle>
+							<unitdate> 3 November 1726 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.21 </container>
+							<unittitle> Articles of agreement between John Garnett Stevens of Chislehurst, Kent, and Benjamin Osgood "citizen and Carpenter of London" regarding a lease </unittitle>
+							<unitdate> 24 April 1726 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 5.16 </container>
+							<unittitle> Draft of a verdict against Thomas Bridges of Maidstone, Kent, for sinking his boat in the Medway River, blocking river traffic, </unittitle>
+							<unitdate> ca. 1753 </unitdate>
+							<physdesc> (10" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.07 </container>
+							<unittitle> Decl. by Thomas Babb, appointing wife Charlotte to act – relates to Barnstaple group, </unittitle>
+							<unitdate> 14 September 1793 </unitdate>
+							<physdesc> (10" x 16") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.22 </container>
+							<unittitle> Documentation that Elizabeth (Boorsman) Middleton received five pounds from the estate of Thomas Ballard of High Halden, Kent, </unittitle>
+							<unitdate> 15 January 1794 </unitdate>
+							<physdesc> (8" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.08 </container>
+							<unittitle> Copy of 1746 fine for William Farrant, etc. sent to William Walter, Solicitor, Kent, </unittitle>
+							<unitdate> 10 September 1801 </unitdate>
+							<physdesc> (8" x 10") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.11 </container>
+							<unittitle> Final agreement between the families of Samuel Reader and William price regarding property in Cranbrook, Hawkhurst, Frittendon, Tenterden, and Brookland, Kent, </unittitle>
+							<unitdate> Easter 1804 </unitdate>
+							<physdesc> (13" x 16.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.20 </container>
+							<unittitle> Agreement between William Scott and John Bently for Bently to rent the "Castle Quay," from Scott, Barnstaple Quay, </unittitle>
+							<unitdate> 24 June 1820 </unitdate>
+							<physdesc> (8" x 9.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.21 </container>
+							<unittitle> Request to the County of Kent Sheriff to appear before the Commission of Sewers, Kent, </unittitle>
+							<unitdate> 1 June 1820 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.24 </container>
+							<unittitle> Agreement between Stephen Bates and Henry Woodgate regarding the lease of a farm at either Seven Oaks or Cranbrook, Kent, </unittitle>
+							<unitdate> 8 October 1821 </unitdate>
+							<physdesc> (7.5" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.15 </container>
+							<unittitle> Agreement to settle the debt between George and John Pearce of Hoo, Kent, and Henry Dance of Lincoln’s Inn Fields, Middlesex in order to release Dance from the King's Bench Prison under the Insolvent Debtors Act, </unittitle>
+							<unitdate> 20 May 1822 </unitdate>
+							<physdesc> (10" x 15.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.14 </container>
+							<unittitle> List of Court of Assize jurors, Kent, </unittitle>
+							<unitdate> 1822 </unitdate>
+							<physdesc> (6.5" x 16.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.26 </container>
+							<unittitle> List of Court of Assize jurors, Kent, </unittitle>
+							<unitdate> 1822 </unitdate>
+							<physdesc> (8.5" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.23 </container>
+							<unittitle> List of debtors discharged or removed from the jail at Maidstone, Kent, during the tenure of Sir John Shelly Sidney (Baronet) as Sherriff, </unittitle>
+							<unitdate> ca. 1822 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.14 </container>
+							<unittitle> Bill of sale for the Wye, a schooner purchased by William Scott and other shareholders from John Scott the Elder, certified by the Custom House, Bristol, </unittitle>
+							<unitdate> 21 October 1829 </unitdate>
+							<physdesc> (16.5" x 22") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.31 </container>
+							<unittitle> Letter from H. Drake regarding the bankruptcy of William Scott and his lease of a quay in Barnstaple to John Bentley, </unittitle>
+							<unitdate> 25 July 1830 </unitdate>
+							<physdesc> (8" x 10") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder M.22 </container>
+							<unittitle> Assignment of shares in ship, Wye of Bristol, after bankruptcy of William Scott, </unittitle>
+							<unitdate> 1830 </unitdate>
+							<physdesc> (23" x 30") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.33 </container>
+							<unittitle> Genealogical excerpt from the Fitzgerald Family Bible relating to the settling of the estate of George Fitzgerald, surgeon of Deal, Kent, </unittitle>
+							<unitdate> 30 November 1837 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.34 </container>
+							<unittitle> Order of Sale of the Poor House in Sevenoaks, Kent in accordance with the Poor Law Amendment Act 1834, </unittitle>
+							<unitdate> 16 Nov 1838 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.19 </container>
+							<unittitle> Stock certificate from the Gwendraeth Anthracite and Iron Company, owned by Sarah Mackie, Westernham, Kent, </unittitle>
+							<unitdate> 15 Jan 1839 </unitdate>
+							<physdesc> (10" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.40 </container>
+							<unittitle> Memorandum of agreement regarding the Rochester Bridge Act of 1846, made betweeen John Gibbs of Strood and Michael Smith Comport of High Halstow, Kent </unittitle>
+							<unitdate> 7 September 1848 </unitdate>
+							<physdesc> (8" x 13") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Somerset </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.01 </container>
+							<unittitle> I.P.M., death of John Selwode, Som., </unittitle>
+							<unitdate> 21 September 1601 </unitdate>
+							<physdesc> (10.5" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.03 </container>
+							<unittitle> Obligation / Indenture of Thomas Brooks, Bedminster, Bristol [formerly Somerset], </unittitle>
+							<unitdate> 4 June 1665 </unitdate>
+							<physdesc> (7.5" x 14") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.06 </container>
+							<unittitle> Obligation / Indenture of Thomas Brooks, Bedminster, Bristol [formerly Somerset], </unittitle>
+							<unitdate> 1668 </unitdate>
+							<physdesc> (10" x 12") </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Unidentified and Miscellaneous </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container> Box 15</container>
+							<unittitle> "Compotus Manerii de Elloughe etc." — Book of accounts for the Manors of Sotterly, Ugghal, and Willingham, all in Suffolk, </unittitle>
+							<unitdate> 1552-1599</unitdate>
+							<physdesc> (1 volume) </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 7.02 </container>
+							<unittitle> Court document relating to Thomas Perrivall, </unittitle>
+							<unitdate> 1654? </unitdate>
+							<physdesc> (11.5" x 22") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.15 </container>
+							<unittitle> Agreement, Charles Elstop to William East – lands to be sold, location unstated, </unittitle>
+							<unitdate> 1694 </unitdate>
+							<physdesc> (13" x 16.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.19 </container>
+							<unittitle> Witness to exec. Of deeds of L &amp; R by Richard Hart of Plymouth, butcher to James Keating, sugar-baker of P., of 2 tens in Trevile St., all. Butchers Lane, Plymouth, </unittitle>
+							<unitdate> 17 August 1722 </unitdate>
+							<physdesc> (7" x 12") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.27 </container>
+							<unittitle> Document regarding the debts of the late husband of Mary Cullymore, [Plymouth?], </unittitle>
+							<unitdate> 24 September 1735 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.33 </container>
+							<unittitle> Receipt for a cow, a heifer, and a calf sold by Robert Grean, </unittitle>
+							<unitdate> 5 September 1772 </unitdate>
+							<physdesc> (4" x 5.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.34 </container>
+							<unittitle> Sale of a building from Robert Grean to John Mitchell, Higate Hill, East Grinstead, </unittitle>
+							<unitdate> 29 September 1772 </unitdate>
+							<physdesc> (5.5" x 6") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 1.39 </container>
+							<unittitle> Correspondence to and from Reverend William Wilson concerning the marriage of Thomas Todd and Elizabeth Wooler and her inheritance from the estate of her uncle, John Wooler, Wolsingham, Durham, </unittitle>
+							<unitdate> 1791-1797 </unitdate>
+							<physdesc> (9 letters) </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.09 </container>
+							<unittitle> Inventory of Captain Pannell’s Goods in his house at Blackheath, </unittitle>
+							<unitdate> ca. 1800 </unitdate>
+							<physdesc> (10" x 15") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.10 </container>
+							<unittitle> Westminster, Middx, Insurance policy, </unittitle>
+							<unitdate> 1815 </unitdate>
+							<physdesc> (19" x 23.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.25 </container>
+							<unittitle> Design for Little Gaddesden gate, Ashridge Park, Hertfordshire, </unittitle>
+							<unitdate> 21 November 1821 </unitdate>
+							<physdesc> (8" x 12.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 14.13 </container>
+							<unittitle> Copy Woolmers Exeter &amp; Plymouth Gazette, </unittitle>
+							<unitdate> 18 July 1829 </unitdate>
+							<physdesc> (16" x 21") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.36 </container>
+							<unittitle> Agreement between Ann Bickell and the adventurers of Wheal Friendship mine for the sale of a house in Blackdown, Mary Tavy, Devon </unittitle>
+							<unitdate> 23 January 1839 </unitdate>
+							<physdesc> (8" x 10") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 6.20 </container>
+							<unittitle> Printed appeal from the Court of Chancery re will of Sir John Trevelyan - re Manor of Seaton, </unittitle>
+							<unitdate> 1841 </unitdate>
+							<physdesc> (11.5" x 17.5") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 2.01 </container>
+							<unittitle> 2 pages (83-84) from E. H. W. Dunkin's "Contributions Towards the Ecclesiastical History of the Deanery of South Malling in the County of Sussex," Sussex Archaeological Collections Relating to the History and Antiquities of the County, Vol 26, </unittitle>
+							<unitdate> 1875 </unitdate>
+							<physdesc> (6" x 9") </physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> Folder 4.25 </container>
+							<unittitle> 2 pages (465-466) from an unidentified book including information about the Ashendon Hundred </unittitle>
+							<unitdate> </unitdate>
+							<physdesc> (9" x 12") </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

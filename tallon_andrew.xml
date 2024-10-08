@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_tallon_andrew </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Andrew Tallon Papers, approximately 1990-2016</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>May 2022</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl <date>May 2022</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Tallon, Andrew, 1969-2018</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Andrew Tallon Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1990-2016</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">12 boxes (4 cubic feet)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Syllabi, course outlines, notes, journals, collected offprints, and photocopies of academic manuscripts. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Andrew J. Tallon (1969-2018) was educated at Princeton and Columbia Universities and joined the faculty at Vassar College in the Department of Art in 2007. Tallon taught medieval art, architecture, and pre-modern acoustics. He received a Ph.D. from Columbia University, M.A. from the University of Paris-Sorbonne, and B.A. with highest honors from Princeton University.</p>
+			<p>Tallon was an innovative scholar of French Gothic art and architecture, who introduced new digital techniques to the analysis and re-creation of the spatial archaeology of medieval buildings. His published works include <emph render="italic">The Structure of Gothic</emph>, and <emph render="italic">Notre-Dame de Paris</emph>, coauthored in French with Dany Sandron and published in 2013. Tallon completed a study of the Cathedral of Bourges and a five-year study which culminated in the web-based project <emph render="italic">Mapping Gothic France</emph>. Tallon was a former director of the International Center of Medieval Art and of AVISTA, and was co-founder and a director of the US-based charitable association the Friends of Notre Dame.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection contains syllabi, course outlines, notes, journals, drafts and offprints of scholary essays, and photocopies of academic articles documenting the career of Anddrew J. Tallon. The materials also include subject files from Tallon’s years as a student in the United States and France, and as a professor at Vassar College; and sound recordings that Tallon used during lectures.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Digital files created by Andrew Tallon and/or his student assistant(s) in the course of his work on French Gothic art and architecture. A listing of these files is not available at this time.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Basilica di San Pietro in Vaticano</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Cathédrale Saint-Etienne de Bourges</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Columbia University</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Notre-Dame de Paris (Cathedral)</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Princeton University</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Princeton University. Chapel</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Sorbonne Université</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Architecture and archaeology</subject>
+				<subject source="lcsh" encodinganalog="650">Architecture, Gothic--History</subject>
+				<subject source="lcsh" encodinganalog="650">Art, Medieval--History</subject>
+				<subject source="lcsh" encodinganalog="650">Cathedrals--Design and construction--History</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, May 2022.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Janine St. Germain April-May 2022. Guide created by Janine St. Germain May 2022 .</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Marie Tallon 26 July 2021 (M2021-015). </p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Andrew Tallon Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref>Coursework</unittitle>
+					<physdesc>(Boxes 1-4, 10, 11)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series includes research and study material from Tallon’s work as an undergraduate and graduate student at Princeton and Columbia Universities. Of particular note are notebooks containing cathedral interior sketches, syllabi with notations, and email printouts. Also included are photocopies of academic papers, articles, abstracts and offprints, many of which contain Tallon’s highlights and marginalia.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref>Teaching files</unittitle>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series gathers course outlines, syllabi, and handwritten teaching notes.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref>Subject files</unittitle>
+					<physdesc>(Boxes 5-8, 11)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series collects research and reference materials, some with Tallon's highlights and marginalia, on subjects including acoustics, iron architecture, and liturgical drama. Also included are notebooks with handwritten calculations and diagrams of cathedral coordinates.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref>Writings</unittitle>
+					<physdesc>(Boxes 8-9, 11)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series includes academic manuscripts resulting from research completed at Princeton, Sorbonne and Columbia Universities. Some manuscripts include edits, inscriptions, supporting research documentation, and notes.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref>Audiovisual Materials</unittitle>
+					<physdesc>(Box 12)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Audiovisual material includes (2) CDs containing digital image files from the exhibition opening of <emph render="italic">Mapping Gothic France</emph> at the Frances Lehman Loeb Art Center (2012) and 7 CD audio recordings of medieval choral music that Tallon used in his lectures.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. COURSEWORK</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.1-10.3 </container>
+						<unittitle>18th Century Architectural Acoustics, Professor Middleton, Columbia University,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.4-10.5</container>
+						<unittitle>18th Century and 19th Century French Architecture,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1</container>
+						<unittitle>Architectural Acoustics, Harris, Cyril, Columbia University,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2</container>
+						<unittitle>Architecture in 18th century france, notebooks,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3</container>
+						<unittitle>The Architecture of Sir John Soane and the Picturesque,</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4</container>
+						<unittitle>Art and Architecture of Constantinople, Prof. Holgerklein, Columbia University,</unittitle>
+						<unitdate type="inclusive">2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.5-1.7, 10.7</container>
+						<unittitle>Art Humanities: Masterpieces of Western Art,</unittitle>
+						<unitdate type="inclusive">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.8</container>
+						<unittitle>Bergdoll, Barry, Art History, Archeology,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9-2.2</container>
+						<unittitle>Byzantium and the West, Columbia University,</unittitle>
+						<unitdate type="inclusive">2000-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.3-2.6</container>
+						<unittitle>Cluniac Liturgy Seminar,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.7</container>
+						<unittitle>Collected syllabi, documentary film, art and technology, natural history, architectural theory,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.8-2.9</container>
+						<unittitle>Elementary Latin,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.1-3.3, 11.1</container>
+						<unittitle>French Eighteenth Century Architectural Theory,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.4-3.6</container>
+						<unittitle>German for Reading Knowledge,</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.7-3.8</container>
+						<unittitle>Gothic Architecture, oral exam study notes,</unittitle>
+						<unitdate type="inclusive">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.9-3.10</container>
+						<unittitle>Greek Art and Architecture, Marconi, Clemente, Columbia University,</unittitle>
+						<unitdate type="inclusive">2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.1</container>
+						<unittitle>Italian Renaissance,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.2</container>
+						<unittitle>Medieval Historiography Seminar,</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.3</container>
+						<unittitle>Paris in the Medieval Age, notebook,</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.4-4.5</container>
+						<unittitle>Proseminar Methodologies of Art, Columbia University,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.6-4.8</container>
+						<unittitle>Roman Art II, Professor Brilliant, includes Tallon paper, Living Space: The Cultivation of Prospect..."</unittitle>
+						<unitdate type="inclusive">2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.9</container>
+						<unittitle>Romanesque Architecture, bibliographies,</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.10</container>
+						<unittitle>Seminar on the Skyscraper, Violet le Duc, Princeton University,</unittitle>
+						<unitdate type="inclusive">1990</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. TEACHING FILES</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.1</container>
+						<unittitle>Art Humanities: briefings,</unittitle>
+						<unitdate type="inclusive">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.2</container>
+						<unittitle>Art Humanities: Masterpieces of Western Art,</unittitle>
+						<unitdate type="inclusive">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.3-5.4</container>
+						<unittitle>Art, Music, Archeology, course outlines,</unittitle>
+						<unitdate type="inclusive">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.6-8.7</container>
+						<unittitle>Islam, Art and Architecture,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.5</container>
+						<unittitle>Proposal, Stephen Murray, Department of Art and Archaeology,</unittitle>
+						<unitdate type="inclusive">1995-2002</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. SUBJECT FILES</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.6</container>
+						<unittitle>19th century acoustics,</unittitle>
+						<unitdate type="inclusive">approximately 1990-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.7-5.9</container>
+						<unittitle>Aachen, liturgy,</unittitle>
+						<unitdate type="inclusive">undates</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.10-6.2</container>
+						<unittitle>Acoustics,</unittitle>
+						<unitdate type="inclusive">approximately 1990-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.3-6.7</container>
+						<unittitle>Acoustic jars, vases,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.8</container>
+						<unittitle>Architectural models, Basse Oeuvre, Beauvais Cathedral,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.6</container>
+						<unittitle>Architecture and Liturgy,</unittitle>
+						<physdesc/>
+						<unitdate type="inclusive">approximately 1990-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.8</container>
+						<unittitle>Aubert, Marcel,</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.9</container>
+						<unittitle>Beauvais Cathedral,</unittitle>
+						<unitdate type="inclusive">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.2-11.3</container>
+						<unittitle>Cluny Souvigny,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.9</container>
+						<unittitle>Diary, notes, calculations, diagrams, </unittitle>
+						<physdesc>(2 notebooks)</physdesc>
+						<unitdate type="inclusive">2012, 2016</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.1</container>
+						<unittitle>French Eighteenth Century Iron Architecture,</unittitle>
+						<unitdate type="inclusive">approximately 1990-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.2</container>
+						<unittitle>Iron fabrication,</unittitle>
+						<unitdate type="inclusive">1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.3</container>
+						<unittitle>John Soane virtual reality,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.4</container>
+						<unittitle>L'acoustique Cistercienne et l'Unite Sonore, Larcher, Hubert,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.5-7.6</container>
+						<unittitle>Liturgical drama,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.7-7.8</container>
+						<unittitle>Liturgy,</unittitle>
+						<unitdate type="inclusive">approximately 1990-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.9</container>
+						<unittitle><emph render="italic">Mapping Gothic France</emph>, website printout, Mellon Foundation, scholarly materials,</unittitle>
+						<unitdate type="inclusive">2010</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.4-11.5</container>
+						<unittitle>Musicological Aspects of Architecture,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.10</container>
+						<unittitle>Paleography,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.11-7.13</container>
+						<unittitle>Perrault, Pattie, reference material, draft text,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.14</container>
+						<unittitle>Pitcairn, Raymond, Bryn Athyn Church, photocopies, correspondence 1917-1919,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.1</container>
+						<unittitle>Princeton University Chapel acoustics,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.2</container>
+						<unittitle>St. Peter's, Rome, design and construction,</unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. WRITINGS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.3</container>
+						<unittitle>"Architecture et Sculpture, Gothiques," Press Universitaires de Rennes,</unittitle>
+						<physdesc>(offprint)</physdesc>
+						<unitdate type="inclusive">2012</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.4</container>
+						<unittitle>Art et Architecture a Étampes au Moyen Age, Les Cahiers, d'Etampes Histoire,</unittitle>
+						<physdesc> (offprint)</physdesc>
+						<unitdate type="inclusive">2010</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.5</container>
+						<unittitle>"Einhard, Notker and the Ninth Century, Frankish View of Byzantium,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.8</container>
+						<unittitle>"The Liturgy of the Cluniac, Priory of St. Pierre de Souvigny,"</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.9</container>
+						<unittitle>"Medieval Architectural Acoustics,"</unittitle>
+						<unitdate type="inclusive">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.10, 11.6</container>
+						<unittitle>"Medieval Architectural Acoustics: An Inquiry Into Some Aspects of the Relationship Between Ecclesiastical Music and Architecture in Medieval France," Sorbonne University,"</unittitle>
+						<unitdate type="inclusive">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.11</container>
+						<unittitle>"My 'Post-Modern Yearning': The Integration of Architectural Acoustics in the Study of Gothic Space,"</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.12</container>
+						<unittitle>"The Origins of Organum: An Acoustical Approach,"</unittitle>
+						<unitdate type="inclusive">2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.7</container>
+						<unittitle>"The Play of Daniel at Beauvais Cathedral," including research materials,</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.13</container>
+						<unittitle>"Pierre Patte and the Late Eighteenth Century Conception of Architectural Acoustics,"</unittitle>
+						<unitdate type="inclusive">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.1-9.6</container>
+						<unittitle>"The Portuguese Precedent for Pierre Patte's Street Section," Journal of the Society of Architectural Historians, research documentation, galleys,</unittitle>
+						<unitdate type="inclusive">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.7</container>
+						<unittitle>Smith Western Manuscript 16, research documentation, notes,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.8-9.9</container>
+						<unittitle>"Structural Problems in the Conception and Construction of New St.Peter's in Rome," Princeton University,</unittitle>
+						<unitdate type="inclusive">1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.10</container>
+						<unittitle>"The Tie Beam as Anti-Seismic Device in Early Islamic Mosque Architecture,</unittitle>
+						<unitdate type="inclusive">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.11</container>
+						<unittitle>"The Vaults of Il Gesu," including research documentation, Princeton University,</unittitle>
+						<unitdate type="inclusive">1990</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V. AUDIOVISUAL MATERIALS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 12 </container>
+						<unittitle>Mapping Gothic France Event, Frances Lehman Loeb Art Center,</unittitle>
+						<physdesc>(2 discs)</physdesc>
+						<unitdate type="inclusive">2012</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 12 </container>
+						<unittitle>Musical recordings used for Tallon lectures,</unittitle>
+						<physdesc>(7 discs)</physdesc>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

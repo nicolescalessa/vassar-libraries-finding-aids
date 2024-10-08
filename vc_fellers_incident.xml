@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_fellers_incident
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Fellers Incident Records, 1949-1967</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>17 Mar 2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Fellers Incident Records </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1949-1967</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.4 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials relating to a dispute between student Nancy Jane Fellers and Vassar College over a grade given by distinguished English Professor Helen Druscilla Lockwood.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Nancy Jane Fellers transferred to Vassar College from Earlham College as a junior in 1950. The incident took place at the end of the first semester of Fellers' senior year in 1951. However, it received national attention when Fellers wrote an article entitled "God and Women at Vassar" for <emph render="italic">The Freeman</emph> in November 1952. Fellers gave her account of the ordeal claiming that she was graded unfairly because her beliefs clashed with those of Professor Lockwood. As for Nancy Jane Fellers, she returned to Earlham College in Richmond, Indiana where she graduated with her class in June 1952. She went on to become a writer.</p>
+			<p>As a result of Nancy Fellers' article, Vassar was petitioned with mail from alumnae, students, and parents. Most of the letters were simply requests for more information on the incident and several gave ringing support to the college in its battle against the accusations. Vassar's replies came from either Sarah Gibson Blanding, the president; John Holmes, secretary to the president; or Gertrude Garnsey, alumnae secretary. All held to the defense that Miss Fellers was not persecuted for her ideals, but rather she was judged according to Vassar's academic standards which she, although given many chances, could not meet.</p>
+			<p>The Fellers incident would flare up from time to time over the course of 1952-1953 with articles like "Miss Blanding's Dream College" in the <emph render="italic">Chicago Tribune</emph>, 31 Oct 1952, "Liberal Education at Vassar" in <emph render="italic">The Freeman</emph>, 12 Jan 1953 by Patricia Bozelle, and "Academic Freedom at Vassar" in the <emph render="italic">Congressional Record</emph>, 12 Mar 1953. Vassar weathered each storm giving only an occasional press statement to the Associated Press or the <emph render="italic">Poughkeepsie New Yorker</emph> in regard to the incident. Most often the sharing of any of the details surrounding the ordeal were kept within the Vassar community. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, clippings, press statements, and speeches relating to a dispute between student Nancy Jane Fellers and Vassar College over a grade given by distinguished English Professor Helen Druscilla Lockwood.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname encodinganalog="600">Fellers, Nancy Jane</persname>
+				<persname source="lcnaf" encodinganalog="600">Lockwood, Helen Drusilla, approximately 1891-1971</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Public relations</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Universities and colleges--Complaints against </subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Events and Issues </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 17 Mar 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Archives and Special Collections staff.</p>
+		</processinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Fellers Incident Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence, </unittitle>
+					<unitdate>1952-1955</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Publications, </unittitle>
+					<unitdate>1949-1967</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Vassar College Press Statements, </unittitle>
+					<unitdate>1952-1953</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Newspaper Clippings, </unittitle>
+					<unitdate>1952-1961</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Speeches, </unittitle>
+					<unitdate>1952-1953</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. Correspondence, </unittitle>
+					<unitdate>1952-1955</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Letters to Vassar</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.1 </container>
+							<unitdate> 11 July - 28 Dec 1952 </unitdate>
+							<physdesc><extent> (38 letters, 9 enclosures) </extent></physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.2 </container>
+							<unitdate> 6 Jan - 26 Mar 1953 </unitdate>
+							<physdesc><extent> (22 letters, 9 enclosures) </extent></physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.3 </container>
+							<unitdate> 6 Apr - 30 June 1953 </unitdate>
+							<physdesc><extent> (43 letters, 11 enclosures) </extent></physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.4 </container>
+							<unitdate> 4 July 1953 - 17 Jan 1955 </unitdate>
+							<physdesc><extent> (6 letters, 7 enclosures) </extent></physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Letters from Vassar</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.5 </container>
+							<unitdate> 18 Aug - 29 Nov 1952 </unitdate>
+							<physdesc><extent> (37 letters, 1 enclosure) </extent></physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.6 </container>
+							<unitdate> 1 Dec 1952 - 29 Jan 1953 </unitdate>
+							<physdesc><extent> (43 letters) </extent></physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.7 </container>
+							<unitdate> 2 Feb - 30 May 1953 </unitdate>
+							<physdesc><extent> (33 letters) </extent></physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.8 </container>
+							<unitdate> 2 June 1953 - 12 Oct 1954 </unitdate>
+							<physdesc><extent> (28 letters, 2 enclosures) </extent></physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9 </container>
+						<unittitle> Letters to and from editors, </unittitle>
+						<unitdate> 15 Mar - 5 June 1953 </unitdate>
+						<physdesc><extent> (5 letters) </extent></physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.10 </container>
+						<unittitle> Letters to and from Congressman Reece, </unittitle>
+						<unitdate> 4 Nov 1952 - 22 Jan 1953 </unitdate>
+						<physdesc><extent> (5 letters) </extent></physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.11 </container>
+						<unittitle> Mimeographed letters </unittitle>
+						<physdesc><extent> (6 units) </extent></physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. Publications, </unittitle>
+					<unitdate>1949-1967</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.1 </container>
+						<unitdate> June 1949 - Nov 1952 </unitdate>
+						<physdesc><extent> (5 items, 1 mimeograph) </extent></physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.2 </container>
+						<unitdate> Dec 1952 - Feb 1953 </unitdate>
+						<physdesc><extent> (5 items) </extent></physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.3 </container>
+						<unitdate> 12 Mar 1953 - 3 Nov 1967 </unitdate>
+						<physdesc><extent> (5 items) </extent></physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. Vassar College Press Statements, </unittitle>
+					<unitdate>1952-1953</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.4 </container>
+						<unitdate> 10 Nov 1952 - 13 Jan 1953 </unitdate>
+						<physdesc><extent> (4 statements) </extent></physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. Newspaper Clippings, </unittitle>
+					<unitdate>1952-1961</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.5 </container>
+						<unitdate> 31 Oct 1952 - 31 Mar 1961 </unitdate>
+						<physdesc><extent> (19 clippings) </extent></physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V. Speeches, </unittitle>
+					<unitdate>1952-1953</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.6 </container>
+						<unitdate> 3 Nov 1952 - 8 June 1953 </unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

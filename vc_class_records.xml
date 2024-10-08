@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_class_records</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Class Records, 1865-2021</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>April 2007</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College</corpname></origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Class Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1865-2021</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">38 cubic feet (177 boxes, 8 volumes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials from the various classes of Vassar College.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Materials from the various graduating classes, including minutes and account books from class organizations, alumnae questionnaires, programs, bulletins, invitations, songbooks, reunion materials, clippings and articles on class members, and some notes and letters.</p>
+			<p>The records of the Class of 1889 include one volume of biographical sketches prepared for the 50th reunion, containing information on family, career, travels, and reminiscences of college years; one biography from a physician includes her reactions to studying with Carl Jung in the 1920s.</p>
+			<p>The records of the Class of 1914 inlclude 3 scrapbooks containing photographs, clippings, programs, and captions concerning the women in the class and their subsequent lives, circa 1910-1964.</p>
+			<p>The collection contains no records for the class of 1945-4.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Class of 1889</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Class of 1898</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Class of 1912</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Class of 1914</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Class of 1951</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Songs</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Societies and clubs</subject>
+				<subject source="lcsh" encodinganalog="650">Women college students--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed Ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Alumnae/I Organizations</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007. Updated by Laura Streett, July 2008. Updated by Emma Gronbeck, February 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of various classes and individuals, as well as transfers from the Alumnae/i Association of Vassar College.</p>
+			<p>Accessions: A2006-022, A2006-039, A2007-052, A2008-001, A2009-016, A2009-019, A2009-030, A2009-046, A2010-003, A2010-004, A2010-036, A2011-004, A2011-005, A2011-023, A2011-024, A2011-033, A2011-034, A2012-022, A2013-005, A2014-013, A2014-028, A2014-050, A2015-003, A2016-014, A2019-021, A2021-023, and A2024-009.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Class Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01><did><unittitle>Class Guest Books, </unittitle><unitdate>1915-1916</unitdate><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class Guest Books, </unittitle><unitdate>1910, 1912-1913</unitdate><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class Guest Books, </unittitle><unitdate>1922</unitdate><physdesc>(1 volume)</physdesc></did></c01>
+			<c01><did><unittitle>Class Guest Books, </unittitle><unitdate>1923</unitdate><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Block Prints, </unittitle><unitdate>undated</unitdate><physdesc>(6 envelopes)</physdesc></did></c01>
+			<c01><did><unittitle>Printing plates, </unittitle><unitdate>undated</unitdate><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Oversize material, </unittitle><unitdate>undated</unitdate><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1867</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1868</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1869</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1870</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1871</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1872</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1873</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1874</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1875</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1876</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1877</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1878</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1879</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1880</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1881</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1882</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1883</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1884</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1885</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1886</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1887</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1888</unittitle><physdesc>(3 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1889</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1890</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1891</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1892</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1893</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1894</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1895</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1896</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1897</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1898</unittitle><physdesc>(12 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1899</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1900</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1901</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1902</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1903</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1904</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1905</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1906</unittitle><physdesc>(1 box, 1 metal plaque)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1907</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1908</unittitle><physdesc>(3 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1909</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1910</unittitle><physdesc>(2 boxes, 1 scrapbook)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1911</unittitle><physdesc>(3 boxes?, 1 scrapbook)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1912</unittitle><physdesc>(6 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1913</unittitle><physdesc>(3 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1914</unittitle><physdesc>(4 boxes, 3 scrapbooks)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1915</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1916</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1917</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1918</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1919</unittitle><physdesc>(1 box, 1 scrapbook)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1920</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1921</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1922</unittitle><physdesc>(3 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1923</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1924</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1925</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1926</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1927</unittitle><physdesc>(1 box?)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1928</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1929</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1930</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1931</unittitle><physdesc>(2 boxes, 1 photograph album)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1932</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1933</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1934</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1935</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1936</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1937</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1938</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1939</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1940</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1941</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1942</unittitle><physdesc>(3 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1943</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1944</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1945-4</unittitle><physdesc>(no materials)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1945</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1946</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1947</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1948</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1949</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1950</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1951, </unittitle><unitdate type="inclusive">1951-2021</unitdate><physdesc>(4 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1952</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1953</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1954</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1955</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1956</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1957</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1958</unittitle><physdesc>(3 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1959</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1960</unittitle><physdesc>(2 boxes)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1961</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1962</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1963</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1964</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1965</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1966</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1967</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1968</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1969</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1970</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1971</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1972</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1973</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1974</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1975</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1976</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1977</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1978</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Class of 1979</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Classes of 1980-1985</unittitle><physdesc>(1 box)</physdesc></did></c01>
+			<c01><did><unittitle>Classes of 1986-Present</unittitle><physdesc>(1 box)</physdesc></did></c01>
+		</dsc>
+	</archdesc>
+</ead>

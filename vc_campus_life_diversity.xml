@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_campus_life_diversity</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Campus Life and Diversity Office Records, 1988-2022</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>June 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2019</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="20221028">January 2023</date>
+				<item>Finding aid revised by Emma Gronbeck.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College. Campus Life and Diversity Office</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Campus Life and Diversity Office Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1988-2022</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">7 cubic feet (10 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Minutes, reports, correspondence and other material created by the Office of Student Life and Diversity. Also included are audiovisual materials, including VHS and compact disc recordings of baccalaureate ceremonies; photographs; event flyers and posters; and realia including mugs, t-shirts, and pens.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History</head>
+			<p>The history of the Campus Life and Diversity Office is closely tied to the Vassar career of Edward Pittman. Pittman, a member of Vassar's Class of 1982, began working for the college in 1990 in the newly-created Office of Multicultural Affairs, a division of of the Dean of Student Life.</p>
+			<p>Sources: Vassar College Miscellany News and Vassar College Biographical Files (Serge Paul Emile)</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1974 September</date>
+					<event>President Alan Simpson appointed Serge Paul-Emile as first Director of Educational Services and Student Relations</event>
+				</chronitem>
+				<chronitem>
+					<date>1983</date>
+					<event>Special Services Program, Academic Resource Center</event>
+				</chronitem>
+				<chronitem>
+					<date>1983</date>
+					<event>Advisor to Minority and Special Students = Sheila Thomas</event>
+				</chronitem>
+				<chronitem>
+					<date>Fall 1990</date>
+					<event>Creation of the Office of Mulicultural Affairs</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection contains minutes, reports, correspondence and other material created by the Office of Student Life and Diversity. Also included are audiovisual materials, including VHS and compact disc recordings of baccalaureate ceremonies; photographs; event flyers and posters; and realia including mugs, t-shirts, pens, and other give-aways from All College Day, the First Year Experience, and other events.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>The material in Box 8 is restricted. Otherwise, the collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Administration</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Audiovisual materials</genreform>				
+				<genreform source="aat" encodinganalog="655">Born digital</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Posters</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+				<genreform source="aat" encodinganalog="655">Videocassettes</genreform>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, April 2019. Updated by Emma Gronbeck, January 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, 2019. Updated by Emma Gronbeck, January 2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Transferred in three accessions from the Office of Campus Life and Diversity: A2016-006, A2019-014, and A2021-026.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Campus Life and Diversity Office Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Office files, </unittitle>
+					<unitdate type="inclusive">1988-2018</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Audiovisual Material, </unittitle>
+					<unitdate type="inclusive">1993-2014</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Ephemera, </unittitle>
+					<unitdate type="inclusive">1990-2022</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Realia, </unittitle>
+					<unitdate type="inclusive" certainty="approximate">circa 2004-2018</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Office Files</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Annual Reports — Advisor to Minority Students, </unittitle>
+						<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Annual Reports — Office of Multicultural Affairs, </unittitle>
+						<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Annual Reports — Dean of Student Life / Intercultural Center, </unittitle>
+						<unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
+						<physdesc> (3 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Annual Reports — ALANA Student Cultural Center, </unittitle>
+						<unitdate type="inclusive" normal="2002/2004">2002-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Annual Reports — ALANA and LGBTQ Center, </unittitle>
+						<unitdate type="inclusive" normal="2011/2012">2011-2012</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Annual Reports — Campus Life Office, </unittitle>
+						<unitdate type="inclusive" normal="2002/2008">2002-2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Miscellaneous reports and Summaries</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Multicultural concerns pre-1990</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Miscellaneous correspondence</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>ALANA opening and history</unittitle>
+						<physdesc> (9 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Admissions and recruitment, </unittitle>
+						<unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>AKBAR</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>All College Day, </unittitle>
+						<unitdate type="inclusive" normal="2002/2008">2002-2008</unitdate>
+						<physdesc> (12 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>AAAVC</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Angela Davis / Community</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Athletics, homophopia, heterosexism, </unittitle>
+						<unitdate type="inclusive" normal="200708">2007 August</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Baccalaureate Service programs, </unittitle>
+						<unitdate type="inclusive" normal="1995/2018">1995-2018</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Black/Jewish Community Dialogue, </unittitle>
+						<unitdate type="inclusive" normal="1991">1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Black Solidarity Conference, Yale University, </unittitle>
+						<unitdate type="inclusive" normal="1998">1998</unitdate>
+						<physdesc> (2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Campus Life handouts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Campus Life Office</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Campus Life Resources Group — History and Background, </unittitle>
+						<unitdate type="inclusive" normal="2006/2011">2006-2011</unitdate>
+						<physdesc> (3 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Campus Life Resources Group — History and Background, </unittitle>
+						<unitdate type="inclusive" normal="2012">2012</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Campus Life Resources Group, </unittitle>
+						<unitdate type="inclusive" normal="2001/2009">2001-2009</unitdate>
+						<physdesc> (8 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Campus Life Response Team, </unittitle>
+						<unitdate type="inclusive" normal="2007/2008">2007-2008</unitdate>
+						<physdesc> (2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Campus Life staff meeting, </unittitle>
+						<unitdate type="inclusive" normal="2006">2006</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Campus Life — miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="2000/2018" certainty="approximate">circa 2000-2018</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Committee on Diversity and Difference, </unittitle>
+						<unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate>
+						<physdesc> (9 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Community Day, </unittitle>
+						<unitdate type="inclusive" normal="2000">2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Community Meeting, </unittitle>
+						<unitdate type="inclusive" normal="20030130">2003 January 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Consortium on High Achievement and Success</unittitle>
+						<physdesc> (2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Council of Black Seniors, </unittitle>
+						<unitdate type="inclusive" normal="2007/2012">2007-2012</unitdate>
+						<physdesc> (5 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Cross Cultural Training, </unittitle>
+						<unitdate type="inclusive" normal="19901018">1990 October 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Diversity reports</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Diversity — miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Elected student leaders, </unittitle>
+						<unitdate type="inclusive" normal="2003/2007">2003-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>LGBTQ</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Minority retention and recruitment</unittitle>
+						<physdesc> (5 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Mixing it up: Intergroup dialogue program, </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>NCBI Workshop, </unittitle>
+						<unitdate type="inclusive" normal="2015">2015</unitdate>
+						<physdesc> (3 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Poughkeepsie High School partnership, </unittitle>
+						<unitdate type="inclusive" normal="1993">1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Race Relations Task Force, </unittitle>
+						<unitdate type="inclusive" normal="1989">1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Racial/Ethnic Relations Conference, San Antonio, </unittitle>
+						<unitdate type="inclusive" normal="1996">1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Student Groups</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Students for Justice in Palestine, </unittitle>
+						<unitdate type="inclusive" normal="2014">2014</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Moderate, Independent and Conservative Alliance (MICA), </unittitle>
+						<unitdate type="inclusive" normal="2005/2006">2005-2006</unitdate>
+						<physdesc> (3 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Vassar First Year Experience</unittitle>
+						<physdesc> (5 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Westboro response</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Minority group lists</unittitle>
+						<physdesc> (23 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle>International students lists</unittitle>
+						<physdesc> (9 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Ford Grant, </unittitle>
+						<unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate>
+						<physdesc> (5 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 8</container>
+						<unittitle>Unprocessed [Restricted], </unittitle>
+						<unitdate type="inclusive" normal="1990/2005">1990-2005</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Audiovisual Material</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Compact Discs</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Vassar College Baccalaureate, </unittitle>
+							<unitdate type="inclusive" normal="20080524">2008 May 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Vassar College Baccalaureate, </unittitle>
+							<unitdate type="inclusive" normal="200905">2009 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Vassar College Baccalaureate, </unittitle>
+							<unitdate type="inclusive" normal="201105">2011 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Vassar College Baccalaureate, </unittitle>
+							<unitdate type="inclusive" normal="201205">2012 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Vassar College Baccalaureate, </unittitle>
+							<unitdate type="inclusive" normal="201305">2013 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Vassar College Baccalaureate, </unittitle>
+							<unitdate type="inclusive" normal="201105">2014 May</unitdate>
+							<physdesc> (2 discs)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Photographs</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>All College Day, </unittitle>
+							<unitdate type="inclusive" normal="20030219">2003 February 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>All College Day - Playback Theatre, </unittitle>
+							<unitdate type="inclusive" normal="20030219">2003 February 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>All College Day - Talent Event, </unittitle>
+							<unitdate type="inclusive" normal="20030219">2003 February 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>All College Day, </unittitle>
+							<unitdate type="inclusive" normal="2004">2004</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Conversation Dinners, </unittitle>
+							<unitdate type="inclusive" normal="2003">2003</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">VHS Tapes</emph></unittitle>
+					</did>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"All College Day 2005 - Arlington/Vassar," </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"All College Day 2005 - Blegen/Baseball Dialogue," </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Baccalaureate Ceremony," </unittitle>
+						<unitdate type="inclusive" normal="20000520">2000 May 20</unitdate>
+						<physdesc>(5 tapes)</physdesc>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Baccalaureate Ceremony - Council of Black Seniors," </unittitle>
+						<unitdate type="inclusive" normal="20030524">2003 May 24</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Baccalaureate Ceremony, Vassar College - Speaker Reverend James Forbes," </unittitle>
+						<unitdate type="inclusive" normal="19990522">1999 May 22</unitdate>
+						<physdesc>(2 tapes)</physdesc>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Baccalaureate Service," </unittitle>
+						<unitdate type="inclusive" normal="1997">1997</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Baccalaureate Service," </unittitle>
+						<unitdate type="inclusive" normal="19980523">1998 May 23</unitdate>
+						<physdesc>(2 tapes)</physdesc>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"'Out of the Past' - Ed Pittman, Bethel Church," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Triple A [Vassar College] - Villard Room (Part 2)," </unittitle>
+						<unitdate type="inclusive" normal="19931106">1993 November 6</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Vegas Documentary on Diversity at Vassar College ALANA Center," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c03>
+			</c02>
+			</c01>
+
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Ephemera</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Flyers and leaflets, </unittitle>
+						<unitdate type="inclusive" normal="2007/2020" certainty="approximately">circa 2007-2020</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Flyers and leaflets — All College Day, </unittitle>
+						<unitdate type="inclusive" normal="2001">2001-2014</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Flyers and leaflets — First Year</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Flyers and leaflets — LGBTQ Center</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Flyers and leaflets — Women's Center</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Flyers and leaflets — ALANA Center</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Flyers and leaflets — Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Posters, </unittitle>
+						<unitdate type="inclusive" normal="1990/2022">1990, 2005-2022</unitdate>
+						<physdesc> (4 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Posters — ALANA Center</unittitle>
+						<unitdate type="inclusive" normal="2005/2015">2005-2015</unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Posters — All-College Day, </unittitle>
+						<unitdate type="inclusive" normal="2002/2015">2002-2015</unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 9 (Oversize Roll Box)</container>
+						<unittitle>Posters — All-College Day, </unittitle>
+						<unitdate type="inclusive" normal="2006/2011">2006-2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Posters — First Year</unittitle>
+						<unitdate type="inclusive" normal="2007/2015">2007-2015</unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Posters — LGBTQ Center</unittitle>
+						<unitdate type="inclusive" normal="2008/2014">2008-2014, undated</unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Posters — Women's Center</unittitle>
+						<unitdate type="inclusive" normal="2010">2010, undated</unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Privelege Campaign — posters, </unittitle>
+						<unitdate type="inclusive" normal="2015/2016">2015-2016</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 10 (Oversize)</container>
+						<unittitle>Privelege Campaign, Year III — photographic posters, </unittitle>
+						<unitdate type="inclusive" normal="2016">2016</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Privelege Campaign, Year III — student statements, </unittitle>
+						<unitdate type="inclusive" normal="2016">2016</unitdate>
+						<physdesc> (2 folders)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Realia</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Boxes 1-2</container>
+						<unittitle>Realia, </unittitle>
+						<unitdate type="inclusive" normal="2004/2018" certainty="approximate">circa 2004-2018</unitdate>
+						<physdesc> (Mugs, t-shirts, pens, and more)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

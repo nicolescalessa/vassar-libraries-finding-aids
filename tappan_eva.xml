@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_tappan_eva </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Eva March Tappan Papers, 1881-1925</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Tappan, Eva March, 1854-1930</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Eva March Tappan Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1881-1925 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 0.4 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Material relating to Tappan's work as a children's book author. Also includes some of her artwork, items relating to her time at Vassar College, and other biographical material.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Eva March Tappan, the only child of a Baptist minister and a former school teacher, was born in Blackstone, MA. She was graduated in 1875 from Vassar, where she began to develop an interest in writing. After graduation she turned to teaching, going to Wheaton Seminary. Later she was able to begin graduate studies in English at the University of Pennsylvania, where she earned a Ph.D. in 1896. In the same year she published her first children’s book, <emph render="underline">Charles Lamb, the Man and the Author</emph>. The next year she took a position as head of the English department at English High School in Worcester, MA. By 1904 Miss Tappan had published nine more books, among them <emph render="underline"> In the Days of Alfred the Great</emph> and <emph render="underline">Old Ballads in Prose</emph>, giving her sufficient income to retire from teaching. Her books, many of which were textbooks, were mostly devoted to history, biography, the retelling of folk tales, and
+				literary classics such as <emph render="underline">The Chaucer Story Book</emph>. Eva March Tappan also translated many foreign folk tales, and her work placed her in the forefront of the trend toward historical and folk stories for children. Until her death Tappan lived quietly in Worcester, attending meetings of the local Vassar Club and the Boston Authors’ Club, but devoting most of her energy to the careful and thorough research which distinguishes her work.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Manuscripts of Tappan's stories and histories written for children, 1881-1897 and undated; reminiscences from the 50th reunion of her Vassar class, 1925; her drawings, watercolors, and photographs; catalog from Worcester, Mass., English High School where she taught, 1898; a letter of recommendation for Tappan; her "Christmas Book," 1909-1918; and other miscellaneous items.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Class of 1875</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> English High School (Worcester, Mass.)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Children's literature--Women authors</subject>
+				<subject source="lcsh" encodinganalog="650"> Women authors, American</subject>
+				<subject source="lcsh" encodinganalog="650"> Women teachers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Paintings</genreform>
+				<genreform source="aat" encodinganalog="655"> Drawings (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Children and Children's Literature </subject>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Sylvia (Sands) Paxton, VC 1962, and Bates College.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Eva March Tappan Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.1 </container>
+					<unittitle> Biographical information — address book </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.1 </container>
+					<unittitle> Biographical information — catalogue for Worcester English High School, </unittitle>
+					<unitdate>1898-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.1 </container>
+					<unittitle> Biographical information — letter of recommendation concerning E.M.T. </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.1 </container>
+					<unittitle> Biographical information — "Christmas Book," </unittitle>
+					<unitdate>1909-1918</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.7 </container>
+					<unittitle> Biographical information — Diaries </unittitle>
+					<physdesc> (3 items) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — "The History That the Children Wrote" </unittitle>
+					<physdesc> (TSs, 151p) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — "What We Know about Alfred the Great," </unittitle>
+					<physdesc> (TSs, 55p) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — Children's stories with no titles, </unittitle>
+					<physdesc> (TS) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — "A Winter Sunday by the Sea," </unittitle>
+					<physdesc> (AMS, 21p) </physdesc>
+					<unitdate type="inclusive"> 13 Feb 1881 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — "A Summer Around the Bay of Fundy," </unittitle>
+					<physdesc> (AMS, 80p) </physdesc>
+					<unitdate type="inclusive"> 30 Dec 1886 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — "What Was the Secret of Jesus' Power?" </unittitle>
+					<physdesc> (TSS, 15p) </physdesc>
+					<unitdate type="inclusive"> 1897? </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — Speech with handwritten note </unittitle>
+					<physdesc> (TS) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — One sheet of music of a hymn with words probably written by E.M.T. </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — "Friends That I Have Seen," </unittitle>
+					<physdesc> (TS, 17p) </physdesc>
+					<unitdate type="inclusive"> 3 Feb. 1884 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4 </container>
+					<unittitle> Manuscript — "The Young Man Who Used His Brains," </unittitle>
+					<physdesc> (TS, 7p ; MS, 14p) </physdesc>
+					<unitdate type="inclusive"> n.d. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.5 </container>
+					<unittitle> Publications </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.6 </container>
+					<unittitle> Vassariana — Includes reminiscences at time of 50th reunion, </unittitle>
+					<unitdate type="inclusive"> 7 May 1925 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.2 </container>
+					<unittitle> Photographs </unittitle>
+					<physdesc> (10 items) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.3 </container>
+					<unittitle> Drawings </unittitle>
+					<physdesc> (65 items) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.3 </container>
+					<unittitle> Watercolor sketches </unittitle>
+					<physdesc> (2 items) </physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.8 </container>
+					<unittitle> Miscellaneous </unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_slotkin_leaves
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Stanley S. Slotkin and Mark A. Slotkin Collection of Title Page Facsimiles with Attached Original Leaves from Books Published 1534-approximately 1750</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>February 2021</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl, <date>February 2021</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Slotkin, Stanley S.; </persname>
+				<persname>Slotkin, Mark A.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Stanley S. Slotkin and Mark A. Slotkin Collection of Title Page Facsimiles with Attached Original Leaves from Books Published 1534-approximately 1750.</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1534-1750.</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.5 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Title page facsimiles and original leaves collected by Stanley S. Slotkin and Mark A. Slotkin.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Stanley S. Slotkin (1905-1997) was an American businessman and philanthropist based in Los Angeles, California. Aside from his professional and charitable involvement in the medical field, he was also interested in early manuscripts and printed books, as well as archaeology, particularly of religious sites. His son, Mark A. Slotkin (1943-), an antiques dealer, succeeded him in these interests.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Stanley S. Slotkin and Mark A. Slotkin Collection of Title Page Facsimiles with Attached Original Leaves from Books Published 1534-approximately 1750 includes leaves from a variety of early printed books, including Bibles and devotional texts; works on history, law, and philosophy; and classical texts.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the regulations of the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> Vassar College Archives and Special Collections Library without any additional restrictions.</archref></p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Early printed books</subject>
+				<subject source="lcsh" encodinganalog="650">History--Early works to 1800</subject>
+				<subject source="lcsh" encodinganalog="650">Law--England--Early works to 1800</subject>
+				<subject source="lcsh" encodinganalog="650">Philosophy--Early works to 1800</subject>
+				<subject source="lcsh" encodinganalog="650">Theology--Early works to 1800</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Antiphonaries</genreform>
+				<genreform source="aat" encodinganalog="655">Bibles</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Printing and Publishing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Mark Seidl, February 2021.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>List created by Emma Iadanza, October 2020. </p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Stanley S. Slotkin and Mark A. Slotkin.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>The Stanley S. Slotkin and Mark A. Slotkin Collection of Title Page Facsimiles with Attached Original Leaves from Books Published 1534-approximately 1750.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container> 1.1 </container>
+					<unittitle> Hebraica, Chaldea, Graecaque, and Latina Nomina... Antwerpae (Antwerp), Martinum Caesarem, </unittitle>
+					<unitdate> 1534 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: 378, 379, 380, 408)</extent>
+					</physdesc>
+					<langmaterial>Latin text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.2 </container>
+					<unittitle> Pliny the Elder. C. Plini secundi historiae mundi libri XXXVII. Lugdunae (Lyons), Ioannem Frellionium, </unittitle>
+					<unitdate> 1563 </unitdate>
+					<physdesc>
+						<extent>(4 leaves : 425, 501, 505, 507)</extent>
+					</physdesc>
+					<langmaterial>Latin text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.3 </container>
+					<unittitle> Massorah Rabbinical Bible, </unittitle>
+					<unitdate> 1610 </unitdate>
+					<physdesc>
+						<extent>(4 leaves)</extent>
+					</physdesc>
+					<langmaterial>Hebrew text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.4 </container>
+					<unittitle> Joost Lips (Justus Lipsus). Iusti Lipsi V.C. Opera Omnia Antverpiae (Antwerp), ex Officina Plantiniana Balthasaris Moreti, </unittitle>
+					<unitdate> 1637 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: 505, 507, 509, 515) </extent>
+					</physdesc>
+					<langmaterial>Latin and Greek text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.5 </container>
+					<unittitle> Johannes Buxtorf. Johannis Buxtorfi P. Tiberias, sive Commentarius Masorethicus Triplex Basileae (Basel), Johannis Buxtorfi, Jacobi Deckeri , </unittitle>
+					<unitdate> 1665 </unitdate>
+					<physdesc>
+						<extent>(4 leaves)</extent>
+					</physdesc>
+					<langmaterial>Hebrew text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.6 </container>
+					<unittitle> Antiphonale cisterciense juxta novum ordinis brevarium dispositum. Parisius (Paris), Fredericus Leoua,</unittitle>
+					<unitdate> 1690 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: 437, 467, 469, 499)</extent>
+					</physdesc>
+					<langmaterial>Music with Latin text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.7 </container>
+					<unittitle> Ludovico Maria Sinistrari. Ludovicum Sinistrari Practica Criminalis Illustrata. Romae (Rome), Joannis Jacobi Komarek, S. Angelum Custodem , </unittitle>
+					<unitdate> 1693 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: 397, 553, 555, 557)</extent>
+					</physdesc>
+					<langmaterial>Latin text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.8 </container>
+					<unittitle> F Natali Alexandro. Theologia domatica et moralis secundum ordinem catechismi concilii tridentini. Parisiis (Paris), Antoni Dezallier, </unittitle>
+					<unitdate> 1703 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: 59, 61, 63, 319)</extent>
+					</physdesc>
+					<langmaterial>Latin text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.9 </container>
+					<unittitle> Edward, Earl of Claredon. The History of the Rebellion and Civil Wars in England. Oxford, the Theatre, </unittitle>
+					<unitdate>1707</unitdate>
+					<physdesc>
+						<extent>(4 leaves: 171, 475, 477, 479)</extent>
+					</physdesc>
+					<langmaterial>English text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.10 </container>
+					<unittitle> A Table of all the Publick and Private Statues,</unittitle>
+					<unitdate> 1734 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: 21, 375, 377, 379)</extent>
+					</physdesc>
+					<langmaterial>English text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.11 </container>
+					<unittitle> Crescentius Krisper. Philosophia scholae scotisticae. Matthiae Wolff, </unittitle>
+					<unitdate> 1735 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: 3, 5, 174, 317)</extent>
+					</physdesc>
+					<langmaterial>Latin text</langmaterial>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.12 </container>
+					<unittitle> Prophetae priores, </unittitle>
+					<unitdate> approximately 1750 </unitdate>
+					<physdesc>
+						<extent>(4 leaves: leaves: 479, 525, 527, 529)</extent>
+					</physdesc>
+					<langmaterial>Latin, Greek, Chaldean, and Hebrew text</langmaterial>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

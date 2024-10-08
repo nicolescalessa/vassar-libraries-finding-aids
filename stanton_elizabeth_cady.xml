@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_stanton_elizabeth_cady</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Elizabeth Cady Stanton Papers, 1792-1981 (bulk 1839-1899)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>August 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Stanton, Elizabeth Cady, 1815-1902</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Elizabeth Cady Stanton Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1792-1981</unitdate>
+			<unitdate type="inclusive" label="Dates (bulk):" encodinganalog="245$f">1839-1899</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.4 cubic feet (7 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The collection contains material related to Elizabeth Cady Stanton's work for women's suffrage, abolition, temperance, and other social causes. Includes family and professional correspondence, biographical and autobigraphical material, transcripts of her speeches, and photographs. Also includes material by others, such as her daughter, Margaret Stanton Lawrence, about the women's movement and Stanton's life and career.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Elizabeth Cady Stanton (1815-1902), a leader in the struggle for women's rights, was born on 12 November 1815, in Johnstown, NY, and graduated from Emma Willard's Troy Female Seminary in 1832. Through her close relationship with her cousin Gerrit Smith, a wealthy landowner and reformer, and his daughter, Elizabeth Smith Miller, Stanton became interested in the antislavery and temperance movements, and married the abolitionist Henry Stanton in 1840. As reflected in her letters from 1839-1859, her concerns for the next twenty years appear to have been her children (seven born between 1842 and 1859) and family, but it was during this period that she became one of the leaders in the women's rights movement. She helped to organize the first convention in Seneca Falls, NY in 1848 and formed the friendship with Susan B. Anthony that was to be so important for the future of the feminist movement. At the well-attended convention in Seneca Falls, Stanton proposed a resolution advocating suffrage for women. The resolution was the first public demand by women for the vote and, eloquently defended by Frederick Douglass, was finally adopted.</p>
+			<p>Elizabeth Cady Stanton's letters, which span the years 1867-1885 and include several to Paulina Wright Davis, another feminist and suffragist, reveal the public person. She became a very popular lecturer on the Lyceum circuit at this time and used her fame and popularity to further the cause of women's rights throughout the United States and abroad. Stanton persuaded Aaron Sargent of California to introduce a federal woman suffrage amendment following the wording of the Fifteenth Amendment. It was reintroduced in every Congress until finally adopted in 1920. In the 1880s, Stanton and Susan B. Anthony prepared the monumental three-volume <emph render="italic">History of Woman Suffrage</emph>, the last volume of which appeared in 1886.</p>
+			<p>In later years, Stanton, famous and widely honored, devoted more time to writing for newspapers and magazines such as the <emph render="italic">Westminster Review</emph>, <emph render="italic">Arena</emph>, <emph render="italic">Forum</emph>, and <emph render="italic">North American Review</emph>. Still, another controversy involved her. Convinced that the church and its interpretation of the Bible were great obstacles to the progress of women, she demanded that women have an equal place in the church and published <emph render="italic">The Woman's Bible</emph>, a commentary analyzing the Bible's derogatory references to women. These activities are reflected in her letters from 1885-1902.</p>
+			<p>In 1898, Stanton published her reminiscences, <emph render="italic">Eighty Years and More</emph>, and continued to express her views on religion, divorce, and other subjects. She died at the age of eighty-six. For months afterwards, newspapers and magazines acknowledged Elizabeth Cady Stanton as "a statesman of the woman's rights movement and the mother of woman suffrage."</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection includes correspondence with Susan B. Anthony, Paulina Wright Davis, Elizabeth Smith Miller, Gerrit Smith, and others relating to family matters, her children, the women's movement, her lectures and travels, publication of her books and articles, women and religion, abolition, temperance, and other social causes, 1839-1902; phrenological report by L.N. Fowler on the character of Stanton, 1853; and clippings, articles, transcripts of her speeches, an autobiographical sketch, and photographs. Other items include correspondence by Margaret Stanton Lawrence and others on the women's movement, other social causes, and Stanton's career, 1792-1927; and manuscripts and typescripts by Margaret Stanton Lawrence about Elizabeth Cady Stanton's life and career.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Lawrence, Margaret Stanton</persname>
+				<persname source="lcnaf" encodinganalog="600">Fowler, L.N. (Lorenzo Niles), 1811-1896</persname>
+				<persname source="lcnaf" encodinganalog="600">Anthony, Susan B. (Susan Brownell), 1820-1906</persname>
+				<persname source="lcnaf" encodinganalog="600">Davis, Paulina W. (Paulina Wright), 1813-1876</persname>
+				<persname source="lcnaf" encodinganalog="600">Miller, Elizabeth Smith, 1822-1911</persname>
+				<persname source="lcnaf" encodinganalog="600">Smith, Gerrit, 1797-1874</persname>
+				<persname source="lcnaf" encodinganalog="600">Stanton family</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Family--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Women's rights</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Suffrage</subject>
+				<subject source="lcsh" encodinganalog="650">Slavery--Anti-slavery movements</subject>
+				<subject source="lcsh" encodinganalog="650">Women and religion</subject>
+				<subject source="lcsh" encodinganalog="650">Temperance</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Social conditions</subject>
+				<subject source="lcsh" encodinganalog="650">Feminist literature--Women authors</subject>
+				<subject source="lcsh" encodinganalog="650">Women travelers</subject>
+				<subject source="lcsh" encodinganalog="650">Phrenology</subject>
+				<subject source="lcsh" encodinganalog="650">Abolitionists</subject>
+				<subject source="lcsh" encodinganalog="650">Feminists</subject>
+				<subject source="lcsh" encodinganalog="650">Women authors, American</subject>
+				<subject source="lcsh" encodinganalog="650">Women social reformers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Autobiographies</genreform>
+				<genreform source="aat" encodinganalog="655">Autographs</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+				
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">Religion</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, August 2007. Updated by Emma Gronbeck, May 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Harriot Stanton Blatch (VC 1878) and Alma Lutz (VC 1912).</p>
+		</acqinfo>
+		<altformavail encodinganalog="530">
+			<head>Other Formats</head>
+			<p>Scrapbooks are also available on microfilm. With the exception of extenuating circumstances, readers will be required to use the microfilm. A part of "Phrenological Character of Mrs. Elizabeth [sic] C. Stanton..." found in Volume 1 of the Scrapbooks was not microfilmed. The reader will find a photocopy of this part in Box 3 of the Stanton Papers.</p>
+		</altformavail>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Elizabeth Cady Stanton Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Correspondence, </unittitle>
+					<unitdate>1839-1902</unitdate>
+					<physdesc>(Boxes 1-3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains 147 letters (1839-1902) relating to family, children, the women's movement, lectures and travels, publication of Stanton's books, articles, and other topics.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Unpublished Manuscripts by Margaret Stanton Lawerence, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc>(Box 4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series contains four unpublished manuscripts by Stanton's daughter about her mother's life and career.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Scrapbooks, </unittitle>
+					<unitdate>1792-1927</unitdate>
+					<physdesc>(Boxes 5-7)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series consists of 3 volumes containing letters written to Elizabeth Cady Stanton from others involved in the women's movement and other causes, as well as clippings of her newspaper articles and letters to the editor, copies of speeches, photographs, and other memorabilia. Volume 1 contains letters from Susan B. Anthony to Stanton and Volume 2 contains a typescript of "Our Young Girls," Stanton's favorite and most popular lecture on the New York Lyceum Bureau circuit.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Miscellaneous, </unittitle>
+					<unitdate type="inclusive">1839-1981</unitdate>
+					<physdesc>(Box 3)</physdesc>
+				</did>
+				<scopecontent>
+					<p>This series consists of additional materials related to Stanton, such as printed articles and ephemera, poetry written by Stanton, biographical and family ephemera, and a photocopy of "Phrenological Character of Mrs. Elizabeth Cady Stanton."
+					</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Correspondence</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/e157fbd1-0859-4e27-b131-448efdd0f278">Susan B. Anthony</archref>, </unittitle>
+						<unitdate type="inclusive">1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/3eb18984-4955-4467-a6c2-e03231ffe29f">Susan B. Anthony</archref>, </unittitle>
+						<unitdate type="inclusive">1855 Jan 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/d1491d2b-4383-4835-84b5-e39859d61ca8">Susan B. Anthony</archref>, </unittitle>
+						<unitdate type="inclusive">1856 Jan</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/30e9b4e1-224d-4eab-b908-6d8edf912e45">Susan B. Anthony</archref>, </unittitle>
+						<unitdate type="inclusive">1857 Aug</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f7eb6f38-9dcb-4cbc-85d1-06ee74fbae4e">Susan B. Anthony</archref>, </unittitle>
+						<unitdate type="inclusive">1859 Apr 4</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/34ce576c-ec54-4772-8374-7c2b59396413">Susan B. Anthony</archref>, </unittitle>
+						<unitdate type="inclusive">1859 Apr 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ce22393c-f7ed-4fe5-aaa7-e4ccc799a715">Susan B. Anthony</archref>, </unittitle>
+						<unitdate type="inclusive">1859 Jul 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/83fa143d-548d-4dd1-976f-22fdbe8e686d">Rachel Foster [Avery]</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1880s]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/7a9fe7fe-10c7-418c-9654-59349b5da4f2">Rachel Foster [Avery]</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1880s]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/09611985-de34-4c0f-809a-9b4f59564b09">Edward Baines</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1869] Apr 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/41840ad6-836d-4645-9713-0f5aeaea14d1">Harriot Stanton Blatch</archref>, </unittitle>
+						<physdesc>(1ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1879] Mar 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/5de90963-1de8-4c66-8e25-89e9295b19d6">William J. Bok</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1894] Nov 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/4389f663-b0e2-42c0-b8ad-c0d219ed6715">Mr. Brown</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1872</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/45daca6c-9985-484d-8956-9142ab191c04">[Lloyd] Bryce</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1893 Dec]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7.2</container>
+						<unittitle><archref href="hhttps://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/c8bd5f3f-aa58-4f82-bc71-362755c3f8d8">[Lloyd] Bryce</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1893 Dec 15]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/d082a083-3fb2-4b06-b739-8f9e0384ee1e"> C.S. Carter</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1876 Oct 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/7d21b07a-df70-47d1-bd97-9c19ef1c3808">Mrs. Conte</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1885</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ae3cfadd-c26e-4e3b-a6ac-8074711088f6">Laura Brownell Collier</archref>, </unittitle>
+						<physdesc>(1 ALS w/ env.)</physdesc>
+						<unitdate type="inclusive">1886 Jan 21</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b394c229-ed92-4ae6-8390-fbdfd28c8310">Mrs. Darlington, </archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[no year] May 27</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/40a3c8e3-a3fb-4799-9c94-b285bb060716">Paulina Wright Davis</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1870 July 9]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/a3fc270e-f29b-43ec-a227-d8e30d903a67">Paulina Wright Davis</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1872 Apr 1]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/70a20b55-a6ff-420f-a212-bd72a797d502">Paulina Wright Davis</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1874 Oct 18]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.13</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0b79522e-d8d6-4b7f-936a-487f30309d59">Mrs. Ellsworth</archref>, </unittitle>
+						<physdesc>(1 LS w/ TS)</physdesc>
+						<unitdate type="inclusive">1898 Mar 23</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.14</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b77d8083-95bf-41cc-a8ed-b81bbdbcb0bc">Mrs. Holloway [?]</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1889]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.15</container>
+						<unittitle>Karr Knortz, </unittitle>
+						<physdesc>(1 AN w/ TS)</physdesc>
+						<unitdate type="inclusive">1879 Dec 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f4c65635-ff53-494b-84de-f21ca031be60">Mary Livermore</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1892 Jul 7]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/22b6f7b9-ac16-4f35-8ac6-10c534006b6d">Mary Livermore</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1894 May 7]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.17</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f70dea2c-06f3-4d07-82e0-82450a511338">Mrs. William Proctor Mellen</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1890]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0fd1c70a-841f-4974-83a4-0865019d760a">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1839 Jun 4]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ed40dd62-3cd9-4fb1-a443-397d42ab896b">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1839 Jul 20]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/d35d7c55-7502-42e9-af4c-3ac9364fc37d">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1839 Sep 11]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/24b9dc97-1e11-4706-b40d-682349148415">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1841 Mar 17]</unitdate>
+					</did>
+				</c02>					
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/c2fad542-bae8-45de-9dae-3b94ef7f3e64">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1842 May 28]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/52bb4069-96f0-4ffe-a76e-70c952151d75">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1845 Feb 3]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/43f99bcb-8d29-4263-bc2f-a39d828ea3d0">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1846]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/46e029e1-5a74-4196-8e84-85267c42d5be">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1847 Feb]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.9</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/dd44bd33-43ad-4b9c-bcaf-b73b4de24a3f">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1847]</unitdate>
+					</did>
+				</c02>					
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.10</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/cb14a5ce-1afa-4486-8074-72d4690138d6">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1850 Apr 30]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.11</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/9a02076e-6197-462d-af64-dd6983db6dc2">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1851 Jul 2]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.12</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b71f9e49-ba0f-44e8-b548-dc9767f9757f">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1852 Oct 22]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.13</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/3cc32779-df4d-44f5-a48f-f66a6bf8ad1d">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1856 Jan 24]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18.14</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/e94f73d5-3574-4ab8-87d5-65c3f4c70f20">Elizabeth Smith Miller</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1856 Mar]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/10cf1c01-ae5f-476c-9d37-d259ba489d49">Lucretia Mott</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1872] Apr 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ec710f1b-38cf-4fd0-a23a-d7ba26c29272">Olive Moulton</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1870s]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/6c224062-e181-4020-9062-c91a771f6429">Charles Mumford</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1871 Apr 29]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8bfa9400-9e14-4cd3-94b5-d4a53e5df106">Charles Mumford</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1870s]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f4d5ceff-a657-4e9f-909a-2d3b1d9230e0">Elizabeth Pease [Nichol]</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS, env.)</physdesc>
+						<unitdate type="inclusive">[1840] Nov 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/94ad380e-4982-4b8c-a139-887569771555">Mr. Nordoff</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[no year] Apr 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.3.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/a59afaa4-e434-4b73-bae7-e3865947bf76">M.D. Phillips</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1886 Aug 5</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.3.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ad6a2024-31b4-4a89-8db0-eea1e82ed0b9">M.D. Phillips</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1896 Aug 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/6e6d59f2-7909-4619-9cf3-05802bf17b07">Mr. Redpath</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">1870 Feb 28</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/bba1fdb3-158e-4af5-8dbf-56e2c5f3ec3c">William Seward</archref>, </unittitle>
+						<physdesc>(1 TS)</physdesc>
+						<unitdate type="inclusive">[no year] Sep 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0a140e68-2a5d-4a48-aa19-5203e06b9ff7">Mrs. Smith</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[no year] Jun 4</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/9a00bcc0-a167-4be5-87ab-3edeae6ae88f">Cousin G. [Gerrit Smith]</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1874] Dec 16</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.8.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/928a18d2-d286-40a1-b5f2-0061c00db24b">Margaret [Marguerite Berry Stanton]</archref>, </unittitle>
+						<physdesc>(ALS w/ 2 TS)</physdesc>
+						<unitdate type="inclusive">1867 Jun 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.8.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ad6a2024-31b4-4a89-8db0-eea1e82ed0b9">Margaret [Marguerite Berry Stanton]</archref>, </unittitle>
+						<physdesc>(ALS w/ 2 TS)</physdesc>
+						<unitdate type="inclusive">1896 Aug 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/793e9622-1bfe-42c7-9031-466f2ec4c857">Mr. Strickland, </archref></unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1886 May]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.10</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/26d1939b-6126-44b1-8d04-77f5a22cfe4c">Mr. [Edwin A.] Studwell</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1867 Nov 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.11</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/41b723a3-b246-4ba4-84ab-5e5d8103c65d">C.P. Sumerby</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1876 Nov 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.12</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0a2aabbc-fcaa-4d13-abe5-74f27aef2235">Mrs. Thomas</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1898] Feb 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.13</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/90d20e77-e0c5-4a70-bade-ea90b884f31a">Mr. Thomas</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1898] Jan 23</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.14</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/84ae3ab4-1559-41ec-9f8b-2d24e7141068">Mr. Underhill</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1890]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.15</container>
+						<unittitle>Mrs. Underwood, </unittitle>
+						<physdesc>(8 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1884 Apr 5 - [1890-1898] Jan 23</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/897bf01f-727f-4f40-97c6-7cb19e917a65">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1885 Mar 13]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/fe2be49f-bc91-47ce-84cb-91363d5efb00">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1885 Mar 27]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/9514931e-2530-4899-874c-b9152fae6b3f">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1885 Oct 19]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8d592950-65aa-4519-b034-135b065d356c">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1889 Jan 29]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0d0aba26-ba2b-4fc1-8ab7-021644780a5a">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1898 Feb 15]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8fec6b19-2b0c-4f2a-8f73-b2988f0ae83a">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1898 Feb 17]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0945f93f-646b-4549-a113-49daf253bae6">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1890]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f93e6b67-77d0-4aeb-bccd-1284bb07eb78">Mr. Underwood</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.17</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/5baee533-c062-417d-8591-cb80125dacd9">Oswald Villard</archref>, </unittitle>
+						<physdesc>(2 TS w/ env)</physdesc>
+						<unitdate type="inclusive">1902 Oct 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.18.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0f5d1f15-eba2-46b9-a6f9-3a70f9fe1fcd">William Hayes Ward</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1870 Mar 18]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.18.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/bb4858cf-f6ef-44b0-846a-09ac2faa379d">William Hayes Ward</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1890 Jan 13]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.18.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/5e45810e-ab38-449d-9f0d-9ac878fa0b01">William Hayes Ward</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1890 Mar 14]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.18</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/1a3d6d2f-1cb8-48a9-ac58-fbbff2424c90">William Hayes Ward</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1890 Dec 5]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.19.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/e694bde5-e3e7-4863-9a9a-da27da531a22">Lemuel Washburn</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1893 Mar 25]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.19.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f8e243fc-ed8a-45c6-862b-180d7d777043">Lemuel Washburn</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1898 Dec 11]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.20</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/5f67f461-ba03-4b01-a398-12779a382889">Mr. [Thurlow] Weed</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[no year] Jan 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.21</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/83968409-80ab-46c1-8848-af6ce9900794">Mrs. White</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1896] Jul 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.22</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/4ba5f8f7-4787-4cb1-b430-a005b62d620d">B.W. Williams</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">[1872] Oct 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ba3a65d9-68d7-48ca-85c4-660fc0d2b9fe">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1869 Jan 29]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/dccc13fd-3a19-454a-8b36-b8e1e88b23fd">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1870]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/aa348153-b7a1-42fe-8631-1a912e8e276a">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1889 Oct 16]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/9b65a8dc-e85b-4108-9df7-242d53c2fce2">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1890 Nov 16]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8521799e-9577-4bff-85ed-21ef36700d73">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1895 Jul 28]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/d51f4676-184b-45cf-ae8e-9c96edf27edf">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1895 Dec 11]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b1dc1c51-fc9c-47c9-987d-b91104f60a9a">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[1898 Mar 3]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/ff60583a-3a50-4fab-913f-417a55db15cd">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">[no year] Aug 27</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23.9</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/988bf800-8341-40fc-aa1d-6662489e11cc">Unknown</archref>, </unittitle>
+						<physdesc>(1 ALS w/TS)</physdesc>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/e6347d70-1ed6-4a56-afb2-6eba63f8efba">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 Mar]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/193d0a4b-c511-43a5-b4ea-406674138ca9">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 May]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/7fc8db18-a305-440b-85a5-4e1642371d22">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 Feb]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b72472e5-734e-4f1d-8529-4ec82ddecc86">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 May]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/dd88257b-40e1-44ba-beea-2516c3eaca73">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 Aug]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/17c5544a-db0a-4214-bcd6-2c5ca4ff3044">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 Jun]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/1faf59a7-3191-4492-8c27-817dfbc02ffa">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 May]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/44a282ee-2c12-4892-b590-1fff63f98e35">Postcard, self – addressed</archref>, </unittitle>
+						<physdesc>(1 postcard)</physdesc>
+						<unitdate type="inclusive">[1897 Mar]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/3ff85194-ecca-4f73-87c7-24860e0f4f50">Theodore Tilton</archref>, </unittitle>
+						<physdesc>(1 ALS)</physdesc>
+						<unitdate type="inclusive">1897 Mar 27</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/4b78aede-1b83-4429-8782-1a040395e529">Martha C. Wright</archref>, </unittitle>
+						<physdesc>(1 ALS w/ TS)</physdesc>
+						<unitdate type="inclusive">1874 Oct 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/462c3ac4-8cac-4bde-8270-021838438b3b">Correspondence to and from Margaret Stanton Lawrence</archref>, </unittitle>
+						<physdesc>(1 ALS, 2 Fragments)</physdesc>
+						<unitdate type="inclusive">1911 Mar 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/7a6119e6-a932-4de9-b720-bd74aeb29086">Correspondence to Margaret Stanton Lawrence</archref>, </unittitle>
+						<physdesc>(1 TS)</physdesc>
+						<unitdate type="inclusive">1923 Jul 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/4cdeb757-6894-4125-ac83-33d58cf82eea">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1869 Mar 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/d6a163fd-a53d-49f5-854a-76a56eb96fc5">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1869 Mar 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/24081b43-dffc-47e6-9419-1ac35f3f55df">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1871 Feb 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/15819a9f-55b5-4f9f-8b9a-c5a1779425d1">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1874 Feb 13</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/19dda6ab-4ff4-4906-83ca-67c946ec7612">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1875 Nov 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/00553c64-1ada-4e37-8277-4ee1dfdda94d">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1885 Dec 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/d6a163fd-a53d-49f5-854a-76a56eb96fc5">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1888 Mar 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/54fa55cc-330b-4124-949b-ee252a4ec78d">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1893 Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.9</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f9ba0232-e1dd-4138-92d8-e6cc48efe919">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1893 Oct 11</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.10</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8107bfdc-b123-40cb-8031-691be08109da">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1896 Feb 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.11</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/9ced7d99-c05e-479f-aaff-19d3e3b88e2a">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1896 Mar 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.12</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/951a1b7e-2244-4393-b881-b5de88a9ed79">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1896 Aug 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.13</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/1db5fa13-93d8-4fa1-8a8d-a09fd20cdb3c">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1899 Jul 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4.14</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/125b226a-8bc7-4fdf-8368-6394a0cc9ba4">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">1900</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/252abebd-ebc8-45b4-8afb-e758547f90ac">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b81f12ad-c9b6-4566-a7dd-4f657466f14f">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b81f12ad-c9b6-4566-a7dd-4f657466f14f">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/9a0702b2-2e5c-4bb9-a543-a4245018648f">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/43e17331-10f8-468a-820b-3fd48232f29d">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/5b77524d-2552-4f61-9dd2-fe04f471d14e">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0b67d2ea-b946-4f05-a71d-dfe23c0533f5">Autograph Notes</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Unpublished Manuscripts by Margaret Stanton Lawerence</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/db03c5c8-5b3e-430f-80f1-4672f0a7500a">"Elizabeth Cady Stanton..." pp. 1-43</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f3b0c008-a3e1-4b37-ade9-4c730036cde8">"Elizabeth Cady Stanton..." pp. 44-88</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/83dd2581-fb04-4d04-924b-eeaed238cd3f">"Elizabeth Cady Stanton..." pp. 89-134</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/aef37b41-1ef3-4277-8bda-e1bac3466554">"Who Was Elizabeth Cady Stanton and Who Started Votes For Women"</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/4c8010a1-5f47-4ba8-bfe4-2f525b75da97">"Who Was Elizabeth Cady Stanton? My Mother," part 1</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/c1d18113-f09b-4cd5-a584-42fcf5fcd63f">"Who Was Elizabeth Cady Stanton? My Mother," part 2</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/c2dedccf-6132-4c7e-bf81-188f7035f3a3">"Who Was Elizabeth Cady Stanton? My Mother," part 3</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/12ec8b5d-2cf0-438c-abc7-ca93ef08867d">Elizabeth Cady Stanton and the Federal Amendment</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Scrapbooks</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/d0fb608d-a459-4c85-b729-52587206cc2e">Volume I</archref>, </unittitle>
+						<unitdate type="inclusive">1792-1870</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/231d9fe3-4c69-460a-a0c1-d4d086e1c39a">Volume II</archref>, </unittitle>
+						<unitdate type="inclusive">1881-1899</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/00edceaf-211f-44e4-92ac-b154115bf857">Volume III</archref>, </unittitle>
+						<unitdate type="inclusive">1892-1921</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Miscellaneous</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/4863b78b-fc50-494d-9c0d-66c361bc4148">Inscription of Cook Book from Elizabeth Cady Stanton</archref>, </unittitle>
+						<physdesc>(1 ANS w/ facsimile of inscription, 1 TS)</physdesc>
+						<unitdate type="inclusive">1878 Oct 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8076177b-a168-4475-ac86-4117d70a3593"> Biographical Sketch by Elizabeth Cady Stanton</archref>, </unittitle>
+						<physdesc>(1 AN w/ TS)</physdesc>
+						<unitdate type="inclusive">1885 Mar 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/dd2742ef-1249-4452-a4b9-b09ce423620e"> Verses by Elizabeth Cady Stanton</archref>, </unittitle>
+						<physdesc>(1 AN w/ 1 TS)</physdesc>
+						<unitdate type="inclusive">[1870 Nov 12]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.9.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f893ce0c-c4bb-4bad-af16-c5be9b01c476"> Birthday Poems by Elizabeth Cady Stanton</archref>, </unittitle>
+						<physdesc>(1 AN w/ env)</physdesc>
+						<unitdate type="inclusive">1897 Oct 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.9.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/7b68ad4f-d9fb-4aa8-8b65-740b570db839"> Birthday Poems by Elizabeth Cady Stanton</archref>, </unittitle>
+						<physdesc>(1 AN w/ env)</physdesc>
+						<unitdate type="inclusive">1852 Oct 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.10</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/fe1051ad-7137-4e2a-b851-9b90d36f6cd9"> Toasts by Elizabeth Cady Stanton at Ellen Walter's Dinner Party</archref>, </unittitle>
+						<physdesc>(1 AN w/ TS)</physdesc>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.11</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/da18e6f9-4a1b-4d87-99dd-27dc1bc84275"> Robert Livingston Stanton's Toast to Elizabeth Cady Stanton</archref>, </unittitle>
+						<physdesc>(1 AN)</physdesc>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.12</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/0894ca34-a1c9-45a3-8df0-5346cf40c9e2">Bookplate of Theodore Stanton</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/2b69ef8e-aabe-43e8-8563-d6c0b562f704">First-day-of-issue envelope honoring Elizabeth Cady Stanton</archref>, </unittitle>
+						<physdesc>(1 env)</physdesc>
+						<unitdate type="inclusive">1948 Jul 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/abf420b2-4cd0-4b3c-bf82-8258affd83e1">Miscellaneous Printed Material: "The Birth of an Idea" from <emph render="italic">Lucretia and Elizabeth</emph> by Katharine Fisher</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/7626afe6-59ea-4a2b-8889-a75464d49c8a">Miscellaneous Printed Material: "Tributes to Elizabeth Cady Stanton" from <emph render="italic">Equal Rights</emph></archref>, </unittitle>
+						<unitdate type="inclusive">1939 Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/1a6c6f16-97be-42fb-95f3-a81d2097cb34">Miscellaneous Printed Material: Lithograph portrait of Elizabeth Cady Stanton, engraved by H. B. Hall, Jr. (from <emph render="italic">Eminent Women of the Age</emph> by James Parton)</archref>, </unittitle>
+						<unitdate type="inclusive">circa 1869</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/4f48298e-528c-4e68-b1f5-0c4f07a5e695">Miscellaneous Printed Material: "Elizabeth Cady Stanton" by Helen Waltermire in <emph render="italic">Hudson River Magazine</emph></archref>, </unittitle>
+						<unitdate type="inclusive">1941 Jan</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/2a4a31f5-8595-4ee5-ac80-6bcb2c2e1305">Miscellaneous Printed Material: "Life Sketch of Elizabeth Cady Stanton" by Nora Stanton Barney</archref>, </unittitle>
+						<unitdate type="inclusive">1948 Jul 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/704dbcbe-5a4a-4900-b1e8-93451e4d62f7">Miscellaneous Printed Material: "Stanton, Elizabeth Cady" from <emph render="italic">The Biographical Cyclopaedia of American Women</emph>, Vol. 1</archref>, </unittitle>
+						<unitdate type="inclusive">circa 1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8568096f-b8a1-40a3-ac08-096fba72e357">Miscellaneous Printed Material: "Actor's donation helps preserve historic home" from <emph render="italic">The Poughkeepsie Journal</emph></archref>, </unittitle>
+						<unitdate type="inclusive">1981 Jun 2</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/8b269e25-5b2b-4d37-a4d1-f29954610f52">Photograph: Portrait of Elizabeth Cady Stanton</archref>, </unittitle>
+						<unitdate type="inclusive">1871</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/f9989964-94cd-4c3c-b823-522b084b6a53">Photograph: Portrait of Elizabeth Cady Stanton</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/93664056-ea96-4009-bc72-73a3012e2ea6">Photograph: Portrait of Elizabeth Cady Stanton with Harriot Stanton Blatch and Nora Stanton Barney</archref>, </unittitle>
+						<unitdate type="inclusive">circa 1887</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.4-6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/6ff2efa8-4503-4f48-bff2-7d390ca4aa18">Photographs: Portraits of Elizabeth Cady Stanton and her family</archref>, </unittitle>
+						<unitdate type="inclusive">1857-1882</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/e6e69728-f824-4d7d-8caf-41dc985672ad">Photograph: Elizabeth Cady Stanton</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/b439d55f-f394-498a-b8d4-06394fb0b079">Photograph: Portrait of Judge Daniel Cady</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.9</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/a85c7ed1-5b6e-4700-8b5f-43b1aa58125f">Photograph: Elizabeth Cady Stanton</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15.10</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/5b4270b6-016a-437f-b89e-4ae79719afe6">Photograph: Elizabeth Cady Stanton sitting in a chair outside</archref>, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.16</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/elizabeth-cady-stanton-papers/07219c1e-7f50-4531-872e-79f9dd241532">"Phrenological Character of Mrs. Elizabeth Cady Stanton"</archref>, </unittitle>
+						<physdesc>(Photocopy)</physdesc>
+						<unitdate type="inclusive">1853</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

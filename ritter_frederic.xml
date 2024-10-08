@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_ritter_frederic
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Frédéric Louis Ritter Papers, approximately 1840-1891</titleproper>
+				<author>Inventory prepared by Troy Bailey.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date> </date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari and Laura Streett, <date>2009</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Ritter, Frédéric Louis, 1834-1891</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Frédéric Louis Ritter Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1840-1891</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">5.5 cubic feet (19 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials relating to the life and work of the noted composer and Vassar College professor of music.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Frédéric Louis Ritter, composer and music professor, was born in Strasbourg on 22 June 1834. His family name was Caballero, and his surname was translated from the Spanish word for "gentleman" to the German word for "knight." Both evoke a similar chivalric ideal. Growing up in Alsace, Ritter was influenced by French and Germanic musical styles. He studied first with Hans M. Schletterer and [unknown] Hauser. Starting at the age of 16, he studied in Paris under the supervision of his cousin Georges Kastner. "Possessed with the idea that beyond the Rhine he would find better opportunities for the study of composition," Ritter ran away to modern-day Germany. This was usual for serious students of composition at that time. Ritter returned to Lorraine in 1852, and soon accepted a position as professor of music at the Protestant Seminary of Fénéstrange.</p>
+			<p>Some of Ritter’s relatives immigrated to the United States and persuaded him to follow in 1856. John Shepard notes that "when he came to the U.S., he transported a musical library which would have been notable for a collector at the end of his career; for a 23-year-old man it was nothing short of extraordinary." Ritter settled in Cincinnati, where he stayed for a few years. He founded the Cecilia and Philharmonic Societies while he was there. In 1862 he moved to New York City, where he directed the Sacred Harmonic and Arion Choral Societies and established what is considered to be the city’s first music festival in 1867 at Steinway Hall.[1] That same year, Ritter was made Professor of Music at Vassar College and assumed responsibilities as Director of the department in 1878. He supervised the installation of its first organ. Ritter died while in Antwerp on holiday 6 July 1891 at the age of 57.</p>
+			<p>Ritter received an honorary Doctor of Music from New York University in 1877, contrary to several sources that claim that the actual degree was conferred in 1878. Ritter was named examiner of Trinity College in Toronto in 1883. [2] Ritter wrote several books, including <emph render="italic"> Music in England</emph> and <emph render="italic"> Music in America</emph> , which became the standard works on their respective subjects for many years. <emph render="italic"> A History of Music</emph> was his most important work. Two volumes were published; a third was planned but never released. In 1882, Robert Challoner plagiarized Ritter’s work in his <emph render="italic"> Art &amp; Science of Music</emph> . The publisher later withdrew the book. He also contributed articles that appeared in English, German, and French periodicals and scholarly journals. He also kept up a healthy correspondence with musicians across the globe, including former colleagues in Cincinnati. Personal
+				recollections of Ritter depict a "singularly genial and cheerful" individual. According to one interviewer, "[his] words were spoken with a German accent just noticeable enough to be charming." </p>
+			<p>Ritter’s second wife, the English native Fanny Raymond, was "an able assistant of her husband in his labors as an author."[3] This obituary does her a disservice, diminishing her role as musician and scholar. Indeed, she was "the author of several works" and "an accomplished singer."[4] Ritter dedicated several songs to her, and she operated as collaborator and librettist for many of his vocal compositions. She translated, edited and annotated Robert Schumann’s <emph render="italic"> Music and Musicians</emph>, among other works. Raymond was also instrumental in organizing and performing in historical recitals at Vassar College, which featured music from as far back as the thirteenth century.[5]</p>
+			<p>[1] There is evidence that <emph render="italic">The First Musical Convention</emph> was actually held at the Broadway Tabernacle in New York City on 8-10 October 1845</p>
+			<p>[2] <emph render="italic">Encyclopedia of Music in Canada</emph> (2006), s.v. "University of Trinity College."</p>
+			<p>[3] <emph render="italic">Poughkeepsie News-Press</emph>, 27 Oct. 1890.</p>
+			<p>[4] <emph render="italic">Poughkeepsie Daily Eagle</emph>, 27 Oct. 1890.</p>
+			<p>[5] See Edward R. Reilly, <emph render="italic">The College Collection of Musical Instruments: A Brief Guide and Catalogue</emph>, p. 1. Transcriptions by Fanny Raymond of Byrd, Gibbon, Blow, Dufay and Ockeghem can be found in the collection. </p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>22 June 1834</date>
+					<event>Born in Strasbourg</event>
+				</chronitem>
+				<chronitem>
+					<date>1852</date>
+					<event>Appointed Professor of Music, Protestant Seminary of Fénéstrange, Lorraine, France</event>
+				</chronitem>
+				<chronitem>
+					<date>1856</date>
+					<event>Immigrated to the United States </event>
+				</chronitem>
+				<chronitem>
+					<date>1862</date>
+					<event>Moved to New York City</event>
+				</chronitem>
+				<chronitem>
+					<date>1867</date>
+					<event>Established New York City's first music festival at Steinway Hall</event>
+				</chronitem>
+				<chronitem>
+					<date>1867</date>
+					<event>Appointed Professor of Music, Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1878</date>
+					<event>Appointed Director of Music Department, Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>6 July 1891 </date>
+					<event>Died in Antwerp, Belgium</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Ritter papers contain a considerable collection of music manuscripts, mostly original copies of Ritter’s works in fair condition. There are also drafts present, as well as a few fragments. His music represents several genres, including the symphony, concerto, chamber and choral music, and German lieder. </p>
+			<p>All of Ritter’s major orchestral works are present, with the notable exception of Ritter’s first symphony. The orchestral score and parts for Ritter’s <emph render="italic">Festival Cantata</emph>, written for the Twenty-Fifth Anniversary of Vassar College, appear in the choral music category, since the cantata is a choral work even though the orchestral score does not include the voice parts. Most of the music scores appear to be autographs. The parts appear to be professionally produced by a copyist. One can assume that all of the original compositions are Ritter’s, even if they are not identified as such by his signature. For the purposes of this project, only scores identified with his name are included in the official register. The works attributed to Ritter are most likely his, and in most cases are easily classified with his other compositions by the handwriting. One important work attributed to Ritter is what appears to be an unfinished symphony. It does not have a
+				number, but it does comprise four movements and does not relate to any of his previous symphonies.</p>
+			<p>Ritter’s correspondence consists of hundreds of letters spanning the last four decades of his life. The letters are in English, German, and French. Of special note are two letters from his former teacher Schletterer. The bulk of the series concern business transaction, although there is one letter from one of Ritter’s nieces, thanking Mrs. Ritter for a dress. There is a letter addressed to Franz Liszt; there is no indication of whether or not the it was ever sent.</p>
+			<p>Other materials include programs, announcements, reports, newspaper clippings, and miscellaneous publications. Several musical groups are represented, including the Poughkeepsie Choral Union, the New York Philharmonic Society, and various Vassar College performing ensembles. Also included are materials relating to Ritters writing and lecturing, including notes, booklets, and bibliographies. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Ritter's library is currently housed at Tufts University, where it has the distinction of being "the single largest named special collection" at the institution. The library was a gift of Albert Metcalf. <extref href="http://www.library.tufts.edu/tisch/berger/Ritter/index.htm"> </extref>. The number of volumes is not known, but an incomplete catalogue can be found in the Vassar College Music Library.</p>
+			<p>Bliss, L.A. "Frédéric Louis Ritter". <emph render="italic">The Vassar Miscellany</emph> 21 no. 2 (Nov., 1891): pp. 82-89.</p>
+			<p>Howe, Granville L. "Dr. Frederic Louis Ritter", <emph render="italic">A Hundred Years of Music in America</emph>, ed. W.S.B. Matthews. Chicago: G. L. Howe, 1889. pp. 686-87.</p>
+			<p>Jenks, F.H. "Frederic Louis Ritter," in <emph render="italic">A Dictionary of Music and Musicians</emph>, ed. George Grove. Vol. 3. London: Macmillan: 1883. pp. 137-38.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Ritter, Fanny Raymond, 1840-1890 </persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Composers--United States--correspondence </subject>
+				<subject source="lcsh" encodinganalog="650">Music--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Symphony orchestras--United States</subject>
+				<subject source="lcsh" encodinganalog="650"> Musicians--Correspondence </subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Department of Music</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Scores (documents for music)</genreform>
+				<genreform source="aat" encodinganalog="655"> Sheet music</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Music </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari and Laura Streett, 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Troy Bailey, August 2006. </p>
+			<p>Updated by Laura Streett, 2009.</p>
+		</processinfo>
+		<custodhist encodinganalog="561">
+			<head>Custodial History</head>
+			<p>The bulk of the collection was discovered in the estate of one of Ritter’s aunts, possibly Louisa Drach, and auctioned.</p>
+		</custodhist>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Donated by the Cincinnati Historical Society, 10 Dec 1976.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Frédéric Louis Ritter Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is arranged in 6 series. The musical manuscript series is organized into subcategories by genre. The genres are ordered by their relative importance. Thus, Ritter’s orchestral compositions, which include his symphonies and comprise the bulk of his collection, come first. Within these subcategories, the compositions are arranged alphabetically. Parts are listed in concert order (woodwinds, brass and strings in descending range) following the full score. </p>
+			<p>The Cello Concerto and Symphony No. 2 belong to the first series, and are both present in another form (see Folder 2.20, for example).</p>
+			<p>Ritter's letters have been organized chronologically, since many of the signatures are undecipherable. The folder divisions were created prior to 2006. Ritter drafted replies on the backs of some letters to him; these have been removed and placed in a separate folder.</p>
+			<p>The portfolio case in Box 9 was the original enclosure for the notes in Box 9.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref>Biography </unittitle>
+					<physdesc>(Boxes 10, 14 and 19)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref>Correspondence </unittitle>
+					<physdesc>(Boxes 11-13)</physdesc>
+				</did>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> A. To Ritter </unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> B. From Others </unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> C. Between Others </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III. </ref> Musical Manuscripts </unittitle>
+					<physdesc>(Boxes 1-8, 18)</physdesc>
+				</did>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> A. Orchestral Music </unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> B. Chamber Music </unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> C. Choral Music</unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> D. Keyboard Music </unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> E. Songs </unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> F. Fragments/Untitled/Attributed to Ritter</unittitle>
+					</did>
+				</c02>
+				<c02 level="subfonds">
+					<did>
+						<unittitle> G. Works By Other Composers and Traditional Melodies </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref>Published Music </unittitle>
+					<physdesc>(Boxes 11 and 17)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref>Writings and Research Material </unittitle>
+					<physdesc>(Boxes 14 and 19)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref>Institutions, Clubs and Professional Organizations</unittitle>
+					<physdesc>(Box 14 and 19)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. Biography </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.1 </container>
+						<unittitle> Frederick Ritter — General</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.2 </container>
+						<unittitle> Frederick Ritter — Wallet given by Hamlet Bannerman to Louis Ritter</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.3 </container>
+						<unittitle> Frederick Ritter — Personal Notebook</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 14.4 - 14.5 </container>
+						<unittitle> Frederick Ritter — Miscellaneous Programs for Ritter Performances</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.6 </container>
+						<unittitle> Fanny Raymond Ritter — General </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 19.1 </container>
+						<unittitle> Fanny Ritter — Plan for her memorial monument </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.7 </container>
+						<unittitle> Marriage Certificate </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 14.8</container>
+						<unittitle> Photographs — Ritter (see also <archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-photograph-files-approximately-1865-2008">VC Photograph Files)</archref></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 14.8</container>
+						<unittitle> Photographs — Others</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 10 </container>
+						<unittitle> Scrapbook</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II. Correspondence </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> A. To Ritter</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folders 11.6 - 11.30 </container>
+							<unitdate> 1851-1875 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folders 12.1 - 12.13 </container>
+							<unitdate> 1876-1888 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folders 13.1 - 13.3 </container>
+							<unitdate> 1889-1891 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.4 </container>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.5</container>
+							<unittitle> undecipherable </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.6 </container>
+							<unittitle> fragments </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> B. From Ritter</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folders 13.7 - 13.17 </container>
+							<unitdate> 1867-1891 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.18 </container>
+							<unittitle> drafts </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> C. Between Others</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.19 </container>
+							<unittitle> Abbott, Ellen W. to Mrs. Ritter, </unittitle>
+							<unitdate> 1889 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.20</container>
+							<unittitle> Brothers to Ritter, </unittitle>
+							<unitdate> 1890 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.21 </container>
+							<unittitle> Dannreuther to Berger, </unittitle>
+							<unitdate> 1880 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.22 </container>
+							<unittitle> Elwell to Berger, </unittitle>
+							<unitdate> 1889 </unitdate>
+							<physdesc>(form letter)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.23 </container>
+							<unittitle> Foster, Morrison (brother of Stephen C.) to Caroline F Griffith (VC 1884), </unittitle>
+							<unitdate> 1883</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.24</container>
+							<unittitle> Mrs. Ritter to "Dear Sir" </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.25 </container>
+							<unittitle> Raymond, J.H. to Mrs. F.L. Ritter, </unittitle>
+							<unitdate> 1876-1877</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.26</container>
+							<unittitle> Taylor, J.M. to Mr. Gilder, </unittitle>
+							<unitdate> 1891</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.27</container>
+							<unittitle> White, Frederick Grant to Mr. Gilder, </unittitle>
+							<unitdate> 1884 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.28</container>
+							<unittitle> unknown to Berger, </unittitle>
+							<unitdate> 1861</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III. Musical Manuscripts </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> A. Orchestral Music</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Concert für das Violoncello mit Begleitung des Orchesters</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 18.1 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Concerto for the Pianoforte in B minor</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.1 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.2 </container>
+								<unittitle> Piano Solo </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.3 </container>
+								<unittitle> Piano Secondo </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.4 </container>
+								<unittitle> Flauto I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.5 </container>
+								<unittitle> Oboe I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.6 </container>
+								<unittitle> Clarinette I &amp; II in A </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.7 </container>
+								<unittitle> Fagotto I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.8 </container>
+								<unittitle> Corno I &amp; II in D </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.9 </container>
+								<unittitle> Clarini I &amp; II in D </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.10 </container>
+								<unittitle> Violino I </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.11 </container>
+								<unittitle> Violino II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.12 </container>
+								<unittitle> Viola </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.13 </container>
+								<unittitle> Violoncello </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.14 </container>
+								<unittitle> Basso </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">"Episode Ellègiaque" Fantasie pour Clarinette Basse avec Accompagnement d'Orchestre</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.15 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Introduction &amp; Scherzo for Orchestra</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 1.16 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Ouverture Dramatic for Orchestra, op. 18</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.17 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.18</container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.19 </container>
+								<unittitle> Piccolo </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.20</container>
+								<unittitle> Flauto </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.21 </container>
+								<unittitle> Oboe </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.22 </container>
+								<unittitle> Clarinetti in B flat </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.23 </container>
+								<unittitle> Fagotti </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.24 </container>
+								<unittitle> Corno I &amp; II in C </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.25</container>
+								<unittitle> Corno III &amp; IV in E flat </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.26 </container>
+								<unittitle> Trombe in C </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.27 </container>
+								<unittitle> Trombone I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.28 </container>
+								<unittitle> Trombone III </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.29 </container>
+								<unittitle> Timpani in C &amp; G </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.30 </container>
+								<unittitle> Violino I </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.31 </container>
+								<unittitle> Violino II </unittitle>
+								<physdesc>(2 parts)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.32 </container>
+								<unittitle> Viola </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.33 </container>
+								<unittitle> Cello </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 1.34 </container>
+								<unittitle> Basso </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bolditalic">Stella</emph>
+								<emph render="bold"> (Victor Hugo) Poëme Symphonique</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.1 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.2 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.3 </container>
+								<unittitle> Piccolo </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.4</container>
+								<unittitle> Flauto I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.5</container>
+								<unittitle> Oboe I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.6 </container>
+								<unittitle> Clarinett I &amp; II in B flat </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.7 </container>
+								<unittitle> Fagott I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.8</container>
+								<unittitle> Corno I &amp; II in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.9 </container>
+								<unittitle> Corno III &amp; IV in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.10 </container>
+								<unittitle> Clarini in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.11</container>
+								<unittitle> Trombone I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.12</container>
+								<unittitle> Trombone Basso </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.13 </container>
+								<unittitle> Tuba </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.14 </container>
+								<unittitle> Tympanie </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.15 </container>
+								<unittitle> Arpa </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.16 </container>
+								<unittitle> Violino I </unittitle>
+								<physdesc>(8 copies) </physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.17 </container>
+								<unittitle> Violino II </unittitle>
+								<physdesc>(8 copies) </physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.18 </container>
+								<unittitle> Viola </unittitle>
+								<physdesc>(5 copies) </physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.19 </container>
+								<unittitle> Cello </unittitle>
+								<physdesc>(5 copies) </physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.20</container>
+								<unittitle> Bass </unittitle>
+								<physdesc>(6 copies) </physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Symphonie no. 2 E moll für grosses Orchester (New York, Sept. 1868)</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 18.2 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Symphony no. 2 in E minor for Grand Orchestra</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.21 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Symphony no. 3 in one movement for Grand Orchestra</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 2.22</container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Symphony no. 4 in E Flat</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.1 </container>
+								<unittitle> Flauti I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.2 </container>
+								<unittitle> Oboe I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.3 </container>
+								<unittitle> Clarinetti I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.4 </container>
+								<unittitle> Fagotti I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.5 </container>
+								<unittitle> Corni I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.6 </container>
+								<unittitle> Corni III &amp; IV </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.7 </container>
+								<unittitle> Trombe I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.8 </container>
+								<unittitle> Trombone I, II &amp; III </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.9 </container>
+								<unittitle> Timpani </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.10 </container>
+								<unittitle> Violino I </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.11 </container>
+								<unittitle> Violino II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.12 </container>
+								<unittitle> Viola </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.13 </container>
+								<unittitle> Cello </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.14 </container>
+								<unittitle> Basso </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 3.15 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> B. Chamber Music</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">"Andantino" pour le Violoncello avec Accompagnement de Piano</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.1 </container>
+								<unittitle> Piano Score w/Solo </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Concerto pour le Violoncello</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.2 </container>
+								<unittitle> Piano Score w/Solo </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Quartet for Two Violins, Viola and Violoncello</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.3 </container>
+								<unittitle> Full Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.4 </container>
+								<unittitle> Full Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.5 </container>
+								<unittitle> Violine I </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.6 </container>
+								<unittitle> Violine II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.7 </container>
+								<unittitle> Viola </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.8 </container>
+								<unittitle> Cello </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Quintet for Two Violins, Two Violas and Violoncello</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.9 </container>
+								<unittitle> Full Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.10 </container>
+								<unittitle> Full Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.11 </container>
+								<unittitle> Violino I </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.12 </container>
+								<unittitle> Violino II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.13 </container>
+								<unittitle> Viola I </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.14 </container>
+								<unittitle> Viola II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.15 </container>
+								<unittitle> Violoncello </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Romanze und Allegro für Violin und Piano, op. 4</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.16</container>
+								<unittitle> Piano Score w/Solo </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Serenade for Flute, Horn, Two Violins, Viola, Violoncello and Double Bass</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.17 </container>
+								<unittitle> Full Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.18 </container>
+								<unittitle> Full Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.19</container>
+								<unittitle> Violino I </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.20 </container>
+								<unittitle> Violni II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.21</container>
+								<unittitle> Viola </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.22 </container>
+								<unittitle> Cello </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.23 </container>
+								<unittitle> Bass </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.24 </container>
+								<unittitle> Flauto </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.25 </container>
+								<unittitle> Corno in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 4.26 </container>
+								<unittitle> Partial Scores </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Three Movements from Serenade</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.1 </container>
+								<unittitle> Violino I (4) </unittitle>
+								<physdesc>(4 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.2 </container>
+								<unittitle> Violino II </unittitle>
+								<physdesc>(3 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.3 </container>
+								<unittitle> Viola </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.4 </container>
+								<unittitle> Cello </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.5 </container>
+								<unittitle> Basso </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Trio for Violin, Cello &amp; Pianoforte</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.6 </container>
+								<unittitle> Full Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.7 </container>
+								<unittitle> Piano </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.8 </container>
+								<unittitle> Violin </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.9 </container>
+								<unittitle> Cello </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> C. Choral Music</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">"Alfin mi sia Concesso" Scena ed Aria per Mezzo Soprano coll'accompagnemento d'Orchestra [New York, 18 October 1868]</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.10 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.11 </container>
+								<unittitle> Flauto I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.12 </container>
+								<unittitle> Oboe I &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.13 </container>
+								<unittitle> Clarinetto I &amp; II in B </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.14 </container>
+								<unittitle> Fagotto &amp; II </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.15 </container>
+								<unittitle> Corno I &amp; II in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.16 </container>
+								<unittitle> Trombe in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.17 </container>
+								<unittitle> Timpani </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.18 </container>
+								<unittitle> Violin0 I </unittitle>
+								<physdesc>(4 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.19 </container>
+								<unittitle> Violino II </unittitle>
+								<physdesc>(3 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.20 </container>
+								<unittitle> Viola </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.21 </container>
+								<unittitle> Violoncello et Basso </unittitle>
+								<physdesc>(4 copies)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bolditalic">Belshazzar</emph><emph render="bold"> (Barry Cornwall) A Dramatic Scene for Baritone Solo, Male Chorus, and Orchestra or Pianoforte, op. 20</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.22 </container>
+								<unittitle> Orchestral Score</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 5.23 </container>
+								<unittitle> Piano Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Festival Cantata (IX. Psalm), op. 25</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.24 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.25 </container>
+								<unittitle> Flute 1&amp;2 </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.26 </container>
+								<unittitle> Oboe 1&amp;2 </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.27 </container>
+								<unittitle> Clarinetto 1&amp;2 in B flat </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.28 </container>
+								<unittitle> Fagotto 1&amp;2 </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.29 </container>
+								<unittitle> Corno 1&amp;2 in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.30 </container>
+								<unittitle> Tromba 1&amp;2 in F </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.31 </container>
+								<unittitle> Timpani </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.32 </container>
+								<unittitle> Violino I</unittitle>
+								<physdesc>(3 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.33 </container>
+								<unittitle> Violino II </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.34 </container>
+								<unittitle> Viola </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.35 </container>
+								<unittitle> Cello </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 5.36 </container>
+								<unittitle> Basso </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">The Forty-Sixth Psalm for Mezzo Soprano Solo, Chorus and Orchestra</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.1 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.2 </container>
+								<unittitle> Piano Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.3</container>
+								<unittitle> Organ </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">The Fourth Psalm for Baritone Solo, Chorus and Orchestra, op. 17</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.4 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.5 </container>
+								<unittitle> Piano Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.6 </container>
+								<unittitle> Flauto 1&amp; 2 </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.7 </container>
+								<unittitle> Oboe 1 &amp; 2 </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.8 </container>
+								<unittitle> Clarinetto 1 &amp; 2 in A </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.9 </container>
+								<unittitle> Fagotto 1 &amp; 2 </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.10 </container>
+								<unittitle> Corni 1 &amp; 2 in E (2) </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.11 </container>
+								<unittitle> Corni 3 &amp; 4 in E </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.12 </container>
+								<unittitle> Trombi in D </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.13 </container>
+								<unittitle> Trombone 1, 2 &amp; 3 </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.14 </container>
+								<unittitle> Timpani </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.15 </container>
+								<unittitle> Violino 1 </unittitle>
+								<physdesc>(3 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.16 </container>
+								<unittitle> Violino 2 </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.17 </container>
+								<unittitle> Viola </unittitle>
+								<physdesc>(2 copies)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.18 </container>
+								<unittitle> Violoncello </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.19 </container>
+								<unittitle> Cello et Basso </unittitle>
+								<physdesc>(3 copies)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">The 95th Psalm for female voices with the accompaniment of the organ</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.20 </container>
+								<unittitle> Score </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bolditalic">Songs of the Flowers</emph><emph render="bold"> (Leigh Hunt) Cantata for Solo, Chorus and Orchestra, op. 25</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.21 </container>
+								<unittitle> Orchestral Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.22 </container>
+								<unittitle> Pianoforte Score </unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container> Folder 6.23 </container>
+								<unittitle> Pianoforte Score and Lyrics</unittitle>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> D. Keyboard Music</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.1 </container>
+							<unittitle> Dirge for Two Veterans (Walt Whitman) </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.2 </container>
+							<unittitle>4 Präeludien für Orgel,</unittitle>
+							<unitdate>1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.3 </container>
+							<unittitle> Grand Sonata </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.4 </container>
+							<unittitle> Ouverture zu Othello </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.5 </container>
+							<unittitle> Vier Stücke für des Pianoforte</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> E. Songs</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.6 </container>
+							<unittitle> Abendlied </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.7 </container>
+							<unittitle> Ave Maria </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.8 </container>
+							<unittitle> Four Part Songs for Male Voices (Barry Cornwall) </unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<unittitle>— Song for Twilight </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— A Dreamer's Song </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— A Bacchanalian Song </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— The Vintage Song </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.9</container>
+							<unittitle> Fünf Lieder für eine Stingstimme mit Begleitung des Pianoforte, op. 24</unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<unittitle>— Frieden (Rosa Maria Assing)</unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— Nachtgruss (Franz Kugler)</unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— Zwei Rosen</unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— In der Sternennacht (Theodor Klein)</unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— Im stillen Nacht (Heinrich Weiser)</unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.10 </container>
+							<unittitle> Fünf Lieder für Männerchor, op. 19 </unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<unittitle>— Um Mitternacht (E. Mörike) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— Seerose (H. Lingg)</unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— Zurguten Nacht (C. Oswald)</unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— Barcarole (C. Oswald)</unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle>— Nachtgruss (J.v. Rodenberg)</unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.11 </container>
+							<unittitle> Hymn to Diana </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.12 </container>
+							<unittitle> Indian Serenade "I arise from dreams of thee" (P. B. Shelley) </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.13 </container>
+							<unittitle> Lieder </unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<unittitle> — My song is like the evening air (Hoffmann von Fallersleben) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — The Water Lily (Hoffmann von Fallersleben) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — The Maiden’s Song (Ludwig Pfau) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Silence </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — The warrior’s death </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Oh, mountain! from thy summit (Ludwig Pfau) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Fairy-Love, op. 2 (A. Grün) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Six Songs, op. 3 (Fanny Malone Ritter) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Der Liebe Frühling/The Spring of Love (Hoffmann von Fallersleben) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Im Kahn/In the boat </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Bitte/Supplication (Lenau) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Nachtblumen/Night Flowers (L. Pfau) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Liebe/Love (H. Rollet) </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.14 </container>
+							<unittitle> Lieder für die Jugend</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.15 </container>
+							<unittitle> Phrygier-Gesang</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.16 </container>
+							<unittitle> Three Choruses for Male Voices </unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<unittitle> — Hearing Music (Leigh Hunt) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — The Nun (Leigh Hunt) </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Ballad (Thomas Hood) </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.17 </container>
+							<unittitle> [Two songs]</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.18 </container>
+							<unittitle> Zwölf Deutsche Volkslieder für enie Singstimmen mit Belgeitung des Pianoforte </unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<unittitle> — Lieben bringt Freud </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Herzengruss </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Liebesschmerz </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Im Walde </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Liebesgruss </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Scheiden </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Was ich möchte </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Die Graf und die Sonne </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Die höfliche Jäger </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Der treue Knabe </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Häsleins Klage </unittitle>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unittitle> — Liebes klage und Abshied </unittitle>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> F. Fragments/Untitled/Attributed to Ritter</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.19 </container>
+							<unittitle> Miscellaneous works by Ritter</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.20</container>
+							<unittitle> Untitled works by Ritter</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.21</container>
+							<unittitle> Miscellaneous works attributed to Ritter</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.1 </container>
+							<unittitle> Sonate</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.2 </container>
+							<unittitle> Streichquartett C-dur — Full Score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.3 </container>
+							<unittitle> Streichquartett D-moll — Full Score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.4 </container>
+							<unittitle> Trio [for Violin, Violoncello and Piano] — Piano Score w/ Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.5 </container>
+							<unittitle> Trio [for Violin, Violoncello and Piano] — Violino</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.6 </container>
+							<unittitle> Trio [for Violin, Violoncello and Piano] — Violoncello</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.7 </container>
+							<unittitle> Unfinished Symphony</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.8 </container>
+							<unittitle> Fragments</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 13.28</container>
+							<unittitle> Counterpoint notebook</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> G. Works By Other Composers and Traditional Melodies </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.9 </container>
+							<unittitle> Works by other composers — Fanny Ritter translations </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.10 </container>
+							<unittitle> Works by other composers (unknown) </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.11 </container>
+							<unittitle> La Rachelina - Paisicllo </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.11 </container>
+							<unittitle> La Danse - Gritry </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.12 </container>
+							<unittitle> Early Music </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.13 </container>
+							<unittitle> Traditional </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.14 </container>
+							<unittitle> Works by others (unknown) </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.15 </container>
+							<unittitle> Miscellaneous parts </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.16 </container>
+							<unittitle> Miscellaneous manuscripts </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.17 </container>
+							<unittitle> Harmony workbook </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 8.18 </container>
+							<unittitle> Miscellaneous fragments </unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Series IV. Published Music </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.1 </container>
+						<unittitle> Drei Stücke für Pianoforte und Violoncelle von Arthur Foote [Boston: Arthur P. Schmidt, 1882] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.2 </container>
+						<unittitle> Four Songs – Vier Lieder [Milwaukee: Wm. Rohlfing &amp; Co., 1888] </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — The Spring of Love/Der Liebe Frühling (Hoffman v. Fallersleben) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — At thy dear feet oh let me lie/Zu deinen Füssen will ich ruhen (Otto Roquette) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Nightflowers/Nachtblumen (L. Pfau) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Hafiz/Hafiz (Daumer) </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.3 </container>
+						<unittitle> "God be merciful" 67th Psalm for Sop. Solo and Chorus for Female voices, op. 8 [New York: G. Schirmer, 1872] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.4 </container>
+						<unittitle> Les Fleurs, Trios morceaux mélodieux et faciles Pourle Piano [Cincinnati: David A. Traux, 1853] </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — La Tulipe (2) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — La Rose </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — La Danse des Fleurs (2) </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.5 </container>
+						<unittitle> Services for the Episcopal Church by J. Mosenthal [New York: William A. Pond, 1866] </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — Venite </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Te Deum </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Glorias </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Bonum est </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.6 </container>
+						<unittitle> Study and Recreation, 6 Morceaux Caracteristiques for Two Performers on the Piano </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — Andante (2) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Marcia </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.7 </container>
+						<unittitle> Summer Evening [Cincinnati: F.W. Rauch, 1858] (2) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.8 </container>
+						<unittitle> 10 Irish Melodies [New York: Edward Schuberth &amp; Co., 1875] </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — While gazing on the moon’s light </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — The Shamrock </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — The Minstrel Boy </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.9 </container>
+						<unittitle> Trio and Choruses for female voices </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — "To Earth May Winds are bringing" <emph render="italic"> Pilgrimage of the Rose</emph> ®. Schumann, op. 112) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — The Spanish Tambourine-Girl (Schumann, op. 69) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — "Morn’s Gates again unclose" (M. Hauptmann) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — "Sprites of Air" <emph render="italic"> Oberon</emph> C. M. von Weber) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — "Calm is the glassy" <emph render="italic"> Idomenco</emph> (W. A. Mozart) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Nightfall and Darkness (L. Giorigiani) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — The Tempest (Fabio Campana) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — "Low bending before you" <emph render="italic"> Matrimonio Segreto </emph> (D. Cimarosa) </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — The Stars (J. E. Leonhard) </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.10 </container>
+						<unittitle> 2 Sacred Songs [New York: Martens Brothers, 1872] </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — O Salutaris (2) </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.11 </container>
+						<unittitle> With Doubt and Trembling I Whisper’d in Her Ear (T.B. Aldrich) [Cincinnati: F.W. Rauch, 1859] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17.12 </container>
+						<unittitle> Zehn Kinder-Lieder für eine Singstimme mit Begleitung des Pianoforte, op. 3 [Leipzig/New York: J. Schuberth &amp; Co., 1867] II Heft </unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<unittitle> — Wiegenlied/Cradle Song </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Vöglein und Englein/Birds and Angels </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Die drei Blümchen/The three Flowers </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Abendgebet/Evening prayer </unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle> — Gute Nacht/Good Night </unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.1 </container>
+						<unittitle> Festival Cantata (IX Psalm.) for Solo voices, Chorus and Orchestra composed for the Celebration of the twenty fifth anniversary of Vassar College, op. 25 [New York: Edward Schuberth &amp; Co.] (5) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.2 </container>
+						<unittitle> Fünf Lieder für Männerchor, op. 19. Leipzig: Fr. Kistner/New York: Edward Schuberth &amp; Co., </unittitle>
+						<unitdate>1890</unitdate>
+						<physdesc>(2 copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.3 </container>
+						<unittitle> Gesang deutscher Auswanderer, für Männerchor [Cincinatti: Wm. Berger, 1855] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.4 </container>
+						<unittitle> The Rose of Jesse’s Race by M. Praetorius [Poughkeepsie, N.Y.: Chas. H. Hickok, 1882] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.5 </container>
+						<unittitle> Miscellaneous Published Music </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> Series V. Writings and Research Material </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.9</container>
+						<unittitle> Reviews of Ritter's Work</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.10</container>
+						<unittitle> Advertisements for Ritter's Work</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.11</container>
+						<unittitle> Lecture Announcements</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.1</container>
+						<unittitle> Lecture Announcement</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.12</container>
+						<unittitle> "The History of the Hymntune" — Lecture and Notes </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.2</container>
+						<unittitle>
+							<emph render="italic">A History of Music</emph> — Galley Proof</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.13</container>
+						<unittitle>
+							<emph render="italic">A History of Music</emph> [?] — "Ancient Greek Scales" notebook</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.14</container>
+						<unittitle>
+							<emph render="italic">A History of Music</emph> [?] — Notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 14.15 - 14.17</container>
+						<unittitle>
+							<emph render="italic">Music in America</emph> — Notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 14.18 - 14.19</container>
+						<unittitle> Miscellaneous Notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 9.3-9.9</container>
+						<unittitle> Miscellaneous Notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 9.10</container>
+						<unittitle> Portfolio case for notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.20 </container>
+						<unittitle> Clippings — Relating to Ritter </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.21 </container>
+						<unittitle> Clippings — Richard Grant White articles </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.22 </container>
+						<unittitle> Clippings — German </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 19.2 </container>
+						<unittitle> Clippings — German </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 14.23</container>
+						<unittitle> Clippings — Miscellaneous </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 19.3-19.5 </container>
+						<unittitle> Clippings — Miscellaneous </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.24</container>
+						<unittitle> Bibliographies </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Boxes 15-16 </container>
+						<unittitle> Card File Bibliography </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.25</container>
+						<unittitle> Article on Colonel George Ward Nichols [by Ritter?] </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> Series VI. Institutions, Clubs and Professional Organizations</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folders 14.25 - 14.28 </container>
+						<unittitle> Brighton Beach Music Hall, New York,</unittitle>
+						<unitdate> June-Aug 1889 </unitdate>
+						<physdesc>(12 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 19.1 </container>
+						<unittitle> [Central Park Garden?]— "Plan of Galleries and Promenade for Proposed Thomas Concert Garden and Hall </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.29 </container>
+						<unittitle> Chickering Hall, </unittitle>
+						<unitdate> 1879-1890, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.30 </container>
+						<unittitle> Church of the Holy Trinity, New York </unittitle>
+						<unitdate> 1869-1871 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.31 </container>
+						<unittitle> Church Music Association, </unittitle>
+						<unitdate> 1869-1871 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.32</container>
+						<unittitle> Music Teachers National Association </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.33 </container>
+						<unittitle> New Orleans Philharmonic Society </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.34</container>
+						<unittitle> [New York City] Beethoven Jubilee,</unittitle>
+						<unitdate>1870</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.35 </container>
+						<unittitle> [New York City] May Festival, </unittitle>
+						<unitdate> 1882 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 14.36 - 14.37</container>
+						<unittitle> New York Philharmonic Society — Annual Reports, </unittitle>
+						<unitdate> 1844-1884</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 14.38 - 14.42 </container>
+						<unittitle> New York Philharmonic Society — Programs, </unittitle>
+						<unitdate> 1842-1891, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.43 </container>
+						<unittitle> New York Philharmonic Society — Miscellaneous, </unittitle>
+						<unitdate> 1873-1880</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.44 </container>
+						<unittitle> Philharmonic Society of Brooklyn </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.45 </container>
+						<unittitle> Poughkeepsie Vocal Union — Programs, </unittitle>
+						<unitdate> 1881-1885 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.46 </container>
+						<unittitle> Poughkeepsie Vocal Union — Clippings, </unittitle>
+						<unitdate> 1881-1885 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.47 </container>
+						<unittitle> Steinway Hall, NY </unittitle>
+						<unitdate> 1869-1871 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.48 </container>
+						<unittitle> United States Bureau of Education — Music in Public Schools, </unittitle>
+						<unitdate> 1886 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.49 </container>
+						<unittitle> University of Trinity College — Exams </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.50 </container>
+						<unittitle> Vassar College — F. L. Ritter Lecture Programs and Announcements, </unittitle>
+						<unitdate>1880-1890, n.d.</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.51 </container>
+						<unittitle> Vassar College — Cecilia Society, </unittitle>
+						<unitdate>1870-1871, 1874</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.52 </container>
+						<unittitle> Vassar College — Soirée Musical, </unittitle>
+						<unitdate> 1868-1891 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.53</container>
+						<unittitle> Vassar College — School of Art announcements </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.54 </container>
+						<unittitle> Vassar College — Music orders </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.55 </container>
+						<unittitle> Vassar College — Miscellaneous Programs, </unittitle>
+						<unitdate> 1869-1891 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.56 </container>
+						<unittitle> Miscellaneous Programs </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.57 </container>
+						<unittitle> Miscellaneous Advertisements </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.58 </container>
+						<unittitle> Miscellaneous Printed Materials</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

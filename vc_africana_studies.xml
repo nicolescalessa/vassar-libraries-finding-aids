@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_vc_africana_studies
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Africana Studies Records, 1969-2004</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>October 2019</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>November 2019 </date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">Vassar College. Africana Studies Program. </origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Africana Studies Records </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1969-2004 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 11 cubic feet (11 boxes) </physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Collection comprises mainly correspondence and subject files relating to the foundation and early development of the Africana Studies program.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History </head>
+			<p>With recommendations and urging from the Students’ Afro-American Society (SAS), a multidisciplinary program in Black Studies was approved in February, 1969. The Urban Black Studies Center was also established and opened off-campus that year to provided educational opportunities for Poughkeepsie residents. Both initiatives were considered experimental and not assured of permanent funding. </p>
+			<p/>
+			<p> In 1975, the program was renamed as the Africana Studies Program. The Urban Center was closed in 1981, its funding shifted toward an endowment for Third World Studies.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p> The collection comprises mainly correspondence and subject files relating to the foundation and early development of the Africana Studies program. Of particular note are the faculty meeting minutes and program chair's files. In addition to the standard records, there are two photograph albums and additional envelopes of photo prints from the 1971 study trip to Africa. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>There are three boxes of material that is restricted for reasons of personnel privacy as well as FERPA. The rest of the collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> .</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Vassar College 1969 Black Studies Sit-in Records.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> African American students </subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> African Americans--Study and teaching (Higher)--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Africa--Study and teaching</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Academic Departments and Programs </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, November 2019. </p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, October 2019. </p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Materials were transferred in two accessions. The date of the first accession is unknown. 6 boxes were transferred in 2013.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p> Vassar College Africana Studies Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle> General program files </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Annual reports (incomplete set), </unittitle>
+						<unitdate> 1977-2004 </unitdate>
+						<physdesc> (7 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Program reviews and reports, </unittitle>
+						<unitdate> 1975, 1978, 1988 </unitdate>
+						<physdesc> (8 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty Committee on Black Studies, </unittitle>
+						<unitdate> 1974-1975 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Trustee Committee on Minority Affairs, </unittitle>
+						<unitdate> 1985-1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty correspondence, </unittitle>
+						<unitdate> 1990-1992 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty evaluation by students, </unittitle>
+						<unitdate> 1978 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty forums, </unittitle>
+						<unitdate> 1980-1981, 1985-1988 </unitdate>
+						<physdesc> (5 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty handbook, </unittitle>
+						<unitdate> 1985-1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty meetings (incomplete set), </unittitle>
+						<unitdate> 1973-2003 </unitdate>
+						<physdesc> (15 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty memos, </unittitle>
+						<unitdate> 1977-1978 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty recruitment, </unittitle>
+						<unitdate> 1974-1987 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Faculty retreats, </unittitle>
+						<unitdate> 1980-1992 </unitdate>
+						<physdesc> (4 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Program chairs' files, </unittitle>
+						<unitdate> 1974-1982 </unitdate>
+						<physdesc> (9 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Program chairs' files, </unittitle>
+						<unitdate> 1985-1992 </unitdate>
+						<physdesc> (16 folders) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Subject Files </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> AAAVC </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Admissions, </unittitle>
+						<unitdate> 1974-1978, 1986 </unitdate>
+						<physdesc> (5 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Advisor to Minority Students </unittitle>
+						<unitdate> 1988-1990 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Advisors (pre-major), </unittitle>
+						<unitdate> 1985-1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Affirmative action, </unittitle>
+						<unitdate> 1976-1986 </unitdate>
+						<physdesc> (4 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Africana Studies Committee on Cultural Affairs and Student Forum, </unittitle>
+						<unitdate> 1978 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Africana Studies handbook, </unittitle>
+						<unitdate> 1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Africana Studies majors, </unittitle>
+						<unitdate> 1974-1988, 2003-2004 </unitdate>
+						<physdesc> (5 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Africana Studies Majors Committee, </unittitle>
+						<unitdate> 1985-1990, undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> American Culture Program </unittitle>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Arabic Studies, </unittitle>
+						<unitdate> 1987 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Area Studies, </unittitle>
+						<unitdate> 1987-1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Audiovisual resources, </unittitle>
+						<unitdate> 1977-1987 </unitdate>
+						<physdesc> (4 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Black college exchange, </unittitle>
+						<unitdate> 1975 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Black conferences, </unittitle>
+						<unitdate> 1974-1975 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Black drama workshop, </unittitle>
+						<unitdate> 1980 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Black faculty caucus, </unittitle>
+						<unitdate> 1980-1981, 1988-1990, 1998 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Board of Trustees - Salary freeze, </unittitle>
+						<unitdate> 1976 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Bracketing courses </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> Budget files, </unittitle>
+						<unitdate> 1977-1983 </unitdate>
+						<physdesc> (10 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Budget files, </unittitle>
+						<unitdate> 1985-2004 </unitdate>
+						<physdesc> (19 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Bulletin board </unittitle>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Career Development, </unittitle>
+						<unitdate> 1987-1989 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Catalog copy (Registrar), </unittitle>
+						<unitdate> 1974-1989 </unitdate>
+						<physdesc> (10 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> Catalog retrospective, </unittitle>
+						<unitdate> 2002 </unitdate>
+						<physdesc> (2 binders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Coalition of Concerned Students and Faculty, </unittitle>
+						<unitdate> 1990-01-26 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> College Course </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Committee on Curricular Policies (CCP), </unittitle>
+						<unitdate> 1974-2004 </unitdate>
+						<physdesc> (12 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Committee on the Education of Minority Students Report,</unittitle>
+						<unitdate>1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Community Leaders Directory, </unittitle>
+						<unitdate> 1987 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Conferences </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Copyright, </unittitle>
+						<unitdate> 1978, 1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Correlate sequence, </unittitle>
+						<unitdate> 1986-1987 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Course listings and schedules, </unittitle>
+						<unitdate> 1974-2004 </unitdate>
+						<physdesc> (4 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Dean of the College, </unittitle>
+						<unitdate> 1985-1990 </unitdate>
+						<physdesc> (4 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Dean of Freshman - Pat Kaurouma, </unittitle>
+						<unitdate> 1977-1978 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Dean of Student Life, </unittitle>
+						<unitdate> 1989-1990 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Dean of Studies, </unittitle>
+						<unitdate> 1988-1990 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Development Office </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Eduational Services and Student Relations (Office of), </unittitle>
+						<unitdate> 1975 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Exploring Transfer Program, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty Appointments and Salary Committee, </unittitle>
+						<unitdate> 1978-1979 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty bulletin board information, </unittitle>
+						<unitdate> 1987-1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty-Freshman Dialogue, </unittitle>
+						<unitdate> 1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty leaves and replacements </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty meetings (general college) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty review process </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty staffing plans, </unittitle>
+						<unitdate> 2000-2004 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty teaching schedules, </unittitle>
+						<unitdate> 1981-1991 </unitdate>
+						<physdesc> (5 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty tenure, reappointment and promotion, </unittitle>
+						<unitdate> 1975, 1978 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty travel, </unittitle>
+						<unitdate> 1974-1989 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Bickerstaff, Joyce </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Cottingham, Clement, </unittitle>
+						<unitdate> 1978-1979 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Hill, Anthony </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Hodges, Norman </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Lynch, Hollis </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Mamiya, Lawrence </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Nkondo, Moses </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Faculty -- Paul-Emile, Barbara </unittitle>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Fellowships, </unittitle>
+						<unitdate> 1975-1990 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Field trips, </unittitle>
+						<unitdate> 1982-2003 </unitdate>
+						<physdesc> (5 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Field work, </unittitle>
+						<unitdate> 1977-1989 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Final examinations </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Ford Foundation support material </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> Ford Scholar program, </unittitle>
+						<unitdate> circa 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Forms -- miscellaneous </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Freshman advisees, </unittitle>
+						<unitdate> 1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Freshman courses </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Freshman seminar </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Gay Lesbian Bisexual Task Force report, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Gospel choir </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Grants and fellowships </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Green Haven Prison, </unittitle>
+						<unitdate> 1982-1983, undated </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Harassment Committee </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> History Department, </unittitle>
+						<unitdate> 1975-1981 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Independent major </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> Interdepartmental correspondence, </unittitle>
+						<unitdate> 1977-1979 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> International Studies </unittitle>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Kendrick House matter, </unittitle>
+						<unitdate> 1975-1975 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Latin American Studies </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Library, </unittitle>
+						<unitdate> 1973-1990 </unitdate>
+						<physdesc> (17 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Magazine articles and books, </unittitle>
+						<unitdate> circa 1974-1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Mellon grant </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Middles States report, </unittitle>
+						<unitdate> 1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Minorities in Higher Education </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Minority Freshman Orientation, </unittitle>
+						<unitdate> 1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Multidiisciplinary Program </unittitle>
+						<physdesc> (6 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> National Congress of Black Faculty </unittitle>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> National Council of Black Studies </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> National Endowment for the Humanities </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> New England Afro-American Studies Directors </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> New England (building), </unittitle>
+						<unitdate> 1974-1987 </unitdate>
+						<physdesc> (4 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> New York State American-Black Studies Resource Survey, </unittitle>
+						<unitdate> circa 1985-1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> President </unittitle>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> President and Trustee Committee on Minority Affairs </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Publicity </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Schomburg Center for Research in Black Culture </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Secretary </unittitle>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Senior theses, </unittitle>
+						<unitdate> 1990, undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Sloan proposal, </unittitle>
+						<unitdate> 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Student employment and financial aid, </unittitle>
+						<unitdate> 1977-1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Student forum, </unittitle>
+						<unitdate> 1978 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Student honors and prizes, </unittitle>
+						<unitdate> 1978-1988, 2004 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Student organizations </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Student organizations -- Black Student Union, </unittitle>
+						<unitdate> 1989-1990 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Student organizations -- Students' Afro-American Society, </unittitle>
+						<unitdate> 1977-1988 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Study abroad, </unittitle>
+						<unitdate> 1974-1991 </unitdate>
+						<physdesc> (7 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> Study trip in Africa -- photographs, </unittitle>
+						<unitdate> 1971 </unitdate>
+						<physdesc> (2 albums and 2 packets) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Syllabi, </unittitle>
+						<unitdate> 1981-1982, 1985-1986, 1997 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> Syllabi, </unittitle>
+						<unitdate> 1975-1977 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Third World Festival, </unittitle>
+						<unitdate> 1981-1993 </unitdate>
+						<physdesc> (29 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Third World Studies </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Urban Center, </unittitle>
+						<unitdate> 1974-1981 </unitdate>
+						<physdesc> (6 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Urban Studies, </unittitle>
+						<unitdate> 1980-1986 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Vacancies, </unittitle>
+						<unitdate> 1985-1988 </unitdate>
+						<physdesc> (3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Venture Consortium, </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Women and the third world, </unittitle>
+						<unitdate> 1988-1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Women's Helath Initiative, </unittitle>
+						<unitdate> 1987-1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Women's Studies, </unittitle>
+						<unitdate> 1985-1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Work and Gender seminar, </unittitle>
+						<unitdate> 1987-1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Zap Productions, </unittitle>
+						<unitdate> 1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Zimand Fund, </unittitle>
+						<unitdate> 1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Zimand Fund desegregation symposium, </unittitle>
+						<unitdate> 1981</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Lectures and Events</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> General files, </unittitle>
+						<unitdate> 1975-2004 </unitdate>
+						<physdesc> (17 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Films, </unittitle>
+						<unitdate> 1977-1987 </unitdate>
+						<physdesc> (4 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> Walter Rodney -- photographs, </unittitle>
+						<unitdate> circa 1975 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Vinnie Burrows, </unittitle>
+						<unitdate> 12 April 1978 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Ivan Van Sertima, </unittitle>
+						<unitdate> 16 February 1978 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Michael Witter, </unittitle>
+						<unitdate> 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Micere Mugo, </unittitle>
+						<unitdate> 1982 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Ronald Bailey, </unittitle>
+						<unitdate> 17 February 1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> John Callahan, </unittitle>
+						<unitdate> 1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Black Jewish Relations panel, </unittitle>
+						<unitdate> 25 February 1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Ebony Theatre Ensemble, </unittitle>
+						<unitdate> October 1987 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Martin Luther King, Jr. celebration, </unittitle>
+						<unitdate> 1987 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> June Jackson Christmas, </unittitle>
+						<unitdate> April 1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Leonard Jeffries, Jr., </unittitle>
+						<unitdate> 1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Calvin Butts, </unittitle>
+						<unitdate> 1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> 20th Anniversary, </unittitle>
+						<unitdate> 1987-1989 </unitdate>
+						<physdesc> (7 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Sylvia Boone, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Donald Bogle, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Muddathir Abdel Rahim, </unittitle>
+						<unitdate> 19 April 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> President's Colloquium, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Leslie Collins, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Howard Dodson, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Eric Foner, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> David L. Lewis, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Art Exhibition, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Martin Luther King, Jr. celebration, </unittitle>
+						<unitdate> 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Symposium: Africana Studies in the Academy, </unittitle>
+						<unitdate> April 1989 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Martin Luther King, Jr. celebration, </unittitle>
+						<unitdate> 1989-1990 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> ASE Drumming Circle, </unittitle>
+						<unitdate> circa 1990-1999 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Sudan Studies Association, </unittitle>
+						<unitdate> April 1992 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Rex Nettleford, </unittitle>
+						<unitdate> 1992 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> 25th Anniversary, </unittitle>
+						<unitdate> 1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Andrew Hacker, </unittitle>
+						<unitdate> February 1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Margaret Walker, </unittitle>
+						<unitdate> 1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Newark Boys Choir, </unittitle>
+						<unitdate> 1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Louis Wilson, </unittitle>
+						<unitdate> 1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Amistad event, </unittitle>
+						<unitdate> 1996 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Michelle Wallace, </unittitle>
+						<unitdate> 1997 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Proposed lecture series, </unittitle>
+						<unitdate> 1997 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Hal Weaver, </unittitle>
+						<unitdate> 1998 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> A.J. Williams-Myers, </unittitle>
+						<unitdate> 1998 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Retirement party for Norman Hodges, </unittitle>
+						<unitdate> 1998 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Black History Month, </unittitle>
+						<unitdate> 1999 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> New York City Labor Chorus, </unittitle>
+						<unitdate> 6 February 1999 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Paul Gilroy, </unittitle>
+						<unitdate> 2001 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Alice Randall, </unittitle>
+						<unitdate> 2001 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Taj Mahal, </unittitle>
+						<unitdate> 2002 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Sudanic-Maghaaribi Studies Unit, </unittitle>
+						<unitdate> 2002 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Michelle Cliff, </unittitle>
+						<unitdate> 2002 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Sonia Sanchez, </unittitle>
+						<unitdate> 2003 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Mohamed Ezroura, </unittitle>
+						<unitdate> 2004 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Jazz festival, </unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> RESTRICTED</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unittitle> Student-related files </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unittitle> Faculty files </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Boxes 10 and 11</container>
+						<unittitle> Candidate files (to be weeded) </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

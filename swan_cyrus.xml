@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_swan_cyrus </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Cyrus Swan Papers, approximately 1842-1898</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar
+					College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY,
+						12604-0020</addressline>
+				</address>
+				<date>March 2022</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl <date>March 2022</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Swan, Cyrus</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Cyrus Swan Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately
+				1842-1898</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 7 ms boxes; 1 flat box (0.76 cubic
+				feet)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College
+					Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence, diaries, account
+				books, and other materials relating to the life and career of Cyrus Swan.
+			</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Cyrus Swan was born in 1820 and attended Yale College. After establishing a law
+				practice in Poughkeepsie, New York, he became a close friend, advisor, and business
+				agent of local brewer Matthew Vassar, the founder of Vassar College. In 1845 Swan
+				accompanied Vassar on his homecoming voyage to Europe, and in 1855 he married Fanny
+				Walker Swan, with whom he had two daughters, Frances Walker and Harriet Rachel. Swan
+				served as Secretary of the Board of Trustees of Vassar College from 1861 to 1870 and
+				remained a trustee until his death in 1900. He also served the college as a member
+				of Committee on the Art Gallery and the Committee on the Library.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection includes personal and professional correspondence, diaries, account
+				books, and other materials relating to the life and career of Cyrus Swan both before
+				and during his time as a trustee of Vassar College. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library.
+				</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<archref
+					href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-matthew-vassar-papers-1797-1890"
+					>Matthew Vassar Papers</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Vassar, Matthew, 1792-1868</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Art gallery</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Trustees</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Lawyers--New York
+					(State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Poughkeespie (N.Y.)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690">Local history</subject>
+				<subject source="local" encodinganalog="697">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, March 2022.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Folder list by Emma Iadanza, October 2021.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Materials gathered or purchased from various sources. See collection folder for more
+				information.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Cyrus Swan Papers, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
+		</prefercite>
+		<arrangement>
+			<head>Arrangement</head>
+			<p>This collection is unprocessed. The container list below groups the materials
+				according to their source. Folders 1.1-2.3 represent an artificial collection
+				created by the Vassar College Library. Folders 3.1-3.2 and 4.1 contain materials
+				transfered from the Main Building of Vassar College. Folders 5.1-8.13 contain
+				materials purchased from various dealers. See collection folder for details.</p>
+		</arrangement>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.1</container>
+					<unittitle>Diary by Cyrus Swan (?),</unittitle>
+					<unitdate type="inclusive">1845</unitdate>
+				</did>
+				<scopecontent>
+					<p>(London, Italy, France)</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.2</container>
+					<unittitle>Cyrus Swan, Catalogue of the Miscellaneous Library of,</unittitle>
+					<unitdate type="inclusive">1855</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.3</container>
+					<unittitle>Cyrus Swan, 18 page manuscript with clippings inserted
+						(notebook)</unittitle>
+					<unitdate type="inclusive">1881?</unitdate>
+				</did>
+				<scopecontent>
+					<p>("Read before Armor Lodge, Knights of Pythias, Jan 11, 1881")</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.4</container>
+					<unittitle>Cyrus Swan, Trustee, for Chandler Holbrook and Co., receipt
+						book,</unittitle>
+					<unitdate type="inclusive">1856-1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.5</container>
+					<unittitle>Cyrus Swan, Memorandum Book (Steward’s Department),</unittitle>
+					<unitdate type="inclusive">approximately 1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.6</container>
+					<unittitle>Cyrus Swan, Memorandum Books (Steward’s Department),</unittitle>
+					<unitdate type="inclusive">1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.7</container>
+					<unittitle>Cyrus Swan, Memorandum Book (Steward’s Department),</unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.8</container>
+					<unittitle>Cyrus Swan, Memorandum Book (Steward’s Department) Rules of
+						Operation,</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.9</container>
+					<unittitle>Maria Mitchell to Ms. Swan (?),</unittitle>
+					<unitdate type="inclusive">1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.10</container>
+					<unittitle>Newspaper clipping with ink drawing of Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.11</container>
+					<unittitle>Invitation and ticket for Inauguration of New Building at the
+						Metropolitan Museum of Art,</unittitle>
+					<unitdate type="inclusive">1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.12</container>
+					<unittitle>Cyrus Swan, Chancery Court License,</unittitle>
+					<unitdate type="inclusive">2 November 1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.13</container>
+					<unittitle>Internal Revenue License issued to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">11 May 1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.14</container>
+					<unittitle>Cyrus Swan, Supreme Court License,</unittitle>
+					<unitdate type="inclusive">27 October 1842</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.15</container>
+					<unittitle>Correspondence to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">2 January 1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.16</container>
+					<unittitle>Correspondence, C. Oatman Osborne to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">7 March 1881</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.17</container>
+					<unittitle>Correspondence, Benson Lossing to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">6 December 1867</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.18</container>
+					<unittitle>Correspondence, Benson Lossing to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">27 January 1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.19</container>
+					<unittitle>Correspondence, D. F. Franks to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">15 March 1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.20</container>
+					<unittitle>Correspondence, Hutchinson to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">4 August 1844</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.21</container>
+					<unittitle>Correspondence to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">March-November 1867</unitdate>
+				</did>
+				<scopecontent>
+					<p>(Correspondents include A.F. Bellows, John W. Ehninger, S.R. Giffford, George
+						H. Hall, George Innes, Elias L. Magoon, C.H. Moore, and Marcus
+						Waterman.)</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 1.22</container>
+					<unittitle>William Swan, Notebook of Ms. Musier,</unittitle>
+					<unitdate type="inclusive">1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.1</container>
+					<unittitle>Cyrus Swan, Scrapbook,</unittitle>
+					<unitdate type="inclusive">1846-1854</unitdate>
+				</did>
+				<scopecontent>
+					<p>(Includes some pages of Private Account, 1842-1843.)</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.2</container>
+					<unittitle>Cyrus Swan, Scrapbook of Political Clippings,</unittitle>
+					<unitdate type="inclusive">1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2.3</container>
+					<unittitle>Cyrus Swan, Letterbook,</unittitle>
+					<unitdate type="inclusive">1868-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3.1</container>
+					<unittitle>Letterbook,</unittitle>
+					<unitdate type="inclusive"> 1875-1878</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3.2</container>
+					<unittitle>Letterbook,</unittitle>
+					<unitdate type="inclusive">1862-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4.1</container>
+					<unittitle>Letterbook,</unittitle>
+					<unitdate type="inclusive">1866-1867</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.1</container>
+					<unittitle>Letters from Maria Mitchell to Harriet Swan,</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.2</container>
+					<unittitle>Letter from Matthew Vassar to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1867</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.3</container>
+					<unittitle>Letter from Milo Jewett to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1879</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.4</container>
+					<unittitle>Letter from Milo Jewett to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1879</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.5</container>
+					<unittitle>Letters from James Taylor to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1890</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.6</container>
+					<unittitle>Matthew Vassar to the Poughkeepsie Daily Press, incomplete
+						draft,</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.7</container>
+					<unittitle>Letter of Resignation from Milo Jewett,</unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.8</container>
+					<unittitle>Letter from John Raymond to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.9</container>
+					<unittitle>Letter from John Raymond to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1867</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.10</container>
+					<unittitle>Letter from John Raymond to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.11</container>
+					<unittitle>Letter from James Taylor to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1888</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.12</container>
+					<unittitle>Letter from Matthew Vassar to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5.13</container>
+					<unittitle>Letter from James Taylor to Cyrus Swan,</unittitle>
+					<unitdate type="inclusive">1887</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.1</container>
+					<unittitle>Speech?</unittitle>
+					<unitdate type="inclusive">4 July 1848</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.2</container>
+					<unittitle>Speech?</unittitle>
+					<unitdate type="inclusive">8 February 1856</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.3</container>
+					<unittitle>Framed photograph</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.4</container>
+					<unittitle>Miscellaneous papers,</unittitle>
+					<unitdate type="inclusive">11845-1880, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.5</container>
+					<unittitle>Photograph of Cyrus Swan and daughter (?),</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.6</container>
+					<unittitle>Lyceum Materials,</unittitle>
+					<unitdate type="inclusive">1852, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.7</container>
+					<unittitle>Matthew Vassar, financial affairs regarding kin,</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.8</container>
+					<unittitle>Matthew Vassar’s Address to the Trustees, draft in Cyrus Swan’s
+						Hand,</unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.9</container>
+					<unittitle>Letter from Board of Trustees Executive Committee to Matthew
+						Vassar,</unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.10</container>
+					<unittitle>Draft of the Will of Maria Mitchell,</unittitle>
+					<unitdate type="inclusive">1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.11-6.12</container>
+					<unittitle>Lease from Matthew Vassar to Dudley and Thompson,</unittitle>
+					<unitdate type="inclusive">1855</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6.13</container>
+					<unittitle>Deed from Clark to Matthew Vassar,</unittitle>
+					<unitdate type="inclusive">1855</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.1</container>
+					<unittitle>Vassar 50(?)th Anniversary,</unittitle>
+					<unitdate type="inclusive">approximately 1915-1939</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.2</container>
+					<unittitle>Letters, etc.,</unittitle>
+					<unitdate type="inclusive">1848-1930</unitdate>
+				</did>
+				<scopecontent>
+					<p>(Letters to and from Cyrus Swan and Swan family members. Photograph, printed
+						material, draft of Matthew Vassar's will)</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.3</container>
+					<unittitle>Letters from Cyrus Swan to his family</unittitle>
+					<unitdate type="inclusive">1845</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7.4</container>
+					<unittitle>Letters, etc</unittitle>
+					<unitdate type="inclusive">1845-1930</unitdate>
+				</did>
+				<scopecontent>
+					<p>(Letters to and from Cyrus Swan and Swan family members and other
+						correspondents, including Herbert E. Mills and J. Rockwell. Also includes
+						reports and legal documents)</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 8.1</container>
+					<unittitle>Account Book,</unittitle>
+					<unitdate type="inclusive">1846-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 8.2-8.3</container>
+					<unittitle>Material relating to Mill Street House,</unittitle>
+					<unitdate type="inclusive">1869-1886</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 8.4</container>
+					<unittitle>Letters related to Cyrus Swan Monument,</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 8.5</container>
+					<unittitle>Various family materials,</unittitle>
+					<unitdate type="inclusive">1845-1930</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

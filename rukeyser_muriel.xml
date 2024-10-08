@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_rukeyser_muriel </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Muriel Rukeyser Papers, 1927-1967</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari <date>24 Feb 2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Rukeyser, Muriel, 1913-1980</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Muriel Rukeyser Papers </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1927-1967 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.5 cubic feet (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The Muriel Rukeyser Papers contain various published works and corresponding promotional materials in addition to manuscripts, including signed Neruda translations. Correspondence with the poet and photographs of <emph render="italic">The Colors of the Day</emph> complete the collection.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Born 15 Dec 1913 in New York City, Muriel Rukeyser (VC Ex 1934) was an American poet and political activist. With a style ranging from lyrical to documentary, deeply affected by the social and political, Rukeyser worked in poetry, prose and drama. She died 12 February 1980 in New York City.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Muriel Rukeyser Papers contain various published works and corresponding promotional materials in addition to manuscripts, including signed Neruda translations. Correspondence with the poet and photographs of <emph render="italic">The Colors of the Day</emph> complete the collection.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Neruda, Pablo, 1904-1973--Translations into English</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women poets</subject>
+				<subject source="lcsh" encodinganalog="650">Poetry</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 24 Feb 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Archives and Special Collections Library Staff.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Issues of <emph render="italic">Walden Splash </emph>donated by Jeanette Lambert, Laguna Hills, CA, 1988.</p>
+			<p>Four issues of <emph render="italic">Walden Splash </emph>donated by Barbara Newman Morris, London, U.K., 5 Apr 2005.</p>
+			<p>One letter donated by Congregation Emanu-El, New York, N.Y., 27 Sept 2008.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Muriel Rukeyser Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence, </unittitle>
+					<unitdate>1930-1965</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Publications, </unittitle>
+					<unitdate>1927-1967</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref>Manuscripts, </unittitle>
+					<unitdate>1953-1961</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref>Photographs, </unittitle>
+					<unitdate>1961</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref>Publicity Materials, </unittitle>
+					<unitdate>1960-1961</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. Correspondence</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1 </container>
+						<unittitle> Rukeyser to Jeanette Lambert, </unittitle>
+						<unitdate> 13 Oct 1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle> Rukeyser to Fanny Borden, </unittitle>
+						<unitdate> 2 Mar 1942 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> Rukeyser to Dorothy Plum, </unittitle>
+						<unitdate> 1962-1963 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4 </container>
+						<unittitle> Rosalie Tucker to Rukeyser, </unittitle>
+						<unitdate> 1963 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.5 </container>
+						<unittitle> Dorothy Plum to Rukeyser, </unittitle>
+						<unitdate> 1962-1964 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.6 </container>
+						<unittitle> Wislocki to Rukeyser, </unittitle>
+						<unitdate> 1965 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.7 </container>
+						<unittitle> Rukeyser to Grace Proffitt, </unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.8 </container>
+						<unittitle> Fragments </unittitle>
+						<physdesc>(photocopy) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. Publications</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9 </container>
+						<unittitle> Libretto: The Colors of the Day, </unittitle>
+						<unitdate> 1961 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.10 </container>
+						<unittitle> Playbill: The Colors of the Day, </unittitle>
+						<unitdate> 1961 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.11 </container>
+						<unittitle> Postcard: "The Poem as Mask: Orpheus," </unittitle>
+						<unitdate> 1967 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.12 </container>
+						<unittitle> Walden Splash (vol. 12, no. 1), </unittitle>
+						<unitdate> 1928 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.13 </container>
+						<unittitle> Walden Splash (vol. 14, no. 1), </unittitle>
+						<unitdate> 1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.14 </container>
+						<unittitle> Walden Splash (vol. 19), </unittitle>
+						<unitdate> 1935 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.15 </container>
+						<unittitle> Walden Splash, </unittitle>
+						<unitdate> 1927-1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.16 </container>
+						<unittitle> Poem: XIX, </unittitle>
+						<unitdate> 1953 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. Manuscripts</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.17 </container>
+						<unittitle> "The Day of the Closing"/ "All the Way Home," </unittitle>
+						<unitdate> 1953 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.18 </container>
+						<unittitle> Notebook: The Colors of the Day, </unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.1 </container>
+						<unittitle> Script: The Colors of the Day (Author’s Presentation Copy), </unittitle>
+						<unitdate> 1961 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Translation of Pablo Neruda's "Pueblo Cautivo," </unittitle>
+						<physdesc>(MS, signed)</physdesc>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Translation of Pablo Neruda's "Pueblo Cautivo," </unittitle>
+						<physdesc>(TS, signed)</physdesc>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> Translation of "Prisoner Land," author unknown,</unittitle>
+						<physdesc>(TS, signed)</physdesc>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. Photographs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.2 </container>
+						<unittitle> The Colors of the Day, </unittitle>
+						<unitdate> 1961 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V. Publicity Materials</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.3 </container>
+						<unittitle> Book Jackets, Promotional Material </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.4 </container>
+						<unittitle> Clippings, Press Release </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.5 </container>
+						<unittitle> Press Release for V.C. Centennial, </unittitle>
+						<unitdate> 1960 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.6 </container>
+						<unittitle> Program: The Alumnae Festival, </unittitle>
+						<unitdate> 1961 </unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

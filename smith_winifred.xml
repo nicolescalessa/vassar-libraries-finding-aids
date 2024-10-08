@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_smith_winifred </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Winifred Smith Papers, 1904-1959</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Smith, Winifred, 1879-</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Winifred Smith Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1904-1959 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 3.8 cubic feet (15 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Materials relating to Smith's life and work in the Drama Department of Vassar College. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Winifred Smith (1897-1967) was born in Cincinnati, Ohio. She was the daughter of Henry Preserved Smith, a leading Biblical scholar, and the sister of Preserved Smith, noted historian of the Reformation. After graduating from Vassar in 1904 and spending a year as a tutor at Mt. Holyoke College, and a year of student at the Sorbonne, Winifred Smith earned a Ph.D. from Columbia University in 1912.</p>
+			<p>In 1911 Miss Smith came to Vassar as an instructor in English, rising to the rank of professor. In 1916 she started a theatrical museum at Vassar and, with Emmeline Moore, a Shakespeare Garden to commemorate the 300th anniversary of Shakespeare’s birth. Winifred Smith's scholarly interest was in dramatic literature. She wrote books on <emph render="underline">The Commedia dell-Arte</emph> and <emph render="underline">Italian Actors in the Renaissance</emph> and numerous articles and reviews for periodicals such as <emph render="italic"> The Nation </emph> and <emph render="italic"> The Dial. </emph> She also translated many futurist plays from the French and Italian. When the Division of Drama was organized in 1938, she became its chairman, working closely with Hallie Flanagan Davis during the years of the Experimental Theatre. </p>
+			<p>Professor Smith was also active in the suffrage movement and participated in local civic activities, including the Community Theatre, the Women’s City and County Club, and the Citizens Better Housing League. She was the first president of the Dutchess County local of the American Federation of Teachers. She was interested in such social issues as disarmament and child labor.</p>
+			<p>Her retirement in 1947 was marked by an only slightly slower pace in a career outstanding for her willingness to act on a broad range of social concerns and scholarly interests. In a faculty memorial minute, Winifred Smith was named "one of Vassar’s great teachers” and “one of its great rebels." She had an adopted daughter, Ann Veronka, who graduated from Vassar in 1938.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Papers include letters received regarding her books, fellowships, teaching and research opportunities, and other professional concerns; manuscripts on life at Vassar College, review of Vassar theater presentation, articles on plays and literature, and a lecture on the "Usefulness of Brains;" copies of her publications; Vassar reading lists and assignments; and a copy of a Vassar senior thesis by Mary Arnold Sykes, 1946. Also includes a card file of descriptions of college as well as local productions and notes on Vassar classes and curricula.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Sykes, Mary Arnold</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Literature--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650"> English language--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650"> Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Drama--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650"> Literature--Research</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Suffrage</subject>
+				<subject source="lcsh" encodinganalog="650"> Women college students--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Books and reading</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Social conditions</subject>
+				<subject source="lcsh" encodinganalog="650"> Women college teachers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+				<subject source="local" encodinganalog="690"> Theater, Drama and Film </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Updated in September 2007 by Maya Peraza-Baker.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Priscilla Smith Robertson (VC 1930) and other donors. Card file transfered from VC Drama Department in 2007 (M2007-015)</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Winifred Smith Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence</unittitle>
+					<physdesc>(Boxes 15)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Biographical Materials</unittitle>
+					<physdesc>(Box 15)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Manuscripts and Published Works of Winifred Smith</unittitle>
+					<physdesc>(Box 15)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Vassar Related Materials</unittitle>
+					<physdesc>(Box 15)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Drama Card File</unittitle>
+					<physdesc>(Boxes 1-14)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Correspondence </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.1 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> 1892-1918 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.2 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> Jan-Mar 1921 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.3 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> April 1921 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.4 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> May-June 1921 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.5 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> July 1921 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.6 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> Aug-Dec 1921 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.7 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> 1922 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.8 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> Jan-May 1923 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.9 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> June-Dec 1923 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.10 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> 1924-1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.11 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> 1937 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.12 </container>
+						<unittitle> Winifred Smith to Parents, </unittitle>
+						<unitdate type="inclusive"> n.d. and fragments </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.13 </container>
+						<unittitle> Winifred Smith to Agnes [a cousin], </unittitle>
+						<unitdate type="inclusive"> 1892 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.14 </container>
+						<unittitle> Winifred Smith to others, </unittitle>
+						<unitdate type="inclusive"> 1894-1949 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.15 </container>
+						<unittitle> Correspondence to Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> 1904-1929 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.16 </container>
+						<unittitle> Correspondence to Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> 1930-1959 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.16a </container>
+						<unittitle> Correspondence to Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> 1944 </unitdate>
+						<physdesc>oversized</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.17 </container>
+						<unittitle> Correspondence to Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.18 </container>
+						<unittitle> Correspondence re: Associated Alumnae Fellowship, </unittitle>
+						<unitdate type="inclusive"> 1908-1910 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.19 </container>
+						<unittitle> Correspondence from others to others, </unittitle>
+						<unitdate type="inclusive"> 1916-1929 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Biographical Materials </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.19 </container>
+						<unittitle> Miscellaneous biographical materials </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.20 </container>
+						<unittitle> Memorial minute for Winifred Smith, read at Vassar College Faculty Meeting, </unittitle>
+						<unitdate type="inclusive"> 10 April 1968 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.21 </container>
+						<unittitle> Deed for 3 Randolph Avenue, Poughkeepsie, </unittitle>
+						<unitdate type="inclusive"> 1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.22 </container>
+						<unittitle> Photographs </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.23 </container>
+						<unittitle> Clippings - Biographical </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.24 </container>
+						<unittitle> Clippings – Obituaries, </unittitle>
+						<unitdate type="inclusive"> 1967 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.25 </container>
+						<unittitle> V.C. Press releases re: Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> 1941-1967 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.26 </container>
+						<unittitle> Ephemera from Winifred Smith’s European trips </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.27 </container>
+						<unittitle> Miscellaneous items </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Manuscripts and Published Works of Winifred Smith </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.27a </container>
+						<unittitle>
+							<emph render="underline"> Antigone</emph>, </unittitle>
+						<unitdate type="inclusive"> 1918 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.28 </container>
+						<unittitle>
+							<emph render="underline"> The Arabian Nights</emph>, </unittitle>
+						<unitdate type="inclusive"> 1911 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.29 </container>
+						<unittitle> Bernard Shaw and His Critics, 1892-1938, </unittitle>
+						<unitdate type="inclusive"> 1941 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.30 </container>
+						<unittitle> Cocteau’s Infernal Machines, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.31 </container>
+						<unittitle>
+							<emph render="underline"> Creon </emph>, Acts II-V, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.32 </container>
+						<unittitle> Four Greek heroines in Modern Dress, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.33 </container>
+						<unittitle> Havelock the Dane, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.34 </container>
+						<unittitle> The Humorous Duke of <emph render="underline"> As You Like It,</emph>
+						</unittitle>
+						<unitdate type="inclusive"> 1915 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.35 </container>
+						<unittitle> Kurt, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.36 </container>
+						<unittitle> Mystics in the Modern Theatre, </unittitle>
+						<unitdate type="inclusive"> 1942 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.37 </container>
+						<unittitle> Nazi Drama and Its Roots, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.38 </container>
+						<unittitle> Our Natacha, by Casona. Translated by Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> 1936 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.39 </container>
+						<unittitle> The Problem Play and Comedy, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.40 </container>
+						<unittitle> Right You Are! (If You Think So), </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.41 </container>
+						<unittitle>
+							<emph render="italic"> Six Characters in Search of an Author, </emph>by Pirandello. Translated of Italian stage directions by Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.42 </container>
+						<unittitle>
+							<emph render="italic"> Six Characters...</emph>translated of Preface by Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.43 </container>
+						<unittitle>
+							<emph render="italic"> Six Characters... </emph> translated of Preface by Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.44 </container>
+						<unittitle> "The Usefulness of Brains" [Phi Beta Kappa Lecture] with commentary on speech in <emph render="italic"> Vassar Miscellany </emph> and <emph render="italic"> Vassar Chronicle</emph>, </unittitle>
+						<unitdate type="inclusive"> 1952 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.45 </container>
+						<unittitle> When I Entered Vassar..., </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.46 </container>
+						<unittitle> Printed publications of Winifred Smith </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.47 </container>
+						<unittitle> Printed publications of Winifred Smith </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.48 </container>
+						<unittitle> Printed publications of Winifred Smith </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.49 </container>
+						<unittitle> Printed publications of Winifred Smith </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.50 </container>
+						<unittitle> Reviews of and references to Winifred Smith’s <emph render="underline"> “The Commedia dell’ Arte,” </emph>
+						</unittitle>
+						<unitdate type="inclusive"> 1912 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.51 </container>
+						<unittitle> Book reviews by Winifred Smith </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.52 </container>
+						<unittitle> Book reviews by Winifred Smith </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.53 </container>
+						<unittitle> “Erasmus, Enemy of Pedantry,” by Preserved Smith, brother of Winifred Smith, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Vassar Related Materials </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.54 </container>
+						<unittitle> Reading lists and assignments, </unittitle>
+						<unitdate type="inclusive"> 1940-1944 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.55 </container>
+						<unittitle> Teaching notes </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.56 </container>
+						<unittitle> Senior thesis, by Mary Arnold Sykes (VC 1946), </unittitle>
+						<unitdate type="inclusive"> 1946 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> Drama Card File </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Russian Drama" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 1-2 </container>
+						<unittitle> "U.S.A. &amp; its drama, Melodrama, 18th &amp; 19th c. Federal Theatre, Irish Theatre" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 2-3 </container>
+						<unittitle> "German Drama, Modern" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3-4 </container>
+						<unittitle> "Shaw and background" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unittitle> "Scandinavian, Spanish, Dutch, Czech, Irish Drama &amp; G.B.S. Life" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4-5 </container>
+						<unittitle> [Shaw, Italian Literature and Theater] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> "French Drama, Medieval 16th, 17th, 18th, 19th c." </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5-6 </container>
+						<unittitle> "French Drama – Modern" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6-7 </container>
+						<unittitle> "English Drama – Modern" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> "Greek Drama, Comedy, Tragedy, Criticism" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> "Italian Drama (1500-1600), Actors, Theatres, Scenery, Masks" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8-9 </container>
+						<unittitle> "American Drama (l-w)" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9-10 </container>
+						<unittitle> "19th &amp; 20th c. Theatre, Movies" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 10 </container>
+						<unittitle> "Modern Drama, Background, science, philosophy, psychology, social life" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 10-11 </container>
+						<unittitle> "Modern Drama (Don Juan), Theories, Style, Background (aesthetic), Poetry" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 11-12 </container>
+						<unittitle> "19th Century Drama (early through Strindberg)" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 12-13 </container>
+						<unittitle> "American Drama (a-k)" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 13 </container>
+						<unittitle> "Italian Drama, Modern" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 13-14 </container>
+						<unittitle> "Modern Plays, Bibliography, Theme, Pageantry groups, Marionettes, Capeks – Molnar, Munk &amp; Dutch, Holberg" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 14 </container>
+						<unittitle> "Aesthetics &amp; Poetics, Epic, Comedy – Burlesque, Tragedy (classical), Pantamine" </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

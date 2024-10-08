@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_scheetz_manuscripts</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Nicholas B. Scheetz Collection, approximately 9th-18th century</titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>March 2020</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl <date>January 2020</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Scheetz, Nicholas B.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Nicholas B. Scheetz Collection</unittitle>
+			<unitdate type="inclusive" normal="0800/1799" certainty="approximate" label="Dates:"
+				encodinganalog="245$f">approximately 9th-18th century</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.6 cubic feet (5 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<langmaterial label="Languages of Material:">
+				<language langcode="arm">Armenian, </language>
+				<language langcode="lat">Latin. </language>
+			</langmaterial>
+			<abstract label="Abstract:" encodinganalog="520$a">Leaves, fragments, and codices of
+				manuscripts, some illuminated, primarily in Latin, from a variety of sources.
+				Collection includes one printed item from the late 15th century and one stenciled
+				item from the 18th century.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Collection includes sermons, bibles, devotional books, music, liturgical manuscripts,
+				literary manuscripts, and notarial and financial records. The material originates
+				from a range of geographic areas including Italy, England, the Netherlands, France,
+				Spain, and Armenia. A substantial number of items date from the 16th century.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/877a66f6-00fd-4bcb-bb1d-7fcd8a6d5596">The English Documents Collection includes items dating from 1552 on.</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8">The Medieval and Renaissance Manuscripts Collection includes items dating from the 11th to 17th century.</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Catholic Church--Liturgy</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Catholic Church--Prayers and devotions</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Titles:</head>
+				<title source="lcsh" encodinganalog="630">Bible</title>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Illumination of books and manuscripts, Gothic</subject>
+				<subject source="lcsh" encodinganalog="650">Manuscripts, Armenian</subject>
+				<subject source="lcsh" encodinganalog="650">Manuscripts, Latin (Medieval and modern)</subject>
+				<subject source="lcsh" encodinganalog="650">Manuscripts, Medieval</subject>
+				<subject source="lcsh" encodinganalog="650">Sermons, Latin</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="rbgenr" encodinganalog="655">Account books</genreform>
+				<genreform source="rbgenr" encodinganalog="655">Antiphonaries</genreform>
+				<genreform source="rbgenr" encodinganalog="655">Books of hours</genreform>
+				<genreform source="rbgenr" encodinganalog="655">Breviaries</genreform>
+				<genreform source="rbgenr" encodinganalog="655">Choir books</genreform>
+				<genreform source="rbgenr" encodinganalog="655">Graduals</genreform>
+				<genreform source="aat" encodinganalog="655">Illuminated manuscripts</genreform>
+				<genreform source="rbgenr" encodinganalog="655">Missals</genreform>
+				<genreform source="aat" encodinganalog="655">Passionals</genreform>
+				<genreform source="aat" encodinganalog="655">Processionals</genreform>
+				<genreform source="rbgenr" encodinganalog="655">Psalters</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Medieval and Early Modern Manuscripts</subject>
+				<subject source="local" encodinganalog="690">Printing and Publishing</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, March 2019. Updated by Emma Gronbeck, April 2023-February 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, February 2019. Item titles and collection
+				arrangement revised in 2023-2024 following additional identification and descriptive work
+				by Peter Kidd.</p>
+			<p>Codices that have been cataloged include call numbers with links to their catalog entries.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Vassar College alumna, Diana Pearson (VC 1978). The manuscripts and codices
+				were collected by Pearson’s late husband, Nicholas B. Scheetz, Manuscript Curator at
+				Georgetown University.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Nicholas B. Scheetz Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008523579707396"
+						>Scheetz MS 1</extref></container>
+					<unittitle>Peter the Chanter (d. 1197), Summa Abel [France], </unittitle>
+					<unitdate type="inclusive" normal="1200/1230" certainty="approximate">early 13th century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 2</container>
+					<container type="folder"> (Folder 1.01)</container>
+					<unittitle>A Leaf from John Wyclif (d. 1384), Quadraginta sermones de tempore,
+						on paper [England], </unittitle>
+					<unitdate type="inclusive" normal="1370/1430" certainty="approximate">late 14th
+						or early 15th century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008329869707396"
+						>Scheetz MS 3</extref></container>
+					<unittitle>An Incomplete Book of Hours, in Latin with some Netherlandish
+							[Netherlands (diocese of Utrecht)], </unittitle>
+					<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008330359707396"
+						>Scheetz MS 4</extref></container>
+					<unittitle>A Portion of a Book of Hours, of Unidentified Use [France], </unittitle>
+					<unitdate type="inclusive" normal="1470/1530" certainty="approximate">late 15th
+						and early 16th centuries</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 5</container>
+					<container type="folder"> (Folder 1.02)</container>
+					<unittitle>A Leaf from a Book of Hours [France], </unittitle>
+					<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008326209707396"
+						>Scheetz MS 6</extref></container>
+					<unittitle>Portions of a Psalter [England], </unittitle>
+					<unitdate type="inclusive" normal="1400/1430" certainty="approximate">early 15th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008327969707396"
+						>Scheetz MS 7</extref></container>
+					<unittitle>Portion of a Breviary, Use of Paris [France], </unittitle>
+					<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008325509707396"
+						>Scheetz MS 8</extref></container>
+					<unittitle>Gradual for Advent and Christmas [Netherlands (Brussels
+							area?)], </unittitle>
+					<unitdate type="inclusive" normal="" certainty="approximate">circa
+						1450-1499</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 9</container>
+					<container type="folder"> (Oversize Folder 3.01)</container>
+					<unittitle>Two Consecutive Bifolia from an Augustinian(?) Gradual [Spain], </unittitle>
+					<unitdate type="inclusive" normal="1500/1699" certainty="approximate">16th (or
+						17th?) century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 10</container>
+					<container type="folder"> (Folder 1.03)</container>
+					<unittitle>A Leaf from a miniature Processional [France (Paris or Poissy?)], </unittitle>
+					<unitdate type="inclusive" normal="1500/1599" certainty="approximate">16th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Scheetz MS 11a-11c</container>
+					<container type="folder"> (Folder 1.04)</container>
+					<unittitle>Three leaves from a Processional(?) [France (Normandy or Caen?)], </unittitle>
+					<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
+						century</unitdate>
+					<physdesc>[See also <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8">Medieval and Renaissance Manuscripts Collection, Item 8</archref>]</physdesc>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 12</container>
+					<container type="folder"> (Oversize Folder 3.02)</container>
+					<unittitle>A Leaf from a Choir Breviary [Italy], </unittitle>
+					<unitdate type="inclusive" normal="1500/1599" certainty="approximate">16th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 13</container>
+					<container type="folder"> (Folder 1.05)</container>
+					<unittitle>A Cutting of an illuminated initial from a Choirbook [Italy (probably
+						northeast)], </unittitle>
+					<unitdate type="inclusive" normal="1475/1499" certainty="approximate"
+						>1475-1499</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 14</container>
+					<container type="folder"> (Folder 1.06)</container>
+					<unittitle>A Leaf from a Bible [France (not Paris?)], </unittitle>
+					<unitdate type="inclusive" normal="1250/1275" certainty="approximate"
+						>1250-1275</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008325379707396"
+						>Scheetz MS 15</extref></container>
+					<unittitle>Eleven Leaves from a Pocket Bible [England (probably Oxford)], </unittitle>
+					<unitdate type="inclusive" normal="1250/1275" certainty="approximate"
+						>1250-1275</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 16</container>
+					<container type="folder"> (Folder 1.07)</container>
+					<unittitle>A Leaf from the Franciscan “Goodspeed Bible” [Italy (Umbria, probably
+						Perugia)], </unittitle>
+					<unitdate type="inclusive" normal="1300/1399" certainty="approximate">14th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 17</container>
+					<container type="folder"> (Folder 2.01)</container>
+					<unittitle>A Bifolium from Peter Lombard, Great Gloss on the Pauline Epistles
+						[France (Paris?)], </unittitle>
+					<unitdate type="inclusive" normal="1200/1299" certainty="approximate">13th
+						century (first quarter?)</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 18</container>
+					<container type="folder"> (Folder 1.08)</container>
+					<unittitle>A Leaf from a Breviary [Italy], </unittitle>
+					<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 19</container>
+					<container type="folder"> (Folder 1.09)</container>
+					<unittitle>A Leaf from a Cistercian(?) Breviary [France], </unittitle>
+					<unitdate type="inclusive" normal="1250/1299" certainty="approximate"
+						>1250-1299</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 20</container>
+					<container type="folder"> (Folder 1.10)</container>
+					<unittitle>A Fragment of a Missal [Germany], </unittitle>
+					<unitdate type="inclusive" normal="1270/1399" certainty="approximate">late 13th
+						or 14th century</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Scheetz MS 21a-21b</container>
+					<container type="folder"> (Oversize Folder 3.03)</container>
+					<unittitle>Two leaves of a Passionary or Martyrology [Spain (Léon?)], </unittitle>
+					<unitdate type="inclusive" normal="1140/1199" certainty="approximate">12th
+						century (mid- or second half)</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 22</container>
+					<container type="folder"> (Folder 1.11)</container>
+					<unittitle>A Fragment of Martianus Capella, On the Marriage of Philology and
+						Mercury, with interlinear and marginal glosses [France], </unittitle>
+					<unitdate type="inclusive" normal="1100/1125" certainty="approximate">circa
+						1100-1125</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 23</container>
+					<container type="folder"> (Folder 1.12)</container>
+					<unittitle>A Fragment of Seneca the Elder, Controversiae [Germany], </unittitle>
+					<unitdate type="inclusive" normal="0850/0899" certainty="approximate">circa
+						850-899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Scheetz MS 24a-24b</container>
+					<container type="folder"> (Folder 1.13)</container>
+					<unittitle>Two fragments of a Register concerning the Recruitment and Payment of
+						Mercenaries, in Latin with some Italian [Italy (Florence)], </unittitle>
+					<unitdate type="inclusive" normal="1368" certainty="approximate">circa
+						1368</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container><extref
+						href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008525129707396"
+						>Scheetz MS 25</extref></container>
+					<unittitle>Notary’s book of Anthoine de Toulouse [France (South, Toulouse
+							region?)], </unittitle>
+					<unitdate type="inclusive" normal="1517">1517</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Scheetz MS 26a-26c</container>
+					<container type="folder"> (Oversize Folder 3.04)</container>
+					<unittitle>Three leaves from the Summer part of the Sanctorale of a Gradual
+						[Spain], </unittitle>
+					<unitdate type="inclusive" normal="1622/1699" certainty="approximate">17th
+						century (after 1622)</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 27</container>
+					<container type="folder"> (Folder 1.14)</container>
+					<unittitle>A Leaf from “The St Albans Bible” [France (Paris)], </unittitle>
+					<unitdate type="inclusive" normal="1330/1339" certainty="approximate">circa
+						1330-1339</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 28</container>
+					<container type="folder"> (Folder 2.02)</container>
+					<unittitle>A Leaf from “The Bohun Bible” [England (East Anglia, perhaps
+						Cambridge?)], </unittitle>
+					<unitdate type="inclusive" normal="1340/1360" certainty="approximate">mid-14th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Scheetz MS 29a-29e</container>
+					<container type="folder"> (Oversize Folder 3.05)</container>
+					<unittitle>Five Leaves from a Homilary, in Armenian [Iran (Isfahan)], </unittitle>
+					<unitdate type="inclusive" normal="1671/1672" certainty="approximate"
+						>1671-1672</unitdate>
+					<physdesc>[See also <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8">Medieval and Renaissance Manuscripts Collection,  Items 52-53</archref>]</physdesc>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 30</container>
+					<container type="folder"> (Oversize Folder 5.01)</container>
+					<unittitle>A Leaf of a Choir Psalter [Spain (Toledo?)], </unittitle>
+					<unitdate type="inclusive" normal="1600/1699" certainty="approximate">[17th
+						century?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 31</container>
+					<container type="folder"> (Oversize Folder 3.06)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15451105">1545 Nov 5</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 32</container>
+					<container type="folder"> (Oversize Folder 4.01)</container>
+					<unittitle>Document [Italy (Aquileia)], </unittitle>
+					<unitdate type="inclusive" normal="15421122">1542 Nov 22</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 33</container>
+					<container type="folder"> (Folder 2.03)</container>
+					<unittitle>Document [Italy], </unittitle>
+					<unitdate type="inclusive" normal="15310207">1531 Feb 7</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 34</container>
+					<container type="folder"> (Oversize Folder 4.02)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15771111">1577 Nov 11</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 35</container>
+					<container type="folder"> (Oversize Folder 4.03)</container>
+					<unittitle>Deed of Sale [Italy (Udine)], </unittitle>
+					<unitdate type="inclusive" normal="15460825">1546 Aug 25</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 36</container>
+					<container type="folder"> (Oversize Folder 4.04)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15250227">1525 Feb 27</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 37</container>
+					<container type="folder"> (Oversize Folder 4.05)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15601224">1560 Dec 24</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 38</container>
+					<container type="folder"> (Folder 1.15)</container>
+					<unittitle>Deed of Sale, notary public Blasius [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15631016">1563 Oct 16</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 39</container>
+					<container type="folder"> (Folder 2.04)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15710511">1571 May 11</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 40</container>
+					<container type="folder"> (Oversize Folder 4.06)</container>
+					<unittitle>Document [Italy (Spilimbergo)], </unittitle>
+					<unitdate type="inclusive" normal="15520619">1552 Jun 19</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 41</container>
+					<container type="folder"> (Oversize Folder 4.07)</container>
+					<unittitle>Document [Italy (Spilimbergo)], </unittitle>
+					<unitdate type="inclusive" normal="15780125">1578 Jan 25</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Scheetz MS 42</container>
+					<container type="folder"> (Folder 2.05)</container>
+					<unittitle>Two leaves from a printed edition of Seneca the Younger, Epistolae
+						morales, on paper [Italy (Treviso)], </unittitle>
+					<unitdate type="inclusive" normal="1478">1478</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 43</container>
+					<container type="folder"> (Folder 2.06)</container>
+					<unittitle>Document [Italy ("Villa Arzenatti")], </unittitle>
+					<unitdate type="inclusive" normal="14530626">1453 Jun 26</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 44</container>
+					<container type="folder"> (Oversize Folder 4.08)</container>
+					<unittitle>Document [Italy (Spilimbergo)], </unittitle>
+					<unitdate type="inclusive" normal="15760909">1576 Sep 9</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 45</container>
+					<container type="folder"> (Folder 1.16)</container>
+					<unittitle>Confirmation of the legitimacy of Juan Arias Portocarrero as Second
+						Count of Puñonrostro [Italy (Rome)], </unittitle>
+					<unitdate type="inclusive" normal="1581/1585" certainty="approximate">circa
+						1581-1585</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 46</container>
+					<container type="folder"> (Folder 1.17)</container>
+					<unittitle>A Leaf from Seneca the Younger, Epistolae morales [Italy (perhaps
+						Rome)], </unittitle>
+					<unitdate type="inclusive" normal="1470" certainty="approximate">circa
+						1470</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 47</container>
+					<container type="folder"> (Folder 1.18)</container>
+					<unittitle>A Leaf from a Book of Hours [France], </unittitle>
+					<unitdate type="inclusive" normal="1370/1399" certainty="approximate">late 14th
+						century</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 48</container>
+					<container type="folder"> (Folder 1.19)</container>
+					<unittitle>A Leaf from a Psalter [Southern Netherlands (Flanders)], </unittitle>
+					<unitdate type="inclusive" normal="1250/1299" certainty="approximate">circa
+						1250-1299</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 49</container>
+					<container type="folder"> (Oversize Folder 4.09)</container>
+					<unittitle>A Leaf from the Temporale of a Gradual [Spain], </unittitle>
+					<unitdate type="inclusive" normal="1600/1699" certainty="approximate">[17th
+						century?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Scheetz MS 50</container>
+					<container type="folder"> (Oversize Folder 5.02)</container>
+					<unittitle>Two Leaves from the Sanctorale of a stenciled Gradual [South America
+						(or Spain?)], </unittitle>
+					<unitdate type="inclusive" normal="1600/1799" certainty="approximate">[17th or
+						18th century?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 51</container>
+					<container type="folder"> (Folder 1.20)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15251103">1525 Nov 3</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 52</container>
+					<container type="folder"> (Folder 1.21)</container>
+					<unittitle>Deed of Sale [Italy (Spilimbergo)], </unittitle>
+					<unitdate type="inclusive" normal="15320822">1532 Aug 22</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 53</container>
+					<container type="folder"> (Folder 1.22)</container>
+					<unittitle>Deed of Sale [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15441013">1544 Oct 13</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 54</container>
+					<container type="folder"> (Folder 1.23)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15541103">1554 Nov 3</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 55</container>
+					<container type="folder"> (Folder 1.24)</container>
+					<unittitle>Document [Italy], </unittitle>
+					<unitdate type="inclusive" normal="15501129">1550 Nov 29</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 56</container>
+					<container type="folder"> (Folder 1.25)</container>
+					<unittitle>Document [Italy (Spilimbergo)], </unittitle>
+					<unitdate type="inclusive" normal="15520308">1552 Mar 8</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 57</container>
+					<container type="folder"> (Folder 1.26)</container>
+					<unittitle>Deed of Sale [Italy (Tramonti di Sopra)], </unittitle>
+					<unitdate type="inclusive" normal="15550401">1555 Apr 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 58</container>
+					<container type="folder"> (Folder 1.27)</container>
+					<unittitle>Deed of Sale, notary public Blasius [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15570910">1557 Sep 10</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 59</container>
+					<container type="folder"> (Folder 1.28)</container>
+					<unittitle>Deed of Sale, notary public Blasius [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15600923">1560 Sep 23</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 60</container>
+					<container type="folder"> (Folder 1.29)</container>
+					<unittitle>Deed of Sale, notary public Blasius [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15630831">1563 Aug 31</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 61</container>
+					<container type="folder"> (Folder 1.30)</container>
+					<unittitle>Deed of Sale, notary public Blasius [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15670630">1567 Jun 30</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 62</container>
+					<container type="folder"> (Folder 1.31)</container>
+					<unittitle>Document [Italy (Spilimbergo)], </unittitle>
+					<unitdate type="inclusive" normal="15800704">1580 Jul 4</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 63</container>
+					<container type="folder"> (Folder 1.32)</container>
+					<unittitle>Deed of Sale [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15801003">1580 Oct 3</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 64</container>
+					<container type="folder"> (Folder 1.33)</container>
+					<unittitle>Deed of Sale [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15850427">1585 Apr 27</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 65</container>
+					<container type="folder"> (Folder 1.34)</container>
+					<unittitle>Deed of Sale to Lord Pomplius and his brother Peter [Italy
+						(Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15860202/15860211">1586 Feb 2 or
+						11</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 66</container>
+					<container type="folder"> (Folder 1.35)</container>
+					<unittitle>Deed of Sale from Florianus Pelligrini [Italy (Methuno?)], </unittitle>
+					<unitdate type="inclusive" normal="15910824">1591 Aug 24</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 67</container>
+					<container type="folder"> (Folder 1.36)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15651106">1565 Nov 6</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 68</container>
+					<container type="folder"> (Folder 1.37)</container>
+					<unittitle>Document [Italy (Maniago?)], </unittitle>
+					<unitdate type="inclusive" normal="15411105">1541 Nov 5</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 69</container>
+					<container type="folder"> (Folder 1.38)</container>
+					<unittitle>Document [Italy (Maniago)], </unittitle>
+					<unitdate type="inclusive" normal="15420325">1542 Mar 25</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Scheetz MS 70</container>
+					<container type="folder"> (Folder 1.39)</container>
+					<unittitle>Document [Italy (Spilimbergo)], </unittitle>
+					<unitdate type="inclusive" normal="15580725">1558 Jul 25</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

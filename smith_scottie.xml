@@ -1,0 +1,4484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_smith_scottie
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Scottie Fitzgerald Smith Papers, 1858-1996 (bulk 1921-1986)</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>October 2012</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2013</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Smith, Scottie Fitzgerald</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Scottie Fitzgerald Smith Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1858-1996</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1921-1986</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">15 cubic feet (29 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials relating to Scottie Fitzgerald Smith's career as a journalist, her work for the Democratic Party, her personal life, and the maintenance of her parents' estates and legacies.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Frances Scott "Scottie" Fitzgerald Lanahan Smith was born in 1921. She was the child of F. Scott and Zelda Fitzgerald. She was a graduate of Vassar College (1942), journalist, ardent supporter of the Democratic Party, and a notable figure in Washington D.C. social circles. She was married twice, first to Samuel Jackson Lanahan in 1943, with whom she had four children, and next, in 1967, to C. Grove Smith. She died in 1986 of esophageal cancer.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1896 September 24</date>
+					<event>F. Scott Fitzgerald born to Mollie McQuillan and Edward Fitzgerald in Saint Paul, Minnesota</event>
+				</chronitem>
+				<chronitem>
+					<date>1900 July 24</date>
+					<event>Zelda Sayre born to Minerva Buckner "Minnie" Machen and Anthony Dickinson Sayre in Montgomery, Alabama</event>
+				</chronitem>
+				<chronitem>
+					<date>1920 April 3</date>
+					<event>F. Scott Fitzgerald and Zelda Sayre married</event>
+				</chronitem>
+				<chronitem>
+					<date>1921 October 26</date>
+					<event>Frances Scott "Scottie" Fitzgerald born in Saint Paul, Minnesota</event>
+				</chronitem>
+				<chronitem>
+					<date>1940 December 21</date>
+					<event>F. Scott Fitzgerald died</event>
+				</chronitem>
+				<chronitem>
+					<date>1942</date>
+					<event>Scottie graduated from Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1943 February</date>
+					<event>Scottie and Samuel Jackson "Jack" Lanahan married</event>
+				</chronitem>
+				<chronitem>
+					<date>1946 April 26</date>
+					<event>Thomas Addison "Tim" Lanahan born</event>
+				</chronitem>
+				<chronitem>
+					<date>1948 January 25</date>
+					<event>Eleanor Anne "Bobbie" Lanahan born</event>
+				</chronitem>
+				<chronitem>
+					<date>1948 March 10</date>
+					<event>Zelda Fitzgerald died</event>
+				</chronitem>
+				<chronitem>
+					<date>1950 April 29</date>
+					<event>Samuel Jackson "Jacky" Lanahan born</event>
+				</chronitem>
+				<chronitem>
+					<date>1951 October</date>
+					<event>Cecilia Scott Lanahan born</event>
+				</chronitem>
+				<chronitem>
+					<date>1967</date>
+					<event>Scottie and Samuel Jackson "Jack" Lanahan divorced</event>
+				</chronitem>
+				<chronitem>
+					<date>1967</date>
+					<event>Scottie and C. Grove Smith married</event>
+				</chronitem>
+				<chronitem>
+					<date>1973 September</date>
+					<event>Scottie moved to Montgomery, Alabama</event>
+				</chronitem>
+				<chronitem>
+					<date>1973 October</date>
+					<event>Tim Lanahan committed suicide</event>
+				</chronitem>
+				<chronitem>
+					<date>1980 June</date>
+					<event>Scottie and C. Grove Smith divorced</event>
+				</chronitem>
+				<chronitem>
+					<date>1986 June 18</date>
+					<event>Scottie died of esophageal cancer in Montgomery</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, scrapbooks, photographs and clippings relating to Scottie Fitzgerald Smith's career as a journalist, her work for the Democratic Party, her personal life, and the maintenance of her parents' estates and legacies.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>There is some family correspondence that is currently restricted. Some of the audio recordings in the collection will require vetting before being released for research. Waivers were not signed at the time of the interviews, so unless the interviewees are deceased, they will have to give written permission for the material to be opened. The rest of the collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p>There is a 1936 letter from F. Scott Fitzgerald to "Mme. White" about Scottie Fitzgerald in the Autograph Files.</p>
+			<p>
+				<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-autograph-files-1783-1983">Autograph Files</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Bruccoli, Matthew J. (Matthew Joseph), 1931-2008</persname>
+				<persname source="lcnaf" encodinganalog="600">Carpenter, Liz</persname>
+				<persname source="lcnaf" encodinganalog="600">Chewning, Mary</persname>
+				<persname source="lcnaf" encodinganalog="600">Devron, Howard</persname>
+				<persname source="lcnaf" encodinganalog="600">Durr, Virginia Foster</persname>
+				<persname source="lcnaf" encodinganalog="600">Fitzgerald, F. Scott (Francis Scott), 1896-1940</persname>
+				<persname source="lcnaf" encodinganalog="600">Fitzgerald, Zelda, 1900-1948</persname>
+				<persname source="lcnaf" encodinganalog="600">Fritchey, Clayton</persname>
+				<persname source="lcnaf" encodinganalog="600">McGovern, George S. (George Stanley), 1922-2012</persname>
+				<persname source="lcnaf" encodinganalog="600">Means, Marianne</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Harold Ober Associates</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Multiple Sclerosis Association of Greater Washington</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Children of authors</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Personal Narratives, American</subject>
+				<subject source="lcsh" encodinganalog="650">Women journalists--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Journalism--Washington (D.C.)</subject>
+				<subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1972</subject>
+				<subject source="lcsh" encodinganalog="650">Democratic National Convention</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Alabama--Politics and government--20th century</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Washington (D.C.)--Social life and customs--20th century</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Audiocassettes</genreform>
+				<genreform source="aat" encodinganalog="655">Audiotapes</genreform>
+				<genreform source="aat" encodinganalog="655">Compact discs</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>Titles:</head>
+				<title render="italic" encodinganalog="630">Great Gatsby (Motion picture : 1974)</title>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">Journalism</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Politics</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, October 2012. Updated 2013. Updated by Emma Gronbeck, February 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, 2013.</p>
+			<p>Audio originals (reels and cassette tapes) are located in Boxes 10-12. CD copies of audio originals are located in Box 9.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Scottie's children, Eleanor, Cecilia and Samuel Lanahan, 1995.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Scottie Fitzgerald Smith Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Biography — Paper Materials, </unittitle>
+					<unitdate type="inclusive">1858-1992</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series includes autobiographical notes, diaries, and notebooks as well as newspaper clippings, scrapbooks and other material that document Scottie Fitzgerald Smith's personal life.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Biography — Recordings, </unittitle>
+					<unitdate type="inclusive">1971-1995</unitdate>
+				</did>
+				<scopecontent>
+					<p>There are three main sections of this series: recordings of Scottie Fitzgerald Smith herself; recordings of interviews about Scottie and the extended Lanahan Family, recorded by family members; and recordings of interviews with non-family members conducted primarily by Eleanor Lanahan and Cecilia Ross.</p>
+					<p>The audio recordings in this series will require vetting before being released for research.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> School Notebooks, </unittitle>
+					<unitdate type="inclusive">circa 1930s</unitdate>
+				</did>
+				<scopecontent>
+					<p>The School Notebooks series includes 11 volumes from Scottie's early education.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Correspondence, </unittitle>
+					<unitdate type="inclusive">1909-1988</unitdate>
+				</did>
+				<scopecontent>
+					<p>The Correspondence series is divided into four sections: Outgoing, Incoming, From Others to Others, and Invitations. The outgoing correspondence includes Scottie's letters to her husband while he was serving overseas in World War II, a large cache of letters to her daughter Eleanor, as well as letters to friends, politicians, and other family members. Of particular note are the letters she wrote as a child to her parents, her maternal grandmother, Minerva Sayre, and Santa Claus.</p>
+					<p>The incoming correspondence includes letters from friends and family as well as a number of political figures, journalists, and other public figures. Of particular note are the letters from her paternal grandmother, Mollie Fitzgerald, her aunt, Rosalind Sayre Smith, Highland Hospital (regarding Zelda Fitzgerald), Ladybird Johnson, Adlai Stevenson, Tennessee Williams and Katharine Graham.</p>
+					<p>The letters from others to others includes a number of letters from family and friends after Scottie's death, but it also contains older correspondence that relates to Scottie's childhood and education, and material about the Fitzgerald, Sayre and Lanahan families.</p>
+					<p>The invitations are a telling record of the Washington social/political scene in the 1950s and 1960s. Most events were fundraisers for political or social causes, but some were smaller get-togethers for Scottie's circle of friends and acquaintances.</p>
+					<p>The Lanahan Family correspondence in Box 24 is restricted.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Writings, </unittitle>
+					<unitdate type="inclusive">1935-1984</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series includes a large number of Scotties writings, in a variety of formats. Some include notes and drafts, and others are merely clippings. One particular value of having so many of her writings contained in this collection is that she published under so many different names it would be difficult to compile a complete bibliography. This series should include some version of most if not all of the major pieces she produced.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> F. Scott and Zelda Fitzgerald, </unittitle>
+					<unitdate type="inclusive">1937-1996</unitdate>
+				</did>
+				<scopecontent>
+					<p>Scottie spent a good deal of time dealing with the estates, literary and artistic rights, and legacies of both her parents. This series includes three sections: one on each of her parents and one on the issues that related to them as a couple. Much of the material in this series is related to the 1974 film version of <emph render="underline">The Great Gatsby</emph>.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Political Activities and Interests, </unittitle>
+					<unitdate type="inclusive">1956-1980</unitdate>
+				</did>
+				<scopecontent>
+					<p>Series VII includes material relating to Scottie's political work, particularly her support of various Democrats in political races. A large section of this series relates to George McGovern's 1972 run for President (including recorded interviews with Lester and Helen Hyman and a recording of an event celebrating the Grassroots Grasshopper train tour), but there is also information about her earlier work in the 1950s and 1960s as well as her involvement in Alabama politics after she moved there in 1973.</p>
+					<p>The audio recordings in this series will require vetting before being released for research.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Musical Theater and Skits, </unittitle>
+					<unitdate type="inclusive">circa 1938-1988</unitdate>
+				</did>
+				<scopecontent>
+					<p>Scottie took an interest in musical theater in college and continued to use her skills for skits for various fundraising events, particularly for the Multiple Sclerosis Association of Greater Washington. This series includes a scrapbook, programs, sheet music, and also recordings of various performances.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX.</ref> Photographs, </unittitle>
+					<unitdate type="inclusive">1920-1985</unitdate>
+				</did>
+				<scopecontent>
+					<p>The photographs include four albums and a number of loose photographs. The "Family Album" in boxes 20 and 21 was rehoused for preservation purposes, but the original order and annotations have been preserved in a set of photocopies housed in box 20.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">Series X.</ref> Miscellaneous, </unittitle>
+					<unitdate type="inclusive">circa 1951-1973</unitdate>
+				</did>
+				<scopecontent>
+					<p>The "miscellaneous" materials include files that didn't fit into any of the previous series, including a number of recordings Scottie made while working on the history and geography of the American South.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">Series XI.</ref> Unprocessed Additions, </unittitle>
+					<unitdate type="inclusive">1957-1979</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Biography — Paper Materials</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1</container>
+						<unittitle>Notebook No. 1, Part 1 — "Babies," </unittitle>
+						<unitdate>circa 1946-1949</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2</container>
+						<unittitle>Notebook No. 1, Part 2 — College notes, </unittitle>
+						<unitdate>circa 1938-1942</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unittitle>Notebook No. 1, Part 3 — List of wedding presents, </unittitle>
+						<unitdate>1943</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4</container>
+						<unittitle>Notebook No. 2 — Mix of diary and finances, </unittitle>
+						<unitdate>circa 1940-1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.5</container>
+						<unittitle>Diaries, </unittitle>
+						<unitdate>1945-1946</unitdate>
+						<physdesc>(2 volumes)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.6</container>
+						<unittitle>Diary and financial record, </unittitle>
+						<unitdate>1951</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7</container>
+						<unittitle>Diary — Paris, </unittitle>
+						<unitdate>circa 1980s</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.8</container>
+						<unittitle>Autobiographical notes — "Reflections on December 31, 1968"</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unittitle>Autobiographical notes — "Log of Events: The Visit of Cecilia L. Kehn to Montgomery Alabama, January 1979"</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Autobiographical notes, </unittitle>
+						<unitdate>15 Aug 1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unittitle>Autobiographical notes — "Notes from Grove Smith's Ramblings," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12</container>
+						<unittitle>Memoir/Diary, </unittitle>
+						<unitdate>1985-1986</unitdate>
+						<physdesc>(1 bound and 1 photocopied typescript)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.13</container>
+						<unittitle>Miscellaneous notes about vacations and summers, </unittitle>
+						<unitdate>1953-1984, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.14</container>
+						<unittitle>Travel journals from Europe trip with Mary Janney and Dede Goodhue, </unittitle>
+						<unitdate>July 1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.15</container>
+						<unittitle>Datebook, </unittitle>
+						<unitdate>1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16</container>
+						<unittitle>Datebook, </unittitle>
+						<unitdate>1962</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.17 - 1.19</container>
+						<unittitle>Datebooks, </unittitle>
+						<unitdate>1964-1966</unitdate>
+						<physdesc>(3 volumes)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.20 - 1.24</container>
+						<unittitle>Datebooks, </unittitle>
+						<unitdate>1968-1972</unitdate>
+						<physdesc>(5 volumes)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unittitle>Datebook, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26</container>
+						<unittitle>Calendar page, </unittitle>
+						<unitdate>Nov 1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.3</container>
+						<unittitle>Clippings — General, </unittitle>
+						<unitdate>1920s</unitdate>
+						<physdesc>(2 clippings)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 4.1 - 4.9</container>
+						<unittitle>Clippings — General, </unittitle>
+						<unitdate>1939-1992, undated</unitdate>
+						<physdesc>(9 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Clippings — "The Spell of Scott Fitzgerald Grows Stronger," <emph render="italic">Life</emph>, </unittitle>
+						<unitdate>16 Feb 1959</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>Clippings — Article by Winzola McLendon, <emph render="italic">Ladies Home Journal</emph>, </unittitle>
+						<unitdate>Nov 1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.10</container>
+						<unittitle>Clippings — Obituaries, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.28</container>
+						<unittitle>Memorials, </unittitle>
+						<unitdate>1986, 1992</unitdate>
+						<physdesc>(photocopies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unittitle>Funeral attendance book, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Scrapbook — Zelda's scrapbook about Scottie, </unittitle>
+						<unitdate>circa 1920-1943</unitdate>
+						<physdesc>[partial]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Scrapbook — General, </unittitle>
+						<unitdate>1934-1938</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Scrapbook — General, </unittitle>
+						<unitdate>1939-1940</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Scrapbook — General (including F. Scott Fitzgerald obituaries), </unittitle>
+						<unitdate>1940-1941</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 25</container>
+						<unittitle>Scrapbook — General, </unittitle>
+						<unitdate>1942-1943</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Scrapbook — Mostly MS skits, </unittitle>
+						<unitdate>1953-1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Scrapbook — Politics, </unittitle>
+						<unitdate>1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Scrapbook — Travel, </unittitle>
+						<unitdate>1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unittitle>Family — Children — Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.11</container>
+						<unittitle>Family — Children — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.12</container>
+						<unittitle>Family — Samuel Jackson Lanahan — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.13</container>
+						<unittitle>Friends and extended family — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31</container>
+						<unittitle>Genealogy and extended family</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.1</container>
+						<unittitle>Genealogy and extended family — Letter from [Eliza Scott to Elizabeth R. K. Elder], Glen Mary Farm, </unittitle>
+						<unitdate>1858</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.2</container>
+						<unittitle>Genealogy and extended family — Unidentified letter from a Scott or Fitzgerald relative, Glen Mary Farm, </unittitle>
+						<unitdate>24 July 1876</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Genealogy and extended family — See also "The Colonial Ancestors of Francis Scott Key Fitzgerald" (1981) and "The Maryland Ancestors of Zelda Sayre Fitzgerald" (1983) in Series IV: Writings.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.1</container>
+						<unittitle>Alabama Senior Citizens Hall of Fame Medal of Honor, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unittitle>Finances — Brookville Road House, </unittitle>
+						<unitdate>circa 1950</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33</container>
+						<unittitle>Finances — Bank book, </unittitle>
+						<unitdate>1950-1951</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34</container>
+						<unittitle>Finances — General, </unittitle>
+						<unitdate>1953</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.14</container>
+						<unittitle>Finances — Minerva Sayre's estate, </unittitle>
+						<unitdate>1958</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.15</container>
+						<unittitle>Finances — Trapeze Shop, </unittitle>
+						<unitdate>1964, 1969, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.16</container>
+						<unittitle>Finances — Nonquitt Property, Massachusetts, </unittitle>
+						<unitdate>1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 25</container>
+						<unittitle>Finances — Plans for Nonquitt House, with letter to Bobbie, </unittitle>
+						<unitdate>1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unittitle>Finances — Miscellaneous, </unittitle>
+						<unitdate>1941-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36</container>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Biography —Recordings</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>
+							<emph render="bold">Recordings of FSFLS</emph>
+						</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Box 10 - CD 1 (Reel 1)</container>
+							<unittitle>FSFLS interviewed by David Yellin and two others on a Memphis television panel show called "Face to Face." She was asked about<emph render="underline">Don't Quote Me</emph>but also her childhood, being the daughter of Zelda and F. Scott Fitzgerald, Nancy Milford's book, life in Washington versus the South, and the role of women in politics, </unittitle>
+							<unitdate>16 January 1971</unitdate>
+							<physdesc>(26:39)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 2 (Tape 1 side a)</container>
+							<unittitle>FSFLS and Samuel Jackson Lanahan — Lanahan and Fitzgerald genealogy (Interviewed by Eleanor and Jacky Lanahan), </unittitle>
+							<unitdate>2 June 1986</unitdate>
+							<physdesc>(minutes 1-36)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 3 (Tape 1 side b)</container>
+							<unittitle>FSFLS — her papers and finances, Tim Lanahan (Interviewed by Eleanor and Jacky Lanahan), </unittitle>
+							<unitdate>2 June 1986</unitdate>
+							<physdesc>(35:12)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 4 (Tape 2 side a)</container>
+							<unittitle>FSFLS — her family life, writing, and political work in the 1940s and 1950s (Interviewed by Cecilia Ross), </unittitle>
+							<unitdate>June 1986</unitdate>
+							<physdesc>(23:14)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 5 (Tape 2 side b)</container>
+							<unittitle>FSFLS — her writing, political work, musicals, and the Washington social scene in the 1950s and 1960s, also her relationship with Clayton Fritchey and family life with Grove Smith (Interviewed by Cecilia Ross), </unittitle>
+							<unitdate>11 June 1986</unitdate>
+							<physdesc>(23:31)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 6 (Tape 3 side a)</container>
+							<unittitle>FSFLS — her family life, writing, musicals, political activities and the Washington social scene in the 1960s and 1970s, as well as her move to Alabama, and the growth of interest in F. Scott Fitzgerald's work, (Interviewed by Cecilia Ross and George Alfred Browning)</unittitle>
+							<unitdate>June 1986</unitdate>
+							<physdesc>(47:30)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 7 (Tape 3 side b)</container>
+							<unittitle>FSFLS — writing and political work in Alabama in the 1970s, her relationship with her grandchildren, Trapeze, her feelings about the South (Interviewed by Cecilia Ross), </unittitle>
+							<unitdate>June 1986</unitdate>
+							<physdesc>(minutes 1-23)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.37</container>
+							<unittitle>Transcript of Interview of FSFLS by Cecilia Lanahan, </unittitle>
+							<unitdate>June 1986</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>
+							<emph render="bold">Recordings about FSFLS and the Extended Lanahan Family by Family</emph>
+						</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 8 (Tape 4 side a)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky" — his life and family events in the 1960s and early 1970s (Interview by Eleanor Lanahan), </unittitle>
+							<unitdate>13 January 1988</unitdate>
+							<physdesc>(32:09 - phone interview)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 8 (Tape 4 side b)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky" — his life and family events during the 1970s, and Tim's suicide (Interview by Eleanor Lanahan), </unittitle>
+							<unitdate>13 January 1988</unitdate>
+							<physdesc>(24:12 - phone interview)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 9 (Tape 5 side a)</container>
+							<unittitle>Lanahan, Eleanor and Cecilia and Chris Ross — current politics, books, art, and parenting, </unittitle>
+							<unitdate>1992</unitdate>
+							<physdesc>(31:14 - track 2 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 9 (Tape 5 side b)</container>
+							<unittitle>Lanahan, Eleanor and Cecilia and Chris Ross — parenting, FSFLS's feelings about pornography and gambling, her temper tantrums, Sheila Lanahan, and other family history, </unittitle>
+							<unitdate>1992</unitdate>
+							<physdesc>(28:29 - track 1 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 10 (Tape 6 side a)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky" and Eleanor Lanahan — using photographs to clarify the family chronology, particularly Jacky's life and family vacations, and discussion of potential changes to the<emph render="underline">Scottie</emph>manuscript, </unittitle>
+							<unitdate>13 January 1995</unitdate>
+							<physdesc>(46:38 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 10 (Tape 6 side b)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky" and Eleanor Lanahan — Jacky's relationship with Jack Lanahan and their parents' quarrels over money, </unittitle>
+							<unitdate>13 January 1995</unitdate>
+							<physdesc>(16:04 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 11 (Tape 7 side a)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky," Cecilia Lanahan Ross and Eleanor Lanahan — discussion of discrepancies of perspective on Jacky's early life and the Lanahan family dynamic, </unittitle>
+							<unitdate>14 January 1995</unitdate>
+							<physdesc>(46:41 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 12 (Tape 7 side b)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky," Cecilia Lanahan Ross and Eleanor Lanahan — continued discussion of how the Lanahan household functioned, the role of alcohol, discrepancies between memories, and clearing up the chronology, </unittitle>
+							<unitdate>14 January 1995</unitdate>
+							<physdesc>(46:42 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 13 (Tape 8 side a)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky," Cecilia Lanahan Ross and Eleanor Lanahan — continued discussion of how the Lanahan household functioned, the role of alcohol, and an au pair who joined the family in 1964, </unittitle>
+							<unitdate>15 January 1995</unitdate>
+							<physdesc>(45:54 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 14 (Tape 8 side b)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky," Cecilia Lanahan Ross and Eleanor Lanahan — their education, other childcare help, alcoholism, their parents' love affairs, and Jack Lanahan's parenting, </unittitle>
+							<unitdate>15 January 1995</unitdate>
+							<physdesc>(45:56 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 15 (Tape 9)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky," Cecilia Lanahan Ross and Eleanor Lanahan — Eleanor's romantic relationships, religion, a summary of the discussions and agreements they'd made in the previous conversations, and talk about family vacations, </unittitle>
+							<unitdate>15 January 1995</unitdate>
+							<physdesc>(45:41 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 16 (Tape 10)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky," Cecilia Lanahan Ross and Eleanor Lanahan — pleasant times from their family life, their step-sister, and their parenting techniques, </unittitle>
+							<unitdate>15 January 1995</unitdate>
+							<physdesc>(23:55 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 17 (Tape 11)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky," Cecilia Lanahan Ross and Eleanor Lanahan — money, </unittitle>
+							<unitdate>16 January 1995</unitdate>
+							<physdesc>(4:01 - recorded at a restaurant)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 18 (Tape 12)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jack" — Meeting FSFLS, their early relationship, and marriage (Interviewed by Eleanor Lanahan, Cecilia Ross [and Chris Ross?]), </unittitle>
+							<unitdate>July 1994</unitdate>
+							<physdesc>(41:16)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 19 (Tape 13)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jack" — his education, how he met FSFLS, his family background and the whiskey business, and his early career (Interview by Eleanor Lanahan), </unittitle>
+							<unitdate>circa 1980s</unitdate>
+							<physdesc>(24:56 - phone interview)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 20 (Tape 14 side b)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jack" — Lanahan genealogy, his childhood, the staffing of his childhood home, and his early relationship with FSFLS (Interview by Eleanor Lanahan), </unittitle>
+							<unitdate>February 1988</unitdate>
+							<physdesc>(46:57 - phone interview)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 21 (Tape 14 side a)</container>
+							<unittitle>Lanahan, Samuel Jackson "Jack" — his childhood (Interview by Eleanor Lanahan), </unittitle>
+							<unitdate>February 1988</unitdate>
+							<physdesc>(minutes 1-5 - phone interview)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 21 (Tape 14 side a)</container>
+							<unittitle>Smith, C. Grove and Martin — Grove's relationship with FSFLS as well as her relationship with Clayton Fritchey, her role as a grandmother, and her political work with Grove (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+							<unitdate>1988</unitdate>
+							<physdesc>(minutes 5-36)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 22 (Tape 15 side a)</container>
+							<unittitle>Smith, C. Grove and Martin — how Grove and FSFLS met, and how their children interacted with each other and their parents (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+							<unitdate>1988</unitdate>
+							<physdesc>(31:45)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 22 (Tape 15 side b)</container>
+							<unittitle>Smith, C. Grove and Martin — FSFLS's move to Alabama and the end of her marriage to Grove, alcohol, FSFLS's cancer and final days. Morella, the Smith's housekeeper, also sat down and talked about her impressions of FSFLS (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+							<unitdate>1988</unitdate>
+							<physdesc>(31:45)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 23 (Tape 16 side a)</container>
+							<unittitle>Smith, C. Grove and Martin — Morella continued with her reminiscences. Discussion of FSFLS's final illness and cleaning out her house, her political work in the 1960s and 1970s, and the political atmosphere in Washington during that era (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+							<unitdate>1988</unitdate>
+							<physdesc>(45:49)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 24 (Tape 16 side b)</container>
+							<unittitle>Smith, C. Grove and Martin — Tim Lanahan's life after Vietnam, the Smith/Lanahan children's drug use, a family trip to Nantucket in 1968, and Poupette's relationship with the family (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+							<unitdate>1988</unitdate>
+							<physdesc>(45:46)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 25 (Tape 17)</container>
+							<unittitle>Miles, Eleanor Lanahan — Lanahan genealogy, Samuel Jackson Lanahan's childhood and his relationship with FSFLS (Interviewed by Eleanor Lanahan), </unittitle>
+							<unitdate>10 Feb 1988</unitdate>
+							<physdesc>(31:40 and 15:49 - phone interview)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 26 (Tape 18)</container>
+							<unittitle>Birthday celebration including several members of the Fitzgerald side of the family, including discussions of the Fitzgeralds, Delihants and Taylors, </unittitle>
+							<unitdate>circa 1980s</unitdate>
+							<physdesc>(47:01 and 13:19)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>
+							<emph render="bold">Interviews with others about FSFLS</emph>
+						</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bolditalic">APRIL 1987 TRIP TO ALABAMA</emph>
+							</unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 27 (Tape 19 side a)</container>
+								<unittitle>Henrietta McGuire — About FSFLS's life in Montgomery and her membership in "Women of America" (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(42:51)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 28 (Tape 19 side b)</container>
+								<unittitle>Pattillo, Edward "Eddie" — About FSFLS's life in Montgomery and friendship with Pattillo (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(42:31)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 29 (Tape 20 side a)</container>
+								<unittitle>Pattillo, Edward "Eddie" — about his friendship with FSFLS when she returned to Montgomery (Interviewed by Eleanor Lanahan, Cecilia Ross, and Dodgie Shaffer), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(minutes 1-43)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 29 (Tape 20 side a)</container>
+								<unittitle>Steiner, Katherine — about her childhood friendship with Zelda and later friendship with FSFLS when she returned to Montgomery (Interviewed by Eleanor Lanahan, Cecilia Ross, Dodgie Shaffer and Eddie Pattillo), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(minutes 43-47)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 30 (Tape 20 side b)</container>
+								<unittitle>Steiner, Katherine — about her childhood friendship with Zelda and later friendship with FSFLS when she returned to Montgomery (Interviewed by Eleanor Lanahan, Cecilia Ross, Dodgie Shaffer and Eddie Pattillo), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(minutes 1-41)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 30 (Tape 20 side b)</container>
+								<unittitle>Dinner party thrown by Dot Moore in Montgomery, includes reminiscences by Dot as well as Jake and Judy Wagner about FSFLS's political activities (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(minutes 41-46)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 31 (Tape 21 side a)</container>
+								<unittitle>Dinner party thrown by Dot Moore in Montgomery, includes reminiscences by Dot as well as Jake and Judy Wagner about FSFLS's political activities (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(46:17)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 32 (Tape 21 side b)</container>
+								<unittitle>Dinner party thrown by Dot Moore in Montgomery, includes reminiscences by Dot as well as Jake and Judy Wagner about FSFLS's political activities (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>April 1987</unitdate>
+								<physdesc>(46:05)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bolditalic">JUNE 1987 TRIP TO ALABAMA</emph>
+							</unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 33 (Tape 22 side a)</container>
+								<unittitle>Stapp, Mary Lee, Tom Conner and Waverly Barbe - Dinner party (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(45:53)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 34 (Tape 22 side b)</container>
+								<unittitle>Stapp, Mary Lee, Tom Conner and Waverly Barbe - Dinner party (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(11:59)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 35 (Tape 23 side a)</container>
+								<unittitle>Shaffer, Dodgie (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(minutes 1-25)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 35 (Tape 23 side a)</container>
+								<unittitle>Carmichael, Malcolm — re Grove Smith and FSFLS's divorce (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(minutes 25-37)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 35 (Tape 23 side a)</container>
+								<unittitle>Garland, Julia — about childhood in Montgomery and the Sayres (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(minutes 37-46)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 36 (Tape 24 side a)</container>
+								<unittitle>Garland, Julia — about childhood in Montgomery and the Sayres (Interviewed by Eleanor Lanahan, Cecilia Ross, Dodgie Shaffer and Tom Conners), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(minutes 1-21)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 36 (Tape 24 side a)</container>
+								<unittitle>[Dodgie?] on St. Cecilia's Chapel (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(minutes 21-26)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 36 (Tape 24 side a)</container>
+								<unittitle>Lunch at Elite with Dodgie, Dot Moore, and Henrietta McGuire about FSFLS's political work (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(minutes 26-46</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 37 (Tape 24 side b)</container>
+								<unittitle>Lunch at Elite with Dodgie, Dot Moore, and Henrietta McGuire about FSFLS's political work (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(46:46)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 38 (Tape 25 side a)</container>
+								<unittitle>Browning, George Alfred and Dodgie Shaffer — much about Browning's experiences in WWII (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(47:01)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 39 (Tape 25 side b)</container>
+								<unittitle>Browning, George Alfred and Dodgie Shaffer — much about Browning's experiences in WWII (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>June 1987</unitdate>
+								<physdesc>(33:41)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 40 (Tape 26)</container>
+								<unittitle>Party thrown by Dot Moore in Montgomery, includes reminiscences by several people about FSFLS's political work and life in Montgomery, </unittitle>
+								<unitdate>24 June 1987</unitdate>
+								<physdesc>(46:56)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 41 (Tape 27)</container>
+								<unittitle>Browning, George Alfred — Much about his military career and moves, but somewhere around minute 25, he starts talking about Scottie (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>1987?</unitdate>
+								<physdesc>(46:59 - poor recording - bad sound and high speed)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bolditalic">OCTOBER 1992 TRIP TO ALABAMA</emph>
+							</unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 42 (Tape 28)</container>
+								<unittitle>Browning, George Alfred — a few minutes about the last few days of FSFLS's life (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(3:37)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 43 (Tape 29)</container>
+								<unittitle>Shaffer, Dodgie and John and Eddie Pattillo — Eleanor Lanahan's relationship with FSFLS, the process of writing<emph render="underline">Scottie, the Daughter of</emph>, the Montgomery Sayre house, and FSFLS's issues with intimacy (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(55:29 - false starts until 8:38)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 44 (Tape 29)</container>
+								<unittitle>Shaffer, Dodgie and John and Eddie Pattillo — FSFLS's feelings about entertaining (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(7:17)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 45 (Tape 30)</container>
+								<unittitle>Shaffer, Dodgie and John and Eddie Pattillo — Tim Lanahan's death (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(9:08)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 46 (Tape 31 side b)</container>
+								<unittitle>Moore, Dot, Nancy Grisham Anderson, and Wayne Greenhaw — talk in a car about Selma, Alabama and Anderson's NEH-funded educational work (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(14:01)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 47 (Tape 31 side a)</container>
+								<unittitle>Nancy Grisham Anderson and Dot Moore speak at the induction of Zelda Fitzgerald and FSFLS into the Alabama Women's Hall of Fame, </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(minutes 1-20)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 47 (Tape 31 side a)</container>
+								<unittitle>??? — about trip to Europe in 1979 (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(minutes 20-22)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bolditalic">OTHERS ALPHABETICALLY</emph>
+							</unittitle>
+						</did>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 48 (Tape 32)</container>
+								<unittitle>Bruccoli, Matthew — Bruccoli's involvement with Nancy Milford's book and other works about Zelda Fitzgerald, as well as his general working relationship with FSFLS (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>10 February 1988</unitdate>
+								<physdesc>(32:16 and 5:12 - phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 49 (Tape 33)</container>
+								<unittitle>Carpenter, Liz — First 8 minutes include primarily Eleanor's memories, the rest is about FSFLS's political activities (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>7 August 1987</unitdate>
+								<physdesc>(18:22 and 2:49)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 50 (Tape 34 side a)</container>
+								<unittitle>Carusi, Ceci and Mary Chewning —FSFLS's political activities (including the 1964 caravan), her travels, relationship with France and the rest of Europe, and privacy issues (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>circa 1987</unitdate>
+								<physdesc>(47:09)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 51 (Tape 34 side b)</container>
+								<unittitle>Carusi, Ceci and Mary Chewning —FSFLS's MS fund-raising work, her marriages, her cancer, and various aspects of her personality (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>circa 1987</unitdate>
+								<physdesc>(47:12)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 52 (Tape 35)</container>
+								<unittitle>Carusi, Ceci and Mary Janney — about FSFLS's political work, Trapeze, and George Alfred Browning (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>undated</unitdate>
+								<physdesc>(38:17)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 67 (Tape 47)</container>
+								<unittitle>Chewning, Mary — how FSFLS discussed her childhood (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>1994</unitdate>
+								<physdesc>(Track 1, minutes 1-8 - phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 11 - CD 53 (Tape 36)</container>
+								<unittitle>Devron, Howard — FSFLS's musical works (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>September 1987</unitdate>
+								<physdesc>(31:16 and Minutes 1-19 of track 2 - phone interview )</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 54 (Tape 37)</container>
+								<unittitle>Durr, Virginia — FSFLS's political work in Alabama and the friendships she formed there (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>2 August 1987</unitdate>
+								<physdesc>(32:12 and 0:47 - phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 55 (Tape 38 side b)</container>
+								<unittitle>Fritchey, Clayton — Washington journalism and politics, and his relationship with FSFLS (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>[8 April 1987]</unitdate>
+								<physdesc>(41:33)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 56 (Tape 38 side a)</container>
+								<unittitle>Gardner, Joan — friendship with FSFLS and FSFLS's marriage to Grove Smith (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>undated</unitdate>
+								<physdesc>(22:57)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 57 (Tape 43 side a)</container>
+								<unittitle>Gardner, Joan and Arthur — family events and the Washington social scene (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>[April 1987]</unitdate>
+								<physdesc>(45:01)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 67 (Tape 47)</container>
+								<unittitle>Hazard, Blake — the process of writing<emph render="underline">Scottie</emph>, and some family business (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>1994</unitdate>
+								<physdesc>(Track 1, minutes 12-20 - phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 58 (Tape 39)</container>
+								<unittitle>Janney, Mary — FSFLS's time at Vassar, their continuing friendship, and FSFLS's marriages (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>undated</unitdate>
+								<physdesc>(46:45 and 15:11 — recording grows poor around minute 40 of track 1)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 67 (Tape 47)</container>
+								<unittitle>Kerr, Joan Paterson — how FSFLS discussed her childhood (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>1994</unitdate>
+								<physdesc>(Track 1, minutes 8-12 - phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 59 (Tape 40)</container>
+								<unittitle>Kurth, Peter — the focus of the FSFLS biography and the process of getting it written and published (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>undated</unitdate>
+								<physdesc>(14:40 and 29:01)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 60 (Tape 41 side a)</container>
+								<unittitle>McConihe, Margo — MS musicals as well as FSFLS's marriages and relationships with Clayton Fritchey and George Alfred Browning (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>July 1987</unitdate>
+								<physdesc>(47:11)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 61 (Tape 41 side b)</container>
+								<unittitle>McConihe, Margo — MS musicals as well as FSFLS's marriages and relationships with Clayton Fritchey and George Alfred Browning (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>July 1987</unitdate>
+								<physdesc>(9:51)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 62 (Tape 42)</container>
+								<unittitle>Means, Marianne — the Northern Virginia Sun, Washington politics, FSFLS's writing, Sheila Graham, and Clayton Fritchey (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>8 April 1987</unitdate>
+								<physdesc>(31:17 and 31:17 - recorded at a restaurant)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 63 (Tape 43 side b)</container>
+								<unittitle>Means, Marianne — journalism and writing, and FSFLS's relationships with George Alfred Browning and Clayton Fritchey (Interviewed by Eleanor Lanahan and Cecilia Ross), </unittitle>
+								<unitdate>[8 April 1987]</unitdate>
+								<physdesc>(21:36 - recorded at a restaurant)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 64 (Tape 44)</container>
+								<unittitle>Ross, Janet — how she first met FSFLS, and their later relationship as in-laws, and life in Nonquitt (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>July 1987</unitdate>
+								<physdesc>(45:58 and 10:55)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 65 (Tape 45)</container>
+								<unittitle>Shepherd, Peter — the making of the 1974 film version of<emph render="underline">The Great Gatsby</emph>, as well as other publishing issues relating to her own work and that of her parents (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>25 January 1988</unitdate>
+								<physdesc>(31:49 and 31:46 - phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 66 (Tape 46 side a)</container>
+								<unittitle>Weaver, Peanut and Jeff —Tim Lanahan's life before his suicide (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(Track 1 - 31:21 phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 66 (Tape 46 side b)</container>
+								<unittitle>Weaver, Seabury —Tim Lanahan's life before his suicide (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>October 1992</unitdate>
+								<physdesc>(Track 2 - 31:22 - phone interview)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 12 - CD 67 (Tape 47)</container>
+								<unittitle>Wolff, Geoffrey — discussion between Eleanor and Wolff about F. Scott Fitzgerald at a dinner party in the mid 1960s at Gene Tunney's (Interviewed by Eleanor Lanahan), </unittitle>
+								<unitdate>10 February 1994</unitdate>
+								<physdesc>(Track 2 - 8:09 - phone interview)</physdesc>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. School Notebooks</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.38</container>
+						<unittitle>"Calcul" notebook, </unittitle>
+						<unitdate>1937</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.39</container>
+						<unittitle>"Dicteés" notebooks, </unittitle>
+						<unitdate>circa 1930s</unitdate>
+						<physdesc>(2 volumes)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.40 - 1.41</container>
+						<unittitle>"Narrations" notebooks, </unittitle>
+						<unitdate>circa 1930s</unitdate>
+						<physdesc>(7 volumes)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.42</container>
+						<unittitle>"Science" notebook, </unittitle>
+						<unitdate>circa 1930s</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Correspondence</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Outgoing</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.43</container>
+							<unittitle>Browning, Col. George A., </unittitle>
+							<unitdate>17 Aug [no year]</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.44</container>
+							<unittitle>Bruccoli, Matthew, </unittitle>
+							<unitdate>1967, undated</unitdate>
+							<physdesc>(3 carbons, 1 frag)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.45</container>
+							<unittitle>Curtis, Charlotte (<emph render="italic">New York Times</emph>), </unittitle>
+							<unitdate>circa 1965-1966</unitdate>
+							<physdesc>(1 draft, 1 carbon)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.46</container>
+							<unittitle>Demoncy Colette (babysitter), </unittitle>
+							<unitdate>21 Nov [no year]</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>Fitzgerald, F. Scott, </unittitle>
+							<unitdate>1925, undated</unitdate>
+							<physdesc>(2 postcards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.48</container>
+							<unittitle>Fitzgerald, Zelda, </unittitle>
+							<unitdate>1930-1931</unitdate>
+							<physdesc>(4 ALS, 4 postcards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.49</container>
+							<unittitle>Fritchey, Clayton, </unittitle>
+							<unitdate>20 Mar 1966</unitdate>
+							<physdesc>(1 draft)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.50</container>
+							<unittitle>Gardner, Joan, </unittitle>
+							<unitdate>1969, undated</unitdate>
+							<physdesc>(1 TLS, 1 ALS, 1 carbon)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle>Hazard, Blake, Nathan and Zachary, </unittitle>
+							<unitdate>circa 1978-1985</unitdate>
+							<physdesc>(2 greeting cards, 3 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.52</container>
+							<unittitle>Hazard, Rowley, </unittitle>
+							<unitdate>1973-1984</unitdate>
+							<physdesc>(6 ALS, 2 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.53</container>
+							<unittitle>Hill, Elizabeth, </unittitle>
+							<unitdate>1973</unitdate>
+							<physdesc>(1 postcard)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.54</container>
+							<unittitle>[Kroll?], Nathan and Frances, </unittitle>
+							<unitdate>12 Mar [no year]</unitdate>
+							<physdesc>(1 carbon)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 1.55 - 1.60</container>
+							<unittitle>Lanahan, Eleanor, </unittitle>
+							<unitdate>1962-1969</unitdate>
+							<physdesc>(6 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 2.1 - 2.8</container>
+							<unittitle>Lanahan, Eleanor, </unittitle>
+							<unitdate>1970-1981</unitdate>
+							<physdesc>(8 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 2.9 - 2.10</container>
+							<unittitle>Lanahan, Eleanor, </unittitle>
+							<unitdate>1983-1985</unitdate>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.11</container>
+							<unittitle>Lanahan, Eleanor, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(1 folder)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 2.12 - 2.13</container>
+							<unittitle>Lanahan, Samuel Jackson "Jack," </unittitle>
+							<unitdate>[1940], 1944-1945, 1957, 1963-1975, 1985</unitdate>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 24</container>
+							<unittitle>[Lanahan Family Correspondence], </unittitle>
+							<unitdate>circa 1966-1971</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 24</container>
+							<unittitle>[Lanahan Family Correspondence], </unittitle>
+							<unitdate>1983-1986</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.14</container>
+							<unittitle>Lanahan, Sheila, </unittitle>
+							<unitdate>1 Jan 1971</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.15</container>
+							<unittitle>Lanahan/Smith children, </unittitle>
+							<unitdate>17 Nov 1967</unitdate>
+							<physdesc>(1 TL)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.16</container>
+							<unittitle>McAdoo, Cynthia, </unittitle>
+							<unitdate>1945-1951</unitdate>
+							<physdesc>(5 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.17</container>
+							<unittitle>McAdoo, Francis, </unittitle>
+							<unitdate>circa 1940s</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.18</container>
+							<unittitle>McCarthy, Eugene, </unittitle>
+							<unitdate>17 Sep 1968</unitdate>
+							<physdesc>(1 carbon)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.19</container>
+							<unittitle>Miles, Eleanor Lanahan, </unittitle>
+							<unitdate>1942-1943, 1978-1986</unitdate>
+							<physdesc>(7 ALS, 3 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.20</container>
+							<unittitle>Mayfield, Sara, </unittitle>
+							<unitdate>circa 1971</unitdate>
+							<physdesc>(1 carbon)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.21</container>
+							<unittitle>Ober, Anne, </unittitle>
+							<unitdate>20 Jan 1958</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.22</container>
+							<unittitle>Ridder, Walter, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(photocopy)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.23</container>
+							<unittitle>Sayre, Minerva, </unittitle>
+							<unitdate>1927-1930, undated</unitdate>
+							<physdesc>(14 ALS, 3 postcards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.24</container>
+							<unittitle>Smith, C. Grove, </unittitle>
+							<unitdate>1979-1985, undated</unitdate>
+							<physdesc>(8 TLS, 5 ALS, 1 carbon</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.25</container>
+							<unittitle>Smith, Rosalind Sayre, </unittitle>
+							<unitdate>17 Apr [1931]</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.26</container>
+							<unittitle>"Santa," </unittitle>
+							<unitdate>circa 1920s</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.27</container>
+							<unittitle>"Jacqueline," </unittitle>
+							<unitdate>circa 1920s</unitdate>
+							<physdesc>(unsent postcard)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.28</container>
+							<unittitle>"Dorothy, " re: F. Scott Fitzgerald's "Lo, the Poor Peacock" as printed in <emph render="italic">Esquire</emph>, </unittitle>
+							<unitdate>[1971]</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.29</container>
+							<unittitle>Miscellaneous and unidentified</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Incoming</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.30</container>
+							<unittitle>Baker, Clotilde, </unittitle>
+							<unitdate>6 Mar 1986</unitdate>
+							<physdesc>(1 ALS - 2 photographs separated)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.31</container>
+							<unittitle>[Baldridge, Letitia?], </unittitle>
+							<unitdate>[1962?]</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.32</container>
+							<unittitle>Boggs, Lindy, </unittitle>
+							<unitdate>22 July 1976</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.33</container>
+							<unittitle>[Bourjaily], Vance, </unittitle>
+							<unitdate>9 Oct 1965</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.34</container>
+							<unittitle>Bradlee, Ben (<emph render="italic">Washington Post</emph>), </unittitle>
+							<unitdate>16 May 1966</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.35</container>
+							<unittitle>Brady, James W. (<emph render="italic">Women's Wear Daily</emph>), </unittitle>
+							<unitdate>1 Mar 1966</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.36</container>
+							<unittitle>Brinson, Marjorie Sayre, </unittitle>
+							<unitdate>1943-1949</unitdate>
+							<physdesc>(2 TLS, 2 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.17</container>
+							<unittitle>Bruccoli, Matthew, </unittitle>
+							<unitdate>1969-1986, undated</unitdate>
+							<physdesc>(5 TLS, 1 ALS, enclosures)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.37</container>
+							<unittitle>Carpenter, Liz, </unittitle>
+							<unitdate>1978, 1986</unitdate>
+							<physdesc>(2 postcards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.38</container>
+							<unittitle>Carter, Jimmy, </unittitle>
+							<unitdate>10 Nov 1975, undated</unitdate>
+							<physdesc>(1 TLS, 1 Christmas card)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.39</container>
+							<unittitle>Cerf, Bennett (Random House), </unittitle>
+							<unitdate>1945</unitdate>
+							<physdesc>(3 TLS and 1 enclosure)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.40</container>
+							<unittitle>Church, Frank, </unittitle>
+							<unitdate>1959, 1973, 1976</unitdate>
+							<physdesc>(3 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.41</container>
+							<unittitle>Curtis, Charlotte (<emph render="italic">New York Times</emph>), </unittitle>
+							<unitdate>1965-1966</unitdate>
+							<physdesc>(3 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.42</container>
+							<unittitle>Davis, Meyer, </unittitle>
+							<unitdate>4 Jan 1966</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.18</container>
+							<unittitle>de Havilland, Olivia, </unittitle>
+							<unitdate>9 July 1981</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.43</container>
+							<unittitle>Delihant, Thomas, </unittitle>
+							<unitdate>1945-1947, undated</unitdate>
+							<physdesc>(3 TLS, 1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.44</container>
+							<unittitle>Donaldson, Scott, </unittitle>
+							<unitdate>20 July 1978</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.45</container>
+							<unittitle>Fitzgerald, Mollie McQuillan, </unittitle>
+							<unitdate>1928, undated</unitdate>
+							<physdesc>(6 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.76</container>
+							<unittitle>Fitzgerald, Zelda, </unittitle>
+							<unitdate>1928</unitdate>
+							<physdesc>(1 postcard)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.46</container>
+							<unittitle>Fox, Evelyn K. (Woman's Club of Rockville), </unittitle>
+							<unitdate>1975-1976</unitdate>
+							<physdesc>(4 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.47</container>
+							<unittitle>Fulbright, J. William, </unittitle>
+							<unitdate>26 July 1974</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.48</container>
+							<unittitle>Galbraith, John Kenneth, </unittitle>
+							<unitdate>1962, 1963</unitdate>
+							<physdesc>(2 autographed notes and annotated articles)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.49</container>
+							<unittitle>Gill, Brendan (<emph render="italic">The New Yorker</emph>), </unittitle>
+							<unitdate>circa 1945-1946, 1951, 1972, undated</unitdate>
+							<physdesc>(4 TLS, 2 ALS, 1 note</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.50</container>
+							<unittitle>Gingrich, Arnold (<emph render="italic">Esquire</emph>), </unittitle>
+							<unitdate>13 Sep 1961</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.51</container>
+							<unittitle>Goodhue, Mary "Dede," </unittitle>
+							<unitdate>16 June 1986</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.52</container>
+							<unittitle>Graeber, Betty Beale, </unittitle>
+							<unitdate>7 Feb 1984</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.53</container>
+							<unittitle>Graham, Katharine (<emph render="italic">Washington Post</emph>), </unittitle>
+							<unitdate>1967-1970</unitdate>
+							<physdesc>(2 TLS, 1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.54</container>
+							<unittitle>Graham, Sheilah, </unittitle>
+							<unitdate>29 Mar 1951</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.55</container>
+							<unittitle>Harrison, Gilbert A., </unittitle>
+							<unitdate>26 Jan 1976</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.56</container>
+							<unittitle>Hart, Gary, </unittitle>
+							<unitdate>25 Aug 1982</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.57</container>
+							<unittitle>Hayes, Harold (<emph render="italic">Esquire</emph>), </unittitle>
+							<unitdate>15 July 1965</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.58</container>
+							<unittitle>Hersey, John (<emph render="italic">Life Magazine</emph>), </unittitle>
+							<unitdate>10 Mar 1944</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.59</container>
+							<unittitle>Highland Hospital (re Zelda Fitzgerald), </unittitle>
+							<unitdate>1947, 1948</unitdate>
+							<physdesc>(2 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.60</container>
+							<unittitle>Hoopes, Townsend "Tim," </unittitle>
+							<unitdate>1953-1957, undated</unitdate>
+							<physdesc>(6 ALS, 2 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.61</container>
+							<unittitle>Humphrey, Muriel, </unittitle>
+							<unitdate>29 Sep 1968</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.62</container>
+							<unittitle>Janney, Mary, </unittitle>
+							<unitdate>6 July 1967</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.63</container>
+							<unittitle>Johnson, Lady Bird, </unittitle>
+							<unitdate>1964, 1982, 1986</unitdate>
+							<physdesc>(2 TLS, 1 telegram)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle>Johnson, Lady Bird — See also, Biography — Funeral Attendance book, for June 1986 telegram</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.64</container>
+							<unittitle>[Kidder, Frances Turnbull?], </unittitle>
+							<unitdate>circa 1975, 18 June 1986</unitdate>
+							<physdesc>(2 ALS, 2 photographs separated)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.65</container>
+							<unittitle>
+								<emph render="italic">Ladies Home Journal</emph>, </unittitle>
+							<unitdate>24 Apr 1941</unitdate>
+							<physdesc>(1 TLS, 1 typed note)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.66</container>
+							<unittitle>Lanahan, Betty, </unittitle>
+							<unitdate>31 Jan 1947</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.67</container>
+							<unittitle>Lanahan, Cecilia, </unittitle>
+							<unitdate>circa 1967</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.68</container>
+							<unittitle>Lanahan, Samuel Jackson "Jack", </unittitle>
+							<unitdate>22 Jan 1940</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.69</container>
+							<unittitle>Lanahan, William Wallace, </unittitle>
+							<unitdate>circa 1946</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.70</container>
+							<unittitle>MacRae, [?] (re Zelda Fitzgerald), </unittitle>
+							<unitdate>circa 1948</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.71</container>
+							<unittitle>Marshman, D. M. (Donald M. "Mac"), </unittitle>
+							<unitdate>1945-1946</unitdate>
+							<physdesc>(2 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.72</container>
+							<unittitle>Mayfield, Sara, </unittitle>
+							<unitdate>1970-1971</unitdate>
+							<physdesc>(1 TLS, 2 forwarded TLS re Zelda Fitzgerald)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.73</container>
+							<unittitle>McCarthy, Eugene, </unittitle>
+							<unitdate>19 Oct 1968</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.74</container>
+							<unittitle>McGovern, George, </unittitle>
+							<unitdate>6 Feb 1973</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.75</container>
+							<unittitle>Menotti, Gian Carlo, </unittitle>
+							<unitdate>21 Jan 1976</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.76</container>
+							<unittitle>Miles, Eleanor Lanahan, </unittitle>
+							<unitdate>1947-1967, 1979</unitdate>
+							<physdesc>(3 ALS, 1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.77</container>
+							<unittitle>Mondale, Walter, </unittitle>
+							<unitdate>9 Feb 1984</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.78</container>
+							<unittitle>Morris, Willie, </unittitle>
+							<unitdate>15 Sep 1976</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.79</container>
+							<unittitle>Muskie, Edmund and Jane, </unittitle>
+							<unitdate>1971-1972</unitdate>
+							<physdesc>(3 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.80</container>
+							<unittitle>Myers, Carmel, </unittitle>
+							<unitdate>20 Nov 1970</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.81</container>
+							<unittitle>Naylor, Lawrence P., </unittitle>
+							<unitdate>1939-1940</unitdate>
+							<physdesc>(2 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.82</container>
+							<unittitle>New York City League of Women Voters, </unittitle>
+							<unitdate>6 Oct 1944</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.83</container>
+							<unittitle>Newman, Harry Wright, </unittitle>
+							<unitdate>21 Dec 1982</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.84</container>
+							<unittitle>Noyes, Newbold (<emph render="italic">Washington Evening Star</emph>), </unittitle>
+							<unitdate>23 Feb 1966</unitdate>
+							<physdesc>(1 TLS with FSFLS's notes)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.85</container>
+							<unittitle>Ober, Anne, </unittitle>
+							<unitdate>12 Oct 1938</unitdate>
+							<physdesc>(1 TL)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.86</container>
+							<unittitle>Palmer, Clothilde Sayre, </unittitle>
+							<unitdate>3 Jan 1946</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.87</container>
+							<unittitle>Pattillo, Edward "Eddie," </unittitle>
+							<unitdate>1983-1986</unitdate>
+							<physdesc>(1 TLS, 1 ALS, 6 postcards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.88</container>
+							<unittitle>Perkins, Maxwell, </unittitle>
+							<unitdate>1943, 1945</unitdate>
+							<physdesc>(2 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.89</container>
+							<unittitle>Prince, Harold, </unittitle>
+							<unitdate>5 June 1980</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.90</container>
+							<unittitle>Ransom, Louise, </unittitle>
+							<unitdate>1973, 1986</unitdate>
+							<physdesc>(1 ALS, 2 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.91</container>
+							<unittitle>Ring, Frances, </unittitle>
+							<unitdate>15 Sep 1981</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.92</container>
+							<unittitle>Robb, Lynda Bird Johnson, </unittitle>
+							<unitdate>Sep 1977</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.19</container>
+							<unittitle>Sayre, Minerva, </unittitle>
+							<unitdate>1927-1929</unitdate>
+							<physdesc>(12 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.20</container>
+							<unittitle>Sayre, Minerva, </unittitle>
+							<unitdate>1946-1953, undated</unitdate>
+							<physdesc>(14 ALS, 1 frag)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.93</container>
+							<unittitle>Seldes, Timothy (Harcourt Brace), </unittitle>
+							<unitdate>7 Jan 1966</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.94</container>
+							<unittitle>Sereze, V., </unittitle>
+							<unitdate>26 Oct 1931</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.95</container>
+							<unittitle>Scribner, Charles, </unittitle>
+							<unitdate>1979, 1981</unitdate>
+							<physdesc>(1 ALS, 1 annotated clipping)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.96</container>
+							<unittitle>Shriver, Sargent, </unittitle>
+							<unitdate>12 Sep 1975</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.97</container>
+							<unittitle>Smith, Jacqueline "Poupette," </unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(3 postcards, 1 greeting card)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.21</container>
+							<unittitle>Smith, Rosalind Sayre, </unittitle>
+							<unitdate>1945-1976, undated</unitdate>
+							<physdesc>(7 TLS, 2 ALS, TLS from lawyer to nursing home)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.98</container>
+							<unittitle>Sprague, Annabel Fitzgerald, </unittitle>
+							<unitdate>1974-1975</unitdate>
+							<physdesc>(2 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.99</container>
+							<unittitle>Stevenson, Adlai, </unittitle>
+							<unitdate>1962-1963</unitdate>
+							<physdesc>(3 TLS, 1 TL)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.100</container>
+							<unittitle>Tidyman, Ernest (<emph render="italic">New York Times</emph>), </unittitle>
+							<unitdate>23 Feb 1966</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.101</container>
+							<unittitle>Vaughn, Courtney Sprague (Annabel Fitzgerald Sprague's daughter), </unittitle>
+							<unitdate>1978, undated</unitdate>
+							<physdesc>(2 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.102</container>
+							<unittitle>Weaver, Peanut, </unittitle>
+							<unitdate>11 May 1960</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle>White, Theodore: See Politics — Notes on McGovern Campaign</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.103</container>
+							<unittitle>Williams, Tennessee, </unittitle>
+							<unitdate>12 May 1962</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.104</container>
+							<unittitle>[Winship?], Tom, </unittitle>
+							<unitdate>17 Dec 1965</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.105</container>
+							<unittitle>Wouk, Herman, </unittitle>
+							<unitdate>5 Apr 1974</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 4.22</container>
+							<unittitle>Yates, Janty and Paul Martin Smith, </unittitle>
+							<unitdate>1978, 1984, 1986</unitdate>
+							<physdesc>(2 ALS, 1 telegram)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.106</container>
+							<unittitle>"Nannie Eva," </unittitle>
+							<unitdate>circa 1920s</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.107</container>
+							<unittitle>Miscellaneous letters in French, </unittitle>
+							<unitdate>circa 1920s</unitdate>
+							<physdesc>(2 ALS, 2 postcards)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.108</container>
+							<unittitle>"Bobby" (college boyfriend), </unittitle>
+							<unitdate>7 Dec 1939</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.109</container>
+							<unittitle>"Brad" (college boyfriend), </unittitle>
+							<unitdate>Feb 1939</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.110</container>
+							<unittitle>"Jim" (college boyfriend), </unittitle>
+							<unitdate>20 Feb 1939</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.111</container>
+							<unittitle>"Stanley" (college boyfriend), </unittitle>
+							<unitdate>11 Oct 1939</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.112</container>
+							<unittitle>"Sally," </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.113</container>
+							<unittitle>Miscellaneous and unidentified, </unittitle>
+							<unitdate>1928-1986</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>From Others to Others</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.114</container>
+							<unittitle>Bruccoli, Matthew to Eleanor Lanahan, </unittitle>
+							<unitdate>1983, 1986</unitdate>
+							<physdesc>(3 TLS, 1 note)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.115</container>
+							<unittitle>Ethel Walker School to F. Scott Fitzgerald, </unittitle>
+							<unitdate>11 June 1938</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.116</container>
+							<unittitle>Ethel Walker School to Anne Ober, </unittitle>
+							<unitdate>Oct-Nov 1936</unitdate>
+							<physdesc>(2 TLS, 2 notices)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.117</container>
+							<unittitle>Fischer, Elizabeth to Eleanor Lanahan, </unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(4 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle>Fitzgerald, F. Scott to "Mme. White" about FSFLS, addressed from Grove Park Inn, Ashville, North Carolina, </unittitle>
+							<unitdate>[1936]</unitdate>
+							<physdesc>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/d6e79ade-b143-4976-852c-7d8b32ae536b">Autograph Files</archref>]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.118</container>
+							<unittitle>Fitzgerald, John to F. Scott Fitzgerald, </unittitle>
+							<unitdate>Oct 1909</unitdate>
+							<physdesc>(1 postcard)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.119</container>
+							<unittitle>Hardesty, Emily to Eleanor Lanahan, </unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(2 ALS, 1 TLS from an attorney)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.120</container>
+							<unittitle>Janney, Mary D. to Eleanor Lanahan, </unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(1 ALS, 1 TLS, 1 copy of FSFLS eulogy)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.121</container>
+							<unittitle>Kiefer, Kitty to Eleanor Lanahan, </unittitle>
+							<unitdate>13 Aug 1979</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.122</container>
+							<unittitle>Lanahan, Betty to Eleanor Lanahan, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.123</container>
+							<unittitle>Lanahan, Samuel Jackson "Jacky" to Eleanor Lanahan, </unittitle>
+							<unitdate>circa 1986</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.124</container>
+							<unittitle>Lanahan, William Wallace to Jack Lanahan, </unittitle>
+							<unitdate>1945</unitdate>
+							<physdesc>(2 TLS, 1 carbon)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.125</container>
+							<unittitle>Lanahan, Wallace to William Wallace and Eleanor Lanahan, </unittitle>
+							<unitdate>circa 1940s</unitdate>
+							<physdesc>(1 ALS, 1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.126</container>
+							<unittitle>Meyer, Starke to Eleanor Lanahan, </unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.127</container>
+							<unittitle>Miles, Eleanor Lanahan to Eleanor Lanahan, </unittitle>
+							<unitdate>1986, 1988</unitdate>
+							<physdesc>(2 ALS, 1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.128</container>
+							<unittitle>Miles, Eleanor Lanahan to Jack Lanahan, </unittitle>
+							<unitdate>1945-1946, undated</unitdate>
+							<physdesc>(7 ALS, 5 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.129</container>
+							<unittitle>Ober, Richard to Eleanor Lanahan, </unittitle>
+							<unitdate>18 Feb 1987</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.130</container>
+							<unittitle>Pier, Arthur S. and Andre Brewster to William Wallace and Eleanor Lanahan (re Tim Lanahan), </unittitle>
+							<unitdate>circa 1940s</unitdate>
+							<physdesc>(2 carbons)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.131</container>
+							<unittitle>Raimey, Josephine to Minerva Sayre (re Zelda Fitzgerald), </unittitle>
+							<unitdate>1948</unitdate>
+							<physdesc>(2 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.132</container>
+							<unittitle>Sayre, Minerva to Zelda Fitzgerald, </unittitle>
+							<unitdate>11 May 1928</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.133</container>
+							<unittitle>Sayre, Minerva to [Smith?] Newman, </unittitle>
+							<unitdate>9 Dec 1950</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.134</container>
+							<unittitle>Sayre, Minerva to "Jacques," </unittitle>
+							<unitdate>26 May 1955</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.135</container>
+							<unittitle>Smith, Jacqueline "Poupette" to Eleanor and Cecilia Lanahan, </unittitle>
+							<unitdate>1986-1987</unitdate>
+							<physdesc>(2 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.136</container>
+							<unittitle>Smith, Rosalind Sayre to Jack Lanahan, </unittitle>
+							<unitdate>14 Feb 1951</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.137</container>
+							<unittitle>Sprague, Annabel Fitzgerald to Zelda Fitzgerald, </unittitle>
+							<unitdate>undated</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.138</container>
+							<unittitle>Summers, U. T. to Eleanor Lanahan, </unittitle>
+							<unitdate>21 Sep 1988</unitdate>
+							<physdesc>(1 TLS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.139</container>
+							<unittitle>Weaver, Peanut to Jack Lanahan, </unittitle>
+							<unitdate>circa 1960s</unitdate>
+							<physdesc>(1 ALS)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 2.140 - 2.141</container>
+							<unittitle>Condolence letters to the Lanahan children, A-M, </unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 3.1-3.2</container>
+							<unittitle>Condolence letters to the Lanahan children, N-Z, unidentified, </unittitle>
+							<unitdate>1986</unitdate>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Invitations</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.3</container>
+							<unittitle>Misc invitations to FSFLS</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.4</container>
+							<unittitle>Misc invitations from FSFLS</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Writings</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5</container>
+						<unittitle>"Doings of a Bad Girl, or a Consequence of Algebra," </unittitle>
+						<unitdate>1935</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.6</container>
+						<unittitle>"A Short Retort," <emph render="italic">Mademoiselle</emph>, </unittitle>
+						<unitdate>July 1939</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.23</container>
+						<unittitle>"End of Everything," <emph render="italic">College Bazaar</emph>, </unittitle>
+						<unitdate>Aug 1940</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.7</container>
+						<unittitle>Time, Inc. news broadcasts, </unittitle>
+						<unitdate>circa 1942-1943</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.8</container>
+						<unittitle>"Book Jacket, 1945," <emph render="italic">Saturday Review of Literature</emph>, </unittitle>
+						<unitdate>5 May 1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.9</container>
+						<unittitle>"The Water Cooler," <emph render="italic">The New Yorker</emph>, </unittitle>
+						<unitdate>22 Sep 1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.10</container>
+						<unittitle>"New Yorker Story, 1945," <emph render="italic">Saturday Review of Literature</emph>, </unittitle>
+						<unitdate>13 Oct 1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.11</container>
+						<unittitle>"The Importance of Being Kissed," <emph render="italic">Colliers</emph>, </unittitle>
+						<unitdate>23 Feb 1946</unitdate>
+						<physdesc>(clipping)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"The Importance of Being Kissed," <emph render="italic">Colliers</emph>, </unittitle>
+						<unitdate>23 Feb 1946</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.12</container>
+						<unittitle>"Table for Two" columns and book reviews, <emph render="italic">The New Yorker</emph>, </unittitle>
+						<unitdate>1946-1948</unitdate>
+						<physdesc>(typescripts and galley proofs)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.24</container>
+						<unittitle>"Table for Two" columns and book reviews, <emph render="italic">The New Yorker</emph>, </unittitle>
+						<unitdate>circa 1945-1948</unitdate>
+						<physdesc>(clippings)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.25</container>
+						<unittitle>"How They Started," <emph render="italic">Junior Bazaar</emph>, </unittitle>
+						<unitdate>Apr 1947</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.26</container>
+						<unittitle>Unidentified article, <emph render="italic">Junior Bazaar</emph>, </unittitle>
+						<unitdate>Sep 1947</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.27</container>
+						<unittitle>"The Stocking Present," <emph render="italic">The New Yorker</emph>, </unittitle>
+						<unitdate>27 Dec 1947</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle>"Cinderella's Daughter," </unittitle>
+						<unitdate>1952</unitdate>
+						<physdesc>(2 drafts and correspondence)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14</container>
+						<unittitle>
+							<emph render="italic">Democratic Digest</emph>, </unittitle>
+						<unitdate>1954-1955</unitdate>
+						<physdesc>(published pieces)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.28</container>
+						<unittitle>
+							<emph render="italic">Democratic Digest</emph>, </unittitle>
+						<unitdate>1956, undated</unitdate>
+						<physdesc>(typescripts)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.8</container>
+						<unittitle>Original water colors from<emph render="italic">Democratic Digest</emph> covers, </unittitle>
+						<unitdate>circa 1954</unitdate>
+						<physdesc>(2 water colors)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15</container>
+						<unittitle>"Cupid and Psyche," </unittitle>
+						<unitdate>1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Boxes 25-26</container>
+						<unittitle>
+							<emph render="italic">Northern Virginia Sun</emph> articles — scrapbooks</unittitle>
+						<unitdate>1957-1958</unitdate>
+						<physdesc>(3 volumes)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 4.29 - 4.32</container>
+						<unittitle>
+							<emph render="italic">Northern Virginia Sun</emph> articles, </unittitle>
+						<unitdate>circa 1957-1959</unitdate>
+						<physdesc>(4 folders of loose clippings)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.33</container>
+						<unittitle>"Fitzgerald As He Really Was," book review, <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>27 Apr 1958</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.16</container>
+						<unittitle>Toast to Phyllis Fritchey on the eve of her wedding, </unittitle>
+						<unitdate>[23 May 1958]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.34</container>
+						<unittitle>"'Little Rhody' Revels in Triple Play at Polls," <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>26 June 1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.35</container>
+						<unittitle>"3 Rhode Island Democrats Vie for Green's Senate Seat," <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>27 Sep 1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.36</container>
+						<unittitle>"A Fascinating Place to Live," <emph render="italic">House and Garden</emph>, </unittitle>
+						<unitdate>July 1962</unitdate>
+						<physdesc>(clipping)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"A Fascinating Place to Live," <emph render="italic">House and Garden</emph>, </unittitle>
+						<unitdate>July 1962</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"The Political Woman: Two Phases," <emph render="italic">Esquire</emph>, </unittitle>
+						<unitdate>July 1962</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.37</container>
+						<unittitle>"The Night Before Congress," <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>6 Jan 1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.38</container>
+						<unittitle>Articles about the Peace Corps, <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>June 1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.17</container>
+						<unittitle>"Merry Christmas from the Smiths," <emph render="italic">The New Yorker</emph>, </unittitle>
+						<unitdate>21 Dec 1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.18</container>
+						<unittitle>"The Lovely Americans" — piece for <emph render="italic">Esquire</emph> on the Peace Corps, </unittitle>
+						<unitdate>circa 1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.19</container>
+						<unittitle>Letter to the Editor of the <emph render="italic">Evening Star</emph>, </unittitle>
+						<unitdate>1 Feb 1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.20 - 3.21</container>
+						<unittitle>
+							<emph render="italic">The Cat's Whiskers / Love, Among Other Things</emph> — Drafts, </unittitle>
+						<unitdate>1964</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.22</container>
+						<unittitle>
+							<emph render="italic">The Cat's Whiskers / Love, Among Other Things</emph> — Correspondence, </unittitle>
+						<unitdate>1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.39</container>
+						<unittitle>
+							<emph render="italic">The Cat's Whiskers / Love, Among Other Things</emph> — Auburn University production, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.40</container>
+						<unittitle>"Interior Analysis," </unittitle>
+						<unitdate>31 Oct 1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"My Father's Letters: Advice Without Consent," <emph render="italic">Esquire</emph>, </unittitle>
+						<unitdate>Oct 1965</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.23</container>
+						<unittitle>"Time with Tonsein," </unittitle>
+						<unitdate>1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.41</container>
+						<unittitle>
+							<emph render="italic">New York Times</emph> articles, </unittitle>
+						<unitdate>1965-1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.42</container>
+						<unittitle>
+							<emph render="italic">New York Times</emph> articles — check stubs, </unittitle>
+						<unitdate>1965-1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.2</container>
+						<unittitle>"War Declared on Affluence," <emph render="italic">Evening Post News</emph> [satirical MS mock newspaper, </unittitle>
+						<unitdate>4 March 1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.24</container>
+						<unittitle>"Beauty and the Hairdresser," <emph render="italic">Washington Post Potomac</emph>, </unittitle>
+						<unitdate>26 June 1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.44</container>
+						<unittitle>"Paradise for Plain and Prancing," <emph render="italic">Lancaster New Era</emph>, </unittitle>
+						<unitdate>Sep 1966</unitdate>
+						<physdesc>(article and responses)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"A Place Where People Really Live," <emph render="italic">House and Garden</emph>, </unittitle>
+						<unitdate>Oct 1966</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Boxes 27-28</container>
+						<unittitle>"News to Me" column, <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>1966-1967</unitdate>
+						<physdesc>(scrapbooks of original clippings - 2 volumes)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 5.1 - 5.2</container>
+						<unittitle>"News to Me" column, <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>1966-1967</unitdate>
+						<physdesc>(2 folders - original clippings)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.3</container>
+						<unittitle>"News to Me" column, <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>1966-1967</unitdate>
+						<physdesc>(photocopies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.4</container>
+						<unittitle>"News to Me" column, <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>circa 1966-1967</unitdate>
+						<physdesc>(typescript drafts)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.5</container>
+						<unittitle>"Centers are Up Their Alley," <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>Feb 1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.25</container>
+						<unittitle>"The Group and I," <emph render="italic">McCall's</emph>, </unittitle>
+						<unitdate>July 1967</unitdate>
+						<physdesc>(clipping)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"The Group and I," <emph render="italic">McCall's</emph>, </unittitle>
+						<unitdate>July 1967</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.26</container>
+						<unittitle>"Happy New Year: 5728," <emph render="italic">Washington Post</emph>, </unittitle>
+						<unitdate>3 Oct 1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.27</container>
+						<unittitle>Unpublished "News to Me" piece, </unittitle>
+						<unitdate>Nov 1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Christmas Radiance at the White House, <emph render="italic">House and Garden</emph>, </unittitle>
+						<unitdate>Dec 1967</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.28</container>
+						<unittitle>"The Alternative Prospect," Letter to the editor of <emph render="italic">The Washington Post</emph>, </unittitle>
+						<unitdate>17 Sep 1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Boxes 27-28</container>
+						<unittitle>Advertisements for "United Democrats for Humphrey," </unittitle>
+						<unitdate>1968</unitdate>
+						<physdesc>(end of both scrapbook albums)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.29</container>
+						<unittitle>"The Sugar Tiger of Georgetown," <emph render="italic">Washingtonian</emph>, with Winzola McLendon, </unittitle>
+						<unitdate>May 1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 5.6 - 5.7</container>
+						<unittitle>Novel about Washington, </unittitle>
+						<unitdate>circa 1969</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.30</container>
+						<unittitle>
+							<emph render="underline">Don't Quote Me</emph> — Early drafts and correspondence, </unittitle>
+						<unitdate>circa 1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.31</container>
+						<unittitle>
+							<emph render="underline">Don't Quote Me</emph> — Drafts of various chapters, </unittitle>
+						<unitdate>circa 1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.32</container>
+						<unittitle>
+							<emph render="underline">Don't Quote Me</emph> — "Autobiographical Resume," </unittitle>
+						<unitdate>circa 1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.8</container>
+						<unittitle>
+							<emph render="underline">Don't Quote Me</emph> — Rights and royalties, </unittitle>
+						<unitdate>1969-1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.9</container>
+						<unittitle>
+							<emph render="underline">Don't Quote Me</emph> — Clippings, </unittitle>
+						<unitdate>1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Excerpt from <emph render="underline">Don't Quote Me</emph>, <emph render="italic">Ladies Home Journal</emph>, </unittitle>
+						<unitdate>Nov 1970</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.33</container>
+						<unittitle>"How Washington Women Stay Young," <emph render="italic">Washingtonian</emph>, with Winzola McLendon, </unittitle>
+						<unitdate>Apr 1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.10</container>
+						<unittitle>"The Art of Gossip," <emph render="italic">Sunday Herald Tribune</emph>, </unittitle>
+						<unitdate>22 Nov 1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.34</container>
+						<unittitle>"Georgetown: The Living End," <emph render="italic">Venture</emph>, with Winzola McLendon, </unittitle>
+						<unitdate>Dec-Jan 1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.35</container>
+						<unittitle>"Recipe for a Washington Dinner Party," <emph render="italic">Ladies Home Journal</emph>, with Winzola McLendon, </unittitle>
+						<unitdate>May 1971</unitdate>
+						<physdesc>(clipping)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>"Recipe for a Washington Dinner Party," <emph render="italic">Ladies Home Journal</emph>, with Winzola McLendon, </unittitle>
+						<unitdate>May 1971</unitdate>
+						<physdesc>(complete magazine)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.36</container>
+						<unittitle>"The Round Trip" — Movie outline by FSFLS and Winzola McLendon, </unittitle>
+						<unitdate>circa 1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.2</container>
+						<unittitle>"Four Christmas Memories," <emph render="italic">Washington Post Potomac</emph>, </unittitle>
+						<unitdate>23 Dec 1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.11</container>
+						<unittitle>
+							<emph render="underline">Bits of Paradise</emph> — Preface, </unittitle>
+						<unitdate>1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 29 (Oversize)</container>
+						<unittitle>
+							<emph render="underline">Bits of Paradise</emph> — Scrapbook of photocopied clippings, </unittitle>
+						<unitdate>1974</unitdate>
+						<physdesc>(final pages of scrapbook)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.37</container>
+						<unittitle>"Farewell Address... to Washington," </unittitle>
+						<unitdate>circa 1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.38</container>
+						<unittitle>"Notes About My Now Famous Father," <emph render="italic">Family Circle</emph>, </unittitle>
+						<unitdate>May 1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.12</container>
+						<unittitle>
+							<emph render="underline">The Romantic Egoists</emph> — General, </unittitle>
+						<unitdate>1974-1975, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.13</container>
+						<unittitle>
+							<emph render="underline">The Romantic Egoists</emph> — Clippings, </unittitle>
+						<unitdate>1974-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 29 (Oversize)</container>
+						<unittitle>
+							<emph render="underline">The Romantic Egoists</emph> — Scrapbook of clippings, </unittitle>
+						<unitdate>1974-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.39</container>
+						<unittitle>Introduction for Susan Mary Jay Patten, </unittitle>
+						<unitdate>23 Oct 1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.14</container>
+						<unittitle>
+							<emph render="underline">An Alabama Journal</emph>, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.40</container>
+						<unittitle>"Dede Goodhue: At Home in the Chamber," <emph render="italic">Vassar Quarterly</emph>, </unittitle>
+						<unitdate>1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.41</container>
+						<unittitle>"The Colonial Ancestors of Francis Scott Key Fitzgerald," </unittitle>
+						<unitdate>1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.42</container>
+						<unittitle>Outline for Novel by Dot Moore, Jack Wagnon and FSFLS, </unittitle>
+						<unitdate>circa 1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.43</container>
+						<unittitle>"The Maryland Ancestors of Zelda Sayre Fitzgerald," </unittitle>
+						<unitdate>1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.44</container>
+						<unittitle>"Ferraro: Two Views," <emph render="italic">Montgomery Advertiser</emph>, </unittitle>
+						<unitdate>26 Oct 1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.45</container>
+						<unittitle>"The Big Benefit," with Mary Channing, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.46</container>
+						<unittitle>"The Compliment," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.47</container>
+						<unittitle>"Gin and Diapers," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.15</container>
+						<unittitle>"Lesson One," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.48</container>
+						<unittitle>"Life in Our Hick Town, <emph render="italic">London Sunday Times</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.49</container>
+						<unittitle>"A Matter of Time" by Victoria Mims [pen name or Sayre family member?], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.50</container>
+						<unittitle>"The New Washington Society: Is it for Real," with Winzola McLendon, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.51</container>
+						<unittitle>"Novel," </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(notebook)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.52</container>
+						<unittitle>"Panel Discussion," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.53</container>
+						<unittitle>"The Tale of Herbert Rabbit: A Cocktail-Time Story," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.54</container>
+						<unittitle>"We Wives," </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.55</container>
+						<unittitle>Unpublished piece for the <emph render="italic">New York Sunday Times</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.56</container>
+						<unittitle>Unpublished piece for the <emph render="italic">New York Sunday Times</emph>, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.57</container>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.16</container>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.17</container>
+						<unittitle>Miscellaneous notes</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. F. Scott and Zelda Fitzgerald</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>F. Scott Fitzgerald</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.18</container>
+							<unittitle>Will, </unittitle>
+							<unitdate>1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.19</container>
+							<unittitle>Estate (John Biggs), </unittitle>
+							<unitdate>1943-1946</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 5.20 - 5.22</container>
+							<unittitle>Clippings, </unittitle>
+							<unitdate>1945-1989</unitdate>
+							<physdesc>(3 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>"The Spell of Scott Fitzgerald Grows Stronger," <emph render="italic">Life</emph>, </unittitle>
+							<unitdate>16 Feb 1959</unitdate>
+							<physdesc>(complete magazine)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.23</container>
+							<unittitle>Miscellaneous rights issues, </unittitle>
+							<unitdate>1955-1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.58</container>
+							<unittitle>Papers at Princeton University, </unittitle>
+							<unitdate>1956-1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.59</container>
+							<unittitle>
+								<emph render="underline">Tender is the Night</emph> — Selznick film adaptation, </unittitle>
+							<unitdate>1960</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.60</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Aubrey Goodman musical, </unittitle>
+							<unitdate>1961</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.24</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Artie Shaw musical, </unittitle>
+							<unitdate>1969-1978</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.25</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Film —Rights and royalties, </unittitle>
+							<unitdate>1961, 1971-1973</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.61</container>
+							<unittitle>
+								<emph render="underline">F. Scott Fitzgerald: A Definitive Bibliography</emph>, </unittitle>
+							<unitdate>1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.62</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Film — FSFLS's notes on the screenplay, </unittitle>
+							<unitdate>1973</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.26</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Film — Release party, </unittitle>
+							<unitdate>1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.27</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Film — Clippings, </unittitle>
+							<unitdate>1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.4</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Film — Clippings, </unittitle>
+							<unitdate>1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Film — Clippings —<emph render="italic">Sunday Times</emph> and <emph render="italic">Vogue</emph>,  </unittitle>
+							<unitdate>1974</unitdate>
+							<physdesc>(complete magazines)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.63</container>
+							<unittitle>"The F. Scott Fitzgerald Follies," University Club of Saint Paul, </unittitle>
+							<unitdate>1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.28</container>
+							<unittitle>
+								<emph render="underline">The Last Tycoon</emph> — Film —Rights and royalties, </unittitle>
+							<unitdate>1975-1976</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.64</container>
+							<unittitle>
+								<emph render="italic">Three Comrades</emph> screenplay — Publication, </unittitle>
+							<unitdate>1978</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.29</container>
+							<unittitle>
+								<emph render="underline">Tender is the Night</emph> — Foreign editions, </unittitle>
+							<unitdate>circa 1980</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.65</container>
+							<unittitle>University of Minnesota Conference, </unittitle>
+							<unitdate>1982</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.66</container>
+							<unittitle>
+								<emph render="underline">The Great Gatsby</emph> — Arion Press edition, </unittitle>
+							<unitdate>1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.30</container>
+							<unittitle>Sale of 1939 letter from FSF to FSFLS, </unittitle>
+							<unitdate>1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.67</container>
+							<unittitle>Matthew Bruccoli's lecture guides, </unittitle>
+							<unitdate>1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.3</container>
+							<unittitle>St Paul coloring book featuring FSF, produced by the Gaultier Plaza, </unittitle>
+							<unitdate>circa 1980s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.31</container>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 11 - CD 68 (Tape 12)</container>
+							<unittitle>Garrison Keillor's "A Prairie Home Companion" radio show, recorded at the St. Paul Minnesota's Fitzgerald Theater, renamed the previous week for F. Scott Fitzgerald. Keillor described the events surrounding the rededication and played a University of Michigan tape of F. Scott reading Keats' Ode to a Nightingale, </unittitle>
+							<unitdate>1 Oct 1994</unitdate>
+							<physdesc>(51:12 - first 15 minutes are about Fitzgerald)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 - CD 69 (Tape 48)</container>
+							<unittitle>Fitzgerald Society, Princeton University Centennial Conference — Honoria Murphy Donnelly, introduced by Linda P. Miller, </unittitle>
+							<unitdate>September 1996</unitdate>
+							<physdesc>(Track 1, 32:47 - poor recording)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 - CD 69 (Tape 48)</container>
+							<unittitle>Fitzgerald Society, Princeton University Centennial Conference — Fanny Myers Brennan on her life, including her childhood in Paris, </unittitle>
+							<unitdate>September 1996</unitdate>
+							<physdesc>(Track 2, 29:34 - poor recording)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 - CD 70 (Tape 49)</container>
+							<unittitle>Fitzgerald Society, Princeton University Centennial Conference — Budd Schulberg and Frances Kroll Ring, </unittitle>
+							<unitdate>September 1996</unitdate>
+							<physdesc>(32:37)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 - CD 71 (Tape 49)</container>
+							<unittitle>Fitzgerald Society, Princeton University Centennial Conference —Ring Lardner Jr. and Tony Butitta, </unittitle>
+							<unitdate>September 1996</unitdate>
+							<physdesc>(31:50)</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 - CD 72 (Tape 50)</container>
+							<unittitle>Fitzgerald Society, Princeton University Centennial Conference —[George Garrett?], </unittitle>
+							<unitdate>September 1996</unitdate>
+							<physdesc>(32:35 and 6:40)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Zelda Fitzgerald</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.32</container>
+							<unittitle>Clippings, </unittitle>
+							<unitdate>1948-1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.68</container>
+							<unittitle>Nancy Milford biography, </unittitle>
+							<unitdate>1963-1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.33</container>
+							<unittitle>
+								<emph render="underline">Save Me the Waltz</emph>— Film idea by Jerome Hellman, </unittitle>
+							<unitdate>1971-1973</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.69</container>
+							<unittitle>Papers at Princeton University, </unittitle>
+							<unitdate>1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.70</container>
+							<unittitle>Article about Zelda's paper dolls, <emph render="italic">Mademoiselle</emph>, </unittitle>
+							<unitdate>Mar 1974</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 5.34 - 5.35</container>
+							<unittitle>Art Patron League of Mobile Exhibition, </unittitle>
+							<unitdate>1975</unitdate>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.71</container>
+							<unittitle>Miscellaneous, </unittitle>
+							<unitdate>1973-1986</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 26</container>
+							<unittitle>Unidentified pair of bead-woven shoes — [made by Zelda?], </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>F. Scott and Zelda Fitzgerald</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.36</container>
+							<unittitle>Memorial Park, Montgomery, Alabama, </unittitle>
+							<unitdate>1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.37</container>
+							<unittitle>Re-interment, </unittitle>
+							<unitdate>1974-1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.38</container>
+							<unittitle>Re-interment — Clippings, </unittitle>
+							<unitdate>1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.5</container>
+							<unittitle>Re-interment — Clippings, </unittitle>
+							<unitdate>1975</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.72</container>
+							<unittitle>Scott and Zelda Fitzgerald Museum Association, Montgomery, Alabama, </unittitle>
+							<unitdate>1987-1988, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.39</container>
+							<unittitle>Homes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 5.40</container>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Series VII. Political Activity and Interests</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Scrapbook — Politics, </unittitle>
+						<unitdate>1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.1</container>
+						<unittitle>Democratic National Convention and Tour, </unittitle>
+						<unitdate>1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 7.2 - 7.3</container>
+						<unittitle>Democratic National Committee — Caravan, </unittitle>
+						<unitdate>1964</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.4</container>
+						<unittitle>Democratic National Committee — Race, </unittitle>
+						<unitdate>1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.5</container>
+						<unittitle>Humphrey/Muskie Campaign, </unittitle>
+						<unitdate>1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.6</container>
+						<unittitle>Kennedy Center for the Performing Arts, </unittitle>
+						<unitdate>circa 1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.7</container>
+						<unittitle>Democratic National Convention, </unittitle>
+						<unitdate>1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.8</container>
+						<unittitle>McGovern Campaign, </unittitle>
+						<unitdate>1971-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.9</container>
+						<unittitle>"Notes on the McGovern Campaign for Teddy White's Book," </unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(2 drafts and a letter to and from Theodore H. White)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 73 (Reel 2)</container>
+						<unittitle>Participants in the "Grassroots Grasshopper" train tour for the George McGovern campaign talking about their experiences. Speakers included: Liz Carpenter, "Ethel," "Fred" (photographer), FSFLS, C. Grove Smith, Liz Carrie, "Penny," "Judy," Cecilia Lanahan, and several unidentified people, </unittitle>
+						<unitdate>25 October 1972</unitdate>
+						<physdesc>(25:52)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 74 (Reel 3)</container>
+						<unittitle>Hyman, Lester and Helen — the running of the George McGovern Campaign (Interviewed by FSFLS and C. Grove Smith), </unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(64:04)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 75 (Reel 3)</container>
+						<unittitle>Hyman, Lester and Helen — the running of the George McGovern Campaign (Interviewed by FSFLS and C. Grove Smith), </unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(27:43)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 76 (Reel 4)</container>
+						<unittitle>Hyman, Lester and Helen — the running of the George McGovern Campaign (Interviewed by FSFLS and C. Grove Smith), </unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(47:17)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.10</container>
+						<unittitle>Montgomery, Alabama, </unittitle>
+						<unitdate>circa 1978-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.11</container>
+						<unittitle>Democratic National Convention, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.12</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate>circa 1954-1979, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.13</container>
+						<unittitle>Ephemera</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.14</container>
+						<unittitle>News clippings about race, women's rights, and other issues</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 26</container>
+						<unittitle>Badges, pins and other realia — includes a parade official ribbon from the JFK/LBJ Inaugural Parade and 2 Adlai Stevenson buttons</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>Series VIII. Musical Theater and Skits</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.1</container>
+						<unittitle>Vassar College, </unittitle>
+						<unitdate>circa 1938-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12 - CD 77 (Tape 51)</container>
+						<unittitle>Vassar College - copy of OMGIM group's songs, </unittitle>
+						<unitdate>circa 1940s</unitdate>
+						<physdesc>(8:36)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Scrapbook — Mostly MS skits, </unittitle>
+						<unitdate>1953-1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.2</container>
+						<unittitle>MS programs, </unittitle>
+						<unitdate>1954-1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.3 - 8.4</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate>1955-1959</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.5 - 8.6</container>
+						<unittitle>"Jolly's Folly," </unittitle>
+						<unitdate>1957</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.7</container>
+						<unittitle>"See How They Run," </unittitle>
+						<unitdate>1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 82 (Reel 5)</container>
+						<unittitle>"See How They Run" MS show performance, </unittitle>
+						<unitdate>1960</unitdate>
+						<physdesc>(30:37)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 83 (Reel 6)</container>
+						<unittitle>"See How They Run" MS show performance, </unittitle>
+						<unitdate>1960</unitdate>
+						<physdesc>(31:16)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 84 (Reel 7)</container>
+						<unittitle>"See How They Run" MS show performance, </unittitle>
+						<unitdate>1960</unitdate>
+						<physdesc>(14:10)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 85 (Reel 8)</container>
+						<unittitle>"See How They Run" professional recording, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(26:14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.8</container>
+						<unittitle>"New Front Here," </unittitle>
+						<unitdate>1961</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 86 (Reel 9)</container>
+						<unittitle>"New Front Here" MS show performance, </unittitle>
+						<unitdate>1961</unitdate>
+						<physdesc>(29:01)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 87 (Reel 10)</container>
+						<unittitle>"New Front Here" MS show performance, </unittitle>
+						<unitdate>1961</unitdate>
+						<physdesc>(29:26)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.9</container>
+						<unittitle>Untitled production — "First NY efforts...", </unittitle>
+						<unitdate>1961</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 94 (Reel 17)</container>
+						<unittitle>Pros singing - "1st N.Y. effort," </unittitle>
+						<unitdate>[1961]</unitdate>
+						<physdesc>(Track 1 - minutes 1-14 and 29-35)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.10</container>
+						<unittitle>International Ball script, </unittitle>
+						<unitdate>1962</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.11</container>
+						<unittitle>"How to Succeed in Washington by Really Trying," </unittitle>
+						<unitdate>1962</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 88 (Reel 11)</container>
+						<unittitle>"How to Succeed" MS show performance, </unittitle>
+						<unitdate>1962</unitdate>
+						<physdesc>(29:05)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.12</container>
+						<unittitle>Washington Festival of Performing Cultures, </unittitle>
+						<unitdate>1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 89 (Reel 12)</container>
+						<unittitle>"Washington Festival of Performing Cultures," MS show performance, </unittitle>
+						<unitdate>1963</unitdate>
+						<physdesc>(29:55)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 90 (Reel 13)</container>
+						<unittitle>"Washington Festival of Performing Cultures," MS show performance, </unittitle>
+						<unitdate>1963</unitdate>
+						<physdesc>(31:49)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.13 -8.17</container>
+						<unittitle>"Onward and Upward," </unittitle>
+						<unitdate>circa 1963</unitdate>
+						<physdesc>(5 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 91 (Reel 14)</container>
+						<unittitle>"Onward and Upward," </unittitle>
+						<unitdate>[1963?]</unitdate>
+						<physdesc>(24:21)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 92 (Reel 15)</container>
+						<unittitle>"Onward and Upward," </unittitle>
+						<unitdate>[1963?]</unitdate>
+						<physdesc>(46:14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.18</container>
+						<unittitle>"Stop the Press," </unittitle>
+						<unitdate>1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 93 (Reel 16)</container>
+						<unittitle>"Playing Politics," </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(26:12)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12 - CD 78 (Tape 52)</container>
+						<unittitle>Recording of FSFLS's songs, recorded at reception for "Cat's Whiskers," Auburn University, </unittitle>
+						<unitdate>October 1988</unitdate>
+						<physdesc>(11:01)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.19</container>
+						<unittitle>Miscellaneous sheet music</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.20</container>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>Series IX. Photographs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Boxes 20-21</container>
+						<unittitle>Family album, </unittitle>
+						<unitdate>1920-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Photocopies of family album in original order with annotations</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Vassar album, </unittitle>
+						<unitdate>circa 1938-1942</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Wedding album, </unittitle>
+						<unitdate>1942</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Album of MS productions, </unittitle>
+						<unitdate>1956-1962</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 22</container>
+						<unittitle>Loose photos and photos removed from other parts of the collection, </unittitle>
+						<unitdate>circa 1921-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.4</container>
+						<unittitle>Anthony D. Sayre, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.5</container>
+						<unittitle>Calvert School graduation, </unittitle>
+						<unitdate>circa 1933</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.6</container>
+						<unittitle>Mary Janney, Frances Kilpatrick and Mary Earle — Vassar production of "Guess Who's Here," </unittitle>
+						<unitdate>1940</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.7</container>
+						<unittitle>
+							<emph render="italic">Life Magazine</emph>photos of FSFLS and her children, </unittitle>
+						<unitdate>1959, 1960</unitdate>
+						<physdesc>(2 photographs)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>Series X. Miscellaneous</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.73</container>
+						<unittitle>Green Acres School, </unittitle>
+						<unitdate>circa 1951-1954</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.74</container>
+						<unittitle>Publications with unidentified connections to FSFLS</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Publications with unidentified connections to FSFLS</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.41</container>
+						<unittitle>Clippings — Betty Beale</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.42</container>
+						<unittitle>Clippings — Martha Mitchell</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.43</container>
+						<unittitle>Miscellaneous clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.75</container>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 23.9</container>
+						<unittitle>Reproduction of Charles Pinet etching of Notre Dame, inscribed by [Christiane Johnson], </unittitle>
+						<unitdate>29 Aug 1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 11 - CD 7 (Tape 3 side b)</container>
+						<unittitle>Smithsonian Tour of a Louisiana historic sites along the Mississippi with Ceci Carusi — Rosedown Plantation, </unittitle>
+						<unitdate>[Fall 1973?]</unitdate>
+						<physdesc>(minutes 23-47)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12 - CD 79 (Tape 53 side a)</container>
+						<unittitle>Smithsonian Tour of a Louisiana historic sites along the Mississippi with Ceci Carusi — unidentified site, </unittitle>
+						<unitdate>[Fall 1973?]</unitdate>
+						<physdesc>(46:50)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12 - CD 80 (Tape 53 side b)</container>
+						<unittitle>Smithsonian Tour of a Louisiana historic sites along the Mississippi with Ceci Carusi — Shadows-on-the-Teche and 2 unidentified sites, </unittitle>
+						<unitdate>[Fall 1973?]</unitdate>
+						<physdesc>(minutes 1-27 and 31-35)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12 - CD 80 (Tape 53 side b)</container>
+						<unittitle>Smithsonian Tour of a Louisiana historic sites along the Mississippi with Ceci Carusi — FSFLS and Ceci talking about what they learned on their tours and how an article might be written, </unittitle>
+						<unitdate>[Fall 1973?]</unitdate>
+						<physdesc>(minutes 27-31 and 35-40)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12 - CD 81 (Tape 54)</container>
+						<unittitle>Malloy, Wilda and Virginia Durr — discuss the history and genealogy of Bullock and Montgomery Counties, Alabama (Interviewed by FSFLS ), </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(31:04 and 29:24)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 11 - CD 2 (Tape 1 side a)</container>
+						<unittitle>Samuel Jackson "Jacky" Lanahan presentation on emergency response in Oregon, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(minutes 36-46)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12 - CD 53 (Tape 36)</container>
+						<unittitle>Unidentified presentation on gardening, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(minutes 19-31 of track 2 )</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 94 (Reel 17)</container>
+						<unittitle>Pop music from the radio, </unittitle>
+						<unitdate>circa 1960s</unitdate>
+						<physdesc>(Track 1 - minutes 14-29)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 10 - CD 94 (Reel 17)</container>
+						<unittitle>Lanahan daughters playing with the recorder, </unittitle>
+						<unitdate>circa 1960s</unitdate>
+						<physdesc>(Track 2 - 13:30)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle>Series XI. Unprocessed Additions</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.21</container>
+						<unittitle>Correspondence, papers, </unittitle>
+						<unitdate>1957-1979</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

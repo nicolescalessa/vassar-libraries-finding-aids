@@ -1,0 +1,3472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_faculty_reprint_collection</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Faculty Reprint Collection, approximately 1860-2012</titleproper>
+				<author>Inventory prepared by Gretchen Maslin</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>February 2013</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett and Gretchen Maslin, <date>2013</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Faculty Reprint Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1860-2012</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">19.5 cubic feet (21 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a"><corpname>Archives and Special Collections Library, Vassar College Libraries</corpname></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Reprints, preprints, pamphlets and other materials produced by the Vassar College Faculty.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Reprints, preprints, pamphlets and other materials produced by the Vassar College Faculty.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref href="https://library.vassar.edu/specialcollections/rarebooks" show="new"
+					>Vassar College Faculty Collection</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett and Gretchen Maslin, February 2013. Updated by Emma Gronbeck, June 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Gretchen Maslin, February 2013.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Aquired by gift and transfer.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Faculty Reprint Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Adams, Nicholas</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Albers, Henry</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Alland, Alexander</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Allen, Hervey</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Allen, Hope Emily</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Almendros, Nester</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Anagnostopoulou, Irene (Rena)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Anderson, Douglas</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Arlyck, Elisabeth Cardonne</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Arnold, Irene Ringwood</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Ascheri, Carlo</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Askew, Pamela</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Aubrey, Edwin Ewart</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Avery, Alida C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Bachmann, Frieda</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Backlund, Alice M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Baer, Curtis</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Baker, Gladys E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Baldwin, James F.</unittitle>
+					<physdesc>(6 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Ballintine, Harriet I.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Barbour, Violet</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Bawden, H. Heath</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Beaudoin, Allan R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 1-2</container>
+					<unittitle>Beck, Curt W.</unittitle>
+					<physdesc>(4 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Beckwith, Cora Jipson</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Beckwith, Martha Warren</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Becraft, George</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bennett, Richard M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Benton, Anne G.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bereiter, Carl</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bergeret, Ida Treat</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Berkley, Constance E.</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Berkowe, Christiane</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Binger, Carl</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Birdsall, Jean</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bister, Ada Klett</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Blackburn, Elizabeth Brooke</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Blaker, J. Warren</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Blanding, Sarah Gibson</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Blankner, Fredericka V.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Blanton, Margaret Gray</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Blanton, Smiley</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bloch, Harriet</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bonthius, Robert H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bourne, Ella</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bowen, Elizabeth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bracq, Jean Charlemagne</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Briggs, Charles L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Brinnin, John Malcolm</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Brisman, Susan Hawk</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Bronson, Daniel R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Brooke, Anne</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Brown, Donald R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Brown, Emile Clark</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Brown, Louise Fargo</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Brown, Sterling A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Buck, Gertrude</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Bunnell, Frederick</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Burling, Lancaster D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Burton, Ernest D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Bushnell, John</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Butler, Elizabeth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Bye, Arthur Edwin</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Byrnes, Esther F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Caldwell, Samuel Lunt</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Campbell, Mildred</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Campo, Leila de</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Carpovich, Vera</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Carter, Edna</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Casalis, Mattieu</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Cassat, Paul C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Cecil Thomas E.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Challey, James F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Chandler, Kenneth A.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Chapman, Dwight</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Chapman, Randolph W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Chin, Yin-lien C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Christie, John Aldrich</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Church, Joseph</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Claflin, Agnes Rindge</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Clark, Evalyn A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Clark, Helen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Clark, Patricia</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Codere, Helen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Conklin, Ruth E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Constantinople, Anne</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Cook, Ray</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Cooley, Leroy C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Coover, James</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Coulter, Cornelia C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Cowan, W.W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Cowley, Elizabeth B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Coyle, Beverly</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Crabb, Cecil V. Jr.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Crawford, Marjorie H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Cuddlhy, John M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Cummings, Louise D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Cutler, Frances W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Czula, Roman</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Dabney, Lewis M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Daniels, Elizabeth A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Darlington, Beth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>D’Arms, Edward F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Davenport, Frances G.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Davis, Hallie Flanagan</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Davis, Philip H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Davison, Edward</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Day, James</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Dean, Vera Micheles</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Degler, Carl N.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Deiters, Joan A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>DeMaria, Robert</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Dennison, Mary Louise</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>DeWitt, Marguerite E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Dey, Margaret Rawlings</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Dickinson, George S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Dole, Gertrude E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Downer, Henry E.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Drake, Durant</unittitle>
+					<physdesc>(7 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Duggan, Stephen Pierce</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Dwight, William B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Edinger, Lewis J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Elderkin, Kate McKnight</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Ellis, Ruth H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Elson, Ruth Miller</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Von Erhardt-Siebold, Erika</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Evans, Elizabeth C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fahlund, George Gregory</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fahnestock, Edith</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fairservis, Walter A., Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Falb, Lewis W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Farganis, James</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Farganis, Sondra</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Farr, Roberta</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Feroe, John A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Ferrando, Guido</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Feuer, Lewis S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fiedler, Miriam Forster</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fisher, Armen G.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fisher, Cynthia J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fisher, Mary Shattuck</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fiske, Christabel F.</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fite, Emerson D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Flad, Harvey K.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Flanagan, Hallie</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Flinker, Marie-Louise</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Flynn, Catherine S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Folsom, Joseph K.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fortna, Robert T.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Foshay, Ella M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Foster, Frances A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Fox, R. Phyllis</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Frazer, Alfred</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 5-6</container>
+					<unittitle>Freedman, Mervin B.</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Freidel, Frank</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>French, F.C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Frost, Jerry William</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Furness, Caroline E.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Geer, E. Harold</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Geiger, Moritz</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Geist, Sidney</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>George, John L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gesek, Tadeusz</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gibson, Evelyn S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Giffin, Mary</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gilinsky, Alberta S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gillin, Donald G.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gittleman, Anne</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Glasse, John</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gleason, Josephine M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Godfrey, Brian J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gordon, Joan</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gould, Miriam</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gounaris, Anne</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gow, George Coleman</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gragg, Florence Alden</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Green, Douglas S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Green, Howard</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Greenwood, Marci (M.R.C.)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Gregg, Richard A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Greifer, Elisha</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Grennan, Eamon</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Griffin, Carroll, W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6</container>
+					<unittitle>Griffin, Charles C.</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Griffin, Clyde C.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Griggs, John C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Griggs, Mary A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Gualtieri, Antonio R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Guichard, David R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Guttmann, Helmut</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Haight, Elizabeth H.</unittitle>
+					<physdesc>(5 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Halecki, Oscar</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Halecki, Oscar</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Halfen, Lawrence N.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hall, William Sterling</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hamilton, Carlos D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Harris, Ben</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Havelock, Christine Mitchell</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hawkins, Dorothy Lawson</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hawkins, Harriett</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Healea, Monica</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Heinlein, Mary Virginia</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Heller, Celia Stopnicka</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Herbst, Lawrence A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hill, Ida Thallon</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Hill, Laura E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hill, William Baneroft</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hills, Thomas McDougall</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hinkel, Charles J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hitchcock, Henry Russell Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hoffberg, Mark B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hofrichter, Ruth J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Holder, Richard W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hooker, Elizabeth Robbins</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hopper, Grace Murray</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Houghton, Norris</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Howson, J. Howard</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Humbert, Gabriele</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Huston, Ted L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hutchinson, Ruth Gillette</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7</container>
+					<unittitle>Hytier, Adrienne D.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Ignatow, David</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Infeld, Heinrich</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Jacob, Charles E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Jehle, Geoffrey A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Jenney, Florence G.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnsen, John H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnson, Burges</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Johnson, Burges</unittitle>
+					<physdesc>(4 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnson, Jane T.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnson, Jeh Vincent</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnson, Lucille Lewis</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnson, M. Glen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnson, Patricia R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Johnson, Shirley B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Jones, Wendell</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Juliano, Annette L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kahn, Harris</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kahn, Ludwig W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kalin, Jesse</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kambouropoulou, Polyxenie</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kassier, Theodore L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Katzenellenbogen, Adolf</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Keller, Suzanne</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kelly, Margaret W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kelly, Sally</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kendall, Martha B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kenworthy, Patricia</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kirkland, William H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kitchel, Anna Theresa</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kivy, Evelyn</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Klimoff, Alexis</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Knapp, Janet</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Knickerbocker, Frances Wentworth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kohl, Benjamin G.</unittitle>
+					<physdesc>(4 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 20 (Oversize)</container>
+					<unittitle>Koempel, Leslie</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Krautheimer, Richard</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Krenek, Ernst</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kroll, Judith</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kueffner, Louise Mallinckrodt</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Kuehn, Elaine</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Lacher, Miriam Rise Browner (Maury)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Lammert, Olive M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Lange, Garrett W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Langmuir, Mary Fisher</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8</container>
+					<unittitle>Langner, Helen P.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 8-9</container>
+					<unittitle>Lanier, Lyle H.</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lawrence, Julia Ruth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Leach, Abby</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Le Clezio, Marguerite</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lee, Dorothy Demetracopoulou</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lee, Otis</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Leonard, Clair</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Levens, Dorothy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Liang, Hsi-Huey</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lieberman, Marc O.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Linner, Edward R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lipschutz, Ilse Hempel</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lipton, Lynn</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Liu, Chun-Jo</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lockwood, Helen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lotz, Wolfgang</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lovell, Florence B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lowenthal, David</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lowrey, Perrin H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lowry, Richard</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lubart, Henriette d’Arlin</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lukas, Karen J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9</container>
+					<unittitle>Lumb, Ethel Sue</unittitle>
+				</did>
+			</c01>
+			
+			<c01 level="file">
+				<did>
+					<container>Boxes 9-10</container>
+					<unittitle>MacCracken, Henry Noble</unittitle>
+					<physdesc>(12 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>MacCracken, Henry Noble</unittitle>
+					<physdesc>(11 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mace, Dean T.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Macleod, Annie Louise</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Macmahon, Edna C.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Macurdy, Grace Harriet</unittitle>
+					<physdesc>(4 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Magoun, F.P. Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Makemson, Maud Worcester</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Makemson, Maud Worcester</unittitle>
+					<physdesc>(12 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mallay, Ruth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mamiya, Lawrence H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Manheimer, Joan</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mann, Brian</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Marquez, Antonio</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Marshall, Howard D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mathews, L.K.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mayo, Margarita de</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McAulay, Robert</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McCaleb, Ella</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McCloskey, Susan</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McCormick, Charles</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McCormick, Thomas J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McDonald, Janet</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McGrew, Julia</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McKenzie, Margaret</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McKinney, Thomas F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>McLaughlin, Mary M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mead, Margaret</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Medes, Grace</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mercer, Caroline</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Merriell, David</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Meyer, Gladys</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mill, Anna J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Miller, John R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Miller, Mitchell H., Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10</container>
+					<unittitle>Mills, Herbert Elmer</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Miringoff, Marc L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Misek, Linda D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Mitchell, Maria</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Mitchell, Rebecca M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Molin, Alma Luckau</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Mooney, Patricia M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Moore, Emmeline</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Moore, John Leverett</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Morrey, Margaret</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Mosher, Eliza M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Mucci, Joseph F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Mulhall, Edith F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Mull, Helen K.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Murra, John</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Murray, Michael</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Musolf, Lloyd</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Myers, Margaret G.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Nason, Eileen Sinclair</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Nathan, Otto</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Nelson, Evelyn Gibson</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Nelson, Theodor H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Newcomer, Mabel</unittitle>
+					<physdesc>(8 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Nixon, Robert E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Nochlin, Linda</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Norris, Nilan</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Northrop, Paul A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Novack, David E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Odor, Anna F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Ogden, Katharine</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Oldcorn, Anthony</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Olsen, Donald J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Palmer, Elizabeth H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Palmer, Ralph S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11</container>
+					<unittitle>Pamplume, Louis</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 11-12</container>
+					<unittitle>Parker, Frances L.</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Parker, Lloyd R., Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Parsons, Coleman O.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Parsons, Harriet McWilliams</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Paul-Emile, Barbara</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Peaks, Mary Bradford</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pearson, Donald M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pearson, Homer</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Peck, H. Daniel</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Peebles, Rose Jeffries</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pellegrini, Anthony L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Peretz, Don</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pfuetze, Paul E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Piccirilli, Maria de Negri</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pickens, Alton</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pierce, Elizabeth Denny</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pierce, Madelene E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Plum, Dorothy A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Plunkett, Mary A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pommer, Linda Nochlin</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pommer, Richard</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pope, Randolph D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Porter, Alan</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Porter, Kenneth W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Porter, Quincy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Post, C. Gordon</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Potter, Louise F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Potts, Abbie Findlay</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pounder, Robert L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pregnall, Marshall</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Pritchett, John Perry</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Quinn, Betty Nye</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Ramsey, Christine</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Ranzoni, Francis V.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Ranzoni, Jane H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Rappaport, Rhoda</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Raymond, Cornelia M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Raymond, John Howard</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Reed, Amy Louise</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Rehwoldt, Robert E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Reilly, Edward R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Reno, Christine</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Reynolds, Martha May</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Richards, Ellen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Richardson, Sophia Foster</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Richey, F. Elizabeth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Riggs, Austen Fox</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 12-13</container>
+					<unittitle>Riley, Woodbridge</unittitle>
+					<physdesc>(8 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rindge, Agnes</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Ritter, Fanny Raymond</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Ritter, Frederic Louis</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Roberts, Edith A.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Roberts, Edith A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Roberts, William A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Robinson, Winifred J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Ronch, Judah</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Roosevelt, Frank</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Roosevelt, Franklin D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rose, William K.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Rose, William K.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Roselli, Bruno</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rosenblatt, Julia A. Carlson</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rosman, Abraham</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Ross, James Bruce</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rothwell, William F., Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rourke, Constance Mayfield</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rousseas, Stephen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rowley, Jean B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rubenstein, Lewis</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Rumble, Wilfrid E. Jr.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Russell, Doris Aurelia</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Ryberg, Inez Scott</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Sadowsky, Stephen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13</container>
+					<unittitle>Sague, Mary Landon</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 13-14</container>
+					<unittitle>Salmon, Lucy Maynard</unittitle>
+					<physdesc>(17 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 14</container>
+					<unittitle>Salmony, Alfred</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 14</container>
+					<unittitle>Sander, Volkmar</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 14</container>
+					<unittitle>Sandison, Helen E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 14-15</container>
+					<unittitle>Sanford, Nevitt</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Saunders, Catharine</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Saunders, Frederick A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Saunders, Judith P.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Schalk, David L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Schaffter, Dorothy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Schlessman, Mark A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Schneiderman, Jill S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Schoepperle, Gertrude</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Schweinitz, Margaret de</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Scranton, Robert L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Scouil, Georgiana W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Scuit, Melvin</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Sears, John F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Shackford, Martha Hale</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Shanley, Mary Lydon</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Shapiro, Herbert</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Shattuck, George Burbank</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Shaw, Esther E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Simpson, Alan</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Small, S. Mouchly</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Smith, Henrietta T.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Smith, Marian</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Smith, M. Brewster</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Smith, Winifred</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Snyder, Alice D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Southwick, Mildred D.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Spicer, Donald Z.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Sprinchorn, Evert</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Stadnichenko, Taisia</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Start, Cora</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Stearns, Robert L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Stemple, Irene S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Stillman, Peter</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Stimson, Dorothy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Stone, Isabelle</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Stone, Lawrence Joseph</unittitle>
+					<physdesc>(3 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Stone, Walter</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Stout, Lawrence Neff</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Streeter, John W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Strelsky, Nikander</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Stroebe, Lilian L.</unittitle>
+					<physdesc>(5 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Sullivan, Herbert Patrick</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Suter, Robert B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Swenarton, Jane</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Tait, Marion</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Tastevin, Maria</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 16</container>
+					<unittitle>Tavel, Morton A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 16-17</container>
+					<unittitle>Taylor, James M.</unittitle>
+					<physdesc>(4 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Taylor, Lily Ross</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Taylor, Lily Ross</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Teitelbaum, Salomon M.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Tenenbaum, Barbara A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Terhune, William B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Textor, Lucy E.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Thallon, Ida Carleton</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Thelberg, Elizabeth B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Thompson, C. Mildred</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Thompson, Edward</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Thornton, Eileen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Tillman, Frank</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Tonks, Oliver S.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 21 (Oversize)</container>
+					<unittitle>Tonks, Oliver S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Treadwell, Aaron L.</unittitle>
+					<physdesc>(4 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Tselos, Dimitris</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Turkenkopf, Iris J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Underhill, Adelaide</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Vander Veer, Garrett</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Veblen, Eric P.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Villard, Elizabeth St. John</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Wade, Melvin</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Waggoner, Margaret Ann</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Ward, Aileen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Ware, Caroline F.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Warren, Katharine</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Warren, Winifred</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Warthin, Aldred Scott, Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Washburn, Margaret Floy</unittitle>
+					<physdesc>(5 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Webster, Harold</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Weingartner, Rudolph H.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Weitz, Morris</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Wells, Mary Evelyn</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Westcott, Malcolm R.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Wheeler, Ruth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>White, Florence Donnell</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>White, Henry Seely</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Whitney, Lois</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Whitney, Marian P.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Whitney, Mary W.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Wick, Frances Gertrude</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 18</container>
+					<unittitle>Wilker, Drusa</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Map Case Drawer 35</container>
+					<unittitle>Willard, Nancy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Boxes 18-19</container>
+					<unittitle>Willard, Nancy</unittitle>
+					<physdesc>(4 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Willey, Richard J.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Williams, Donald B.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Williamson, George Jr.</unittitle>
+					<physdesc>(2 files)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wilson, Hugh van Rensselaer</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wilson, Peter J.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wilson, Winifred Warren</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wishard, Audrey</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wislocki, Florence Clothier</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wittner, Lawrence S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wohl, Anthony S.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wolff, Werner</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wolkonsky, Catherine</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wood, Frances A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wood, Frederic C., Jr.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Woods, Elizabeth L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wriggins, Howard</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wright, Helen</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Wright, Margaret R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Yost, Mary</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Zlotowsky, Ignacy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Zollinger, Anna R.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Zorb, Elizabeth</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 19</container>
+					<unittitle>Zorzoli, Anita</unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

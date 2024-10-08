@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_richards_ellen </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Ellen Swallow Richards Papers, 1868-1934</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Richards, Ellen H. (Ellen Henrietta), 1842-1911</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Ellen Swallow Richards Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1868-1934 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 0.3 cubic feet (1 box with approximately 102 letters and one typescript)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence , manuscripts, clippings, photographs, and other material relating to Richards' personal life, her education, and her work at MIT and Vassar College, the home economics movement, and womens education. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Ellen Henrietta Swallow Richards (1842-1911), chemist and leader in applied and domestic science, was born in Dunstable, Mass., in 1842. She was a member of the Vassar College Class of 1870 and the first woman to graduate from MIT (1873). Because of her mother’s ill health, overwork, and financial frustrations, she did not enter Vassar until she was twenty-five. At Vassar she became interested in astronomy and chemistry, the latter becoming the subject of her life’s work. In 1875, she married Robert Hallowell Richards, a metallurgist and mining engineer, who was equally devoted to science. She was the first woman member of the American Institute of Mining and Metallurgical Engineers.</p>
+			<p>Ellen Richards’ letters to her classmate (Mary) Anna Mineah reflect her amazingly busy and productive next thirty-five years. Dedicated to the scientific education of women, she was a pioneer in the study of sanitation, "sanitary chemistry," food chemistry, public health, and home economics, as well as one of the founders of the Association of Collegiate Alumnae, which was later to become the American Association of University Women. After 1880, home economics claimed most of her attention, and she must be considered the creator of this new field of study in which she was a leader until her death in 1911. For the profession of home economics she has been called "its prophet, its interpreter..., its inspirer," and, in her own words, its "engineer."</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>These papers include seventy-six letters from Richards to her Vassar classmate (Mary) Anna Mineah concerning Vassar College, women at MIT, education, research, travel, the Association of Collegiate Alumnae, and the home economics movement, 1876-1910; seven letters to Miss Bogg concerning the organization of the home economics movement, 1909-1910; other letters concerning Vassar College, 1869-1903; typescript of an article on "Manpower," ca. 1906, and manuscript on Vassar College, "Alma Mater Bless Her;" excerpts from her letters to her mother written while at Vassar College, 1868-1870; ten letters from her husband, Robert H. Richards, and others about Richards, 1892-1934; and miscellaneous clippings, photographs, and biographical materials.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-autograph-files-1783-1983">Autograph Files</archref>
+			</p>
+			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-biographical-files-approximately-1900-2010"> Biographical Files</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Mineah, Anna</persname>
+				<persname source="lcnaf" encodinganalog="600"> Richards, Robert H.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Massachusetts Institute of Technology</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Association of Collegiate Alumnae (U.S.)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Home economics</subject>
+				<subject source="lcsh" encodinganalog="650"> Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Education</subject>
+				<subject source="lcsh" encodinganalog="650"> Women in science</subject>
+				<subject source="lcsh" encodinganalog="650"> Sanitation</subject>
+				<subject source="lcsh" encodinganalog="650"> Food analysis</subject>
+				<subject source="lcsh" encodinganalog="650"> Public health</subject>
+				<subject source="lcsh" encodinganalog="650"> Women chemists</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Math, Science and Medicine </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+			<p>Updated by Laura Streett, 2019.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Updated by Andrea Ditkoff in 2018.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of (Mary) Anna Mineah, VC 1870, and Annie L. MacLeod, Vassar College, Chemistry Department, 1914-1928. </p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Ellen Swallow Richards Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series">
+				<did>
+					<unittitle>Correspondence </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1</container>
+						<unittitle>Richards to Maria Mitchell, </unittitle>
+						<physdesc> (1 letter) </physdesc>
+						<unitdate> 29 November 1872 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2</container>
+						<unittitle>Richards to Lucy Maynard Salmon, </unittitle>
+						<physdesc> (4 letters, 1 envelope) </physdesc>
+						<unitdate> 1901, 1908</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3 </container>
+						<unittitle>Richards to (Mary) Anna Mineah, </unittitle>
+						<physdesc> (10 letters) </physdesc>
+						<unitdate> </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4</container>
+						<unittitle>Richards to (Mary) Anna Mineah, </unittitle>
+						<physdesc> (20 letters) </physdesc>
+						<unitdate>1876-1881 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5 </container>
+						<unittitle>Richards to (Mary) Anna Mineah, </unittitle>
+						<physdesc> (9 letters) </physdesc>
+						<unitdate>1882-1890 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6</container>
+						<unittitle>Richards to (Mary) Anna Mineah, </unittitle>
+						<physdesc> (11 letters) </physdesc>
+						<unitdate>1891-1895 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7</container>
+						<unittitle>Richards to (Mary) Anna Mineah, </unittitle>
+						<physdesc> (16 letters) </physdesc>
+						<unitdate>1896-1905 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8 </container>
+						<unittitle>Richards to (Mary) Anna Mineah, </unittitle>
+						<physdesc> (8 letters, 1 fragment) </physdesc>
+						<unitdate>undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9</container>
+						<unittitle>Robert H. Richards to (Mary) Anna Mineah, </unittitle>
+						<physdesc> (8 letters) </physdesc>
+						<unitdate>1883-1934 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10 </container>
+						<unittitle> Others to to (Mary) Anna Mineah,</unittitle>
+						<physdesc> (7 letters) </physdesc>
+						<unitdate> 1892-1912, undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11</container>
+						<unittitle>Richards to Miss Boggs, </unittitle>
+						<physdesc> (7 letters, 1 inventory) </physdesc>
+						<unitdate type="inclusive"> 1909-1910 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12</container>
+						<unittitle>Richards to her mother, </unittitle>
+						<physdesc> (1 letter, 1 set of abstracts) </physdesc>
+						<unitdate type="inclusive"> 1868-1870 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 13</container>
+						<unittitle>Richards to unidentified, </unittitle>
+						<physdesc> (2 letters) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14</container>
+						<unittitle>Miscellaneous,</unittitle>
+						<physdesc> (4 letters,) </physdesc>
+						<unitdate type="inclusive"> 1879, 1898, undated </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Writings</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 15 </container>
+						<unittitle> Typescript of "Manpower," </unittitle>
+						<unitdate type="inclusive"> circa 1906 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 16 </container>
+						<unittitle> Manuscript and typescript of "Alma Mater Bless Her" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17</container>
+						<unittitle>“Euthenics: Better Environment For The Human Race” </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17</container>
+						<unittitle> “Ellen Swallow Richards” [biographical notes]</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17</container>
+						<unittitle>Notes on bread </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 17</container>
+						<unittitle>Miscellaneous manuscripts and notes </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

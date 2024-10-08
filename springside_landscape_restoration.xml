@@ -1,0 +1,3162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_springside_landscape_restoration</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Springside Landscape Restoration Records, 1870-2024 (bulk 1972-2017)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>June 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck <date>June 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Springside Landscape Restoration</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Springside Landscape Restoration Records</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1870-2024</unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">1972-2017</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">11 cubic feet (13 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">This collection consists of
+				administrative and financial records, correspondence, and photographs created by
+				Springside Landscape Restoration, a non-profit organization dedicated to the
+				preservation and maintenance of Springside--a United States National Historic
+				Site and the summer home of Matthew Vassar (1792-1868). Publications and
+				writings about Springside and its designer, landscape architect Andrew Jackson
+				Downing (1815-1852), as well as records related to Springside from its 20th-century
+				owners, the Nelson family, are also included.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>The property called "Springside" was purchased by Matthew Vassar (1792-1868) in 1850,
+				who hired notable American landscape architect Andrew Jackson Downing (1815-1852) to
+				design the property as an ornamental farm over the next two years. The landscape and
+				buildings were constructed based on Downing's designs over the next several years
+				and it served as Matthew Vassar's summer home until his death in 1868. With no
+				direct heirs and no instructions in his will as to what should become of the
+				property, Springside changed hands several times before being purchased at auction
+				in 1879 by William Nelson. The property remained with the Nelson family for almost a
+				century, but by the 1960s it had fallen into disrepair and only one building, the
+				Porter's Lodge, remained fully intact. The property was photographed by Rollie
+				McKenna and in 1969 Springside was added to the United States National Register of 
+				Historic Places. Despite this historical site status, in 1982 developer
+				Springside Associates (later Springside Condominiums, Inc.) received approval from
+				the City of Poughkeepsie to build a luxury condominium complex on the historic
+				property. This galvanized local preservationists, including Vassar faculty member
+				Harvey Flad and local nonprofit organizations Dutchess County Landmarks Association
+				and Hudson River Sloop Clearwater, Inc., to petition the City of Poughkeepsie to
+				have an environmental assessment of the property conducted and to deny Springside
+				Associates permission to build on the property.</p>
+			<p>Springside Landscape Restoration (SLR) was formed in 1984 as part of a compromise
+				between the preservationists, Springside Associates, and the City of Poughkeepsie.
+				It was officially chartered as an educational non-profit by the New York State
+				Department of Education in 1987. Part of the compromise included a subdivision of
+				the property, with the parcel determined to be the most historic portion officially
+				deeded to SLR in 1990. SLR has since maintained the property and undertaken a number
+				of projects to conserve and restore Andrew Jackson Downing's original vision,
+				including repainting and the Porter's Lodge, clearing almost 20 acres of secondary
+				growth that was not part of Downing's vision, and protecting the site from
+				potentially destructive development projects.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection consists of administrative and financial records, correspondence, and
+				photographs created by Springside Landscape Restoration, a non-profit organization
+				dedicated to the preservation and maintenance of Springside--a United States
+				National Historic Site and the summer home of Matthew Vassar (1792-1868).
+				Publications and writings about Springside and its designer, landscape architect
+				Andrew Jackson Downing (1815-1852), as well as records related to Springside from
+				its 20th-century owners, the Nelson family, are also included.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p> The collection is organized into seven series: Series I. Administrative Files,
+				1982-2017; Series II. Grants, 1987-2005; Series III. Photographs, 1972-2006; Series
+				IV. Site Plans and Maps, 1983-2000; Series V. Proposals, Reports, and Surveys,
+				1972-2023; Series VI. Writings and Publications, 1950-2017; and Series VII. Nelson
+				Family Papers, 1870-2024. </p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>Series I. Administrative Files contains one restricted file. The rest of the
+				collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</archref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p>Harvey Flad Papers</p>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/2a372065-216d-4572-8a17-91ed9cae6bcb"
+				>The Rosalie "Rollie" Thorne McKenna Papers include materials related to Springside's inclusion in the National Register of Historic Places, including correspondence with the National Park Service and photographs of Springside taken by McKenna in 1968.</archref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/b2f8054e-9672-4521-994f-0aa5cb4599f9"
+					>Matthew Vassar Papers</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Downing, A. J. (Andrew Jackson), 1815-1852</persname>
+				<persname source="local" encodinganalog="600">Flad, Harvey K., 1938-</persname>
+				<persname source="local" encodinganalog="600">Vassar, Matthew, 1792-1868</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">National Historic Landmarks Program (U.S.)</corpname>
+				<corpname source="lcnaf" encodinganalog="610">New York (State). Office of Parks, Recreation, and Historic Preservation</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Poughkeepsie (N.Y.). Common Council</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Historic preservation--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Historic sites--Conservation and restoration--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Historic gardens--New York (State)</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Poughkeepsie (N.Y.)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Archaeological objects</genreform>
+				<genreform source="aat" encodinganalog="655">Audiocassettes</genreform>
+				<genreform source="aat" encodinganalog="655">Audiovisual materials</genreform>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Compact discs</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Minutes (administrative records)</genreform>
+				<genreform source="aat" encodinganalog="655">Negatives (photographs)</genreform>
+				<genreform source="aat" encodinganalog="655">Newsletters</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Property records</genreform>
+				<genreform source="aat" encodinganalog="655">Site plans</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Local History</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, June 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, June 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Springside Landscape Restoration, June 2021. (M2021-007)</p>
+			<p>Series VII. Nelson Family Papers was the gift of Miles Nelson, May 2024.
+				(M2024-009)</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Springside Landscape Restoration Records, Archives and Special Collections Library,
+				Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Administrative Files, </unittitle>
+					<unitdate type="inclusive" normal="1982/2017">1982-2017</unitdate>
+					<physdesc>(Boxes 1-5)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains correspondence, meeting minutes, vital records,
+						financial records, maintenance and planning records, and other materials
+						related to the founding and operation of Springside Landscape Restoration
+						(SLR). Included are records related to the creation of SLR in response to
+						the proposed condominium project neighboring Springside in 1982, including
+						communications between the City of Poughkeepsie Planning Board, Dutchess
+						County Landmarks Association, Hudson River Sloop Clearwater, Inc.,
+						Springside Associates (later Springside Condominiums, Inc.). </p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by title. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Grants, </unittitle>
+					<unitdate type="inclusive" normal="1987/2005">1987-2005</unitdate>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains grant applications, correspondence with granting
+						organizations, and other materials related to grants and other monetary
+						awards that Springside Landscape Restoration applied for. </p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by title, with a chronology of grants filed at the
+						beginning of the sequence and general research filed at the end. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Photographs, </unittitle>
+					<unitdate type="inclusive" normal="1950/1960">1972-2006</unitdate>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains photographic materials--including prints, negatives,
+						and slides--of Springside and Springside Landscape Foundation activities,
+						including cleanup projects, site documentation, and plant sales. </p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged chronologically. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Site Plans and Maps, </unittitle>
+					<unitdate type="inclusive" normal="1985/2000">1983-2000</unitdate>
+					<physdesc>(Boxes 6, 11-13)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains site plans and maps of Springside, predominantly those
+						created as part of Robert M. Toole's 1985 survey of the property and
+						Walmsley &amp; Company, Inc.'s 1988 survey. </p>
+				</scopecontent>
+				<arrangement>
+					<p>Organized alphabetically by creator, with miscellaneous
+						plans filed at the end. Sub-arranged alphabetically by title. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Proposals, Reports, and Surveys, </unittitle>
+					<unitdate type="inclusive" normal="1972/2023">1972-2023</unitdate>
+					<physdesc>(Boxes 6-8, 10)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains surveys of Springside conducted by outside
+						organizations, as well as proposals and reports presented to Springside
+						Landscape Restoration by those organizations. Included are records of an
+						archeological survey of Springside conducted in the Fall of 2001 by the
+						Vassar College Archaeological Field School, including dozens of samples
+						collected by the students undertaking the field study, such as fragments of
+						rock and glass, pottery shards, bones, and iron nails.</p>
+				</scopecontent>
+				<arrangement>
+					<p> Organized into three subseries: Proposals, Reports, and Surveys - Vassar
+						College Archaeological Field School. Sub-arranged alphabetically by title.
+					</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Writings and Publications, </unittitle>
+					<unitdate type="inclusive" normal="1950/2017">1950-2017</unitdate>
+					<physdesc>(Boxes 8-9)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains writings and publications related to Springside,
+						Springside Landscape Restoration, Andrew Jackson Downing, and other related
+						topics. Writings include published and unpublished drafts of essays, papers,
+						and articles, as well as notes and short writings and summaries.
+						Publications consist primarily of clippings and newsletters, including the
+						newsletter of Springside Landscape Restoration.</p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by author or title. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Nelson Family Papers, </unittitle>
+					<unitdate type="inclusive" normal="1870/2024">1870-2024</unitdate>
+					<physdesc>(Boxes 9, 11)</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains materials collected by Miles Nelson that document his
+						family's ownership of the Springside property after Matthew Vassar,
+						including property records, notes, and photographs.</p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by title. </p>
+				</arrangement>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Administrative Files, </unittitle>
+					<unitdate type="inclusive" normal="1982/2017">1982-2017</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1</container>
+						<unittitle>Assisted living facility proposal, </unittitle>
+						<unitdate type="inclusive" normal="1999">1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2</container>
+						<unittitle>Brochures, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unittitle>Brochures - Events, </unittitle>
+						<unitdate type="inclusive" normal="1993">1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4</container>
+						<unittitle>Brochures - "Tree Trail," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.5</container>
+						<unittitle>Brochures - Walking Tour, </unittitle>
+						<unitdate type="inclusive" normal="2004">circa 2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.6</container>
+						<unittitle>By-Laws, </unittitle>
+						<unitdate type="inclusive" normal="1987/1992">1987-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7</container>
+						<unittitle>By-Laws, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.8</container>
+						<unittitle>Charter amendment petition, </unittitle>
+						<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1985">1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.13</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1993/1997">1993-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.14</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1999/2003">1999-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.15</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="2004">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.17</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate type="inclusive" normal="2008">2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unittitle>Correspondence - Flad, Harvey, </unittitle>
+						<unitdate type="inclusive" normal="1985/2017">1985-2017</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unittitle>Correspondence - Hartgen Archaeological Associates, </unittitle>
+						<unitdate type="inclusive" normal="2004/2006">2004-2006</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unittitle>Correspondence - Hutchins, Everts, and Lefferts, </unittitle>
+						<unitdate type="inclusive" normal="1988">1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21</container>
+						<unittitle>Correspondence - Pierpont Associates, </unittitle>
+						<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.22</container>
+						<unittitle>Correspondence - Toole, Robert M., </unittitle>
+						<unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.23</container>
+						<unittitle>Correspondence - Toole, Robert M., </unittitle>
+						<unitdate type="inclusive" normal="1987/2001">1987-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.24</container>
+						<unittitle>Correspondence - Walmsley &amp; Company, Inc., </unittitle>
+						<unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unittitle>Correspondence - William A. Hall Architecture and Planning, </unittitle>
+						<unitdate type="inclusive" normal="1990/1995">1990-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26</container>
+						<unittitle>Donor lists, </unittitle>
+						<unitdate type="inclusive" normal="1999/2000">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>Drainage and hydrology, </unittitle>
+						<unitdate type="inclusive" normal="1998/2000">1998-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.28</container>
+						<unittitle>Dutchess County Landmarks Association, </unittitle>
+						<unitdate type="inclusive" normal="1983">1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unittitle>Executive director, reports and memos, </unittitle>
+						<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unittitle>Executive director search, </unittitle>
+						<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31</container>
+						<unittitle>Event cards, </unittitle>
+						<unitdate type="inclusive" normal="2006">2006, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unittitle>"Existing Conditions Narrative," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33</container>
+						<unittitle>Financial records, </unittitle>
+						<unitdate type="inclusive" normal="1990">1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34</container>
+						<unittitle>Financial records, </unittitle>
+						<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unittitle>Financial records, </unittitle>
+						<unitdate type="inclusive" normal="1993">1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36</container>
+						<unittitle>"Flora and Fauna," </unittitle>
+						<unitdate type="inclusive" normal="2004/2006">2004-2006</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.37</container>
+						<unittitle>Furlani lawsuit, </unittitle>
+						<unitdate type="inclusive" normal="2002/2004">2002-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.1</container>
+						<unittitle>Gatehouse, </unittitle>
+						<unitdate type="inclusive" normal="1987">1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.2</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="1991">1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.3</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.4</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="1993">1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.5</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="1994">1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.6</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="1995">1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.7</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="1996">1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.8</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="1998">1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="2002">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.10</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="2003">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.11</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="2004">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.12</container>
+						<unittitle>General File, </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.13</container>
+						<unittitle>Heritage trail, </unittitle>
+						<unitdate type="inclusive" normal="2002/2005">2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.14</container>
+						<unittitle>Hudson River Valley Greenway trails, </unittitle>
+						<unitdate type="inclusive" normal="1988/1993">1988-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.15</container>
+						<unittitle>Hydraulic and hydrological features, </unittitle>
+						<unitdate type="inclusive" normal="1999">1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16</container>
+						<unittitle>Kouri lawsuit, </unittitle>
+						<unitdate type="inclusive" normal="2004/2006">2004-2006</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.17</container>
+						<unittitle>L.T. Bookout Inc, EQBA Appraisal agreement, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.18</container>
+						<unittitle>Maintenance, </unittitle>
+						<unitdate type="inclusive" normal="1997">1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.19</container>
+						<unittitle>Maintenance, </unittitle>
+						<unitdate type="inclusive" normal="2004/2006">2004-2006</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.20-2.21</container>
+						<unittitle>Maintenance/Restoration Binder, </unittitle>
+						<unitdate type="inclusive" normal="2004">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.22</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1986">1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1987">1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.24</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1988">1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.25</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1989">1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.26</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1990">1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.27</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1991">1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.28</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="199201/199204">1992 Jan-Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.29</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="199205/199212">1992 May-Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.30</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1993">1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.1</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1994">1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.2</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1995">1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1996">1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1997">1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1998">1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.6</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1999">1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.7</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2000">2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.8</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2001">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.9</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2002">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.10</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2003">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.11</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2004">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.12</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2006">2006</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14</container>
+						<unittitle>Meeting Minutes, </unittitle>
+						<unitdate type="inclusive" normal="2008">2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15</container>
+						<unittitle>New York State Department of Labor claim, </unittitle>
+						<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.16</container>
+						<unittitle>New York State charities registration, </unittitle>
+						<unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.17</container>
+						<unittitle>Nomination of Porter's Lodge to City of Poughkeepsie Historic
+							District and Landmarks Preservation Commission, </unittitle>
+						<unitdate type="inclusive" normal="2004">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.18</container>
+						<unittitle>Notes, </unittitle>
+						<unitdate type="inclusive" normal="1984">circa 1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.19</container>
+						<unittitle>Oral history with Harold Knowlton, notes, </unittitle>
+						<unitdate type="inclusive" normal="200407">2004 Jul</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.20</container>
+						<unittitle>Personnel policy, </unittitle>
+						<unitdate type="inclusive" normal="1990">1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.21</container>
+						<unittitle>Pest management, </unittitle>
+						<unitdate type="inclusive" normal="2004">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.22</container>
+						<unittitle>Pierpont Associates Fundraising case study, </unittitle>
+						<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.23</container>
+						<unittitle>"Plan of work," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.24</container>
+						<unittitle>"Preservation Maintenance Plan," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.25</container>
+						<unittitle>Projects: Adriance/Ivy Terrace drainage, </unittitle>
+						<unitdate type="inclusive" normal="1998">1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.26</container>
+						<unittitle>Projects: Matthew Vassar statue at Springside, </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.27</container>
+						<unittitle>Projects: Porter's lodge painting, </unittitle>
+						<unitdate type="inclusive" normal="1994">1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.28</container>
+						<unittitle>Projects: Porter's lodge painting, </unittitle>
+						<unitdate type="inclusive" normal="2005/2013">2005, 2013</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.29</container>
+						<unittitle>Projects: Porter's lodge painting, contracts with the City of
+							Poughkeepsie, </unittitle>
+						<unitdate type="inclusive" normal="1999/2000">1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.30</container>
+						<unittitle>Projects: Porter's lodge roof, </unittitle>
+						<unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.31</container>
+						<unittitle>Projects: Signage and labels, </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.32</container>
+						<unittitle>Projects: Wall repair, </unittitle>
+						<unitdate type="inclusive" normal="2005">2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.33</container>
+						<unittitle>Promotional materials, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.34</container>
+						<unittitle>Public relations, </unittitle>
+						<unitdate type="inclusive" normal="2004">2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.35</container>
+						<unittitle>"Restoration Concepts for Springside," </unittitle>
+						<unitdate type="inclusive" normal="198709">1987 Sep, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.36</container>
+						<unittitle>SavATree program, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.37</container>
+						<unittitle>Request for Proposals, </unittitle>
+						<unitdate type="inclusive" normal="1987">1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.38</container>
+						<unittitle>Site plans, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.39</container>
+						<unittitle>Springside Associates Lawsuit - Agreement drafts, </unittitle>
+						<unitdate type="inclusive" normal="1984">1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.40</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie,
+							correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.41</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Common
+							Council, </unittitle>
+						<unitdate type="inclusive" normal="1984">1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.42</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Common
+							Council, meeting minutes, </unittitle>
+						<unitdate type="inclusive" normal="19840116/19840130">1984 Jan
+							16-30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.43</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Planning
+							Board, correspondence and memos, </unittitle>
+						<unitdate type="inclusive" normal="1983">1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.44</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Planning
+							Board, meeting, audiocassettes, </unittitle>
+						<unitdate type="inclusive" normal="19831122">1983 Nov 22</unitdate>
+						<physdesc>[2 tapes]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.1</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Planning
+							Board, meeting minutes, </unittitle>
+						<unitdate type="inclusive" normal="19831206">1983 Dec 6</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.2</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Planning
+							Board, meeting transcript, </unittitle>
+						<unitdate type="inclusive" normal="19841122">1984 Nov 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.3</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Planning
+							Board, meeting minutes, special session on Springside, </unittitle>
+						<unitdate type="inclusive" normal="19850604">1985 Jun 4</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.4</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Planning
+							Board, staff report, </unittitle>
+						<unitdate type="inclusive" normal="198308">1983 Aug</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.5</container>
+						<unittitle>Springside Associates Lawsuit - City of Poughkeepsie Planning
+							Board, memos and comments, </unittitle>
+						<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.6</container>
+						<unittitle>Springside Associates Lawsuit - Correspondence and meeting notes, </unittitle>
+						<unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.7</container>
+						<unittitle>Springside Associates Lawsuit - Dutchess County Landmarks
+							Association, </unittitle>
+						<unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.8</container>
+						<unittitle>Springside Associates Lawsuit - Hudson River Sloop Clearwater,
+							Inc., </unittitle>
+						<unitdate type="inclusive" normal="1984/1986">1984-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.9</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Affidavit in
+							support of the Petition," </unittitle>
+						<unitdate type="inclusive" normal="198402">1984 Feb</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.10</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Consent to
+							Change Attorney," </unittitle>
+						<unitdate type="inclusive" normal="19841127">1984 Nov 27</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.11</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Exhibits to
+							Petition," </unittitle>
+						<unitdate type="inclusive" normal="1983">1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.12</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Judgement," </unittitle>
+						<unitdate type="inclusive" normal="19840518">1984 May 18</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.13</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Memorandum of
+							Understanding," </unittitle>
+						<unitdate type="inclusive" normal="19841206">1984 Dec 6</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.14</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Notice of
+							Petition," </unittitle>
+						<unitdate type="inclusive" normal="19840219">1984 Feb 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.15</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Opinion of
+							Title," </unittitle>
+						<unitdate type="inclusive" normal="19841121">1984 Nov 21</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.16</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Petitioner's
+							Memo of Law in Support of the Petition," </unittitle>
+						<unitdate type="inclusive" normal="1984">1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.17</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Stipulation of
+							Settlement," </unittitle>
+						<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.18</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Supplemental
+							Affidavit in Support of the Petition," </unittitle>
+						<unitdate type="inclusive" normal="19840420">1984 Apr 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.19</container>
+						<unittitle>Springside Associates Lawsuit - Legal documents - "Verified
+							Reply," </unittitle>
+						<unitdate type="inclusive" normal="19840420">1984 Apr 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.20</container>
+						<unittitle>Springside Associates Lawsuit - Letters and statements to the
+							City of Poughkeepsie Mayor, </unittitle>
+						<unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.21</container>
+						<unittitle>Springside Associates Lawsuit - "Marketability Analysis of
+							Proposed Springside Luxury Condominium Development," </unittitle>
+						<unitdate type="inclusive" normal="198209">1982 Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.22</container>
+						<unittitle>Springside Associates Lawsuit - New York State offices and
+							departments, </unittitle>
+						<unitdate type="inclusive" normal="1984">1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.23</container>
+						<unittitle>Springside Associates Lawsuit - Notes and research, </unittitle>
+						<unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.24</container>
+						<unittitle>Springside Associates Lawsuit - Out of court settlement and
+							modifications, </unittitle>
+						<unitdate type="inclusive" normal="1983/1985">1983-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.25</container>
+						<unittitle>Springside Associates Lawsuit - Petition to City of Poughkeepsie
+							Planning Board, </unittitle>
+						<unitdate type="inclusive" normal="198311/198401">1983 Nov - 1984
+							Jan</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.26</container>
+						<unittitle>Springside Associates Lawsuit - Proposed subdivision, </unittitle>
+						<unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.27</container>
+						<unittitle>Springside Associates Lawsuit - Springside Condominiums, Inc. -
+							Agreement, </unittitle>
+						<unitdate type="inclusive" normal="19900215">1990 Feb 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.28</container>
+						<unittitle>Springside Associates Lawsuit - Springside Condominiums, Inc. -
+							Brochure, </unittitle>
+						<unitdate type="inclusive" normal="1986">circa 1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.29</container>
+						<unittitle>Springside Associates Lawsuit - Springside Condominiums, Inc. -
+							Memorandum of Understanding, </unittitle>
+						<unitdate type="inclusive" normal="199203">1992 Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.30</container>
+						<unittitle>Springside Associates Lawsuit - Springside site plan
+							modifications, </unittitle>
+						<unitdate type="inclusive" normal="1986">1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.31</container>
+						<unittitle>Springside Associates Lawsuit - "Stipulation," drafts, </unittitle>
+						<unitdate type="inclusive" normal="1984">1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.32</container>
+						<unittitle>Springside Associates Lawsuit - "Testimony of the Hudson River
+							Sloop Clearwater, Inc.," </unittitle>
+						<unitdate type="inclusive" normal="19840206">1984 Feb 6</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.33</container>
+						<unittitle>Springside Condominium, Inc., </unittitle>
+						<unitdate type="inclusive" normal="1986/1991">1986-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.34</container>
+						<unittitle>Springside Landscape Restoration website, </unittitle>
+						<unitdate type="inclusive" normal="2000">circa 2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.35</container>
+						<unittitle>Springside Landscape Restoration website, </unittitle>
+						<unitdate type="inclusive" normal="2016">2016</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.36</container>
+						<unittitle>Springside National Historic Landmark, </unittitle>
+						<unitdate type="inclusive" normal="1984">1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.37</container>
+						<unittitle>Springside Quitclaim Deed, </unittitle>
+						<unitdate type="inclusive" normal="19900215">1990 Feb 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.38</container>
+						<unittitle>Sterling Properties Group, submission to City of Poughkeepsie
+							Planning Board, </unittitle>
+						<unitdate type="inclusive" normal="20050907">2005 Sep 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.39</container>
+						<unittitle>Symposium on Andrew Jackson Downing, Dumbarton Oaks,
+							Philadelphia, </unittitle>
+						<unitdate type="inclusive" normal="1987">1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.40</container>
+						<unittitle>Tax exempt certificate 509(a), </unittitle>
+						<unitdate type="inclusive" normal="1989">1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.41</container>
+						<unittitle>Tax exempt status, </unittitle>
+						<unitdate type="inclusive" normal="1987/1993">1987-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.1</container>
+						<unittitle>Tax exempt status - Property tax, </unittitle>
+						<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.2</container>
+						<unittitle>Tree survey, </unittitle>
+						<unitdate type="inclusive" normal="2004">[2004?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.3</container>
+						<unittitle>Walking tours, </unittitle>
+						<unitdate type="inclusive" normal="2004/2009">circa 2004-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.4</container>
+						<unittitle>Yankee Intern Program, </unittitle>
+						<unitdate type="inclusive" normal="1988">1988</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Grants, </unittitle>
+					<unitdate type="inclusive" normal="1987/2005">1987-2005</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.5</container>
+						<unittitle>Chronology and research, </unittitle>
+						<unitdate type="inclusive" normal="2000/2003">2000-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.6</container>
+						<unittitle>Americorps, </unittitle>
+						<unitdate type="inclusive" normal="1997">1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.7</container>
+						<unittitle>Andy Warhol Foundation, </unittitle>
+						<unitdate type="inclusive" normal="1996">1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.8</container>
+						<unittitle>Central Hudson (for Hemlock treatment), </unittitle>
+						<unitdate type="inclusive" normal="1993">1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.9</container>
+						<unittitle>City of Poughkeepsie, Community Development Block Grant, </unittitle>
+						<unitdate type="inclusive" normal="1997/2003">1997, 2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.10</container>
+						<unittitle>Community Foundation of Dutchess County, </unittitle>
+						<unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.11</container>
+						<unittitle>Cunneen-Hackett Charitable Trust, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.12</container>
+						<unittitle>Dyson Foundation, </unittitle>
+						<unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.13</container>
+						<unittitle>Getty Grant Program, </unittitle>
+						<unitdate type="inclusive" normal="1990">1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.14</container>
+						<unittitle>Hudson River Improvement Fund, </unittitle>
+						<unitdate type="inclusive" normal="1992/1996">1992-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.15</container>
+						<unittitle>Hudson River Valley Greenway Conservancy, </unittitle>
+						<unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.16</container>
+						<unittitle>Hudson River Valley Greenway Conservancy, </unittitle>
+						<unitdate type="inclusive" normal="2002/2005">2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.17</container>
+						<unittitle>IBM Cash Grant, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.18</container>
+						<unittitle>IBM Equipment Grant, </unittitle>
+						<unitdate type="inclusive" normal="1991">1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.19</container>
+						<unittitle>J. M. Kaplan Fund, </unittitle>
+						<unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.20</container>
+						<unittitle>James J. McCann Charitable Trust, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.21</container>
+						<unittitle>National Park Service, </unittitle>
+						<unitdate type="inclusive" normal="2002">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.22</container>
+						<unittitle>National Recreational Trails Program, </unittitle>
+						<unitdate type="inclusive" normal="2002">2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.23</container>
+						<unittitle>New York Council for the Humanities, </unittitle>
+						<unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.24</container>
+						<unittitle>New York State Council on the Arts, </unittitle>
+						<unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.25</container>
+						<unittitle>New York State legislature members, </unittitle>
+						<unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.26</container>
+						<unittitle>New York State Office of Parks, Recreation, and Historic
+							Preservation, </unittitle>
+						<unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.27</container>
+						<unittitle>New York State Office of Parks, Recreation, and Historic
+							Preservation - Environmental Quality Bond Act (EQBA), application, </unittitle>
+						<unitdate type="inclusive" normal="1987">1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.28</container>
+						<unittitle>New York State Office of Parks, Recreation, and Historic
+							Preservation - Environmental Quality Bond Act (EQBA), proposal and
+							acquisition checklist, </unittitle>
+						<unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.29</container>
+						<unittitle>New York State Office of Parks, Recreation, and Historic
+							Preservation - Environmental Quality Bond Act (EQBA), </unittitle>
+						<unitdate type="inclusive" normal="1988/1992">1988-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.30</container>
+						<unittitle>New York State Office of Parks, Recreation, and Historic
+							Preservation - Environmental Quality Bond Act (EQBA), </unittitle>
+						<unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.31</container>
+						<unittitle>New York State Office of Parks, Recreation, and Historic
+							Preservation - Environmental Quality Bond Act (EQBA), vouchers and
+							payments, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.32</container>
+						<unittitle>New York State Office of Parks, Recreation, and Historic
+							Preservation - Environmental Quality Bond Act (EQBA), revocation of
+							funds, </unittitle>
+						<unitdate type="inclusive" normal="1993">1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.33</container>
+						<unittitle>Preservation League of New York State, </unittitle>
+						<unitdate type="inclusive" normal="1988/1993">1988-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.34</container>
+						<unittitle>Preservation League of New York State, </unittitle>
+						<unitdate type="inclusive" normal="1995/2004">1995-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.35</container>
+						<unittitle>Research, </unittitle>
+						<unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Photographs, </unittitle>
+					<unitdate type="inclusive" normal="1972/2006">1972-2006</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.1</container>
+						<unittitle>Springside, taken by Rollie McKenna for National Historic
+							Landmark registration, 1969 (printed), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.2</container>
+						<unittitle>Springside buildings, polaroids, </unittitle>
+						<unitdate type="inclusive" normal="19720730">1972 Jul 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.3</container>
+						<unittitle>Springside buildings, </unittitle>
+						<unitdate type="inclusive" normal="1972/2004">1972-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.4</container>
+						<unittitle>Springside site and buildings, </unittitle>
+						<unitdate type="inclusive" normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.5</container>
+						<unittitle>Springside buildings, </unittitle>
+						<unitdate type="inclusive" normal="1980/1989">[circa 1980s]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.6</container>
+						<unittitle>Springside "existing conditions," negatives, </unittitle>
+						<unitdate type="inclusive" normal="198704">1987 Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.7</container>
+						<unittitle>Springside, with map index, </unittitle>
+						<unitdate type="inclusive" normal="198704">1987 Apr</unitdate>
+						<physdesc>[127 photographs]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.8</container>
+						<unittitle>Springside buildings, </unittitle>
+						<unitdate type="inclusive" normal="1988">1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.9</container>
+						<unittitle>Springside site, </unittitle>
+						<unitdate type="inclusive" normal="199105">1991 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.10</container>
+						<unittitle>Springside site and buildings, </unittitle>
+						<unitdate type="inclusive" normal="199109">1991 Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.11</container>
+						<unittitle>Springside plaque unveiling, </unittitle>
+						<unitdate type="inclusive" normal="199110">1991 Oct</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.12</container>
+						<unittitle>Springside site, prints and negatives, </unittitle>
+						<unitdate type="inclusive" normal="199201/199203">1992 Jan-Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.13</container>
+						<unittitle>Springside cocktail party, Camp Deacon workers, </unittitle>
+						<unitdate type="inclusive" normal="199207">1992 Jul</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.14</container>
+						<unittitle>Hudson Valley Leadership - Dutchess Community College classes at
+							Springside, prints and negatives, </unittitle>
+						<unitdate type="inclusive" normal="1993">circa 1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.15</container>
+						<unittitle>Springside site and buildings, negatives, </unittitle>
+						<unitdate type="inclusive" normal="1993">circa 1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.16</container>
+						<unittitle>Springside events, </unittitle>
+						<unitdate type="inclusive" normal="1994">1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.17</container>
+						<unittitle>Springside clean-up days, </unittitle>
+						<unitdate type="inclusive" normal="199404/199407">1994 Apr-Jul</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.18</container>
+						<unittitle>Springside site and events, , </unittitle>
+						<unitdate type="inclusive" normal="1995">1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.19</container>
+						<unittitle>Springside clean-up and plant sale, </unittitle>
+						<unitdate type="inclusive" normal="199505">1995 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.20</container>
+						<unittitle>Springside, overhead views and diagrams, </unittitle>
+						<unitdate type="inclusive" normal="1996">1996, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.21</container>
+						<unittitle>[Matthew Vassar cottage façade exhibit, New York State Museum,
+							Albany?], </unittitle>
+						<unitdate type="inclusive" normal="2001">[2001?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.22</container>
+						<unittitle>Springside plant sale and debris dumping, </unittitle>
+						<unitdate type="inclusive" normal="2001">2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.23</container>
+						<unittitle>Springside plant sale and work, </unittitle>
+						<unitdate type="inclusive" normal="200205">2002 May</unitdate>
+						<physdesc>[1 CD]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.24</container>
+						<unittitle>Springside sign installation, </unittitle>
+						<unitdate type="inclusive" normal="2003">2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.25</container>
+						<unittitle>Springside site survey, </unittitle>
+						<unitdate type="inclusive" normal="200603">2006 Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.26</container>
+						<unittitle>113 and 121 Academy St, Poughkeepsie, NY, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.27</container>
+						<unittitle>Downing, Andrew Jackson, illustrations (reproductions), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.28</container>
+						<unittitle>Springside, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.29</container>
+						<unittitle>Springside, architectural designs by Andrew Jackson Downing
+							(reproductions), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.30</container>
+						<unittitle>Springside, illustrations (reproductions), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Site Plans and Maps, </unittitle>
+					<unitdate type="inclusive" normal="1985/2000">1983-2000</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Harry J. Bly</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.1 (Oversize)</container>
+							<unittitle>"Springside - Subdivision of Lands," revised, </unittitle>
+							<unitdate type="inclusive" normal="19860819">1986 Aug 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.1 (Oversize)</container>
+							<unittitle>"Subdivision Plan of Lands of Springside Associates,"
+								revised, </unittitle>
+							<unitdate type="inclusive" normal="19830915">1983 Sep 15</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.1 (Oversize)</container>
+							<unittitle>Untitled Springside plan, revised, </unittitle>
+							<unitdate type="inclusive" normal="19851107">1985 Nov 7</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Michael George and Lisa Dreishpoon-Weiss</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.2 (Oversize)</container>
+							<unittitle>"Plan of Master Plant Identification for Springside,"
+								preliminary analysis, </unittitle>
+							<unitdate type="inclusive" normal="198712">1987 Dec</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sandy and Babcock Association / The SWA Group</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.3 (Oversize)</container>
+							<unittitle>"A. J. Downing Original Site Plan," </unittitle>
+							<unitdate type="inclusive" normal="1987">1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.3 (Oversize)</container>
+							<unittitle>"A. J. Downing - Springside," </unittitle>
+							<unitdate type="inclusive" normal="1987">1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.3 (Oversize)</container>
+							<unittitle>"Revised Preliminary Site Plan," </unittitle>
+							<unitdate type="inclusive" normal="19840417">1984 Apr 17</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.3 (Oversize)</container>
+							<unittitle>"Site Analysis - Vegetation," </unittitle>
+							<unitdate type="inclusive" normal="1987">1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.3 (Oversize)</container>
+							<unittitle>"Springside Existing Utilities &amp; Topographic Data Map,"
+								sheet ST-1, </unittitle>
+							<unitdate type="inclusive" normal="19850423">1985 Apr 23</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Robert M. Toole</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.4 (Oversize)</container>
+							<unittitle>"Springside - Design Elements - 1852," Sheet A, revised, </unittitle>
+							<unitdate type="inclusive" normal="198704 13">1987 Apr 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.4 (Oversize)</container>
+							<unittitle>"Springside - Design Elements - 1852," Sheet A, annotated, </unittitle>
+							<unitdate type="inclusive" normal="19900710">1990 Jul 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.4 (Oversize)</container>
+							<unittitle>"Springside - Existing Conditions - 1985," Sheet B, revised, </unittitle>
+							<unitdate type="inclusive" normal="19861025">1986 Oct 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.4 (Oversize)</container>
+							<unittitle>"Springside - Existing Conditions - 1985," Sheet C, revised, </unittitle>
+							<unitdate type="inclusive" normal="19861025">1986 Oct 25</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Tourbier &amp; Walmsley</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.4 (Oversize)</container>
+							<unittitle>"Existing Inventory of Major Trees," </unittitle>
+							<unitdate type="inclusive" normal="199906/200004">1999 Jun - 2000
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>"Existing Inventory of Major Trees," </unittitle>
+							<unitdate type="inclusive" normal="199906/200004">1999 Jun - 2000
+								Apr</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Walmsley &amp; Company, Inc. - "Master Plan for Restoring the
+							Ornamental Farm of Matthew Vassar"</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>"1. Benson Lossing Site Description and Map, 1867," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 13 (OV Roll)</container>
+							<unittitle>"2a. Existing Conditions - Topography/Slopes," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 13 (OV Roll)</container>
+							<unittitle>"2b. Existing Conditions - Surface Water/Drainage," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 13 (OV Roll)</container>
+							<unittitle>"2c. Existing Conditions - Vegetation Types," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 13 (OV Roll)</container>
+							<unittitle>"2d. Existing Conditions - Circulation," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 13 (OV Roll)</container>
+							<unittitle>"2e. Existing Conditions - Buildings and Structures," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.5 (Oversize)</container>
+							<unittitle>"3. Proposed Functional Subdivisions &amp; Analysis," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.5 (Oversize)</container>
+							<unittitle>"4. Master Plan," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>"4. Springside Condominiums," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 13 (OV Roll)</container>
+							<unittitle>"4. Springside Condominiums," resized, colored, </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.5 (Oversize)</container>
+							<unittitle>"5. Maintenance and Management Plan," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>"5. Maintenance and Management Plan," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 13 (OV Roll)</container>
+							<unittitle>"5. Maintenance and Management Plan," resized, colored, </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.6 (Oversize)</container>
+							<unittitle>"Existing Site Analysis," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.6 (Oversize)</container>
+							<unittitle>"Historic Analysis," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.6 (Oversize)</container>
+							<unittitle>"Management Analysis," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>"Management Analysis," </unittitle>
+							<unitdate type="inclusive" normal="1988">1988</unitdate>
+							<physdesc>[damaged]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 11.6 (Oversize)</container>
+							<unittitle>"Restoration Plan," drafts, </unittitle>
+							<unitdate type="inclusive" normal="198808/198809">1988
+								Aug-Sep</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 6.31</container>
+							<unittitle>"Map of Springside (1857) by E. Jacob at Adriance," compact
+								disc, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[1 CD]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>Springside, overhead photograph, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>Springside, partial site plan, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Box 12 (OV Roll)</container>
+							<unittitle>"Subdivision of Lands, Springside Condominiums, Inc., 181
+								Academy St," perimeter survey, </unittitle>
+							<unitdate type="inclusive" normal="19881130">1988 Nov 30</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Proposals, Reports, and Surveys, </unittitle>
+					<unitdate type="inclusive" normal="1972/2023">1972-2023</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Proposals</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.32</container>
+							<unittitle>"A Master Plan for the Historic Landscape at 'Springside'" by
+								Doell &amp; Doell, </unittitle>
+							<unitdate type="inclusive" normal="19870716">1987 Jul 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.33</container>
+							<unittitle>"A Proposal for the Analysis, Preservation, &amp; Management
+								of Springside…" by LANDSCAPES with David Schuyler, Noel Dorsey
+								Vernon, ASLA, Grossman &amp; Associates, Inc., and William A.
+								Patterson, </unittitle>
+							<unitdate type="inclusive" normal="19870713">1987 Jul 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.34</container>
+							<unittitle>"Proposal for Springside" by Walmsley &amp; Company, Inc., </unittitle>
+							<unitdate type="inclusive" normal="19870710">1987 Jul 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.35</container>
+							<unittitle>"The Restoration of Springside" by Bruce Kelly and David
+								Varnell (Landscape Architects), </unittitle>
+							<unitdate type="inclusive" normal="19870713">1987 Jul 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.36</container>
+							<unittitle>"Site Analysis Proposal for Springside" prepared by Rudy J.
+								Favretti and Associates, </unittitle>
+							<unitdate type="inclusive" normal="19870709">1987 Jul 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.37</container>
+							<unittitle>"Springside Landscape Restoration: Historic Preservation
+								Project," </unittitle>
+							<unitdate type="inclusive" normal="198709">1987 Sep</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Reports</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 6.38</container>
+							<unittitle>"Analysis of Effect of Proposed Project on 'Springside'" by
+								City/Scape: Cultural Resource Consultants, </unittitle>
+							<unitdate type="inclusive" normal="199903">1999 Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.1</container>
+							<unittitle>"Appraisal Report on Springside…" prepared by H. R. Fountain
+								&amp; Co., Inc., </unittitle>
+							<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.2</container>
+							<unittitle>"Archaeological Investigation, Springside," by STRATA Cultural
+								Resource Management, LLC, </unittitle>
+							<unitdate type="inclusive" normal="201312">2013 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.3</container>
+							<unittitle>"Evaluation Report for Restoration Potential and Proposed
+								Development at Springside" by Robert M. Toole, </unittitle>
+							<unitdate type="inclusive" normal="19840206">1984 Feb 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.4</container>
+							<unittitle>Historic American Building Survey, </unittitle>
+							<unitdate type="inclusive" normal="199004">1990 Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.5</container>
+							<unittitle>"Historic Landscape Report for Springside" by Robert M.
+								Toole, draft, </unittitle>
+							<unitdate type="inclusive" normal="19850515">1985 May 15</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.6</container>
+							<unittitle>"Historic Landscape Report for Springside" by Robert M.
+								Toole, drafts and corrections, </unittitle>
+							<unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.7</container>
+							<unittitle>"Historic Landscape Report for Springside" by Robert M.
+								Toole, evaluations, </unittitle>
+							<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.8</container>
+							<unittitle>"Historic Landscape Report for Springside" by Robert M.
+								Toole, draft, </unittitle>
+							<unitdate type="inclusive" normal="19870105">1987 Jan 5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.9</container>
+							<unittitle>"Historic Landscape Report for Springside" by Robert M.
+								Toole, final version, </unittitle>
+							<unitdate type="inclusive" normal="19870520">1987 May 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.10</container>
+							<unittitle>"Historic Landscape Report for Springside - Bibliography" by
+								Robert M. Toole, </unittitle>
+							<unitdate type="inclusive" normal="198609">1986 Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.11</container>
+							<unittitle>"Market Study of Springside Land Company, LCC" prepared by
+								Pomeroy Appraisal Associates, </unittitle>
+							<unitdate type="inclusive" normal="20100107">2010 Jan 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.12</container>
+							<unittitle>National Register of Historic Landmarks, </unittitle>
+							<unitdate type="inclusive" normal="1972">1972</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.13</container>
+							<unittitle>National Register of Historic Landmarks, </unittitle>
+							<unitdate type="inclusive" normal="1982">1982</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.14</container>
+							<unittitle>"Phase 1B Archaeological Field Reconnaissance - Center Circle
+								Carriageways, Springside…" prepared by Hartgen Archeological
+								Associates, Inc., </unittitle>
+							<unitdate type="inclusive" normal="200604">2006 Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.15</container>
+							<unittitle>"Preservation Maintenance Plan for a Historic Landscape:
+								Springside" by Tourbier &amp; Walmsley, </unittitle>
+							<unitdate type="inclusive" normal="200005">2000 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.16</container>
+							<unittitle>"Site Analysis of 'Springside" prepared by Walmsley &amp;
+								Company, Inc., </unittitle>
+							<unitdate type="inclusive" normal="19881019">1988 Oct 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.17</container>
+							<unittitle>"Site Analysis, Landscape Master Plan and Maintenance Plan of
+								Springside National Historic Landmark" by Walmsley &amp; Company,
+								Inc., </unittitle>
+							<unitdate type="inclusive" normal="19881202">1988 Dec 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.18</container>
+							<unittitle>"Site Analysis, Landscape Master Plan and Maintenance Plan of
+								Springside National Historic Landmark" by Walmsley &amp; Company,
+								Inc., </unittitle>
+							<unitdate type="inclusive" normal="1989">circa 1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 7.19-7.20</container>
+							<unittitle>"Site Analysis, Landscape Master Plan and Maintenance Plan of
+								Springside National Historic Landmark" by Walmsley &amp; Company,
+								Inc., </unittitle>
+							<unitdate type="inclusive" normal="1989">circa 1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.21</container>
+							<unittitle>"Springside: A Partnership with the Environment" prepared by
+								the Dutchess County Department of Planning, </unittitle>
+							<unitdate type="inclusive" normal="196812">1968 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.22</container>
+							<unittitle>"The Springside Cottage Outlook, Foundation Excavation, and
+								Interpretation Recommendations" prepared by Kyle Toth, Marc
+								Paalvast, and PS&amp;S, </unittitle>
+							<unitdate type="inclusive" normal="20230512">2023 May 12</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.23</container>
+							<unittitle>Springside Drainage Study/ Sterling Properties proposed
+								construction, </unittitle>
+							<unitdate type="inclusive" normal="2004/2005">2004-2005</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.24</container>
+							<unittitle>"Springside - Environmental Assessment Form," </unittitle>
+							<unitdate type="inclusive" normal="19831110">1983 Nov 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.25</container>
+							<unittitle>"Springside - Environmental Assessment Form," supporting data
+								and evaluation, </unittitle>
+							<unitdate type="inclusive" normal="198309">1983 Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 7.26-7.27</container>
+							<unittitle>"Springside - Environmental Assessment Form," for Sterling
+								Properties Group, revised, </unittitle>
+							<unitdate type="inclusive" normal="20050314">2005 Mar 14</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.1</container>
+							<unittitle>"Springside Porter's Cottage Exterior Paint Analysis" by Paul
+								A. Baumgarten &amp; Associates, </unittitle>
+							<unitdate type="inclusive" normal="2005">2005</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.2</container>
+							<unittitle>"Working Paper #1 for Springside" by Walmsley &amp; Company,
+								Inc., </unittitle>
+							<unitdate type="inclusive" normal="19880314">1988 Mar 14</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Surveys - Vassar College Archaeological Field School</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.3</container>
+							<unittitle>Proposal for research at Springside, </unittitle>
+							<unitdate type="inclusive" normal="2001">2001</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.4</container>
+							<unittitle>Springside artifact catalog sheets, </unittitle>
+							<unitdate type="inclusive" normal="200109/200111">2001
+								Sep-Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.5</container>
+							<unittitle>Springside field notes, </unittitle>
+							<unitdate type="inclusive" normal="200109/200111">2001
+								Sep-Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 8.6</container>
+							<unittitle>Springside geophysical survey sheets, </unittitle>
+							<unitdate type="inclusive" normal="200109/200111">2001
+								Sep-Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<unittitle><emph render="bold">Springside Archaeological Samples:</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 1</container>
+								<unittitle>Barn Area - Test Pit, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 2</container>
+								<unittitle>Between Jet Vale and Springside - Test Pit, Layer 1,
+									Context 27, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 3</container>
+								<unittitle>Between Jet Vale and Willow Spring - Layer 2, Context 28, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 4</container>
+								<unittitle>Lawn Terrace - Grid 1, Unit 5, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 5</container>
+								<unittitle>Lawn Terrace - Grid 2, Unit 1, Context 2, Level A, </unittitle>
+								<unitdate type="inclusive" normal="20011130">2001 Nov 30</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 6</container>
+								<unittitle>Lawn Terrace - Grid 2, Unit 2, Context 8, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 6</container>
+								<unittitle>Lawn Terrace - Grid 2, Unit 2, Context 16, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 7</container>
+								<unittitle>Lawn Terrace - Grid 2, Unit 4, Context 1, Level A, </unittitle>
+								<unitdate type="inclusive" normal="20010928">2001 Sep 28</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 8</container>
+								<unittitle>Lawn Terrace - Grid 2, Unit 4, Context 1, Level A, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 9</container>
+								<unittitle>Lawn Terrace - Grid 3, Unit 9, Context 11, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 10</container>
+								<unittitle>Lawn Terrace - Grid 3, Unit 9, Context 15, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 11</container>
+								<unittitle>Lawn Terrace - Grid 3, Unit 10, Context 22C, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 12</container>
+								<unittitle>Lawn Terrace - Grid 3, Unit 11, Context 18, </unittitle>
+								<unitdate type="inclusive" normal="20011012">2001 Oct 12</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 13</container>
+								<unittitle>Lawn Terrace - Grid 3, Unit 12, </unittitle>
+								<unitdate type="inclusive" normal="200110">2001 Oct</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 14</container>
+								<unittitle>Springside Cottage - Test Pit 1, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10, Bag 15</container>
+								<unittitle>Springside Cottage - Test Pit 2, </unittitle>
+								<unitdate type="inclusive" normal="200109/200111">2001
+									Sep-Nov</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. Writings and Publications, </unittitle>
+					<unitdate type="inclusive" normal="1950/2017">1950-2017</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.7</container>
+						<unittitle><emph render="italic">Bulletin of American Garden History</emph>, </unittitle>
+						<unitdate type="inclusive" normal="1987">1987 Spring</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.8</container>
+						<unittitle>Clark, Kitty, "Springside: An Exemplary American Home" (ART 250), </unittitle>
+						<unitdate type="inclusive" normal="198712">1987 Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.9</container>
+						<unittitle><emph render="italic">The Clearview Navigator</emph>, </unittitle>
+						<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.10</container>
+						<unittitle>Clippings, 1852-1900 (photocopies), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.11</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1965/1979">1965-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.12</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1983/1988">1983-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.13</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.14</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="2001/2017">2001-2006, 2017</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.15</container>
+						<unittitle>Clippings: John O. Whitehouse, E. N. Howell, and William Nelson
+							at Springside (photocopies), </unittitle>
+						<unitdate type="inclusive" normal="1879/1973">1879-1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.16</container>
+						<unittitle>Dutchess County Environmental Management Council, "The Lower
+							Wappinger: A Significant Area," </unittitle>
+						<unitdate type="inclusive" normal="198212">1982 Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.17</container>
+						<unittitle>Effron, Jesse, "How Springside, An Important National Landmark,
+							Was Saved," draft, </unittitle>
+						<unitdate type="inclusive" normal="198811">1988 Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.18</container>
+						<unittitle>Flad, Harvey, "Matthew Vassar's 'Springside'," correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1986/1990">1986-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.19</container>
+						<unittitle>Flad, Harvey, "Matthew Vassar's 'Springside'," drafts, </unittitle>
+						<unitdate type="inclusive" normal="1987">circa 1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.20</container>
+						<unittitle>Flad, Harvey, "Matthew Vassar's 'Springside'," drafts, </unittitle>
+						<unitdate type="inclusive" normal="198708/198801">1987 Aug - 1988
+							Jan</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.21</container>
+						<unittitle>Flad, Harvey, "Matthew Vassar's 'Springside'," final draft, </unittitle>
+						<unitdate type="inclusive" normal="1988">circa 1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.22</container>
+						<unittitle>Flad, Harvey, "Matthew Vassar's 'Springside'," drafts for
+							Dumbarton Oaks Colloquium, </unittitle>
+						<unitdate type="inclusive" normal="1987">circa 1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.23</container>
+						<unittitle>Flad, Harvey, "Matthew Vassar's 'Springside'," research and
+							notes, </unittitle>
+						<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.24</container>
+						<unittitle>Flad, Harvey, "Matthew Vassar's 'Springside' As Designed by
+							Downing and Vaux," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.25</container>
+						<unittitle>Flad, Harvey, "Meaning (and Mortality) In Preserved Landscapes," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.26</container>
+						<unittitle>Flad, Harvey - Mohonk Garden Conference, notes and research, </unittitle>
+						<unitdate type="inclusive" normal="1988">1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.27</container>
+						<unittitle>Flad, Harvey, "Past, Present, and Future Imperfect: The Practice
+							of Historic Landscape Preservation at Andrew Jackson Downing's
+							Springside," </unittitle>
+						<unitdate type="inclusive" normal="1996">1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.28</container>
+						<unittitle>Flad, Harvey - Research and notes, Andrew Jackson Downing, </unittitle>
+						<unitdate type="inclusive" normal="1985/2000">1985-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.29</container>
+						<unittitle>Flad, Harvey - Research, Andrew Jackson Downing letters from
+							Sleepy Hollow Restorations (photocopies), </unittitle>
+						<unitdate type="inclusive" normal="198705">1987 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.30</container>
+						<unittitle>Flad, Harvey, "Saving Springside: Preserving Downing's Last
+							Landscape," drafts, </unittitle>
+						<unitdate type="inclusive" normal="2017">2017</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.31</container>
+						<unittitle>Flad, Harvey, "Saving Springside: Preserving Downing's Last
+							Landscape," final draft, with correspondence, </unittitle>
+						<unitdate type="inclusive" normal="201707">2017 Jul</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.32</container>
+						<unittitle>The Garden Conservancy Newsletter, </unittitle>
+						<unitdate type="inclusive" normal="1996/2005">1996-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.33</container>
+						<unittitle>"History of Springside," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.34</container>
+						<unittitle><emph render="italic">Hudson River Quarterly</emph>, </unittitle>
+						<unitdate type="inclusive" normal="1979">1979 Winter</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.35</container>
+						<unittitle>Hudson River Valley Greenway, "Hudson River Valley National
+							Heritage Area Management Plan," </unittitle>
+						<unitdate type="inclusive" normal="200206">2002 Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.36</container>
+						<unittitle>Hudson Valley Philharmonic, "Designer's Showhouse '83," </unittitle>
+						<unitdate type="inclusive" normal="1983">1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.37</container>
+						<unittitle>Miscellaneous writings about Springside, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.38</container>
+						<unittitle>New York State Bureau of Historic Sites, "Historic Preservation
+							Manual," </unittitle>
+						<unitdate type="inclusive" normal="198411">1984 Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.39</container>
+						<unittitle>Pendleton, Christopher, "A Preliminary Geologic Study of
+							Springside Estate National Historic Landmark" (Vassar College senior
+							thesis), </unittitle>
+						<unitdate type="inclusive" normal="19920505">1992 May 5</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.40</container>
+						<unittitle>"Prophet With Honor: The Career of Andrew Jackson Downing,
+							1815-1852," Dumbarton Oaks Colloquium on the History of Landscape
+							Architecture XI, </unittitle>
+						<unitdate type="inclusive" normal="1989">1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.1</container>
+						<unittitle>Research - Andrew Jackson Downing Memorial Park, Newburgh, NY, </unittitle>
+						<unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.2</container>
+						<unittitle>Research - Springside, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.3</container>
+						<unittitle>Research - Stonework, </unittitle>
+						<unitdate type="inclusive" normal="2004/2007">2004-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.4</container>
+						<unittitle>Sears, John F., "Andrew Jackson Downing and Picturesque Tourism
+							at Matthew Vassar's 'Springside'," </unittitle>
+						<unitdate type="inclusive" normal="1990">1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.5</container>
+						<unittitle>Small, Virginia, "Learning from Legendary Garden Designers,"
+								<emph render="italic">Fine Gardening</emph>, </unittitle>
+						<unitdate type="inclusive" normal="200101/200102">2001 Jan-Feb</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.6</container>
+						<unittitle>"Springside History," </unittitle>
+						<unitdate type="inclusive" normal="1950/1988">1950-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.7</container>
+						<unittitle>"Springside History," </unittitle>
+						<unitdate type="inclusive" normal="1990/2004">1990-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.8</container>
+						<unittitle>Springside Landscape Restoration Newsletter, </unittitle>
+						<unitdate type="inclusive" normal="199412">1994 Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.9</container>
+						<unittitle>Springside Landscape Restoration Newsletter, </unittitle>
+						<unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.10</container>
+						<unittitle>Springside Landscape Restoration Newsletter, </unittitle>
+						<unitdate type="inclusive" normal="2001/2005">2001-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.11</container>
+						<unittitle>"Springside Mazurka," sheet music with notes, </unittitle>
+						<unitdate type="inclusive" normal="1992">1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.12</container>
+						<unittitle>Toole, Robert M., "1820-1880, Romantic Gardens on the Hudson
+							River, New York State," </unittitle>
+						<unitdate type="inclusive" normal="1984">1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.13</container>
+						<unittitle>Toole, Robert M., "Springside: Andrew Jackson Downing's Only
+							Extant Garden," </unittitle>
+						<unitdate type="inclusive" normal="19870920">1987 Sep 20</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.14</container>
+						<unittitle>Wahlberg, Holly, "Statement of Significance: Springside
+							Landscape," </unittitle>
+						<unitdate type="inclusive" normal="2017">2017</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.15</container>
+						<unittitle>Writings on Andrew Jackson Downing and landscaping, </unittitle>
+						<unitdate type="inclusive" normal="1986/2005">1986-2005</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Series VII. Nelson Family Papers, </unittitle>
+					<unitdate type="inclusive" normal="1870/2024">1870-2024</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7 (Oversize)</container>
+						<unittitle>Advertisement for sale of Springside by auctioneer Adrian H.
+							Miller &amp; Son, </unittitle>
+						<unitdate type="inclusive" normal="187906">1879 Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.16</container>
+						<unittitle>Letters about Springside, 1879 - circa 1970 (photocopies), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.17</container>
+						<unittitle>Notes on Springside by Miles Nelson, </unittitle>
+						<unitdate type="inclusive" normal="2023/2024">2023-2024</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.18</container>
+						<unittitle>Photographs - Springside property and Nelson family, </unittitle>
+						<unitdate type="inclusive" normal="1897/1959">circa 1897-1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7 (Oversize)</container>
+						<unittitle>Site plan - "Marie Nelson Estate - Right of Way," </unittitle>
+						<unitdate type="inclusive" normal="19540715">1954 Jul 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7 (Oversize)</container>
+						<unittitle>Site plan - "Springside," </unittitle>
+						<unitdate type="inclusive" normal="193103">1931 Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7 (Oversize)</container>
+						<unittitle>Site plan - "Springside," </unittitle>
+						<unitdate type="inclusive" normal="19591014">1959 Oct 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7 (Oversize)</container>
+						<unittitle>Site plan - "Springside," annotated, </unittitle>
+						<unitdate type="inclusive" normal="19591014">1959 Oct 14</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7 (Oversize)</container>
+						<unittitle>Site plan - "Springside - Marie Nelson Estate and Surrounding
+							Properties," </unittitle>
+						<unitdate type="inclusive" normal="1965">circa 1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.19</container>
+						<unittitle>Springside - Deed, </unittitle>
+						<unitdate type="inclusive" normal="18790626">1879 Jun 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.20</container>
+						<unittitle>Springside - Referee's Deed, </unittitle>
+						<unitdate type="inclusive" normal="18700709">1870 Jul 9</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.21</container>
+						<unittitle>Springside - Referee's Deed, mortgage foreclosure, </unittitle>
+						<unitdate type="inclusive" normal="19010429">1901 Apr 29</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.22</container>
+						<unittitle>Springside - "Search against the premises in the Town of
+							Poughkeepsie described in a deed made by John P. H. Tallman…," </unittitle>
+						<unitdate type="inclusive" normal="18790711">1879 Jul 11</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.23</container>
+						<unittitle>Springside - Terms of Sale, </unittitle>
+						<unitdate type="inclusive" normal="18790305">1879 Mar 5</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

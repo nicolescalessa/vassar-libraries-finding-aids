@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_goodfellowship_club
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Goodfellowship Club Records, 1902-1957 </titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>12 Mar 2009.</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Vassar College Goodfellowship Club</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Goodfellowship Club Records </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1902-1957 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">3.1 cubic feet (15 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials related to the Vassar College Goodfellowship Club, including correspondence, business papers and photographs.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History</head>
+			<p>The Steadfast Club was Vassar's first club of maids, students, and faculty, but it was short-lived, meeting from 1890-1891. In the spring of 1901, the Vassar Students' Association developed an idea to found a social center for the workers in the housekeeping department. In 1902-1903, the Good Fellowship Club (later the Goodfellowship Club) was organized. The Trustees approved the idea for the construction of a building in June, 1903, and the students proceeded to raise $10,000 in order to build the building</p>
+			<p>The Maids' Club-house, home of the Goodfellowship Club, opened in March, 1908. The Club-house included a circulating library, a sewing machine, a laundry room, dining room, kitchen, and infirmary. The Club sponsored evening classes (recreational, domestic, and academic), and cultural events. One paid dues in order to belong. With the rise of unions after World War II, the Club eventually dwindled in membership and passed out of existence.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Vassar College Goodfellowship Club Records include reports, correspondence, members' organization notebooks, publications, notes on miscellaneous club activities and photographs.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</extref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </extref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Societies and clubs</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Housekeepers--Societies and clubs</subject>
+				<subject source="lcsh" encodinganalog="650">Student organizations--United States</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Campus Organizations </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 17 Mar 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Archives and Special Collections Library staff.</p>
+		</processinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Goodfellowship Club, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Constitution and History, </unittitle>
+					<unitdate>1902-1957</unitdate>
+					<physdesc>(Boxes 1-2)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Club Reports, </unittitle>
+					<unitdate>1908-1954</unitdate>
+					<physdesc>(Boxes 3-6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Notebooks, </unittitle>
+					<unitdate>1908-1938</unitdate>
+					<physdesc>(Boxes 7-10)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series IV. </ref> Correspondence, </unittitle>
+					<unitdate>1909-1943</unitdate>
+					<physdesc>(Box 11)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> Series V. </ref> Activities and Publications, </unittitle>
+					<unitdate>1907-1942</unitdate>
+					<physdesc>(Boxes 12-13)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6"> Series VI. </ref> Photographs </unittitle>
+					<physdesc>(Box 14)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7"> Series VII. </ref> Miscellaneous </unittitle>
+					<physdesc>(Box 15)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. Constitution and History, </unittitle>
+					<unitdate>1902-1957</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1 </container>
+						<unittitle> Constitution of Goodfellowship Club</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle> Constitution of Goodfellowship Club</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> History of the Maids' Club House of Vassar College, </unittitle>
+						<unitdate> 1912 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4 </container>
+						<unittitle> Visitors of the Maids' Club House, </unittitle>
+						<unitdate> 1908-1957 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.5 </container>
+						<unittitle> Chart of History of Goodfellowship Club House </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.1 </container>
+						<unittitle> The Yearbook of The Goodfellowship Club, </unittitle>
+						<unitdate> 1910 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.2 </container>
+						<unittitle> The Yearbook of The Goodfellowship Club, </unittitle>
+						<unitdate> 1911 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. Club Reports, </unittitle>
+					<unitdate>1908-1954</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.1 </container>
+						<unittitle> Club Reports, </unittitle>
+						<unitdate> 1911-1934 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.2 </container>
+						<unittitle> Club Reports, </unittitle>
+						<unitdate> 1935-1941 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.3 </container>
+						<unittitle> Club House Reports,</unittitle>
+						<unitdate> 1911-1912, 1916-1917, 1917-1918 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.4 </container>
+						<unittitle> Club House Reports,</unittitle>
+						<unitdate> 1914-1915 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.5 </container>
+						<unittitle> Club House Reports,</unittitle>
+						<unitdate> 1914-1915 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.6 </container>
+						<unittitle> Club House Reports,</unittitle>
+						<unitdate> 1915-1916 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.7 </container>
+						<unittitle> Club House Reports,</unittitle>
+						<unitdate> 1913, 1918, 1923-1926, 1930-1931 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.1 </container>
+						<unittitle> Club House Reports,</unittitle>
+						<unitdate> 1931-1943 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.2 </container>
+						<unittitle> Goodfellowship Club House Reports, </unittitle>
+						<unitdate> 1922-1924 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.3 </container>
+						<unittitle> Goodfellowship Club Reports, </unittitle>
+						<unitdate> [1922-1954] </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.4 </container>
+						<unittitle> Miscellaneous Reports: Ruth Cutler, </unittitle>
+						<unitdate> 1911-1912 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.4 </container>
+						<unittitle> Sub-Chairmen Reports, </unittitle>
+						<unitdate> 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.1 </container>
+						<unittitle> Committee Reports, </unittitle>
+						<unitdate> 1926-1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.2 </container>
+						<unittitle> Committee Reports, </unittitle>
+						<unitdate> 1927-1928 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.3 </container>
+						<unittitle> Reports to Students' Association, </unittitle>
+						<unitdate> 1911-1912, 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.4 </container>
+						<unittitle> Report of the House Committee, </unittitle>
+						<unitdate> 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.4 </container>
+						<unittitle> Report to the Students' Association: Evelyn Noble, </unittitle>
+						<unitdate> 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.5 </container>
+						<unittitle> Supervisor's Reports, </unittitle>
+						<unitdate> 1913, 1921-1922 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.6 </container>
+						<unittitle> Treasurer's Report, </unittitle>
+						<unitdate> 1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.7 </container>
+						<unittitle> Goodfellowship Club Records of Business Meetings by Secretary, </unittitle>
+						<unitdate> 1908-1910 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.1 </container>
+						<unittitle> Goodfellowship Accounts, </unittitle>
+						<unitdate> 1941-1944 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.2 </container>
+						<unittitle> Goodfellowship Club Accounts, </unittitle>
+						<unitdate> 1934/1935-1937/1938 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.3 </container>
+						<unittitle> Goodfellowship Club Accounts, </unittitle>
+						<unitdate> 1938/1938-1940/1941 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. Notebooks, </unittitle>
+					<unitdate>1908-1938</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Ring binder: pages taken from a scrapbook from the Good Fellowship Club House, </unittitle>
+						<unitdate> 1908-1910 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.1 </container>
+						<unittitle> Club House Notebook: Ruth Cutler, </unittitle>
+						<unitdate> 1910-1911 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.2 </container>
+						<unittitle> Club House Notebook: Ruth Cutler, </unittitle>
+						<unitdate> 1910-1911 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.3 </container>
+						<unittitle> Club House Notebook: Ruth Cutler, </unittitle>
+						<unitdate> 1911-1912 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.4 </container>
+						<unittitle> Club House Notebook: Ruth Cutler, </unittitle>
+						<unitdate> 1911-1912 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.5 </container>
+						<unittitle> Club House Notebooks: Evelyn Noble, </unittitle>
+						<unitdate> 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.1 </container>
+						<unittitle> Chairman's Notebook: Evelyn Noble, </unittitle>
+						<unitdate> 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.1 </container>
+						<unittitle> Club House Committee Notes: Adeline De Sale, Secretary, </unittitle>
+						<unitdate> 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.2 </container>
+						<unittitle> Chairman's Notebook: Evelyn Noble, </unittitle>
+						<unitdate> 1912-1913 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.3 </container>
+						<unittitle> Club House Notebook, </unittitle>
+						<unitdate> 1913-1914 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.4 </container>
+						<unittitle> Chairman's Notes: Anne Thorpe, </unittitle>
+						<unitdate> 1915-1916 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 9.5 </container>
+						<unittitle> Chairman's Notebook: Constance Woodworth, </unittitle>
+						<unitdate> 1926-1928 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.1 </container>
+						<unittitle> Chairman's Notebook: Kathleen B. Smyth, </unittitle>
+						<unitdate> 1928-1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.2 </container>
+						<unittitle> Chairman's Notebook: Kathleen B. Smyth, </unittitle>
+						<unitdate> 1928-1930 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 10.3 </container>
+						<unittitle> Goodfellowship Club Plays Notebook, </unittitle>
+						<unitdate> 1930-1938 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. Correspondence, </unittitle>
+					<unitdate>1909-1943</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.1 </container>
+						<unittitle> To Club House/Club House News (General)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.2 </container>
+						<unittitle> From Club House/Club House News</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.3 </container>
+						<unittitle> Regarding endowment funds, </unittitle>
+						<unitdate> 1909-1910 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.4 </container>
+						<unittitle> Regarding endowment funds, </unittitle>
+						<unitdate> 1911, 1912, 1923 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.5 </container>
+						<unittitle> Letters and Notes, </unittitle>
+						<unitdate> 1914-1943 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 11.6 </container>
+						<unittitle> Miscellaneous Correspondence</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V. Activities and Publications, </unittitle>
+					<unitdate>1907-1942</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.1 </container>
+						<unittitle> Chart of Goodfellowship Club House Activities, </unittitle>
+						<unitdate> 1907-1915 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.2 </container>
+						<unittitle> Activities, </unittitle>
+						<unitdate> 1911-1914 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.3 </container>
+						<unittitle> Activities, </unittitle>
+						<unitdate> 1925-1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.4 </container>
+						<unittitle> Activities, </unittitle>
+						<unitdate> 1936-1942, 1950, undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.5 </container>
+						<unittitle> Red Cross-First Aid Courses</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.6 </container>
+						<unittitle> Swimming-Kenyon Gym, </unittitle>
+						<unitdate> 9 Oct 1934 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.7 </container>
+						<unittitle> Productions: <emph render="italic">The Love Doctor</emph> and <emph render="italic">The Birds' Christmas Carol</emph></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.8 </container>
+						<unittitle> Productions: <emph render="italic">The Travel Class</emph></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.9 </container>
+						<unittitle> Productions: <emph render="italic">Three Cornered Moon</emph>, </unittitle>
+						<unitdate> 1941 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 12.10 </container>
+						<unittitle> Club House News Scrapbook, </unittitle>
+						<unitdate> 1925-1926 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 13.1 </container>
+						<unittitle> Club House News, </unittitle>
+						<unitdate> 1920-1921 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 13.2 </container>
+						<unittitle> Club House News, </unittitle>
+						<unitdate> 1921-1924 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 13.3 </container>
+						<unittitle> Club House News, </unittitle>
+						<unitdate> 1925-1928 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 13.4 </container>
+						<unittitle> Club House News </unittitle>
+						<unitdate> 1929-1933 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 13.5 </container>
+						<unittitle> Club House News, </unittitle>
+						<unitdate> 1934-1937 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 13.5 </container>
+						<unittitle> Club House News, </unittitle>
+						<unitdate> 1939-1940 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> SERIES VI. Photographs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.1 </container>
+						<unittitle> Photographs of Club House Building</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.2 </container>
+						<unittitle> Photographs of Goodfellowship Club members and productions</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.3 </container>
+						<unittitle> Photographs and theatrical productions</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.4 </container>
+						<unittitle> Photographs, miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 14.5 </container>
+						<unittitle> Photograph Album, </unittitle>
+						<unitdate> circa 1920-1929 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle> SERIES VII. Miscellaneous</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.1 </container>
+						<unittitle> Miscellaneous club information; press releases; club history; articles</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.2 </container>
+						<unittitle> Good Fellowship Club, miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.3 </container>
+						<unittitle> Employee fire Capts. Black out, etc. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.4 </container>
+						<unittitle> Employee 75th Benefit, </unittitle>
+						<unitdate> 1940 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.5 </container>
+						<unittitle> Lists, Notices</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.6 </container>
+						<unittitle> Membership List, </unittitle>
+						<unitdate> 1936-1937 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.7 </container>
+						<unittitle> Club House Council; Student Committee [list of members], </unittitle>
+						<unitdate> 1932/1933-1937/1938 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 15.8 </container>
+						<unittitle> Vassar Drive, </unittitle>
+						<unitdate> 1933-1946 </unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

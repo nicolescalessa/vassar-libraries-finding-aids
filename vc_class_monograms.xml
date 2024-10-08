@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_class_monograms</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Class Monograms Collection</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>September 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck <date>September 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Vassar College</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Class Monograms Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1868-1924</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.4 cubic feet (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">This collection consists of stamped and printed monograms for Vassar College graduating classes, as well as for a few sororities and other organizations.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection consists of stamped and printed monograms for Vassar College graduating classes, as well as for a few sororities and other organizations.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is arranged into groupings by type of monogram and sub-arranged chronologically.</p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</archref>.</p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Monograms</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Audiovisuals and Realia</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Removed from the Vassar College Realia Collection and processed seperately by Emma Gronbeck, September 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Many of the monograms in this collection appear to have been collected by Vassar College librarians Frances A. Wood and Adelaide Underhill between 1905 and 1917.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Class Monograms Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="bold">Class Monograms [Mounted]</emph></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unitdate normal="1868/1869">1868-1869</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unitdate normal="1870">1870</unitdate>
+						<physdesc>[2 versions]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unitdate normal="1871">1871</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unitdate normal="1872">1872</unitdate>
+						<physdesc>[2 versions]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unitdate normal="1874">1874</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unitdate normal="1876/1893">1876-1893</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unitdate normal="1894/1923">1894-1923</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="bold">Class Monograms from Letters and Envelopes</emph></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.1</container>
+						<unitdate normal="1872/1874">1872-1874</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.2</container>
+						<unitdate normal="1880/1889">1880-1889</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3</container>
+						<unitdate normal="1890/1899">1890-1899</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4</container>
+						<unitdate normal="1900/1909">1900-1909</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5</container>
+						<unitdate normal="1910/1918">1910-1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.6</container>
+						<unitdate normal="1922/1924">1922, 1924</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="bold">Sorority and Miscellaneous Monograms</emph></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.7</container>
+						<unitdate normal="1877/1880">1877-1880, undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

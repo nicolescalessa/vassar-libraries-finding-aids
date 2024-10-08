@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_smiley_daniel
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Daniel M. Smiley Papers, approximately 1902-1927</titleproper>
+				<author>Inventory prepared by Joan LaChance and Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>September 2006</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Smiley, Daniel, 1855-1930</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Daniel M. Smiley Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> approximately 1902-1927 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 1 cubic foot (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence, minutes, and reports relating to Smiley's service as a trustee for Vassar College.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Daniel M. Smiley (1856-1930), humanitarian, head of the annual Lake Mohonk Conference, was born in Vassalboro, ME. He graduated from Haverford College in 1878. After an early period as a school teacher of Latin and Greek at the William Penn Charter School in Philadelphia, he devoted himself to various humanitarian endeavors, including the Lake Mohonk Conference, which considered ways of aiding Native Americans, Filipinos, Puerto Ricans and other inhabitants of American dependencies. He was a member of the board of trustees at Vassar for twenty years from 1902-1922. He died at his home after a long illness on 14 February 1930 at the age of 74.</p>
+			<p> For more biographical details, see the Smiley material in the <archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-biographical-files-approximately-1900-2010">Vassar College Biographical Files</archref>. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p> Correspondence, minutes, and reports relating to Smiley's service as a trustee for Vassar College.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>See also the Smiley material in the </p>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-biographical-files-approximately-1900-2010">Vassar College Biographical Files</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Board of Trustees</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Administration</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Trustees </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, January 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Joan LaChance and Laura Streett, September 2006.</p>
+			<p>Biographical note written by Dean Rogers, November 2006. </p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Pril Smiley, September 2006.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Daniel M. Smiley Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container> Folder 1 </container>
+					<unittitle> Alumnae </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2 </container>
+					<unittitle> Anniversary — Fiftieth </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 3 </container>
+					<unittitle> Budget </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 4 </container>
+					<unittitle> Commencement </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 5 </container>
+					<unittitle> Committee — Buildings and Grounds </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 6 </container>
+					<unittitle> Committee — Conference with a Committee of Faculty </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 7 </container>
+					<unittitle> Committee — Executive </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 8 </container>
+					<unittitle> Committee — Executive Committee — Secretary’s Notices </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 9 </container>
+					<unittitle> Committee — Farm </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 10 </container>
+					<unittitle> Committee — Food and Internal Management </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 11 </container>
+					<unittitle> Committee — Organization </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 12 </container>
+					<unittitle> Committee — Ways and Means </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 13 </container>
+					<unittitle> Committee — Williams Hall and Alumnae House </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 14 </container>
+					<unittitle> Endowment Fund </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 15 </container>
+					<unittitle> Entertainments </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 16 </container>
+					<unittitle> Founders Day </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 17 </container>
+					<unittitle> Joint Committee of Trustees, Faculty, and Alumnae </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 18 </container>
+					<unittitle> Nurses Training Camp </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 19 </container>
+					<unittitle> Officers — Dean </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 20 </container>
+					<unittitle> Officers — President, Dr. Taylor </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 21 </container>
+					<unittitle> Officers — President, H. N. MacCracken </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 22 </container>
+					<unittitle> Officers — Superintendent </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 23 </container>
+					<unittitle> Officers — Treasurer </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 24 </container>
+					<unittitle> Officers — Warden </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 25 </container>
+					<unittitle> Sundries </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 26 </container>
+					<unittitle> Trustees, Board of, Secretary’s Notes </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 27 </container>
+					<unittitle> Trustees, Board of, I </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 28 </container>
+					<unittitle> Trustees, Board of, II </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 29 </container>
+					<unittitle> Vassar College </unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

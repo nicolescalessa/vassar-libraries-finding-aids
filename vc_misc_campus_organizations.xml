@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_misc_campus_organizations</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Miscellaneous Campus Organizations Records, 1882-1997</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>November 2023</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck <date>November 2023</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Vassar College</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Miscellaneous Campus
+				Organizations Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1882-1997</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.6 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College
+					Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Meeting minutes, constitutions, clippings, scrapbooks, and other material related to a variety of student clubs and campus organizations at Vassar College.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>Vassar College was founded in 1861 and opened its doors in 1865.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Meeting minutes, constitutions, clippings, scrapbooks, and other material related to a variety of student clubs and campus organizations at Vassar College.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</archref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/b12648c5-2f8d-4d00-8b7f-e48ce9b1ad13"
+					>Vassar Students' Association</archref>.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="local" encodinganalog="610">Vassar College. Association of College
+					Specials</corpname>
+				<corpname source="local" encodinganalog="610">Vassar College. Debate Society</corpname>
+				<corpname source="local" encodinganalog="610">Vassar College. Employees Golf
+					Association</corpname>
+				<corpname source="local" encodinganalog="610">Vassar College. Latin Journal
+					Club</corpname>
+				<corpname source="local" encodinganalog="610">Vassar College. Microscopical
+					Club</corpname>
+				<corpname source="local" encodinganalog="610">Vassar College. Night Owls</corpname>
+				<corpname source="local" encodinganalog="610">Vassar College. Qui Vive
+					Club</corpname>
+				<corpname source="local" encodinganalog="610">Vassar College. Steadfast
+					Club</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Societies and
+					clubs</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Debates and debating</subject>
+				<subject source="lcsh" encodinganalog="650">Employee affinity groups</subject>
+				<subject source="lcsh" encodinganalog="650">Student organizations--United
+					States</subject>
+				<subject source="lcsh" encodinganalog="650">Women college students--New York
+					(State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Women--New York
+					(State)--Poughkeepsie--Societies and clubs</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Minutes (administrative
+					records)</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Campus
+					Organizations</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, November 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, November 2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Records of the Microscopical Club were the gift of Abigail F. Goodsell, March 1890.</p>
+			<p>Records of the Night Owls were the gift of Mikie Benedict (VC 1997), December 2009. [A2009-049]</p>
+			<p>Origin of other records is unknown, although they were likely donated by the organization of origin.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Miscellaneous Campus Organizations Records, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Qui Vive Club (1882-1917)</unittitle>
+				</did>
+				<bioghist>
+					<p> The Qui Vive Club was established by the Sophomore class in the Spring of
+						1882 as a club for the discussion of current, historical, and literary
+						topics. Minnie Cumnock Blodgett served as its first president. Qui Vive
+						regularly invited lecturers to speak on various topics and hosted debates on
+						a variety of issues. They often debated with Vassar's other debate club, the
+						politically-oriented T &amp; M Club. These two clubs were abolished in the
+						Spring of 1917 and replaced by the new Vassar Debating Society, later called
+						the Vassar College Debate Society.</p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1</container>
+						<unittitle>Records, </unittitle>
+						<unitdate type="inclusive" normal="1882-1892">1882-1892</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Microscopical Club (1887-1890)</unittitle>
+				</did>
+				<bioghist>
+					<p> Established in 1887, the Vassar College Microscopical Club's stated
+						objective was "to unite its members in practical microscopical work."
+						Consisting of both students and faculty, the club met monthly, often in the
+						biology laboratory, to research and examine scientific specimens such as
+						water samples from the Vassar lake, starfish, and Bryozoa. It was disbanded
+						after only 2 years, in February of 1890. </p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2</container>
+						<unittitle>Constitution, </unittitle>
+						<unitdate type="inclusive" normal="1887">1887</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unittitle>Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1887-1890">1887-1890</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Association of Collegiate Specials (1888-)</unittitle>
+				</did>
+				<bioghist>
+					<p> The Association of Collegiate Specials, established in 1888, was a student
+						government and collective-bargaining organization for Vassar College's
+						Speciality students, who were not members of a graduating class.</p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4</container>
+						<unittitle>Constitution and minutes, </unittitle>
+						<unitdate type="inclusive" normal="1888-1894">1888-1894</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Steadfast Club (1890-1891)</unittitle>
+				</did>
+				<bioghist>
+					<p>Established in 1890, the short-lived Steadfast Club was organized to benefit Vassar College employees through classes in reading, penmanship, arithmetic, dress-making, and shorthand. It included faculty, employees, and students in its membership.</p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.5</container>
+						<unittitle>Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1890-1891">1890-1891</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Latin Journal Club (1902-)</unittitle>
+				</did>
+				<bioghist>
+					<p>A faculty literature club established in 1902, whose original goal was to keep faculty informed regarding current literature and publications in the area of Classical Studies. Over the years, meetings of the club expanded from reviewing academic journals to include papers, book reviews, play readings, biographies of classical scholars, and reports of classical adventures abroad. The club was renamed as the Classical Journal Club at some point after 1935.</p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.6</container>
+						<unittitle>Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1902-1935">1902-1935</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Vassar College Debate Society (1917-Present)</unittitle>
+				</did>
+				<bioghist>
+					<p>Vassar College's longest-running debate club, the Debate Society replaced several earlier clubs, including the Qui Vive Club and the T &amp; M Club, in the Spring of 1917.</p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.7</container>
+						<unittitle>Correspondence and clippings, </unittitle>
+						<unitdate type="inclusive" normal="1922-1924">1922-1924</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Employees Golf Association</unittitle>
+				</did>
+				<bioghist>
+					<p>An employee and faculty golf club active primarily during the 1930s.</p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Scrapbook, </unittitle>
+						<unitdate type="inclusive" normal="1939">1939</unitdate>
+						<physdesc>(1 volume)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>Night Owls (1946-Present)</unittitle>
+				</did>
+				<bioghist>
+					<p>Begun as the Class of 1947 musical octet, the Night Owls a capella group recruited new members from other graduating classes and soon became a fixture among Vassar College's musical groups. As of 2023, they are the college's oldest and longest-running musical group.</p>
+				</bioghist>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.8</container>
+						<unittitle>Correspondence, clippings, and business manager manual, </unittitle>
+						<unitdate type="inclusive" normal="1996-1997">1996-1997</unitdate>
+					</did>
+				</c02>
+			</c01>
+
+		</dsc>
+	</archdesc>
+</ead>

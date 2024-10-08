@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_spross_charles_gilbert</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Charles Gilbert Spross Papers, 1907-1982</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College
+					Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY,
+						12604-0020</addressline>
+				</address>
+				<date>February 2011</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>February 2011</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Spross, Charles Gilbert</persname></origination>
+			<unittitle label="Title:" encodinganalog="245">Charles Gilbert Spross Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1907-1982</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1 cubic foot (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College
+					Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Drafts of sheet music, scrapbooks,
+				and biographical ephemera related to Charles Gilbert Spross's career as a pianist,
+				accompanist, and composer.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Charles Gilbert Spross (1874-1961) was a pianist, accompanist, and composer. He was
+				born in Poughkeepsie, New York, studied under Franz Xavier Scharwenke and Carl V.
+				Lachmund, and traveled the world to accompany a number of opera singers, violinists,
+				and other musicians.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Drafts of sheet music, scrapbooks, and biographical ephemera related to Charles
+				Gilbert Spross's career as a pianist, accompanist, and composer.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Composers--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Pianists--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Musicians--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+				<genreform source="aat" encodinganalog="655">Sheet music</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Music</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, February 2011. Updated by Emma Gronbeck, February 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, February 2011. Updated by Emma Gronbeck, February
+				2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The scrapbooks and most of the sheet music were a gift of R. Philip Hart, 2010
+				[M2011-011]. Additional material was transfered from the Vassar College Music
+				Library in 2010 [M2010-011]. A gift of seven pieces of sheet music came from the New
+				England Conservatory in 2015. Additional sheet music and ephemera were a gift of
+				James F. Eilers, Jr. in 2023 [M2023-006].</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Charles Gilbert Spross Papers, Archives and Special Collections Library, Vassar
+				College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.01</container>
+					<unittitle>Award, "A Citation of Honor to Charles Gilbert Spross, Music
+						Director," First Congregational Church, Poughkeepsie, NY, </unittitle>
+					<unitdate type="inclusive" normal="19550501">1955 May 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.01</container>
+					<unittitle>Clippings about Charles Gilbert Spross, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+					<physdesc>[photocopies]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.02</container>
+					<unittitle>Printed ephemera and programs, </unittitle>
+					<unitdate type="inclusive" normal="1982">1982</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Scrapbook, </unittitle>
+					<unitdate type="inclusive" normal="1907/1975">1907-1975</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Scrapbook, </unittitle>
+					<unitdate type="inclusive" normal="1911/1961">1911-1961</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="bold">Sheet Music - Autograph Manuscript</emph></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.03</container>
+						<unittitle>Hart, Gertrude Spross, "Whimsies", </unittitle>
+						<unitdate type="inclusive" normal="193802">1938 February</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.02</container>
+						<unittitle>Puccini, Giacomo, "La Tosca," [arranged?] by Charles Gilbert
+							Spross, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.03</container>
+						<unittitle>Spross, Charles Gilbert, "I Will Extol Thee, O' Lord," sacred
+							duet for soprano and tenor, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.04</container>
+						<unittitle>Spross, Charles Gilbert, "Invocation to Life", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.04</container>
+						<unittitle>Spross, Charles Gilbert, "Invocation to Life," for violin, viola,
+							and cello, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.05</container>
+						<unittitle>Spross, Charles Gilbert, "Let All My Life Be Music", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.06</container>
+						<unittitle>Spross, Charles Gilbert, "Lorraine, Lorraine, Lorrée", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.07</container>
+						<unittitle>Spross, Charles Gilbert, "Non [Nobis?] Dominé, 1.)
+							accompaniment", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.05</container>
+						<unittitle>Spross, Charles Gilbert, "Polacca Brilliante (for 2 pianos)", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.08</container>
+						<unittitle>Spross, Charles Gilbert, "Thy Will Be Done" / "I Will Life Up
+							Mine Eyes" / "Blow Ye the Trumpet in Lion" / "Like As the Hart" [2
+							drafts], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.09</container>
+						<unittitle>Spross, Charles Gilbert, "Yesterday and Today", </unittitle>
+						<unitdate type="inclusive" normal="1932" certainty="approximate">circa
+							1932</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="bold">Sheet Music - Published</emph></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.06</container>
+						<unittitle>Spross, Charles Gilbert, "Ask Me No More," Cincinnati: The John
+							Church Company, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Spross, Charles Gilbert, "The Day is Done," Cincinnati: The John
+							Church Company, </unittitle>
+						<unitdate type="inclusive" normal="1914" certainty="approximate">circa
+							1914</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unittitle>Spross, Charles Gilbert, "Invocation to Life," Philadelphia:
+							Theodore Presser Co., </unittitle>
+						<unitdate type="inclusive" normal="1930" certainty="approximate">circa
+							1930</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.06</container>
+						<unittitle>Spross, Charles Gilbert, "Let All My Life Be Music,"
+							Philadelphia: The John Church Company, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12</container>
+						<unittitle>Spross, Charles Gilbert, "Minor and Major," Cincinnati: The John
+							Church Company, </unittitle>
+						<unitdate type="inclusive" normal="1920" certainty="approximate">circa
+							1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.07</container>
+						<unittitle>Spross, Charles Gilbert, "Minor and Major," Cincinnati: The John
+							Church Company, </unittitle>
+						<unitdate type="inclusive" normal="192602">1926 February, undated</unitdate>
+					</did>
+					<scopecontent><p><emph render="italic">Note: Annotated by Spross and dedicated to soprano Genia Zielinska. Includes printed ephemera about Zielinska.</emph></p></scopecontent>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.06</container>
+						<unittitle>Spross, Charles Gilbert, "Through a Primrose Dell," Cincinnati:
+							The John Church Company, </unittitle>
+						<unitdate type="inclusive" normal="1910" certainty="approximate">circa
+							1910</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.06</container>
+						<unittitle>Spross, Charles Gilbert, "Will O' the Wisp," Cincinnati: The John
+							Church Company, </unittitle>
+						<unitdate type="inclusive" normal="1909" certainty="approximate">circa
+							1909</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.06</container>
+						<unittitle>Spross, Charles Gilbert, "The Wind" / "Living and Dying" / "Love
+							Planted My Rose," Cincinnati: The John Church Company, </unittitle>
+						<unitdate type="inclusive" normal="1907" certainty="approximate">circa
+							1907</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.06</container>
+						<unittitle>Spross, Charles Gilbert, "Yesterday and Today," Philadelphia: The
+							John Church Company, </unittitle>
+						<unitdate type="inclusive" normal="1908" certainty="approximate">circa
+							1908</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

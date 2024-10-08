@@ -1,0 +1,4184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_schlosser_stowe</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Mary C. Schlosser Collection of Harriet Beecher Stowe, 1838-2021 (bulk 1852-1934)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>February 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck <date>May 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Schlosser, Mary C.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Mary C. Schlosser Collection of Harriet Beecher Stowe</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1838-2021</unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">1852-1934</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">8.2 cubic feet (15 boxes), 4 mapcase folders, 2 framed items</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<langmaterial label="Languages of Material:">Most materials are in <language langcode="eng">English</language>, with some additional materials in <language langcode="fre">French</language>, <language langcode="ger">German</language>, and <language langcode="swe">Swedish</language>.
+			</langmaterial>
+			<abstract label="Abstract:" encodinganalog="520$a">The collection consists of published
+				articles, printed ephemera, visual media, and a variety of popular culture artifacts
+				and realia related to American author and abolitionist Harriet Beecher Stowe and her
+				most popular novel, <emph render="italic">Uncle Tom's Cabin</emph>.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Harriet Beecher Stowe (1811-1896) was an American author and abolitionist best known for her divisive and best-selling novel, <emph render="italic">Uncle Tom's Cabin</emph>. She was born on June 14, 1811, in Litchfield, Connecticut, to Roxana Foote Beecher and prominent Calvinist Congregational minister and abolitionist Lyman Beecher. The sixth of eleven children, Stowe's siblings included educator and author Catherine Beecher and preacher and fellow abolitionist Henry Ward Beecher. She received a classical education at Litchfield Female Academy and Hartford Female Seminary, a school run by her older sister Catherine. Stowe taught at Hartford Female Seminary from 1829 to 1832, before relocating with her father to Cincinnati, Ohio, where he had accepted the position of president at Lane Theological Seminary. While at Lane Seminary, Stowe would publish her first book, <emph render="italic">Primary Geography</emph> (1833), and marry Calvin Stowe, a professor at the Seminary. In 1851, the Stowes would move to Brunswick Maine, where Calvin had accepted a teaching position at Bowdoin College.</p>
+				
+			<p>In 1850, the passage of the Fugitive Slave Act forced states in which slavery was illegal to cooperate in the capture and return of escaped African-Americans back to slavery. This law forced many Northerners, who until that point held passive anti-slavery positions, to become either actively complicit in the enslavement of their neighbors, or active dissidents. Turmoil was especially strong in Cincinnati, a city that existed on the border of the free state of Ohio and the slave state of Kentucky. In part inspired by the Fugitive Slave Act and by increasing unrest in the North, Stowe wrote <emph render="italic">Uncle Tom's Cabin; or, Life Among the Lowly</emph>, a work which condemned the institution of slavery and all of its participants. The book was released in March 1852 and sold 300,000 copies in its first year. By the end of the nineteenth century, it was outsold only by the Bible.</p>
+				
+			<p>The impact of <emph render="italic">Uncle Tom's Cabin</emph> was widespread and divisive, sparking outrage from the South and becoming the first book to be banned by the Confederate government after the start of the Civil War. Stowe used her and the novel's popularity to tour nationally and internationally to speak about the book and the abolitionist cause. In the decades following the book's publication, more limited copyright laws at the time allowed the novel to be adapted in a variety of ways; from travelling theatrical performances, to translations and abridged editions, to its first motion picture adaptation in 1903.</p>
+				
+			<p>The first major adaptation of the novel for the stage was produced by the George Howard Company using a script adapted by George Aiken which remained faithful to the novel's abolitionist messaging. Later adaptations, particularly those that toured in Southern states, would be dramatized further and altered to suit the narrative preferences of the audience. In Southern states, the harsh reality of life for enslaved people in the novel would be softened, alternate endings where Tom is happy to remain enslaved were introduced, and the African American characters of the cast would be reduced to grotesque racial caricatures, often portrayed by white actors in blackface. These touring "Tom shows" dominated the U.S. tour market by the 1880s, often featuring parades, bands, and sideshows to draw larger crowds.</p>
+				
+				<p>In 1863, Stowe and her family relocated to Hartford, Connecticut, where she would live until her death in 1896.
+			</p>
+			<p><emph render="bold">References</emph></p>
+				<p>Ford, Jane, "The Story of 'Uncle Tom's Cabin' Spread from Novel to Theater and Screen," UVA Today, University of Virginia, 12 November 2012. <extref href="https://news.virginia.edu/content/story-uncle-tom-s-cabin-spread-novel-theater-and-screen">https://news.virginia.edu/content/story-uncle-tom-s-cabin-spread-novel-theater-and-screen</extref></p>
+				<p>Patkus, Ronald D. and Mary C. Schlosser, "Aspects of the Publishing History of Uncle Tom's Cabin, 1851-1900," Uncle Tom's Cabin in Print: The Collection of Mary C. Schlosser, Poughkeepsie, N.Y.: Vassar College, 2004. <extref href="https://www.vassar.edu/specialcollections/exhibit-highlights/2001-2005/stowe/essay2.html">https://www.vassar.edu/specialcollections/exhibit-highlights/2001-2005/stowe/essay2.html</extref></p>
+				
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection consists of printed ephemera, visual media, sheet music, and a variety of popular culture artifacts and realia related to American author and abolitionist Harriet Beecher Stowe and her most popular and divisive novel, <emph render="italic">Uncle Tom's Cabin</emph>, collected by Mary C. Schlosser. The collection contains a variety of material related to stage adaptations of <emph render="italic">Uncle Tom's Cabin</emph>, including advertisements, playbills, programs, posters and illustrated sheet music, as well as actor cards and other memorabilia. Visual media in the collection consists of lantern slides of scenes from the novel, lithograph prints, original paintings, and posters depicting scenes from the novel as well as stage adaptations. The realia portion of the collection contains a wide variety of material culture objects, from card games and toys, to cereal boxes, to pottery and sculpture of scenes and characters from <emph render="italic">Uncle Tom's Cabin</emph>. A small amount of material related to Stowe's second anti-slavery novel <emph render="italic">Dred: A Tale of the Great Dismal Swamp</emph> (1856), is also included.
+			</p>
+		
+		</scopecontent>
+		<scopecontent encodinganalog="520">
+			<head>Content Warning</head>
+			<p>This collection contains a multitude of works derived from Harriet Beecher Stowe's <emph render="italic">Uncle Tom's Cabin</emph> that were created predominantly in the United States and Great Britain in the years between the American Civil War and the Civil Rights Movement of the 1960s. As such, many materials in this collection contain images and language that are racist, xenophobic, or otherwise harmful. The Vassar College Archives and Special Collections Library does not support or condone these depictions, but we believe that they provide important evidence of historical realities that should not be forgotten or ignored.
+			</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement</head>
+			<p> The collection is organized into six series: Series I. Printed Ephemera, Series II.
+				Sheet Music, Series III. Visual Media, Series IV. Realia, Series V. Audiovisual
+				Media, and Series VI. Catalogued Materials. </p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</archref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/d6e79ade-b143-4976-852c-7d8b32ae536b"
+				>Catherine Beecher Letters. Autograph Files,  Archives and Special Collections Library, Vassar College Libraries.</archref></p>
+			<p>Henry Ward Beecher Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>Lyman Beecher Collection,  Archives and Special Collections Library, Vassar College Libraries.</p>
+		</relatedmaterial>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p><extref
+					href="https://vassar.primo.exlibrisgroup.com/discovery/search?query=any,contains,Mary%20Schlosser%20Collection%20of%20Harriet%20Beecher%20Stowe,AND&amp;query=any,contains,stowe,AND&amp;tab=spcoll&amp;search_scope=spcoll&amp;vid=01VAC_INST:VAC&amp;mode=advanced&amp;offset=0"
+				>Rare books and pamphlets, as well as a number of periodicals and broadsides, were separated from the collection and catalogued as part of the Archives and Special Collections Library Rare Book Collection. These items can be found by searching the Vassar College Libraries online catalog for the Mary C. Schlosser Collection of Harriet Beecher Stowe, as well as listed at the end of this guide as Series VI. Catalogued Materials.</extref></p>
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Aiken, George L., 1830-1876</persname>
+				<persname source="lcnaf" encodinganalog="600">Beecher, Henry Ward, 1813-1887</persname>
+				<persname source="lcnaf" encodinganalog="600">Corbaux, Louisa, 1808-1889?</persname>
+				<persname source="lcnaf" encodinganalog="600">Duncan Sisters</persname>
+				<persname source="lcnaf" encodinganalog="600">Jefferys, Charles, 1807-1865</persname>
+				<persname source="lcnaf" encodinganalog="600">Linley, George, 1798-1865</persname>
+				<persname source="lcnaf" encodinganalog="600">Little Eva (Fictitious character from Stowe)</persname>
+				<persname source="lcnaf" encodinganalog="600">Stowe, Harriet Beecher, 1811-1896</persname>
+				<persname source="lcnaf" encodinganalog="600">Uncle Tom (fictitious character)</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">African Americans in art--19th century</subject>
+				<subject source="lcsh" encodinganalog="650">African Americans in literature--19th century</subject>
+				<subject source="lcsh" encodinganalog="650">African Americans in popular culture--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Antislavery movements--United States--19th century</subject>
+				<subject source="lcsh" encodinganalog="650">Blackface</subject>
+				<subject source="lcsh" encodinganalog="650">Blackface minstrel shows--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Literature--Adaptations</subject>
+				<subject source="lcsh" encodinganalog="650">Popular culture and literature--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Slavery--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Stage adaptations</subject>
+				<subject source="lcsh" encodinganalog="650">Women abolitionists--United States</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Advertisements</genreform>
+				<genreform source="aat" encodinganalog="655">Broadsides (notices)</genreform>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Ceramics (object genre)</genreform>
+				<genreform source="aat" encodinganalog="655">Fliers (printed matter)</genreform>
+				<genreform source="aat" encodinganalog="655">Lantern slides</genreform>
+				<genreform source="aat" encodinganalog="655">Lithographs</genreform>
+				<genreform source="aat" encodinganalog="655">Newspapers</genreform>
+				<genreform source="aat" encodinganalog="655">Optical discs</genreform>
+				<genreform source="aat" encodinganalog="655">Paintings (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Pamphlets</genreform>
+				<genreform source="aat" encodinganalog="655">Phonograph records</genreform>
+				<genreform source="aat" encodinganalog="655">Playbills</genreform>
+				<genreform source="aat" encodinganalog="655">Postcards</genreform>
+				<genreform source="aat" encodinganalog="655">Posters</genreform>
+				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Programs (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+				<genreform source="aat" encodinganalog="655">Scores (documents for music)</genreform>
+				<genreform source="aat" encodinganalog="655">Sculpture (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Sheet music</genreform>
+				<genreform source="aat" encodinganalog="655">Sound recordings</genreform>
+				<genreform source="aat" encodinganalog="655">Toys (recreational artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Trade cards</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">African Americans</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Music</subject>
+				<subject source="local" encodinganalog="690">Politics</subject>
+				<subject source="local" encodinganalog="690">Slavery and Antislavery</subject>
+				<subject source="local" encodinganalog="690">Theater, Drama, and Film</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, May 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, May 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Mary C. Schlosser, January 2023 [M2023-003].</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Mary C. Schlosser Collection of Harriet Beecher Stowe, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Printed Ephemera, </unittitle>
+					<unitdate type="inclusive" normal="1840/2017">1840-2017</unitdate>
+					<physdesc>[Boxes 1-2, 10, 13-14]</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series consists of printed materials related to Harriet Beecher Stowe,
+							<emph render="italic">Uncle Tom's Cabin</emph>, and various theatrical
+						adaptations of <emph render="italic">Uncle Tom's Cabin</emph>. Includes
+						advertisements, broadsides, clippings, leaflets, pamphlets, biography cards,
+						photograph cards, postcards, event programs, some newspapers, and trade
+						cards for various products. </p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by material type and sub-arranged alphabetically by
+						author or title. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Sheet Music, </unittitle>
+					<unitdate type="inclusive" normal="1852/1925">circa 1852 - circa 1925</unitdate>
+					<physdesc>[Boxes 1, 11]</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series consists of published sheet music for various theatrical
+						adaptations of <emph render="italic">Uncle Tom's Cabin</emph> and derivative
+						works, such as the Duncan Sisters' <emph render="italic">Topsy and Eva</emph>, as well as Stowe's second novel <emph render="italic">Dred</emph>. Cover illustrations of sheet music are included in addition to full sheet music publications. </p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by lyricist or title, with sheet music covers filed
+						at the end of the sequence. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Visual Media, </unittitle>
+					<unitdate type="inclusive" normal="1852/1927">1852 - circa 1927</unitdate>
+					<physdesc>[Boxes 1, 3, 7-9, 12-14]</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series consists of lantern slides, lithographs, paintings, photographs,
+						and posters of scenes from <emph render="italic">Uncle Tom's Cabin</emph>,
+						as well as of theatrical adaptations of the novel.</p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by material type and sub-arranged alphabetically by
+						artist or title. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Realia, </unittitle>
+					<unitdate type="inclusive" normal="1852/2021">1852-2021, undated</unitdate>
+					<physdesc>[Boxes 1-7, 12]</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series consists of assorted physical culture materials related to
+						Harriet Beecher Stowe and <emph render="italic">Uncle Tom's Cabin</emph>,
+						including jewelry, card games, ceramic sculptures and figurines, plates,
+						pitchers, tins, handkerchiefs, bags, napkins, clothing, toys, wallpaper
+						panels, and other assorted items. </p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by material type and sub-arranged alphabetically by
+						title. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Audiovisual Media, </unittitle>
+					<unitdate type="inclusive" normal="1968/2014">[1968?]-2014</unitdate>
+					<physdesc>[Boxes 2, 15]</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series consists of video and audio recordings related to <emph
+							render="italic">Uncle Tom's Cabin</emph> and derivative works, including a compact disc, a
+						DVD, and two phonograph records.</p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by material type and sub-arranged alphabetically by
+						title. </p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Catalogued Materials, </unittitle>
+					<unitdate type="inclusive" normal="1838/2017">1838-2017</unitdate>
+					<physdesc>[98 items]</physdesc>
+				</did>
+				<scopecontent>
+					<p> This series consists of printed materials that were separated from the
+						collection for cataloging. Materials include issues of newspapers,
+						periodicals, magazines, and other printed media containing articles and
+						short stories written by Harriet Beecher Stowe or written by others about
+						Stowe and her works, primarily <emph render="italic">Uncle Tom's
+							Cabin</emph>, or other members of the Beecher family. </p>
+				</scopecontent>
+				<arrangement>
+					<p> Arranged alphabetically by material type and sub-arranged alphabetically by
+						author or title.</p>
+				</arrangement>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Printed Ephemera, </unittitle>
+					<unitdate type="inclusive" normal="1840/2017">1840-2017</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Advertisements</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>"Announcement of the 1882 youth's companion, fifty-fifth
+								volume," Boston: Perry Mason &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="1881">1881</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.1</container>
+							<unittitle>"Carl Laemmle presents <emph render="italic">Uncle Tom's
+									Cabin</emph> by Harriet Beecher Stowe - A Harry Pollard
+								production," </unittitle>
+							<unitdate type="inclusive" normal="1927">circa 1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>"<emph render="italic">Dred</emph> by Harriet Beecher Stowe," Boston: Phillips, Ampson
+								&amp; Company, </unittitle>
+							<unitdate type="inclusive" normal="1856">1856</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.1</container>
+							<unittitle>"Jefferys' Edition of Songs from <emph render="italic">Uncle
+									Tom's Cabin</emph>," </unittitle>
+							<unitdate type="inclusive" normal="1952">1952</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle>"Lord Tom the Musical," York Theater Company, Theater at
+								Saint Peter's, New York, </unittitle>
+							<unitdate type="inclusive" normal="2015">2015</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.1 (Oversize)</container>
+							<unittitle>"Uncle Tom Learns to Write," London: Lloyd's, </unittitle>
+							<unitdate type="inclusive" normal="1852">1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.1</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>..." J. Walter
+								Thompson Company, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.1</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, a COLORAMA
+								Features Release with a cast of thousands. Told by Raymond Massey," </unittitle>
+							<unitdate type="inclusive" normal="1927">circa 1927</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Articles</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.4</container>
+							<unittitle>Doctor Judd, "How <emph render="italic">Uncle Tom's
+									Cabin</emph> Came to Be Dramatized," <emph render="italic">The
+									Billboard</emph>, </unittitle>
+							<unitdate type="inclusive" normal="2009">2009</unitdate>
+							<physdesc>[printout]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Biography cards</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>Harriet Beecher Stowe, Grolier Inc., </unittitle>
+							<unitdate type="inclusive" normal="1994">1994</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Harriet Beecher Stowe, USA: Panarizon Publishing Corp., </unittitle>
+							<unitdate type="inclusive" normal="1979">1979</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Broadsides</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.1 (Oversize)</container>
+							<unittitle>"Golden Rod Showboat Montrose Hotel Landing Presenting <emph
+									render="italic">Uncle Tom's Cabin</emph>," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.2 (Oversize)</container>
+							<unittitle>"Parsons &amp; Pool's Famous Ideal <emph render="italic"
+									>Uncle Tom's Cabin</emph> Co. and Tennessee Jubilee Singers,"
+								Providence, RI: W. Hatcheer Print, </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">[1890s?]</unitdate>
+							<physdesc>[61 x 25 cm, brown]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.2 (Oversize)</container>
+							<unittitle>"Parsons &amp; Pool's Original <emph render="italic">Uncle
+									Tom's Cabin</emph>," Providence, RI: W. Hatcheer Print, </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">[1890s?]</unitdate>
+							<physdesc>[61 x 25 cm, orange]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.3 (Oversize)</container>
+							<unittitle>"Parsons &amp; Pool's Original <emph render="italic">Uncle
+									Tom's Cabin</emph>," Providence, RI: W. Hatcheer Print, </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">[1890s?]</unitdate>
+							<physdesc>[61 x 25 cm, orange, faded]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.3 (Oversize)</container>
+							<unittitle>"Parsons &amp; Pool's Original <emph render="italic">Uncle
+									Tom's Cabin</emph>," Providence, RI: W. Hatcheer Print, </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">[1890s?]</unitdate>
+							<physdesc>[61 x 25 cm, purple] [2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.4 (Oversize)</container>
+							<unittitle>"Slave Life! Or, <emph render="italic">Uncle Tom's
+									Cabin</emph>," Theatre Royal, Adelphi, Nassau Steam Press, </unittitle>
+							<unitdate type="inclusive" normal="1852">1852</unitdate>
+							<physdesc>[51 x 51 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Framed Storage 1.6</container>
+							<unittitle>"Stetson's Big <emph render="italic">Uncle Tom's
+								Cabin</emph>," Curtiss Show Print, Continental, Ohio, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[framed, 73 x 29 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.4 (Oversize)</container>
+							<unittitle>"Terry's Metropolitan <emph render="italic">Uncle Tom's
+									Cabin</emph> Co.," Coalgate [Oklahoma] Theatre, </unittitle>
+							<unitdate type="inclusive" normal="1890s">circa 1890s</unitdate>
+							<physdesc>[71 x 53 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.1 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Neal Stock
+								Company, </unittitle>
+							<unitdate type="inclusive" normal="1882">[1882?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Framed Storage 1.6</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," New Theatre
+								Royal, Bristol, </unittitle>
+							<unitdate type="inclusive" normal="187902">1879 Feb</unitdate>
+							<physdesc>[framed, 77 x 25 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.1 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>!! Embracing
+								the entire Work of Mrs. Harriet Beecher Stowe at the National
+								Theatre," New York: Cameron's Power Presses, </unittitle>
+							<unitdate type="inclusive" normal="1853">1853</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.4 (Oversize)</container>
+							<unittitle>"Wm. Kibble Presents Al. W. Martin's <emph render="italic"
+									>Uncle Tom's Cabin</emph> Co.," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Brochure</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.7</container>
+							<unittitle>"World Famous <emph render="italic">Uncle Tom's Cabin</emph>
+								Museum," Dresden, Ontario, Canada, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Calendars</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.2 (Oversize)</container>
+							<unittitle>Harriet Beecher Stowe Center, Joseph Merritt &amp; Company, </unittitle>
+							<unitdate type="inclusive" normal="2008">2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.8</container>
+							<unittitle>Harriet Beecher Stowe, Springfield, MA: Massachusetts Mutual
+								Life Co., </unittitle>
+							<unitdate type="inclusive" normal="1893">1893</unitdate>
+							<physdesc>[cover only]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Call Notice</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.1</container>
+							<unittitle>Stetson's <emph render="italic">Uncle Tom's Cabin</emph>
+								Company, </unittitle>
+							<unitdate type="inclusive" normal="1900">1900</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Clippings</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.2</container>
+							<unittitle>Advertisement for <emph render="italic">Uncle Tom's
+									Cabin</emph> at the Bowery Theatre, <emph render="italic">The
+									New York Herald</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18540119">1854 Jan 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.2</container>
+							<unittitle>"La Cabine de L'Oncle Tom," reproduced from The Old Print
+								Shop, Inc., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.2</container>
+							<unittitle>Daumier, Honore cartoon in Le Charivari, <emph
+									render="italic">Actualities</emph> No. 52, Paris, </unittitle>
+							<unitdate type="inclusive" normal="1852">1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.3</container>
+							<unittitle>Gillam, "The Last Scene In Uncle Grover's Cabin - The Death
+								of Little Eva Democracy," <emph render="italic">Judge</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18890216">1889 Feb 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.5 (Oversize)</container>
+							<unittitle>"Harriet B. Stowe Dead," <emph render="italic">Hartford: The
+									Sun</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1896072">1896 Jul 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.9</container>
+							<unittitle>Illustration from unknown edition of <emph render="italic"
+									>Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive" normal="">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.3</container>
+							<unittitle>Nilsen, Anders, "Sketchbook / Graphic Review," <emph
+									render="italic">New York Times Book Review</emph>, </unittitle>
+							<unitdate type="inclusive" normal="20170625">2017 Jun 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.10</container>
+							<unittitle>Photograph of Harriet Beecher Stowe from 1876, </unittitle>
+							<unitdate type="inclusive" normal="">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.11</container>
+							<unittitle>"The Political Topsy," </unittitle>
+							<unitdate type="inclusive" normal="18521023">1852 Oct 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.3</container>
+							<unittitle>"Scene from the New Drama of <emph render="italic">Uncle
+									Tom's Cabin</emph> at the Olympic Theatre," <emph
+									render="italic">The Illustrated London News</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1852102">1852 Oct 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.3</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," painted by
+								Edward V. Brewer, <emph render="italic">Needlecraft</emph>, </unittitle>
+							<unitdate type="inclusive" normal="192105">1921 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.5 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> featuring
+								Margeurite Clark," by Imperial the House of Personality, <emph
+									render="italic">The Bulletin: San Francisco</emph>, </unittitle>
+							<unitdate type="inclusive" normal="19180824">1918 Aug 24</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Dust jacket</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.12</container>
+							<unittitle>Stowe, Harriet Beecher, <emph render="italic">Uncle Tom's
+									Cabin</emph>, New York: Barse &amp; Hopkins, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Envelope</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.13</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1984">1984</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Film advertisement</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Theatre
+								News, </unittitle>
+							<unitdate type="inclusive" normal="1927">circa 1927</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Film brochure</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.15</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Universal
+								Pictures, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Invitation</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.16</container>
+							<unittitle>"Ladies Day at the Grolier Club," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Leaflets</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.17</container>
+							<unittitle>Blackwell, Alice Stone, "Easter Greetings," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Colonial Theatre, Albany, NY, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.19</container>
+							<unittitle>"Coming! The Standard Combination in the Great Moral Drama,
+									<emph render="italic">Uncle Tom's Cabin</emph>," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.20</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>" (Made in
+								Germany), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.2</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Boston
+								Museum, advertisement, </unittitle>
+							<unitdate type="inclusive" normal="1876">1876</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> Historic Site
+								Tour Guide," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Newspapers</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.3 (Oversize)</container>
+							<unittitle><emph render="italic">The Independent</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18560424">1856 Apr 24</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Photograph Cards</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.22</container>
+							<unittitle>The Duncan Sisters as Topsy and Eva, signed, </unittitle>
+							<unitdate type="inclusive" normal="1927">1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.23</container>
+							<unittitle>Harriet Beecher Stowe, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.24</container>
+							<unittitle>"Stetson's <emph render="italic">Uncle Tom's Cabin</emph>
+								Company," actor profiles, Cincinnati: Hennegan &amp; Co., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.25</container>
+							<unittitle>"Uncle Tom and Little Eva," New York: Underwood &amp;
+								Underwood Publishers, </unittitle>
+							<unitdate type="inclusive" normal="1895">circa 1895</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.26</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, "Blanche
+								Slader as Topsy" and "Little Pansy as Eva," </unittitle>
+							<unitdate type="inclusive" normal="1860">circa 1860</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Playbills</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.27</container>
+							<unittitle><emph render="italic">Harriet</emph>, Henry Miller's Theater, </unittitle>
+							<unitdate type="inclusive" normal="19430613">1943 Jun 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.28</container>
+							<unittitle>"Sterling Bros. Big <emph render="italic">Uncle Tom's
+									Cabin</emph>," </unittitle>
+							<unitdate type="inclusive" normal="1920/1929">circa 1920s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.29</container>
+							<unittitle>"Stetson's Big Double <emph render="italic">Uncle Tom's
+									Cabin</emph>," Marquette Opera House, </unittitle>
+							<unitdate type="inclusive" normal="1910">1910</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.3</container>
+							<unittitle>"Galley Slave," with advertisement for <emph render="italic"
+									>Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1879">[1879?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.4</container>
+							<unittitle>"Parsons &amp; Pool's Famous Ideal <emph render="italic"
+									>Uncle Tom's Cabin</emph>," Keene, [NH?], </unittitle>
+							<unitdate type="inclusive" normal="1870/1879">circa 1870s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.4</container>
+							<unittitle>"Terry's Big <emph render="italic">Uncle Tom's Cabin</emph>
+								Tent Show," St. Paul, MN: Standard, </unittitle>
+							<unitdate type="inclusive" normal="1934">[1934?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.4</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Parsons
+								&amp; Pool's Famous Ideal Theater Company, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.5</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Pittsfield
+								Opera House, Pittsfield, NH: Analecta Print, </unittitle>
+							<unitdate type="inclusive" normal="1892">1892</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.5</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Royal
+								Lyceum, Toronto: Leader Steam Press Printing, </unittitle>
+							<unitdate type="inclusive" normal="1869">1869</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.5</container>
+							<unittitle>"Uncle Tom's Cabin, A Tale of
+								Life Among the Lowly!," Royal Lyceum, Daily Telegraph Print, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.5 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin, or, Life
+								Among the Lowly</emph>," Boston Museum, </unittitle>
+							<unitdate type="inclusive" normal="1852">1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.5</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> in Five
+								Acts," Geo. E. Engesser's Big Railroad Shows, </unittitle>
+							<unitdate type="inclusive" normal="1920">circa 1920</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Postcards</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.30</container>
+							<unittitle>"Brunswick, Maine, the house in which <emph render="italic"
+									>Uncle Tom's Cabin</emph> was written," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.31</container>
+							<unittitle>Churchill reading <emph render="italic">Uncle Tom's
+									Cabin</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.32</container>
+							<unittitle>"Grand Production of <emph render="italic">Uncle Tom's
+									Cabin</emph>," Gettysburg: Harmount's Big <emph render="italic"
+									>Uncle Tom's Cabin</emph> Co., </unittitle>
+							<unitdate type="inclusive" normal="1910">circa 1910</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.33</container>
+							<unittitle>"Secret Dweller" by Harriet Beecher Stowe and "Fellowship" by
+								D. Willia Caffray, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.34</container>
+							<unittitle>"The Trio <emph render="italic">Uncle Tom's Cabin</emph>
+								Co.," </unittitle>
+							<unitdate type="inclusive" normal="1910/1919">1910s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.35</container>
+							<unittitle>"Uncle Tom, an old-fashioned Southern negro," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.36</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, Valentine
+								&amp; Sons Ltd., </unittitle>
+							<unitdate type="inclusive" normal="1880">circa 1880</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.37</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> 100th
+								Anniversary Exhibition at the Chicago Historical Society," </unittitle>
+							<unitdate type="inclusive" normal="1952">circa 1952</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.38</container>
+							<unittitle>"Uncle Tom's Cabins at Stamford
+								Center, Niagara Falls," </unittitle>
+							<unitdate type="inclusive" normal="">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Programs</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.39</container>
+							<unittitle>"Anthony &amp; Ellis' Famous Ideal <emph render="italic"
+									>Uncle Tom's Cabin</emph> Company," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.40</container>
+							<unittitle>"Anthony &amp; Parsons' <emph render="italic">Uncle Tom's
+									Cabin</emph> Company," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.41</container>
+							<unittitle>"The Duncan Sisters in <emph render="italic">Topsy and Eva</emph>," Sam H. Harris
+								Theatre, </unittitle>
+							<unitdate type="inclusive" normal="1925">1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.42</container>
+							<unittitle>"F. C. Perry's Big <emph render="italic">Uncle Tom's
+									Cabin</emph> and Speciality Company," New York: Will Rossiter, </unittitle>
+							<unitdate type="inclusive" normal="1896">circa 1896</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.6</container>
+							<unittitle>"The Great Moral Drama of <emph render="italic">Uncle Tom's
+									Cabin</emph>, or, Life Among the Lowly," Daily Programme,
+								Rochester, NY, </unittitle>
+							<unitdate type="inclusive" normal="1866015">1866 Jan 5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.6</container>
+							<unittitle>"Helen Hayes in <emph render="italic">Harriet</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1943">circa 1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.43</container>
+							<unittitle>"Lord Tom: A New American Musical," The York Theater Company, </unittitle>
+							<unitdate type="inclusive" normal="2015">2015</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.44</container>
+							<unittitle>Neale, Frederick, "<emph render="italic">Uncle Tom's
+									Cabin</emph>, or, Harlequin and Lucy Neal," Green's Juvenile
+								Drama, </unittitle>
+							<unitdate type="inclusive" normal="1853">1853</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.45</container>
+							<unittitle>"Onkel Tom's Hütte," Ring Theater, Vienna, </unittitle>
+							<unitdate type="inclusive" normal="1879">1879</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.46</container>
+							<unittitle>Pike Opera House, Cincinnati, Season 93-94, </unittitle>
+							<unitdate type="inclusive" normal="1910/1919">circa 1910s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.6</container>
+							<unittitle>"The Players Twelfth Annual Revival <emph render="italic"
+									>Uncle Tom's Cabin</emph>," Alvin Theatre, NY, </unittitle>
+							<unitdate type="inclusive" normal="1933">1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.4 (Oversize)</container>
+							<unittitle>"Sterling Bros. World's Largest <emph render="italic">Uncle
+									Tom's Cabin</emph>," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.47</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.6</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Academy of
+								Music, Philadelphia, </unittitle>
+							<unitdate type="inclusive" normal="1886026">1886 Feb 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.4 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Boston
+								Theatre, Boston: F.A. Searle Printer, </unittitle>
+							<unitdate type="inclusive" normal="1868">1868</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.48</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Colonial
+								Theatre, [Boston?], </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.7</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Ed. F.
+								Davis, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.49</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Union City, </unittitle>
+							<unitdate type="inclusive" normal="1892">circa 1892</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.50</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," The Wilbur
+								Comic Opera Company, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.51</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>: a great
+								wrong righted," Abbey's Double Mammoth <emph render="italic">Uncle
+									Tom's Cabin</emph> Co., </unittitle>
+							<unitdate type="inclusive" normal="1886/1887">1886-1887</unitdate>
+							<physdesc>[3 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.52</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, A Tale of
+								Life Among the Lowly," W. E. Dewey's Pavillion, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.7</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, Philadelphia
+								Academy of Music Revival," Philadelphia: Allen, Lane &amp; Scott, </unittitle>
+							<unitdate type="inclusive" normal="1877">1877</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.7</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> with Lulu
+								Delmay as Topsy," Windsor Theatre, Boston, </unittitle>
+							<unitdate type="inclusive" normal="1856">Before 1856</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 10.7</container>
+							<unittitle>"Wilson &amp; Rankin's Mammoth Minstrels! Stetson's Double
+									<emph render="italic">Uncle Tom's Cabin</emph> Co.," Wheeler
+								Opera House, </unittitle>
+							<unitdate type="inclusive" normal="1880/1889">1880s</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Stamps</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.53</container>
+							<unittitle>Harriet Beecher Stowe, </unittitle>
+							<unitdate type="inclusive" normal="2007">2007</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Ticket stub</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.54</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, Mammoth New
+								England Company, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Trade Cards</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.55</container>
+							<unittitle>"A. R. Stover's Mammoth Spectacular <emph render="italic"
+									>Uncle Tom's Cabin</emph>," Opera House, Newport, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.56</container>
+							<unittitle>C. H. Smith's Boston <emph render="italic">Uncle Tom's
+									Cabin</emph> Company, </unittitle>
+							<unitdate type="inclusive" normal="1870">circa 1870</unitdate>
+							<physdesc>[7 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.57</container>
+							<unittitle>C. H. Smith's Double Mammoth <emph render="italic">Uncle
+									Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1880">circa 1880</unitdate>
+							<physdesc>[2 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.58</container>
+							<unittitle>"La Capanna Dello Zio Tom," Vero Estratto Di Carne Liebig, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[6 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.59</container>
+							<unittitle>Davis &amp; Busby's Monster <emph render="italic">Uncle Tom's
+									Cabin</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.60</container>
+							<unittitle>Dime Eden Musee, </unittitle>
+							<unitdate type="inclusive" normal="1889">1889</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.61</container>
+							<unittitle>Fred R. Wren's Mammoth <emph render="italic">Uncle Tom's
+									Cabin</emph> Combination, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.62</container>
+							<unittitle>George E. Steven's Original <emph render="italic">Uncle Tom's
+									Cabin</emph> Combination, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.63</container>
+							<unittitle>"Gögginger Nähgarne," Neuruppin, Germany: Oehmigke &amp;
+								Riemschneider, </unittitle>
+							<unitdate type="inclusive" normal="1898">circa 1898</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.64</container>
+							<unittitle>"Grand Jubilee Festival and <emph render="italic">Uncle Tom's
+									Cabin</emph>," Wilgus Opera House, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.65</container>
+							<unittitle>"The Ideal Company, <emph render="italic">Uncle Tom's
+									Cabin</emph>," Elliot Hall, Newton, </unittitle>
+							<unitdate type="inclusive" normal="1880/1889">circa 1880s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.66</container>
+							<unittitle>"Jay Rial's Ideal <emph render="italic">Uncle Tom's
+									Cabin</emph>," </unittitle>
+							<unitdate type="inclusive" normal="1880/1889">circa 1880s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.67</container>
+							<unittitle>"Old Stowe House…," Andover, MA: Merrimack Mutual Insurance
+								Co., </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">circa 1890s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.68</container>
+							<unittitle>"Onkel Toms Hutte, series 2," Holstein: Wagner &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="1929">1929</unitdate>
+							<physdesc>[6 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.69</container>
+							<unittitle>"Series 515. Onkel Toms Hutte," Germany: Vertheidigung der
+								freien Fluchtlinge, </unittitle>
+							<unitdate type="inclusive" normal="1910">circa 1910</unitdate>
+							<physdesc>[7 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.70</container>
+							<unittitle>Stetson's Big Double <emph render="italic">Uncle Tom's
+									Cabin</emph> Co., </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">circa 1890s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.71</container>
+							<unittitle>Tobacco companies, </unittitle>
+							<unitdate type="inclusive" normal="1880/1889">circa 1880s</unitdate>
+							<physdesc>[3 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.72</container>
+							<unittitle>"Topsy Tablet, no. 418," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.73</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, "The Adams
+								&amp; Weslake, Wire Gauze, Non-Explosive Stove," </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">circa 1890s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.74</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, Dodge &amp;
+								Atkins, </unittitle>
+							<unitdate type="inclusive" normal="1881">1881</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.75</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, E. S.
+								Sullivan's Black Diamond Combination, </unittitle>
+							<unitdate type="inclusive" normal="1880/1889">circa 1880s</unitdate>
+							<physdesc>[11 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.76</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, "Eliza's
+								Escape," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.77</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, J. &amp; P.
+								Coats, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.78</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, Woolson Spice
+								Co., </unittitle>
+							<unitdate type="inclusive" normal="1894/1895">circa 1894-1895</unitdate>
+							<physdesc>[4 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.79</container>
+							<unittitle>"Veritable extrait de viande Liebig: l'case de l'Oncle Tom," </unittitle>
+							<unitdate type="inclusive" normal="1885">[after 1885]</unitdate>
+							<physdesc>[6 cards]</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Sheet Music, </unittitle>
+					<unitdate type="inclusive" normal="1852/1925">circa 1852 - circa 1925</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.1</container>
+						<unittitle>Adams, John S., "I Am Going There, or the Death of Little Eva,"
+							Boston: Oliver Diston, </unittitle>
+						<unitdate type="inclusive" normal="1852">1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.1</container>
+						<unittitle>Bayha, Chas A., "At Uncle Tom's
+								Cabin Door," composed by Rubey Cowan, New York: York Music
+							Co., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.1</container>
+						<unittitle>Collier, Mary A., "The Death of St. Clare," Boston: Oliver
+							Ditson, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.1</container>
+						<unittitle>Collier, Mary A., "Eva's Parting," composed by F. James, Boston:
+							G.P. Reed &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.2</container>
+						<unittitle>Comer, Thomas, "Our Homestead is Surely the Sweetest on Earth,"
+							Boston: G. P. Reed, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.2</container>
+						<unittitle>Cook, Eliza, "Little Topsy's Song," composed by Asa B.
+							Hutchinson, Boston: Oliver Ditson, </unittitle>
+						<unitdate type="inclusive" normal="1853">circa 1853</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.2</container>
+						<unittitle>Cook, Eliza, "Topsy Neber Was Born," composed by S. Stanley, New
+							York: The Amphions, </unittitle>
+						<unitdate type="inclusive" normal="1854">circa 1854</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.2</container>
+						<unittitle>[Cook], Eliza, "Uncle Tom's Glimpse of Glory," composed by Frank
+							Howard, Boston: E. H. Wade, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.2</container>
+						<unittitle>D'Albert, Charles, "Topsy Quadrille," London: Chappell &amp; Co., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.3</container>
+						<unittitle>Duncan Sisters, "I Never Had a Mammy," from Topsy and Eva, New
+							York: Irving Berlin, Inc., </unittitle>
+						<unitdate type="inclusive" normal="1925">circa 1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.3</container>
+						<unittitle>Duncan Sisters, "Rememb'ring," New York: Irving Berlin, Inc., </unittitle>
+						<unitdate type="inclusive" normal="1925">circa 1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.80</container>
+						<unittitle>"Eva!," Toronto and Clifton: The Toronto News Company, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.3</container>
+						<unittitle>"Eva's Song of the World to Come," composed by W. Wills Taylor,
+							London: G.H. Davidson, Peter's Hill, Doctors' Common, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.3</container>
+						<unittitle>Foster, Stephen C., "Massa's in de Cold Ground," New York: Firth
+							Pond &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.3</container>
+						<unittitle>Howard, George C., "Eva to Her Papa," New York: Horace Waters, </unittitle>
+						<unitdate type="inclusive" normal="1853">circa 1853</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.3</container>
+						<unittitle>Howard, George C., "Oh! I'se So Wicked," New York: Horace Waters, </unittitle>
+						<unitdate type="inclusive" normal="1854">circa 1854</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.3</container>
+						<unittitle>Howard, George, C., "St. Clare to Little Eva in Heaven," Boston:
+							Oliver Ditson, </unittitle>
+						<unitdate type="inclusive" normal="1850/1859">1850s</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.4</container>
+						<unittitle>Howard, Mack and Frank H. Clark, "Topsy," composed by Billy
+							Baskette and Billy Waldron, Chicago: Duncan Sisters Music Publishers, </unittitle>
+						<unitdate type="inclusive" normal="1924">circa 1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.4</container>
+						<unittitle>Ikeler, Otto P., "Eva's Dream," Rohrsburg, PA: Columbia Co., </unittitle>
+						<unitdate type="inclusive" normal="1901">circa 1901</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.4</container>
+						<unittitle>Jefferys, Charles, "George's Song of Freedom," composed by
+							Stephen Glover, London: C. Jefferys, </unittitle>
+						<unitdate type="inclusive" normal="1850/1859">1850s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.4</container>
+						<unittitle>Jefferys, Charles, "Topsy's Song," composed by Stephen Glover,
+							London: C. Jefferys, </unittitle>
+						<unitdate type="inclusive" normal="1855">[1855?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.4</container>
+						<unittitle>"Kibble and Martin World's Greatest Uncle Tom Cabin," Chicago:
+							Will Rossiter, </unittitle>
+						<unitdate type="inclusive" normal="1911">circa 1911</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.4</container>
+						<unittitle>"Kibble and Martin World's Greatest Uncle Tom Cabin," Chicago:
+							Will Rossiter, </unittitle>
+						<unitdate type="inclusive" normal="1913">circa 1913</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.5</container>
+						<unittitle>Linley, George, "Little Eva," arranged by J.P. Weston, Boston:
+							White, Smith &amp; Company, </unittitle>
+						<unitdate type="inclusive" normal="1878">circa 1878</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.5</container>
+						<unittitle>Linley, George, "<emph render="italic">Uncle Tom's Cabin</emph>,
+							No. 1: Eva," London: Chappell &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.5</container>
+						<unittitle>Linley, George, "<emph render="italic">Uncle Tom's Cabin</emph>,
+							No. 2: The Slave Mother," London: Chappell &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.5</container>
+						<unittitle>Linley, George, "<emph render="italic">Uncle Tom's Cabin</emph>,
+							No. 3: Evangeline," London: Chappell &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.5</container>
+						<unittitle>Linley, George, "<emph render="italic">Uncle Tom's Cabin</emph>,
+							No. 5: Emmeline &amp; Cassy," London: Chappell &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.5</container>
+						<unittitle>Linley, George, "<emph render="italic">Uncle Tom's Cabin</emph>,
+							No. 6: A Tear for Poor Tom," London: Chappell &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.5</container>
+						<unittitle>Linley, George, "<emph render="italic">Uncle Tom's Cabin</emph>,
+							No. ?: Liberty," London: Chappell &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.6</container>
+						<unittitle>"Lucy Neale," arranged by O. H. Normino, London: Monro &amp; May, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.6</container>
+						<unittitle>"Mort Steece Mammoth <emph render="italic">Uncle Tom's
+								Cabin</emph>," Chicago: Will Rossiter, </unittitle>
+						<unitdate type="inclusive" normal="1910/1919">1910s</unitdate>
+						<physdesc>[very brittle]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.6</container>
+						<unittitle>Nichols, R. S., "<emph render="italic">Uncle Tom's Cabin</emph>
+							Songs," composed by William Cumming, Cincinnati, OH: W.C. Peters &amp;
+							Sons, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.6</container>
+						<unittitle>"The Old Cabin Home," composed by T. Paine, Boston: Henry Tolman
+							&amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1858">circa 1858</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7</container>
+						<unittitle>Russell, Henry, "Topsy's Polka," London: Musical Bouquet, </unittitle>
+						<unitdate type="inclusive" normal="1850/1859">1850s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7</container>
+						<unittitle>Russell, Henry, "<emph render="italic">Uncle Tom's Cabin</emph>
+							Quadrille," London: Musical Bouquet, </unittitle>
+						<unitdate type="inclusive" normal="1850/1859">1850s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7</container>
+						<unittitle>Russell, Henry, "Davidson's Uncle-Tom Quadrille," London: G.H.
+							Davidson, Peter's Hill, Doctor's Commons, </unittitle>
+						<unitdate type="inclusive" normal="1860">circa 1860</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7</container>
+						<unittitle>Rutledge, John T., "De Old Church Yard in De Lane, or Darling
+							Minnie Gray," Cincinnati, OH: F.W. Helmick, </unittitle>
+						<unitdate type="inclusive" normal="1875">circa 1875</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7</container>
+						<unittitle>Rutledge, John T., "<emph render="italic">Uncle Tom's
+								Cabin</emph>," East Liverpool, OH: W. L. Thompson &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1878">circa 1878</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.7</container>
+						<unittitle>"Slave Life, or, Uncle Tom's Cabin,
+							No. 1: Nelly Bly," edited by Charles Jefferys, London: C. Jefferys, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.8</container>
+						<unittitle>"Stetson's Old Reliable <emph render="italic">Uncle Tom's
+								Cabin</emph> Songster," Chicago: Harold Rossiter Music Company, </unittitle>
+						<unitdate type="inclusive" normal="1924">circa 1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.8</container>
+						<unittitle>Stonehouse, James, "Evangeline," composed by George Hargreaves,
+							Liverpool: Hime &amp; Son, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.8</container>
+						<unittitle>Stowe, Harriet Beecher, "Early In De Morning," composed by Thomas
+							Comer, Boston: G.P. Reed &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1852">1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.8</container>
+						<unittitle>Stowe, Harriet Beecher, "Still With Thee. Sacred Song," composed
+							by P.A. Schnecker, New York &amp; London: Edward Schuberth &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1897">circa 1897</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.8</container>
+						<unittitle>"Terry's <emph render="italic">Uncle Tom's Cabin</emph> Song
+							Album," Chicago &amp; New York: Harold Rossiter Music Company, </unittitle>
+						<unitdate type="inclusive" normal="1915">circa 1915</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.9</container>
+						<unittitle>Tierney, Harry Austin, "'<emph render="italic">Uncle Tom's
+								Cabin</emph>' Rag," New York: [Joseph] W. Stern &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1911">circa 1911</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.9</container>
+						<unittitle>"Uncle Tom," composed by H. Swift, New York: W. Hill, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.9</container>
+						<unittitle>Wetmore, W.J., "<emph render="italic">Uncle Tom's Cabin</emph>
+							Song," New York: Millets Music Saloon, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.9</container>
+						<unittitle>Whittier, John G., "Little Eva; Uncle Tom's Guardian Angel,"
+							composed by Manuel Emilio, Boston: John P. Jewett &amp; Company, </unittitle>
+						<unitdate type="inclusive" normal="1852">1852</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.10</container>
+						<unittitle>"William H. Kibble's Original <emph render="italic">Uncle Tom's
+								Cabin</emph> Songster," Chicago: Harold Rossiter Music Company, </unittitle>
+						<unitdate type="inclusive" normal="1920">circa 1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.10</container>
+						<unittitle>Winner, Septimus, "The 'Contraband' Schottische," Boston: Oliver
+							Ditson &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1861">circa 1861</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.10</container>
+						<unittitle>Wood, Henry, "Poor Uncle Tom," composed by A. Sedgwick, New York:
+							William Vanderbeek, </unittitle>
+						<unitdate type="inclusive" normal="1852">1852</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.10</container>
+						<unittitle>Woodbury, I.B., "Uncle Tom's Lament for Eva," Boston: Oliver
+							Ditson, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						<physdesc>[2 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Covers</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Carpenter, J.E., "The Birds and the Angels (Dred's Song),"
+								composed by John Blockley, London: Cramer Beale &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="1857">[1857]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Carpenter, J.E., "The Language of the Heart (Nina's Song),"
+								composed by John Blockley, London: Chappell &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="1857">[1857]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Carpenter, J.E., "The Shower of Rose Leaves," composed by L.
+								Williams, London: B. Williams, </unittitle>
+							<unitdate type="inclusive" normal="1850/1859">circa 1850s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Glover, Stephen, "The Tom-Tit Polka, companion to the Topsy
+								Polka," London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1856">[1856?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Hunt, C.W., "Uncle Sam: The Great Slave Song," composed by
+								Frederic Archer, London: Foster &amp; Lenfant, </unittitle>
+							<unitdate type="inclusive" normal="1870">[1870]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Jefferys, Charles, "Eva's Parting Words," composed by Stephen
+								Glover, London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1852">[1852]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Jefferys, Charles, "George's Song of Freedom," composed by
+								Stephen Glover, London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1852">[1852]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Jefferys, Charles, "Mother, Mother, You Are Weeping!,"
+								composed by Stephen Glover, London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1852">[1852]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Jefferys, Charles, "Poor Tom!," composed by Stephen Glover,
+								London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="185309">[1853 Sep?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Jefferys, Charles, "The Sea of Glass," composed by Stephen
+								Glover, London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1852">[1852]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Jefferys, Charles, "Sleep My Child, Let No One Hear You,"
+								composed by Stephen Glover, London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1852">[1852]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Kitchen, R., "Bright Star of Thy Home," composed by Alfred
+								Mullen, </unittitle>
+							<unitdate type="inclusive" normal="1852">[1852]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Lord, Fanny E., "Eva at Sunset," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="[1852/1853]">[1852/3]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Le Duc, Carl, "<emph render="italic">Uncle Tom's Cabin</emph>
+								Quadrilles," London: C. Sheard Musical Bouquet, </unittitle>
+							<unitdate type="inclusive" normal="1850/1859">1850s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Linley, George, "<emph render="italic">Uncle Tom's
+									Cabin</emph>, No. 2: The Slave Mother," London: Chappell &amp;
+								Co., </unittitle>
+							<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Linley, George, "<emph render="italic">Uncle Tom's
+									Cabin</emph>, No. 3: Evangeline," London: Chappell &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Mitchell, J., "St. Clare," composed by C. H. Gamblin, London:
+								Robert Cocks &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="[1852/1853]">[1852/3]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Nicholls, P. R., "Topsy's Lament," London: H. Tolkien, </unittitle>
+							<unitdate type="inclusive" normal="1850/1859">circa 1850s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>O'Grady, Caroline, "Eva's Dream," London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1850/1859">1850s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Tully, J. H., "Topsy's Polka," London: Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="1852">1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>"Tully's True Topsy Quadrille," Lyceum Theatre, London:
+								Charles Jefferys, </unittitle>
+							<unitdate type="inclusive" normal="[1852/1853]">[1852/3]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> Quadrille,"
+								arranged by Jean Rosier, London: Harry May, </unittitle>
+							<unitdate type="inclusive" normal="1850/1859">circa 1850s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Wagner, "The Octoroon Waltz," London: Boosey &amp; Sons, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Visual Media, </unittitle>
+					<unitdate type="inclusive" normal="1852/1927">1852 - circa 1927</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Lantern Slides</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, London: W. C.
+								Hughes, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[28 color glass slides in a wooden box]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, New Bedford,
+								MA: Cherry &amp; Co., Inc., </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">[1890s?]</unitdate>
+							<physdesc>[2 glass slides in paper box]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, New York: T.
+								H. McAllister, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[12 black-and-white glass slides]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, New York: T.
+								H. McAllister, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[6 color glass slides]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, Philadelphia:
+								Williams, Brown and Earle, </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">[1890s?]</unitdate>
+							<physdesc>[3 color glass slides]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> in Three
+								Chapters," Chapter 1, Primus Junior Lecturers' Series, </unittitle>
+							<unitdate type="inclusive" normal="1880/1889">circa 1880s</unitdate>
+							<physdesc>[7 glass slides]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Lithographs</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.81</container>
+							<unittitle><emph render="italic">Dred</emph> by Harriet Beecher Stowe, illustrations for J. K. Green
+								edition, </unittitle>
+							<unitdate type="inclusive" normal="1856">circa 1856</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.82</container>
+							<unittitle>Hunt, A., "Eva paint out the Happy Land," engraved by E. E.
+								Jones, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.83</container>
+							<unittitle>Portraits of female authors, </unittitle>
+							<unitdate type="inclusive" normal="1910/1919">circa 1910s</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Lithographs, hand-colored</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Cassey's Sorrows," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="1853018">1853 Jan 8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Cassy's Happier Days," London: Stannard
+								&amp; Dixon, </unittitle>
+							<unitdate type="inclusive" normal="18521230">1852 Dec 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Eliza," London: Stannard &amp; Dixon, </unittitle>
+							<unitdate type="inclusive" normal="18521027">1852 Oct 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Eliza's Escape," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="18530210">1853 Feb 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Emmeline Sold," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="18521110">1852 Nov 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Eva and Topsy," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="1852111">1852 Nov 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Eva's Farewell," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="1853039">1853 Mar 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Eva's Forebodings," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="18521110">1852 Nov 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "George &amp; Eliza," London: Stannard &amp;
+								Dixon, </unittitle>
+							<unitdate type="inclusive" normal="18530321">1853 Mar 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.1</container>
+							<unittitle>Corbaux, Louisa, "Topsy At Her Tricks," London: Stannard
+								&amp; Dixon, </unittitle>
+							<unitdate type="inclusive" normal="18530112">1853 Jan 12</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.2</container>
+							<unittitle>Régnier, Claude and Adolphe Jean-Baptiste Bayot, “<emph
+									render="italic">Uncle Tom's Cabin</emph>. George et Elisa Chez
+								les Quakers,” Paris: Lemercier, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[No. 4]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.5 (Oversize)</container>
+							<unittitle>Decan and Destouches, "La case du Père Tom (Kantukuy),"
+								Paris: Fontaine editeur, </unittitle>
+							<unitdate type="inclusive" normal="1850/1859">circa 1850s</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Paintings</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.1</container>
+							<unittitle>Unknown artist, "7. Onkel Tom schreibt mit Hilfe Evangelinens
+								an seine Familie" [Uncle Tom writes to his family with Evangeline's
+								help], </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[pencil and watercolor, matted]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.2</container>
+							<unittitle>Unknown artist, Topsy and Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[pencil and watercolor, matted]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.3</container>
+							<unittitle>Unknown artist, Uncle Tom reading to Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[pencil and watercolor, matted]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.4</container>
+							<unittitle>Unknown artist, Uncle Tom with his family, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[pencil and watercolor, matted]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Photographs</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.84</container>
+							<unittitle>Al. W. Martin's <emph render="italic">Uncle Tom's
+									Cabin</emph> Company train, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Posters</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.6 (Oversize)</container>
+							<unittitle>"Anthony &amp; Ellis Mammoth Ideal <emph render="italic"
+									>Uncle Tom's Cabin</emph> Co.," Boston &amp; N.Y.: Forbes Co., </unittitle>
+							<unitdate type="inclusive" normal="1890/1899">[1890s]</unitdate>
+							<physdesc>[74 x 48 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.7 (Oversize)</container>
+							<unittitle>"Charles Harrington's American Combination <emph
+									render="italic">Uncle Tom's Cabin</emph>, No. 4753," Hill,
+								Siffken &amp; Co. Grafton Works, London &amp; Liverpool, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[76 x 50 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Mapcase - Drawer 37</container>
+							<unittitle>"Ed. F. Davis' <emph render="italic">Uncle Tom's
+								Cabin</emph>: Uncle Tom bidding his children farewell," Erie Litho.
+								Co., Erie, PA, </unittitle>
+							<unitdate type="inclusive" normal="1895">circa 1895</unitdate>
+							<physdesc>[80 x 61 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.3</container>
+							<unittitle>"Kroger Babb presents Harriet Beecher Stowe's <emph
+									render="italic">Uncle Tom's Cabin</emph>," Kroger Babb &amp;
+								Associates, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.4</container>
+							<unittitle>"Little Cordelia Howard, the Child of Nature, Aged 5 Years.
+								In the Character of Eva," New York: C. Currier Print, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.5</container>
+							<unittitle>"Onkel Toms Stuga," Konserthus - Biografen, Kinna, </unittitle>
+							<unitdate type="inclusive" normal="1930/1939">[193?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.6 (Oversize)</container>
+							<unittitle>"Parsons &amp; Pool's Famous Ideal <emph render="italic"
+									>Uncle Tom's Cabin</emph> Company," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[printed on linen]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.8 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Seer's
+								Print, Union Square, N.Y. (the death of Little Eva), </unittitle>
+							<unitdate type="inclusive" normal="1870/1879">1870s</unitdate>
+							<physdesc>[68 x 44 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.6</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, a COLORAMA
+								Features Release with a cast of thousands. Told by Raymond Massey," </unittitle>
+							<unitdate type="inclusive" normal="1927">circa 1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.9 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>: Marks, No.
+								2223," Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[71 x 54 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Mapcase - Drawer 37</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, Middaugh's
+								New Orleans <emph render="italic">Uncle Tom's Cabin</emph> Co.,"
+								Erie Litho. Co., Erie, PA, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[55 x 85 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.9 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, No. 2220,"
+								Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[71 x 54 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.9 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, No. 2224,"
+								Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[71 x 54 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Mapcase - Drawer 33</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, No. 2307,"
+								Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[107 x 72 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Mapcase - Drawer 33</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, No. 2308,"
+								Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[107 x 72 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 14.9 (Oversize)</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>: Topsy, No.
+								2221," Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[71 x 54 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Mapcase - Drawer 37</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> in Print,"
+								exhibition poster, Vassar College, </unittitle>
+							<unitdate type="inclusive" normal="2004">2004</unitdate>
+							<physdesc>[84 x 54 cm, foam board]</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Realia, </unittitle>
+					<unitdate type="inclusive" normal="1852/2021">1852-2021, undated</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Bracelet charms</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.85</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, Pugster
+								Italian Charms, </unittitle>
+							<unitdate type="inclusive" normal="2005">circa 2005</unitdate>
+							<physdesc>[3 charms]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Brass token</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.86</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, MA-2026,
+								5124, So. 60th St," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Card Games</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>"American Women Authors Card Game," U.S. Game Systems Inc., </unittitle>
+							<unitdate type="inclusive" normal="1995">1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.8</container>
+							<unittitle>"Game of Authors Playing Cards," </unittitle>
+							<unitdate type="inclusive" normal="1900/1909">circa 1900s</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>"The Game of Star Authors," New York: McLoughlin Bros., </unittitle>
+							<unitdate type="inclusive" normal="1887">1887</unitdate>
+							<physdesc>[ 13 x 17 cm, box with 72 cards and instruction
+								booklet]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.9</container>
+							<unittitle>"The Game of Uncle Tom," Parkhurst, RI: V. S. W., </unittitle>
+							<unitdate type="inclusive" normal="1852">1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>"Inspirational Women Trivia Game," Ridley's Games, </unittitle>
+							<unitdate type="inclusive" normal="2021">2021</unitdate>
+							<physdesc>[9 x 10 cm, box with 80 cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>"The Instructive Game of Authors," Philadelphia: Porter and
+								Coates, </unittitle>
+							<unitdate type="inclusive" normal="1880">circa 1880</unitdate>
+							<physdesc>[box of cards]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.10</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph> playing cards,
+								Spain: Fournier Cards Museum, </unittitle>
+							<unitdate type="inclusive" normal="2004">2004</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Ceramic figurine</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Harriet Beecher Stowe (no. 2314 of 9500), Great American
+								Women Series, United States Historical Society, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[15 cm]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Ceramic jar</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[10 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: Depicts Uncle Tom's death at the
+									hands of Simon Legree.</emph></p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Ceramic mugs</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>"Eva Dressing Uncle Tom," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[8 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Harriet Beecher Stowe, 200th anniversary event, Bowdoin
+								College Special Collections and Archives, </unittitle>
+							<unitdate type="inclusive" normal="2011">circa 2011</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Ceramic pitchers</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[15 cm, cream]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: A cream-colored ceramic pitcher
+									depicting two scenes from <emph render="italic">Uncle Tom's
+										Cabin</emph>, including Eliza and Harry's escape across the
+									ice from Mr. Haley.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[18 cm, yellow]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: A yellow ceramic pitcher depicting
+									two scenes from <emph render="italic">Uncle Tom's Cabin</emph>,
+									including Eliza and Harry's escape across the ice from Mr.
+									Haley.</emph></p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Ceramic Plates</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Death of Eva," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[12 cm, green transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Eliza Crossing the Ice," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[12 cm, green transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Eva Dressing Uncle Tom," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[18 cm, black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Eva Wreathing Tom," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[12 cm, green transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Evas Todt," Schramberg, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[20 cm, black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Jacksonville, The Gateway to Florida," Vernon Kilns, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[27 cm, blue transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"La Case De L'Oncle Tom, La Soeur de Georges condamnée au
+								fouet," Bordeaux: J. Viellard &amp; Cie, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[21 cm, green and black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"La Case De L'Oncle Tom, Non Cassy, Dieu nous voit,"
+								Bordeaux: J. Viellard &amp; Cie, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[21 cm, green and black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"La Case De L'Oncle Tom, On a pas besoin de toi ici,
+								Va-t'en," Bordeaux: J. Viellard &amp; Cie, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[21 cm, green and black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"No. 3, Elisa Traverse L'Ohio Sur La Glace," Leboeuf, Milliet
+								&amp; Cie (Creil et Montereau), </unittitle>
+							<unitdate type="inclusive" normal="1852/1876">circa 1852-1876</unitdate>
+							<physdesc>[21 cm, black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"No. 12, Mort De L'Oncle Tom," Leboeuf, Milliet &amp; Cie
+								(Creil et Montereau), </unittitle>
+							<unitdate type="inclusive" normal="1852/1876">circa 1852-1876</unitdate>
+							<physdesc>[21 cm, black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Prayer Meeting in Uncle Tom's
+									Cabin," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[20 cm, black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Sale of Harry," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[12 cm, green transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"The Pearl of Orr's Island," Etruria, England: Wedgwood
+								Pottery, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[24 cm, blue transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"The Stowe House Brunswick Maine," England: Old English
+								Staffordshire Ware, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[18 cm, blue transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Tom Versucht Seiner Frau Zu Schreiben," Schramberg, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[20 cm, black transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"Topsy Bringing Flowers to Eva," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[12 cm, green transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, Dresden,
+								[Ontario]," Can. Art China, Collingwood, [Ontario], </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[26 cm, 22k gold leaf edge]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, Eliza's
+								Escape," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[16 cm, black transfer with painted flowers]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, Eva Dressing
+								Tom," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[18 cm, green transfer]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, The Death of
+								Uncle Tom," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[16 cm, black transfer with painted flowers]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Ceramic Sculptures</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[9 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Harriet Beecher Stowe, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[9 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>"Harriet Beecher Stowe's House," signed by John Putnam, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[8 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Printed on bottom: "John Putnam's Heritage
+									Houses, Harriet Beecher Stowe's House, Made [in
+									England?]"</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Uncle Tom, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[10 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic"/></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Uncle Tom, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[18 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: Uncle Tom reads a book while
+									sitting next to a basket of round fruits or
+								vegetables.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Uncle Tom with Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[15 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: The two characters sit under a
+									branch while Little Eva holds a book.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Uncle Tom with Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[20 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: Uncle Tom wears a string of
+									flowers around his neck and holds a pale yellow hat. At the base
+									of the statue is inscribed: "Uncle Tom"</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Uncle Tom with Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[20 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">At the base of the statue is inscribed: "Eva
+									gaily laughing was hanging a wreath of roses round Tom's
+									neck."</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Uncle Tom with Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[23 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: Eva holds a red flower and Uncle
+									Tom wears a white suit jacket with gold edging.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Uncle Tom with Eva, </unittitle>
+							<unitdate type="inclusive" normal="1860">circa 1860</unitdate>
+							<physdesc>[27 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: Uncle Tom wears a wreath of
+									flowers and a dark blue jacket. The base of the statue is
+									inscribed: "Uncle Tom." The sale label on the bottom of the
+									statue reads: "Victorian Staffordshire Uncle Tom &amp; Eva, ca.
+									1860"</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Uncle Tom with Eva, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[27 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: Uncle Tom holds a rose and a book
+									and wears an open white shirt and red and white striped pants
+									while Eva stands next to him.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, cabin model,
+								handmade, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[10 cm, brown]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, cabin model,
+								handmade, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[9 cm, green]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>[<emph render="italic">Uncle Tom's Cabin</emph>?], house
+								sculpture, Norwich Collection, </unittitle>
+							<unitdate type="inclusive" normal="1986">circa 1986</unitdate>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Inscribed: "Norwich Collection, [copyright]
+									1986 A.L."</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, unidentified
+								Black woman, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[17 cm]</physdesc>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Description: A woman wearing a white dress with
+									pink flowers, a white bonnet, and blue shoes while sitting next
+									to a basket of round fruits or vegetables.</emph></p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Cereal box cut-outs</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.11</container>
+							<unittitle>Mickey Mouse in <emph render="italic">Uncle Tom's
+									Cabin</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Embroidery transfer sheet</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.7</container>
+							<unittitle>"Eva and Topsy," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Handkerchief</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.8</container>
+							<unittitle>Whittier, John G., "Little Eva Song. Uncle Tom's Guardian
+								Angel," composed by Manuel Emilio, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Borders on right and left sides]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.8</container>
+							<unittitle>Whittier, John G., "Little Eva Song. Uncle Tom's Guardian
+								Angel," composed by Manuel Emilio, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[Borders on all sides; 2 copies]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Kleenex facial tissue box</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Women Who Changed America, Harriet Beecher Stowe, </unittitle>
+							<unitdate type="inclusive" normal="1980">circa 1980</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Metal plate</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Harriet Beecher Stowe, R. B. Schiefner, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[23 cm, covered in a cracked paper applique]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Metal tin</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1896">circa 1896</unitdate>
+							<physdesc>[16 x 12 cm]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Miniature books</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.12</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, </unittitle>
+							<unitdate type="inclusive" normal="2007">circa 2007</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.13</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, International
+								Dollhouse Miniatures, </unittitle>
+							<unitdate type="inclusive" normal="2010">circa 2010</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Paper bag</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.14</container>
+							<unittitle>Harriet Beecher Stowe House museum store, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Paper napkin</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.15</container>
+							<unittitle> Harriet Beecher Stowe House wallpaper design, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Printing plates</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.5</container>
+							<unittitle>Newsprint advertisements for <emph render="italic">Uncle
+									Tom's Cabin</emph> (1969), directed by Geza Radvanyi, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Sugar packet</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.16</container>
+							<unittitle>Harriet Beecher Stowe, Monarch International Foods, </unittitle>
+							<unitdate type="inclusive" normal="1977">1977 Summer</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">T-Shirt</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Harriet Beecher Stowe, cream, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Toys</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Doll, Harriet Beecher Stowe, Hallmark American Spirit
+								Collection, </unittitle>
+							<unitdate type="inclusive" normal="2000">circa 2000</unitdate>
+							<physdesc>[20 cm]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 7.6</container>
+							<unittitle>Jigsaw puzzle, "<emph render="italic">Uncle Tom's
+									Cabin</emph>" / Map of the United States, </unittitle>
+							<unitdate type="inclusive" normal="1880">circa 1880</unitdate>
+							<physdesc>[wood with applied paper lithograph]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Jigsaw puzzle, <emph render="italic">Uncle Tom's
+								Cabin</emph>, wooden box, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Side of the box reads: "<emph render="italic"
+										>Uncle Tom's Cabin</emph> and Map of the United
+									States."</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.17</container>
+							<unittitle>Paper dolls, <emph render="italic">Uncle Tom's
+								Cabin</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1900">circa 1900</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.18</container>
+							<unittitle>Paper dolls, <emph render="italic">Uncle Tom's
+								Cabin</emph>, <emph render="italic">Boston Sunday Globe</emph>, Art
+								Supplement, </unittitle>
+							<unitdate type="inclusive" normal="18960126">1896 Jan 26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.9</container>
+							<unittitle>Paper theatre, <emph render="italic">Uncle Tom's
+									Cabin</emph>, New York: J. V. Sloan &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="1906">1906</unitdate>
+							<physdesc>[2 chromolithograph sheets]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 2.19-2.21</container>
+							<unittitle><emph render="italic">Uncle Tom's Cabin</emph>, cardboard
+								plantation play set, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[3 folders]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle><emph render="bold">Wallpaper Panels</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.10</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, 1. The Sale
+								of Little Harry," with caption, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+						<scopecontent>
+							<p><emph render="italic">Note: Based on the sheet owned by the Stowe
+									Center, which has the same six panels.</emph></p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.10</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, 2. Eliza
+								Crossing the River," with caption, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.10</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," 3. Uncle
+								Tom's departure, with caption, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.10</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, 4. The
+								Defence," with caption, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.10</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, 5. The Death
+								of Eva," with caption, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 12.10</container>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," the death
+								of Uncle Tom, with caption, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Audiovisual Media, </unittitle>
+					<unitdate type="inclusive" normal="1968/2014">[1968?]-2014</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.22</container>
+						<unittitle>Compact disc: Gelber, Stanley &amp; Kimberley Vaughn, Lord Tom
+							the Musical, </unittitle>
+						<unitdate type="inclusive" normal="2013">2013</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.23</container>
+						<unittitle>DVD-R: <emph render="italic">Uncle Tom's Cabin</emph>, directed
+							by Harry A. Pollard, 1928, </unittitle>
+						<unitdate type="inclusive" normal="2014">2014</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Phonograph record: "Off The Record: The Stenographer / <emph
+								render="italic">Uncle Tom's Cabin</emph>," Camden, NJ: Victor
+							Talking Machine Co., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[10 in, 78 rpm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Phonograph record: "<emph render="italic">Uncle Tom's
+								Cabin</emph>: Original Motion Picture Soundtrack," composed by Peter
+							Thomas, lyrics by Aldo Von Pinelli, directed by Geza Von Radvanui. An
+							Aldo Von Pinelli Production-Melodie-Film. Chicago: Mercury Records
+							Corporation, </unittitle>
+						<unitdate type="inclusive" normal="1968">[1968?]</unitdate>
+						<physdesc>[12 in, 13 1/3 rpm]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. Catalogued Material, </unittitle>
+					<unitdate type="inclusive" normal="1838/2017">1838-2017</unitdate>
+				</did>
+				<scopecontent>
+					<p><extref
+						href="https://vassar.primo.exlibrisgroup.com/discovery/search?query=any,contains,Mary%20Schlosser%20Collection%20of%20Harriet%20Beecher%20Stowe,AND&amp;query=any,contains,stowe,AND&amp;tab=spcoll&amp;search_scope=spcoll&amp;vid=01VAC_INST:VAC&amp;mode=advanced&amp;offset=0"
+						>Rare books and pamphlets, as well as a number of periodicals and broadsides, were separated from the collection and catalogued as part of the Archives and Special Collections Library Rare Book Collection. These items can be found by searching the Vassar College Libraries online catalog for the Mary C. Schlosser Collection of Harriet Beecher Stowe, as well as listed at the end of this guide as Series VI. Catalogued Materials.</extref></p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unittitle><emph render="bold">Books</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Aiken, George L., "<emph render="italic">Uncle Tom's
+									Cabin</emph>," French's Standard Drama No. 218, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[yellow]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Aiken, George L., "<emph render="italic">Uncle Tom's
+									Cabin</emph>," French's Standard Drama No. 218, </unittitle>
+							<unitdate type="inclusive" normal="1920">[1920?]</unitdate>
+							<physdesc>[green, 2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Aiken, George L., "<emph render="italic">Uncle Tom's
+									Cabin</emph>," Sergel's Acting Drama, </unittitle>
+							<unitdate type="inclusive" normal="1901">[after 1901]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"America's Twelve Great Women Leaders During the Past Hundred
+								Years," </unittitle>
+							<unitdate type="inclusive" normal="1933">1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Aunt Mary's Picture Book: Little Eva," New York: Phil J.
+								Cozans, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Baker, Adella, "Famous Authors of America," </unittitle>
+							<unitdate type="inclusive" normal="1898">circa 1898</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Bamboula! Black Music Before the Blues," Providence: John
+								Hay Library, Brown University, </unittitle>
+							<unitdate type="inclusive" normal="2017">2017</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Caban F'Ewythr Twm" [<emph render="italic">Uncle Tom's
+									Cabin</emph>], Remsen, NY: John R. Everett, </unittitle>
+							<unitdate type="inclusive" normal="1854">1854</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"La Case de L'Oncle Tom," Editions Bias-Paris, </unittitle>
+							<unitdate type="inclusive" normal="1942">1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Iter ad Valleculam," Northampton: Kat Ran Press, </unittitle>
+							<unitdate type="inclusive" normal="2003">2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Lays of Liberty; or, Verse for the Times," Boston: Bela
+								Marsh, </unittitle>
+							<unitdate type="inclusive" normal="1854">1854</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Onkel Tom's Hütte," Reutlingen: Druck und Verlag von Ensslin
+								und Laiblin, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Onkel Toms Hytte," Eneret: Stenders Forlag, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Papers and Letters Presented at the First Woman's Congress
+								of the Association for the Advancement of Women…," </unittitle>
+							<unitdate type="inclusive" normal="1874">1874</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Pictures and Stories from <emph render="italic">Uncle Tom's
+									Cabin</emph>," Boston: John P. Jewett &amp; Co., </unittitle>
+							<unitdate type="inclusive" normal="1853">circa 1853</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Rowe, George F., "<emph render="italic">Uncle Tom's
+									Cabin</emph>," printed for Messrs. Jarrett &amp; Palmer, </unittitle>
+							<unitdate type="inclusive" normal="1878">1878</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Beneath Thy Wings," London: Raphael
+								Tuck &amp; Sons, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "He's Coming To-Morrow," in <emph
+									render="italic">The Second Coming of Christ</emph>, Chicago: The
+								Bible Institute Colportage Association, </unittitle>
+							<unitdate type="inclusive" normal="1896081">1896 Aug 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Thomas, A. E., "<emph render="italic">Uncle Tom's
+									Cabin</emph>," revised version based on the dramatization by
+								George L. Aiken, </unittitle>
+							<unitdate type="inclusive" normal="1934">1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Topsy," New York: McLoughlin Brothers Publishers, </unittitle>
+							<unitdate type="inclusive" normal="1890">circa 1890</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Townsend, Charles, "<emph render="italic">Uncle Tom's
+									Cabin</emph>," New York: Harold Roorbach Publisher, </unittitle>
+							<unitdate type="inclusive" normal="1889">1889</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Tucker, Louis L., "The Incomparable Beecher Family,"
+								Cincinnati: C. J. Krehbiel, </unittitle>
+							<unitdate type="inclusive" normal="1963">1963</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," illustrated
+								by Rolland H. Livingstone, <emph render="italic">Classics
+									Illustrated</emph> No. 15, New York: Gilberton Company, Inc., </unittitle>
+							<unitdate type="inclusive" normal="1950">circa 1950</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle><emph render="bold">Broadsides</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"On de Oder Side of Jordan," Thomas M. Scroggy Publisher, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Tayleure, Clifton W., "The Fugitive's Experience," from <emph
+									render="italic">The Baltimore Dispatch</emph>, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle><emph render="bold">Pamphlets</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Bristed, Charles Astor, "In Honorem…," </unittitle>
+							<unitdate type="inclusive" normal="1870">circa 1870</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Calvin E. Stowe and Harriet Beecher Stowe his wife v. F. W.
+								Thomas," </unittitle>
+							<unitdate type="inclusive" normal="185310">1853 Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Duncan, V. and R., "Rememb'ring," New York: Irving Berlin,
+								Inc., </unittitle>
+							<unitdate type="inclusive" normal="1923">circa 1923</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Green's Juvenile Drama: Dred by Harriet Beecher Stowe,"
+								London: J. K. Green, </unittitle>
+							<unitdate type="inclusive" normal="1856">1856</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Jones, J., "Thoughts on Uncle Tom in Paradise," Chatham: A.
+								T. Fordham, </unittitle>
+							<unitdate type="inclusive" normal="1853">1853</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Kaser, Arthur Leroy, "The Filming of '<emph render="italic"
+									>Uncle Tom's Cabin</emph>'," Chicago: T. S. Denison &amp; Co, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Letter from Harriet Beecher Stowe to Wendell Phillips
+								defending her father, in "Speech of Wendel Phillips," </unittitle>
+							<unitdate type="inclusive" normal="1853">circa 1853</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Notes and Documents: Harriet Beecher Stowe's Reply,"
+								reprinted from the Mississippi Valley Historical Review, </unittitle>
+							<unitdate type="inclusive" normal="1932">1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Report of the 24th National Anti-Slavery Festival," </unittitle>
+							<unitdate type="inclusive" normal="1858">1858</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"A Sermon Delivered at the Installation of the Rev. E. E.
+								Hale," Boston: Leonard C. Bowles, </unittitle>
+							<unitdate type="inclusive" normal="1856">1856</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"The Shevvild Chap's Opinion abaht <emph render="italic"
+									>Uncle Tom's Cabin</emph>," The Shevvild Chap's Annual, </unittitle>
+							<unitdate type="inclusive" normal="1853">1853</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Simons, John Shirk, "<emph render="italic">Uncle Tom's
+									Cabin</emph> by Harriet Beecher Stowe (abridged)," Instructor
+								Literature Series No. 296, Dansville, NY: F. A. Owens Publishing
+								Co., </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Simons, John Shirk, "<emph render="italic">Uncle Tom's
+									Cabin</emph> by Harriet Beecher Stowe; condensed and retold,"
+								Instructor Literature Series No. 296, Dansville, NY: F. A. Owens
+								Publishing Co., </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Simons, John Shirk, "<emph render="italic">Uncle Tom's
+									Cabin</emph> by Harriet Beecher Stowe; condensed and retold,"
+								Instructor Literature Series No. 296, Dansville, NY: F. A. Owens
+								Publishing Co., </unittitle>
+							<unitdate type="inclusive" normal="191806">1918 Jun</unitdate>
+							<physdesc>[3 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Smart, Lucy Allen, "Living Portraits of Historic Women of the
+								U.S.," New York: Paulus-Ullman Printing Corporation, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Stories for Summer Days and Winter Nights: <emph
+									render="italic">Uncle Tom's Cabin</emph>, for children," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[2 copies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Eliza," Godey's Lady's Book, </unittitle>
+							<unitdate type="inclusive" normal="184001">1840 Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "He's Coming To-Morrow," London: The
+								Book Society, </unittitle>
+							<unitdate type="inclusive" normal="">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Two Altars," Anti-Slavery
+								Tracts, No. 18, </unittitle>
+							<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Two Altars," Liberty Tracts, No.
+								1, </unittitle>
+							<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Twilight at <emph render="italic">Uncle Tom's Cabin</emph>,"
+								by A. B. G., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Uncle Tom in England," New York: Bruce &amp; Brother, </unittitle>
+							<unitdate type="inclusive" normal="1852">1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>" and
+								"Cruiskeen Lawn" song lyrics, Northampton, MA: Henson Printer &amp;
+								Co., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," In Life
+								Motion Pictures, Philadelphia: S. Lubin, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, A Drama in
+								Three Acts," Webb's Juvenile Drama, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, Blackpool," </unittitle>
+							<unitdate type="inclusive" normal="1912">circa 1912</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>; songster,"
+								Willis &amp; Co., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Uncle Tom's Melodies," </unittitle>
+							<unitdate type="inclusive" normal="1850/1859">circa 1850s</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle><emph render="bold">Periodicals</emph></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle><emph render="italic">Alabama Heritage</emph>, No. 75, </unittitle>
+							<unitdate type="inclusive" normal="2005">2005 Winter</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Antiques," <emph render="italic">Antiques</emph> (p. 343), </unittitle>
+							<unitdate type="inclusive" normal="196809">1968 Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Fitzhugh, Daisy, "Lewis Clarke, the original of George
+								Harris, the hero of 'Uncle Toms Cabin'," <emph render="italic">Frank
+									Leslie's Illustrated Newspaper</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18910620">1891 Jun 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Fleming, Thomas, "The Real Uncle Tom and the Unknown South He
+								Helped Create," <emph render="italic">Financial History</emph>, </unittitle>
+							<unitdate type="inclusive" normal="2013">2013 Spring</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"H. W. Beecher and H. B. Stowe," <emph render="italic"
+									>Harper's Weekly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18691030">1869 Oct 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Henry Ward Beecher and Harriet Beecher Stowe," Illustrated
+								Annual for 1871, </unittitle>
+							<unitdate type="inclusive" normal="1871">1871</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"How '<emph render="italic">Uncle Tom's Cabin</emph>' Was
+								Written," <emph render="italic">The Household</emph>, </unittitle>
+							<unitdate type="inclusive" normal="189101">1891 Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Maurice, Arthur B., "The Play That Goes On Forever," <emph
+									render="italic">The Mentor</emph>, </unittitle>
+							<unitdate type="inclusive" normal="192303">1923 Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>McKean, Kenneth, "A play that once shook a nation presented
+								in a remarkable revival. <emph render="italic">Uncle Tom's
+									Cabin</emph>," <emph render="italic">The Stage</emph>, </unittitle>
+							<unitdate type="inclusive" normal="193307">1933 Jul</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Pilcher, Veona, "The Variorum Stowe," in <emph
+									render="italic">Theater Arts Monthly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="192604">1926 Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle><emph render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1858087">1858 Aug 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Rev. Henry Ward Beecher," <emph render="italic">Harper's
+									Weekly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18631114">1863 Nov 14</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Review of "The Key to <emph render="italic">Uncle Tom's
+									Cabin</emph>" by Harriet Beecher Stowe, in <emph render="italic"
+									>Little's Living Age</emph>, second series, </unittitle>
+							<unitdate type="inclusive" normal="18530618">1853 Jun 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Review of <emph render="italic">Uncle Tom's Cabin</emph>,
+									<emph render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1852043">1852 Apr 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Charles Edward and Lyman Beecher, "How Mrs. Stowe
+								Wrote <emph render="italic">Uncle Tom's Cabin</emph>," in <emph
+									render="italic">McLure's Magazine</emph>, </unittitle>
+							<unitdate type="inclusive" normal="191104">1911 Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Art and Nature," in <emph
+									render="italic">Godey's Lady's Book</emph>, </unittitle>
+							<unitdate type="inclusive" normal="183912">1839 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Children," <emph render="italic">The
+									Odd Fellow</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1849088">1849 Aug 8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Christ," <emph render="italic">The
+									Youth's Companion</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18840710">1884 Jul 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Deacon's Dilemma," <emph
+									render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18601215">1860 Dec 15</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Heart Has No Tears to Give:
+								Excerpt from <emph render="italic">Uncle Tom's Cabin</emph>," <emph
+									render="italic">Lincoln Center Theater Review</emph>, </unittitle>
+							<unitdate type="inclusive" normal="2015">2015 Spring</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "A Home in an Orange Grove" and
+								review of Oldtown Folks, <emph render="italic">Portland
+									Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18690529">1869 May 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Isabelle and Her Sister Kate, and
+								Their Cousin," in <emph render="italic">The Monthly
+								Chronicle</emph>, </unittitle>
+							<unitdate type="inclusive" normal="183910">1839 Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Ladies of Maine," <emph
+									render="italic">New York Organ</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1852102">1852 Oct 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Laughin' in Meetin'," <emph
+									render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18720817">1872 Aug 17</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Mark Meriden," <emph render="italic"
+									>Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18410619">1841 Jun 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Old Father Morris," <emph
+									render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18381110">1838 Nov 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Our Early Rose Potatoes," <emph
+									render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18691023">1869 Oct 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Our Second Girl," in <emph
+									render="italic">Atlantic Monthly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="186801">1868 Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "A Reply," in <emph render="italic"
+									>Atlantic Monthly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="186301">1863 Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Simon the Cyrenian," and Henry Ward
+								Beecher, "Sermon," <emph render="italic">The Independent</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18620731">1862 Jul 31</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Sojourner Truth, the Libyan Sibyl,"
+								in <emph render="italic">Atlantic Monthly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="186304">1863 Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Tea Rose," in <emph
+									render="italic">Godey's Lady's Book</emph>, </unittitle>
+							<unitdate type="inclusive" normal="184203">1842 Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "This Sale and the Other," <emph
+									render="italic">The Youth's Companion</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1864017">1864 Jan 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "We and Our Neighbors," <emph
+									render="italic">The Christian Union</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1874">1874</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "What Is To Be Done With Our
+								Charlie?," <emph render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18581127">1858 Nov 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Witch of the Spinning Wheel," <emph
+									render="italic">The Youth's Companion</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18640310">1864 Mar 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Witchcraft at Deacon Wiggins' -
+								Chapter 1," <emph render="italic">The Youth's Companion</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18820525">1882 May 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "Witchcraft at Deacon Wiggins' -
+								Chapter 2," <emph render="italic">The Youth's Companion</emph>, </unittitle>
+							<unitdate type="inclusive" normal="1882061">1882 Jun 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Yankee Girl," <emph
+									render="italic">Hingham Patriot</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18480811">1848 Aug 11</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Stowe, Harriet Beecher, "The Yankee Girl," <emph
+									render="italic">Portland Transcript</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18411016">1841 Oct 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"Those Beecher Women," <emph render="italic">The Hartford
+									Courant</emph>, </unittitle>
+							<unitdate type="inclusive" normal="2002">2002</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," in <emph
+									render="italic">New England Monthly</emph>, </unittitle>
+							<unitdate type="inclusive" normal="187503">1875 Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>. The Original
+								George Harris…" <emph render="italic">New York Tribune</emph>, </unittitle>
+							<unitdate type="inclusive" normal="18700722">1870 Jul 22</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>Ward, Julius H., "Harriet Beecher Stowe," in <emph
+									render="italic">The Forum</emph>, </unittitle>
+							<unitdate type="inclusive" normal="189608">1896 Aug</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"The Writing of <emph render="italic">Uncle Tom's
+									Cabin</emph>," <emph render="italic">The Literary Digest</emph>, </unittitle>
+							<unitdate type="inclusive" normal="19110610">1911 Jun 10</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

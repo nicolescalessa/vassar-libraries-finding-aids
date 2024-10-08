@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_russian_leaves</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Russian Leaves Collection, 1775, 1790</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>April 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck <date>January 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College. Library</corpname></origination>
+			<unittitle label="Title:" encodinganalog="245">Russian Leaves Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1775, 1790</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">2 leaves (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<langmaterial label="Languages of Material:">
+				<language langcode="rus">Russian</language>
+			</langmaterial>
+			<abstract label="Abstract:" encodinganalog="520$a">Leaves from two 18th century Russian manuscripts, one of Bible stories and one of holiday hymns.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Leaves from two 18th century Russian manuscripts, one of Bible stories and one of holiday hymns.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8"
+					>Medieval and Renaissance Manuscripts Collection</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Bible</subject>
+				<subject source="lcsh" encodinganalog="650">Illumination of books and manuscripts, Russian</subject>
+				<subject source="lcsh" encodinganalog="650">Manuscripts, Russian</subject>
+				<subject source="lcsh" encodinganalog="650">Music--Manuscripts</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Illuminated manuscripts</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Middle Eastern, Asian, Ethiopian, and Russian Manuscripts</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, January 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Materials separated from the Medieval and Renaissance Manuscripts Collection and processed separately, January 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gifts and transfers from a variety of sources.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Russian Leaves Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is arranged chronologically.</p>
+		</arrangement>
+		<dsc type="in-depth">
+			<head>Item List</head>
+			<c01 level="item">
+				<did>
+					<container>Leaf 1</container>
+					<unittitle>A Leaf from a Collection of Bible Stories [Russia], </unittitle>
+					<unitdate type="inclusive" normal="1775">1775</unitdate>
+					<physdesc>[Previously Medieval and Renaissance Manuscripts Collection, Item 72]</physdesc>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Leaf 2</container>
+					<unittitle>A Leaf from a Book of Holiday Hymns [Russia], </unittitle>
+					<unitdate type="inclusive" normal="1790">1790</unitdate>
+					<physdesc>[Previously Medieval and Renaissance Manuscripts Collection, Item 71]</physdesc>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

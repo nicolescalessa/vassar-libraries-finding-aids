@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_schwartz_julia </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Julia Augusta Schwartz Papers, 1899-1953</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries </author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Schwartz, Julia Augusta, 1873-1957</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Julia Augusta Schwartz Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1899-1953 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 1.4 cubic feet (7 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Material relating primarily to Schwartz's writing but also her Vassar College education and other aspects of her personal life.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Julia Augusta Schwartz (1873-1957), author of books for girls and children, was born in Albany, NY. She was graduated from Vassar in 1896 and stayed on an additional year to earn an MA in English literature. Apart from six weeks of teaching at Omaha (NE) High School, where she had prepared for college, Schwartz's sole career was writing books for young people, many of which were designed for schoolroom use. One of her first books was <emph render="underline">Vassar Studies</emph> (1899), which, according to the publisher's circular, offered "a faithful impression of the spirit and the personality of modern Vassar." In 1913 Schwartz moved to LaJolla, CA, where she became interested in the conservation efforts of groups such as the Sierra Club. Her other interests, as she reported to the Vassar alumnae office in 1919, included "being a daughter, sister, aunt, neighbor, friend, voter, [and] citizen."</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Papers consist primarily of Schwartz's manuscripts of stories but also include an account of her college days at Vassar, correspondence concerning books with Lucy Salmon, Elizabeth Thelberg, and Georgia Kendrick, correspondence with publishers, and a notebook of photographs.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Salmon, Lucy Maynard, 1853-1927</persname>
+				<persname source="lcnaf" encodinganalog="600"> Thelberg, Elizabeth</persname>
+				<persname source="lcnaf" encodinganalog="600"> Kendrick, Georgia Avery, 1848-1922</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Children's literature--Women authors</subject>
+				<subject source="lcsh" encodinganalog="650"> Literature publishing</subject>
+				<subject source="lcsh" encodinganalog="650"> Women authors, American</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Children and Children's Literature </subject>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p><?xm-replace_text {Information about Acquisition}?></p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Julia Augusta Schwartz Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series">
+				<did>
+					<unittitle> Manuscripts </unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "The Better Part of Valor" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Broken Magic" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Crossing Bridges" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "The Cure" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Dear Sir" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Flunk Notes" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Her College Debts" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "How to Tell a Boy from a Fish" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "How to Win a Man" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "The Land of Gave-uptrying" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "The Man Who Refused to Be Bossed" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "The Master of Circumstance" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Miss Busybody" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "Mortals" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> "A Movie of True Knights" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> "The One Man" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> "To Stick or Not to Stick" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> "The Troubles of Two Eyes" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> "The Way to Win a Woman" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> "Famous Friends of the People" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 2 </container>
+						<unittitle> "Fra Indignatius" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> "Ho! Forest" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> "Many Nations and Their Gifts to the World" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> "A Roomful of Children" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> "Understanding" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> "His Code of Conduct" </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 3 </container>
+						<unittitle> 10 chapters, untitled </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Boxes 4 - 5 </container>
+						<unittitle> Various drafts of the manuscripts, "The Work of Their Hands," "Good Sports in Spite of Ourselves," as well as miscellaneous manuscripts and notes </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Bound manuscript, "Stories of College Days," and a notebook with photographs </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Correspondence </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.1 </container>
+						<unittitle> Friends and VC faculty about books, including Lucy Salmon, Elizabeth Thelberg, and Georgia Kendrick </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 6.2-6.3 </container>
+						<unittitle> Publishers, </unittitle>
+						<unitdate type="inclusive"> 1899-1939 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 6.4 </container>
+						<unittitle> General, </unittitle>
+						<unitdate type="inclusive"> 1933-1953 </unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

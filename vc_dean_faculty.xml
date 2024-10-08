@@ -1,0 +1,3368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_dean_faculty</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Dean of the Faculty Records, 1901-2009</titleproper>
+				<author>Inventory prepared by Madeleine Amodio</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>June 2011</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Madeleine Amodio, <date>June 2011</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="110">
+				<corpname>Vassar College Dean of the Faculty</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Dean of the Faculty Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1901-2009</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">42.8 cubic feet (46 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The records contain material related
+				to the operations of the Dean of the Faculty office, including events planning,
+				faculty management, buildings operations, reports, and personnel files.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History </head>
+			<p>The office of the Dean of the Faculty was established in 1962, with Marion Tait
+				becoming the first Dean of the Faculty. This office not only assisted the President
+				directly with matters pertaining to educational policies, curriculum, dealing with
+				office and classroom assignments, and the budget for educational equipment, but also
+				dealt with educational policy issues in the absence of the President. While the
+				position of the Dean of the Faculty was replaced by that of the Dean of the College
+				in 1981, it was reestablished in 1991 and "continues to serve as 'chief academic
+				officer', providing 'intellectual leadership... for all academic departments' and
+				working jointly with the President to develop educational policies."* The assistant
+				to the Dean of the Faculty currently handles event planning.</p>
+			<p>*Patkus, Ronald D., and Elizabeth A. Daniels. An Administrative History of Vassar
+				College: 1861-2003. Poughkeepsie, NY: Vassar College, 2004.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1913</date>
+					<event>The position of Dean of the College was established at Vassar College.
+						Ella McCaleb served as the first Dean.</event>
+				</chronitem>
+				<chronitem>
+					<date>1962</date>
+					<event>Dean of the College position was divided into the Dean of the Faculty and
+						Dean of Studies. Marion Tait became first Dean of the Faculty.</event>
+				</chronitem>
+				<chronitem>
+					<date>1978</date>
+					<event>H. Patrick Sullivan is appointed Dean of the Faculty.</event>
+				</chronitem>
+				<chronitem>
+					<date>1981 Jan</date>
+					<event>Office of the Dean of the Faculty was officially renamed to Dean of the
+						College.</event>
+				</chronitem>
+				<chronitem>
+					<date>1988</date>
+					<event>Nancy Dye replaces H. Patrick Sullivan as Dean of the College.</event>
+				</chronitem>
+				<chronitem>
+					<date>1990 Sep</date>
+					<event>Office of the Dean of the College was renamed back to Dean of the
+						Faculty.</event>
+				</chronitem>
+				<chronitem>
+					<date>1994</date>
+					<event>A new Office of the Dean of the College was created from the Office of
+						the Dean of Student Life and responsibilities previously overseen by the
+						Dean of the Faculty, including oversight of the Office of the Dean of
+						Studies. Colton Johnson, formerly Acting Dean of Student Life, was appointed
+						Dean of the College.</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The records contain material related to the operations of the Dean of the Faculty
+				office, including events planning, faculty management, buildings operations,
+				reports, and personnel files.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>Personnel files and other select files are closed to research. The rest of the collection is open for
+				research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/a276338d-1798-41f9-8a74-0018616d255a"
+					>Vassar College Dean of the College, Dean of the Faculty Records</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Administration</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Buildings</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Administrative Offices and Functions</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Madeleine Amodio, June 2011. Updated by Emma Gronbeck, February 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Madeleine Amodio, June 2011. Updated by Emma Gronbeck, February 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Series I was transferred in 2010 (A2010-017), Series II was transferred in 2007
+				(A2007-050), Series III was transferred in 2014 (A2014-015), and Series IV was
+				transferred in 2002 (A2002-009).</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Dean of the Faculty Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Records of the Assistant to the Dean
+						of the Faculty, </unittitle>
+					<unitdate type="inclusive" normal="1975/2009">1975-2009</unitdate>
+					<physdesc>(9 boxes)</physdesc>
+				</did>
+				<arrangement><p>This series is arranged in order of acquisition.</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Reports and Personnel Files, </unittitle>
+					<unitdate type="inclusive" normal="1968/2000">1968-2000</unitdate>
+					<physdesc>(8 boxes)</physdesc>
+				</did>
+				<arrangement><p>This series is arranged alphabetically by title.</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Faculty Personnel Files [RESTRICTED], </unittitle>
+					<unitdate type="inclusive" normal="2001/2003">2001-2003</unitdate>
+					<physdesc>(24 boxes)</physdesc>
+				</did>
+				<arrangement><p>This series is arranged alphabetically by last name.</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Faculty Load Records, </unittitle>
+					<unitdate type="inclusive" normal="1901/1970">1901-1970</unitdate>
+					<physdesc>(5 boxes)</physdesc>
+				</did>
+				<arrangement><p>This series is arranged chronologically, with miscellaneous materials filed at the end of the sequence.</p></arrangement>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. Records of the Assistant to the Dean of the Faculty, </unittitle>
+					<unitdate type="inclusive" normal="1975/2009">1975-2009</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Events</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty Forums, </unittitle>
+							<unitdate type="inclusive">1992-1993</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty/Staff Lists, </unittitle>
+							<unitdate type="inclusive">1993-1994</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>German Drill Instructors, </unittitle>
+							<unitdate type="inclusive">1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Hughs Scholars Program, </unittitle>
+							<unitdate type="inclusive">1992</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Jewish Studies questionnaire responses (favorable), </unittitle>
+							<unitdate type="inclusive">1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Jewish Studies questionnaire responses (unfavorable), </unittitle>
+							<unitdate type="inclusive">1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Lodging, </unittitle>
+							<unitdate type="inclusive">1989-1993</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>New Faculty Orientation, </unittitle>
+							<unitdate type="inclusive">1998 Aug 26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Office Renovations, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Opening Days, </unittitle>
+							<unitdate type="inclusive">1989-1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Penrose, Roger (dinner), </unittitle>
+							<unitdate type="inclusive">1993 Mar 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty Publications, </unittitle>
+							<unitdate type="inclusive">1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Reference Copies of Previous Faculty Publications, </unittitle>
+							<unitdate type="inclusive">1979-1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Reference Copies of Previous Faculty Publications, </unittitle>
+							<unitdate type="inclusive">1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Religion, </unittitle>
+							<unitdate type="inclusive">1980-1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Religion, </unittitle>
+							<unitdate type="inclusive">1984-1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Religion, </unittitle>
+							<unitdate type="inclusive">1985-1986</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Religion, </unittitle>
+							<unitdate type="inclusive">1986-1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Religion, </unittitle>
+							<unitdate type="inclusive">1988-1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Religion, </unittitle>
+							<unitdate type="inclusive">1989-1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Academic Buildings, </unittitle>
+							<unitdate type="inclusive">1987-1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Athletics, </unittitle>
+							<unitdate type="inclusive">1997 Sep 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Avery Hall, </unittitle>
+							<unitdate type="inclusive">1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Avery Hall, </unittitle>
+							<unitdate type="inclusive">1994</unitdate>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Avery Hall Move, </unittitle>
+							<unitdate type="inclusive">1996</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Blodgett Hall Project, </unittitle>
+							<unitdate type="inclusive">1996</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Departmental Review, </unittitle>
+							<unitdate type="inclusive">1992</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>DOF Budget Numbers, </unittitle>
+							<unitdate type="inclusive">1996-1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Dye, Nancy, </unittitle>
+							<unitdate type="inclusive">1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Expenses for Self-Study, </unittitle>
+							<unitdate type="inclusive">1993</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Faculty Curriculum Retreat, </unittitle>
+							<unitdate type="inclusive">1990 Feb 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Faculty Forum, </unittitle>
+							<unitdate type="inclusive">1994-1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Faculty Memos, </unittitle>
+							<unitdate type="inclusive">1988-1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Field Work Move, </unittitle>
+							<unitdate type="inclusive">1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Financial Aid, </unittitle>
+							<unitdate type="inclusive">1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Greenberg, Douglas, </unittitle>
+							<unitdate type="inclusive">1994 Feb 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Guy, Rosa (lecture), </unittitle>
+							<unitdate type="inclusive">1993 Mar 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Hughs Minority Scholars, </unittitle>
+							<unitdate type="inclusive">1993</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Institutional Research, </unittitle>
+							<unitdate type="inclusive">1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Irving, John (Krieger lecture), </unittitle>
+							<unitdate type="inclusive">1993 Apr 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Jazz Festival, </unittitle>
+							<unitdate type="inclusive">1992 Sep 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Jazz Festival, </unittitle>
+							<unitdate type="inclusive">1993 Sep 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Jazz Festival, </unittitle>
+							<unitdate type="inclusive">1994 Sep 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Jazz Festival, </unittitle>
+							<unitdate type="inclusive">1995 Sep 8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Jazz Festival, </unittitle>
+							<unitdate type="inclusive">1996 Sep 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Jazz Festival, </unittitle>
+							<unitdate type="inclusive">1997 Sep 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Mornings with Marla, </unittitle>
+							<unitdate type="inclusive">1989</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>NEH Summer Institute, </unittitle>
+							<unitdate type="inclusive">1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>New England basement work, </unittitle>
+							<unitdate type="inclusive">1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Fainstein, Norman (DoF), </unittitle>
+							<unitdate type="inclusive">1995-1996</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>O'Rourke, P.J. (Krieger lecture), </unittitle>
+							<unitdate type="inclusive">1995 Feb 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Piercey, Jan (dinner), </unittitle>
+							<unitdate type="inclusive">1995 Oct 5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>United Way, </unittitle>
+							<unitdate type="inclusive">1996</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Wassenstein, Wendy (Krieger lecture), </unittitle>
+							<unitdate type="inclusive">1996 Apr 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Akcay, Cavet lecture, </unittitle>
+							<unitdate type="inclusive">2003 Apr 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Beyer, Frank, </unittitle>
+							<unitdate type="inclusive">2002 Oct 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Book Party, </unittitle>
+							<unitdate type="inclusive">2003 May 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Chen, Da, </unittitle>
+							<unitdate type="inclusive">2002 Sep 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Coalition Dinner, </unittitle>
+							<unitdate type="inclusive">2002 Sep 26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Commencement, </unittitle>
+							<unitdate type="inclusive">2001</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Delmas Visiting Professor, </unittitle>
+							<unitdate type="inclusive">2001</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Entertainment, </unittitle>
+							<unitdate type="inclusive">2002-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Evening of Musical Performance, </unittitle>
+							<unitdate type="inclusive">1999 Dec 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Ford Scholars, </unittitle>
+							<unitdate type="inclusive">2004 Sep 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Ford Scholars Symposium, </unittitle>
+							<unitdate type="inclusive">2002 Feb 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Gardner, Howard, </unittitle>
+							<unitdate type="inclusive">2001 Apr 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Hardho, Joy (writer-in-residence), </unittitle>
+							<unitdate type="inclusive">2002 Feb 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Heaney, Seamus (Elizabeth Bishop lecture and Novy lecture), </unittitle>
+							<unitdate type="inclusive">2000 Oct 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Intellectual Buffet, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Irwin, Robert W., </unittitle>
+							<unitdate type="inclusive">1999 Apr 26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Jian, Chen (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2002 Nov 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>McGann, Jerome, </unittitle>
+							<unitdate type="inclusive">2003 Apr 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Olds, Sharon (Eliz. Bishop poet), </unittitle>
+							<unitdate type="inclusive">2001 Nov 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Oliviera, Carmen, </unittitle>
+							<unitdate type="inclusive">2002 Oct 22</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Pinsky, Robert, </unittitle>
+							<unitdate type="inclusive">1999 Feb 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Rhodes, Richard (Freshman Course lecture), </unittitle>
+							<unitdate type="inclusive">2001 Sep 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Rogers, Pat, </unittitle>
+							<unitdate type="inclusive">2002 Nov 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Simic, Charles (Eliz. Bishop lecture), </unittitle>
+							<unitdate type="inclusive">2002 Oct 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Sletkin, Yuri, </unittitle>
+							<unitdate type="inclusive">2003 Nov 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Slotkin, Richard, </unittitle>
+							<unitdate type="inclusive">2002 Oct 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Spiegelman, Art, </unittitle>
+							<unitdate type="inclusive">2002 Oct 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Sudan Studies Symposium, </unittitle>
+							<unitdate type="inclusive">2002 Nov 7-9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Tharp, Twyla, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>URSI Symposium, </unittitle>
+							<unitdate type="inclusive">2004 Sep 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Vahdat, Farzin, </unittitle>
+							<unitdate type="inclusive">2002 Sep 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle><emph render="bold">Sitomer Lectures</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Botstein, Leon (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1988 Apr 19</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Broner, Esther (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1989 Apr 5</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Paley, Michael (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1990 Apr 19</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Ozick, Cynthia (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1991 May 6</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Broshi, Magan (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1992 Mar 30</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Dimant, Dvora (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1994 Apr 12</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Avineri, Shlomo (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1994 Nov 10</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Monk, Daniel Bertrand (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1997 Apr 16</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Kaplan, Alice (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1998 Apr 21</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Anissimov, Myriam (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">1999 Apr 20</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Brown, Phil (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">2000 Apr 25</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Weber, Donald (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">2001 Apr 17</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Hyman, Paula (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">2002 Apr 22</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Englander, Nathan (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">2003 Apr 1</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>Judt, Tony (Sitomer lecture), </unittitle>
+								<unitdate type="inclusive">2005 Feb 22</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Academic Buildings Service Requests, </unittitle>
+							<unitdate type="inclusive">1997-1998</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Boxing Symposium, </unittitle>
+							<unitdate type="inclusive">1996 Mar 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Cleaver, Kathleen (dinner), </unittitle>
+							<unitdate type="inclusive">2001 Feb 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Hartman, Heidi, </unittitle>
+							<unitdate type="inclusive">1998 Apr 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Hofmeister, Timothy Dinner, </unittitle>
+							<unitdate type="inclusive">1996 May 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Indian Dance Troupe, </unittitle>
+							<unitdate type="inclusive">1994 Sep 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Mamiya, Larry Reception, </unittitle>
+							<unitdate type="inclusive">1996 Oct 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Maza, Sarah (Matthew Vassar lecture), </unittitle>
+							<unitdate type="inclusive">2001 Apr 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Murray, Albert Dinner, </unittitle>
+							<unitdate type="inclusive">45038</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Okihiro, Gary (Ethnic Studies) lecture and dinner, </unittitle>
+							<unitdate type="inclusive">2001 Nov 15</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Said, Edward (Matthew Vassar lecturer) Dinner, </unittitle>
+							<unitdate type="inclusive">1995 Nov 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Sayles, John (Luce lecturer) Dinner, </unittitle>
+							<unitdate type="inclusive">1991 Apr 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Schneider, Elizabeth (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2000 Nov 8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Short, Bobby, </unittitle>
+							<unitdate type="inclusive">1998 Oct 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Time Machine mini-symposium, </unittitle>
+							<unitdate type="inclusive">2001 Mar 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Tsao, Thomas (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2001 Jan 31</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Walvin, James (dinner), </unittitle>
+							<unitdate type="inclusive">1999 Sep 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Wollen, Peter Dinner, </unittitle>
+							<unitdate type="inclusive">1990 Oct 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Oates, Joyce Carol (Freshman lecture and dinner), </unittitle>
+							<unitdate type="inclusive">1998 Sep 14</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Theroux, Paul (Freshman lecture and dinner), </unittitle>
+							<unitdate type="inclusive">1996 Sep 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Wolff, Tobias (Freshman lecture and dinner), </unittitle>
+							<unitdate type="inclusive">1997 Sep 11</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>McBride, James (Freshman lecture and dinner), </unittitle>
+							<unitdate type="inclusive">1999 Sep 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Alterman, Jon, </unittitle>
+							<unitdate type="inclusive">2004 Apr 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Appachana, Anjana, </unittitle>
+							<unitdate type="inclusive">2003 Sep 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Athletics Party, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Bagbey and Beowulf, </unittitle>
+							<unitdate type="inclusive">2004 Feb 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Balaban, John, </unittitle>
+							<unitdate type="inclusive">2004 Feb 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Beattie, Ann, </unittitle>
+							<unitdate type="inclusive">1997 Fall</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Benhabib, Seyla, </unittitle>
+							<unitdate type="inclusive">2004 Apr 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Bill T, </unittitle>
+							<unitdate type="inclusive">2004 May 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Bill T (Dinner), </unittitle>
+							<unitdate type="inclusive">2004 May 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Billington, James, </unittitle>
+							<unitdate type="inclusive">2003 Oct 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Brown, Sally (Lehman lecture), </unittitle>
+							<unitdate type="inclusive">2006 Apr 8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Browning, Christopher, </unittitle>
+							<unitdate type="inclusive">2005 Feb 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Byram, Michael, </unittitle>
+							<unitdate type="inclusive">2003 Nov 17</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Campo, Rafael, </unittitle>
+							<unitdate type="inclusive">2004 Sep 12</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Cliffe, Michelle, </unittitle>
+							<unitdate type="inclusive">2002 Feb 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Cocktail Party, </unittitle>
+							<unitdate type="inclusive">May 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Cocktail Party, </unittitle>
+							<unitdate type="inclusive">2004 Sep 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Cocktail Party, </unittitle>
+							<unitdate type="inclusive">2005 Feb 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Collins, Billy, </unittitle>
+							<unitdate type="inclusive">2004 Mar 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Davies, Carol, </unittitle>
+							<unitdate type="inclusive">2001 Feb 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Davis, Angela, </unittitle>
+							<unitdate type="inclusive">1995 Fall</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Davis, Devra, </unittitle>
+							<unitdate type="inclusive">2003 Feb 26-27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Diller, Liz, </unittitle>
+							<unitdate type="inclusive">2001 Apr 5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Economic Development Conference, </unittitle>
+							<unitdate type="inclusive">1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Ekland-Olson, Sheldon, </unittitle>
+							<unitdate type="inclusive">2004 Oct 7-8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Faculty Retreat, </unittitle>
+							<unitdate type="inclusive">2005 May 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Finkelman, Paul, </unittitle>
+							<unitdate type="inclusive">2004 Jan 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Foresta, Don (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2005 Mar 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Gilb, Dagoberto, </unittitle>
+							<unitdate type="inclusive">Feb 15</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Gould, F., ENVS lecture, </unittitle>
+							<unitdate type="inclusive">2002 Apr 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Guillermopreito, Alma, </unittitle>
+							<unitdate type="inclusive">2004 Nov 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Habermas lecture, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Holocaust Panel, </unittitle>
+							<unitdate type="inclusive">2004 Nov 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Hyde, Lewis, </unittitle>
+							<unitdate type="inclusive">2004 Mar 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Intellectual Buffet, </unittitle>
+							<unitdate type="inclusive">2004 May 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Kinsella, John, </unittitle>
+							<unitdate type="inclusive">2004 Apr 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Kluger, Ruth, </unittitle>
+							<unitdate type="inclusive">2005 Apr 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Kouminykaa, Yusef, </unittitle>
+							<unitdate type="inclusive">2004 Nov 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Lahiri, Jhumpa, </unittitle>
+							<unitdate type="inclusive">2004 Feb 12</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Learning Spaces Conference, </unittitle>
+							<unitdate type="inclusive">2004 Oct 22-24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Lee, Spike, and Budd Schulberg, </unittitle>
+							<unitdate type="inclusive">2001 Nov 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Lynn, David, </unittitle>
+							<unitdate type="inclusive">2003 Dec 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Marcus, Jane (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2001 Mar 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Miron, Dan, </unittitle>
+							<unitdate type="inclusive">2004 Apr 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>NCBI Workshop, </unittitle>
+							<unitdate type="inclusive">2003 Mar 25-26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>NEH: Hohn and von der Emde, </unittitle>
+							<unitdate type="inclusive">2005 May 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Orgell, Stephen, </unittitle>
+							<unitdate type="inclusive">2004 Sep 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Page, Barbara - Party, </unittitle>
+							<unitdate type="inclusive">2003 May 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Preston, Richard, </unittitle>
+							<unitdate type="inclusive">1995 Oct 2</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Rio Raigadas, David, </unittitle>
+							<unitdate type="inclusive">2003 Sep 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Romer, Paul (Crego lecture), </unittitle>
+							<unitdate type="inclusive">2001 Apr 26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Schoeps, Julius, </unittitle>
+							<unitdate type="inclusive">2005 Apr 12</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Sharp Dinner Party, </unittitle>
+							<unitdate type="inclusive">2004 Nov 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Shore, Jane (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2000 Feb 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Steel, Claude, </unittitle>
+							<unitdate type="inclusive">2004 Sep 22</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Stone, Robert, </unittitle>
+							<unitdate type="inclusive">2004 Sep 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Task force for Sept. 11, 2001, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Teaching with Technology Forum, </unittitle>
+							<unitdate type="inclusive">2004 Apr 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Thiebaud, Wayne, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>URSI 2003-2004, </unittitle>
+							<unitdate type="inclusive">2003 Sep 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Videoconferencing, </unittitle>
+							<unitdate type="inclusive">2005 May 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Wilkes, Michael, </unittitle>
+							<unitdate type="inclusive">2004 Apr 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Williams, Terry Tempest, </unittitle>
+							<unitdate type="inclusive">1994 Sep 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Wise, Tim (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2005 Mar 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Zagejewski, Adam, </unittitle>
+							<unitdate type="inclusive">2004 Apr 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Paige Ackerson-Killy Din, </unittitle>
+							<unitdate type="inclusive">2008 Oct 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Africana Studies 40th Anniversary Dinner, N. Rooks speaker, </unittitle>
+							<unitdate type="inclusive">2009 Apr 17</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>An Evening of Black Voices, </unittitle>
+							<unitdate type="inclusive">2005 Dec 8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Armitage, Simon, </unittitle>
+							<unitdate type="inclusive">2007 Oct 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>KB-- Assignments and Projects, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Bergon, Frank, </unittitle>
+							<unitdate type="inclusive">2006 Feb 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Bharucha, Jamshed- Grant Fund lecture and Dinner- 5:30, </unittitle>
+							<unitdate type="inclusive">2008 Feb 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Bibliography Reception, </unittitle>
+							<unitdate type="inclusive">2006 May 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Bikel, Theodore, </unittitle>
+							<unitdate type="inclusive">2007 Feb 10-18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Bratman, Michael, </unittitle>
+							<unitdate type="inclusive">2005 Nov 3-4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Kathy Brown Correspondence, </unittitle>
+							<unitdate type="inclusive">1989-1990</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Chairs Meeting, </unittitle>
+							<unitdate type="inclusive">2006-2007</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Chairs Meeting, </unittitle>
+							<unitdate type="inclusive">2005-2006</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Chairs Meeting, </unittitle>
+							<unitdate type="inclusive">2002-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Jeff Chang lecture and Dinner, </unittitle>
+							<unitdate type="inclusive">2008 March 24-27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Cocktail Party, </unittitle>
+							<unitdate type="inclusive">2008 Sep 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Cocktail Party, </unittitle>
+							<unitdate type="inclusive">2005 Sep 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Cocktail Party, </unittitle>
+							<unitdate type="inclusive">2009 Sep 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Consortium for Faculty Diversity, </unittitle>
+							<unitdate type="inclusive">2006 Nov 3-5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Crenshaw, </unittitle>
+							<unitdate type="inclusive">2006 May 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>CSMP Conference, </unittitle>
+							<unitdate type="inclusive">2006 Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>CSMP Conference, </unittitle>
+							<unitdate type="inclusive">2006 Nov 3-5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>D, Chuck, </unittitle>
+							<unitdate type="inclusive">2007 Nov 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Davies, Adam, </unittitle>
+							<unitdate type="inclusive">2006 Oct 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Davis, Lydia, </unittitle>
+							<unitdate type="inclusive">2008 Feb 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Dean's Cocktail Party, </unittitle>
+							<unitdate type="inclusive">2007 Sept 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Dean's House - Sharp, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Nancy Dye Party, </unittitle>
+							<unitdate type="inclusive">1994 May 5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Diversity Panel, </unittitle>
+							<unitdate type="inclusive">2006 Sept 14</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Donnelly, Liza, </unittitle>
+							<unitdate type="inclusive">2005 Nov 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Duster, Troy, </unittitle>
+							<unitdate type="inclusive">2008 March 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Empire Games, </unittitle>
+							<unitdate type="inclusive">2009 Summer</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>End of Year Party, </unittitle>
+							<unitdate type="inclusive">1998</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>English Dept, </unittitle>
+							<unitdate type="inclusive">2007 Aug 31</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Entertainment- Various, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>von Eschen, Penny, </unittitle>
+							<unitdate type="inclusive">2007 Nov 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Ethnic Studies, </unittitle>
+							<unitdate type="inclusive">2007 March 31</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Faculty Diversity Retreat, </unittitle>
+							<unitdate type="inclusive">2008 May 9</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Faculty Lists, </unittitle>
+							<unitdate type="inclusive">2006-2007</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Faculty Lists, </unittitle>
+							<unitdate type="inclusive">2007-2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Faculty Retreat, </unittitle>
+							<unitdate type="inclusive">2006</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Faculty Retreat, </unittitle>
+							<unitdate type="inclusive">2004 May 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Faculty Retreat, </unittitle>
+							<unitdate type="inclusive">2009 May 11</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Featherstone, Lisa, </unittitle>
+							<unitdate type="inclusive">2005 Sept 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Frances Fergusson Party, </unittitle>
+							<unitdate type="inclusive">2005 May 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Ford Scholars, </unittitle>
+							<unitdate type="inclusive">1996-1998</unitdate>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>George Saunders Gifford lecture, </unittitle>
+							<unitdate type="inclusive">2008 Oct 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Gladman, Renee, </unittitle>
+							<unitdate type="inclusive">2008 March 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Glissant, Eduoard, </unittitle>
+							<unitdate type="inclusive">2007 March 26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Ground Water Conference, </unittitle>
+							<unitdate type="inclusive">2005 Oct 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Halloween Part, </unittitle>
+							<unitdate type="inclusive">2004 Oct 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Faculty Handbook Governance, </unittitle>
+							<unitdate type="inclusive">2006</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Handbooks, Governance, </unittitle>
+							<unitdate type="inclusive">2002-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Judy Hanna Party, </unittitle>
+							<unitdate type="inclusive">2005 Dec 12</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Hoehn, Maria, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5</container>
+							<unittitle>Horowitz, Murray, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Harrison, Jeffery, </unittitle>
+							<unitdate type="inclusive">2006 Nov 14</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>How To Get Published, </unittitle>
+							<unitdate type="inclusive">2007 Apr 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Howard, Richard, </unittitle>
+							<unitdate type="inclusive">2005 Oct 29</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Chunglian Al Huang, </unittitle>
+							<unitdate type="inclusive">2006 May 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Intellectual Buffet, </unittitle>
+							<unitdate type="inclusive"/>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Issues and Answers for Wednesday's Staff Meeting w/NSD and JH
+								and CS and KB, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Johnson, Glen (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2005 Sep 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Kastan, David, </unittitle>
+							<unitdate type="inclusive">2005 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Keothe, John Reading and Dinner, </unittitle>
+							<unitdate type="inclusive">2007 Apr 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Kluger, Ruth, </unittitle>
+							<unitdate type="inclusive">2008 Apr 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Kolbert, Elizabeth, </unittitle>
+							<unitdate type="inclusive">2008 Sep 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Kooser, Ted, </unittitle>
+							<unitdate type="inclusive">2006 Feb 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Kristeva, Julia, </unittitle>
+							<unitdate type="inclusive">2008 Oct 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Lee, Li-Young - Elizabeth Bishop lecture, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Lefkowitz, Lori (Sitomer lecture), </unittitle>
+							<unitdate type="inclusive">2005 Mar 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Brad Leithausr and Mary Jo Salter Writers in Residence, </unittitle>
+							<unitdate type="inclusive">2006 Feb 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Lelyveld, Joe, </unittitle>
+							<unitdate type="inclusive">2005 Sep 12</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Luncheon Grounds Crew, </unittitle>
+							<unitdate type="inclusive">2007 Dec 7</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Barbara Buhler Lynes Novy (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2005 Nov 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Matsuda, Mari, </unittitle>
+							<unitdate type="inclusive">2005 Sep 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Rob Nixon Anne McClintock, </unittitle>
+							<unitdate type="inclusive">2008 Nov 5-6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Mentoring Dinner, </unittitle>
+							<unitdate type="inclusive">2008 Sep 3</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Mentor/mentee dinner, </unittitle>
+							<unitdate type="inclusive">2007 Sep 19</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Mentors Mentees Dinner, </unittitle>
+							<unitdate type="inclusive">2009 Sep 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Thylias Moss Elizabeth Bishop Poet, </unittitle>
+							<unitdate type="inclusive">2009 Oct 1</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Paul Muldoon Eliz Bishop Poet, </unittitle>
+							<unitdate type="inclusive">2006 Sep 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Harryette Muller Elizabeth Bishop Poet, </unittitle>
+							<unitdate type="inclusive">2007 Sep 18</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Murray, Les lecture, </unittitle>
+							<unitdate type="inclusive">2007 Mar 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Mendelson, David (Sitomer lecture), </unittitle>
+							<unitdate type="inclusive">2008 Apr 15</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Music and Technology Conference, </unittitle>
+							<unitdate type="inclusive">2005 Jun 9-10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Music Faculty Dinner, </unittitle>
+							<unitdate type="inclusive">2008 Oct 14</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Musicales, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Native American Poetry Event J. McAdams, G. Henry, K.
+								Blaeser, </unittitle>
+							<unitdate type="inclusive">2007 Nov 8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Faculty, </unittitle>
+							<unitdate type="inclusive">2000</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Faculty dinner, </unittitle>
+							<unitdate type="inclusive">2001 Feb 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Depts/New Faculty Dinner, </unittitle>
+							<unitdate type="inclusive">1996-1997</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Patrice Nganang (lecture and dinner), </unittitle>
+							<unitdate type="inclusive">2006 Nov 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year -Orientation, Faculty Association, </unittitle>
+							<unitdate type="inclusive">2001</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year, </unittitle>
+							<unitdate type="inclusive">2002-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year, </unittitle>
+							<unitdate type="inclusive">2003-2004</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year, </unittitle>
+							<unitdate type="inclusive">2004-2005</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year, </unittitle>
+							<unitdate type="inclusive">2005-2006</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year, </unittitle>
+							<unitdate type="inclusive">2006-2007</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year, </unittitle>
+							<unitdate type="inclusive">2007-2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>New Year, </unittitle>
+							<unitdate type="inclusive">2008-2009</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>O'Brien, Tim, </unittitle>
+							<unitdate type="inclusive">2007 Sep 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Louise Erdich William Gifford lecture, </unittitle>
+							<unitdate type="inclusive">2006 Oct 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Old Observatory Project, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Mary Oliver Eliz Bishop Poet, </unittitle>
+							<unitdate type="inclusive">2005 Oct 6</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Michael Ondaatje Gifford lecture, </unittitle>
+							<unitdate type="inclusive">2007 Oct 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>ZZ Packer lecture and reading and dinner Writer-in-Residence, </unittitle>
+							<unitdate type="inclusive">2009 Feb 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Phillips, Jayne Anne, </unittitle>
+							<unitdate type="inclusive">2006 Oct 30</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>PKAL/Facilities workshop, </unittitle>
+							<unitdate type="inclusive">2004 Oct 22-24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Powers, Richard, </unittitle>
+							<unitdate type="inclusive">2005 Nov 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Purchase, Bruce, </unittitle>
+							<unitdate type="inclusive">2005 Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Raymond Ave Association, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Reception - untenured faculty, </unittitle>
+							<unitdate type="inclusive">2009 May 4</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Salman Rushdie William Starr/Freshman Course, </unittitle>
+							<unitdate type="inclusive">2006 Sep 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Schamus, James, </unittitle>
+							<unitdate type="inclusive">2005 Oct 23</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Richard Schenchner lecture and Dinner, </unittitle>
+							<unitdate type="inclusive">2007 Feb 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Sudan Association, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Sharp, Ron, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6</container>
+							<unittitle>Ailene Sitomer, </unittitle>
+							<unitdate type="inclusive"/>
+							<physdesc>(2 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Summer Programs, </unittitle>
+							<unitdate type="inclusive">2004</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>3 Poets - Readings and Dinner, </unittitle>
+							<unitdate type="inclusive">2007 Mar 7-8</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>James Taylor lecture reception, and dinner Adams pa, </unittitle>
+							<unitdate type="inclusive">2008 Apr 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Teaching with Technology Forum, </unittitle>
+							<unitdate type="inclusive">2007 Apr 25</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Technology Forum, </unittitle>
+							<unitdate type="inclusive">2005 Apr 13</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Teaching with Technology, </unittitle>
+							<unitdate type="inclusive">2008 Apr 21</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Tymoeko, Dmitri, </unittitle>
+							<unitdate type="inclusive">2009 Feb 24</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Trustee Luncheon, </unittitle>
+							<unitdate type="inclusive">2009 Oct 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Trustees and Faculty lunches, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI and Psych, </unittitle>
+							<unitdate type="inclusive">1995</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">1996</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">1999</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">2001</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">2008</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">1997-1998</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">2002-2003</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">2005 Sep 28</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI 20 years, </unittitle>
+							<unitdate type="inclusive">2006 Sept 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>URSI, </unittitle>
+							<unitdate type="inclusive">2007 Sep 26</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Vahdat, Farzin, </unittitle>
+							<unitdate type="inclusive">2006 Oct 31</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Vidgerman, Patsy, </unittitle>
+							<unitdate type="inclusive">2007 April 17</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Amina Wadud - lecture cancelled, </unittitle>
+							<unitdate type="inclusive">2007 Apr 10</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Walcott, Derek, </unittitle>
+							<unitdate type="inclusive">2006 April 11</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Colson Whitehead Writer in Residence lecture and Dinner, </unittitle>
+							<unitdate type="inclusive">2007 Feb 20</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Wright, Beverly, </unittitle>
+							<unitdate type="inclusive">2006 Feb 15</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Young, James, </unittitle>
+							<unitdate type="inclusive">2005 Sept 27</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Zinn, Howard, </unittitle>
+							<unitdate type="inclusive">2005 Sept 22</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Entertainment, </unittitle>
+							<unitdate type="inclusive">1989-2009</unitdate>
+							<physdesc>(17 folders)</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries II. Miscellaneous</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Housing, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Dean of Faculty House, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House Renovation, </unittitle>
+							<unitdate type="inclusive">2006</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House, </unittitle>
+							<unitdate type="inclusive">2002</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House, </unittitle>
+							<unitdate type="inclusive">2005</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House - Re-decoration, </unittitle>
+							<unitdate type="inclusive">1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House Gifts and Art Works, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House - Fees for Use, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House Calendar Forms, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House Reservations, </unittitle>
+							<unitdate type="inclusive">1982</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Pratt House - General, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>[Computing]-Management Information System RFP, </unittitle>
+							<unitdate type="inclusive">1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>[Search Committees], </unittitle>
+							<unitdate type="inclusive">1984-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee - Correspondence and Background
+								Information, </unittitle>
+							<unitdate type="inclusive">1983-1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1975-1976</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1976-1977</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1977-1978</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1978-1979</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1979-1980</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1980-1981</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1981-1982</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1982-1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1985-1986</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1986-1987</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Faculty Procedure Committee Materials, </unittitle>
+							<unitdate type="inclusive">1987-1988</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Chronology of the College Charter, </unittitle>
+							<unitdate type="inclusive"/>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>"Rules of the Faculty, 1865-1920," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Information for New Faculty packet, </unittitle>
+							<unitdate type="inclusive">1988-1995</unitdate>
+							<physdesc>(7 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Vassar College, "The Equity Scorecard," </unittitle>
+							<unitdate type="inclusive">2005 Jun</unitdate>
+							<physdesc>(2 copies) [RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Termination and leave lists, </unittitle>
+							<unitdate type="inclusive">1998-1999</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Reports and Personnel Files, </unittitle>
+					<unitdate type="inclusive">1968-2000</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 10</container>
+						<unittitle>Annual Reports - Departments, </unittitle>
+						<unitdate type="inclusive">circa 1975-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 11</container>
+						<unittitle>Annual Reports - Dean of the Faculty / Dean of the College, </unittitle>
+						<unitdate type="inclusive">circa 1974-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Annual Reports - Dean of the College, </unittitle>
+						<unitdate type="inclusive">circa 1986-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Annual Reports - Dean of Studies, </unittitle>
+						<unitdate type="inclusive">1989-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Annual Reports - Dean of Students, </unittitle>
+						<unitdate type="inclusive">1990-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Budgets and Personnel Files, </unittitle>
+						<unitdate type="inclusive">circa 1986-1993</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Budgets and Personnel Files, </unittitle>
+						<unitdate type="inclusive">circa 1993-2000</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Comprehensive Planning Report, </unittitle>
+						<unitdate type="inclusive">1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Departmental Reviews and Self-Studies, A-C, </unittitle>
+						<unitdate type="inclusive">circa 1987-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Departmental Reviews and Self-Studies, D-H, </unittitle>
+						<unitdate type="inclusive">circa 1987-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Departmental Reviews and Self-Studies, H-P, </unittitle>
+						<unitdate type="inclusive">circa 1987-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Departmental Reviews and Self Studies, P-Z, </unittitle>
+						<unitdate type="inclusive">circa 1987-1994</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Faculty Personnel Files, </unittitle>
+					<unitdate type="inclusive">2001-2003</unitdate>
+					<physdesc>[RESTRICTED]</physdesc>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 18 (Box 1)</container>
+						<unittitle>Ad-Bas, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 19 (Box 2)</container>
+						<unittitle>Bat-Bon, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 20 (Box 3)</container>
+						<unittitle>Bor-Can, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 21 (Box 4)</container>
+						<unittitle>Car-Cle, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 22 (Box 5)</container>
+						<unittitle>Cli-Cu, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 23 (Box 6)</container>
+						<unittitle>Da-Dunc, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 24 (Box 7)</container>
+						<unittitle>Dunn-Fe, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 25 (Box 8)</container>
+						<unittitle>Fi-Grah, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 26 (Box 9)</container>
+						<unittitle>Gray-Hi, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 27 (Box 10)</container>
+						<unittitle>Ho-Is, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 28 (Box 11)</container>
+						<unittitle>Ja-Kan, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 29 (Box 12)</container>
+						<unittitle>Kap-Kum, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 30 (Box 13)</container>
+						<unittitle>Kur-Lon, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 31 (Box 14)</container>
+						<unittitle>Lot-McAd, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 32 (Box 15)</container>
+						<unittitle>McAu-Mi, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 33 (Box 16)</container>
+						<unittitle>Mo-N, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 34 (Box 17)</container>
+						<unittitle>Of-Pl, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 35 (Box 18)</container>
+						<unittitle>Po-Re, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 36 (Box 19)</container>
+						<unittitle>Ro-Rus, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 37 (Box 20)</container>
+						<unittitle>Ruu-Sh, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 38 (Box 21)</container>
+						<unittitle>Si-Sw, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 39 (Box 22)</container>
+						<unittitle>Ta-Vil, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 40 (Box 23)</container>
+						<unittitle>Viv-Wil, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 41 (Box 24)</container>
+						<unittitle>Win-Zu, </unittitle>
+						<unitdate type="inclusive">2001-2003</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Faculty Load Records, </unittitle>
+					<unitdate type="inclusive">1901-1970</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1901-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1921-1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1922-1923</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1923-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1924-1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1925-1926</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1926-1927</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1927-1928</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1928-1929</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1929-1930</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 42 (Box 1)</container>
+						<unitdate type="inclusive">1930-1931</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1931-1932</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1932-1933</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1933-1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1934-1935</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1935-1936</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1936-1937</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1937-1938</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1938-1939</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1939-1940</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1940-1941</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1941-1942</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1942-1943</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1943-1944</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1944-1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1945-1946</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1946-1947</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 43 (Box 2)</container>
+						<unitdate type="inclusive">1947-1948</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 44 (Box 3)</container>
+						<unitdate type="inclusive">1948-1949</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 44 (Box 3)</container>
+						<unitdate type="inclusive">1949-1950</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 44 (Box 3)</container>
+						<unitdate type="inclusive">1950-1951</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 44 (Box 3)</container>
+						<unitdate type="inclusive">1951-1952</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 44 (Box 3)</container>
+						<unitdate type="inclusive">1952-1953</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 44 (Box 3)</container>
+						<unitdate type="inclusive">1953-1954</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1954-1955</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1955-1956</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1956-1957</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1957-1958</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1958-1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1959-1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1960-1961</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1961-1962</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 45 (Box 4)</container>
+						<unitdate type="inclusive">1962-1963</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 46 (Box 5)</container>
+						<unitdate type="inclusive">1963-1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 46 (Box 5)</container>
+						<unitdate type="inclusive">1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 46 (Box 5)</container>
+						<unitdate type="inclusive">1965-1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 46 (Box 5)</container>
+						<unitdate type="inclusive">1966-1967</unitdate>
+						<physdesc>(3 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 46 (Box 5)</container>
+						<unitdate type="inclusive">1969-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 46 (Box 5)</container>
+						<unittitle>Faculty load reference, reports, and indexes, </unittitle>
+						<unitdate type="inclusive">1950-1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 46 (Box 5)</container>
+						<unittitle>Reports to the Executive Committee of the Board of Trustees, </unittitle>
+						<unitdate type="inclusive">1948-1957</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

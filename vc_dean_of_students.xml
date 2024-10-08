@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_vc_dean_of_students
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Dean of Students Records, 1877-2003 (bulk 1887-1992)</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>July 2009</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College. Dean of Students</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Vassar College Dean of Students Records</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1877-2003 </unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f"> 1877-1992 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">8.2 cubic feet (9 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Materials relating to student life, campus facilities, admissions, events, as well as other student life and general administrative issues.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History</head>
+			<p>The current Office of the Dean of Students "oversees and coordinates the Office of Residential Life, Counseling Service, Health Services, International Services and the array of faculty, administrative, and student personnel who assist in the residence halls... In addition, the dean supervises the student fellow program—recruiting, training, and coordinating the activities of student fellows." Although the name has changed several times, the office was created at the founding of the college. The Lady Principal was the first college official to deal with student life and the rules and regulations of the college. The initial charge of the principal was ensure that students personal, moral and spiritual needs were being tended. She acted as an academic and personal advisor, oversaw student housing, and presided over most social events. The responsibilities of the office have changed in the succeeding decades, but the main focus is still student life. </p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology of Office Names</head>
+			<chronlist>
+				<chronitem>
+					<date>1865-1913</date>
+					<event>Lady Principal</event>
+				</chronitem>
+				<chronitem>
+					<date>1913-1963</date>
+					<event>Warden</event>
+				</chronitem>
+				<chronitem>
+					<date>1963-1969</date>
+					<event>Dean of Residence</event>
+				</chronitem>
+				<chronitem>
+					<date>1969-1980s</date>
+					<event>Vice President for Student Affairs</event>
+				</chronitem>
+				<chronitem>
+					<date>1980s-1991</date>
+					<event>Vice President for Administrative and Student Affairs</event>
+				</chronitem>
+				<chronitem>
+					<date>1991-1995</date>
+					<event>Dean of Student Life</event>
+				</chronitem>
+				<chronitem>
+					<date>1995-present</date>
+					<event>Dean of Students</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, reports, memoranda, minutes, questionnaires, blueprints and architectural drawings relating to student life, campus facilities, admissions, events, as well as other student life and general administrative issues. The records contain much information about changes in student regulations and the concept of <emph render="italic">in loco parentis</emph>.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>Boxes 7 and 8 contain records restricted to the office of origin due to student and personnel privacy issues. The rest of the collection is open for research according to the regulations of the Vassar College Archives and Special Collections Library without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>See also the Lady Principal records in the</p>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-archives-files-1860-1969-bulk-1860-1914">Vassar College Archives Files</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Administration</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Buildings</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Women college students--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">College discipline</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Blueprints</genreform>
+				<genreform source="aat" encodinganalog="655"> Architectural drawings</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Administrative Offices and Functions </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, July 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, July 2009.</p>
+			<p>Updated by Laura Streett, September 2014.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Transferred from the Dean of Students office and its predecessors in several accessions.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Dean of Students Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is arranged in 4 series. The first 3 are based loosely on the various titles of the office, although there is much overlap. The fourth is a 2014 accession of material on the House Fellow program.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Mixed Records, </unittitle>
+					<unitdate>1877-1979</unitdate>
+					<physdesc>(Boxes 1-4)</physdesc>
+				</did>
+				<scopecontent>
+					<p>The Mixed Records series includes materials from the offices of the Lady Principal, the Warden, the Dean of Residence, and the Vice President for Student Affairs. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Vice President for Student Affairs, </unittitle>
+					<unitdate>1970-1980</unitdate>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Materials relating to the duties of the Vice President that related to admissions.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Vice President for Administrative and Student Affairs, </unittitle>
+					<unitdate>1966-1992</unitdate>
+					<physdesc>(Boxes 5-6)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Subject files kept by the VP for Administrative and Student Affairs, although some materials date to earlier incarnations of the office.</p>
+					<p/>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> House Fellow Program, </unittitle>
+					<unitdate>1951-2003</unitdate>
+					<physdesc>(Boxes 7-9)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Materials documenting the founding and growth of the House Fellow Program.</p>
+					<p>See also, the folders in boxes 2 and 6, which contain material dating from 1947-1959 and 1978-1989.</p>
+					<p>Please note that the bulk of material dating after 1961 is currently restricted. </p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. Mixed Records</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Lady Principal's record books,</unittitle>
+						<unitdate>1877-1891 </unitdate>
+						<physdesc>(9 volumes) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Lady Principal's calendar and expense book,</unittitle>
+						<unitdate> 1891-1915</unitdate>
+						<physdesc>(1 volume) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Minutes of Teacher's Meetings,</unittitle>
+						<unitdate>1883-1884 </unitdate>
+						<physdesc>(1 volume) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Absence record books,</unittitle>
+						<unitdate>ca. 1903-1909 </unitdate>
+						<physdesc>(2 volumes) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Warden's Calendar,</unittitle>
+						<unitdate>1915-1921 </unitdate>
+						<physdesc>(1 volume) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Warden's Meeting notes,</unittitle>
+						<unitdate>1915-1931 </unitdate>
+						<physdesc>(4 folders holding multiple bundles) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Registration books,</unittitle>
+						<unitdate>1924-1948 </unitdate>
+						<physdesc>(3 volumes) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 1</container>
+						<unittitle> Room draw records,</unittitle>
+						<unitdate>ca. 1912-1919 </unitdate>
+						<physdesc>(1 volume and 1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Miscellaneous alphabetical records,</unittitle>
+						<unitdate>ca. 1914-1924 </unitdate>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Warden - Plan of Work,</unittitle>
+						<unitdate>ca. 1923-1947 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Warden - Speeches,</unittitle>
+						<unitdate> 1938, 1953, n.d.</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Lathrop Plan (Student Waitresses),</unittitle>
+						<unitdate> ca. 1942</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student-Faculty Joint Committee,</unittitle>
+						<unitdate>1935-1939 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Conferences - A.S.U.,</unittitle>
+						<unitdate>Dec 1938 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Conferences - World Youth Congress,</unittitle>
+						<unitdate>1938 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> World War II </unittitle>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Three-Year Plan,</unittitle>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Trustee Information Requests,</unittitle>
+						<unitdate> 1959-1962</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Miscellaneous - Mail, Locks, etc.,</unittitle>
+						<unitdate>1938-1950 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Riding, Sailing and Flying,</unittitle>
+						<unitdate>1955 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Food Service,</unittitle>
+						<unitdate>1951 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Language Corridors,</unittitle>
+						<unitdate>1945-1948 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Kenyon Hall,</unittitle>
+						<unitdate>1934-1955 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Mental Hygiene,</unittitle>
+						<unitdate>1941-1948 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Radio Station,</unittitle>
+						<unitdate>1948-1949 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Parlors,</unittitle>
+						<unitdate>1943-1944 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Outing Club,</unittitle>
+						<unitdate>1939-1955 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Marriage Courses and Married Students,</unittitle>
+						<unitdate>1934-1944 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student Expenditures,</unittitle>
+						<unitdate>1925-1949 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Annual Reports,</unittitle>
+						<unitdate>1967, 1973, 1975 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Special Committee on Sarah Gibson Blanding's retirement,</unittitle>
+						<unitdate>1963-1964 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Trustee Committee on Women,</unittitle>
+						<unitdate> 1971-1972</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Administrative Retreat,</unittitle>
+						<unitdate> 1949-1965</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Alumnae - Complaints,</unittitle>
+						<unitdate> 1961</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Faculty Committee on Student Affairs,</unittitle>
+						<unitdate>1968-1969 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Coeducation,</unittitle>
+						<unitdate>1967-1970 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Coeducation - Protest letters,</unittitle>
+						<unitdate>1969-1971 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student governance,</unittitle>
+						<unitdate>ca. 1950-1967</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student participation in governance,</unittitle>
+						<unitdate>1965-1969 </unitdate>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> The [black student] sit-in,</unittitle>
+						<unitdate> 1969</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Senior privileges,</unittitle>
+						<unitdate>1966-1967 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Underclass and senior regulations,</unittitle>
+						<unitdate>1968 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Social regulations,</unittitle>
+						<unitdate> 1969</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Revisions of social regulations,</unittitle>
+						<unitdate> 1969</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> College regulations,</unittitle>
+						<unitdate> 1969</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Financial policies re student organizations,</unittitle>
+						<unitdate>1940-1959 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student organizations - Annual balances,</unittitle>
+						<unitdate>1941-1960 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> House fellow plan,</unittitle>
+						<unitdate>1947-1951 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> House fellows,</unittitle>
+						<unitdate>1957-1959 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Cooperative houses,</unittitle>
+						<unitdate> ca. 1933-1940</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Cooperative system,</unittitle>
+						<unitdate> 1951-1952</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Ferry House,</unittitle>
+						<unitdate>1950-1967 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> French House,</unittitle>
+						<unitdate>1968-1969 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Kendrick House,</unittitle>
+						<unitdate>1967-1969 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Drugs,</unittitle>
+						<unitdate>1972 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Alcohol,</unittitle>
+						<unitdate>1971 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student organizations - policies,</unittitle>
+						<unitdate>1967-1970 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student elections - Procedures and results,</unittitle>
+						<unitdate> 1967-1968</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> College Government Association,</unittitle>
+						<unitdate>1968-1969 </unitdate>
+						<physdesc>(3 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Student Government Association,</unittitle>
+						<unitdate>1970-1972 </unitdate>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Founder's Day Reports,</unittitle>
+						<unitdate>1950-1957 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle> Founder's Day,</unittitle>
+						<unitdate>1969-1976 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Commencement notes,</unittitle>
+						<unitdate>1935-1958</unitdate>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Daisy chains, academic processions,</unittitle>
+						<unitdate>1951-1959</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Film: "The Mirror,"</unittitle>
+						<unitdate>1960</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Miscellaneous reports, etc., on freshmen, etc.</unittitle>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Master Planning Committee?,</unittitle>
+						<unitdate> ca. 1965</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Master Planning Committee,</unittitle>
+						<unitdate>1969-1974</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Master Planning Committee - Townhouses,</unittitle>
+						<unitdate>1969-1971</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Master Planning Sub-Committee - Student Housing,</unittitle>
+						<unitdate>1971-1972</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Master Planning Committee - Vassar Farm,</unittitle>
+						<unitdate>1975-1976</unitdate>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Townhouses,</unittitle>
+						<unitdate>1968-1971</unitdate>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Dormitories,</unittitle>
+						<unitdate>1967</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Dormitory Committee Minutes,</unittitle>
+						<unitdate>1967-1968</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Articles on residences,</unittitle>
+						<unitdate>1967</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Pre-fab dormitories,</unittitle>
+						<unitdate>1968</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Dormitories - questionnaire,</unittitle>
+						<unitdate>1967</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Dormitories - Storage requirements,</unittitle>
+						<unitdate>ca. 1967</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Vassar Dormitory Rehab Study,</unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Released space,</unittitle>
+						<unitdate>1973</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Dormitories,</unittitle>
+						<unitdate>ca. 1973</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> New dormitory,</unittitle>
+						<unitdate>1971</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Dining - center,</unittitle>
+						<unitdate>1970-1971</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Terrace Apartments,</unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Terrace Apartments - Committee on Furnishings,</unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Dormitories - Suggestions,</unittitle>
+						<unitdate>1968</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> New Housing,</unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Variable room rents,</unittitle>
+						<unitdate>1972</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Room alterations,</unittitle>
+						<unitdate>1973-1974</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Emergency room assignments,</unittitle>
+						<unitdate>1975-1976</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Students' building,</unittitle>
+						<unitdate>1946-1964</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Students' building - Child room,</unittitle>
+						<unitdate>1971-1974</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 4</container>
+						<unittitle> Miscellaneous building plans and files, some from the Master Planning Committee,</unittitle>
+						<unitdate>ca. 1965-1979</unitdate>
+						<physdesc>(several folders and loose plans) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle> Recommendation letters — RESTRICTED FILES</unittitle>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle> Student status and leaves — RESTRICTED FILES</unittitle>
+						<physdesc>(3 folders) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. Vice President for Student Affairs</unittitle>
+					<unitdate type="inclusive"/>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Admissions — Common application,</unittitle>
+						<unitdate>1976 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Admissions — Director of Admissions,</unittitle>
+						<unitdate>1974-1976 </unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Admissions — HEW Investigation of Discrimination,</unittitle>
+						<unitdate>1973-1975 </unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Admissions — Minority Recruitment,</unittitle>
+						<unitdate> 1970-1982</unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unittitle> Admissions — Publications</unittitle>
+						<physdesc>(2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle> Admissions — Recruiting film,</unittitle>
+						<unitdate>1974 </unitdate>
+						<physdesc>(1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle> Admissions — Statistics,</unittitle>
+						<unitdate> 1968-1980</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle> Admissions — Studies</unittitle>
+						<unitdate> </unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle> Admissions — Admissions Study Report,</unittitle>
+						<unitdate>1974 </unitdate>
+						<physdesc> (1 folder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 5</container>
+						<unittitle> Admissions — Vassar Alumnae Admissions Handbook,</unittitle>
+						<unitdate> 1976</unitdate>
+						<physdesc>(1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 7</container>
+						<unittitle> Admissions — RESTRICTED FILES</unittitle>
+						<physdesc>(12 folders) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. Vice President for Administrative and Student Affairs</unittitle>
+					<unitdate type="inclusive"/>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Auxiliary Services, </unittitle>
+						<unitdate> 1981-1991 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Auxiliary Services — RESTRICTED FILES </unittitle>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Budget Requests — Auxiliary Services, </unittitle>
+						<unitdate> 1989-1992 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Budget Requests — Food, </unittitle>
+						<unitdate> 1989-1992 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Budget Requests — Halls, </unittitle>
+						<unitdate> 1990-1992 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Budget Requests — Security, </unittitle>
+						<unitdate> 1989-1992 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — Administration, </unittitle>
+						<unitdate> 1973-1983 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — Alcoholic Beverage Catering - Revised Liquor Regulations, </unittitle>
+						<unitdate> 1976-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — College Center, </unittitle>
+						<unitdate> 1975-1989 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — Convocation, Commencement, etc., </unittitle>
+						<unitdate> 1985-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — Social Life, </unittitle>
+						<unitdate> 1986-1987 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — Transportation, </unittitle>
+						<unitdate> 1973-1974 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — Use of Buildings, </unittitle>
+						<unitdate> 1972-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Campus Activities — Video Yearbook, </unittitle>
+						<unitdate> 1986-1987 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Chess Club, </unittitle>
+						<unitdate> 1980-1981 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Coeducation — Inquiries, </unittitle>
+						<unitdate> 1969-1987 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Coeducation — Intracollege Correspondence and Notes, </unittitle>
+						<unitdate> 1967-1984 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Coeducation — Reports from other Colleges, </unittitle>
+						<unitdate> 1973-1977 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Coeducation — Studies and News Articles, </unittitle>
+						<unitdate> 1966-1974 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Confidentiality — RESTRICTED FILES </unittitle>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Council of International Exchange of Scholars, </unittitle>
+						<unitdate> 1984 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Demonstrations, </unittitle>
+						<unitdate> 1969 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Drugs and Alcohol, </unittitle>
+						<unitdate> 1988-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Facilities Operations, </unittitle>
+						<unitdate> 1989-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unittitle> Facilities Resources Management Report on Vassar's "Facilities Financial Exposure," </unittitle>
+						<unitdate> 1986 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> FIPSE Application, </unittitle>
+						<unitdate> ca. 1990 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Food Service Security — Food Service, </unittitle>
+						<unitdate> 1989-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Food Service Security — ARA, </unittitle>
+						<unitdate> 1983-1990 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Food Service Security — Before ARA, </unittitle>
+						<unitdate> 1982-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Forms, </unittitle>
+						<unitdate> ca. 1986 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Freshman Orientation, </unittitle>
+						<unitdate> 1978-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Freshman Parents Weekend, </unittitle>
+						<unitdate> 1982-1984 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Halls, </unittitle>
+						<unitdate> 1983-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Halls — RESTRICTED FILES </unittitle>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Housing Procedures and Policies, </unittitle>
+						<unitdate> ca.1986 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> I.D. Committee, </unittitle>
+						<unitdate> 1989-1990 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Health Services, </unittitle>
+						<unitdate> 1988 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> House Fellows, </unittitle>
+						<unitdate> 1978-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Mug — RESTRICTED FILES </unittitle>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> New York State Department of Education, </unittitle>
+						<unitdate> 1989-1990 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Noyes West End Coffee House, </unittitle>
+						<unitdate> 1982-1986 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Parents — RESTRICTED FILES </unittitle>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Radio Station, </unittitle>
+						<unitdate> 1980-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Rumors and Clarifications, </unittitle>
+						<unitdate> 1990-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Schwartz Fund — RESTRICTED FILES </unittitle>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Security — General, </unittitle>
+						<unitdate> ca. 1979-1986 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Security — Advisory Committee, </unittitle>
+						<unitdate> 1980-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Security — Campus Patrol, </unittitle>
+						<unitdate> 1989-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Security — Consultants, </unittitle>
+						<unitdate> ca. 1987-1990 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Security — Courses, </unittitle>
+						<unitdate> ca.1977-1983 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Security — Reporting, </unittitle>
+						<unitdate> ca. 1988-1991 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Security — Staff Manual, </unittitle>
+						<unitdate> 1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> Security — RESTRICTED FILES </unittitle>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Sophomore Parents Weekend, </unittitle>
+						<unitdate> 1980-1988 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Student Committees and Organizations, </unittitle>
+						<unitdate> 1977-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Student Deposits, </unittitle>
+						<unitdate> 1973-1974 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Student Fellows, </unittitle>
+						<unitdate> 1981-1985 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Student Handbook, </unittitle>
+						<unitdate> 1982-1988 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Student Housing, </unittitle>
+						<unitdate> 1983-1989 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Student Profile, </unittitle>
+						<unitdate> 1975 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Students — Social Life, </unittitle>
+						<unitdate> 1986 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Town Houses, </unittitle>
+						<unitdate> 1971-1983 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Town Students, </unittitle>
+						<unitdate> 1978-1983 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Vassar Student Association — General, </unittitle>
+						<unitdate> 1979-1988 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Vassar Student Association — Budget, </unittitle>
+						<unitdate> 1977-1984 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unittitle> Vassar Student Association — Constitution and Grant of Authority, </unittitle>
+						<unitdate> 1969-1985 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. House Fellow Program</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unittitle> House Fellows - Manuals and House Fellow Committee Reports, </unittitle>
+						<unitdate>1973-1990 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unittitle> House Fellows - Lists, </unittitle>
+						<unitdate>1951-2002 </unitdate>
+						<physdesc> (1 folder) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unittitle> House Fellows - General, </unittitle>
+						<unitdate>1951-1961 </unitdate>
+						<physdesc> (2 folders) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unittitle> House Fellows - General — RESTRICTED FILES, </unittitle>
+						<unitdate> 1971-1977 </unitdate>
+						<physdesc> (6 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> House Fellows - General — RESTRICTED FILES, </unittitle>
+						<unitdate> 1977-1981, 1984-1992, 2002-2003 </unitdate>
+						<physdesc> (13 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> House Fellows - Reports — RESTRICTED FILES, </unittitle>
+						<unitdate> 1979-1992 </unitdate>
+						<physdesc> (12 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unittitle> Associate House Fellows - RESTRICTED FILES, </unittitle>
+						<unitdate> 1981-1987 </unitdate>
+						<physdesc> (3 folders)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

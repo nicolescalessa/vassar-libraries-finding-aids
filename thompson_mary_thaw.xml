@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_thompson_mary_thaw </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Mary Thaw Thompson Papers, 1880-1928</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Thompson, Mary Thaw, 1856-1944</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Mary Thaw Thompson Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1880-1928 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 1.3 cubic feet (5 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Material pertaining to Vassar College, the Association of Collegiate Alumnae, and the Association to Aid Scientific Research by Women.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Mary Thaw Thompson (1856-1944), daughter of capitalist and philanthropist William Thaw, was born in Pittsburgh, PA. She was graduated from Vassar in 1877, and two years later married William Reed Thompson, a banker. The Thompsons had five daughters, three of whom attended Vassar. Mrs. Thompson was twice president of the Associate Alumnae of Vassar College and served as an alumnae trustee of the college. With Mary Morris Pratt she was a donor of the Vassar Chapel. In addition, Mrs. Thompson generously responded to the college's varied needs, large and small. Many of Mrs. Thompson's gifts reflect her interest in religion, art, and music. She was also a supporter of the Assoication of Collegiate Alumnae and the Association to Aid Scientific Research by Women. In her response to the questionnare for the <emph render="italic"> Alumnae Biographical Register, </emph> Mrs. Thompson described herself well; she wrote, "No place on this questionnare for a gentlewoman serving her generation
+				without publicity in civic, benevolent, and social organizations." </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, minutes, reports, financial records, and other items pertaining to Vassar College alumnae matters, trustee duties, her donations to the Chapel, reunions of the Class of 1877, and her involvement with the Association of Collegiate Alumnae and the Association to Aid Scientific Research by Women. Correspondents include Charles Pratt, Mary Pratt (VC 1880), Mary L. Avery (VC 1868), Mary Augusta Jordan (VC1876); Ella McCaleb (VC 1878), James Monroe Taylor, and Henry Noble MacCracken.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-photograph-files-approximately-1865-2008">Vassar College Photograph Files (4 photographs)</archref></p>
+			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-student-materials-collection-1860-1984-bulk-1867-1950">Vassar College Student Materials Collection</archref></p>
+			<p><archref href="https://library.vassar.edu/specialcollections/rarebooks">Vassar College Alumnae Collection (publications)</archref></p>
+			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-henry-noble-maccracken-papers-1907-1968">Henry Noble MacCracken Papers — Correspondence with Alumnae </archref></p>
+			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-henry-noble-maccracken-papers-1907-1968">Henry Noble MacCracken Papers — Correspondence with Trustees</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Avery, Mary L.</persname>
+				<persname source="lcnaf" encodinganalog="600"> Jordan, Mary A. (Mary Augusta), 1855-1941</persname>
+				<persname source="lcnaf" encodinganalog="600"> McCaleb, Ella, 1856-1933</persname>
+				<persname source="lcnaf" encodinganalog="600"> Pratt, Mary</persname>
+				<persname source="lcnaf" encodinganalog="600"> Pratt, Charles</persname>
+				<persname source="lcnaf" encodinganalog="600"> Taylor, James Monroe, 1848-1916</persname>
+				<persname source="lcnaf" encodinganalog="600"> MacCracken, H. N. (Henry Noble), 1880-1970</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Board of Trustees</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Chapel</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Class of 1877</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Association of Collegiate Alumnae (U.S.)</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Association to Aid Scientific Research by Women</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Women's colleges--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College Trustees </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p><?xm-replace_text {Information about Acquisition}?></p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Mary Thaw Thompson Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence </unittitle>
+					<physdesc>(Boxes 1-2)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Vassar College Administrative Material</unittitle>
+					<physdesc>(Boxes 3-5)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Printed Materials </unittitle>
+					<physdesc>(Box 5)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. Correspondence </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1 </container>
+						<unittitle> Chapel/organ (chiefly, Charles and Mary Pratt), </unittitle>
+						<unitdate type="inclusive"> 1901-1905 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle> Chapel/organ , </unittitle>
+						<unitdate type="inclusive"> 1924-1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> President James Monroe Taylor, </unittitle>
+						<unitdate type="inclusive"> [1892-1909] </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4 </container>
+						<unittitle> President Henry Noble MacCracken, </unittitle>
+						<unitdate type="inclusive"> [1916-1937], n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.5 </container>
+						<unittitle> General Vassar, </unittitle>
+						<unitdate type="inclusive"> [1880-1920] </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.6 </container>
+						<unittitle> General Vassar, </unittitle>
+						<unitdate type="inclusive"> 1929-1923 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.7 </container>
+						<unittitle> General Vassar, </unittitle>
+						<unitdate type="inclusive"> 1924 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.8 </container>
+						<unittitle> General Vassar, </unittitle>
+						<unitdate type="inclusive"> 1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9 </container>
+						<unittitle> General Vassar, </unittitle>
+						<unitdate type="inclusive"> 1926 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.10 </container>
+						<unittitle> General Vassar, </unittitle>
+						<unitdate type="inclusive"> 1927, 1928, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.11 </container>
+						<unittitle> Vassar friends, </unittitle>
+						<unitdate type="inclusive"> 1890-1899 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.12 </container>
+						<unittitle> Vassar friends, </unittitle>
+						<unitdate type="inclusive"> 1900-1907 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.13 </container>
+						<unittitle> Vassar friends, </unittitle>
+						<unitdate type="inclusive"> 1908-1919 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.14 </container>
+						<unittitle> Vassar friends,</unittitle>
+						<unitdate type="inclusive"> 1920-1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.15 </container>
+						<unittitle> Vassar friends (including 50th reunion of V.C. Class of 1877), </unittitle>
+						<unitdate type="inclusive"> 1926, 1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.16 </container>
+						<unittitle> Vassar friends, </unittitle>
+						<unitdate type="inclusive"> 1928, 1929, 1934, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.17 </container>
+						<unittitle> Association to Aid Scientific Research by Women, </unittitle>
+						<unitdate type="inclusive"> 1929, 1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.18 </container>
+						<unittitle> Other associations, </unittitle>
+						<unitdate type="inclusive"> [1902-1925] </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.19 </container>
+						<unittitle> Family, </unittitle>
+						<unitdate type="inclusive"> 1904, 1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.20 </container>
+						<unittitle> Condolence letters to Elizabeth Thompson Reed after Mary Thaw Thompson's death </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.21 </container>
+						<unittitle> Non-Vassar friends, </unittitle>
+						<unitdate type="inclusive"> [1910-1939] </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II. Vassar College Administrative Material </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.22 </container>
+						<unittitle> Board of Trustees minutes, including some Executive Committee minutes and reports, </unittitle>
+						<unitdate type="inclusive"> 1921-1923 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.23 </container>
+						<unittitle> Board of Trustees minutes, </unittitle>
+						<unitdate type="inclusive"> 1924-1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.24 </container>
+						<unittitle> Board of Trustee minutes, </unittitle>
+						<unitdate type="inclusive"> 1926 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.25 </container>
+						<unittitle> Board of Trustee minutes, </unittitle>
+						<unitdate type="inclusive"> 1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.26 </container>
+						<unittitle> Copy of Mary Thaw Thompson's letter of resignation from the Board of Trustees </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.27 </container>
+						<unittitle> President's reports to the Board of Trustees, </unittitle>
+						<unitdate type="inclusive"> 1921-1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 3.28 </container>
+						<unittitle> Reports of the Joint Committee on Faculty Insurance to me Board of Trustees, </unittitle>
+						<unitdate type="inclusive"> 1924-1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.29 </container>
+						<unittitle> Reports of Trustees' Committee on Faculty and Studies, </unittitle>
+						<unitdate type="inclusive"> 1923-1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.30 </container>
+						<unittitle> Reports of Trustees' Endowment Comittee, </unittitle>
+						<unitdate type="inclusive"> 1923, 1927, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.31 </container>
+						<unittitle> Reports of Trustees' Committee on the Library, </unittitle>
+						<unitdate type="inclusive"> 1925, 1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.32 </container>
+						<unittitle> Reports of ad to Trustees' Committees on Religious Life at Vassar, </unittitle>
+						<unitdate type="inclusive"> 1925-1926, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.33 </container>
+						<unittitle> Report of the Committee on Nominations to the Board of Trustees, </unittitle>
+						<unitdate type="inclusive"> 1926 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.34 </container>
+						<unittitle> Report of the Committee on Buildings to the Board of Trustees, </unittitle>
+						<unitdate type="inclusive"> 1926 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.35 </container>
+						<unittitle> Report of the Committee on Museum and Laboratories to the Board of Trustees, </unittitle>
+						<unitdate type="inclusive"> 1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.36 </container>
+						<unittitle> Reports of and to the Trustees' Committee on Euthenics, </unittitle>
+						<unitdate type="inclusive"> 1923, 1926, 1927, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.37 </container>
+						<unittitle> Reports (and related material) of the Committee on Grounds to the Board of Trustees, </unittitle>
+						<unitdate type="inclusive"> 1922-1924, 1926, 1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.38 </container>
+						<unittitle> Reports of the Trustees' Committee on Art and Art Collections, </unittitle>
+						<unitdate type="inclusive"> 1924-1925, 1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.39 </container>
+						<unittitle> Reports of the Committee on Household Management, </unittitle>
+						<unitdate type="inclusive"> 1925-1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.40 </container>
+						<unittitle> Report to the Trustees' Committee on Music, </unittitle>
+						<unitdate type="inclusive"> 192? </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.41 </container>
+						<unittitle> Report to the Committee of Women Trustees of Vassar College, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.42 </container>
+						<unittitle> Report of the Alumnae House Management Committee, </unittitle>
+						<unitdate type="inclusive"> 1924 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.43 </container>
+						<unittitle> Report of the Trustees' Committee on Investments and Finance, </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.44 </container>
+						<unittitle> Report of the Trustees' Committee on Budget, (incomplete), </unittitle>
+						<unitdate type="inclusive"> 1923 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.45 </container>
+						<unittitle> Report of Trustees' Emergency Committee, (incomplete), </unittitle>
+						<unitdate type="inclusive"> n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.46 </container>
+						<unittitle> Reports of the General Manager and Consulting Engineer, </unittitle>
+						<unitdate type="inclusive"> 1925-1927 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 4.47 </container>
+						<unittitle> Report of the Faculty Committee on Commencement Program, </unittitle>
+						<unitdate type="inclusive"> [1927] </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.48 </container>
+						<unittitle> Financial reports, </unittitle>
+						<unitdate type="inclusive"> 1920-1921, 1921-1922 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.49 </container>
+						<unittitle> Financial reports, </unittitle>
+						<unitdate type="inclusive"> 1922-1923 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.50 </container>
+						<unittitle> Financial reports, </unittitle>
+						<unitdate type="inclusive"> 1923-1924 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.51 </container>
+						<unittitle> Financial reports, </unittitle>
+						<unitdate type="inclusive"> 1924-1925 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.52 </container>
+						<unittitle> Financial reports, </unittitle>
+						<unitdate type="inclusive"> 1924-1926 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.53 </container>
+						<unittitle> Financial reports, </unittitle>
+						<unitdate type="inclusive"> 1926-1927 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III. Printed Materials </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.54 </container>
+						<unittitle> A.A.V.C. reports </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.55 </container>
+						<unittitle> Vassar Class of 1877 </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.56 </container>
+						<unittitle> Vassar Chapel</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.57 </container>
+						<unittitle> Associations </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.58 </container>
+						<unittitle> Biographical information, including obituaries </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 5.59 </container>
+						<unittitle> Miscellaneous family</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

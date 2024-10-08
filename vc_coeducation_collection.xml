@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+ <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+  <eadid countrycode="us" mainagencycode="npv">npv_vc_coeducation_collection</eadid>
+  <filedesc>
+   <titlestmt>
+    <titleproper>Guide to the Clyde Griffen Coeducation and Men's Education Collection, 1958-1979 (bulk 1966-1979)</titleproper>
+    <author>Inventory prepared by Emma Gronbeck</author>
+   </titlestmt>
+   <publicationstmt>
+    <publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+    <address>
+     <addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+    </address>
+    <date>December 2022</date>
+   </publicationstmt>
+  </filedesc>
+  <profiledesc>
+   <creation>Finding aid encoded by Emma Gronbeck <date>November 2022</date>.</creation>
+   <langusage>Finding aid written in <language>English</language>.</langusage>
+  </profiledesc>
+ </eadheader>
+ <archdesc level="collection" type="inventory">
+  <did>
+   <head>Collection Summary</head>
+   <origination label="Creator:" encodinganalog="110">
+    <corpname>Vassar College</corpname>
+   </origination>
+   <origination label="Creators (additional):">
+    <persname encodinganalog="700">Griffen, Clyde, 1929-2015; </persname>
+    <corpname encodinganalog="710">Vassar College. Committee on a Coeducation for Tomorrow; </corpname>
+    <corpname encodinganalog="710">Vassar College. Dean of Freshmen</corpname>
+   </origination>
+   <unittitle label="Title:" encodinganalog="245">Clyde Griffen Coeducation and Men's Education Collection</unittitle>
+   <unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1958-1979</unitdate>
+   <physdesc label="Quantity:" encodinganalog="300$a">2.2 cubic feet (3 boxes)</physdesc>
+   <repository label="Repository:" encodinganalog="852$a">
+    <corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+   </repository>
+   <abstract label="Abstract:" encodinganalog="520$a">The collection contains records of Vassar College’s transition to a coeducational institution accumulated and created by History Department professor, one-time Dean of Freshmen, and co-chair of the Committee on a Coeducation for Tomorrow, Clyde Griffen. Materials include research on other American colleges and universities; correspondence with coeducational institutions; data gathered at Vassar regarding admissions, transfers, costs, and athletics; committee reports and correspondence; and clippings and other publications.</abstract>
+  </did>
+  <bioghist encodinganalog="545">
+   <head>Administrative History</head>
+   <p>In 1966, Vassar College created the Committee for New Dimensions as a response to social and financial pressures. The committee published its recommendations for changes that the college could make in the coming years, which included transitioning into a coeducational institution. Clyde Griffen, associate professor of History and Dean of Freshmen at the time, served as a consultant on the committee, as well as part-time assistant on the Vassar-Yale Study. In February of 1968, Griffen conducted the Study on Men's Education with assitance from associate professor of history George Langdon, Jr., in which he conducted research on coeducation and men's education at other institutions and explored options for different coeducational models at Vassar. The result of this study was the "Report on Men's Education," which offered a blueprint of how Vassar could change to accomodate a coeducational student body.</p>
+   <p>In July of 1968, the choice was made to allow men to attend Vassar College, which began with small exchange programs with Williams, Colgate, and Trinity Colleges. The Trustee Committee on Coeducation was formed several years later to evaluate the progress of the transition, and it published its final report in 1975. In 1978, a new committee entitled the Committee on a Coeducation for Tomorrow, which consisted primarily of faculty and students, was created to evaluate the progress of the coeducational model at Vassar through community engagement. Clyde Griffen was appointed Co-Chairman of this committee alongside Christine Havelock.</p>
+  </bioghist>
+  <scopecontent encodinganalog="520">
+   <head>Scope and Content Note</head>
+   <p>The collection contains records of Vassar College’s transition to a coeducational model, including research conducted on the transition to coeducation at other American colleges and universities as part of the Study on Men's Education conducted by Clyde Griffen and George Langdon; correspondence with coeducational institutions; data gathered at Vassar regarding admissions, transfers, costs, and athletics; reports and correspondence of the Committee on New Dimensions, the Trustee Committee on Coeducation, the Committee on a Coeducation for Tomorrow, the Vassar-Yale Study, and other related groups and committees; clippings and publications related to coeducation at Vassar and other institutions, and community responses to Vassar’s transition to a coeducational institution. The bulk of the material pertains to the Study on Men's Education and the Committee on a Coeducation for Tomorrow.</p>
+  </scopecontent>
+  <accessrestrict encodinganalog="506">
+   <head>Access</head>
+   <p>Box 3 contains records that are restricted due to student privacy issues. Please contact the Archives and Special Collections staff for more information. The rest of the collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+   <head>Restrictions on Use</head>
+   <p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>.</p>
+  </userestrict>
+  <relatedmaterial encodinganalog="544 1">
+   <head>Related Materials</head>
+   <p>
+    <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-vassar-college-board-trustees-records-1861-2013">Vassar College Board of Trustees Records</archref></p>
+   <p>
+    <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-office-president-records-alan-simpson-files-approximately-1955-1978">Vassar College Office of the President Records, Alan Simpson Files</archref></p>
+   <p>
+    <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-vassar-college-dean-students-records-1877-2003-bulk-1887-1992">Vassar College Dean of Students Records</archref></p>
+   <p>
+    <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-vice-president-finance-and-administration-records-1948-2000-bulk">Vassar College Vice President for Finance and Administration Records</archref></p>
+   <p>
+    <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-vassar-yale-study-records-1966-1967">Vassar-Yale Study Records</archref></p>
+  </relatedmaterial>
+  <controlaccess>
+   <head>Subject Headings</head>
+   <controlaccess>
+    <head>Names:</head>
+    <persname source="lcnaf" encodinganalog="600">Griffen, Clyde, 1929-2015</persname>
+   </controlaccess>
+   <controlaccess>
+    <head>Organizations:</head>
+    <corpname source="lcnaf" encodinganalog="610">Vassar College--Administration</corpname>
+   </controlaccess>
+   <controlaccess>
+    <head>Subjects:</head>
+    <subject source="lcsh" encodinganalog="650">Coeducation--United States</subject>
+    <subject source="lcsh" encodinganalog="650">Men--Education--United States</subject>
+    <subject source="lcsh" encodinganalog="650">University cooperation--United States</subject>
+    <subject source="lcsh" encodinganalog="650">Women--Education--United States</subject>
+    <subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+   </controlaccess>
+   <controlaccess>
+    <head> Document Types:</head>
+    <genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+    <genreform source="aat" encodinganalog="655">Correspondence</genreform>
+    <genreform source="aat" encodinganalog="655">Pamphlets</genreform>
+    <genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+    <genreform source="aat" encodinganalog="655">Reports</genreform>
+    <genreform source="aat" encodinganalog="655">Writings (documents)</genreform>
+   </controlaccess>
+   <controlaccess>
+    <head>VCL Categories:</head>
+    <subject source="local" encodinganalog="690">Vassar College Events and Issues</subject>
+   </controlaccess>
+  </controlaccess>
+  <odd encodinganalog="500">
+   <head>Encoding Information</head>
+   <p>Original encoding by Emma Gronbeck, November 2022.</p>
+  </odd>
+  <processinfo encodinganalog="583">
+   <head>Processing Information</head>
+   <p>Collection processed by Emma Gronbeck, November 2022.</p>
+  </processinfo>
+  <acqinfo encodinganalog="541">
+   <head>Acquisition Information</head>
+   <p>Transferred from the American Studies Department in 1989, having been collected and kept by Clyde Griffen during his work for the Committee on a Coeducation for the Future and the Study of Men's Education at Vassar College.</p>
+  </acqinfo>
+  <prefercite encodinganalog="524">
+   <head>Preferred Citation</head>
+   <p>Vassar College Drama Department Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+  </prefercite>
+  <dsc type="analyticover">
+   <head>Series List</head>
+   <c01 level="series">
+    <did>
+     <unittitle><ref target="series1">Series I.</ref> Coeducation at Vassar College, </unittitle>
+     <unitdate type="inclusive" normal="1958/1979">1958-1979</unitdate>
+     <physdesc>[1.2 cubic feet (2 boxes)]</physdesc>
+    </did>
+    <scopecontent>
+     <p>This series contains data, reports, clippings, committee minutes and memos, correspondence, writings, and publications related to coeducation at Vassar College.</p>
+     <p>Arranged alphabetically.</p>
+    </scopecontent>
+   </c01>
+   <c01 level="series">
+    <did>
+     <unittitle>
+      <ref target="series2">Series II.</ref> Coeducation at Other Institutions</unittitle>
+     <unitdate type="inclusive" normal="1960/1968">1960-1968</unitdate>
+     <physdesc>[1 cubic foot (1 box)]</physdesc>
+    </did>
+    <scopecontent>
+     <p>This series contains correspondence between Clyde Griffen and representatives of various academic institutions on the topic of coeducation and men’s education. Also included are writings, publications, and clippings related to coeducation and men’s education at various colleges and universities in the United States.</p>
+     <p>Arranged alphabetically.</p>
+    </scopecontent>
+   </c01>
+  </dsc>
+  <dsc type="in-depth">
+   <head>Container List</head>
+   <p/>
+   <c01 level="series" id="series1">
+    <did>
+     <unittitle>Series I. Coeducation at Vassar College, </unittitle>
+     <unitdate type="inclusive" normal="1958/1979">1958-1979</unitdate>
+    </did>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.01</container>
+      <unittitle>Admission process and considerations, </unittitle>
+      <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.02</container>
+      <unittitle>Admissions data, </unittitle>
+      <unitdate type="inclusive" normal="1958/1968">1958-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.03</container>
+      <unittitle>Admissions reports and review, </unittitle>
+      <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.04</container>
+      <unittitle>Alumnae/i statistics, 1967-1977, </unittitle>
+      <unitdate type="inclusive" normal="1977">1977</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.05</container>
+      <unittitle>Case studies on coeducation, </unittitle>
+      <unitdate type="inclusive" normal="1978">1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 1.06-1.07</container>
+      <unittitle>Clippings, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 1.08-1.11</container>
+      <unittitle>Clippings, </unittitle>
+      <unitdate type="inclusive" normal="1969">1969</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.12</container>
+      <unittitle>Clippings, </unittitle>
+      <unitdate type="inclusive" normal="1970">1970</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.13</container>
+      <unittitle>Clippings, </unittitle>
+      <unitdate type="inclusive" normal="1971">1971</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.14</container>
+      <unittitle>Committee on a Coeducation for Tomorrow, meeting minutes and memos, </unittitle>
+      <unitdate type="inclusive" normal="1978">1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.15</container>
+      <unittitle>Committee on a Coeducation for Tomorrow, member selection, </unittitle>
+      <unitdate type="inclusive" normal="1978">1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.16</container>
+      <unittitle>Committee on New Dimensions, Vol. I, </unittitle>
+      <unitdate type="inclusive" normal="196609/196612">1966 September-December</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.17</container>
+      <unittitle>Correspondence, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.18</container>
+      <unittitle>Faculty statements on coeducation, </unittitle>
+      <unitdate type="inclusive" normal="1978">1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.19</container>
+      <unittitle>Overview Committee, </unittitle>
+      <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.20</container>
+      <unittitle>Reports: Athletics, </unittitle>
+      <unitdate type="inclusive" normal="197804">1978 April</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.21</container>
+      <unittitle>Reports: "Comments for New Dimensions", </unittitle>
+      <unitdate type="inclusive" normal="1967">1967</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.22</container>
+      <unittitle>Reports: "Final Report of the Trustee Committee on Coeducation", </unittitle>
+      <unitdate type="inclusive" normal="197505">1975 May</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.23</container>
+      <unittitle>Reports: "President's Report to the Faculty", </unittitle>
+      <unitdate type="inclusive" normal="197109">1971 September</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.24</container>
+      <unittitle>Reports: "Proposals for Vassar's Athletics", </unittitle>
+      <unitdate type="inclusive" normal="197801">1978 January</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 1.25-1.26</container>
+      <unittitle>Reports: "Report of Comprehensive Planning Committee" [2 copies], </unittitle>
+      <unitdate type="inclusive" normal="196809">1968 September</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.27</container>
+      <unittitle>Reports: "Report on Coeducation at Vassar College," by Joe Katz, </unittitle>
+      <unitdate type="inclusive" normal="197312">1973 December</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.28</container>
+      <unittitle>Reports: "Report on Educational Costs", </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.29</container>
+      <unittitle>Self-Study Committee on Coeducation, </unittitle>
+      <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.30</container>
+      <unittitle>Speeches: "Vassar and the New Society," by Alan Pifer, </unittitle>
+      <unitdate type="inclusive" normal="1978">1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.31</container>
+      <unittitle>Student exchange program, </unittitle>
+      <unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 3.01</container>
+      <unittitle>[RESTRICTED] Student exchange program, </unittitle>
+      <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 3.02</container>
+      <unittitle>[RESTRICTED] Student statements on coeducation, </unittitle>
+      <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.32</container>
+      <unittitle>Subcommittees and reports, </unittitle>
+      <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.33</container>
+      <unittitle>Transfers and leaves of absence, </unittitle>
+      <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 3.03</container>
+      <unittitle>[RESTRICTED] Transfers and leaves of absence, </unittitle>
+      <unitdate type="inclusive" normal="1973/1978">1973-1978</unitdate>
+     </did>
+    </c02>
+   </c01>
+   <c01 level="series" id="series2">
+    <did>
+     <unittitle>Series II. Coeducation at Other Institutions, </unittitle>
+     <unitdate type="inclusive" normal="1960/1968">1960-1968</unitdate>
+    </did>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.34</container>
+      <unittitle>American Council on Education, correspondence, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.35</container>
+      <unittitle>Article: "Creative Tensions on Campus," by Glen W. Davidson, </unittitle>
+      <unitdate type="inclusive">undated</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.36</container>
+      <unittitle>Article: "What's Buggin' Them on Campus", </unittitle>
+      <unitdate type="inclusive" normal="1966">1966</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.37</container>
+      <unittitle>Brandeis University, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 1.38-1.40</container>
+      <unittitle>Brown University, <emph render="italic">Draft of a Working Paper for Education at Brown University</emph>, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.41</container>
+      <unittitle>Clippings, </unittitle>
+      <unitdate type="inclusive" normal="1960/1967">1960, 1967</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.42-1.43</container>
+      <unittitle>Eisenhower College, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.44</container>
+      <unittitle>The Four School Study, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.45</container>
+      <unittitle>Hampshire College, </unittitle>
+      <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 1.46</container>
+      <unittitle>International Education, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 1.47-2.01</container>
+      <unittitle>Kirkland College, </unittitle>
+      <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.02</container>
+      <unittitle>Livingston College (Rutgers), </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.03</container>
+      <unittitle>McIntosh Conference report, </unittitle>
+      <unitdate type="inclusive" normal="1968" certainty="approximate">circa 1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.04</container>
+      <unittitle>Mills College, </unittitle>
+      <unitdate type="inclusive" normal="1965/1968">1965-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.05</container>
+      <unittitle>New York Conference on Coeducation, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.06</container>
+      <unittitle>Newton High School (Massachusetts), </unittitle>
+      <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.07</container>
+      <unittitle>Oberlin College, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.08</container>
+      <unittitle>Pennsylvania State University, "Way-Out Committee Proposal", </unittitle>
+      <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.09</container>
+      <unittitle>Phillips Andover Academy, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.10</container>
+      <unittitle>Princeton University, </unittitle>
+      <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.11</container>
+      <unittitle>Publications, </unittitle>
+      <unitdate type="inclusive" normal="1965/1968">1965-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.12</container>
+      <unittitle>Riesman, David, correspondence, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.13</container>
+      <unittitle>Riesman, David, "The Academic Revolution," final galley, </unittitle>
+      <unitdate type="inclusive" normal="1968">1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.14</container>
+      <unittitle>Rockford College, </unittitle>
+      <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.15</container>
+      <unittitle>San Francisco State College, </unittitle>
+      <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.16</container>
+      <unittitle>Stanford University, </unittitle>
+      <unitdate type="inclusive" normal="1968" certainty="approximate">circa 1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.17</container>
+      <unittitle>SUNY Westbury, </unittitle>
+      <unitdate type="inclusive" normal="1967">1967</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 2.18-2.19</container>
+      <unittitle>University of California Santa Cruz, </unittitle>
+      <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.20</container>
+      <unittitle>University of Chicago, "Minutes of Seminar on Urbanization and Cultural Change", </unittitle>
+      <unitdate type="inclusive" normal="1963">1963</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.21-2.22</container>
+      <unittitle>Urban Studies programs, </unittitle>
+      <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folder 2.23</container>
+      <unittitle>Vassar-Yale Study: Cluster colleges, </unittitle>
+      <unitdate type="inclusive" normal="1967">1967</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 2.24-2.25</container>
+      <unittitle>Vassar-Yale Study: Claremont colleges, </unittitle>
+      <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
+     </did>
+    </c02>
+    <c02 level="file">
+     <did>
+      <container>Folders 2.26-2.27</container>
+      <unittitle>Wesleyan University, </unittitle>
+      <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+     </did>
+    </c02>
+   </c01>
+  </dsc>
+ </archdesc>
+</ead>

@@ -1,0 +1,5346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_archives_files</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Archives Files, circa 1855-1969 (bulk 1860-1914)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>May 2007</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>May 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Archives Files</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">circa 1855-1969</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1860-1914</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">13.6 cubic feet (15 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">An artificial collection of materials
+				documenting the history of Vassar College, collected by various departments of the
+				Library over several decades. Materials include letters, photographs, programs,
+				college circulars and other publications, building specifications, contracts, bills
+				and receipts, inventories, accounts, committee minutes, architectural and landscape
+				drawings, reports, and club constitutions and records.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>An artificial collection of materials documenting the history of Vassar College,
+				collected by various departments of the Library from multiple sources over several
+				decades. Materials include photographs, letters, programs, college circulars and
+				other publications, building specifications, contracts, bills and receipts,
+				inventories, accounts, committee minutes, architectural and landscape drawings,
+				reports, and club constitutions and records. Specific items include letters on the
+				structure of college education for women, admission requirements, and references for
+				some of Vassar's first students, 1860-1865; letters and applications of professors
+				and staff, 1860-1864; correspondence on the role of alumnae at Vassar, 1884-1915;
+				college journal containing entries on events, meetings, speakers, domestic concerns,
+				and social life, 1870-1871; notebooks of directives from the President's Office to
+				faculty and students, 1869-1883; correspondence of Adelaide Underhill and President
+				MacCracken about the Library, 1915-1924; reports and correspondence relating to the
+				Maids' Clubhouse, 1914; minutes, reports, memoranda, and correspondence of college
+				trustees, 1861-1936; original manuscript and typescript reports by the college
+				president, 1866-1918; correspondence, sketches, estimates, and bills relating to
+				construction of the first college facilities; and manuscript and typescript reports
+				from College departments, the comptroller, the Lady Principal, the Library, and the
+				Physician, 1866-1869.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><extref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/8ef34aa7-3fda-4cce-964f-1ef5f8fb50e0"
+					>Henry Noble MacCracken Papers</extref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Caldwell, Samuel L. (Samuel Lunt), 1820-1889</persname>
+				<persname source="lcnaf" encodinganalog="600">Jewett, Milo P.</persname>		
+				<persname source="lcnaf" encodinganalog="600">MacCracken, H. N. (Henry Noble), 1880-1970</persname>
+				<persname source="lcnaf" encodinganalog="600">Raymond, John H. (John Howard), 1814-1878</persname>
+				<persname source="lcnaf" encodinganalog="600">Renwick, James, 1818-1895</persname>
+				<persname source="lcnaf" encodinganalog="600">Taylor, James Monroe, 1848-1916</persname>
+				<persname source="lcnaf" encodinganalog="600">Underhill, Adelaide, 1860-1936</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Admission</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Buildings</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Employees</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--History</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Presidents</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Board of Trustees</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Comptroller</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Lady Principal</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Library</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Landscape architecture--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Education</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Societies and clubs</subject>
+				<subject source="lcsh" encodinganalog="650">Women college students--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Account books</genreform>
+				<genreform source="aat" encodinganalog="655">Administrative records</genreform>
+				<genreform source="aat" encodinganalog="655">Architectural drawings</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Minutes (administrative records)</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Administrative Offices and Functions</subject>
+				<subject source="local" encodinganalog="690">Vassar College Presidents</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, May 2007. Updated by Emma Gronbeck, June 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Materials in Box 15 incorperated into collection by Emma Gronbeck, June 2024, from unprocessed materials in the College Archives.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>An artificial collection, collected by various departments of the Library from
+				multiple sources over several decades.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Archives Files, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Folder List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.1</container>
+					<unittitle>Admissions — Requirements for admission, letters of acceptance,
+						letters of reference, </unittitle>
+					<unitdate type="inclusive">1860-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.2</container>
+					<unittitle>Admissions — Requirements for admission, exam cards, </unittitle>
+					<unitdate type="inclusive">1866-1888</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.3</container>
+					<unittitle>Admissions — Admission of Packer Institute Students, letters from
+						Packer President Truman J. Backus, report of LeRoy Cooley on visit to
+						Packer, </unittitle>
+					<unitdate type="inclusive">1886</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.4</container>
+					<unittitle>Advertising — (includes undated clippings), </unittitle>
+					<unitdate type="inclusive">1865, 1881, 1884, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.5</container>
+					<unittitle>Advertising — Broadsheet, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Alumnae Association of Vassar College — SEE
+							ALSO: Associate Alumnae</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.6</container>
+					<unittitle>Alumnae Association of Vassar College — AAVC Reports, Letters to
+						Alumnae, </unittitle>
+					<unitdate type="inclusive">1871-1894, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.7</container>
+					<unittitle>Alumnae Association of Vassar College — Academic Council of Alumnae
+						Correspondence between members of council and President Taylor, </unittitle>
+					<unitdate type="inclusive">1912-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.8</container>
+					<unittitle>Alumnae Association of Vassar College — Circular Letter to Trustees
+						Concerning the State of the College, </unittitle>
+					<physdesc>[2 Copies of letter, ITS, IMS]</physdesc>
+					<unitdate type="inclusive">1884</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.9</container>
+					<unittitle>Alumnae Association of Vassar College — Papers Concerning Alumnae
+						Representation, petitions to Board of Trustees, corr., outline of a plan for
+						Alumnae Representation, </unittitle>
+					<unitdate type="inclusive">1887-1888, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.10</container>
+					<unittitle>Alumnae Association of Vassar College — Alumnae Monthly
+						Correspondence between Elsie Hill and President Taylor re: Vassar Alumnae
+						Monthly, </unittitle>
+					<unitdate type="inclusive">1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.11</container>
+					<unittitle>Alumnae Association of Vassar College — Alumnae Trustees plan for
+						nomination of alumnae trustees, </unittitle>
+					<unitdate type="inclusive">1918, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.1</container>
+					<unittitle>Alumnae Association of Vassar College — Letter to Mary C. Raymond
+						from her sister, reporting on activities of the VC Alumnae Association and a
+						visit to Vassar College, </unittitle>
+					<unitdate type="inclusive">[1885?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.12</container>
+					<unittitle>Ancient Languages — Applications for Chairman and Professorships, </unittitle>
+					<unitdate type="inclusive">1862-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.13</container>
+					<unittitle>Modern Languages — Applications for Chairman and Professorships A-J, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.14</container>
+					<unittitle>Modern Languages — Applications for Chairman and Professorships K, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.15</container>
+					<unittitle>Modern Languages — Applications for Chairman and Professorships L, </unittitle>
+					<unitdate type="inclusive">1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.16</container>
+					<unittitle>Modern Languages — Applications for Chairman and Professorships M-Z, </unittitle>
+					<unitdate type="inclusive">1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.17</container>
+					<unittitle>Ancient and Modern Languages Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.18</container>
+					<unittitle>Ancient and Modern Languages Department — Reports, </unittitle>
+					<unitdate type="inclusive">1869-1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.19</container>
+					<unittitle>Ancient and Modern Languages Department — Reports, </unittitle>
+					<unitdate type="inclusive">1872-1880</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.20</container>
+					<unittitle>Ancient and Modern Languages Department — Reports, </unittitle>
+					<unitdate type="inclusive">1881-1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.21</container>
+					<unittitle>Anderson, Martin Brewer (VC Trustee, President of U. of Rochester) —
+						Letters to Matthew Vassar, Cyrus Swan, John H. Raymond, and Samuel Caldwell, </unittitle>
+					<unitdate type="inclusive">1860-1880</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.22</container>
+					<unittitle>Applications — Applications for positions of bookkeeper, Engineering/
+						Machinist, Assistant Housekeeper, Mechanic, Nurse, Steam Operator, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.23</container>
+					<unittitle>Applications — Applications for position of Matron, </unittitle>
+					<unitdate type="inclusive">1862-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.24</container>
+					<unittitle>Art Department — Reports</unittitle>
+					<unitdate type="inclusive">1885-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.25</container>
+					<unittitle>Art Department — Reports, </unittitle>
+					<unitdate type="inclusive">1891-1898</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.26</container>
+					<unittitle>Art Department — Reports, </unittitle>
+					<unitdate type="inclusive">1900-1905, 1911-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.27</container>
+					<unittitle>Art Gallery — Correspondence re: purchases for Gallery, </unittitle>
+					<unitdate type="inclusive">1873-1875, 1893, 1895, 1903-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.28</container>
+					<unittitle>Art Gallery — Correspondence re: Ehrich gift, </unittitle>
+					<unitdate type="inclusive">1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.29</container>
+					<unittitle>Art Gallery — Inventory of Art Collection, by Henry Van Ingen,
+						Professor of Art, </unittitle>
+					<unitdate type="inclusive">1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.30</container>
+					<unittitle>Art Gallery — Report of the [Trustees] Committee, </unittitle>
+					<unitdate type="inclusive">1864, 1877-1878</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.31</container>
+					<unittitle>Art Gallery — Rules of the Art Gallery by Board of Trustees, </unittitle>
+					<unitdate type="inclusive">1867</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.32</container>
+					<unittitle>Associate Alumnae — Correspondence re: Barrows Resolution, </unittitle>
+					<unitdate type="inclusive">1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.33</container>
+					<unittitle>Associate Alumnae — Correspondence, </unittitle>
+					<unitdate type="inclusive">1911-1920, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.34</container>
+					<unittitle>Associate Alumnae — Meeting, </unittitle>
+					<unitdate type="inclusive">1900</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.35</container>
+					<unittitle>Astronomy Department — Application (Abbe) for Professor of Astronomy, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.36</container>
+					<unittitle>Astronomy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.37</container>
+					<unittitle>Astronomy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1872-1878</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.38</container>
+					<unittitle>Astronomy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1878-1881, 1882-1888</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.39</container>
+					<unittitle>Astronomy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1888-1892, 1893-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.40</container>
+					<unittitle>Astronomy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1897-1903</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.41</container>
+					<unittitle>Astronomy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1903-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.42</container>
+					<unittitle>Astronomy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1910-1914, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.43</container>
+					<unittitle>Athletic Association — re: new tennis courts, </unittitle>
+					<unitdate type="inclusive">1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.44</container>
+					<unittitle>Atwater, Edward S. — Resignation from Board of Trustees, </unittitle>
+					<unitdate type="inclusive">1918</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.45</container>
+					<unittitle>Backus, Truman S. (Professor of English 1867-83) — Letter to J.H.
+						Raymond, </unittitle>
+					<unitdate type="inclusive">1877</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.46</container>
+					<unittitle>Barnard, Henry — Letter to H. P. Jewett, </unittitle>
+					<unitdate type="inclusive">1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.47</container>
+					<unittitle>Bawden, H. Heath — Papers relating to discharge from University of
+						Cincinnati, resignation from Vassar, </unittitle>
+					<unitdate type="inclusive">1907-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.48</container>
+					<unittitle>Bequests to Vassar College, </unittitle>
+					<unitdate type="inclusive">1879-1954</unitdate>
+					<physdesc>[SEE ALSO: Lyon, Joseph B.]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.49</container>
+					<unittitle>Bible Department, </unittitle>
+					<unitdate type="inclusive">1899-1900, 1901-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Biology Department — before 1889, SEE: Natural
+							History Department</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.50</container>
+					<unittitle>Biology Department — Reports, </unittitle>
+					<unitdate type="inclusive">1889-1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.51</container>
+					<unittitle>Biology Department — Reports, </unittitle>
+					<unitdate type="inclusive">1894-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.52</container>
+					<unittitle>Biology Department — Reports, </unittitle>
+					<unitdate type="inclusive">1902-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.53</container>
+					<unittitle>Biology Department — Reports and Correspondence, </unittitle>
+					<unitdate type="inclusive">1911-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.54</container>
+					<unittitle>Bishop, Nathan (Trustee 1861-1880) — Letters to J.H. Raymond, </unittitle>
+					<unitdate type="inclusive">1872-1875</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.55</container>
+					<unittitle>Borden Fund — Correspondence, </unittitle>
+					<unitdate type="inclusive">1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.56</container>
+					<unittitle>Buckland, Rev. R.J.W. — Letter to J. H. Raymond, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.57</container>
+					<unittitle>Butler, William Allen (Trustee 1875-85) — Letter to President
+						Caldwell, </unittitle>
+					<unitdate type="inclusive">1878</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.58</container>
+					<unittitle>Caldwell, Samuel L. (President 1875-85) — Newspaper clippings and
+						correspondence from Elizabeth Hamlin VC 1874 and others regarding President
+						Caldwell, </unittitle>
+					<unitdate type="inclusive">1879-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.59</container>
+					<unittitle>Caldwell, Samuel L. — Letter, </unittitle>
+					<unitdate type="inclusive">1884 Apr 23</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.2</container>
+					<unittitle>Caldwell, Samuel L. — Correspondence with Katharine P. Loring
+						(Harvard University, Examinations for women), </unittitle>
+					<unitdate type="inclusive">1881</unitdate>
+					<physdesc>[3 letters]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.60</container>
+					<unittitle>Cecil Pictures — Correspondence relating to Maure paintings and Sarah
+						Cecil, VC 1884, </unittitle>
+					<unitdate type="inclusive">1896-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.3</container>
+					<unittitle>Chambers, Frank (trustee) — Resignation letter to Henry V. Pelton, </unittitle>
+					<unitdate type="inclusive">1920 May 27</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.61</container>
+					<unittitle>Chapel — Attendance. Correspondence and statistics, </unittitle>
+					<unitdate type="inclusive">1916-1921</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.62</container>
+					<unittitle>Chapel — Attendance: Faculty. Correspondence, </unittitle>
+					<unitdate type="inclusive">1916</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.63</container>
+					<unittitle>Chapel — Hymnal. Correspondence and example, </unittitle>
+					<unitdate type="inclusive">1915-1916</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 1.64</container>
+					<unittitle>Chapel — Building specifications and laying of corner-stone, </unittitle>
+					<unitdate type="inclusive">circa 1902-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Charter - SEE: Trustees.
+						Charter</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.38</container>
+					<unittitle>Chemistry Department — "Mr. Vassar's artesian well - analysis by the chemistry class of 1877," </unittitle>
+					<unitdate type="inclusive">1877 May 14</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 2.1</container>
+					<unittitle>Chemistry Department — Reports, </unittitle>
+					<unitdate type="inclusive">1894-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 2.2</container>
+					<unittitle>Chemistry Department — Reports, </unittitle>
+					<unitdate type="inclusive">1897-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 2.3</container>
+					<unittitle>Chemistry Department — Reports, </unittitle>
+					<unitdate type="inclusive">1904-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 2.4</container>
+					<unittitle>Chemistry Department — Reports, </unittitle>
+					<unitdate type="inclusive">1911-1914, 1918</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 2.5</container>
+					<unittitle>Choir — Petition for gowns, </unittitle>
+					<unitdate type="inclusive">1915</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 2.6</container>
+					<unittitle>Christian Association — Reports, </unittitle>
+					<unitdate type="inclusive">1910-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1, Folder 2.7</container>
+					<unittitle>Church, Emma — Correspondence, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.8</container>
+					<unittitle>Circulars [Prospectus], </unittitle>
+					<unitdate type="inclusive">1864-1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.9</container>
+					<unittitle>Class Day — Reports, </unittitle>
+					<unitdate type="inclusive">1893, 1896-1898</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.10</container>
+					<unittitle>Class Day — Reports, </unittitle>
+					<unitdate type="inclusive">1900-1901, 1903</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.11</container>
+					<unittitle>Class Day — Reports, </unittitle>
+					<unitdate type="inclusive">1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.12</container>
+					<unittitle>Class Day — Reports, </unittitle>
+					<unitdate type="inclusive">1905-1908</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.13</container>
+					<unittitle>Class Day — Reports, </unittitle>
+					<unitdate type="inclusive">1909-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.14</container>
+					<unittitle>College Avenue — Extension of College Avenue, </unittitle>
+					<unitdate type="inclusive">1868 Jul 25</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.15</container>
+					<unittitle>Comptroller, </unittitle>
+					<unitdate type="inclusive">1941 Dec 15, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.16</container>
+					<unittitle>Comptroller, </unittitle>
+					<unitdate type="inclusive">1942 Jan 12 - 1969 Jun 22</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.17</container>
+					<unittitle>"Conscience Money": for stolen spoon - Letter, </unittitle>
+					<unitdate type="inclusive">1891 Dec 5</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.18</container>
+					<unittitle>Corridor Teachers — Duties, letters to Miss Lyman, </unittitle>
+					<unitdate type="inclusive">circa 1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.19</container>
+					<unittitle>Corridor Teachers — Log Books, </unittitle>
+					<unitdate type="inclusive">1869-1875</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.20</container>
+					<unittitle>Curriculum, resolutions, recommendations, reports, </unittitle>
+					<unitdate type="inclusive">circa 1886-1910, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.21</container>
+					<unittitle>Denominations of students, faculty, and teachers, </unittitle>
+					<unitdate type="inclusive">1865-1926</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.4</container>
+					<unittitle>Dean, Willard L. — Letter from nephew and Bond Agreement with Vassar
+						College for the position of Treasurer, </unittitle>
+					<unitdate type="inclusive">1893, 1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.5</container>
+					<unittitle>Deane, John H. (VC Trustee) - Report on the estate of John H. Deane
+						(printed), </unittitle>
+					<unitdate type="inclusive">1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.22</container>
+					<unittitle>Denominational Statistics of VC [with 1872 letter from Nathan
+						Bishop], </unittitle>
+					<unitdate type="inclusive">1865-1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.23</container>
+					<unittitle>Directory — petition to publish directory, </unittitle>
+					<unitdate type="inclusive">1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Drawing and Painting Department — SEE ALSO: Art
+							Department</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.24</container>
+					<unittitle>Drawing and Painting Department — Applications for Professor of
+						Drawing and Painting, </unittitle>
+					<unitdate type="inclusive">1861-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.25</container>
+					<unittitle>Drawing and Painting Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1870</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.26</container>
+					<unittitle>Drawing and Painting Department, </unittitle>
+					<unitdate type="inclusive">1870-1874</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.27</container>
+					<unittitle>Drawing and Painting Department, </unittitle>
+					<unitdate type="inclusive">1874-1878</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.28</container>
+					<unittitle>Drawing and Painting Department, </unittitle>
+					<unitdate type="inclusive">1878-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.29</container>
+					<unittitle>Economics and Sociology Department — Reports, </unittitle>
+					<unitdate type="inclusive">1893-1900</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.30</container>
+					<unittitle>Economics and Sociology Department — Reports, </unittitle>
+					<unitdate type="inclusive">1900-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.31</container>
+					<unittitle>Economics and Sociology Department — Reports, </unittitle>
+					<unitdate type="inclusive">1907-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.32</container>
+					<unittitle>Economics and Sociology Department — Economics Department Survey
+						Social Work of Former Students, </unittitle>
+					<unitdate type="inclusive">1906</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.33</container>
+					<unittitle>Egyptian Collection, </unittitle>
+					<unitdate type="inclusive">1903-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.34</container>
+					<unittitle>Endowment, </unittitle>
+					<unitdate type="inclusive">circa 1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.35</container>
+					<unittitle>Endowment — Class Gifts, </unittitle>
+					<unitdate type="inclusive">circa 1906-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.36</container>
+					<unittitle>Endowment — Plans for First Endowment $100,000, </unittitle>
+					<unitdate type="inclusive">1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.37</container>
+					<unittitle>English Department — English [including Spoken English, Rhetoric and
+						Belles Lettres] Applications B-D, </unittitle>
+					<unitdate type="inclusive">circa 1861-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.38</container>
+					<unittitle>English Department — English [including Spoken English, Rhetoric and
+						Belles Lettres] Applications E-W, </unittitle>
+					<unitdate type="inclusive">circa 1861-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.39</container>
+					<unittitle>English Department — Course Material, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.40</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">circa 1860s</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.41</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.42</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1871-1878</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.43</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1878-1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.44</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1889-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.45</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1892-1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.46</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1896-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.47</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1899-1900</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.48</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1900-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.49</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1902-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.50</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1904-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.51</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1905-1906</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.52</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1906-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.53</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1907-1908</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.54</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1908-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.55</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1910-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.56</container>
+					<unittitle>English Department — Reports, </unittitle>
+					<unitdate type="inclusive">1911-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 14</container>
+					<unittitle>Event Attendance Register, </unittitle>
+					<unitdate type="inclusive">[circa 1887-1893]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.57</container>
+					<unittitle>Examinations, Entrance Examinations and Certificates, Plans of
+						Examinations, </unittitle>
+					<unitdate type="inclusive">1870-1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.58</container>
+					<unittitle>Expense Accounts and Estimates, </unittitle>
+					<unitdate type="inclusive">1863-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.59</container>
+					<unittitle>Expense Accounts and Estimates, </unittitle>
+					<unitdate type="inclusive">1870-1879</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.59a</container>
+					<unittitle>Expense Accounts and Estimates, </unittitle>
+					<physdesc>[Notebook]</physdesc>
+					<unitdate type="inclusive">1884-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2, Folder 2.60</container>
+					<unittitle>Expense Accounts and Estimates, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.1</container>
+					<unittitle>Faculty — Applications - Teaching Miscellaneous, </unittitle>
+					<unitdate type="inclusive">1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.2</container>
+					<unittitle>Faculty — Appointments, </unittitle>
+					<unitdate type="inclusive">circa 1865-1919</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.3</container>
+					<unittitle>Faculty — Basis of Appointment and Promotion, </unittitle>
+					<unitdate type="inclusive">1911-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.4</container>
+					<unittitle>Faculty — Committees, </unittitle>
+					<unitdate type="inclusive">1867-1918</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.5</container>
+					<unittitle>Faculty — Committee on Advanced Degrees, </unittitle>
+					<unitdate type="inclusive">1891-1906</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.6</container>
+					<unittitle>Faculty — Certificate Committee, </unittitle>
+					<unitdate type="inclusive">1887-1895</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.7</container>
+					<unittitle>Faculty — Certificate Committee, </unittitle>
+					<unitdate type="inclusive">1896-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.8</container>
+					<unittitle>Faculty — Committee on Commencement, </unittitle>
+					<unitdate type="inclusive">1895-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.9</container>
+					<unittitle>Faculty — Committee (Misc.) [Arranged Alphabetically], </unittitle>
+					<unitdate type="inclusive">1868-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.10</container>
+					<unittitle>Faculty — Curriculum Committee, </unittitle>
+					<unitdate type="inclusive">1888-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.11</container>
+					<unittitle>Faculty — Curriculum Committee, </unittitle>
+					<unitdate type="inclusive">1893-1895</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.12</container>
+					<unittitle>Faculty — Curriculum Committee, </unittitle>
+					<unitdate type="inclusive">1896-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.13</container>
+					<unittitle>Faculty — Curriculum Committee, </unittitle>
+					<unitdate type="inclusive">1900-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.14</container>
+					<unittitle>Faculty — Curriculum Committee, </unittitle>
+					<unitdate type="inclusive">1903-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.15</container>
+					<unittitle>Faculty — Curriculum Committee, </unittitle>
+					<unitdate type="inclusive">1906-1908</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.16</container>
+					<unittitle>Faculty — Curriculum Committee, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.17</container>
+					<unittitle>Faculty — Committee on Degrees, </unittitle>
+					<unitdate type="inclusive">1887-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.18</container>
+					<unittitle>Faculty — Committee on General Catalogue, </unittitle>
+					<unitdate type="inclusive">1882-1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.19</container>
+					<unittitle>Faculty — Committee on Excuses and Absences, </unittitle>
+					<unitdate type="inclusive">1891, 1904-1905, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.20</container>
+					<unittitle>Faculty — Report of Special Committee on Evening Classes, </unittitle>
+					<unitdate type="inclusive">1914 Feb 23</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.21</container>
+					<unittitle>Faculty — Committee Report, </unittitle>
+					<unitdate type="inclusive">1921</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.22</container>
+					<unittitle>Faculty — Committee on Schedules, </unittitle>
+					<unitdate type="inclusive">1896-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.23</container>
+					<unittitle>Faculty — Committee Reports, </unittitle>
+					<unitdate type="inclusive">1915-1916, 1918-1919</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.24</container>
+					<unittitle>Faculty — Leaves of Absence, </unittitle>
+					<unitdate type="inclusive">1916-1919, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.25</container>
+					<unittitle>Faculty — Petition Regarding Academic Costume, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.26</container>
+					<unittitle>Faculty — Resolutions Upon the Deaths of Faculty Members, </unittitle>
+					<unitdate type="inclusive">1889-1898</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.27</container>
+					<unittitle>Faculty — Salaries Report, </unittitle>
+					<unitdate type="inclusive">1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Fire — SEE ALSO: <archref
+								href="https://digitallibrary.vassar.edu/collections/finding-aids/8ef34aa7-3fda-4cce-964f-1ef5f8fb50e0"
+								>Henry Noble MacCracken Papers</archref></emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.28</container>
+					<unittitle>Fire — Several Reports on Fire, </unittitle>
+					<unitdate type="inclusive">1918 Feb</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.29</container>
+					<unittitle>Fire — Reconstruction Work and Statement of Losses, </unittitle>
+					<unitdate type="inclusive">1918 Feb 12</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.30</container>
+					<unittitle>Fire — Alarm Notice, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.31</container>
+					<unittitle>Founder's Day, </unittitle>
+					<unitdate type="inclusive">1866-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.32</container>
+					<unittitle>Founder's Day, </unittitle>
+					<unitdate type="inclusive">1895-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.33</container>
+					<unittitle>Founder's Day, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.6</container>
+					<unittitle>Fox, Alanson J. — Memorial statement draft from VC Board of Trustees, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">French Department — SEE ALSO: Ancient and
+							Modern Languages</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.34</container>
+					<unittitle>French Department — Reports, </unittitle>
+					<unitdate type="inclusive">1869-1870, 1872-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.35</container>
+					<unittitle>French Department — Reports, </unittitle>
+					<unitdate type="inclusive">1882-1886, 1887-1890</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.36</container>
+					<unittitle>French Department — Reports, </unittitle>
+					<unitdate type="inclusive">1890-1895</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.37</container>
+					<unittitle>French Department — Reports, </unittitle>
+					<unitdate type="inclusive">1895-1896, 1902-1903</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.7</container>
+					<unittitle>French Department — Sée, Rosalie - Correspondence with R. Wright and
+						employment contract, </unittitle>
+					<unitdate type="inclusive">1879-1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.38</container>
+					<unittitle>Gas Supply and Works — Gas Supply, </unittitle>
+					<unitdate type="inclusive">1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.39</container>
+					<unittitle>Gas Supply and Works — Gas Works and Boiler House Construction, </unittitle>
+					<unitdate type="inclusive">1863-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.40</container>
+					<unittitle>Gate Lodge — Construction, </unittitle>
+					<unitdate type="inclusive">1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.8</container>
+					<unittitle>General Education Board — Letter to Henry V. Pelton, </unittitle>
+					<unitdate type="inclusive">1916 Feb 24</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.41</container>
+					<unittitle>General Superintendent, </unittitle>
+					<unitdate type="inclusive">1867-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Geology and Mineralogy Department — before
+							1879, SEE: Natural History Department</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.42</container>
+					<unittitle>Geology and Mineralogy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1879-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.43</container>
+					<unittitle>Geology and Mineralogy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1892-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.44</container>
+					<unittitle>Geology and Mineralogy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1897-1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.45</container>
+					<unittitle>Geology and Mineralogy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1901-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.46</container>
+					<unittitle>German Department — Reports, </unittitle>
+					<unitdate type="inclusive">1873-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.47</container>
+					<unittitle>German Department — Reports, </unittitle>
+					<unitdate type="inclusive">1885-1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.48</container>
+					<unittitle>German Department — Reports, </unittitle>
+					<unitdate type="inclusive">1894-1898</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3, Folder 3.49</container>
+					<unittitle>German Department — Reports, </unittitle>
+					<unitdate type="inclusive">1898-1903</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.50</container>
+					<unittitle>German Department — Reports, </unittitle>
+					<unitdate type="inclusive">1903-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.51</container>
+					<unittitle>German Department — Reports, </unittitle>
+					<unitdate type="inclusive">1910-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.52</container>
+					<unittitle>Gifts, </unittitle>
+					<unitdate type="inclusive">1887-1934</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Greek Department — SEE ALSO: Ancient and Modern
+							Language Department</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.53</container>
+					<unittitle>Greek Department — Reports, </unittitle>
+					<unitdate type="inclusive">1889-1898</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.54</container>
+					<unittitle>Greek Department — Reports, </unittitle>
+					<unitdate type="inclusive">1898-1903</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.55</container>
+					<unittitle>Greek Department — Reports, </unittitle>
+					<unitdate type="inclusive">1903-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.56</container>
+					<unittitle>Grounds — Plan for Improving the Grounds, </unittitle>
+					<unitdate type="inclusive">1917</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.57</container>
+					<unittitle>Grounds — Application for Groundskeeper, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.9</container>
+					<unittitle>Hague, William H. — Correspondence and memorial statement on Hague
+						from VC Board of Trustees, </unittitle>
+					<unitdate type="inclusive">1871, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.58</container>
+					<unittitle>Higher Degrees, </unittitle>
+					<unitdate type="inclusive">1885-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">History Department — including History and
+							Economics</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.59</container>
+					<unittitle>History Department — Applications, </unittitle>
+					<unitdate type="inclusive">1856-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.60</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1866, 1887-1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.61</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1889-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.62</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1892-1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.63</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1894-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.64</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1897-1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.65</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1901-1908</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.66</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1908-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.67</container>
+					<unittitle>History Department — Reports, </unittitle>
+					<physdesc>[photocopies]</physdesc>
+					<unitdate type="inclusive">1914-1918</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.39</container>
+					<unittitle>Housekeeping Order Book, </unittitle>
+					<unitdate type="inclusive">1880-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.68</container>
+					<unittitle>Housing — [Faculty and Students], </unittitle>
+					<unitdate type="inclusive">1874-1923</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.69</container>
+					<unittitle>Infirmary letter, Elizabeth B. Thelberg - James M. Taylor, </unittitle>
+					<unitdate type="inclusive">1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.10</container>
+					<unittitle>Innis, George — Letter from [?] Winslow, memorial statement draft
+						from VC Trustees, </unittitle>
+					<unitdate type="inclusive">1873, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.70</container>
+					<unittitle>Insurance, </unittitle>
+					<unitdate type="inclusive">1903</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.71</container>
+					<unittitle>Janitor's Office, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.72</container>
+					<unittitle>Janitor's Office — Application for Position of Janitor, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.11</container>
+					<unittitle>Jewett, Milo P. — Letters to Sarah J. Hale, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+					<physdesc>[2 letters with transcripts]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.73</container>
+					<unittitle>Jewett House, </unittitle>
+					<unitdate type="inclusive">1906-1908</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.12</container>
+					<unittitle>Kapp, Caecilia (Prof. of German) — Letter from J. H. Raymond, </unittitle>
+					<unitdate type="inclusive">1877 Jul 25</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.74</container>
+					<unittitle>Laboratories, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.75</container>
+					<unittitle>Laboratories — Vassar Brothers Laboratory, </unittitle>
+					<unitdate type="inclusive">1879</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.76</container>
+					<unittitle>Lady Principal — [Applications], </unittitle>
+					<unitdate type="inclusive">1861-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.77</container>
+					<unittitle>Lady Principal — Correspondence, </unittitle>
+					<unitdate type="inclusive">1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.78</container>
+					<unittitle>Lady Principal — Correspondence [Circular letters to parents], </unittitle>
+					<unitdate type="inclusive">1867-1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.79</container>
+					<unittitle>Lady Principal — Guidelines</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.80</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1865-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.81</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1869-1871, 1872-1875</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.82</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1875-1880</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.83</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1880-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.84</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1885-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.85</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1891-1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.86</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1896-1900, 1901-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.87</container>
+					<unittitle>Lady Principal — Report, </unittitle>
+					<unitdate type="inclusive">1902-1903, 1906-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Latin Department — SEE ALSO: Ancient and Modern
+							Language and Literature; Greek and Latin Language and Literature;
+							Ancient Language</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.88</container>
+					<unittitle>Latin Department — Reports, </unittitle>
+					<unitdate type="inclusive">1889-1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.89</container>
+					<unittitle>Latin Department — Reports, </unittitle>
+					<unitdate type="inclusive">1896-1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.90</container>
+					<unittitle>Latin Department — Reports, </unittitle>
+					<unitdate type="inclusive">1901-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.91</container>
+					<unittitle>Latin Department — Reports, </unittitle>
+					<unitdate type="inclusive">1907-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.92</container>
+					<unittitle>Laundry — Specifications for Building, </unittitle>
+					<unitdate type="inclusive">1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.93</container>
+					<unittitle>Leases — Davies Property, </unittitle>
+					<unitdate type="inclusive">1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.94</container>
+					<unittitle>Leases — Windsor Hotel Lease, </unittitle>
+					<unitdate type="inclusive">1895 Aug 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 3.95</container>
+					<unittitle>Lectures, </unittitle>
+					<unitdate type="inclusive">1879-1887</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.1</container>
+					<unittitle>Legal Actions, </unittitle>
+					<unitdate type="inclusive">1881-1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.2</container>
+					<unittitle>Legal Actions — Fayerweather Will Case, </unittitle>
+					<unitdate type="inclusive">1893-1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.3</container>
+					<unittitle>Legal Actions — Gill - Hiestand Case, </unittitle>
+					<unitdate type="inclusive">1875-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.4</container>
+					<unittitle>Legal Actions — Mary Monroe Will, </unittitle>
+					<unitdate type="inclusive">1895-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.5</container>
+					<unittitle>Library — Librarian Rank</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.6</container>
+					<unittitle>Library — Selection of Librarian, </unittitle>
+					<unitdate type="inclusive">1956</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.7</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1867-1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.8</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1883-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.9</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1891-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.10</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1897-1903</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.11</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1903-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4, Folder 4.12</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1911-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.13</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1913-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.14</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1914-1918, 1923-1924</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.15</container>
+					<unittitle>Library — Librarian's Annual Reports, </unittitle>
+					<unitdate type="inclusive">1924-1927</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.16</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1914 Oct - 1916 Dec</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.17</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1917 Apr-Jul</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.18</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1917 Jul - 1918 Mar</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.19</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1918 Apr-Nov</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.20</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1919</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.21</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1920 Feb - 1921 Apr</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.22</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1921 May - 1922 Dec</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.23</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1923 Jan-Aug</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.24</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1923 Oct - 1924 Jan</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.25</container>
+					<unittitle>Library — Librarian's Correspondence with President MacCracken, </unittitle>
+					<unitdate type="inclusive">1924 Feb-Jun</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.26</container>
+					<unittitle>Library — Correspondence</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.27</container>
+					<unittitle>Library — Book Recommendations, </unittitle>
+					<unitdate type="inclusive">1866-1868</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.13</container>
+					<unittitle>Lord Electric Company — Letter to W. H. Boughton regarding a
+						financial settlement, </unittitle>
+					<unitdate type="inclusive">1914 Oct 15</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.28</container>
+					<unittitle>Lyon, Joseph B. — Bequests to the College</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.14</container>
+					<unittitle>MacCracken, Henry Noble — Resignation and Re-Appointment,
+						correspondence between trustees and administration, </unittitle>
+					<unitdate type="inclusive">1918 Sep</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.15</container>
+					<unittitle>MacCracken, Henry Noble — Resignation and Re-Appointment,
+						correspondence between trustees and administration, </unittitle>
+					<unitdate type="inclusive">1918 Oct</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.16</container>
+					<unittitle>MacCracken, Henry Noble — Resignation and Re-Appointment,
+						correspondence between trustees and administration, </unittitle>
+					<unitdate type="inclusive">circa 1918 Sep-Oct</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.17</container>
+					<unittitle>MacCracken, Henry Noble — Resignation and Re-Appointment,
+						correspondence between trustees and administration, </unittitle>
+					<unitdate type="inclusive">1918 Nov</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.18</container>
+					<unittitle>MacCracken, Henry Noble — Resignation and Re-Appointment,
+						correspondence between trustees and administration, </unittitle>
+					<unitdate type="inclusive">1919 May-Sep</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.29</container>
+					<unittitle>Main Building — Construction - Bids on Construction, furnishing,
+						equipping, etc., </unittitle>
+					<unitdate type="inclusive">1860</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.30</container>
+					<unittitle>Main Building — Construction - Breaking Ground, </unittitle>
+					<unitdate type="inclusive">1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.31</container>
+					<unittitle>Main Building — Construction - Addition Specifications and Contract, </unittitle>
+					<unitdate type="inclusive">1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.32</container>
+					<unittitle>Main Building — Construction - Front Steps, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.33</container>
+					<unittitle>Main Building — Construction - Heating System, </unittitle>
+					<unitdate type="inclusive">1862, 1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.34</container>
+					<unittitle>Main Building — Construction - Hot Water Tank, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.35</container>
+					<unittitle>Main Building — Construction - Iron Doors, Gates, Railing, </unittitle>
+					<unitdate type="inclusive">1863, 1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.36</container>
+					<unittitle>Main Building — Construction - Kitchen and Laundry, </unittitle>
+					<unitdate type="inclusive">circa 1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.37</container>
+					<unittitle>Main Building — Construction - Lightning Rods, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.38</container>
+					<unittitle>Main Building — Construction - Miscellaneous, </unittitle>
+					<unitdate type="inclusive">1861, 1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.39</container>
+					<unittitle>Main Building — Construction - Name Tablet, </unittitle>
+					<unitdate type="inclusive">1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.40</container>
+					<unittitle>Main Building — Construction - Plumbing, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+					<physdesc>[SEE ALSO: Swan, Cyrus]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.41</container>
+					<unittitle>Main Building — Construction - Refrigerator Room Smith's Plan, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.42</container>
+					<unittitle>Main Building — Construction - Repairs and Improvements, </unittitle>
+					<unitdate type="inclusive">1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.43</container>
+					<unittitle>Main Building— Contracts with William Harloe (builder) - Accounting
+						of Work Estimates, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.44</container>
+					<unittitle>Main Building — Contracts with William Harloe (builder) - Contract
+						and Amended Contract, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.45</container>
+					<unittitle>Main Building — Contracts with William Harloe (builder) - Contract
+						and Amended Contract, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.46</container>
+					<unittitle>Main Building — Contracts with William Harloe (builder) -
+						Correspondence</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.47</container>
+					<unittitle>Main Building — Contracts with William Harloe (builder) - Executed
+						Contracts and Releases</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.48</container>
+					<unittitle>Main Building — Contracts with William Harloe (builder) - Work
+						Estimates, #1 – 10, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.49</container>
+					<unittitle>Main Building — Contracts with William Harloe (builder) - Work
+						Estimates, #11 – 20, </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.50</container>
+					<unittitle>Main Building — Contracts with William Harloe (builder) - Work
+						Estimates, #21, 23, 25-32, </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.51</container>
+					<unittitle>Main Building — Contracts with James Renwick (architect) - Approval
+						by Tufts and Coffin (Boston) of Renwick plans, </unittitle>
+					<unitdate type="inclusive">1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle>Main Building — Contracts with James Renwick (architect) -
+						Architectural Renderings and Drawings [SEE: Frances Lehman Loeb Art Center
+						Collections]</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.52</container>
+					<unittitle>Main Building — Contracts with James Renwick (architect) - Contracts
+						and Agreements, </unittitle>
+					<unitdate type="inclusive">1860-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.53</container>
+					<unittitle>Main Building — Contracts with James Renwick (architect) -
+						Correspondence, </unittitle>
+					<unitdate type="inclusive">1861-1862, 1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.54</container>
+					<unittitle>Main Building — Contracts with James Renwick (architect) - Design
+						1882 removed from Vassar Papers</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.55</container>
+					<unittitle>Main Building — Equipment and Furnishings - Chemical Equipment:
+						Correspondence and Receipts 1864 [Purchased by R.A. Fisher, Professor of
+						Chemistry in Paris]</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.56</container>
+					<unittitle>Main Building — Equipment and Furnishings - Clock, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.57</container>
+					<unittitle>Main Building — Equipment and Furnishings - Furniture, Bedding,
+						Carpets, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.58</container>
+					<unittitle>Main Building — Equipment and Furnishings - Lighting Fixtures, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.59</container>
+					<unittitle>Main Building — Equipment and Furnishings - Organ Specifications, </unittitle>
+					<unitdate type="inclusive">1881</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.60</container>
+					<unittitle>Main Building — Equipment and Furnishings - Pianos, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.61</container>
+					<unittitle>Main Building — Floor Plan Unidentified</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.62</container>
+					<unittitle>Main Building — Insurance</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.63</container>
+					<unittitle>Main Building — Landscaping</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.64</container>
+					<unittitle>Mathematics, Natural Philosophy, and Chemistry Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1874</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.65</container>
+					<unittitle>Mathematics, Natural Philosophy, Physics — Applications:
+						A-L</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.66</container>
+					<unittitle>Mathematics, Natural Philosophy, Physics — Applications:
+						R-S</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.67</container>
+					<unittitle>Mathematics Department — Reports, </unittitle>
+					<unitdate type="inclusive">1874-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.68</container>
+					<unittitle>Mathematics Department — Reports, </unittitle>
+					<unitdate type="inclusive">1891-1895</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.69</container>
+					<unittitle>Mathematics Department — Reports, </unittitle>
+					<unitdate type="inclusive">1895-1900</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.70</container>
+					<unittitle>Mathematics Department — Reports, </unittitle>
+					<unitdate type="inclusive">1900-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.19</container>
+					<unittitle>The Mercer Company — Invoice for furniture paid by VC Trustees, </unittitle>
+					<unitdate type="inclusive">1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.71</container>
+					<unittitle>Miscellaneous Notes — Visitors 1868, number of students, messenger
+						wages, commencement invitations, number of books in library</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.20</container>
+					<unittitle>Monnier, Mathilda (VC faculty) — Letter from Major General H. P.
+						McCain to Henry Noble MacCracken about Monnier's work in the Y.M.C.A.
+						Canteen Unit, </unittitle>
+					<unitdate type="inclusive">1918 Oct 10</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.72</container>
+					<unittitle>Mortgages, </unittitle>
+					<unitdate type="inclusive">1861-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.73</container>
+					<unittitle>Mortgages — Vassar Female College to Matthew Vassar, </unittitle>
+					<unitdate type="inclusive">1866 Nov - 1868 Oct</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.74</container>
+					<unittitle>Museum — Reports, </unittitle>
+					<unitdate type="inclusive">1902-1904, 1910-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.75</container>
+					<unittitle>Music Department — Programs, </unittitle>
+					<unitdate type="inclusive">1867-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.76</container>
+					<unittitle>Music Department — Reports, </unittitle>
+					<unitdate type="inclusive">1864-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.77</container>
+					<unittitle>Music Department — Reports, </unittitle>
+					<unitdate type="inclusive">1884-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.78</container>
+					<unittitle>Music Department — Reports, </unittitle>
+					<unitdate type="inclusive">1902-1913, 1915</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5, Folder 4.79</container>
+					<unittitle>Music Department — Applications from Professors: Music, </unittitle>
+					<unitdate type="inclusive">1860-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.80</container>
+					<unittitle>Natural History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1873, 1876-1879</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.81</container>
+					<unittitle>Natural History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1879-1887</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.82</container>
+					<unittitle>Natural History Department — Reports, </unittitle>
+					<unitdate type="inclusive">1887-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.83</container>
+					<unittitle>Natural History Department — Catalog of Cabinet, agreements,
+						documents, and correspondence</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.84</container>
+					<unittitle>Natural History Department — Nationalist Catalogue of Cabinet of
+						Mineralogy and Geology, correspondence W/ Henry A. Ward, etc., </unittitle>
+					<unitdate type="inclusive">1873</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.88</container>
+					<unittitle>Natural History Department — Orton, James (Faculty), </unittitle>
+					<unitdate type="inclusive">1869-1877</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.21</container>
+					<unittitle>Nettleton, George H. — Guest book during Nettleton's tenure as acting
+						VC President, </unittitle>
+					<unitdate type="inclusive">1922 Fall</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.85</container>
+					<unittitle>Observatory — Advertisement, </unittitle>
+					<unitdate type="inclusive">1886</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.86</container>
+					<unittitle>Observatory — Contract, </unittitle>
+					<unitdate type="inclusive">1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.87</container>
+					<unittitle>Observatory — Construction, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.89</container>
+					<unittitle>Pecuniary Aid Students</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.90</container>
+					<unittitle>Philalethean Society, </unittitle>
+					<unitdate type="inclusive">1866-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.91</container>
+					<unittitle>Philalethean Society, </unittitle>
+					<unitdate type="inclusive">1870-1873</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.92</container>
+					<unittitle>Philalethean Society, </unittitle>
+					<unitdate type="inclusive">1891-1894, 1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.93</container>
+					<unittitle>Philalethean Society, </unittitle>
+					<unitdate type="inclusive">1910-1911, 1914, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.94</container>
+					<unittitle>Philosophy Department — Applications, </unittitle>
+					<unitdate type="inclusive">1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.95</container>
+					<unittitle>Philosophy Department — Reports [includes Ethics and Mental and Moral
+						Philosophy], </unittitle>
+					<unitdate type="inclusive">1886, 1871, 1887-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.96</container>
+					<unittitle>Philosophy Department — Reports, </unittitle>
+					<unitdate type="inclusive">1903-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.97</container>
+					<unittitle>Physical Training Department — Reports [includes gymnastics], </unittitle>
+					<unitdate type="inclusive">1866-1879</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.98</container>
+					<unittitle>Physical Training Department — Reports [includes gymnastics], </unittitle>
+					<unitdate type="inclusive">1890-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.99</container>
+					<unittitle>Physical Training Department — Reports [includes gymnastics], </unittitle>
+					<unitdate type="inclusive">1899-1908</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.100</container>
+					<unittitle>Physical Training Department — Reports [includes gymnastics], </unittitle>
+					<unitdate type="inclusive">1908-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Physician — SEE ALSO: Physiology and
+							Hygiene</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.101</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1870-1873, 1882-1886</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.102</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1886-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.103</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1892-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.104</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1898-1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.105</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1901-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.106</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1904-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.107</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1907-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.108</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1910-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.109</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1912-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.110</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1916-1917, 1919</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.111</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1923-1926</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 4.112</container>
+					<unittitle>Physician — Reports, </unittitle>
+					<unitdate type="inclusive">1926-1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.1</container>
+					<unittitle>Physics Department — Reports [includes Chemistry], </unittitle>
+					<unitdate type="inclusive">1874-1884, 1885-1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.2</container>
+					<unittitle>Physics Department — Reports [includes Chemistry], </unittitle>
+					<unitdate type="inclusive">1889-1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.3</container>
+					<unittitle>Physics Department — Reports, </unittitle>
+					<unitdate type="inclusive">1894-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.4</container>
+					<unittitle>Physics Department — Reports, </unittitle>
+					<unitdate type="inclusive">1905-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.5</container>
+					<unittitle>Physiology and Hygiene Department — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.6</container>
+					<unittitle>Physiology and Hygiene Department — Reports, </unittitle>
+					<unitdate type="inclusive">1871-1879</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.7</container>
+					<unittitle>Physiology and Hygiene Department — Reports, </unittitle>
+					<unitdate type="inclusive">1879-1882, 1887-1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.8</container>
+					<unittitle>Physiology and Hygiene Department — Reports, </unittitle>
+					<unitdate type="inclusive">1896, 1898-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.9</container>
+					<unittitle>Physiology and Hygiene Department — Reports, </unittitle>
+					<unitdate type="inclusive">1907-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.10</container>
+					<unittitle>Physiology and Hygiene Department — Gymnastics Applications, </unittitle>
+					<unitdate type="inclusive">1863-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.22</container>
+					<unittitle>Poole, William F. — Letters to and from Vassar presidents regarding
+						work he did for the college, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.11</container>
+					<unittitle>Porter, T. H. — Letter re: Appointment to Professor of Rhetoric and
+						English, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.12</container>
+					<unittitle>Postal Service, </unittitle>
+					<unitdate type="inclusive">1918</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.13</container>
+					<unittitle>Poughkeepsie City Railroad Co. — Agreement with Vassar College, </unittitle>
+					<unitdate type="inclusive">1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.14</container>
+					<unittitle>Preachers — List of preachers who spoke at Vassar, </unittitle>
+					<unitdate type="inclusive">1870, 1886-1915</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.15</container>
+					<unittitle>Presidents — General Orders from President, </unittitle>
+					<unitdate type="inclusive">1869-1891, 1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.16</container>
+					<unittitle>Presidents — Reports [Raymond], </unittitle>
+					<unitdate type="inclusive">1865-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.17</container>
+					<unittitle>Presidents — Reports [Raymond], </unittitle>
+					<unitdate type="inclusive">1869-1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.18</container>
+					<unittitle>Presidents — Reports [Raymond], </unittitle>
+					<unitdate type="inclusive">1872-1874</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 6, Folder 5.19</container>
+					<unittitle>Presidents — Reports [Raymond], </unittitle>
+					<unitdate type="inclusive">1874-1877</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.20</container>
+					<unittitle>Presidents — Report [Raymond], </unittitle>
+					<unitdate type="inclusive">1877</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.21</container>
+					<unittitle>Presidents — Reports [Caldwell], </unittitle>
+					<unitdate type="inclusive">1878-1880</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.22</container>
+					<unittitle>Presidents — Report [Caldwell], </unittitle>
+					<unitdate type="inclusive">1880-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.23</container>
+					<unittitle>Presidents — Report [Caldwell], </unittitle>
+					<unitdate type="inclusive">1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.24</container>
+					<unittitle>Presidents — Report [Caldwell], </unittitle>
+					<unitdate type="inclusive">1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.25</container>
+					<unittitle>Presidents — Report [Caldwell], </unittitle>
+					<unitdate type="inclusive">1884</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.26</container>
+					<unittitle>Presidents — Baccalaureate Sermon by President Caldwell, </unittitle>
+					<unitdate type="inclusive">1881 Jun 19</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.27</container>
+					<unittitle>Presidents — Kendrick Report, </unittitle>
+					<unitdate type="inclusive">1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.28</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1886-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.29</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1892-1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.30</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1896-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.31</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1899-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.32</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1902-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.33</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1905-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.34</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1907-1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.35</container>
+					<unittitle>Presidents — Report [Taylor], </unittitle>
+					<unitdate type="inclusive">1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.36</container>
+					<unittitle>Presidents — Report [Taylor], </unittitle>
+					<unitdate type="inclusive">1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.37</container>
+					<unittitle>Presidents — Reports [Taylor], </unittitle>
+					<unitdate type="inclusive">1911-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.37a</container>
+					<unittitle>Presidents — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1885</unitdate>
+					<physdesc>[transcriptions]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.37b</container>
+					<unittitle>Presidents — Reports, </unittitle>
+					<unitdate type="inclusive">1886-1903, 1905-1907, 1914</unitdate>
+					<physdesc>[transcriptions]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.38</container>
+					<unittitle>Presidents — Taylor Report on Internal Management and Organization, </unittitle>
+					<unitdate type="inclusive">1904-1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.39</container>
+					<unittitle>Presidents — Reports [MacCracken], </unittitle>
+					<unitdate type="inclusive">1916-1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.40</container>
+					<unittitle>Presidents — Powers of: On President's Right to Vote Twice, </unittitle>
+					<unitdate type="inclusive">1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Psychology Department — SEE ALSO: Philosophy,
+							Mental and Moral</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.41</container>
+					<unittitle>Psychology Department — Reports, </unittitle>
+					<unitdate type="inclusive">1907-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.42</container>
+					<unittitle>Randall's Island, Sing-Sing, and Vassar College — Clippings, notes,
+						and correspondence re: a proposed Boys' Reformatory near VC, </unittitle>
+					<unitdate type="inclusive">1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.43</container>
+					<unittitle>Randall's Island, Sing-Sing, and Vassar College — Clippings, notes,
+						and correspondence re: a proposed Boys' Reformatory near VC, </unittitle>
+					<unitdate type="inclusive">1908 Jan</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.44</container>
+					<unittitle>Randall's Island, Sing-Sing, and Vassar College — Clippings, notes,
+						and correspondence re: a proposed Boys' Reformatory near VC, </unittitle>
+					<unitdate type="inclusive">1908 Feb</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.45</container>
+					<unittitle>Randall's Island, Sing-Sing, and Vassar College — Clippings, notes,
+						and correspondence re: a proposed Boys' Reformatory near VC, </unittitle>
+					<unitdate type="inclusive">1908 Apr, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.23</container>
+					<unittitle>Raymond, J. H. — Letter from Morgan Smith, </unittitle>
+					<unitdate type="inclusive">1876 Mar 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.46</container>
+					<unittitle>Raymond Reading Room</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.47</container>
+					<unittitle>Real Estate Holdings — Low Property Deeds</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.48</container>
+					<unittitle>Real Estate Holdings — Kansas</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.49</container>
+					<unittitle>Real Estate Holdings — New York City</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.50</container>
+					<unittitle>Real Estate Holdings — New York State</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.51</container>
+					<unittitle>Real Estate Holdings — Steuben County, NY</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.52</container>
+					<unittitle>Religion</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.24</container>
+					<unittitle>Richardson, Sophia F. (VC 1879) — Letters, mostly to Mrs. O. V.
+						Stewart, regarding raising funds for the endowment of Sophia Richardson's
+						grave, </unittitle>
+					<unitdate type="inclusive">1916-1923</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.53</container>
+					<unittitle>Riding School</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.54</container>
+					<unittitle>Riding School — Contracts</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.55</container>
+					<unittitle>Rockefeller Hall</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle><emph render="italic">Romance Languages Department — SEE ALSO: French
+							Department</emph></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.56</container>
+					<unittitle>Romance Languages Department — Reports, </unittitle>
+					<unitdate type="inclusive">1895-1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.57</container>
+					<unittitle>Romance Languages Department — Reports, </unittitle>
+					<unitdate type="inclusive">[1901]-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.58</container>
+					<unittitle>Romance Languages Department — Reports, </unittitle>
+					<unitdate type="inclusive">1907-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle>Rombout Deed — SEE: <archref
+							href="https://digitallibrary.vassar.edu/collections/finding-aids/b2f8054e-9672-4521-994f-0aa5cb4599f9"
+							>Matthew Vassar Papers, Box 24</archref></unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.25</container>
+					<unittitle>Salmon, Lucy M. — Announcement of celebrations related to the 400th
+						anniversary of the birth of John Calvin, </unittitle>
+					<unitdate type="inclusive">1909 Mar 23</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.26</container>
+					<unittitle>Salmon, Lucy M. — Letter to Mr. Pelton regarding a meeting with Dr.
+						Stulz, </unittitle>
+					<unitdate type="inclusive">1914 Nov 6</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.27</container>
+					<unittitle>Salmon, Lucy M. — Letters from James Thorne Harper regarding book
+						acquisitions, </unittitle>
+					<unitdate type="inclusive">1888</unitdate>
+					<physdesc>[typescript, copies]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.59</container>
+					<unittitle>Scholarships</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.28</container>
+					<unittitle>Scholarships — R. H. McDonald, circulars and draft contract, </unittitle>
+					<unitdate type="inclusive">1877</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.29</container>
+					<unittitle>Scholarships — Adolph Sutro Scholarship, </unittitle>
+					<unitdate type="inclusive">1913 Dec 13</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.60</container>
+					<unittitle>Schou, J.N.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.61</container>
+					<unittitle>[Secretary of the College] — College Journal, </unittitle>
+					<unitdate type="inclusive">1870-1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.62</container>
+					<unittitle>Secretary of the College — Reports [Swan], </unittitle>
+					<unitdate type="inclusive">1862, 1867</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.63</container>
+					<unittitle>Secretary of the College — Contracts, rules, correspondence [Swan], </unittitle>
+					<unitdate type="inclusive">1866, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 7, Folder 5.64</container>
+					<unittitle>Secretary of the College — Reports [McCaleb], </unittitle>
+					<unitdate type="inclusive">1900-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folders 5.65-5.68</container>
+					<unittitle>Sewer</unittitle>
+				</did>
+			</c01>
+
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.30</container>
+					<unittitle>Sheldon, Smith (Bookseller) — Letters to his brother and Nathan
+						Bishop; letter from Benson J. Lossing, </unittitle>
+					<unitdate type="inclusive">1869-1870</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.69</container>
+					<unittitle>Steward's Office — Accounting Records, </unittitle>
+					<unitdate type="inclusive">1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.70</container>
+					<unittitle>Steward's Office — Applications for Position of Steward, </unittitle>
+					<unitdate type="inclusive">1862-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.71</container>
+					<unittitle>Steward's Office — Contract for Employment of William Smith, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.72</container>
+					<unittitle>Steward's Office — Correspondence w/ General Superintendent Cyrus
+						Swan, </unittitle>
+					<unitdate type="inclusive">1865 Jul-Nov</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.73</container>
+					<unittitle>Steward's Office — Correspondence w/ General Superintendent Cyrus
+						Swan, </unittitle>
+					<unitdate type="inclusive">1865 Dec - 1866 July</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.74</container>
+					<unittitle>Steward's Office — Correspondence w/ Harriet Terry, Lady Principal, </unittitle>
+					<unitdate type="inclusive">1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.75</container>
+					<unittitle>Steward's Office — Correspondence w/ V.C. Trustees, </unittitle>
+					<unitdate type="inclusive">1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.76</container>
+					<unittitle>Steward's Office — Inventories, </unittitle>
+					<unitdate type="inclusive">1865-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.77</container>
+					<unittitle>Steward's Office — Letterbook, </unittitle>
+					<unitdate type="inclusive">1865-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.78</container>
+					<unittitle>Steward's Office — Meal Menus, </unittitle>
+					<unitdate type="inclusive">1865-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.79</container>
+					<unittitle>Steward's Office — Reports, </unittitle>
+					<unitdate type="inclusive">1865-1866, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.80</container>
+					<unittitle>Stocks and Bonds (Securities)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.81</container>
+					<unittitle>Strong House — Contract Agreement for Dormitory (1892), </unittitle>
+					<unitdate type="inclusive">1884-1902</unitdate>
+					<physdesc>[SEE ALSO: Folder 2.59a, Expense Accounts and Estimates [Notebook], pp.64-69]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.82</container>
+					<unittitle>Student Religious Association</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.83</container>
+					<unittitle>Students — Constitutions of the Classes of 1897, 1900, 1902-1904,
+						1908</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.84</container>
+					<unittitle>Students — Constitutions of the Classes of 1876-1879, 1881-1886,
+						1894-1896</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.85</container>
+					<unittitle>Students — Constitutions of the Societies and Clubs: A -
+						C</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.86</container>
+					<unittitle>Students — Constitutions of the Societies and Clubs: D -
+						L</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.87</container>
+					<unittitle>Students — Constitutions of the Societies and Clubs: M -
+						P</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.88</container>
+					<unittitle>Students — Constitutions of the Societies and Clubs: Q -
+						Z</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.89</container>
+					<unittitle>Students — Students Debates on Enrollment, Scholarships, Plays,
+						Requirements for Admission</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.90</container>
+					<unittitle>Students — Students' Expenses</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.91</container>
+					<unittitle>Students — Students' Fees (Receipts)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 14</container>
+					<unittitle>Students — Students' Grades. Grade and Studybook ["Times Tables"], </unittitle>
+					<unitdate type="inclusive">1865-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.91A</container>
+					<unittitle>Students — Students' Grades. Grade and Studybook, </unittitle>
+					<unitdate type="inclusive">1868-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 5.91B</container>
+					<unittitle>Students — Students' Grades. Grade and Studybook, </unittitle>
+					<unitdate type="inclusive">1869-1870</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 14</container>
+					<unittitle>Students — Students' Grades. Grade and Studybook ["Times
+						Tables/Courses Taken"], </unittitle>
+					<unitdate type="inclusive">1889-1890</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.1</container>
+					<unittitle>Students — Students' Petition to the Faculty for Various
+						Organizations</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.2</container>
+					<unittitle>Students — Students' Rooms</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.3</container>
+					<unittitle>Students — Students' Applications for M.A., </unittitle>
+					<unitdate type="inclusive">1884-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.4</container>
+					<unittitle>Students — Students' Applications for M.A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.5</container>
+					<unittitle>Students — Students' Applications for M.A., A - K</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.6</container>
+					<unittitle>Students — Students' M.A. Degree work on, L - R</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.7</container>
+					<unittitle>Students — Students' M.A. Degree work on, S - Z</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.8</container>
+					<unittitle>Students' Association</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.9</container>
+					<unittitle>Students' Association — Constitution</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.10</container>
+					<unittitle>Students' Association — Constitution and By-Laws</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.11</container>
+					<unittitle>Students' Association — 1914-1924, Documents, Letters</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.12</container>
+					<unittitle>Students' Association — 1914-1924, Documents, Letters</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.13</container>
+					<unittitle>Students' Association — Report</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.14</container>
+					<unittitle>Students' Association — Rules</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.15</container>
+					<unittitle>Students' Association — Self-Government Committee, </unittitle>
+					<unitdate type="inclusive">1889-1906</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 8, Folder 6.16</container>
+					<unittitle>Students' Building</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.17</container>
+					<unittitle>Swan, Cyrus — Correspondence, </unittitle>
+					<unitdate type="inclusive">1864-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.18</container>
+					<unittitle>Swan, Cyrus — Notes and Suggestions, </unittitle>
+					<unitdate type="inclusive">1865, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.19</container>
+					<unittitle>Swan, Cyrus — Correspondence from Charles A. Raymond, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.20</container>
+					<unittitle>Swan, Cyrus — miscellaneous</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.31</container>
+					<unittitle>Taylor, James M. — Correspondence with Augustus W. Cowles (President
+						of Elmira College); clippings related to Elmira College, </unittitle>
+					<unitdate type="inclusive">1890</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.32</container>
+					<unittitle>Taylor, James M. — Resolution of the Republican National Convention
+						on the integrity of the court system, </unittitle>
+					<unitdate type="inclusive">1908 Jun 6</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.21</container>
+					<unittitle>Taylor Hall</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.22</container>
+					<unittitle>Taxes — Taxation Exemption</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.23</container>
+					<unittitle>Taxes</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.24</container>
+					<unittitle>Telephone Service, </unittitle>
+					<unitdate type="inclusive">1916</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.33</container>
+					<unittitle>Thompson, C. Mildred — Letter to Herbert Gurney (VC Treasurer), </unittitle>
+					<unitdate type="inclusive">1918 Oct 19</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.25</container>
+					<unittitle>Thompson, Frederick Ferns</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.34</container>
+					<unittitle>Torrey, H. W. — Letter nominating Dr. Peabody as a Vassar College
+						Trustee, </unittitle>
+					<unitdate type="inclusive">1880 Apr 19</unitdate>
+				</did>
+			</c01>
+
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.35</container>
+					<unittitle>Townson, Andrew J. — Memorial draft, </unittitle>
+					<unitdate type="inclusive">1920 Jun 7</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.26</container>
+					<unittitle>Treasurer — Bankbook, </unittitle>
+					<unitdate type="inclusive">1865-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.27</container>
+					<unittitle>Treasurer — Cancelled Checks, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.28</container>
+					<unittitle>Treasurer — Cancelled Checks, </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.29</container>
+					<unittitle>Treasurer — Cancelled Checks, </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.30</container>
+					<unittitle>Treasurer — Cancelled Notes, </unittitle>
+					<unitdate type="inclusive">1865-1869 (incomplete)</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.31</container>
+					<unittitle>Treasurer — Cancelled Notes, </unittitle>
+					<unitdate type="inclusive">1869-1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.32</container>
+					<unittitle>Treasurer — Funds (Vassar will), </unittitle>
+					<unitdate type="inclusive">1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.33</container>
+					<unittitle>Treasurer — Miscellaneous</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.34</container>
+					<unittitle>Treasurer — Pay Roll, March, </unittitle>
+					<unitdate type="inclusive">1872, 1900</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.35</container>
+					<unittitle>Treasurer — Receipts, William Harloe, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.36</container>
+					<unittitle>Treasurer — Receipts, William Harloe, </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.37</container>
+					<unittitle>Treasurer — Receipts, William Harloe, </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.38</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.39</container>
+					<unittitle>Treasurer — Receipts, Matthew Vassar and VC Building Account, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.40</container>
+					<unittitle>Treasurer — Receipts, VC General Expense Account, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.41</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.42</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.43</container>
+					<unittitle>Treasurer — Receipts (General Expense Account), </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.44</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.45</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.46</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.47</container>
+					<unittitle>Treasurer — Receipts (General Expense Account), </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.48</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.49</container>
+					<unittitle>Treasurer — Receipts (Observatory), </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.50</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1871 Dec - 1872 Mar</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.51</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1872 Apr</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.52</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1872 May-Jun</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.53</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1888</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.54</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1900s</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.55</container>
+					<unittitle>Treasurer — Elsworth, Edward</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.56</container>
+					<unittitle>Treasurer — Receipts, </unittitle>
+					<unitdate type="inclusive">1861 Jan-Jun</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.57</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.58</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.59</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1863-1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.60</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1864-1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.61</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1865-1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.62</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1866-1867</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.63</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1867-1868</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.64</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1868-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.65</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1869-1870</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.66</container>
+					<unittitle>Treasurer — Report, </unittitle>
+					<unitdate type="inclusive">1870-1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.67</container>
+					<unittitle>Treasurer — Report (scattered annual and special reports), </unittitle>
+					<unitdate type="inclusive">1870-1875</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.68</container>
+					<unittitle>Treasurer — Report (scattered annual and special reports), </unittitle>
+					<unitdate type="inclusive">1878-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.69</container>
+					<unittitle>Treasurer — Report (scattered annual and special reports), </unittitle>
+					<unitdate type="inclusive">1906-1915</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.70</container>
+					<unittitle>Treasurer — Report (scattered annual and special reports), </unittitle>
+					<unitdate type="inclusive">1917-1922</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.71</container>
+					<unittitle>Trustees — Acceptances of First Trustees, </unittitle>
+					<unitdate type="inclusive">1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.72</container>
+					<unittitle>Trustees — Autograph</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.73</container>
+					<unittitle>Trustees — By-Laws</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 9, Folder 6.74</container>
+					<unittitle>Trustees — Charter of Vassar College with the Will of its
+						Founder</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.75</container>
+					<unittitle>Trustees — Committees Lists</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.76</container>
+					<unittitle>Trustees — Committees Common Age of Trustees</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.77</container>
+					<unittitle>Trustees — Committees Art Gallery. Report (includes letters to Art
+						Committee), </unittitle>
+					<unitdate type="inclusive">1861, 1869-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.78</container>
+					<unittitle>Trustees — Committees Art Gallery. Report (includes letters to Art
+						Committee), </unittitle>
+					<unitdate type="inclusive">1889-1893</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.79</container>
+					<unittitle>Trustees — Committees By-Laws</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.80</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (1), </unittitle>
+					<unitdate type="inclusive">1861-1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.81</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (2), </unittitle>
+					<unitdate type="inclusive">1872-1880</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.82</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (3), </unittitle>
+					<unitdate type="inclusive">1881-1886</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.83</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (4), </unittitle>
+					<unitdate type="inclusive">1886-1888</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.84</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (5), </unittitle>
+					<unitdate type="inclusive">1889-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.85</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (6), </unittitle>
+					<unitdate type="inclusive">1892-1893</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.86</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (7), </unittitle>
+					<unitdate type="inclusive">1893-1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.87</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (8), </unittitle>
+					<unitdate type="inclusive">1895-1896</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.88</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (9), </unittitle>
+					<unitdate type="inclusive">1897-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.89</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (10), </unittitle>
+					<unitdate type="inclusive">1900-1901</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.90</container>
+					<unittitle>Trustees — Cabinets and Apparatus Report (11), </unittitle>
+					<unitdate type="inclusive">1902-1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.91</container>
+					<unittitle>Trustees — Cabinets and Apparatus Celebration of the 25th
+						Anniversary</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.92</container>
+					<unittitle>Trustees — Cabinets and Apparatus Duties of the Standing Committee, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.93</container>
+					<unittitle>Trustees — Cabinets and Apparatus Engineers</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.94</container>
+					<unittitle>Trustees — Executive Committee</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.95</container>
+					<unittitle>Trustees — Executive Committee Minutes, </unittitle>
+					<unitdate type="inclusive">1861 Feb - 1862 Mar</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.96</container>
+					<unittitle>Trustees — Executive Committee Minutes, </unittitle>
+					<unitdate type="inclusive">1862 Mar - 1864 Jun</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.97</container>
+					<unittitle>Trustees — Executive Committee Minutes, </unittitle>
+					<unitdate type="inclusive">1864 Jun - 1866 Jul</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.98</container>
+					<unittitle>Trustees — Executive Committee Minutes, </unittitle>
+					<unitdate type="inclusive">1880-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.99</container>
+					<unittitle>Trustees — Executive Committee Minutes, </unittitle>
+					<unitdate type="inclusive">1888-1890</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.100</container>
+					<unittitle>Trustees — Executive Committee Minutes, </unittitle>
+					<unitdate type="inclusive">1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 6.101</container>
+					<unittitle>Trustees — Executive Committee Minutes, </unittitle>
+					<unitdate type="inclusive">1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.1</container>
+					<unittitle>Trustees — Executive Committee Minutes Report, </unittitle>
+					<unitdate type="inclusive">1887</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.2</container>
+					<unittitle>Trustees — Executive Committee Minutes Report, </unittitle>
+					<unitdate type="inclusive">1888</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.3</container>
+					<unittitle>Trustees — Executive Committee Report (includes letters to
+						committee), </unittitle>
+					<unitdate type="inclusive">1861-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.4</container>
+					<unittitle>Trustees — Executive Committee Reports (also correspondence), </unittitle>
+					<unitdate type="inclusive">1888-1893</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.5</container>
+					<unittitle>Trustees — Executive Committee Reports (also correspondence), </unittitle>
+					<unitdate type="inclusive">1894-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.6</container>
+					<unittitle>Trustees — Executive Committee Reports (also correspondence), </unittitle>
+					<unitdate type="inclusive">1905-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.7</container>
+					<unittitle>Trustees — Executive Committee Reports, </unittitle>
+					<unitdate type="inclusive">1917-1918</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.8</container>
+					<unittitle>Trustees — Executive Committee Report (includes letters to
+						committee), </unittitle>
+					<unitdate type="inclusive">1870-1874</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.9</container>
+					<unittitle>Trustees — Executive Committee Report (includes letters to
+						committee), </unittitle>
+					<unitdate type="inclusive">1875-1876</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.10</container>
+					<unittitle>Trustees — Executive Committee Report, </unittitle>
+					<unitdate type="inclusive">1887-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.11</container>
+					<unittitle>Trustees — Executive Committee Report, </unittitle>
+					<unitdate type="inclusive">1883-1886, 1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.12</container>
+					<unittitle>Trustees — Committee on Faculty and Studies</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.13</container>
+					<unittitle>Trustees — Committee on Faculty and Studies Proceedings, </unittitle>
+					<unitdate type="inclusive">1866-1884</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.14</container>
+					<unittitle>Trustees — Committee on Faculty and Studies Report (memoranda,
+						letters, etc.), </unittitle>
+					<unitdate type="inclusive">1861, 1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 10, Folder 7.15</container>
+					<unittitle>Trustees — Committee on Faculty and Studies Report, </unittitle>
+					<unitdate type="inclusive">1867-1872</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.16</container>
+					<unittitle>Trustees — Committee on Faculty and Studies Report, </unittitle>
+					<unitdate type="inclusive">1873-1883</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.17</container>
+					<unittitle>Trustees — Committee on Faculty and Studies Report, </unittitle>
+					<unitdate type="inclusive">1884-1898</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.18</container>
+					<unittitle>Trustees — Committee on Faculty and Studies Report, </unittitle>
+					<unitdate type="inclusive">1899-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.19</container>
+					<unittitle>Trustees — Committee on Faculty and Studies Report, </unittitle>
+					<unitdate type="inclusive">1908-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.20</container>
+					<unittitle>Trustees — Finance Committee Report (Committee on Investment), </unittitle>
+					<unitdate type="inclusive">1871-1876</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.21</container>
+					<unittitle>Trustees — Finance Committee Report (Committee on Finance), </unittitle>
+					<unitdate type="inclusive">1875-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.22</container>
+					<unittitle>Trustees — Finance Committee Report (Committee on Securities), </unittitle>
+					<unitdate type="inclusive">1870-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.23</container>
+					<unittitle>Trustees — Finance Committee Report (Committee on Securities), </unittitle>
+					<unitdate type="inclusive">1905-1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.24</container>
+					<unittitle>Trustees — Finance Committee Report (Committee on Finance and
+						Securities)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.25</container>
+					<unittitle>Trustees — Committee on Future Policies. Correspondence of Dr.
+						Taylor, </unittitle>
+					<unitdate type="inclusive">1893-1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.26</container>
+					<unittitle>Trustees — Committee on Grounds, </unittitle>
+					<unitdate type="inclusive">1912-1919</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.27</container>
+					<unittitle>Trustees — Committee on Grounds, </unittitle>
+					<unitdate type="inclusive">1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.28</container>
+					<unittitle>Trustees — Committee on Investment, </unittitle>
+					<unitdate type="inclusive">1916-1917</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.29</container>
+					<unittitle>Trustees — Committee on Investment Reports of the Committee of
+						Investment and Finance, </unittitle>
+					<unitdate type="inclusive">1930-1936</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.30</container>
+					<unittitle>Trustees — Committee on Investment Reports of the Committee of Sage
+						Fund, </unittitle>
+					<unitdate type="inclusive">1921-1934</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.31</container>
+					<unittitle>Trustees — Committee on Library, </unittitle>
+					<unitdate type="inclusive">1861-1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.32</container>
+					<unittitle>Trustees — Committee on Library, </unittitle>
+					<unitdate type="inclusive">1872-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.33</container>
+					<unittitle>Trustees — Committee on Library, </unittitle>
+					<unitdate type="inclusive">1883-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.34</container>
+					<unittitle>Trustees — Committee on Library, </unittitle>
+					<unitdate type="inclusive">1900-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.35</container>
+					<unittitle>Trustees — Committee on Museum and Laboratories, </unittitle>
+					<unitdate type="inclusive">1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.36</container>
+					<unittitle>Trustees — Committee on Museum and Laboratories, </unittitle>
+					<unitdate type="inclusive">1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.37</container>
+					<unittitle>Trustees — Committee on Music Department Equipment</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.38</container>
+					<unittitle>Trustees — Committee on Nomination of Trustees, </unittitle>
+					<unitdate type="inclusive">1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.39</container>
+					<unittitle>Trustees — Committee on Powers and Duties of Officers, </unittitle>
+					<unitdate type="inclusive">1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.40</container>
+					<unittitle>Trustees — Committee on Professors' Houses and Salaries, </unittitle>
+					<unitdate type="inclusive">1882-1893</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.41</container>
+					<unittitle>Trustees — Committee on Retrenchment, </unittitle>
+					<unitdate type="inclusive">1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.42</container>
+					<unittitle>Trustees — Committee on Scholarships Report, </unittitle>
+					<unitdate type="inclusive">1868-1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.43</container>
+					<unittitle>Trustees — Committee on Scholarships Report, </unittitle>
+					<unitdate type="inclusive">1889-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.44</container>
+					<unittitle>Trustees — Committee on Selection of a President, </unittitle>
+					<unitdate type="inclusive">1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.45</container>
+					<unittitle>Trustees — Special Committee Reports, </unittitle>
+					<unitdate type="inclusive">1867-1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.46</container>
+					<unittitle>Trustees — Special Committee Reports, </unittitle>
+					<unitdate type="inclusive">1875-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.47</container>
+					<unittitle>Trustees — Special Committee Reports, </unittitle>
+					<unitdate type="inclusive">1883-1904</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.48</container>
+					<unittitle>Trustees — Special Committee on Expenditures, </unittitle>
+					<unitdate type="inclusive">1885 Jun</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.49</container>
+					<unittitle>Trustees — Special Committee on Reorganization: Business
+						Departments</unittitle>
+					<unitdate type="inclusive">1909-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.50</container>
+					<unittitle>Trustees — Special Committee on Reorganization: Educational
+						Departments</unittitle>
+					<unitdate type="inclusive">1911-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.51</container>
+					<unittitle>Trustees — Special Committee on Ways and Means</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.52</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1861-1868</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.53</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1869-1882</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.54</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1883-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.55</container>
+					<unittitle>Trustees — Correspondence (Mary H. Whitney, pensions), </unittitle>
+					<unitdate type="inclusive">1910-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.56</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1888-1890</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.57</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1891-1895</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.58</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1896-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.59</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1905-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.60</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1908-1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.61</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1909-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.62</container>
+					<unittitle>Trustees — Correspondence, </unittitle>
+					<unitdate type="inclusive">1914-1915</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.63</container>
+					<unittitle>Trustees — Distribution of Powers and Duties p. 46</unittitle>
+					<unitdate type="inclusive">1866</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.64</container>
+					<unittitle>Trustees — Distribution of Powers and Duties, p. 46-7 and Portfolio
+						of Plans</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.65</container>
+					<unittitle>Trustees — First Meeting:</unittitle>
+					<unitdate type="inclusive">1861 Feb 26</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.66</container>
+					<unittitle>Trustees — Regular Meetings, </unittitle>
+					<unitdate type="inclusive">1903-1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.67</container>
+					<unittitle>Trustees — Meeting, </unittitle>
+					<unitdate type="inclusive">1865 Apr 12</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.68</container>
+					<unittitle>Trustees — Meetings, </unittitle>
+					<unitdate type="inclusive">1862-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.69</container>
+					<unittitle>Trustees — Meetings, </unittitle>
+					<unitdate type="inclusive">1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 11, Folder 7.70</container>
+					<unittitle>Trustees — Special Meeting, </unittitle>
+					<unitdate type="inclusive">1918, 1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.71</container>
+					<unittitle>Trustees — Minutes (includes petitions to board, reports of other
+						business), </unittitle>
+					<unitdate type="inclusive">1867-1878</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.72</container>
+					<unittitle>Trustees — Minutes (includes petitions to board, reports of other
+						business), </unittitle>
+					<unitdate type="inclusive">1877-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.73</container>
+					<unittitle>Trustees — Minutes, </unittitle>
+					<unitdate type="inclusive">1897-1899</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.74</container>
+					<unittitle>Trustees — Minutes, </unittitle>
+					<unitdate type="inclusive">1900-1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.75</container>
+					<unittitle>Trustees — Minutes, </unittitle>
+					<unitdate type="inclusive">1893-1896, 1910</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.76</container>
+					<unittitle>Trustees — Minutes, </unittitle>
+					<unitdate type="inclusive">1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.77</container>
+					<unittitle>Trustees — Minutes, </unittitle>
+					<unitdate type="inclusive">1886-1889</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.78</container>
+					<unittitle>Trustees — Minutes, </unittitle>
+					<unitdate type="inclusive">1889-1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.79</container>
+					<unittitle>Trustees — Name Change</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.80</container>
+					<unittitle>Trustees — Organization, Plans for 1864-1865</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.81</container>
+					<unittitle>Trustees — Property Real and Personal</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.82</container>
+					<unittitle>Trustees — Sale of Property, </unittitle>
+					<unitdate type="inclusive">1904-1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.83</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1861-1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.84</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1867-1868</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.85</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1869-1871</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.86</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1872-1874</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.87</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1872-1873</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.88</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1876-1884</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.89</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1885-1887</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.90</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1888, 1890-1892</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.91</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1893-1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.92</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1898-1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.93</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1905-1907</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.94</container>
+					<unittitle>Trustees — Resolutions</unittitle>
+					<unitdate type="inclusive">1908-1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.95</container>
+					<unittitle>Trustees — Resolutions Women Trustees</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.96</container>
+					<unittitle>Trustees — Resolutions Women Trustees</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.97</container>
+					<unittitle>Trustees — Resolutions Tuitions</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.98</container>
+					<unittitle>Trustees — Resolutions Tyler, Moses Coit</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.99</container>
+					<unittitle>Trustees — Resolutions Vacations</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.36</container>
+					<unittitle>Van Ingen, Henry — Correspondence, </unittitle>
+					<unitdate type="inclusive">1868-1869, 1891</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.44</container>
+					<unittitle>Vassar, Matthew — Autograph album pages</unittitle>
+					<physdesc>[2 leaves, 1 framed leaf]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.100</container>
+					<unittitle>Vassar College and Its Founder — Correspondence acknowledging gift
+						copies</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.101</container>
+					<unittitle>Vassar Students' Aid Society</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.102</container>
+					<unittitle>Vassariana — Correspondence</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.103</container>
+					<unittitle>War Activities</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.106</container>
+					<unittitle>Warden's Office</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.104</container>
+					<unittitle>Wolven, Edmund L.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.105</container>
+					<unittitle>Wood, Frances A.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 15, Folder 9.37</container>
+					<unittitle>Wood, Nathan E. — (VC Trustee) - Resignation letter to James M.
+						Taylor, </unittitle>
+					<unitdate type="inclusive">1903 May 15</unitdate>
+				</did>
+			</c01>
+
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 7.107</container>
+					<unittitle>Zoology Department</unittitle>
+					<physdesc>[SEE ALSO: Natural History Department]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.1</container>
+					<unittitle>Archives Photographs — Raymond Ave.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.2</container>
+					<unittitle>Archives Photographs — V. C. Buildings. Calisthenium and Riding
+						Academy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.3</container>
+					<unittitle>Archives Photographs — V. C. Buildings. Chapel</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.4</container>
+					<unittitle>Archives Photographs — V. C. Buildings. Lodge</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.5</container>
+					<unittitle>Archives Photographs — V. C. Buildings. Main</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.6</container>
+					<unittitle>Archives Photographs — V. C. Buildings. Observatory.
+						Exterior</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.7</container>
+					<unittitle>Archives Photographs — V. C. Buildings Observatory.
+						Interior</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.8</container>
+					<unittitle>Archives Photographs — V. C. Class Groups. Academic (Art)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.9</container>
+					<unittitle>Archives Photographs — V. C. Class Groups. Academic
+						(Astronomy)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.10</container>
+					<unittitle>Archives Photographs — V. C. Class Groups. Academic
+						(Greek)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.11</container>
+					<unittitle>Archives Photographs — V. C. Class Groups. Academic
+						(Physics)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 12, Folder 8.12a</container>
+					<unittitle>Archives Photographs — V. C. Faculty. Early A-L</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.12b</container>
+					<unittitle>Archives Photographs — V. C. Faculty. Early A-L</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folders 8.13a-8.13b</container>
+					<unittitle>Archives Photographs — V. C. Faculty Early M-Z</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.13c</container>
+					<unittitle>Archives Photographs — V. C. Physicians</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.14</container>
+					<unittitle>Archives Photographs — V. C. Presidents</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.15</container>
+					<unittitle>Archives Photographs — V. C. Student and Faculty Rooms, </unittitle>
+					<unitdate type="inclusive">1870s</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.16</container>
+					<unittitle>Archives Photographs — V. C. Students, Misc. Groups.
+						Early</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.17</container>
+					<unittitle>Archives Photographs — V. C. Students, Resolutes [baseball club], </unittitle>
+					<unitdate type="inclusive">circa 1876</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.18</container>
+					<unittitle>Archives Photographs — V. C. Trustees</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.19</container>
+					<unittitle>Archives Photographs — V. C. Vassar Lake</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.20</container>
+					<unittitle>Archives Photographs — V. C. Vassar, Matthew, Buildings Related
+						to</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.21</container>
+					<unittitle>Archives Photographs — V. C. Vassar, Matthew, Relatives</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle>[NOTE: Archival Photographs — for office use only, copies in
+						Photograph Files]</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.22</container>
+					<unittitle>Archival Photographs — Portraits. Matthew Vassar,
+						Calendar</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.23</container>
+					<unittitle>Archival Photographs — Engraved Portraits. Matthew Vassar, Buttre
+						engraving</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.24</container>
+					<unittitle>Archival Photographs — Engraved Portraits. Matthew Vassar, H. Wright
+						Smith engraving, </unittitle>
+					<unitdate type="inclusive">[1865-1867?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.25</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, at desk, </unittitle>
+					<unitdate type="inclusive">[1835-1840?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.26</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, Bogle
+						miniature, </unittitle>
+					<unitdate type="inclusive">[circa 1855?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.27</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, Booth
+						miniature</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.28</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, early oil
+						portrait</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.29</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, Elliott
+						portrait, </unittitle>
+					<unitdate type="inclusive">1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.30</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, oval
+						portrait</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.31</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, seated
+						portrait with curved cane</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.32</container>
+					<unittitle>Archival Photographs — Painted Portraits. Matthew Vassar, Wright
+						portrait, </unittitle>
+					<unitdate type="inclusive">1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.33</container>
+					<unittitle>Archival Photographs — Photographic Portraits. Matthew Vassar,
+						daguerreotype</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.34</container>
+					<unittitle>Archival Photographs — Photographic Portraits. Matthew Vassar,
+						daguerreotypes, 2 in top hat</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.35</container>
+					<unittitle>Archival Photographs — Photographic Portraits. Matthew Vassar, "Fund
+						Box" Pictures</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.36</container>
+					<unittitle>Archival Photographs — Photographic Portraits. Matthew Vassar, late
+						portrait, </unittitle>
+					<unitdate type="inclusive">circa 1867-[1868?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.37</container>
+					<unittitle>Archival Photographs — Photographic Portraits. Matthew Vassar,
+						seated, holding spectacles</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.38</container>
+					<unittitle>Archival Photographs — Photographic Portraits. Matthew Vassar,
+						standing by pillar</unittitle>
+					<unitdate type="inclusive">[1867 Jan 25]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.39</container>
+					<unittitle>Archival Photographs — Photographic Portraits. Matthew Vassar, with
+						dog "Tip"</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.40</container>
+					<unittitle>Archival Photographs — Silhouette Portraits. Matthew Vassar, full
+						length</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.41</container>
+					<unittitle>Archival Photographs — Silhouette Portraits. Matthew Vassar,
+						head</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.42</container>
+					<unittitle>Archival Photographs — Sculptural Portraits. Matthew Vassar, proposed
+						statue and bust (Hoffman)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.43</container>
+					<unittitle>Archival Photographs — Miscellaneous Portraits. Matthew Vassar, Misc.
+						Undated Pictures</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.45</container>
+					<unittitle>Archival Photographs — "Vassar Female College" illustration from
+							<emph render="italic">Harper's Weekly</emph> (1861 Mar 30), </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc>[1 photograph]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 13, Folder 8.46</container>
+					<unittitle>Archival Prints — Matthew Vassar portrait by C. Buttre, with
+						accompanying letter from the South Kensington Museum to M. P. Jewett, </unittitle>
+					<unitdate>1862 May 20</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

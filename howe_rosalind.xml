@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_howe_rosalind</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Rosalind Howe Sturges Allen Papers, 1928-1999</titleproper>
+				<author>Inventory prepared by Rachel Schles</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>September 2008</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Adrienne Turner <date>September 2008</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Howe, Rosalind</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Rosalind Howe Sturges Allen Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1928-1999</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">15.6 cubic feet (22 boxes, 19 map folders, 2 framed items)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Research materials, sketches, drawings, published materials, and exhibition materials relating to Rosalind Howe’s work as an artist and architectural cartographer as well as professional correspondence, published materials about Howe, and published materials which included Howe’s work.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Rosalind Howe Sturges Allen was an artist and architectural cartographer who pioneered the use of anachronistic maps which featured the architectural history of a place rather than its geographic features. She was born in 1907 to Mary Locke and Wallis Howe and graduated from Vassar College in 1928. She died in 1999.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection includes research materials, sketches, drawings, published materials, and exhibition materials relating to Howe’s work as an artist and architectural cartographer. Also included is professional correspondence, drawings, paintings, and other artwork created by Howe, as well as published materials about Howe and published materials which include Howe’s work.</p>
+		</scopecontent>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p>The Vassariana Collection contains published Vassar maps.</p>
+		</relatedmaterial>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Maps, pictorial</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Wellesley College--Maps, pictorial</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Old Sturbridge Village--Drawing (visual works)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Architectural historians</subject>
+				<subject source="lcsh" encodinganalog="650">Women cartographers</subject>
+				<subject source="lcsh" encodinganalog="650">Women artists</subject>
+				<subject source="lcsh" encodinganalog="650">Folder Maps, pictorial</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Annapolis (Md.)--Maps, pictorial</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Worcester (Mass.)--Maps, pictorial</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New England--Maps, pictorial</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Philadelphia (Pa.)--Maps, pictorial</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Princeton (Mass.)--Maps, pictorial</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Hingham (Mass.)--Maps, pictorial</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Nantucket (Mass.)--Drawings</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Rhode Island--Drawings</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Westminster (Mass.)--Drawings</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Providence (R.I.)--Maps, pictorial</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Chestnut Hill (Philadelphia, Pa.)--Drawings (visual works)</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Rittenhouse Square (Philadelphia, Pa.)--Drawings</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Blackstone River Valley (Mass. and R.I.)--Drawings (visual works)</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Bristol (R.I. : Town)--Drawings (visual works)</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Deerfield (Mass.)--Maps, pictorial</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Drawings (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Maps (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Notebooks</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Maps</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Adrienne Turner, September 2008. Updated by Emma Gronbeck, May 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Rachel Schles, May 2007. Last updated July 2011.</p>
+			<p>Loose items removed from the notebooks in Series XX were put in folders 7.13-7.18. </p>
+			<p>The 2018 addition (2 boxes) is currently unprocessed.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Elizabeth Browne, Philemon Sturges, Helen Nader, and Rosalind Waters (M2001-015).</p>
+			<p>Additional gifts were made by Elizabeth K. Allen in 2010 (M2011-019) and 2018 (M2019-011), and Pamela Hatfield in 2011 (M2011-031).</p>
+			<p>A framed reproduction of Howe's "An Anachronistic Topography of Vassar Female College" was transferred from the Vassar College Office of the President in 2022 (A2022-001).</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Rosalind Howe Sturges Allen Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Vassar College, NY, </unittitle>
+					<unitdate>1928</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Wellesley College, MA, </unittitle>
+					<unitdate>1943</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> New England, </unittitle>
+					<unitdate>1976</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Annapolis, MD, </unittitle>
+					<unitdate>1964</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Blackstone Valley, MA, </unittitle>
+					<unitdate>1988</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Deerfield, MA, </unittitle>
+					<unitdate>1983</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Hingham, MA, </unittitle>
+					<unitdate>1980</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Nantucket, MA</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX.</ref> Princeton, MA</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">Series X.</ref> Sturbridge Village, MA</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series11">Series XI.</ref> Westminster, MA</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series12">Series XII.</ref> Worcester, MA, </unittitle>
+					<unitdate>1981</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series13">Series XIII.</ref> Cathedral Village, Philadelphia, PA (senior living facility)</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series14">Series XIV.</ref> Chestnut Hill, PA</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series15">Series XV.</ref> Philadelphia, PA, </unittitle>
+					<unitdate>1958</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series16">Series XVI.</ref> Rittenhouse Town, PA</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series17">Series XVII.</ref> Up Country, PA</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series18">Series XVIII.</ref> Rhode Island</unittitle>
+				</did>
+				<scopecontent>
+					<p>Wallis E. Howe created maps for Bristol and Newport. Prints are included in this series. It may be possible that there is additional material relating to this Wallis's work in this and other series.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series19">Series XIX.</ref> Notebooks</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series20">Series XX.</ref> Miscellaneous Materials</unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Series List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. VASSAR COLLEGE, NY</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.12</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.01</container>
+						<unittitle>Published Materials: "Our Fifty Years," VC Class of 1928, drawings of Vassar College buildings, </unittitle>
+						<unitdate>circa 1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M1 (Oversize)</container>
+						<unittitle>"An Anachronistic Topography of Vassar Female College," color lithograph, </unittitle>
+						<unitdate type="inclusive">1928</unitdate>
+						<physdesc>[5 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Framed Storage 2.6</container>
+						<unittitle>"An Anachronistic Topography of Vassar Female College," color lithograph, </unittitle>
+						<unitdate type="inclusive">1928</unitdate>
+						<physdesc>[framed]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Framed Storage 2.4</container>
+						<unittitle>"An Anachronistic Topography of Vassar Female College," color lithograph, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[reproduction, framed]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II. WELLESLEY COLLEGE, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder M10 (Oversize)</container>
+						<unittitle>Drawing, </unittitle>
+						<unitdate>Pre-1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M10 (Oversize)</container>
+						<unittitle>Published Prints, </unittitle>
+						<unitdate>1943</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. NEW ENGLAND</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 3.05 - 3.10</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 11.10 - 11.13</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.03</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 11.14 - 11.15</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.04</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M4 (Oversize)</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.11</container>
+						<unittitle>Published Materials — Negatives</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.12</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M3 (Oversize)</container>
+						<unittitle>Published Prints</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M18 (Oversize)</container>
+						<unittitle>Published Prints</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>SERIES IV. ANNAPOLIS, MD</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 9.01 - 9.05</container>
+						<unittitle>Research and Drafts Materials, Possibly Annapolis or Princeton</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 11.01</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M1 (Oversize)</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>SERIES V. DEERFIELD, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unittitle>Research Materials – Photographs: Deerfield or Sturbridge Village</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M2 (Oversize)</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle>Drafts — Deerfield and Sturbridge Village</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M2 (Oversize)</container>
+						<unittitle>Published Prints</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>SERIES VI. BLACKSTONE VALLEY, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 6.01 - 6.02</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 13.11 - 13.13</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 13.14</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M19 (Oversize)</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M19 (Oversize)</container>
+						<unittitle>Published material, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>SERIES VII. HINGHAM, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder M14 (Oversize)</container>
+						<unittitle>Published Print, signed by [Rosalind Howe], </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>SERIES VIII. NANTUCKET, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.07</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 15.09</container>
+						<unittitle>Drawing</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>SERIES IX. PRINCETON, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 4.07 – 4.10</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.07 - 1.09</container>
+						<unittitle>Research Materials – Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.03</container>
+						<unittitle>Research Materials and Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 9.01 - 9.05</container>
+						<unittitle>Research and Drafts Materials, Possibly Annapolis or Princeton</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 4.11 – 4.21</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 12.04 - 12.11</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 12.14 - 12.20</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+
+				<c02 level="file">
+					<did>
+						<container>Folder 19.05</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M14 (Oversize)</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 5.01 - 5.03</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 13.01 - 13.04</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M17 (Oversize)</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 5.04 - 5.05</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 13.05 - 13.07</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 19.06 - 19.08</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M7 (Oversize)</container>
+						<unittitle>Original pencil drawing</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.09</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M7 (Oversize)</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M12 (Oversize)</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M13 (Oversize)</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M14 (Oversize)</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>SERIES X. STURBRIDGE VILLAGE, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unittitle>Research Materials – Photographs: Deerfield or Sturbridge Village</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 13.15</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle>Drafts — Deerfield and Sturbridge Village</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.03</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 13.16</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle>SERIES XI. WESTMINSTER, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.18</container>
+						<unittitle>Drawings (xeroxes)</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series12">
+				<did>
+					<unittitle>SERIES XII. WORCESTER, MA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 11.02 - 11.03</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 11.04</container>
+						<unittitle>Research Materials and Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 11.05 - 11.09</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.21</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.01</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M5 (Oversize)</container>
+						<unittitle>Draft</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 3.02 - 3.04</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.02</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M3 (Oversize)</container>
+						<unittitle>Published Print</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series13">
+				<did>
+					<unittitle>SERIES XIII. CATHEDRAL VILLAGE, Philadelphia, PA (senior living facility)</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.01 - 1.06</container>
+						<unittitle>Research Materials - Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Research Materials – Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.09</container>
+						<unittitle>Research Materials and Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 5.10 - 5.19</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 13.09 - 13.10</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.20</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 14.18</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 14.19</container>
+						<unittitle>Published Materials, photocopies</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series14">
+				<did>
+					<unittitle>SERIES XIV. CHESTNUT HILL, PA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.04</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.11 - 1.17</container>
+						<unittitle>Research Materials - Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 6.05 - 6.06</container>
+						<unittitle>Research Materials and Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.17</container>
+						<unittitle>Research Materials and Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 14.02 - 14.03</container>
+						<unittitle>Research Materials and Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 6.08 - 6.10</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 14.01</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 14.04 - 14.08</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.07</container>
+						<unittitle>Drafts — Negatives</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 14.09 - 14.11</container>
+						<unittitle>Drafts and photocopies</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 14.12</container>
+						<unittitle>Drafts—Plates Commissioned by VC</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 14.13 - 14.17</container>
+						<unittitle>Drafts, mostly Chestnut Hill, includes Rittenhouse Town</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.10</container>
+						<unittitle>Drafts and Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.11</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M16 (Oversize)</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.12</container>
+						<unittitle>Published Materials — Negatives</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 6.13 - 6.15</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 19.11 - 19.14</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M16 (Oversize)</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.16</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 15.01 - 15.03</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.05</container>
+						<unittitle>Exhibition Materials</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series15">
+				<did>
+					<unittitle>SERIES XV. PHILADELPHIA, PA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder M8 (Oversize)</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.01</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.02</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 12.01 - 12.02</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M6 (Oversize)</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.03</container>
+						<unittitle>Drawing</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 4.04 – 4.06</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M8 (Oversize)</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series16">
+				<did>
+					<unittitle>SERIES XVI. RITTENHOUSE TOWN, PA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 15.10</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 15.11</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 14.13 - 14.17</container>
+						<unittitle>Drafts, mostly Chestnut Hill, includes Rittenhouse Town</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.08</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 15.12</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series17">
+				<did>
+					<unittitle>SERIES XVII. UP COUNTRY PENNSYLVANIA</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unittitle>Research Materials — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unittitle>Research Materials — Photographs — Bethlehem Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21</container>
+						<unittitle>Research Materials — Photographs — Sumneytown Pike, Limekilm Pike, Harleysville Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.22 - 1.23</container>
+						<unittitle>Research Materials — Photographs — Skippack Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.24</container>
+						<unittitle>Research Materials — Photographs — Ridge Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unittitle>Research Materials — Photographs — De Kalb Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26</container>
+						<unittitle>Research Materials — Photographs — Germantown Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.01</container>
+						<unittitle>Drafts — Sumneytown Pike, Limekilm Pike, Harleysville Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.02</container>
+						<unittitle>Drafts — Germantown Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.03</container>
+						<unittitle>Drafts — Ridge Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.04</container>
+						<unittitle>Drafts — De Kalb Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.05</container>
+						<unittitle>Drafts — Skippack Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.06</container>
+						<unittitle>Drafts — Bethlehem Pike</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 15.04 - 15.05</container>
+						<unittitle>Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 15.06 - 15.08</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series18">
+				<did>
+					<unittitle>SERIES XVIII. Rhode Island</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 7.09 - 7.11</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 13.11 - 13.13</container>
+						<unittitle>Research Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>Research Materials — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.07</container>
+						<unittitle>Research Materials — Providence</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 13.08</container>
+						<unittitle>Drafts — Bristol</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.13</container>
+						<unittitle>Drafts — Providence</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.12</container>
+						<unittitle>Drawings — Rhode Island, including Bristol</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M2 (Oversize)</container>
+						<unittitle>Drafts — Blackstone Valley, Rhode Island</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 13.08</container>
+						<unittitle>Published Materials — Bristol</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M9 (Oversize)</container>
+						<unittitle>Published Materials — Bristol, </unittitle>
+						<unitdate>1955</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M4 (Oversize)</container>
+						<unittitle>Published Print — Newport, </unittitle>
+						<unitdate>1957</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.08</container>
+						<unittitle>Published Materials — Providence</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M9 (Oversize)</container>
+						<unittitle>Published Materials — Providence, </unittitle>
+						<unitdate>1962</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series19">
+				<did>
+					<unittitle>SERIES XIX. NOTEBOOKS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Volumes 1-14</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.13</container>
+						<unittitle>Materials removed from notebook 4</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.14</container>
+						<unittitle>Materials removed from notebook 7</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.15</container>
+						<unittitle>Materials removed from notebook 8</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.16</container>
+						<unittitle>Materials removed from notebook 9</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.17</container>
+						<unittitle>Materials removed from notebook 10</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.18</container>
+						<unittitle>Materials removed from notebook 12</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series20">
+				<did>
+					<unittitle>SERIES XX. MISCELLANEOUS MATERIALS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.05 - 8.07</container>
+						<unittitle>Art Anatomy Materials, Vassar Class, </unittitle>
+						<unitdate>circa 1928</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 9.16 - 9.20</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 16.02 - 16.07</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.02 - 20.03</container>
+						<unittitle>Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M15 (Oversize)</container>
+						<unittitle>Drawings and Sketches</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M11 (Oversize)</container>
+						<unittitle>Figure Studies</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.21</container>
+						<unittitle>Final Drawing, </unittitle>
+						<unitdate>February 1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.01</container>
+						<unittitle>Materials relating to the Inauguration of President W. J. Clinton, </unittitle>
+						<unitdate>1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 9.11 - 9.13</container>
+						<unittitle>Medium Studies</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.04</container>
+						<unittitle>Paintings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Professional Correspondence and Copyright Material</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.02</container>
+						<unittitle>Professional Correspondence with the Albany Institute of History and Art</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.03 - 8.04</container>
+						<unittitle>Professional Documents</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.08 - 8.09</container>
+						<unittitle>Project Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 10.01 - 10.02</container>
+						<unittitle>Published Materials</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 10.03</container>
+						<unittitle>Published Materials — Springside</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 10.04 - 10.06</container>
+						<unittitle>Published Materials — Cards — Some with Correspondence</unittitle>
+					</did>
+				</c02>
+
+				<c02 level="file">
+					<did>
+						<container>Folders 20.05 - 20.06</container>
+						<unittitle>Published Materials about Howe</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.07 - 20.08</container>
+						<unittitle>Published Materials which include Howe’s work</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 17.01</container>
+						<unittitle>Published Materials — Articles by Rosalind Howe</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 17.04</container>
+						<unittitle>Published Materials — Unidentified</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 9.01 - 9.05</container>
+						<unittitle>Research and Drafts Materials, Possibly Annapolis or Princeton</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.28 - 1.29</container>
+						<unittitle>Research Materials — Photographs — Unidentified</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 20.01</container>
+						<unittitle>Self-Portrait</unittitle>
+					</did>
+				</c02>
+				
+				
+				<c02 level="file">
+					<did>
+						<container>Folders 9.06 - 9.10</container>
+						<unittitle>Sketches</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 16.01</container>
+						<unittitle>Sketches and Paintings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.14 - 8.15</container>
+						<unittitle>Sketches of Construction</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.13</container>
+						<unittitle>Sketches of Vehicles</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 8.10 - 8.12</container>
+						<unittitle>Small studies</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 9.14 - 9.15</container>
+						<unittitle>Snow Studies</unittitle>
+					</did>
+				</c02>
+				
+				<c02 level="file">
+					<did>
+						<container>Folders 10.07 - 10.08</container>
+						<unittitle>Unidentified Drafts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 10.15 - 10.19</container>
+						<unittitle>Unidentified Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 17.05 - 17.06</container>
+						<unittitle>Unidentified Drawings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 10.09 - 10.14</container>
+						<unittitle>Unidentified Sketches</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 17.07 - 17.18</container>
+						<unittitle>Unidentified Sketches</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.09 - 20.10</container>
+						<unittitle>Unidentified Sketches</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder M15 (Oversize)</container>
+						<unittitle>Unidentified Sketches</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 17.02 - 17.03</container>
+						<unittitle>Winter Studies, </unittitle>
+						<unitdate>1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Wood block, Jamaica Print</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

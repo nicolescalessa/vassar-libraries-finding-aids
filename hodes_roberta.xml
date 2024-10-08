@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_hodes_roberta
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Roberta Hodes Papers, 1943-1989</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>September 2008</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Adrienne Turner <date>September 2008</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Hodes, Roberta</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Roberta Hodes Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1943-1989</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.25 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Material relating to Hodes’ career in the film industry and her time at Vassar College.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Vassar, Class of 1946, Editor of the Vassar Miscellany News, script supervisor for a number of Hollywood films.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, photographs, clippings, scrapbooks, scripts, and other material relating to Hodes’ career in the film industry and her time at Vassar College.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Kazan, Elia</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Women college students--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Film</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Theater, Drama and Film </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Adrienne Turner, September 2008. </p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, July 2006.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Roberta Hodes, June 2006</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Roberta Hodes Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container> 1.1 </container>
+					<unittitle> Childhood - 1 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.2 </container>
+					<unittitle> Childhood - 2 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.3 </container>
+					<unittitle> Childhood - 3 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.4 </container>
+					<unittitle> Childhood - 4 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.5 </container>
+					<unittitle> Vassar - 1, </unittitle>
+					<unitdate> 1943-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.6 </container>
+					<unittitle> Vassar - 2, </unittitle>
+					<unitdate> 1943-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.7 </container>
+					<unittitle> Vassar - 3, </unittitle>
+					<unitdate> 1943-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.1 </container>
+					<unittitle> Vassar - 4, </unittitle>
+					<unitdate> 1943-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.8 </container>
+					<unittitle> Post Vassar Scrapbook, </unittitle>
+					<unitdate> 1946-1947 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.9 </container>
+					<unittitle> Vassar Later </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.3 </container>
+					<unittitle> Misc article on Alumnae Panel, </unittitle>
+					<unitdate> Oct 1971 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.10 </container>
+					<unittitle> Israel - 1, </unittitle>
+					<unitdate> 1946-1950 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.11 </container>
+					<unittitle> Israel - 2, </unittitle>
+					<unitdate> 1946-1950 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.12 </container>
+					<unittitle> Israel - Photos- General </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.13 </container>
+					<unittitle> Israel - Photos- Independence Day, </unittitle>
+					<unitdate> 1949 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.14 </container>
+					<unittitle> Double Day - General </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.15 </container>
+					<unittitle> Double Day - First Draft of Chapter 1 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.16 </container>
+					<unittitle> "Inhabitants"- Original Clips </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.17 </container>
+					<unittitle> "Inhabitants"- AFI </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.18 </container>
+					<unittitle> Film Workshop, </unittitle>
+					<unitdate> 1967 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.19 </container>
+					<unittitle> Film Workshop, </unittitle>
+					<unitdate> 1971 or 1972 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.20 </container>
+					<unittitle> Film Proposal - Israel University Film School </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.21 </container>
+					<unittitle> Film Proposal - Golda Meir </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.22 </container>
+					<unittitle> Film Proposal - "Encounter Films" </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.23 </container>
+					<unittitle> Film Proposal - Feminist Film </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.24 </container>
+					<unittitle> Film Proposal - 128th Street Mural </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.25 </container>
+					<unittitle> Film Proposals - "The Game" Sequel </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.26 </container>
+					<unittitle> Manheim Award For "The Game", </unittitle>
+					<unitdate> 1967 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.27 </container>
+					<unittitle> Tours Prize for "The Game", </unittitle>
+					<unitdate> 1968 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.28 </container>
+					<unittitle> NYU Teaching, </unittitle>
+					<unitdate> 1974-1989 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.29 </container>
+					<unittitle> Trial </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.30 </container>
+					<unittitle> Writings, A-F </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.31 </container>
+					<unittitle> Writings, G </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.32 </container>
+					<unittitle> Writings, H-I </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.33 </container>
+					<unittitle> Correspondence </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.34 </container>
+					<unittitle> Notebook </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.35 </container>
+					<unittitle> "Lad: A Dog," Script, </unittitle>
+					<unitdate> 1961 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.36 </container>
+					<unittitle> "Lad: A Dog," Comic Book </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2 </container>
+					<unittitle> "Lad: A Dog," Video Tape </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.37 </container>
+					<unittitle> "A Secret Space," Screenplay, </unittitle>
+					<unitdate> 1975 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.38 </container>
+					<unittitle> "A Street In Harlem," Editing Log </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.39 </container>
+					<unittitle> "The Inhabitants," Screenplay, </unittitle>
+					<unitdate> 1965 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.40 </container>
+					<unittitle> DVD - "A Secret Space" </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.41 </container>
+					<unittitle> DVD - "The Game" </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.42 </container>
+					<unittitle> DVD - "A Street In Harlem" </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.43 </container>
+					<unittitle> Scrapbook - Movies, </unittitle>
+					<unitdate> 1952-1983 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.44 </container>
+					<unittitle> Scrapbook - "A Secret Space" </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.45 </container>
+					<unittitle> Scrapbook - " The Inhabitants" </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2 </container>
+					<unittitle> Scrapbook - Kazan </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.2 </container>
+					<unittitle> 1964 </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.4 </container>
+					<unittitle> Photograph inscribed to Hodes by Samuel Beckett </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2 </container>
+					<unittitle> Photograph of the shooting of "The Magic Garden of Stanley Sweetheart", </unittitle>
+					<unitdate> ca. 1939 </unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

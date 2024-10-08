@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_lutz_authors</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Alma Lutz Collection of English and American Women
+					Authors, 1801-1876</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar
+					College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College
+					Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY,
+						12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>August 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Lutz, Alma</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Alma Lutz Collection of English and
+				American Women Authors</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1801-1876</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.4 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College
+					Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">A collection of handwritten letters,
+				formal notes, autographs, poetry, short writings, and lithograph portraits of
+				prominent nineteenth-century women authors, including Maria Edgeworth, Caroline L.
+				Herschel, Hannah More, Lydia Huntley Sigourney, and Lady Emmeline Stuart
+				Wortley.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>A collection of handwritten letters, formal notes, autographs, poetry, short
+				writings, and lithograph portraits of prominent nineteenth-century women authors,
+				including Maria Edgeworth, Camilla Toulmin Crosland, Caroline L. Herschel, Hannah
+				More, Lydia Huntley Sigourney, and Lady Emmeline Stuart Wortley.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Crosland, Newton, Mrs.,
+					1812-1895</persname>
+				<persname source="lcnaf" encodinganalog="600">Edgeworth, Maria, 1768-1849</persname>
+				<persname source="lcnaf" encodinganalog="600">Herschel, Caroline Lucretia,
+					1750-1848</persname>
+				<persname source="lcnaf" encodinganalog="600">More, Hannah, 1745-1833</persname>
+				<persname source="lcnaf" encodinganalog="600">Sigourney, L. H. (Lydia Howard),
+					1791-1865</persname>
+				<persname source="lcnaf" encodinganalog="600">Stuart-Wortley, Emmeline, Lady,
+					1806-1855</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women authors, American</subject>
+				<subject source="lcsh" encodinganalog="650">Women authors, English</subject>
+				<subject source="lcsh" encodinganalog="650">Women poets</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Autographs</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Lithographs</genreform>
+				<genreform source="aat" encodinganalog="655">Poems</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Autographs</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, August 2007. Updated by Emma Gronbeck, April 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Updated by Emma Gronbeck, April 2023.</p>
+		</processinfo>
+		<custodhist encodinganalog="561">
+			<head>Custodial History</head>
+			<p>A large portion (possibly all) of the collection was purchased by Alma Lutz from
+				Goodspeed's Book Shop, Boston, in 1949.</p>
+		</custodhist>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Alma Lutz (VC 1912), circa 1974.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Alma Lutz Collection of English and American Women Authors, Archives and Special
+				Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.01</container>
+					<unittitle>Abdy, Maria — Manuscript poems for <emph render="italic">The Forget-me-not</emph> and <emph render="italic">Keepsake</emph>, </unittitle>
+					<unitdate type="inclusive" normal="1835/1863">1835-1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.01</container>
+					<unittitle>Abdy, Maria — Note to Miss [Camilla] Toulmin, </unittitle>
+					<unitdate type="inclusive" normal="1841">1841</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.02</container>
+					<unittitle>Aquilar, Grace — Note to Dr. Shelton MacKenzie, </unittitle>
+					<unitdate type="inclusive" normal="1844">1844</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.03</container>
+					<unittitle>Austin, Sarah — Note to Monsieur M. de Manotti, </unittitle>
+					<unitdate type="inclusive" normal="1840">[1840?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.04</container>
+					<unittitle>Baillie, Joanna — Letter to "My dear Sir Hampstead", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.04</container>
+					<unittitle>Baillie, Joanna — Lithograph of portrait by Sir W. Newton from
+						<emph render="italic">Eclectic Magazine</emph>, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.05</container>
+					<unittitle>Barbauld, Anna Letitia — Letter to Miss Harris, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.06</container>
+					<unittitle>Blessington, Marguerite (Lady Blessington) — Lithograph of Grafin von
+						Blessington, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.06</container>
+					<unittitle>Blessington, Marguerite (Lady Blessington) — Note to Miss Toulmin, </unittitle>
+					<unitdate type="inclusive" normal="18250816">1825 Aug 16</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.07</container>
+					<unittitle>Busk, [Mary Margaret] (Mrs. William) — Manuscript poem, "The Savior
+						of His Country", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.08</container>
+					<unittitle>Cappe, Catherine — Letter to a young friend, Miss Harris, York, </unittitle>
+					<unitdate type="inclusive" normal="18120225">1812 Feb 25</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.08</container>
+					<unittitle>Cappe, Catherine — Lithograph, engraving by Woolnoth, </unittitle>
+					<unitdate type="inclusive" normal="18230701">1823 Jul 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.09</container>
+					<unittitle>Carleton, Caroline — Manuscript poems, "A Song of Australia" and "The
+						Song of Australia" (The Gawler prize poem), </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.10</container>
+					<unittitle>Cayne, Charlotte — Manuscript poem, "The Anemone", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.11</container>
+					<unittitle>Cook, Eliza — Letter to Wiley &amp; Putnam, from Ingress Abbey,
+						Greenhithe, Kent, </unittitle>
+					<unitdate type="inclusive" normal="18440321">1844 Mar 21</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.12</container>
+					<unittitle>Crawford, Mrs. — Manuscript poem, "The Day Dreamer", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.13</container>
+					<unittitle>Crosland, Camilla — Letter to J. P. Fields, </unittitle>
+					<unitdate type="inclusive" normal="18520531">1852 May 31</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.14</container>
+					<unittitle>Crowe, Catherine Stevens — Formal note about her address in
+						Edinburgh, </unittitle>
+					<unitdate type="inclusive">[no year] [Aug 20?]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.15</container>
+					<unittitle>Dudley, Lady — Formal note from St. James Square, </unittitle>
+					<unitdate type="inclusive">[no year] Apr 24</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.16</container>
+					<unittitle>Edgeworth, Maria — Part of a letter, signed, </unittitle>
+					<unitdate type="inclusive" normal="1836">1836</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.16</container>
+					<unittitle>Edgeworth, Maria — Signature on scrap of paper, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.17</container>
+					<unittitle>"Elizabeth" — Manuscript poem, "To My Sibyl’s Senses", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.18</container>
+					<unittitle>Fox, [Caroline] (niece of Charles James Fox) — Letter of
+						introduction, </unittitle>
+					<unitdate type="inclusive" normal="18080706">1808 Jul 6</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.19</container>
+					<unittitle>Garner, Theodosia — Manuscript poem, "On the Portrait of Her
+						Majesty", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.20</container>
+					<unittitle>Godwin, Catherine Grace (Garnett) — Manuscript poem, "The Turkish
+						Tomb", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.21</container>
+					<unittitle>Grant, Ann — Lithograph portrait, </unittitle>
+					<unitdate type="inclusive" normal="18170101">1817 Jan 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.21</container>
+					<unittitle>Grant, Ann — Short note, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.22</container>
+					<unittitle>Hall, Anna Maria — Autograph stationary printed with The Rosery, Old
+						Brompton, </unittitle>
+					<unitdate type="inclusive" normal="18440517">1844 May 17</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.22</container>
+					<unittitle>Hall, Anna Maria — Letter to Miss Tomlinson, </unittitle>
+					<unitdate type="inclusive" normal="18440429">1844 Apr 29</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.23</container>
+					<unittitle>Hemans, Felicia — Manuscript poem with note to Alaric A. Watts,
+						Manchester, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.23</container>
+					<unittitle>Hemans, Felicia — Print illustration of a stone bust, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.24</container>
+					<unittitle>Hepney, Catherine — Manuscript poem, "Come Enjoy a Happy Sight", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.25</container>
+					<unittitle>Herschel, Caroline Lucretia — A leaf from her notebook, pasted on the
+						back of an engraving of Hester Lynch Piozzi, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.26</container>
+					<unittitle>Hobbs, I. N. — Manuscript poem, "Lines Addressed to Richard Lane, the
+						Sculptor, on Seeing the Statue of His Dead Child", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.27</container>
+					<unittitle>Hofland, Barbara — Letter to a young friend, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.27</container>
+					<unittitle>Hofland, Barbara — Manuscript poem, "On the Fine Arts", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.28</container>
+					<unittitle>Holmes, Mrs. Tom — Manuscript poem, "Italy", </unittitle>
+					<unitdate type="inclusive" normal="1842">1842</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.29</container>
+					<unittitle>Howitt, Mary — Letter to William, </unittitle>
+					<unitdate type="inclusive">[no year] Jun 9</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.30</container>
+					<unittitle>Jersey, Lady — Formal note, </unittitle>
+					<unitdate type="inclusive">[18?2]</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.31</container>
+					<unittitle>Jewsberry, Geraldine Endsor (Mrs. Fletcher) — Manuscript poems, "The
+						Paysanne in the City" and "A Lover’s Ballad", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.32</container>
+					<unittitle>Keating, Eliza H. — Manuscript poem, "Virginius and His Daughter", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.33</container>
+					<unittitle>L., M. A. — Manuscript poem, "Maid" for <emph render="italic">The Forget-me-not</emph>, </unittitle>
+					<unitdate type="inclusive" normal="1828">1828</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.34</container>
+					<unittitle>Lawrence, Hannah — Manuscript poems, "Swanhilda’s Song" and "The
+						Dying Knight", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.35</container>
+					<unittitle>"Mariana" — Manuscript poem, "My Hope of Heaven", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.36</container>
+					<unittitle>Martineau, Harriet — Clipping, </unittitle>
+					<unitdate type="inclusive" normal="1876">1876</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.36</container>
+					<unittitle>Martineau, Harriet — Letter, signed, with transcript, </unittitle>
+					<unitdate type="inclusive" normal="183503">1835 Mar</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.37</container>
+					<unittitle>Maur, Lady Charlotte S. — Manuscript poem, "Polish Martial Hymn", </unittitle>
+					<unitdate type="inclusive" normal="1837">1837</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.38</container>
+					<unittitle>More, Hannah — Lithograph of a painting of Wrington Church Yard and
+						the grave of Hannah More, </unittitle>
+					<unitdate type="inclusive" normal="1836">1836</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.38</container>
+					<unittitle>More, Hannah — Lithograph portrait, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.38</container>
+					<unittitle>More, Hannah — Note about a payment of 660 pounds, Bath, </unittitle>
+					<unitdate type="inclusive" normal="18010218">1801 Feb 18</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.39</container>
+					<unittitle>Morgan, H.C. (of Bangor) — Manuscript poem, "On the Death of Mrs.
+						Cotton", </unittitle>
+					<unitdate type="inclusive" normal="18231012">1823 Oct 12</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.39</container>
+					<unittitle>Morgan, H.C. (of Bangor) — Note about Mrs. Morgan and a print of her
+						mother’s castle, Mettingham, Suffolk, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.40</container>
+					<unittitle>Morgan, Lady Sydney Owenson — Lithograph of a portrait by Berthon, </unittitle>
+					<unitdate type="inclusive" normal="18251101">1825 Nov 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.40</container>
+					<unittitle>Morgan, Lady Sydney Owenson — Note to Lydia Meovrolli, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.41</container>
+					<unittitle>Morley, Countess of — Manuscript poem, "Epilogue", </unittitle>
+					<unitdate type="inclusive" normal="1834">1834</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.42</container>
+					<unittitle>Opie, Mrs. Amelia — Place card and autograph, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.43</container>
+					<unittitle>Pigott, Harriet — Letter to "Dear Sir", </unittitle>
+					<unitdate type="inclusive" normal="18410818">1841 Aug 18</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.25</container>
+					<unittitle>Piozzi, Mrs. Hester Lynch — Lithograph of a drawing by J. Jackson, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.44</container>
+					<unittitle>Porter, Anna Maria — Lithograph of a portrait by G. H. Harlow, </unittitle>
+					<unitdate type="inclusive" normal="18230501">1823 May 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.44</container>
+					<unittitle>Porter, Jane — Lithograph of a portrait by G. H. Harlow, </unittitle>
+					<unitdate type="inclusive" normal="18150401">1815 Apr 1</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.44</container>
+					<unittitle>Porter, Jane — Note to Emerson, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.45</container>
+					<unittitle>Power, Anna Marsh — Manuscript poem, "The Mountain Child", </unittitle>
+					<unitdate type="inclusive" normal="1842">1842</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.45</container>
+					<unittitle>Power, Anna Marsh — Manuscript poems, "Lines on the Portrait of Miss
+						Meyer", </unittitle>
+					<unitdate type="inclusive" normal="1843">1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.46</container>
+					<unittitle>St. John, Lady Isabel — Lithograph of a portrait by J. Hayter, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.46</container>
+					<unittitle>St. John, Lady Isabel — Manuscript poem, "Lines Written in a Book of
+						Travellers in Italy", </unittitle>
+					<unitdate type="inclusive" normal="1829">1829</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.47</container>
+					<unittitle>Savage, Anna — Manuscript poem, "The Fairy King", </unittitle>
+					<unitdate type="inclusive" normal="1843">1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.48</container>
+					<unittitle>Sheridan, Louisa H. — Manuscript poem, "A Youthful Abbot", </unittitle>
+					<unitdate type="inclusive" normal="1838">1838</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.49</container>
+					<unittitle>Sigourney, Lydia Huntley — Manuscript of "Last Words of an Indian
+						Chief", </unittitle>
+					<unitdate type="inclusive" normal="18300110">1830 Jan 10</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.49</container>
+					<unittitle>Sigourney, Lydia Huntley — Note to Frederick Shobert, editor of
+						<emph render="italic">The Forget-me-not</emph>, London, </unittitle>
+					<unitdate type="inclusive" normal="18300110">1830 Jan 10</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.50</container>
+					<unittitle>Sinclair, Catherine — Letter to "Dear Madam" (probably Mrs. Greene,
+						one of her readers in America (Mr. Green) mentioned), </unittitle>
+					<unitdate type="inclusive" normal="18470903">1847 Sep 3</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.50</container>
+					<unittitle>Sinclair, Catherine — Calling card with "Cleopatra’s needle" written
+						on it, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.51</container>
+					<unittitle>Smith, Lydia B. — Manuscript poems, "The Hero’s Sword" and "The Night
+						Watch at Sea", </unittitle>
+					<unitdate type="inclusive" normal="1836">1836</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.52</container>
+					<unittitle>Sparrow, Alicia Jane — Manuscript poem, "Hannibal", </unittitle>
+					<unitdate type="inclusive" normal="1843">1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.53</container>
+					<unittitle>Thomas, Mrs. Edward — Manuscript poem, "Love", </unittitle>
+					<unitdate type="inclusive" normal="1843">1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.54</container>
+					<unittitle>Toulmin, Camilla (Mrs. Newton Crosland) — Letter to Dr. R. Shelton
+						MacKenzie, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.54</container>
+					<unittitle>Toulmin, Camilla (Mrs. Newton Crosland) — Manuscript poem, "On the
+						Fate of 'The President' Steamship," London, </unittitle>
+					<unitdate type="inclusive" normal="18410510">1841 May 10</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.54</container>
+					<unittitle>Toulmin, Camilla (Mrs. Newton Crosland) — Leaflet, "Lays and Legends,
+						illustrative of English Life," London: Jeremiah How, </unittitle>
+					<unitdate type="inclusive" normal="1845">1845</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.55</container>
+					<unittitle>Trollope, Frances — Note to Mrs. Gratten inviting Emma to Covent
+						Garden, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.56</container>
+					<unittitle>Vernon, Honorable Caroline — Manuscript poem, "Goodbye and How D’y
+						Do", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.57</container>
+					<unittitle>Victoire, Victoire — Manuscript poem, "Song", </unittitle>
+					<unitdate type="inclusive" normal="1843">1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.58</container>
+					<unittitle>Wilson, Margaret Harries (Mrs. Cornwell Baron Wilson) — Letter to Dr.
+						Shelton MacKenzie, </unittitle>
+					<unitdate type="inclusive" normal="18420310">1842 Mar 10</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.58</container>
+					<unittitle>Wilson, Margaret Harries (Mrs. Cornwell Baron Wilson) — Manuscript
+						poem, "Poets Die in Autumn", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.59</container>
+					<unittitle>Wilson, Florence — Manuscript poem, "Flowers", </unittitle>
+					<unitdate type="inclusive" normal="1843">1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.59</container>
+					<unittitle>Wilson, Florence — Manuscript poem for <emph render="italic">Keepsake</emph>, "Stanzas", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.60</container>
+					<unittitle>Wortley, Lady Emmeline Stuart — Manuscript poem, </unittitle>
+					<unitdate type="inclusive" normal="1842">1842</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.60</container>
+					<unittitle>Wortley, Lady Emmeline Stuart — Manuscript poem, "Gypsy Children
+						Caught in a Storm", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.60</container>
+					<unittitle>Wortley, Lady Emmeline Stuart — Manuscript poem, "Death and the
+						Child", </unittitle>
+					<unitdate type="inclusive" normal="1863">1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.60</container>
+					<unittitle>Wortley, Lady Emmeline Stuart — Manuscript poem, "Lines on Haddon
+						Hall", </unittitle>
+					<unitdate type="inclusive" normal="1833">1833</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.60</container>
+					<unittitle>Wortley, Lady Emmeline Stuart — Manuscript poem, "To a Lady in a
+						Reverie", </unittitle>
+					<unitdate type="inclusive" normal="18360802">1836 Aug 2</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.60</container>
+					<unittitle>Wortley, Lady Emmeline Stuart — Manuscript poem, "Song", </unittitle>
+					<unitdate type="inclusive" normal="1863">1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.60</container>
+					<unittitle>Wortley, Lady Emmeline Stuart — Manuscript poem, "On the Portrait of
+						the Honorable Mrs. Craven", </unittitle>
+					<unitdate type="inclusive" normal="1863">1863</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.61</container>
+					<unittitle>Wyatt, Lady — Manuscript poem, "A Broken Heart", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.61</container>
+					<unittitle>Wyatt, Lady — Manuscript poem, "Ask Not If I’ve Loved Thee", </unittitle>
+					<unitdate type="inclusive" normal="1862">1862</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.62</container>
+					<unittitle>Youatt, Elizabeth — Letter to Mrs. Wilson, </unittitle>
+					<unitdate type="inclusive" normal="18420311">1842 Mar 11</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.63</container>
+					<unittitle>Unsigned — Manuscript poem, "The Lament of a Quiet Gentleman Who Had
+						Three Gay Daughters", </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.64</container>
+					<unittitle>Unsorted cards name cards, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.64</container>
+					<unittitle>Unidentified lithograph portrait, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.65</container>
+					<unittitle>Card index to collection contents, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

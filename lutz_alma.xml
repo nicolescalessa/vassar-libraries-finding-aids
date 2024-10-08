@@ -1,0 +1,3906 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_lutz_alma</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Alma Lutz Papers, 1906-1973</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>February 2007</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Lutz, Alma</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Alma Lutz Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1906-1973</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">33.4 cubic feet (62 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, clippings, notes,
+				speeches, interviews, photographs, manuscript and published versions of her
+				writings, other publications, bibliographies, and copies of historic documents
+				pertaining to materials on women's history. There are also family letters and
+				photographs, biographical materials, and miscellaneous items relating to Vassar
+				College.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Alma Lutz (1890-1973) was born in Jamestown, ND, and came to Vassar from the Emma
+				Willard School. A leader in the fight for woman suffrage and equal rights, she was
+				also author of several biographies of leading feminists. During her college years
+				she was an active feminist; and after graduating from Vassar in 1912, she returned
+				to North Dakota to work for women's suffrage. Six years later Alma Lutz moved to
+				Boston, where she wrote for the National Woman's Party and did research on the role
+				of women in American history. From that time her life was devoted to both activism
+				and historical studies. In 1938 she served as editor of the official organ of the
+				National Woman's Party, and was for many years a member of the party's national
+				council.</p>
+			<p>Writer, as well as political activist, she wrote biographies of Susan B. Anthony,
+				Elizabeth Cady Stanton, and Emma Willard; and collaborated with Harriot Stanton
+				Blatch on Mrs. Blatch's memoirs, Challenging Years. She also wrote Crusade for
+				Freedom, a history of women in the antislavery movement. Alma Lutz served on the
+				advisory committee of the Schlesinger Library, was a consultant to Notable American
+				Women, and secretary of the Massachusetts Committee for the Equal Rights
+				Amendment.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, clippings, notes, speeches, interviews, photographs, manuscript and
+				published versions of her writings, other publications, bibliographies, and copies
+				of historic documents pertaining to materials on women's history at Radcliffe,
+				Smith, and Vassar Colleges; women's history courses; the Lucy Stone League; the
+				Margaret Brent Fellowship; the U.S. President's Commission on the Status of Women;
+				the National Woman's Party; the equal rights amendment; Woman's Rights Conventions
+				in Seneca Falls (1848) and Boston (1850 and 1859); woman suffrage; anti-slavery;
+				Hannah Adams, Susan B. Anthony, Elizabeth Cady Stanton, Harriet Stanton Blatch, Abby
+				Kelley Foster, Emma Hart Willard, and other prominent women in history; working
+				women; women in World War II and the armed forces; women in other countries; and the
+				Women's Liberation Movement. Major correspondents include Angelica Balabanoff, Pearl
+				S. Buck, and Miriam Holden. There are also family letters and photographs,
+				biographical materials, and miscellaneous items relating to Vassar College.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p>
+				<archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/4221dd33-a0b6-4032-8e77-63650de2628f"
+					>Alma Lutz Collection of English and American Women Authors</archref></p>
+			<p><archref href="https://findingaids.smith.edu/repositories/2/resources/435">Alma Lutz Papers, Sophia Smith Collection, Smith College, Northampton, MA</archref></p>
+			<p><archref href="https://hollisarchives.lib.harvard.edu/repositories/8/resources/4873">Alma Lutz Papers, 1927-1946. Schlesinger Library, Radcliffe Institute, Harvard University, Cambridge, MA</archref></p>
+		</relatedmaterial>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/d6e79ade-b143-4976-852c-7d8b32ae536b">Some significant correspondence from the Lutz Collection was
+				removed and placed in the Archives and Special Collections Library's Autograph Files.</archref></p>
+			<p>Correspondents include:
+				Florence E. Allen, Angelica Balabanoff*, Mary R. Beard, Alice Stone Blackwell, Vera
+				Brittain, Pearl S. Buck, Henrietta Buckmaster, Lester B. Cutler, Bette Davis, Helen
+				Gahagan Douglas, Betty Friedan, J. W. Fulbright, Barry Goldwater, Marjorie Barstow
+				Greenbie, Miriam Holden, Fanny Hurst, Cordell Hull, Inez Haynes Irwin, Caroline
+				Katzenstein, John F. Kennedy, Marya Mannes, Jeannette Marks, Burnita Shelton
+				Matthews, Lakshmi N. Menon, Pauli Murray, Caroline O'Day, Mrs. E. Pethick-Lawrence,
+				Ann M. Rosenberg, Katherine St. George, Margaret Sanger, Margaret Chase Smith, Parla
+				Ulisla, Mable Vernon, and Mary E. Woolley.</p>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-angelica-balabanoff-papers-approximately-1938-1965"
+				>*The Balabanoff letters were subsequently transferred to the Angelica Balabanoff Papers in 2009.</archref></p>
+
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Adams, Hannah, 1755-1831</persname>
+				<persname source="lcnaf" encodinganalog="600">Anthony, Susan B. (Susan Brownell), 1820-1906</persname>
+				<persname source="lcnaf" encodinganalog="600">Blatch, Harriot Stanton, 1856-1940</persname>
+				<persname source="lcnaf" encodinganalog="600">Foster, Abigail Kelley, 1810-1887</persname>
+				<persname source="lcnaf" encodinganalog="600">Stanton, Elizabeth Cady, 1815-1902</persname>
+				<persname source="lcnaf" encodinganalog="600">Willard, Emma, 1787-1870</persname>
+				<persname source="lcnaf" encodinganalog="600">Balabanoff, Angelica, 1878-1965</persname>
+				<persname source="lcnaf" encodinganalog="600">Buck, Pearl S. (Pearl Sydenstricker), 1892-1973</persname>
+				<persname source="lcnaf" encodinganalog="600">Holden, Miriam Young</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Radcliffe College</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Smith College</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Lucy Stone League</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Margaret Brent Fellowship</corpname>
+				<corpname source="lcnaf" encodinganalog="610">United States. President's Commission on the Status of Women</corpname>
+				<corpname source="lcnaf" encodinganalog="610">National Woman's Party</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Woman's Rights Convention</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--Massachusetts--Cambridge</subject>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--Massachusetts--Northampton</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Suffrage</subject>
+				<subject source="lcsh" encodinganalog="650">Women--History--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650">Women's rights</subject>
+				<subject source="lcsh" encodinganalog="650">Women in politics</subject>
+				<subject source="lcsh" encodinganalog="650">Feminism</subject>
+				<subject source="lcsh" encodinganalog="650">Slavery--Anti-slavery movements</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Employment</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--War work</subject>
+				<subject source="lcsh" encodinganalog="650">War--Women's work</subject>
+				<subject source="lcsh" encodinganalog="650">Equal rights amendments</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Social conditions</subject>
+				<subject source="lcsh" encodinganalog="650">United States--Armed Forces--Women</subject>
+				<subject source="lcsh" encodinganalog="650">Feminists</subject>
+				<subject source="lcsh" encodinganalog="650">Women historians</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">History and Historians</subject>
+				<subject source="local" encodinganalog="690">War and War Crimes</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, February 2007. Updated by Emma Gronbeck, March 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>This collection is currently only partially processed. Original processing date unknown. Last updated June 1998.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of the estate of Alma Lutz.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Alma Lutz Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>This collection is currently only partially processed. There is some description at
+				the folder level, but most of the collection is described more generally at the box
+				level. Two broad series have been identified ("Manuscripts of Speeches and Articles"
+				and "Historical Biography Material"), but the rest of the collection is currently
+				labeled "Miscellaneous."</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series1">Series I.</ref> Manuscripts of Speeches and Articles</unittitle>
+					<physdesc>(Boxes 6-11)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series2">Series II.</ref> Historical Biography Material</unittitle>
+					<physdesc>(Boxes 12-20)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series3">Series III.</ref> Miscellaneous</unittitle>
+					<physdesc>(Boxes 1-5, 21-62)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Manuscripts of Speeches and Articles</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle>"Women's Role in American History, 1800-1860."</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle>Speeches and articles on the 1848 Seneca Falls
+							convention</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle>"Women Were There: The Unsung Warriors of 1861."</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle>ERA articles</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle>"The Learned Lady: The Story of Hannah Adams (1755-1831)." 1935.
+							Unpublished</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle><emph render="italic">Challenging Years: The Memoirs of Harriot Stanton Blatch</emph> (New
+							York: Putnam, 1940)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle><emph render="italic">Created Equal: A Biography of Elizabeth Cady Stanton</emph> (New York:
+							John Day, 1945). 3 versions</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle><emph render="italic">With Love, Jane</emph> (New York: John Day, 1945). 2 versions. Also
+							letters used in compiling the book; reviews and correspondence about the
+							book</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle><emph render="italic">Susan B. Anthony</emph> (Boston: Beacon Press, 1959). First draft and
+							carbon copy. Also a folder of correspondence with publishers.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle><emph render="italic">Emma Willard: Pioneers Educator of American Women</emph> (Boston: Beacon
+							Press, 1968). 2 carbon copies and a galley</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle><emph render="italic">Crusade For Freedom: Women of the Antislavery Movement</emph> (Boston:
+							Beacon Press, 1968). Final copy marked for printer and 2 carbon
+							copies.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 6-11</container>
+						<unittitle>Articles published by Lutz and leaflets supporting ERA, written
+							by her</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Historical Biography Material</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Abigail, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Revision</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Sources</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Correspondence re: Material</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Sources</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Radcliffe Paper — Extra for Women's Archives in file,
+							also duplicate</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Article</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — First Carbon</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Preface and Bibliography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Introduction</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Early — History</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Mother and Father</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Childhood</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Youth</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Contemporaries —  American Literature,
+							etc.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Copyright</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Middle Years</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — View of Religions</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — History of the Jews</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Comments on her Work</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Letters on the Gospels</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Character</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Last Years</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Friends</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Autobiography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Feminism</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Adams, Hannah — Outlines</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Addams, Jane</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Alcott, Louisa — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B., </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Diaries</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Diaries, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Diaries, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Speeches</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Ohioana Library Association,
+							1884-1901</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Letters, mostly to Jessie Anthony, </unittitle>
+						<physdesc>(Copies from the Los Angeles Public Library)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B., </unittitle>
+						<physdesc>(Copies from the Lucy E. Anthony Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — to Anna Howard Shaw, </unittitle>
+						<physdesc>(Copies from the Lucy E. Anthony Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B.</unittitle>
+						<physdesc>(Copies, not from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Speeches and Articles</unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Lucy E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B., </unittitle>
+						<physdesc>(Copies from the S.B.A Memorial Collection, 17 Madison St.,
+							Rochester, NY)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Dann, Anna E., </unittitle>
+						<physdesc>(Copies from the S.B.A Memorial Collection, 17 Madison St.,
+							Rochester, NY)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. —  to Amelia Bloomer — Seneca Falls Historical
+							Society</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Copies, </unittitle>
+						<physdesc>(Copies from the Garrison Papers, Smith College)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — to Anna E. Dann, </unittitle>
+						<physdesc>(Copies from the S.B.A Memorial Collection, 17 Madison St.,
+							Rochester, NY)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Copies of Letters about S.B.A. Signature,
+							Envelope, etc.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony Family — Letters, </unittitle>
+						<physdesc>(Originals)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Letters re: preservation of
+							birthplace</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony Homestead</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Memorial, 1964</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony Family</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Bibliography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — to Harriet Taylor Upton, </unittitle>
+						<physdesc>(Copies from the Women's College Library, University of
+							Rochester)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Mary S. — Letters, </unittitle>
+						<physdesc>(Copies from the S.B.A Memorial Collection, 17 Madison St.,
+							Rochester, NY)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — to Clara Colby, </unittitle>
+						<physdesc>(Copies from the S.B.A. Memorial Library, Los Angeles)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — to Lydia Coonley, </unittitle>
+						<physdesc>(Copies from the S.B.A Memorial Collection, 17 Madison St.,
+							Rochester, NY)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony Family</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Anthony, Susan B. — Girlhood Rochester and Canajoharie
+							(1845-1849)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — Civil War</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1865-1866</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1840-1860</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — Kansas, 1867</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1868-1870 — The Revolution</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — Suffrage Split, 1870</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1870-1872</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — Woodhull,1871</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — Trial (1872-1873) and Minor vs. Happersett
+							(1875)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — Beecher — Tilton</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1873-1880</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1880-1890</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1890-1893</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1894-1896</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1897-1899</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — 1900</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Anthony, Susan B. — Later Years</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Rochester, NY</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Miscellaneous Clippings (1906- )</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Chronology, etc.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Clippings (Miscellaneous to 1906)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Comments</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — and Elizabeth Cady
+							Stanton — Contrasts</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Katharine — Biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Quotations</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Biography — Reviews (Boston)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Reviews and Advance Copies</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Beacon Press material</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Publication</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Index — S.B.A.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Photographs, </unittitle>
+						<physdesc>(Copies and originals)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Corrections</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Permissions</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Lucy E. — Interviews</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Biography — Notes — Revised Extra</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Preface and Suggestions</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Notes and Carbons</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Letters re: Material</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony Biography — Extra Sheets — Preface etc.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Winter, Una R. — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Powell, Rose Arnold — Letters, Statements, clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — S.B.A. Memorial, 17 Madison St., Rochester,
+							NY</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — S.B.A. Memorial Library, Los Angeles Public
+							Library —  Una R. Winter, Director</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Howard, Martha [Mrs. George Howard] 1947-1954  — S.B.A. Memorial,
+							Rochester, NY</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Howard, Martha [Mrs. George] Letters 1955-</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Whereabouts of Scrapbooks and Books — Library of
+							Congress — Diaries</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Bacon, Ann Anthony — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Leaflets</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Bacon, Ann Anthony — re: Right to Quote</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Leaflets — Manuscript Notations</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Anthony, Susan B. — Birthday Celebrations</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Charles</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Lucy — to Alma Lutz</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Susan B. — Articles</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Susan B.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Susan — Children's Story</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>American Music Broadcast</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Susan B.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Susan B. — Negatives of S.B.A., Colleagues, and George
+							Francis Train</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Anthony, Susan B. — Photographs for Book</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Avery, Rachel Foster — Photograph</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Letters — Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Women's Political Union</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Balch, Emily Greene</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Barton, Clara</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Barton, Clara — Signed Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Beard, Mary R. and Charles</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Beecher, Catharine E. — Letter, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Beecher, Henry Ward</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Belmont, Alva</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blackwell, Alice Stone</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blackwell, Alice Stone — Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blackwell, Antoinette Brown, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blackwell, Dr. Elizabeth, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blackwell, Dr. Elizabeth</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blackwell Family</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blake, Lillie Devereux, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton, </unittitle>
+						<physdesc>(Originals)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — re: Memoirs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — 1856-1940</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch Memoirs, Vassar 75th Anniversary Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Miscellaneous, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Letters — From Mary Beard, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Publication</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch Memoirs — Letters and Reviews</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Publication</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch Memoirs — Letters and Reviews</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch Notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch Notes</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Letters — National Woman's Party, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch Memoirs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — re: Created Equal</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch, Harriot Stanton — Speeches, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Blatch Memoirs — Letters prior to publication</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Bloomer, Amelia</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Bloomer Costumes</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Booth, Mary L.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Boyer, Ida Porter — Woman Suffrage Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Breckinridge, Sophonisba Preston</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Bremer, Frederika</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Bright, Jacob</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Brown, Brockden</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Buck, Pearl S.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Bullard, Laura Curtis</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Butler, Eleanor</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Butler, Josephine E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Carey, Phoebe and Alice, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Carroll, Anna Ella</unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Carroll, Anna Ella</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Carteret, Elizabeth</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Catt, Carrie Chapman, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Catt, Carrie Chapman, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Catt, Carrie Chapman</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Chandler, Thomas</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chandler, Thomas — Lundy</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W., </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — Biographical and Family — Anti-slavery to
+							1834</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — 1835-1836</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — 1835-1836</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — 1837-1840</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — 1840-1850</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — 1850-1869</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — Civil War, etc</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — Foster</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — 1870-1885</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — Standard</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chapman, Maria W. — Standard</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Chiang Kai-shek, Madame</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Child, Lydia Maria, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection and Radcliffe Women's
+							Archives)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Child, Lydia Maria, </unittitle>
+						<physdesc>(Copies from Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Child, Lydia Maria</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Colby, Clara Beurck</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Cobden — Sanderson</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Coonley, Queene Ferry</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Corbin, Hannah Lee — Richard Henry Lee</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Crandall, Prudence and P.C. Philleo</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Crandall, Prudence — Letters — Cornell University and Connecticut
+							College</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Crandall, Prudence, </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Cunningham, Jane</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Curtis, George William</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Custer, Elizabeth B.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Dall, Caroline H.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Darling, Grace</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Davis, Paulina W. — Correspondence re: Decade Meeting</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Davis, Paulina Wright — Miscellaneous Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Davis, Paulina Wright</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Dewey, Annie Godfrey</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Dickinson, Anna E., </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Dickinson, Anna E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Douglass, Frederick</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Earhart, Amelia</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eaton, Harriet Cady</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mry Baker — Amesbury</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker — North Groton</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker — Swampscott</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker — Data — RUMNEY YEARS</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker — THE RUMNEY YEARS for Longyear
+							Foundation</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker — RUMNEY YEARS — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker — Quimby Period</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eddy, Mary Baker — CHRISTIAN SCIENCE SENTINEL articles</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Eliot, George</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Ellet, Elizabeth F., </unittitle>
+						<physdesc>(Originals and copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Ellet, Elizabeth F., </unittitle>
+						<unitdate type="inclusive">1818-1877</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Englishwomen — Including correspondence with Scotland, Ireland, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Englishwomen, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Farnham, Eliza, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Fern, Fannie</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Flower, Benjamin O.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Follen, Eliza</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Foster, Abby Kelley</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Foster, Abby Kelley — Worcester</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Miscellaneous, 1859-1870 (Mott — Foster)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Foster, Abby Kelley, 1859-</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Foster, Abby Kelley, 1836-1839</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 16</container>
+						<unittitle>[Foster]Abby Kelley, 1844-1849</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>[Foster]Abby Kelley 1830-1840-1843</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Foster, Abby Kelley 1837-1839-1845</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Fry, Elizabeth</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Gage, Matilda Joslyn</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Garrison, Helen</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Garrison, William Lloyd</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Garrison, William Lloyd, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Gaskell, Mrs.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Godwin, Mary W.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Greeley, Horace</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Grew, Mary, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Grew, Mary</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Griffing, Josephine S.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Grimke, Angelina E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Grimke, Sarah, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Grimke, Sarah and Angelina</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Grimke Sisters,1805-1840</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Grimkes, 1839-</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Guiney, Louise</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Hale, Sarah J., </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Hale, Sarah J. — 1788-1879</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Harper, Ida Husted</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Harper, Ida Husted — Letters, </unittitle>
+						<physdesc>(Copies from the S.B.A Memorial Collection, 17 Madison St.,
+							Rochester, NY)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Hawley, Genevieve Lel, </unittitle>
+						<physdesc>(Copies from the S.B.A Memorial Collection, 17 Madison St.,
+							Rochester, NY)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Hericourt, Jenny</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Herttell, Judge — Married Women's Property Act</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Higginson, Thomas Wentworth</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Higginson, Thomas Wentworth</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Holden, Miriam Y.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Hooker, Isabella Beecher</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Hosmer, Harriet</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Howe, Julia Ward and Daughter, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Hutchinson, Abby</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Isabella, Queen</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Johnson, Oliver</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Journalists — Women</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Joy, Sally — Women Journalists</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Keller, Helen</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Kemble, Fanny</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Kirchwey, Freda</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Knight, Sarah Kemble</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Larcom, Lucy and Lowell Mill Periodical</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Lincoln, Mary</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Lippencott, Sarah J. (Grace Greenwood)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Livermore, Mary A., </unittitle>
+						<physdesc>(Copies - Originals Given to Radcliffe Women's Archives,
+							5/4/56)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Livermore, Mary, include. 2 photos taken from VC ind. stdts
+							photofile</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Lockwood, Belva, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Lukens, Rebecca</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Lyon, Mary, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Lyon, Mary</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Macaulay, Catharine</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Martineau, Harriet, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>May, Samuel J.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>McCord, Louisa C.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Merriam, Eve</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mill, John Stuart</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Miller, M. Emma Guffey</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mitchell, Maria</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mitchell, Maria</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Moody, Lady Deborah</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>More, Hannah</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Morris, Esther Hobart</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mott, Lucretia, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mott, Lucretia, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mott, Lucretia and Lydia Mott</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mott, Lucretia — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Mott, John, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>New England Women</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Nichols, Mary Gove</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Nightingale, Florence</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Ossoli, Margaret Fuller</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Owen, Robert Dale</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Owen, Robert Dale</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Pankhurst, Emmeline and Christabel</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Park, Alice</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Parton, Sara</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Penn, Hannah</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Pethick — Lawrence, Lady</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Phelps, Almira Hart Lincoln</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Phillips, Wendell</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Phillipa, Wendell and Ann — Play or Novel</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Pierce, Sarah</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Pillsbury, Parker, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Quotations</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Rankin, Jeannette</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Ricker, Marilla M.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Roosevelt, Eleanor</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Rose, Ernestine</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Rose, Ernestine L., </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Rotch, Mary</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Rowson, Susanna</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Royall, Anne, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Royall, Anne</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Sanger, Margaret</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Sargent, Ellen Clark</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Schwimmer, Rosika</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Selden, Judge Henry R..</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Severance, Caroline</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Sewall, May Wright</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Shaw, Anna Howard</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Shaw, Anna Howard, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Shaw, Anna Howard</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Shaw, Anna Howard — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Sigourney, Lydia Huntley, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Sigourney, Lydia H. — 1791-1865</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Smith, Elizabeth Oakes</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Smith, Elizabeth Oakes</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Smith, Gerrit</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Smith, Gerrit — to Susan B. Anthony</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Smith, Julia</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Smith, Julia — 1792-1886</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Somerville, Mary</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Spencer, Mary E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, Elizabeth Cady and Others — Letters — Duplicates in
+							File</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, Elizabeth Cady — Letters to Clara B. Colbys, </unittitle>
+						<physdesc>(copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, Elizabeth Cady — Sayings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, Elizabeth Cady — Letters to Gerrit Smith, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, Elizabeth Cady, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, Elizabeth Cady — Miscellaneous, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Family</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, Henry Brewster — 1805-1887</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Childhood</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Youth, School Days</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Marriage</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.c. — Europe, 1840</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1841-1842 — Johnstown, Motherhood</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1843-1846 — Boston</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1847-1849</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1848 — Convention</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1850</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1851</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1852</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Peterboro</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Seneca Falls (1847-1862) General</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Bloomer Costume</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — The Lily</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1853</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1854</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1855</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1856</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1857</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1858 — 59</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1860</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Outlines</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Correspondence re: material for Lutz
+							biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Library references for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — as Grandmother</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Articles about</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Indexes for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Sources for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Ida Husted Harper</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Description of Characteristics</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Comments on Life of</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Suffrage Organizations</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Magazine Articles</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Amendments</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Marriage and Divorce</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Miscellaneous undated material</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Look up</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1863-1864</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1861-1862</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1865</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1866</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — 1867-1868</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 18</container>
+						<unittitle>Stanton, E.C. — Kansas, 1867</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1869</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — The Revolution  — 1868-1870</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Lecture Tours</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. —  1870</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1871</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1872</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1873</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1874-1879</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1880-1889</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1880-1883</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1884-1886</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1887-1889 — Europe</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1890-1891</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1892-1894</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1890-1895</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1895 — Birthday Celebration</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1896 — Woman's Bible, Religion</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1897-1898</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1899</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1898 — Eighty Years and More: 1815-1897</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1900</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — 1901-1802</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Publications</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Quotations</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Leaflets</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Play</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Lutz Corrections for Created Equal — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Birthday — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, E.C. — On Labor — Socialism — Copy</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, Robert and Theodore — Letters, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stanton, Henry B.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stevens, Doris</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stone, Lucy — Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stone, Lucy — Letters, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stone, Lucy</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stone, Lucy — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Stowe, Harriet Beecher</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Swisshelm, Jane Gray</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Thayer, Julia H.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Thomas, M. Carey</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Train, George Francis</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Tubman, Harriet</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Upton, Harriet Taylor</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Van Walters, Dr. Miriam</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Vernon, Mabel</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Voorhis, John Van, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Walker, Dr. Mary, </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Walton, Major J. M.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Warren, Mery — Letter to, </unittitle>
+						<physdesc>(Original)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Warren, Mercy</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Wheatley, Phillis</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Whittier</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Widdemer, Margaret</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Willard, Emma, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Willard, Emma</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Willard, Emma — Photographs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Willard, Emma — Ancestry — Capt. Samuel Hart — Lydia Hinsdale
+							Hart</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Willard, Emma — Connecticut: Farmington, Berlin — Social Life and
+							Customs</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Willard, Emma — Girlhood and Early Education</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 19</container>
+						<unittitle>Willard, Emma — Education 1800</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Teaching and Studying</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — The Plan</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Middlebury, VT</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Waterford</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Founding of Troy Female Seminary</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Efforts for Greece</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Educational Ideas</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Lafayette's Visit</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Troy Female Seminary</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Troy Female Seminary, 1830 — 38</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — European Trip, 1830</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Work for Common School in CT</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — General Work for Education</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Histories</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Normal School Idea</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Second Marriage and Divorce</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Troy, 1838-1844</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — 1844-1870</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Women's Rights</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Last Years</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Bibliography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Correspondence re: material for Lutz
+							biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Chronology for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Photographs for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Character</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Pupils</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Emma Willard Association</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Other Writings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Contemporary Schools</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Geography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Corrections for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Outlines for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Sources for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — First Draft for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — New Material for Lutz biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Contemporaries</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Lutz Correspondence with Publishers</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Lutz Correspondence with Houghton
+							Mifflin</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Reviews of Lutz Biography and Letters</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Advertising and Marketing of Lutz
+							Biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Copies of Lutz Biography sent to</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — 1964 Lutz Biography Reviews</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Reviews and Material for 1964 Lutz Biography
+							Jacket</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Letters re</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Historical References Clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Speeches</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Acknowledgements, Chronology, Index for Lutz
+							biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Correspondence re: new edition of Lutz
+							biography</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Lutz Beacon Press Correspondence</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Emma Willard Publications</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Emma — Emma Willard Fund</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Frances E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Willard, Frances E., </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Wollstonecraft, Mary, </unittitle>
+						<physdesc>(Copies from the Alma Lutz Collection)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Woodhull, Victoria</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Woodhull, Victoria</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Woolley, Mary E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Wright, Frances</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Wright, Frances</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Wright, Martha C.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Wright, Martha C., </unittitle>
+						<physdesc>(Copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 20</container>
+						<unittitle>Zenger, Anna</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Miscellaneous</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Biographical information about Alma Lutz; photographs of herself,
+							family, and friends; family letters; miscellaneous correspondence, 1971,
+							and correspondence relating to her articles; and materials relating to
+							the Vassar Centennial, Class of 1912, and Vassar-Yale study.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 2.1-2.25</container>
+						<unittitle>Correspondence and information relating to Schlesinger Library
+							(Lutz was a member of the Advisory Board from 1961 until her death); the
+							Sophia Smith Collection; correspondence with Vassar College Library
+							about materials on women; and information on other women's history
+							collections, bibliographies, etc.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folder 2.26</container>
+						<unittitle>Women's history courses</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folder 2.27</container>
+						<unittitle>Lucy Stone League</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folder 2.28</container>
+						<unittitle>Margaret Brent Fellowship</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 2.29-2.35</container>
+						<unittitle>U.S. President's Commission on the Status of Women</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>The National Woman's Party and the Equal Rights Amendment.
+							Includes information; correspondence (Alice Paul, Emma Guffey Miller);
+							manuscripts of articles and speeches; clippings; information about
+							1945-47 Party controversy; endorsements by men; opposition to ERA;
+							American Association of University Women and ERA; and Massachusetts
+							Branch of the National Woman's Party and Massachusetts Committee for
+							ERA.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 4.1-4.3</container>
+						<unittitle>World Woman's Party, International Labor Office, and United
+							Nations</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 4.4-4.12</container>
+						<unittitle>Seneca Falls Woman's Rights Convention, 1848</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 4.13-4.14</container>
+						<unittitle>First National Woman's Rights Convention, Boston, 1850, and
+							Boston Convention, 1859.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 4.15-4.35</container>
+						<unittitle>Women suffrage. Includes history, documents, publications, songs,
+							posters, Wyoming, New York, England, anti-suffrage publications, and Alma
+							Lutz manuscripts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 5.1-5.26</container>
+						<unittitle>Women's history. Includes colonial women, western pioneer women,
+							women and labor (Lowell Mill girls), early women printers, lawyers and
+							business women, dress reform, and English women.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file ">
+					<did>
+						<container>Folders 5.27-5.53</container>
+						<unittitle>Antislavery movement. Includes bibliography, publications,
+							correspondence, notes, material on women's role and female
+							antislavery</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 21-22</container>
+						<unittitle>Bibliographies of various library collections on
+							women</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 23</container>
+						<unittitle>Reports of Radcliffe's Schlesinger Library</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 24</container>
+						<unittitle>Reports and publications of Smith College Library, Sophia Smith
+							Collection, </unittitle>
+						<physdesc>(1 box and 1 envelope)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 25-26</container>
+						<unittitle>The Open Door International (for the economic emancipation of the
+							woman worker), 1929-1970</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 27</container>
+						<unittitle>Other international women's organizations</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 28-30</container>
+						<unittitle>UN bulletins and other materials on status of women and human
+							rights, 1946-1958</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 31</container>
+						<unittitle>UN Commission on the Status of Women, 1947-1970</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 32</container>
+						<unittitle>Inter-American Commission of Women, 1938-1963. Includes a folder
+							of clippings, correspondence, and statements.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 33</container>
+						<unittitle>Pamphlets and clippings on women in various countries, 1
+							box</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 34-35</container>
+						<unittitle>Legal status of women in the U.S. (Mostly publications of Women's
+							Bureau, 1930-, and President's Commission on the Status of
+							Women)</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 36-38</container>
+						<unittitle>Women's Bureau publications on wage and hour legislation and
+							surveys by occupation and geographical areas</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 39</container>
+						<unittitle>Other pamphlets on women workers</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 40-44</container>
+						<unittitle>Material on the Equal Rights Amendment, 1924-1973</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 45-46</container>
+						<unittitle>Women in World War II and in the armed forces</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 47</container>
+						<unittitle>Miscellaneous pamphlets on women, women in law, women in the
+							church</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 48</container>
+						<unittitle>Miscellaneous pamphlets relating to education of
+							women</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 49</container>
+						<unittitle>Women's Liberation</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 50</container>
+						<unittitle>Miscellaneous pamphlets relating to American history</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 51-52</container>
+						<unittitle>Photostats of material relating to Susan B. Anthony, Elizabeth
+							Cady Stanton, Margaret Elizabeth Chandler, Laura Clay, Abby Kelley
+							Foster, Benjamin Lundy, and antislavery women.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Boxes 53-59</container>
+						<unittitle>Index cards</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 60</container>
+						<unittitle>Copies of books written by or edited by Alma Lutz, including
+							copies of <emph render="italic">Created Equal</emph> and <emph render="italic">Challenging Years</emph>, with marginal notes by
+							Lutz; 2 books used by A.L. at Vassar; a copy of Mary Beard's WOMAN AS
+							FORCE IN HISTORY (1946), marked by A.L.; and copies of the papers
+							presented at seminars on American Women at Radcliffe, 1951/52 and
+							1952/53.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 61</container>
+						<unittitle>Miscellaneous pamphlets and articles</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 62</container>
+						<unittitle>Miscellaneous oversized pamphlets and articles</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

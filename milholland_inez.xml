@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="us" mainagencycode="npv"> npv_milholland_inez
+    </eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Harvard University Schlesinger Library Microfilmed Inez Milholland Papers, 1906-1916</titleproper>
+        <author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+        <address>
+          <addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+        </address>
+        <date>October 2012</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by Laura Streett, <date>2012</date></creation>
+      <langusage>Finding aid written in<language>English.</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <head> Collection Summary</head>
+      <origination label="Creator:" encodinganalog="100">
+        <persname>Milholland, Inez</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245"> Inez Milholland Papers, 1906-1916</unittitle>
+      <unitdate type="inclusive" label="Microfilm Produced" encodinganalog="245$f"> 1981 </unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a"> 3 reels</physdesc>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+      </repository>
+      <abstract label="Abstract:" encodinganalog="520$a"> Microfilm set of the Milholland Papers held by the Schlesinger Library at Harvard University.</abstract>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Note</head>
+      <p>See the Biography included in Schlesinger Library's guide the the Milholland Papers:</p>
+      <p><archref href="http://oasis.lib.harvard.edu/oasis/deliver/~sch00193">Inez Milholland Papers at the Schlesinger Library, Harvard University</archref>
+      </p>
+    </bioghist>
+    <accessrestrict encodinganalog="506">
+      <head>Access</head>
+      <p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Restrictions on Use</head>
+      <p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="http://www.radcliffe.harvard.edu/schlesinger-library/permission-publish" show="new"> permissions policies of the Schlesinger Library.</archref></p>
+    </userestrict>
+    <controlaccess>
+      <head>Subject Headings</head>
+      <controlaccess>
+        <head>Names:</head>
+        <persname source="lcnaf" encodinganalog="600">Belmont, Alva Erskine (Smith) Vanderbilt, 1853-1933 </persname>
+        <persname source="lcnaf" encodinganalog="600"> Berenson, Mary</persname>
+        <persname source="lcnaf" encodinganalog="600">Boissevain, Eugen, -1949</persname>
+        <persname source="lcnaf" encodinganalog="600">Cleghorn, Sarah Norcliffe, 1876-1959 </persname>
+        <persname source="lcnaf" encodinganalog="600">Eastman, Crystal, 1881-1928 </persname>
+        <persname source="lcnaf" encodinganalog="600">Eastman, Max, 1883-1969 </persname>
+        <persname source="lcnaf" encodinganalog="600">Shaw, Anna Howard, 1847-1919 </persname>
+        <persname source="lcnaf" encodinganalog="600">Sinclair, Upton Beall, 1878-1968 </persname>
+        <persname source="lcnaf" encodinganalog="600">Stielow, Charles Frederick </persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject source="lcsh" encodinganalog="650">Capital punishment </subject>
+        <subject source="lcsh" encodinganalog="650">Citizenship </subject>
+        <subject source="lcsh" encodinganalog="650">European War, 1914-1918 </subject>
+        <subject source="lcsh" encodinganalog="650">Lawyers </subject>
+        <subject source="lcsh" encodinganalog="650">Marriage </subject>
+        <subject source="lcsh" encodinganalog="650">Prisoners </subject>
+        <subject source="lcsh" encodinganalog="650">Suffrage </subject>
+      </controlaccess>
+      <controlaccess>
+        <head>VCL Categories</head>
+        <subject source="local" encodinganalog="690"> Women's History </subject>
+      </controlaccess>
+    </controlaccess>
+    <odd encodinganalog="500">
+      <head>Encoding Information</head>
+      <p>Encoded October 2012.</p>
+    </odd>
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>Collection processed by the Schlesinger Library, Harvard University. Microfilm produced by the Northeast Document Conservation Center.</p>
+    </processinfo>
+    <originalsloc encodinganalog="535">
+      <head>Location of Originals</head>
+      <p>
+        <archref href="http://oasis.lib.harvard.edu/oasis/deliver/~sch00193">Inez Milholland Papers at the Schlesinger Library, Harvard University</archref>
+      </p>
+    </originalsloc>
+    <phystech>
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Microfilm reader required</p>
+    </phystech>
+    <otherfindaid encodinganalog="555">
+      <head>Other Finding Aids</head>
+      <p>
+        <archref href="http://oasis.lib.harvard.edu/oasis/deliver/~sch00193">Inez Milholland Papers at the Schlesinger Library, Harvard University</archref>
+      </p>
+    </otherfindaid>
+    <dsc type="in-depth">
+      <head>Container List</head>
+      <p/>
+      <c01 level="item">
+        <did>
+          <unittitle> Reel 1 (folders 1-11)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle> Reel 2 (folders 12-28)</unittitle>
+        </did>
+      </c01>
+      <c01 level="item">
+        <did>
+          <unittitle> Reel 3 (folders 29-50)</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_orton_james
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the James Orton Papers, 1846-1981, bulk 1846-1877</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>June 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2018</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Orton, James, 1830-1877</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> James Orton Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1846-1981 </unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f"> 1846-1877 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 1 cubic foot (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">One scrapbook, one diary, and a number of letters and manuscripts relating to Orton's education and his family. The scrapbook contains clippings of Orton's writings about his early explorations of South America, with annotations presumed to be by Orton himself. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note Note </head>
+			<p/>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1830 April 21</date>
+					<event>Born to Minerva Squire and Azariah Giles Orton in Seneca Falls, New York</event>
+				</chronitem>
+				<chronitem>
+					<date>1846-1847</date>
+					<event>Attended Oxford Academy in Chenango, New York</event>
+				</chronitem>
+				<chronitem>
+					<date>1850-1851</date>
+					<event>Attended Williston Seminary in Easthampton, New York</event>
+				</chronitem>
+				<chronitem>
+					<date>1851-1855</date>
+					<event>Attended Williams College</event>
+				</chronitem>
+				<chronitem>
+					<date>1855-1858</date>
+					<event>Attended Andover Theological Seminary</event>
+				</chronitem>
+				<chronitem>
+					<date>1859 November 17</date>
+					<event>Married Ellen Maria Foote</event>
+				</chronitem>
+				<chronitem>
+					<date>1860 July 11</date>
+					<event>Ordained as pastor of the Congregational Church in Greene, New York</event>
+				</chronitem>
+				<chronitem>
+					<date>1861-1863</date>
+					<event>Served as pastor of the Congregational Church in Thomaston, Maine</event>
+				</chronitem>
+				<chronitem>
+					<date>1864</date>
+					<event>Served as pastor in Brighton, NY</event>
+				</chronitem>
+				<chronitem>
+					<date>1866</date>
+					<event>Appointed instructor of natural sciences at the University of Rochester</event>
+				</chronitem>
+				<chronitem>
+					<date>1867-1869</date>
+					<event>First South American expedition</event>
+				</chronitem>
+				<chronitem>
+					<date>1869-1877</date>
+					<event>Chaired the department of natural history at Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1873 June - 1874 January</date>
+					<event>Second South American expedition</event>
+				</chronitem>
+				<chronitem>
+					<date>1876 October - 1877 September 25</date>
+					<event>Third South American expedition</event>
+				</chronitem>
+				<chronitem>
+					<date>1877 September 25</date>
+					<event>Died while on expedition, Lake Titicaca, Peru</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>One scrapbook, one diary, and a number of letters and manuscripts relating to Orton's education and his family. The scrapbook contains clippings of Orton's writings about his early explorations of South America, with annotations presumed to be by Orton himself. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p> There is additional Orton material in our Autograph Files and Biographical Files. There are also Alumnae Biographical files for his daughters Anna and Susan. A tribute to his wife Ellen can be found in the February 1931 issue of the Vassar Quarterly: https://newspaperarchives.vassar.edu</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Orton, A. G. (Azariah Giles), 1789-1864</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Williams College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Williston Seminary (Easthampton, Mass.)--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Oxford Academy (Oxford, Chenango County, N.Y.)--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Naturalists--United States--Biography </subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Scrapbooks</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Nature and Natural History </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, June 2018.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Miranda Villesvik, 2017.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The 1876 diary was gift from the American Heritage Center at the University of Wyoming in 2004 (M2004-006). The remainder of the collection was purchased from Hein and Company Bookstore, Jackson, California in August 2015(M2016-014).</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>James Orton Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Biographical Material </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II. </ref> Images </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III. </ref> Correspondence</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series IV. </ref> Writings</unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. Biographical Material,</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 1.1 </container>
+						<unittitle> Diary, </unittitle>
+						<unitdate> 1876 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.2 </container>
+						<unittitle> Scrapbook, </unittitle>
+						<unitdate> circa 1873-1876 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.21 </container>
+						<unittitle> Williams College Tuition Bill, </unittitle>
+						<unitdate> 1853 May 3 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.22 </container>
+						<unittitle> Marriage Certificate, Orton and Ellen M. Foote, </unittitle>
+						<unitdate> 1859 November 17 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.23 </container>
+						<unittitle> Resolution of thanks, [Congregational Church], Thomaston, Maine, </unittitle>
+						<unitdate> 1863 September 13 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.24 </container>
+						<unittitle> Mary Manly Obituary, </unittitle>
+						<unitdate> 1953 April 3 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.25 </container>
+						<unittitle> Voice of the Mountains — Vermont Country Store catalogues, </unittitle>
+						<unitdate> 1981, 1985 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. Images,</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 1.3 </container>
+						<unittitle> William Jameson — photograph </unittitle>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.4 </container>
+						<unittitle> Domingos Monteiro Peixoto — "President of the Province of Amazonas, Brazil" — photograph, </unittitle>
+						<unitdate> 1873 </unitdate>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.5 </container>
+						<unittitle> Col. Phineas Staunton — photograph </unittitle>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.6 </container>
+						<unittitle> Henry Augustus Ward — photograph </unittitle>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.7 </container>
+						<unittitle> James Orton — photograph, </unittitle>
+						<unitdate> circa 1860-1865 </unitdate>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.8 </container>
+						<unittitle> James Orton — photograph, </unittitle>
+						<unitdate> circa 1866-1868 </unitdate>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.9 </container>
+						<unittitle> James Orton — photograph, </unittitle>
+						<unitdate> circa 1869-1873 </unitdate>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.10 </container>
+						<unittitle> James Orton — photograph, </unittitle>
+						<unitdate> circa 1869-1873 </unitdate>
+						<physdesc> (cabinet card) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.11 </container>
+						<unittitle> James Orton — photograph, </unittitle>
+						<unitdate> circa 1869-1873 </unitdate>
+						<physdesc> (cabinet card) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.12 </container>
+						<unittitle> James Orton — photograph, </unittitle>
+						<unitdate> circa 1862-1871 </unitdate>
+						<physdesc> (paper print) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.13 </container>
+						<unittitle> James Orton — photograph </unittitle>
+						<unitdate> circa 1862-1871 </unitdate>
+						<physdesc> (paper print) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.14 </container>
+						<unittitle> James Orton — engraving, </unittitle>
+						<unitdate> circa 1855 </unitdate>
+						<physdesc> (2 prints) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.15 </container>
+						<unittitle> James Orton — photograph of sketch </unittitle>
+						<physdesc> (paper print) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.16 </container>
+						<unittitle> James Orton — photograph of memorial in Peru </unittitle>
+						<physdesc> (paper print) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.17 </container>
+						<unittitle> Unidentified — photograph </unittitle>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.18 </container>
+						<unittitle> Unidentified — photograph </unittitle>
+						<physdesc> (carte de visite) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.19 </container>
+						<unittitle> Unidentified — photograph </unittitle>
+						<physdesc> (tintype) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.20 </container>
+						<unittitle> Unidentified — photograph </unittitle>
+						<physdesc> (tintype) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. Correspondence,</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 2.1 </container>
+						<unittitle> James Orton to "friend Mary," </unittitle>
+						<unitdate> 24 January 1855 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.2 </container>
+						<unittitle> James Orton to Azariah Giles Orton, </unittitle>
+						<unitdate> 3 February 1855 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.3 </container>
+						<unittitle> James Orton to "friend Mary," </unittitle>
+						<unitdate> 15 March 1855 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.4 </container>
+						<unittitle> "Notro W." to "Carus Jacobus" [William Orton to James Orton?], </unittitle>
+						<unitdate> 19 February 1857 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.5 </container>
+						<unittitle> Azariah Giles Orton to James Orton, </unittitle>
+						<unitdate> 20 February 1857 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.6 </container>
+						<unittitle> Azariah Giles Orton to James Orton, </unittitle>
+						<unitdate> 6 April 1857 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.7 </container>
+						<unittitle> Letter of introduction for James Orton from S.R. Asbury to James Browne and Co., </unittitle>
+						<unitdate> 1858 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.8 </container>
+						<unittitle> James Orton to Annie, Susie, and Blossie Orton, </unittitle>
+						<unitdate> 6 August 1872 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.9 </container>
+						<unittitle> James Orton to Annie Orton, </unittitle>
+						<unitdate> [summer 1872] </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.10 </container>
+						<unittitle> Asahel Foote to Albert L. Orton, </unittitle>
+						<unitdate> 16 December 1872 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.11 </container>
+						<unittitle> G.R. Williams to James Orton, </unittitle>
+						<unitdate> 29 May, 1876 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.12 </container>
+						<unittitle> James Orton To Annie Orton, </unittitle>
+						<unitdate> 5 April 1877 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 2.13 </container>
+						<unittitle> Jacob to Karl, “First of all, I want to see you,” </unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. Writings,</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Juvenelia </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 2.14 </container>
+							<unittitle> "A Voyage of Discovery," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.15 </container>
+							<unittitle> "Plymouth," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.16 </container>
+							<unittitle> "Fall," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.17 </container>
+							<unittitle> "The Seasons," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.18 </container>
+							<unittitle> "Canals," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.19 </container>
+							<unittitle> "Discovery of America," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.20 </container>
+							<unittitle> "Rome," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.21 </container>
+							<unittitle> "A Voyage to England," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.22 </container>
+							<unittitle> "Progress of Chemistry," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.23 </container>
+							<unittitle> "Progress of Electricity," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.24 </container>
+							<unittitle> "In the time of the wars between England and Spain…" </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.25 </container>
+							<unittitle> "Acrostic: The Seasons," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.26 </container>
+							<unittitle> "Industry," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.27 </container>
+							<unittitle> "Water is the most useful thing…" </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Oxford Academy </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 2.28 </container>
+							<unittitle> "The Job of Ancient Writings," </unittitle>
+							<unitdate> 1846 August 26 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.29 </container>
+							<unittitle> "Angelo, the Artist" [Michelangelo], </unittitle>
+							<unitdate> 1846 September 12 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.30 </container>
+							<unittitle> "Effects of the Crusades," </unittitle>
+							<unitdate> 1846 September 25 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.31 </container>
+							<unittitle> "Napoleon was trumpeted out of his earthly career…" [Death of Napoleon] </unittitle>
+							<unitdate> 1846 November 19 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.32 </container>
+							<unittitle> "The Progress of Literature," </unittitle>
+							<unitdate> 1846 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.33 </container>
+							<unittitle> "Latin Salutatory" Oxford Academy anniversary, </unittitle>
+							<unitdate> 1846 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.34 </container>
+							<unittitle> "Rome," </unittitle>
+							<unitdate> 1847 January 30 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.35 </container>
+							<unittitle> "Aeneid Liber 2d Line 250", </unittitle>
+							<unitdate> 1847 February 13 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.36 </container>
+							<unittitle> Calliopean Society address, </unittitle>
+							<unitdate> 1847 February 19 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.37 </container>
+							<unittitle> "Grecian Literature," Calliopean Society address, </unittitle>
+							<unitdate> 1847 April 16 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.38 </container>
+							<unittitle> "Battle of Tours," </unittitle>
+							<unitdate> 1847 May 8 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.39 </container>
+							<unittitle> "Literary Fame," </unittitle>
+							<unitdate> 1847 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.40 </container>
+							<unittitle> "Among the great events which characterize…," [conquest of the Americas] </unittitle>
+							<unitdate> 1847 August 28 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.41 </container>
+							<unittitle> "Crusades," </unittitle>
+							<unitdate> 1847 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.42 </container>
+							<unittitle> Eulogium on Oxford Academy, </unittitle>
+							<unitdate> circa 1846-1847 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Williston Seminary </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 3.1 </container>
+							<unittitle> "The Mediterranean," </unittitle>
+							<unitdate> 1850 January 1 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.2 </container>
+							<unittitle> Adelphi Society address, </unittitle>
+							<unitdate> 1850 March 8 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.3 </container>
+							<unittitle> "Tall Oaks From Little Acorns Grow," Adelphi Society address, </unittitle>
+							<unitdate> 1850 May 24 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.4 </container>
+							<unittitle> "Ambition," </unittitle>
+							<unitdate> 1850 October 26 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.5 </container>
+							<unittitle> "Smithsonian Bequest," Adelphi Society address, </unittitle>
+							<unitdate> 1850 November 8 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.6 </container>
+							<unittitle> "On the Evils of Intemperance," </unittitle>
+							<unitdate> 1850 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.7 </container>
+							<unittitle> "True Patriotism," </unittitle>
+							<unitdate> 1850 Fall </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.8 </container>
+							<unittitle> "Milton, P.L. B.V. 171-174," </unittitle>
+							<unitdate> 1850 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.9 </container>
+							<unittitle> "A Leaf from 'The Sack of Troy,' Aeneid, L. II. 268-297," </unittitle>
+							<unitdate> 1851 January 25 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.10 </container>
+							<unittitle> "Thoughts on Reading," </unittitle>
+							<unitdate> 1851 February 15 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.11 </container>
+							<unittitle> "The Thinker," Commencement [piece], </unittitle>
+							<unitdate> 1851 June 28 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.12 </container>
+							<unittitle> "A Dream," </unittitle>
+							<unitdate> 1851 July 3 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.13 </container>
+							<unittitle> Greek and Latin translations, </unittitle>
+							<unitdate> 1851 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Williams College </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 3.14 </container>
+							<unittitle> "Supposed Speech of Hannibal to His Army at the Battle of Ticinum," </unittitle>
+							<unitdate> 1852 March </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.15 </container>
+							<unittitle> "Character," Class Society, </unittitle>
+							<unitdate> 1852 April 22 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.16 </container>
+							<unittitle> "The Rights to Discuss Presidential Acts," </unittitle>
+							<unitdate> 1852 June 18 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.17 </container>
+							<unittitle> "The Moral Grandeur of the Missionary Enterprise," Mills Society </unittitle>
+							<unitdate> 1852 September 26 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.18 </container>
+							<unittitle> "A Thought," </unittitle>
+							<unitdate> 1852 October 8 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.19 </container>
+							<unittitle> "On the Different Varieties of Hornvbende," Society of Natural History, </unittitle>
+							<unitdate> 1852 October 27 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.20 </container>
+							<unittitle> "Truth," </unittitle>
+							<unitdate> 1852 November 18 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.21 </container>
+							<unittitle> "Remorse," </unittitle>
+							<unitdate> 1853 March </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.22 </container>
+							<unittitle> "Science and Philosophy," </unittitle>
+							<unitdate> 1853 June 9 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.23 </container>
+							<unittitle> "Christian Conflict," Prize Rhetorical exercise, </unittitle>
+							<unitdate> 1853 July 11 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.24 </container>
+							<unittitle> "Art," </unittitle>
+							<unitdate> 1853 October 5 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.25 </container>
+							<unittitle> "Mirabile, Terrabile, Horrabile…," Philotechnian, </unittitle>
+							<unitdate> 1853 October 12 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.26 </container>
+							<unittitle> "Romans X: 5-9," Mills Theological Society </unittitle>
+							<unitdate> 1854 February 6 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.27 </container>
+							<unittitle> "We take the term politics…," </unittitle>
+							<unitdate> 1854 February 15 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.28 </container>
+							<unittitle> "Holy Beauty," Junior Exhibition </unittitle>
+							<unitdate> 1854 May 2 </unitdate>
+							<physdesc> (2 copies) </physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.29 </container>
+							<unittitle> "The world’s history…," [missionaries], Mills Theological Society </unittitle>
+							<unitdate> 1854 July 16 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.30 </container>
+							<unittitle> "Legs, " </unittitle>
+							<unitdate> 1855 January 31 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.31 </container>
+							<unittitle> "Nature is but the Outer Court of the Temple of the Most High, " </unittitle>
+							<unitdate> 1855 March 28 </unitdate>
+							<physdesc> (2 versions) </physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.32 </container>
+							<unittitle> "Reason in Insects," </unittitle>
+							<unitdate> 1855 June 1 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.33 </container>
+							<unittitle> "Footprints of the Creator, " </unittitle>
+							<unitdate> 1855 July 31 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.34 </container>
+							<unittitle> Philotechnian, </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.35 </container>
+							<unittitle> "Imagination as a Mediatorial Power," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.36 </container>
+							<unittitle> "Some are born great, some achieve greatness…," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.37 </container>
+							<unittitle> "I do not presume to call in question…" </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Unidentified and Miscellaneous </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 3.38 </container>
+							<unittitle> "To An Album" [poem], </unittitle>
+							<unitdate> 1851 September 3 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.39 </container>
+							<unittitle> "Romans 8: 38-39," Brighton, New York </unittitle>
+							<unitdate> 1867 March 31 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.40 </container>
+							<unittitle> "I John 4:8," given in Brighton and again at Vassar </unittitle>
+							<unitdate> 1866 December 2; 1869 May 16 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.41 </container>
+							<unittitle> "Vespertinae Romanenses," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.42 </container>
+							<unittitle> "Additional Stanzas," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.43 </container>
+							<unittitle> "Though nine long years…" </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.44 </container>
+							<unittitle> "No Man Can learn Every Thing," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.45 </container>
+							<unittitle> "Composition Day," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.46 </container>
+							<unittitle> "Maternus Metus!," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.47 </container>
+							<unittitle> "Curiosities of History," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.48 </container>
+							<unittitle> "The Inca's Doom," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.49 </container>
+							<unittitle> "Character of Early Government and Laws," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.50 </container>
+							<unittitle> "Elements," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.51 </container>
+							<unittitle> "Intervention or non intervention, that is the question…," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.52 </container>
+							<unittitle> "Origin of Women's Rights," </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.53 </container>
+							<unittitle> "…English Superstition…" </unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_kennerley_mitchell</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Mitchell Kennerley Papers, 1898-1984</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>October 1989</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Kennerley, Mitchell, 1878-1950</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Mitchell Kennerley Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1898-1984 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1 cubic foot (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, contracts, printed ephemera, and other materials from publisher Mitchell Kennerley that document his work on behalf of
+				writers, including Randolph G. Adams, Zoe Atkins, Arnold Bennett, Dorothy Beall
+				Cunningham, Bliss Carman, Max Eastman, Frank Harris, Alfred A. Knopf, D.H. Lawrence,
+				Christopher Morley, and Edna St. Vincent Millay.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Mitchell Kennerley (1878-1950) was an American publisher and art dealer.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, contracts, reports, photographs, and printed materials from Mitchell Kennerley's work
+				on behalf of writers including Randolph G. Adams, Zoe Atkins, Arnold Bennett,
+				Dorothy Beall Cunningham, Bliss Carman, Max Eastman, Frank Harris, Alfred A. Knopf,
+				D.H. Lawrence, Christopher Morley, and Edna St. Vincent Millay. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library.
+				</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><extref href="https://library.vassar.edu/specialcollections/rarebooks">Mitchell Kennerley Rare Books Collection, Archives and Special Collections Library, Vassar College</extref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Adams, Randolph Greenfield, 1864-1950</persname>
+				<persname source="lcnaf" encodinganalog="600">Atkins, Zoe</persname>
+				<persname source="lcnaf" encodinganalog="600">Bennett, Arnold, 1867-1931</persname>
+				<persname source="lcnaf" encodinganalog="600">Cunningham, Dorothy Beall</persname>
+				<persname source="lcnaf" encodinganalog="600">Carman, Bliss, 1861-1929</persname>
+				<persname source="lcnaf" encodinganalog="600">Eastman, Max, 1883-1969</persname>
+				<persname source="lcnaf" encodinganalog="600">Harris, Frank, 1855-1931</persname>
+				<persname source="lcnaf" encodinganalog="600">Knopf, Alfred A., 1892-1984</persname>
+				<persname source="lcnaf" encodinganalog="600">Lawrence, D. H. (David Herbert), 1885-1930</persname>
+				<persname source="lcnaf" encodinganalog="600">Morley, Christopher, 1890-1957</persname>
+				<persname source="lcnaf" encodinganalog="600">Millay, Edna St. Vincent, 1892-1950</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Authors</subject>
+				<subject source="lcsh" encodinganalog="650">Women authors, American</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Printing and Publishing</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007. Updated by Emma Gronbeck, July 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing October 1989. Finding aid revised August 1992. Collection re-housed and folders numbered by Emma Gronbeck, July 2024.</p>
+		</processinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Mitchell Kennerley Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Correspondence</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1</container>
+						<unittitle>Adams, Randolph G. to Kennerley, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2</container>
+						<unittitle>Bennett, Arnold to and from Kennerley, </unittitle>
+						<unitdate type="inclusive">1926</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.3</container>
+						<unittitle>Blount, L.E. to Kennerley, with clipping, </unittitle>
+						<unitdate type="inclusive">1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.4-1.8</container>
+						<unittitle>Borden, Fanny to and from Kennerley, </unittitle>
+						<unitdate type="inclusive">1930-1950</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unittitle>Borden, Fanny from miscellaneous, re: Kennerley, </unittitle>
+						<unitdate type="inclusive">1930-1931</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Bynner, Witter ("Hal") to Kennerley, </unittitle>
+						<unitdate type="inclusive">1914</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.11-1.15</container>
+						<unittitle>Carman, Bliss to Kennerley, </unittitle>
+						<unitdate type="inclusive">1898-1929, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16</container>
+						<unittitle>Carter, John to Kennerley, </unittitle>
+						<unitdate type="inclusive">1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.17</container>
+						<unittitle>Cunningham, Dorothy Beall to Kennerley, </unittitle>
+						<unitdate type="inclusive">1932</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unittitle>Gracie, Archibald to Kennerley, </unittitle>
+						<unitdate type="inclusive">1912</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unittitle>Harvey, Alexander to Kennerley, </unittitle>
+						<unitdate type="inclusive">1923</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unittitle>Harris, Frank to Kennerley, </unittitle>
+						<unitdate type="inclusive">1901-1909</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21</container>
+						<unittitle>Hergesheimer, Joseph to Kennerley, </unittitle>
+						<unitdate type="inclusive">1914-1915</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.22</container>
+						<unittitle>Jefferson, Allan A. to Kennerley, </unittitle>
+						<unitdate type="inclusive">1929</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.23</container>
+						<unittitle>Kemp, Harry to Kennerley, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.24</container>
+						<unittitle>Lanza, Clara to Kennerley, </unittitle>
+						<unitdate type="inclusive">1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unittitle>Lawrence, D.H. to Kennerley, </unittitle>
+						<unitdate type="inclusive">1913</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26</container>
+						<unittitle>Lee, Gerald Stanley to Kennerley, </unittitle>
+						<unitdate type="inclusive">1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>McArthur, Peter to Kennerley, </unittitle>
+						<unitdate type="inclusive">1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.28</container>
+						<unittitle>Melville, John to Kennerley, </unittitle>
+						<unitdate type="inclusive">1932 Jan 3</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unittitle>Miscellaneous to Kennerley, re: Donald Lowrie, </unittitle>
+						<unitdate type="inclusive">1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unittitle>Morley, Christopher to Kennerley, </unittitle>
+						<unitdate type="inclusive">1922-1933, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31</container>
+						<unittitle>Neihardt, John G. to Kennerley, </unittitle>
+						<unitdate type="inclusive">1909</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unittitle>Nirdlinger, Charles to Kennerley, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33</container>
+						<unittitle>Noguchi, Yone to Kennerley, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34</container>
+						<unittitle>Pierce, Lorne to Kennerley, </unittitle>
+						<unitdate type="inclusive">1928-1932, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unittitle>Wagstaff, Blanche Shoemaker to Kennerley, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Writings, Printed Ephemera, and Other Material</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36</container>
+						<unittitle>Articles about Kennerley, </unittitle>
+						<unitdate type="inclusive">1929-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.37</container>
+						<unittitle>Autograph - Ficke, Arthur Davison, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.38</container>
+						<unittitle>Book prospectuses, </unittitle>
+						<unitdate type="inclusive">1915-1937, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.1</container>
+						<unittitle>Card catalog - Kennerley publications, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.2-2.3</container>
+						<unittitle>Checklists of Kennerley publications, </unittitle>
+						<unitdate type="inclusive">1906-1938</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.4</container>
+						<unittitle>Clippings and printed ephemera - By and about Kennerley, </unittitle>
+						<unitdate type="inclusive">1931-1940</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.5</container>
+						<unittitle>Clippings and printed ephemera - By and about Others, </unittitle>
+						<unitdate type="inclusive">1905-1935</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.6</container>
+						<unittitle>Miscellaneous letters, leaflets, and photographs removed from the
+							Kennerley Book Collection, </unittitle>
+						<unitdate type="inclusive">1912-1939</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.1</container>
+						<unittitle>Pamphlets, </unittitle>
+						<unitdate type="inclusive">1919-1932</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.7</container>
+						<unittitle>Photographs, </unittitle>
+						<unitdate type="inclusive">1930, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.2</container>
+						<unittitle>Publishing contracts, A-G (by author's name), </unittitle>
+						<unitdate type="inclusive">1909-1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3</container>
+						<unittitle>Publishing contracts, H-V (by author's name), </unittitle>
+						<unitdate type="inclusive">1906-1915</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4</container>
+						<unittitle>"Publishing - Old and New" by Lewis Mumford (The New Republic), </unittitle>
+						<unitdate type="inclusive">1930 Oct 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.8-2.14</container>
+						<unittitle>Reader's Reports by Arthur Hooley (Charles Vale), </unittitle>
+						<unitdate type="inclusive">1908-1924</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

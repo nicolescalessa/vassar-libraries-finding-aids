@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_post_charles_gordon
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Charles Gordon Post Papers, approximately 1975-1997</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>19 Mar 2009.</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Post, C. Gordon (Charles Gordon), 1903-</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Charles Gordon Post Papers </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1975-1997</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">6.0 cubic feet (17 boxes) </physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Post's diaries as well as correspondence to Post after his tenure at Vassar College.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Charles Gordon Post, Vassar College professor emeritus of Political Science 1933-1969, received his Ph.D. from The Johns Hopkins University in 1933. In 1930, Post studied at the London School of Economics and Political Science for six months.</p>
+			<p>Post is the author of <emph render="italic">The Supreme Court and Political Questions</emph>, published in 1936; <emph render="italic">Significant Cases in British Constitutional Law</emph>, published 1957; and <emph render="italic">An Introduction to the Law</emph>, published October 1963. He co-authored two pamphlets with VC President Henry Noble MacCracken entitled <emph render="italic">Invitation to Freedom</emph> and <emph render="italic">Fair Play</emph>. Post collaborated on various other projects, as well. </p>
+			<p>Dr. Post served on the Committee on Undergraduate Education of the American Political Science Association. During the war, Post served as a member of the Town of Poughkeepsie War Finance Committee. Finally, Dr. Post was active in the Vassar College theatre community, taking part in more than twenty productions of Vassar's Experimental Theatre.</p>
+			<p>After retiring from Vassar in June 1969, Post was appointed as the Robert D. Campbell Visiting Prodessor at Wells College, Aurora, New York. Post continued there until 1985. Post died 18 February 1997 in Poughkeepsie, NY.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>11 Nov 1901</date>
+					<event>Charles Gordon Post born, Puerto Rico</event>
+				</chronitem>
+				<chronitem>
+					<date>1925</date>
+					<event>Graduated The Johns Hopkins University</event>
+				</chronitem>
+				<chronitem>
+					<date>1933</date>
+					<event>Received Ph.D., The Johns Hopkins University</event>
+				</chronitem>
+				<chronitem>
+					<date>1933-1969</date>
+					<event>Vassar College Political Science Professor</event>
+				</chronitem>
+				<chronitem>
+					<date>1969-1985</date>
+					<event>Wells College Visiting Professor</event>
+				</chronitem>
+				<chronitem>
+					<date>18 Feb 1997</date>
+					<event>Died, Poughkeepsie, NY</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Charles Gordon Post Papers contain Post's diaries as well as correspondence to Post after his retirement from Vassar College.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is closed for research until 18 Feb 2027 according to the agreement between Charles Gordon Post and the Vassar College Archives and Special Collections Library.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Political science--Study and teaching--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Political scientists--United States--Biography</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 19 Mar 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Archives and Special Collections Library staff.</p>
+		</processinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Charles Gordon Post Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle> Correspondence</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container>Box 1</container>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container>Box 14</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Diaries</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 2 </container>
+						<unitdate> undated </unitdate>
+						<physdesc><extent>(1 diary, 1 scrapbook) </extent></physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 3 </container>
+						<unitdate> undated </unitdate>
+						<physdesc><extent> (2 diaries) </extent></physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 4 </container>
+						<unitdate> 3 Aug 1976 - 24 Sep 1977 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unitdate> 1977] - 22 Feb 1980 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 5 </container>
+						<unitdate> Feb 1980 - Feb 1981 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unitdate> 23 Feb 1981 - 11 Nov 1981 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 6 </container>
+						<unitdate> 12 Nov 1981 - 1 Jan 1983 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unitdate> 3 Jan 1983 - 27 Jan 1984 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 7 </container>
+						<unitdate> Nov 1984 - Sept 1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unitdate> 10 Sept 1985 - 13 May 1986 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 8 </container>
+						<unitdate> 18 May 1986 - 10 Jan 1987 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unitdate> 14 Jan 1987 - 22 Sept 1987 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unitdate> 24 Sept 1987 - 7 June 1988 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 10 </container>
+						<unitdate> 17 June 1988 - 17 Feb 1989 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 10 </container>
+						<unitdate> [1989?] </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 11 </container>
+						<unitdate> 16 Dec 1989 - 11 July 1990 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 11 </container>
+						<unitdate> 14 July 1990 - 14 Mar 1991 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 12 </container>
+						<unitdate> 15 Mar 1991 - 19 June 1991 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 12 </container>
+						<unitdate> 21 June 1991 - 1 Feb 1992 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 13 </container>
+						<unitdate> 2 Feb 1992 - 17 Nov 1992 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 13 </container>
+						<unitdate> 2 May 1996 - 20 Sep 1996 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 15 </container>
+						<unitdate> undated </unitdate>
+						<physdesc><extent> (2 diaries) </extent></physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 16 </container>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 16 </container>
+						<unittitle>"Vol. V,"</unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 16 </container>
+						<unitdate> 20 Nov 1992 - 1 Nov 1993 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 17 </container>
+						<unitdate> 3 Nov 1993 - 3 Apr 1994 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 17 </container>
+						<unitdate> 9 Apr 1994 - 17 Feb 1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 17 </container>
+						<unitdate> 29 Feb 1995 - 30 Dec 1995 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 17 </container>
+						<unitdate> 9 Jan 1996 - 1 May 1996 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 17 </container>
+						<unitdate> 22 Sep 1996 - 12 Feb 1997 </unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

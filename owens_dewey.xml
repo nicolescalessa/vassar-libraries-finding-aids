@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_owens_dewey
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Dewey Owens Papers, circa 1977-2007</titleproper>
+				<author>Inventory prepared by Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>April 2010</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2010</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Owens, Dewey</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Dewey Owens Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">circa 1977-2007 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">4 cubic feet (10 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Music manuscripts, programs, and a small amount of other material relating to Owens' work.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Dewey Owens (1925-2006) was a harpist, arranger and composer. He was an instructor at Vassar College for many years. He was predeceased by his partner of 37 years, Lawrence J. Majewski, a professor of art conservation at New York University, in 1999.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Music manuscripts, programs, and a small amount of other material relating to Owens' work.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Department of Music</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Concert programs</subject>
+				<subject source="lcsh" encodinganalog="650">Music--Performance </subject>
+				<subject source="lcsh" encodinganalog="650">Harp music</subject>
+				<subject source="lcsh" encodinganalog="650">Harp--Instruction and study</subject>
+				<subject source="lcsh" encodinganalog="650">Harpists</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Sheet music</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Music </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, April 2010.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Box list created by Sarah Canino. Last updated July 2018.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Transferred from the Vassar College Music Library, March 2010.</p>
+		</acqinfo>
+		<prefercite>
+			<head>Preferred Citation</head>
+			<p>Dewey Owens Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Photograph of Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Owens catalog of works </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Programs </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Commemorative material, including photos and cds, from the Memorial Celebration Concert held at Vassar College, </unittitle>
+					<unitdate> 12 May 2007 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Newsclipping regarding Choral Festival, </unittitle>
+					<unitdate> 1983 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> Albrechtsberger: Concerto for harp Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 2, 10 </container>
+					<unittitle> Arpeggiata by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> Awake, My heart by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> Bach: Arioso harp Accompaniment Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 2, 10 </container>
+					<unittitle> Bach: Chaconne in d minor Harp solo transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> Bach: Eight little preludes and fugues: E minor Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Bach: For the Lute Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> Bach: Sheep may safely graze Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Bach-Gounod: Ave Maria (Meditation) Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> Beethoven: Adagio organ and harp Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 2-3, 10 </container>
+					<unittitle> The Boy with a cart Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Brahms: Songs: I hear a harp/Harp resounds Edited by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Built on the Rock Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Carolan: Planxty McGuire Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Concert piece("Concerto") for Lucille Lawrence Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Concerto for Harp and Orchestra by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Debussy: Ballad for flute, violoncello and harp Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Debussy: Girl with the flaxen hair Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Debussy: Prelude VIII Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Dussek: Air Russe Varie Edited by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Dussek : Concerto for Harp and orchestra Piano reduction by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Eddy: Christ my refuge Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Elegiac poem for ‘Cello and Orchestra Dewey Owens (Also arranged for ‘cello and piano and called "Elegy") </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Elgar: Night song/Morning song op. 15 no 1-2 for flute ‘cello harp Transcribed Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 4 </container>
+					<unittitle> Fantasy piece for two harps Dewey Owens, </unittitle>
+					<unitdate> 1977 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Fauré: Fantasie Adapted and edited by Lucille Lawrence and Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 4, 10 </container>
+					<unittitle> Fauré: Pavane Transcribed Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 4-5, 10 </container>
+					<unittitle> Festival Cantata Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Field, Eugene: The Duel, music by Dewey Owens</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Four Austrian Christmas songs (arranged by Connolly) Harp by D. Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Franck: Prelude, Fugue, Variation Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Franck: Panis Angelicus Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Franck: From Erin’s Emerald Isle: Copyright and Royalty Agreement with Lyon and Healy </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Garland of Carols for flute, ‘cello, and harp by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Grieg: Gavotte Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Grieg: Wedding Day Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Handel: Air and Variations Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Handel: Concerto op. 7 Edited by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Hanssler: O sacred head Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Herzlich thut mich Verlangen [see also Hanssler: O Sacred Head] </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 5 </container>
+					<unittitle> Hotteterre: Suite in D major Harp edited by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Humperdinck: Evening prayer Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 6, 10 </container>
+					<unittitle> Inghelbrecht: La Nursery Transcribed for two harps by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Introduction, Nocturne and Dance Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 1, 6 </container>
+					<unittitle> Joplin: Cascades; Elite syncopation Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 6 </container>
+					<unittitle> Joplin: Rag-time dance; Solace; Bethena Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 6 </container>
+					<unittitle> Krieger: No. 10 Sonata Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 6 </container>
+					<unittitle> Lament on the Death of King David Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Lever harp chromatic scales </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Mendelssohn: Confidence Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Mendelssohn: Sweet remembrance Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 6 </container>
+					<unittitle> Mills: Musical Box Dancer Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 6 </container>
+					<unittitle> Miramichi Suite, for Harpsichord Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 6 </container>
+					<unittitle> Mozart: Adagio religioso harp edition by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 1, 7 </container>
+					<unittitle> Music for harp ensemble and Fantasy piece for two harps by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Music for 3 harp ensemble by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Naudot: Sontata (5th) for flute and harp Adapted by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Opus 1, no. 1 (Juvenile?) </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Pachelbel: Trio and Gigue Adapted from Kanon and Fugue Transcribed by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Passacaglia by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Pastorale </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Two Preludes for Harp and Piano by Dewey Owens, </unittitle>
+					<unitdate> 1981 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Processional on "Llanfair" for brass choir and organ by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Ravel: Pavane Transcribed for harp by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Rhapsodic poem for harp and organ by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Romance Barcarolle and Scherzo for Viola, Flute and harp by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Salzedo: Chanson dans la nuit Piano accompaniment by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 1, 10 </container>
+					<unittitle> Scarlatti, D.: Sonata K. 430 Edited for solo harp by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 1, 10 </container>
+					<unittitle> Scarlatti, D.: Sonata XIX in D minor (Pastorale) Edited for harp by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 1, 10 </container>
+					<unittitle> Scarlatti, D.: Sonata in G minor Edited for harp solo by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Shakespeare Sonnets Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 1, 10 </container>
+					<unittitle> Shepherd’s Lament, Song and Dance by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Soliloquy by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Sonata for Oboe and Piano by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 7 </container>
+					<unittitle> Sondheim: A little night music : Send in the clowns. Harp solo by D. Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 8 </container>
+					<unittitle> Songs (multiple and miscellaneous) Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 8, 10 </container>
+					<unittitle> Suite for Harp by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> There is a balm in Gilead Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 8 </container>
+					<unittitle> Thome: Andante religioso Arranged by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 8 </container>
+					<unittitle> Trio da chiesa by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Boxes 1, 8-10 </container>
+					<unittitle> Trio for flute Viola and harp by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> Twelve impressions on pedal patters revised by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 9 </container>
+					<unittitle> Untitled exercise Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 9 </container>
+					<unittitle> Variations on an early hymn tune by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 9 </container>
+					<unittitle> Variations on an early Irish melody by Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 9 </container>
+					<unittitle> Venite adoremus </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Vinci: Sonata Edited for harp Dewey Owens </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 10 </container>
+					<unittitle> The wild geese </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 9 </container>
+					<unittitle> With music strong I come (Walt Whitman) [by Dewey Owens?] </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 9 </container>
+					<unittitle> Music Manuscripts — Miscellaneous and fragments (found bound together) </unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

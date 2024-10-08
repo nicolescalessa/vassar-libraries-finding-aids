@@ -1,0 +1,2043 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_marquez_antonio</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Antonio Márquez Papers, 1877-2010 (bulk 1932-2010)</titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College
+					Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>March 2014</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2013</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Márquez, Antonio, 1923-</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Antonio Márquez Papers</unittitle>
+			<unitdate type="inclusive" label="InclusiveDates:" encodinganalog="245$f">1877-2010</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1932-2010</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">21 cubic feet (60 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Collection includes correspondence,
+				subject files, research notes and associated correspondence. Files hold typescripts,
+				manuscripts and drafts. Journals and diaries include poetry and sketches. Press
+				clippings document reviews of Márquez’s writings. Collection also includes some
+				photographic documentation relating to Márquez’s personal and professional life.
+				Personal papers contain some correspondence, academic administrative papers, as well
+				as family genealogy documentation.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Dr. Antonio Márquez (b. 1923 - d. 2010), poet, painter and academic, was born in
+				Arriate, Malaga, Spain. As a young man he studied in Spain under the Jesuit order,
+				and went on to study in Ecuador (1951- 1953) as a member of that order, then went on
+				to to study in the U.S. at the Seminary of St. Andrew’s in Hyde Park, NY. Márquez
+				completed his Doctorate in Philosophy of Religion from Pontifical University of
+				Salamanca, Spain in 1970.</p>
+			<p>Dr. Márquez’s research and writings focused on heterodox mysticism, Spanish cultural
+				history, literature and religion and the Spanish Inquisition. Márquez spent his
+				first sabbatical year in Spain (1965-1966) collecting bibliographic texts on these
+				subjects, followed by two additional years writing his dissertation on Origenes y
+				naturaleza del Ilumismo en Castilla, which was published under the title, Los
+				Alumbrados: Origenes y Filosofia, 1525-1559 [Madrid: Taurus, 1972, 2nd ed., 1980
+				].</p>
+			<p>Márquez taught as a professor of Spanish at Bennett College and Vassar College, and
+				was chairman of the Foreign Language Department at Dutchess Community College (1971
+				- 1975). From 1957-1958 he served as the Editor in Chief of the Madrid-based
+				cultural publication, Indice.</p>
+			<p>Dr. Márquez’s artwork has been exhibited in Spain and the US. A collection of his
+				visual work resides at the Francis Lehman Loeb Art Center, Vassar College.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1923</date>
+					<event>Born in Arriate, Malaga, Spain</event>
+				</chronitem>
+				<chronitem>
+					<date>1951</date>
+					<event>Receives Masters degree in Philosophy</event>
+				</chronitem>
+				<chronitem>
+					<date>1951-1953</date>
+					<event>Studies Modern History in Ecuador</event>
+				</chronitem>
+				<chronitem>
+					<date>1954-1967</date>
+					<event>Studies painting with Herrera Zapata in New York, Havana and Paris
+					</event>
+				</chronitem>
+				<chronitem>
+					<date>1957-1958</date>
+					<event>Editor in Chief of Madrid-based cultural publication, Indice</event>
+				</chronitem>
+				<chronitem>
+					<date>1958</date>
+					<event>Marries Margaret Logan (historian of Hyde Park), Hyde Park, NY</event>
+				</chronitem>
+				<chronitem>
+					<date>1960-1967</date>
+					<event>Chairman, Department of Modern Languages, Bennett College</event>
+				</chronitem>
+				<chronitem>
+					<date>1965-1966</date>
+					<event>Research sabbatical, Spain</event>
+				</chronitem>
+				<chronitem>
+					<date>1968-1970</date>
+					<event>Studied in Spain writing dissertation, Origenes y naturaleza del
+						ilumismo en Castilla</event>
+				</chronitem>
+				<chronitem>
+					<date>1968-1978</date>
+					<event>Researched and contributed to transcription and publication of Milagros
+						Ortega-Costa Proceso de la Inquisicion contra Maria de Cazalla</event>
+				</chronitem>
+				<chronitem>
+					<date>1970</date>
+					<event>Receives PhD, Philosophy, from Pontifical University of Salamanca, 1970
+					</event>
+				</chronitem>
+				<chronitem>
+					<date>1971-1975</date>
+					<event>Department Head of Foreign Languages, Dutchess Community College
+					</event>
+				</chronitem>
+				<chronitem>
+					<date>1976</date>
+					<event>Visiting professor, Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1995</date>
+					<event>Art exhibition "A Mystical Tale," Ronda, Malaga, Spain</event>
+				</chronitem>
+				<chronitem>
+					<date>2000</date>
+					<event>Art exhibition "Confessions," Vassar College</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Papers of Dr. Antonio Márquez documents a longstanding interest in the
+				historical documentation of Spanish cultural history, mysticism, literature and
+				religion. Márquez’s research focused on Spanish heterodox mysticism, and the
+				alumbrados. His interest in the value of properly transcribed trial records, beyond
+				available Latin texts typically found in the translations of these records, led him
+				to study documentation of the trial, Milagros Ortega-Costa Proceso de la Inquisicion
+				contra Maria de Cazalla. A rejected 1985 NEH proposal (Series II, Subject Files)
+				documents Dr. Márquez’s interest in the transcription, annotation and
+				interpretation of such records.</p>
+			<p>The bulk of Dr. Márquez’s typescripts and subject files date from the late 1950s
+				through the 1990s, many of which include associated correspondence and
+				administrative files, some documenting his travel logistics as well as related
+				research notes.</p>
+			<p>A substantial volume of correspondence is filed in the first series (Series I, 17
+				boxes, 1953-2009). One complete document box (1957 -1978) contains correspondence
+				related to Márquez’s tenure as Editor-in-Chief at the Spanish publication, Indice.
+				Folder titles from Series II (Subject Files, 1932-2007) and Series III
+				(Typescripts, 1950-1995) are titled as filed by Dr. Márquez. Typescripts include
+				drafts of Dr. Márquez’s autobiography, with editorial notes from his friend and
+				colleague, Steve Clark (Senior Editor, Paris Review).</p>
+			<p>The collection also includes reviews of Dr. Márquez’s writings (Series IV,
+				Pressclippings 1957-2007), drafts of poetry (Series V, 1964-1999). One complete
+				document box contains photographic prints (Series X, 1950-2004) which document
+				friends and colleagues in Spain, from as early as 1950 through 2000s to personal
+				life in and around Hyde Park, NY (1980s-2000).</p>
+			<p>Journals and diaries, a number of which include documentation of Márquez’s travels,
+				artwork, sketches and drafts of poetry are included in Series VIII (1958-2010) .
+				Series VII (Personal Papers, 1953-2003) include documentation from Dr. Márquez’s
+				start as a young seminarian, and holds birth, military and academic certificates, as
+				well as Márquez’s early academic transcripts.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"> 
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref>without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"> 
+					regulations of the Vassar College Archives and Special Collections Library.
+				</archref></p>
+		</userestrict>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p>Márquez’s artwork is currently housed in the Department of Hispanic Studies, Vassar
+				College.</p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/other-collections?f%5B0%5D=collection%3A5219"
+					>Digital versions of these paintings can be found in Vassar College's Digital
+					Library.</archref></p>
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Cazalla, Mary</persname>
+				<persname source="lcnaf" encodinganalog="600">Cervantes Saavedra, Miguel de, 1547-1616</persname>
+				<persname source="lcnaf" encodinganalog="600">Clark, Steve (poet)</persname>
+				<persname source="lcnaf" encodinganalog="600">Alcaraz, Pedro Ruiz de</persname>
+				<persname source="lcnaf" encodinganalog="600">Cruz, Isabela de la, active 17th century</persname>
+				<persname source="lcnaf" encodinganalog="600">Llorente, Cornelia</persname>
+				<persname source="lcnaf" encodinganalog="600">León, Luis de, 1527-1591</persname>
+				<persname source="lcnaf" encodinganalog="600">Knopf, Alfred A., 1892-1984</persname>
+				<persname source="lcnaf" encodinganalog="600">Netanyahu, Binyamin</persname>
+				<persname source="lcnaf" encodinganalog="600">Tàpies, Antoni, 1923-2012</persname>
+				<persname source="lcnaf" encodinganalog="600">Tillich, Paul, 1886-1965</persname>
+				<persname source="lcnaf" encodinganalog="600">Valente, José Angel</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Dutchess Community College</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Bennett College (Millbrook, N.Y.)</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Índice (Madrid, Spain)</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College</corpname>
+				<corpname source="lcnaf" encodinganalog="610">SILVEMA: Boletín de la Asociación Malagueña para la Protección de la Vida Silvestre</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Alumbrados</subject>
+				<subject source="lcsh" encodinganalog="650">Catholic Church and world politics</subject>
+				<subject source="lcsh" encodinganalog="650">Mysticism</subject>
+				<subject source="lcsh" encodinganalog="650">Inquisition--Spain</subject>
+				<subject source="lcsh" encodinganalog="650">Poetry</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Bogotá (Colombia)</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Hyde Park (Dutchess County, N.Y.)</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Ronda (Málaga, Spain)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Manuscripts</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Religion</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, March 2014.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, 2014.</p>
+		</processinfo>
+		<custodhist encodinganalog="561">
+			<head>Custodial History</head>
+			<p>Bequeathed to the Vassar College Department of Hispanic Studies in 2010.</p>
+		</custodhist>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Transferred from the Vassar College Department of Hispanic Studies in 2013.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Antonio Márquez Papers, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is arranged into ten series. Correspondence is arranged
+				chronologically by year, as found when accessioned to Vassar Archives. The
+				collection is not indexed by name, unless otherwise noted in the container list.
+				Folders contain letters both from and to Antonio Márquez.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I. Correspondence</ref>, </unittitle>
+					<unitdate>1953-2009</unitdate>
+					<physdesc>(17 boxes)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Letters from noteworthy correspondents found while processing the collection
+						were filed by year and name of correspondent. See Boxes 2, 4, 5, 6, and 14.
+					</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II. Subject Files</ref>, </unittitle>
+					<unitdate>1932-2007</unitdate>
+					<physdesc>(16 boxes)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III. Typescripts</ref>, </unittitle>
+					<unitdate>1950-1995</unitdate>
+					<physdesc>(25 boxes)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV. Writings, Published Works</ref>, </unittitle>
+					<unitdate>1958-2000</unitdate>
+					<physdesc>(1 box)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V. Writings, Poetry</ref>, </unittitle>
+					<unitdate>1964-1999</unitdate>
+					<physdesc>(2 boxes)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI. Press Clippings</ref>, </unittitle>
+					<unitdate>1957-2007</unitdate>
+					<physdesc>(1 folder)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII. Personal Papers</ref>, </unittitle>
+					<unitdate>1953-2003</unitdate>
+					<physdesc>(2 boxes and 4 folders)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII. Diaries/Journals</ref>, </unittitle>
+					<unitdate>1958-2010</unitdate>
+					<physdesc>(7 boxes)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX. Printed Material</ref>, </unittitle>
+					<unitdate>1877, 1968-2000</unitdate>
+					<physdesc>(1 box)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">Series X. Photographs</ref>, </unittitle>
+					<unitdate>1950-2004</unitdate>
+					<physdesc>(1 box and 2 folders)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Correspondence</unittitle>
+				</did>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1953-1959</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Includes correspondence regarding Sobre La Situacion de Espana.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1959-1967</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Includes correspondence (3) signed letters, from Knopf, Alfred A.,
+							regarding submitted manuscript (Catholic Politics), April - June, 1960.</emph>
+						</p>
+					</scopecontent>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1968-1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 4</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1974-1976</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Includes correspondence from Stamm, James - NYU.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 5</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1977-1978</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Includes correspondence regarding job applications and potential
+							teaching positions; Includes correspondence from Cano, Jose Luis
+							(1978-1998) and manuscript: La Ideologia de Cervantes.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 6</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1978-1981</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Includes correspondence regarding Literatura e Inquisicion;
+							correspondence from Hamilton, Alastair (1979) re: Alumbrados;
+							correspondence from Netanyahu, Benjamin (1979, 1981) regarding
+							Litaratura e Inquiscion.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 7</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1980-1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 8</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1981-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 9</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1982-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 10</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1984-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 11</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1987-1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1989-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 13</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1991-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 14</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1998-2003</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Includes correspondence from Dominquez, Jose (2003).</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 15</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>2004-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 16</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>2006-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 17</container>
+						<unittitle>Correspondence, </unittitle>
+						<unitdate>1957-1978</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Correspondence held as filed by Márquez, regarding work at Indice
+							Magazine.</emph></p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Subject Files</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.1</container>
+						<unittitle>Alumbrados (manuscript photocopy, 1623, Dealgunas Relaciones
+							...)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 18.1</container>
+						<unittitle>Apotaciones Para la Historia Externa de Los Indices
+							Expurgatorios Espanoles, </unittitle>
+						<unitdate>1952</unitdate>
+						<physdesc> (photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 18.2</container>
+						<unittitle>Art Exhibition, "Confessions," </unittitle>
+						<unitdate>2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 18.3</container>
+						<unittitle>Art Exhibitions, Ronda Spain, Vassar College, </unittitle>
+						<unitdate>2000-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 18.4 - 18.6</container>
+						<unittitle>Autobiography in the Hispanic World, Torres Villarroel, </unittitle>
+						<unitdate>1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.2</container>
+						<unittitle>Bibliotheca Bibliographica Histoire Sanctae Inquisitionis, </unittitle>
+						<unitdate>1982-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.3</container>
+						<unittitle>Biografia Sucinta de S.M. Don Juan Carlos I Rey de Espana, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 18.7</container>
+						<unittitle>Bishop, Elizabeth, finding aid draft, </unittitle>
+						<unitdate>1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 18.8</container>
+						<unittitle>Braman, Edward, </unittitle>
+						<unitdate>1873</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 18.9</container>
+						<unittitle>Caracas Venezuela, includes correspondence with Martinez, A.
+							Fernandez, </unittitle>
+						<unitdate>1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 18.10</container>
+						<unittitle>Catolicismo y Catolicismo Franquista</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 18.11 - 18.13</container>
+						<unittitle>Cervantes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.4</container>
+						<unittitle>Cervantes, Avellandeda, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 32.5 - 32.6</container>
+						<unittitle>Cervantes, biography, reference materials, </unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.1</container>
+						<unittitle>Cervantes, censorship, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 32.7 - 32.8</container>
+						<unittitle>Cervantes, ideology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.2</container>
+						<unittitle>Cervantes, including correspondence re Anthropolos periodical, </unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.3</container>
+						<unittitle>Cervantes, Portait of Cervantes, </unittitle>
+						<unitdate>1998-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.4</container>
+						<unittitle>Cervantes, research notes, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.9</container>
+						<unittitle>Cervantes, Santander, </unittitle>
+						<unitdate>1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.5</container>
+						<unittitle>Clark, Marga, </unittitle>
+						<unitdate>1982-2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.10</container>
+						<unittitle>Conference, Galileo y La Heterodoxia, 12th conference on
+							medieval studies, </unittitle>
+						<unitdate>1977-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 19.6 -19.10</container>
+						<unittitle>Corpus Reformatorum, Hispanorum Project, </unittitle>
+						<unitdate>1970-1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.11</container>
+						<unittitle>Corpus Reformatorum Italicorum, </unittitle>
+						<unitdate>1977-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 32.11 - 32.17</container>
+						<unittitle>Culpas Contra Luis de Beteta, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(transcription photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.12</container>
+						<unittitle>Dario Fo, Tony Mitchell, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.13</container>
+						<unittitle>Enrique Marin Higuero, </unittitle>
+						<unitdate>1999-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 19.14</container>
+						<unittitle>Fray Luis de Leon, Dosprocesos Singulares, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.1 - 20.5</container>
+						<unittitle>Fray Luis de Leon, mystical work, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.18</container>
+						<unittitle>Fray Luis de Leon, Teologo (Salvador Munoz Iglesias), </unittitle>
+						<unitdate>1950</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 31.1 - 31.8</container>
+						<unittitle>GED coursework lessons (Arco Books), </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.19</container>
+						<unittitle>German Bleiberg, poetry, </unittitle>
+						<unitdate>1940</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 20.6 - 21.7</container>
+						<unittitle>Inquisition - Arbor Magazine, iconography, Llorente, includes
+							Index Librorum Prohibitorum, </unittitle>
+						<unitdate>1969-1986</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.8</container>
+						<unittitle>Inquisition, Arrabel, Indice Magazine, </unittitle>
+						<unitdate>1977-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 21.9 - 21.10</container>
+						<unittitle>Inquisition, Garcia Lorca, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.11</container>
+						<unittitle>Inquistiion, Llorente, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 21.12</container>
+						<unittitle>Instruciones del Santo Oficio de la Inquisicion, 1630, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 22.1</container>
+						<unittitle>Italian Institute for Philosophical Studies, </unittitle>
+						<unitdate>1987-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 22.2</container>
+						<unittitle>Joachim of Flora, Speculum, Vol. 7, </unittitle>
+						<unitdate>1932</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 22.3</container>
+						<unittitle>Julia de Burgos, </unittitle>
+						<unitdate>2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.21</container>
+						<unittitle>La Corona de Aragon, Royal Chancery, Variedades Edicto de Los
+							Reyes Catolicos, 1492, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 22.4</container>
+						<unittitle>Liberation Theology, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 22.5 - 23.12</container>
+						<unittitle>Literatura E Inquistion en Espana, 1478-1834, resource materials, 
+						</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.22</container>
+						<unittitle>Literature, for and against Spanish Inquisition, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 24.1</container>
+						<unittitle>Literature, Spanish, </unittitle>
+						<unitdate>1999-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 24.2</container>
+						<unittitle>Manuscripts submitted to Márquez - from Thomas Elias &amp; Nilsa
+							Rodriguez Jaca, </unittitle>
+						<unitdate>1974-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 24.3</container>
+						<unittitle>Márquez autobiography, notes, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 24.4</container>
+						<unittitle>Márquez autobiography, reference material, </unittitle>
+						<unitdate>1997-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 31.9 - 31.10</container>
+						<unittitle>Middlebury College, VT, coursework notes and essay titled New
+							Symbols or New Religion, </unittitle>
+						<unitdate>1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 24.5</container>
+						<unittitle>Miguel de Cervantes Saavedra, </unittitle>
+						<unitdate>1948</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 24.6 - 25.4</container>
+						<unittitle>Mysticism (Acta Apostolicae Sedis, Francisco Marcos del Rio,
+							Juan de Quintana, Michael Servet, Juan de Valdes, </unittitle>
+						<unitdate>1971-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 32.23</container>
+						<unittitle>Normas de Transcripcion y Edicion de Textos y Documentos, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 25.5</container>
+						<unittitle>Noticia Biografica de Llorente, Cornelia, </unittitle>
+						<unitdate>1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 25.6</container>
+						<unittitle>Philosophy of Religion, </unittitle>
+						<unitdate>1974-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 25.7</container>
+						<unittitle>Potential Texts for Catalogs, Magazines (Iconolgy, Lapidario O
+							Breve Son Desi), </unittitle>
+						<unitdate>1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 32.24 - 33.4</container>
+						<unittitle>Proceso de Alcaraz, folios 327-461, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(photocopy of original manuscript, including notes and summaries)
+						</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33.5</container>
+						<unittitle>Proceso de Maria de Cazalla, notes and research, </unittitle>
+						<unitdate>1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33</container>
+						<unittitle>Reference Material, sketches and visual resource material, </unittitle>
+						<unitdate>1960-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33.7</container>
+						<unittitle>Regional Conference, PCE, Ronda, </unittitle>
+						<unitdate>1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 25.8 - 26.6</container>
+						<unittitle>Research notes, Los Alumbrados, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 27.1 - 27.3</container>
+						<unittitle>Research notes, misc., </unittitle>
+						<unitdate>2001-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 34</container>
+						<unittitle>Research notes, index card file, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 33.8 - 33.11</container>
+						<unittitle>Ronda, Jornadas de Estudio, </unittitle>
+						<unitdate>1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33.12</container>
+						<unittitle>Ronda, town hall files, </unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 27.4</container>
+						<unittitle>Ronda/Malaga, Cuevas de San Anton, </unittitle>
+						<unitdate>1980-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 27.5 - 29.1</container>
+						<unittitle>Ronda/Malaga, Spain, </unittitle>
+						<unitdate>1980-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 29.2 - 29.3</container>
+						<unittitle>Sadilles y Alumbrados, Parte Quinta, </unittitle>
+						<unitdate>1941-1951</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 29.4 - 29.7</container>
+						<unittitle>Science and the Inquistion, reference materials, Arbor Journal, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33.13</container>
+						<unittitle>Silvema Association, includes correspondence and newsletters, </unittitle>
+						<unitdate>1984-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.8</container>
+						<unittitle>Society in Change, Inquisition, Brooklyn College, </unittitle>
+						<unitdate>1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33.15</container>
+						<unittitle>Spanish Inquisition and Free Masonry, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.11</container>
+						<unittitle>Spanish Inquisition, Cornell University coursework, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.12</container>
+						<unittitle>Spanish Literature, Vassar coursework, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 31.13</container>
+						<unittitle>Spanish Reformation, coursework, </unittitle>
+						<unitdate>1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 29.9</container>
+						<unittitle>Spanish Reformers of the XVI &amp; XVII Centuries, Guggenheim
+							Foundation, </unittitle>
+						<unitdate>1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 31.14 - 31.18</container>
+						<unittitle>Spanish, written expression, high school examination teaching
+							materials, </unittitle>
+						<unitdate>1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.1</container>
+						<unittitle>Symposium, Inquisition &amp; Censorship, Internat'l University,
+							Santander, </unittitle>
+						<unitdate>1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.2</container>
+						<unittitle>Symposium, International Association de Hispanistas, Toronto,
+							Canada, </unittitle>
+						<unitdate>1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.3</container>
+						<unittitle>Symposium, International Symposium - The Spanish Inquisition and
+							the Inquisitorial Mind, </unittitle>
+						<unitdate>1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.4</container>
+						<unittitle>Symposium, Spanish Inquisition and the Renaissance Theater, NYU, </unittitle>
+						<unitdate>1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.5</container>
+						<unittitle>Tapies, Antoni, 1947-1972, art catalog, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(photocopy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.6</container>
+						<unittitle>Torres, Antonio Molina, </unittitle>
+						<unitdate>1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 30.7 - 30.9</container>
+						<unittitle>Transcription of Trial Records, Pedro Ruiz de Alcaraz - rejected
+							NEH Proposal, </unittitle>
+						<unitdate>1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.10</container>
+						<unittitle>Universidad de Salamanca, Seminario de Historia de la Filosofia
+							Espanola, </unittitle>
+						<unitdate>1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.11</container>
+						<unittitle>Valente, Jose Angel, Three Lessons of Tenebrae, </unittitle>
+						<unitdate>1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33.16</container>
+						<unittitle>Villa de Arriate, town council minutes, </unittitle>
+						<unitdate>1979-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 33.12</container>
+						<unittitle>Zayas, Ana, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Typescripts</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 35.1</container>
+						<unittitle>Catholic Politics, </unittitle>
+						<unitdate>1960</unitdate>
+						<physdesc>(two copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 35.2</container>
+						<unittitle>Catholic Politics, </unittitle>
+						<unitdate>1960</unitdate>
+						<physdesc>(two copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.1</container>
+						<unittitle>Catholic Politics, </unittitle>
+						<unitdate>1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 36.2 - 36.4</container>
+						<unittitle>Catholic Politics, </unittitle>
+						<unitdate>1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.5</container>
+						<unittitle>Catholic Politics, an exposition and the documents, with a
+							reference to the presidential elections, </unittitle>
+						<unitdate>1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.6</container>
+						<unittitle>Cervantes y la Inquisition, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 36.7 - 36.8</container>
+						<unittitle>Concordato Entre la Santa Sede y Espana, </unittitle>
+						<unitdate>1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.1</container>
+						<unittitle>De Espana y de los Espanoles un Testimonio, </unittitle>
+						<unitdate>1958</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.2</container>
+						<unittitle>En El Pais de Jauja, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(playscript)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.3</container>
+						<unittitle>Entre la Magia del Amor y la Magia de la Memoria, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.4</container>
+						<unittitle>Errors About Civil Society, considered both in itself and in
+							relation to the Church (includes manual re: how to write a term paper,
+							1947), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.5</container>
+						<unittitle>Estado Actual de Los Estudios Inquisitoriales, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.6</container>
+						<unittitle>Estado de Las Investigaciones Inquisitoriales, </unittitle>
+						<unitdate>1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.7</container>
+						<unittitle>Fabula Mistica al Borde del Milenio, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.8</container>
+						<unittitle>Fabula Mistica al Borde del Milenio, </unittitle>
+						<unitdate>1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 37.9</container>
+						<unittitle>Fabula Mistica al Borde del Milenio, lecture notes, </unittitle>
+						<unitdate>1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.9</container>
+						<unittitle>Fr. Alonso de la Fuente, </unittitle>
+						<unitdate>1950-1951</unitdate>
+						<physdesc>(transcription)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 38.1 - 38.7</container>
+						<unittitle>Francisca Hernandez and Francisco Ortiz, </unittitle>
+						<unitdate>1865</unitdate>
+						<physdesc>(transcription)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 38.8</container>
+						<unittitle>Humanisme et Religion Chez sor Juana Ines de La Cruz - book
+							review, </unittitle>
+						<unitdate>1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 38.9</container>
+						<unittitle>In the Manner of an Example, </unittitle>
+						<unitdate>1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.10</container>
+						<unittitle>Inquisicion Espanola, </unittitle>
+						<unitdate>1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 38.10</container>
+						<unittitle>La Ideologia de Cervantes, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 38.11</container>
+						<unittitle>La Inquisicion En El Teatro y La Novela, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.16</container>
+						<unittitle>Lecture, De Mistica Luisiana: Ser No Ser (Congreso
+							Internacional, Salmanca), </unittitle>
+						<unitdate>1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 38.12</container>
+						<unittitle>Lecture, Los Alumbrados, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.17</container>
+						<unittitle>Lecture, Los Alumbrados, University de Salamanca, </unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 38.13 - 38.14</container>
+						<unittitle>Lecture, Los Alumbrados, University de Zaragoza, </unittitle>
+						<unitdate>1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 39.1</container>
+						<unittitle>Libros Prohibidos, 16th C, Edicion Critica de Los Indices, 
+						</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 39.2</container>
+						<unittitle>Literatura e Inquisicion en Espana - Grijalbo Publications, </unittitle>
+						<unitdate>1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.11</container>
+						<unittitle>Literatura e Inquisicion en Espana 1478-1834, Vol I: Autores
+							Procesados y Colaboradores; Vol II: Calidad y Efectos de la Censura, 
+						</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.12</container>
+						<unittitle>Literatura e Inquisicion en Saint Teresa - including notes, 
+						</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.13</container>
+						<unittitle>Los Alumbrados, Bibliographia, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 39.3 - 39.6</container>
+						<unittitle>Los Alumbrados, Origenes y Filosofia, 1525-1559, </unittitle>
+						<unitdate>1968-1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 39.7 - 39.10</container>
+						<unittitle>Los Alumbrados, Origenes y Filosofia, 1525-1559, final report
+							with prologue by Pedro Sainz Rodriguez, </unittitle>
+						<unitdate>1968-1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 39.11</container>
+						<unittitle>Los Indices, Universidad de Paris, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 40.1 - 40.5</container>
+						<unittitle>Márquez Autobiography, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 40.6 - 4013</container>
+						<unittitle>Márquez Autobiography - including notes), </unittitle>
+						<unitdate>1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 41.1</container>
+						<unittitle>Origen y Caracterizacion, del Iluminismo, </unittitle>
+						<unitdate>1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 60.14 - 60.15</container>
+						<unittitle>Paul Tillich, Spanish Mysticism - and supporting notes, 
+						</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 41.2</container>
+						<unittitle>Persona Humana y Psychologia Actual, </unittitle>
+						<unitdate>1951</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 41.3</container>
+						<unittitle>Present State of Reformation in Spain - research resources &amp;
+							organizations, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 41.4 - 41.6</container>
+						<unittitle>Proceso Inquisitorial Contra Pedro Ruiz de Alcaraz, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 42.1 - 42.5</container>
+						<unittitle>Proceso Inquisitorial Contra Pedro Ruiz de Alcaraz - Corpus
+							Reformation Hispanorum, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 42.6 - 42.7</container>
+						<unittitle>Proceso Inquisitorial, Pedro Ruiz de Alcaraz vs. Isabel de la
+							Cruz y Gaspar de Bedoya, Volumes I &amp; II, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(transcription)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 42.8</container>
+						<unittitle>Study: National Assembly of Laymen Organizations, Roman Catholic
+							Church, </unittitle>
+						<unitdate>1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 42.9</container>
+						<unittitle>The Spanish Theater of the Golden Age, a trilogy, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 42.10</container>
+						<unittitle>Tribuna Libre, Inquisition, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 45.1 - 45.14</container>
+						<unittitle>Work submitted to Márquez; Proceso de Maria de Cazalla, by
+							Milagros Ortega Costa, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.23</container>
+						<unittitle>Work submitted to Márquez; Sobre la Obra Latina de Fray Luis de
+							Leon, by Joaquin Maristany, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Writings, Published Works</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.1</container>
+						<unittitle>Ciencia e Inquisicion: Proceso Inquisitorial/Proceso Historico
+							-- LLULL, vol. 10, </unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.2</container>
+						<unittitle>Dos Procesos Singulares: Los De Fray Luis De Leon y Antonio
+							Enriquez Gomez -- Nueva Revista De Filogia Hispanica, No. 2, </unittitle>
+						<unitdate>1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.3</container>
+						<unittitle>Estado Actual De Los Estudios Sobre La Inquisicion -- Arbor, No.
+							396, </unittitle>
+						<unitdate>1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.4</container>
+						<unittitle>Juan de Valdes, Teologo De Los Alumbrados -- La Ciudad De Dios,
+							Vol. 184, </unittitle>
+						<unitdate>1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.5</container>
+						<unittitle>La Censura Inquisitorial Del Teatro Renacentista, 1514-1551 --
+							LLULL, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 43.1 – 43.8</container>
+						<unittitle>Literatura e Inquisicion en Espana, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 60.8 – 60.19</container>
+						<unittitle>Literatura e Inquisicion Sig Los XV y XVI, </unittitle>
+						<unitdate>2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.7</container>
+						<unittitle>Los Alumbrados -- Madrid: Taurus Ediciones, </unittitle>
+						<unitdate>1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 43.9</container>
+						<unittitle>Los Alumbrados, 2nd edition, introduction, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.8</container>
+						<unittitle>Los Alumbrados, Origenes Y Filosofia (1525-1559) -- Madrid:
+							Taurus Ediciones, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.6</container>
+						<unittitle>Modus Vivendi -- Dialogo de Las Espanas, </unittitle>
+						<unitdate>1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.8</container>
+						<unittitle>Por Un Guillen Total -- Insula, No. 435-436, </unittitle>
+						<unitdate>1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 43.10 - 44.6</container>
+						<unittitle>Procesos de Alcaraz (including notes, edits), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 60.20 - 60.22</container>
+						<unittitle>Science and the Inquisition, Arbor Journal, </unittitle>
+						<unitdate>1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 44.8</container>
+						<unittitle>Sobre la Situacion, unpublished introduction, 2nd edition, </unittitle>
+						<unitdate>1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 44.7</container>
+						<unittitle>Sobre la Situacion de Espana, </unittitle>
+						<unitdate>1958</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.7</container>
+						<unittitle>La Ciudad De Dios, Vol. 184, </unittitle>
+						<unitdate>1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.8</container>
+						<unittitle>Universidad E Inquisicion (I) -- Madrid: Arbor, Science, Thought
+							&amp; Culture, No. 522, </unittitle>
+						<unitdate>1989</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Writings, Poetry</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 47.1</container>
+						<unittitle>Lapidario o Breve Son De Si, </unittitle>
+						<unitdate>1984-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 47.2</container>
+						<unittitle>Loose type and manuscripts, </unittitle>
+						<unitdate>circa 1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 47.3 – 47.4</container>
+						<unittitle>Poetry of Steve Clark (includes correspondence), </unittitle>
+						<unitdate>1995-1997</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 48.1</container>
+						<unittitle>Poetry of Steve Clark, sketches and notations by Antonio Márquez, 
+						</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 48.2</container>
+						<unittitle>Poetry, Desde La Obscuridad - variaciones poeticas sobre el
+							Libro de Job, </unittitle>
+						<unitdate>1957</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 48.3</container>
+						<unittitle>Poetry, loose typescripts, </unittitle>
+						<unitdate>1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 48.4</container>
+						<unittitle>Sombra y Senora Mia, and other loose type and manuscripts, </unittitle>
+						<unitdate>1967-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 48.5</container>
+						<unittitle>Testamento, and other loose type and manuscripts, </unittitle>
+						<unitdate>1980s</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. Press Clippings</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.11</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate>1957-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.12</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate>1981-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.13</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate>1991-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 46.14</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate>1959-1982</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Includes reviews of Márquez writings.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.7</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate>1978</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Inquisition-related clippings.</emph></p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Series VII. Personal Papers</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.1</container>
+						<unittitle>Academic transcripts, </unittitle>
+						<unitdate>1954-1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.3</container>
+						<unittitle>Certificates, personal and academic, </unittitle>
+						<unitdate>1953-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.2</container>
+						<unittitle>Dutchess Community College, Tenure Arbitration Proceedings, </unittitle>
+						<unitdate>1966-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 49.1 – 49.4</container>
+						<unittitle>Dutchess Community College, Tenure Arbitration Proceedings, </unittitle>
+						<unitdate>1970-1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.4</container>
+						<unittitle>Family genealogy, inheritance documentation (mother), will
+							(father), </unittitle>
+						<unitdate>1976-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 49.5</container>
+						<unittitle>ID cards, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 49.6</container>
+						<unittitle>Identification/certificates, birth, military, academic, </unittitle>
+						<unitdate>1953-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 49.7</container>
+						<unittitle>Passports, </unittitle>
+						<unitdate>1969-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 50.1</container>
+						<unittitle>Student evaluations, Vassar College Course and Faculty
+							Evaluations, </unittitle>
+						<unitdate>1976-1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 50.2</container>
+						<unittitle>Teaching Contracts, </unittitle>
+						<unitdate>1959-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 50.3 – 50.7</container>
+						<unittitle>Tenure petition, Dutchess Community College (includes grievance
+							and termination documentation), </unittitle>
+						<unitdate>1973-1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 50.8</container>
+						<unittitle>Yearbook, Bennett College, Millbrook, NY, </unittitle>
+						<unitdate>1967</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>Series VIII. Diaries/Journals</unittitle>
+				</did>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 51</container>
+						<unitdate>1958-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 52</container>
+						<unitdate>1973-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 53</container>
+						<unitdate>1983-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 54</container>
+						<unitdate>1988-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 55</container>
+						<unitdate>2001-2006</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 56</container>
+						<unitdate>2006-2010</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel">
+					<did>
+						<container>Box 57</container>
+						<unitdate>1964-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 47.5</container>
+						<unittitle>La Paloma Colorada (includes sketches), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>Series IX. Printed Material</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 58.1</container>
+						<unittitle>Antonio Márquez, Confessions – Vassar College Art Exhibition
+							Catalog, </unittitle>
+						<unitdate>2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 58.2</container>
+						<unittitle>Entre El Mare Y El Hierro, Gines Serran, (poetry), </unittitle>
+						<unitdate>1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 58.3</container>
+						<unittitle>Offprints/Reprints with inscriptions to Antonio Márquez, </unittitle>
+						<unitdate>1968-1992</unitdate>
+						<physdesc>(11 items)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 58.4</container>
+						<unittitle>P. Cornelii Taciti, Berolini - Apud S. Calvary Eiusque Socium
+							(book includes handwritten notes and marginalia), </unittitle>
+						<unitdate>1877</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>Series X. Photographs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 59.1</container>
+						<unittitle>Artwork - Self Portraits, </unittitle>
+						<unitdate>1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 59.2</container>
+						<unittitle>Bogata, Columbia — by Jorge Silva, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(14 prints)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 59.4 – 59.9</container>
+						<unittitle>Family, Friends - Hyde Park, NY, </unittitle>
+						<unitdate>1980s-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 59.10</container>
+						<unittitle>Family, Friends - Spain, </unittitle>
+						<unitdate>1950-1960</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 59.11 – 59.12</container>
+						<unittitle>Friends, Colleagues - Spain, </unittitle>
+						<unitdate>1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 59.13</container>
+						<unittitle>Portraits – Friends/Colleagues, </unittitle>
+						<unitdate>1950-2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 59.14</container>
+						<unittitle>Portraits - Work/Career, </unittitle>
+						<unitdate>1970, 1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.5</container>
+						<unittitle>Family, Edgar Family, </unittitle>
+						<unitdate>circa 19th century</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 60.6</container>
+						<unittitle>Spain, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 59.3</container>
+						<unittitle>Unidentified photos, </unittitle>
+						<unitdate>2004</unitdate>
+						<physdesc>(2 CDs)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

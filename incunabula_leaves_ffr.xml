@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_incunabula_leaves_ffr
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Francis Fitz Randolph Collection of Incunabula Leaves, 1472-1500</titleproper>
+				<author>Inventory prepared by Miranda Villesvik</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>Published 2015</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2015</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Randolph, Francis Fitz (collector)</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Guide to the Francis Fitz Randolph Collection of Incunabula Leaves</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1472-1500 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.5 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Leaves of incunabula collected by Francis Fitz Randolph.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Francis Fitz Randolph held degrees from Yale and Harvard, was an investment banker who held high-level positions at a number of corporations, and served as a trustee of Vassar College from 1947-1956. He donated a number of rare books and works of art to Vassar. He died on 12 October 1973.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Leaves of incunabula collected by Francis Fitz Randolph.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-francis-fitz-randolph-collection-incunabula-leaves-1472-1500" show="new"> Printed Leaves Collection</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Printing--Specimens</subject>
+				<subject source="lcsh" encodinganalog="650"> Printing--Europe--History</subject>
+				<subject source="lcsh" encodinganalog="650"> Incunabula--Specimens</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Incunabula</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Printing and Publishing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, January 2015.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>List created by Miranda Villesvik, December 2014.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Francis Fitz Randolph.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Francis Fitz Randolph Collection of Incunabula Leaves, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I.</ref> Germany </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II.</ref> France </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III.</ref> Switzerland </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series IV.</ref> Belgium </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> Series V.</ref> Netherlands </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6"> Series VI.</ref> Unknown </unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. Germany </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.1</container>
+						<unittitle> Author and title unknown. Augsburg: Johann Schüssler, 1472.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.2</container>
+						<unittitle> Author and title unknown. Augsburg: Johann Schüssler, 1472.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.3</container>
+						<unittitle> Leo I, Pope. Sermones de sanctis. Augsburg: Monastery of SS. Ulrich and Afra, 1474. Hain 16130; Goff L-154.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.4</container>
+						<unittitle> Author and title unknown. Augsburg: Günther Zainer, 1476.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.5</container>
+						<unittitle> Author and title unknown. Augsburg: Johann Wiener, 1477.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.6</container>
+						<unittitle> Author and title unknown. Augsburg: Anton Sorg, ca. 1482.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.7</container>
+						<unittitle> Breviarium Pataviense. Augsburg: Erhard Ratdolt, 1490. Hain 3875.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.8</container>
+						<unittitle> Author and title unknown [an herbal?]. Augsburg: Anton Sorg, 1497.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.9</container>
+						<unittitle> Speculum humanae salvationis. German. Augsburg : Johann Schönsperger, 1500. Hain 14940; Goff S-669</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.10</container>
+						<unittitle> Jacobus de Clusa. Sermones notabiles et formales de precipuis festiuitatibus celebribus per anni circulum tam de tempore quam de sanctis. Blaubeuren: Conrad Mancz, ca. 1475-1478. Hain 9330; Goff J-39.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.11</container>
+						<unittitle> Guilelmus Peraldus. Summa de virtutibus et vitiis. Cologne: Heinrich Quentell, 1479. Hain 12387; Goff P-84.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.12</container>
+						<unittitle> Speculum exemplorum. Cologne: Johann Koelhoff, the Elder, 1485. Hain 14916; Goff S-652.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.13</container>
+						<unittitle> Vincent Ferrer. Sermones de tempore et de sanctis. Cologne: Heinrich Quentell, 1485. Hain 7001; Goff F-129.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.14</container>
+						<unittitle> Author and title unknown. Esslingen: Conrad Fyner, 1477.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.15</container>
+						<unittitle> Augustine. De civitate Dei. Freiburg im Bresigau: Kilian Fischer, 1494. Hain 2068; Goff A-1246.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.16</container>
+						<unittitle> Hortus sanitatis. Mainz: Jacob Meydenbach, 1491. Hain 8944; Goff H-486.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.17</container>
+						<unittitle> Schatzbehalter der wahren Reichtümer des Heils. Nuremberg: Anton Koberger, 1491. Hain 14507; Goff S-306.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.18</container>
+						<unittitle>Parreut, Johannes. Exercationes veteris artis. Nuremberg: Friedrich Creussner, 1494. Hain 12424; Goff P-121.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.19</container>
+						<unittitle> Author and title unknown. Nuremberg: Georg Stuchs, ca. 1496.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.20</container>
+						<unittitle> Nider, Johannes. Praeceptorium divinae legis. Reutlingen: Michel Greyff, not after 1479. Hain 11781; Goff N-203.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.21</container>
+						<unittitle> Henricus de Segusio. Summa Hostiensis. Speier: Georgius de Spira, 1478. Hain 8962; Goff H-44.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.22</container>
+						<unittitle> [Vinac, Hugo de Prato Florido?. Sermones dominicales super evangelia et epistolas.?] Strasbourg: Georg Husner, ca. 1478. Hain 8996.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.23</container>
+						<unittitle> Balbi, Giovanni. Catholicon. Strasbourg: Printer of the 1483 Jordanus de Quedlinburg (Georg Husner), not after 1483. Hain 2252; Goff B-24.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.24</container>
+						<unittitle> Herolt, Johann. Liber discipuli de eruditione Christifidelium. Strasbourg: Jacob Eber, ca. 1483. Hain 8518; Goff H-93.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.25</container>
+						<unittitle>Bible. German. 1488. Strasbourg: Johann Grüninger, 1485. Hain 3138; Goff B-633.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.26</container>
+						<unittitle>Sermones quadragesimales Thesauri novi. Strasbourg: Printer of the 1483 Vitas Patrum, 1485. Copinger 5431; Goff P-503.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.27</container>
+						<unittitle>Bible. Latin. Vulgate. 1489. Strasbourg: Johann Prüss, 1489. Hain 3104; Goff B-588.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.28</container>
+						<unittitle>Bible. Latin. Vulgate. 1489. Strasbourg: Johann Prüss, 1489. Hain 3104; Goff B-588.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.29</container>
+						<unittitle>Paratus. Sermones de tempore et de sanctis. Strasbourg: Martin Flach, ca. 1490. Hain 12404; Goff P-100.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.30</container>
+						<unittitle> Brant, Sebastian. Narrenschiff. Latin. Strasbourg: Johann Grüninger, 1497. Hain 3749; Goff B-1089.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.31</container>
+						<unittitle> Terence. Works. 1499. Strasbourg: Johann Grüninger, 1499. Hain 15432; Goff T-101.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.32</container>
+						<unittitle> Brunschwig, Hieronymus. Kleines Destillierbuch. Strasbourg: Johann Grüninger, 1500. Hain 4021; Goff B-1227.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.33</container>
+						<unittitle>Cyprian. Works. 1486. Stuttgart: Printer of the Erwählung Maximilians, ca. 1486. Hain 5895; Goff C-1014.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.34</container>
+						<unittitle> Paulus Scriptor. Lectura in Johannem Duns Scotum super libro primo Sententiarum. Tübingen: Johann Otmar, 1498. Hain 12493; Goff P-206.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.35</container>
+						<unittitle> Jacobus de Voragine. Legenda aurea. Ulm: Johann Zainer, ca. 1481. Copinger 6389; Goff J-100.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.36</container>
+						<unittitle>Gart der Gesundheit. Ulm: Conrad Dinckmut, 1487. Hain 8952; Goff G-103.</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II. France </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.37</container>
+						<unittitle> Bartholomaeus Anglicus. De proprietatibus rerum. Lyons: Nicolaus Philippi and Marcus Reinhart, 1480. Hain 2500; Goff B-132.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.38</container>
+						<unittitle> Gregory IX. Decretales. Lyons: Johann Siber, ca. 1485. Reichling 1746.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.39</container>
+						<unittitle> Gorris, Guillermus. Scotus pauperum. Lyons: Guillaume Balsarin, ca. 1487. Reichling 197; Pellechet 5281; Goff G-324.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.40</container>
+						<unittitle> Balbi, Giovanni. Catholicon. Lyons: Jean Du Pré, 1489. Hain 2260.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.41</container>
+						<unittitle> Gritsch, Johannes. Quadragesimale. Lyons: Guillaume Balsarin, ca. 1490. Hain 8062; Goff G-505.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.42</container>
+						<unittitle> Orbellis, Petrus de. Sermones hortuli conscientiae. Lyons: Engelhardt Schultis, 1491. Hain 13627; Goff O-81.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.43</container>
+						<unittitle> Bricot, Thomas. Textus abbreviatus in cursum totius physices et metaphysicorum Aristotelis. Lyons: Janon Carcain, 1495. Hain 3973; Goff B-1204.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.44</container>
+						<unittitle> Leonardus de Utino. Sermones floridi de tempore. Lyons: Johannes Trechsel, 1496. Hain 16139; Goff L-142.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.45</container>
+						<unittitle> Cato, Dionysius. Disticha de moribus. Lyons: Jean de Vingle, 1497. Hain 4713; Goff C-295.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.46</container>
+						<unittitle> Auctores octo. Lyons: Mathias Huss, 1498. Reichling 1679.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.47</container>
+						<unittitle> Bartholomaeus Anglicus. De proprietatibus rerum. French. Lyons: Jean Dyamantier, 1500. Hain 2519; Goff B-149.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.48</container>
+						<unittitle> Armand de Belvézer. De declaratione difficilium terminorum tam theologiae quam philosophiae ac logicae. Lyons: Nicolaus Wolff, 1500. Hain 1796; Goff A-1058.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.49</container>
+						<unittitle> Author and title unknown [possibly Temesvári Pelbárt’s Sermones Pomerii de sanctis]. Lyons: Johann Clein, ca. 1500.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.50</container>
+						<unittitle> Gregory of Rimini. Lectura super primum librum Sententiarum. Paris: Louis Martineau, 1482. Hain 1645; Goff G-480.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.51</container>
+						<unittitle> Guilelmus Hilacensis. Sermones super orationem dominicam. Paris: Ulrich Gering and Berthold Rembolt, 1494. Hain 8219; Goff G-635.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.52</container>
+						<unittitle> Aristotle. Nicomachean ethics. Paris: Johannes Higman and Wolfgang Hopyl, 1497. Hain 1761; Goff A-991.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.53</container>
+						<unittitle> Catholic Church. Missal Traiectense (Utrecht). Paris: Johann Higman, and Wolfgang Hopyl, 1497. Hain 11434; Goff M-729.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.54</container>
+						<unittitle> Catholic Church. Missal Traiectense (Utrecht). Paris: Johann Higman, and Wolfgang Hopyl, 1497. Hain 11434; Goff M-729.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.55</container>
+						<unittitle> Faure, Jean. Breviarium super Codicem. Paris: André Bocard, 1499. Copinger 2399.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.56</container>
+						<unittitle> Gesta Romanorum. Paris: André Bocard for Jean Petit, 1499. Hain-Copinger 7752; Goff G-297.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.57</container>
+						<unittitle> Gaguin, Robert. Compendium de origine et gestis Francorum. Paris: Thielman Kerver, for Durand Gerlier and Jean Petit, 1500. Hain 7413; Goff G-15.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.58</container>
+						<unittitle> Maillardus, Oliverius. Sermones de adventu. Sermones dominicales. Quadragesimales. Paris: Philippe Pigouchet, 1500. Hain 10516; Goff M-74.</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III. Switzerland </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 1.59</container>
+						<unittitle> Meffret. Sermones de tempore et de sanctis, sive, Hortulus reginae. Basel: Nikolaus Kessler, ca. 1488? Hain 11000; Goff M-446.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.60</container>
+						<unittitle> Guillermus, Parisiensis. Postilla super epistolas et evangelia. Basel: Michael Furter, ca. 1495. Hain 8250.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.61</container>
+						<unittitle> Author and title unknown. Basel: Michael Furter, 1495.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.62</container>
+						<unittitle> Petrarca, Francesco. Works. 1496. Basel: Johannes Amerbach, 1496. Hain 12749; Goff P-365.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.63</container>
+						<unittitle> Konrad, von Halberstadt. Concordantiae bibliorum. Basel: Johann Froben and Johann Petri, 1496. Hain 5633; Goff C-853.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.64</container>
+						<unittitle> Brant, Sebastian. Narrenschiff. Latin. Basel: Johann Bergmann, de Olpe, 1497. Hain 3746[or 3750]]; Goff B-1086 [or B-1090].</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.65</container>
+						<unittitle> Jerome. Correspondence. Basel: Nicolaus Kesler, 1497. Hain 8565; Goff H-176.</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Belgium </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.66</container>
+						<unittitle> Ludolphus de Saxonia. Tboeck vanden leven Jhesu Christi. Antwerp: Claes Leeu, 1488. Hain 10049; Goff L-355.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 1.67</container>
+						<unittitle> Caracciolo, Roberto. Sermones de laudibus sanctorum. Antwerp: Gerard Leeu, 1490. Hain 4481; Goff C-149.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.68</container>
+						<unittitle> Vinac, Hugo de Prato Florido. Sermones dominicales super evangelia et epistolas. Louvain: Johann de Paderborn (Westphalia), 1484. Hain 9008; Goff H-510.</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> Series V. Netherlands </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.69</container>
+						<unittitle> Raymond of Sabunde. Theologia naturalis, sive, liber creaturarum. Deventer: Richardus Pafraet, not after 1485. Hain 14067; Goff R-32.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.70</container>
+						<unittitle> Jacobus de Voragine. Legenda aurea. Dutch. Utrecht: Johann Veldener, 1480. Copinger 6510; Goff J-144.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.71</container>
+						<unittitle> Author and title unknown [Bonaventure?]. Zwolle: Unknown press [Pieter van Os or John de Vollenhoe?], 1479.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.72</container>
+						<unittitle> Bonaventure. Tractatus de profectu religiosorum. Zwolle: Pieter van Os, ca. 1495. Copinger 1149.</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> Series VI. Unknown </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.73</container>
+						<unittitle> Author and title unknown. Place unknown [Paris or Venice?]: Printer unknown [André Bocard or Bernardinus Venetus], ca. 1499. </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_iannucci
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Iannucci Modern American Literature Manuscript Collection, approximately 1934-1999</titleproper>
+				<author>Inventory prepared by Laura Streett</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>February 2008</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett <date>February 2008</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Iannucci, Brenda J.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Iannucci Modern American Literature Manuscript Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> approximately 1934-1999 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 0.5 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Manuscript material accompanying the Iannucci Modern American Literature Book Collection.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Physician and book collector.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Manuscript material accompanying the Iannucci Modern American Literature Book Collection. Includes correspondence, broadsides, manuscripts, and photographs.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Iannucci Modern American Literature Book Collection</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Bishop, Elizabeth, 1911-1979</persname>
+				<persname source="lcnaf" encodinganalog="700"> Bogan, Louise, 1897-1970 </persname>
+				<persname source="lcnaf" encodinganalog="700"> Brinnin, John Malcolm, 1916- </persname>
+				<persname source="lcnaf" encodinganalog="700"> Di Prima, Diane</persname>
+				<persname source="lcnaf" encodinganalog="700"> Glück, Louise, 1943-</persname>
+				<persname source="lcnaf" encodinganalog="700"> Kumin, Maxine, 1925-</persname>
+				<persname source="lcnaf" encodinganalog="700"> Lowell, Robert, 1917-1977</persname>
+				<persname source="lcnaf" encodinganalog="700"> Moore, Marianne, 1887-1972</persname>
+				<persname source="lcnaf" encodinganalog="700"> McCarthy, Mary, 1912-1989 </persname>
+				<persname source="lcnaf" encodinganalog="700"> Sarton, May, 1912-1995 </persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> American poetry</subject>
+				<subject source="lcsh" encodinganalog="650"> American literature--Women authors</subject>
+				<subject source="lcsh" encodinganalog="650"> Literature--Authors</subject>
+				<subject source="lcsh" encodinganalog="650"> Women poets</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, February 2008.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, February 2008.</p>
+		</processinfo>
+		<custodhist encodinganalog="561">
+			<head>Custodial History</head>
+			<p>Collected by Brenda J. Iannucci, then gifted to Barbara Page.</p>
+		</custodhist>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Barbara Page, June 2007.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Iannucci Modern American Literature Manuscript Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES I: Elizabeth Bishop</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1 </container>
+						<unittitle>Card and Penteado drawing sent out with advance copies of Bishop's <emph render="underline">Complete Poems</emph>
+						</unittitle>
+						<physdesc>(removed from IMALBC volume 2)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle>Vassar College commencement ticket, 1934 </unittitle>
+						<physdesc>(removed from IMALBC volume 1)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.1 </container>
+						<unittitle>Pendant given to May Swenson by Bishop </unittitle>
+						<unitdate/>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle>Photocopied letter and photograph regarding pendant given to May Swenson by Bishop </unittitle>
+						<unitdate/>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.8 </container>
+						<unittitle>Mailing announcing the "Consultants' Reunion: Readings by Consultants in Poetry to the Library of Congress," an event at the Library of Congress, </unittitle>
+						<unitdate>6 Mar 1978</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES II: Louise Bogan</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.4 </container>
+						<unittitle>Postcard and letter to Eugene Delafield, </unittitle>
+						<unitdate>3 June 1964, 30 May 1965</unitdate>
+						<physdesc>(removed from IMALBC volume 4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.5 </container>
+						<unittitle>Letters from John Wheelock, </unittitle>
+						<unitdate>1935-1938, 1953</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.6 </container>
+						<unittitle>Clippings </unittitle>
+						<physdesc>(removed from IMALBC volume 5)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.7 </container>
+						<unittitle>Clippings </unittitle>
+						<physdesc>(removed from IMALBC volume 6)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES III: Brinnin, John Malcom</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.8 </container>
+						<unittitle>Typescripts of "To the Lighthouse" and "Poem for a Memorial Day," both inscribed to Phillips L. Garman </unittitle>
+						<physdesc>(removed from IMALBC volume 7)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES IV: Diane Di Prima</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.2 </container>
+						<unittitle>"XV Dedications," Unicorn Broadsheet, Series II, no. 7, signed, </unittitle>
+						<unitdate>1971</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES V: Louise Gluck</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.3 </container>
+						<unittitle>"The Mystery," Stern &amp; Faye broadside, no. 15/100, signed, </unittitle>
+						<unitdate>1999</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES VI: Kumin, Maxine</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.4 </container>
+						<unittitle>"On Digging Out Old Lilacs," Pomegranate Press broadside, no. 248/250, </unittitle>
+						<unitdate>1973</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES VII: Lowell, Robert</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.5 </container>
+						<unittitle>Broadsides from "4," printed and signed by Laurence Scott, no. 56/100, </unittitle>
+						<unitdate>Jan 1969</unitdate>
+						<physdesc>(includes all four broadsides)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES VIII: McCarthy, Mary</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.9 </container>
+						<unittitle>Letter to Wesley S. Harley, </unittitle>
+						<unitdate>17 Aug 1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.10 </container>
+						<unittitle>Letter to Wesley S. Harley, </unittitle>
+						<unitdate>24 Apr 1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.11 </container>
+						<unittitle>Two clippings of Bishop's "Sonnet"</unittitle>
+						<physdesc>(removed from IMALBC volume 3)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES IX: Marianne Moore</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.12 </container>
+						<unittitle>Letters to Frederick Adams, Jr., </unittitle>
+						<unitdate>7 Jan 1949, 30 July 1949</unitdate>
+						<physdesc>(removed from IMALBC volume 9)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.13 </container>
+						<unittitle>Letter to Cherry Lane Theatre, </unittitle>
+						<unitdate>20 Oct 1954</unitdate>
+						<physdesc>(removed from IMALBC volume 8)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.14 </container>
+						<unittitle>Postcard to Caroline T. Gilchrist, </unittitle>
+						<unitdate>17 Mar 1965</unitdate>
+						<physdesc>(removed from IMALBC volume 15)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.15 </container>
+						<unittitle>Postcard to Virginia Patterson, </unittitle>
+						<unitdate>23 May 1954</unitdate>
+						<physdesc>(removed from IMALBC volume 10)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.16 </container>
+						<unittitle>Letters to John B. Rey,</unittitle>
+						<unitdate>1965-1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.17 </container>
+						<unittitle>Note to John B. Rey, </unittitle>
+						<unitdate>24 Mar 1969</unitdate>
+						<physdesc>(with enclosures)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.18 </container>
+						<unittitle>Note to Mary and Bryan Sheedy, </unittitle>
+						<unitdate>June 1968</unitdate>
+						<physdesc>(removed from IMALBC volume 14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.19 </container>
+						<unittitle>Note to Allen Tanner, </unittitle>
+						<unitdate>8 Oct 1965</unitdate>
+						<physdesc>(removed from IMALBC volume 18)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.20 </container>
+						<unittitle>Thank-you note to P.K. Thomajan, </unittitle>
+						<unitdate>14 Aug 1950</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.21 </container>
+						<unittitle>Postcard signed "Bill," </unittitle>
+						<unitdate>ca. 1992</unitdate>
+						<physdesc>(removed from IMALBC volume 9)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.6 </container>
+						<unittitle>"W. S. Landor," Broadside printed by Adams &amp; Lowell House, proof copy signed for Ian Story by Laurence Scott, </unittitle>
+						<unitdate>Aug 1965</unitdate>
+						<physdesc>(mounted on poster board)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.7 </container>
+						<unittitle>"W. S. Landor," Broadside printed by Adams &amp; Lowell House, no 50/135, signed by Moore and Laurence Scott, </unittitle>
+						<unitdate>Mar 1965</unitdate>
+						<physdesc>(laminated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.22 </container>
+						<unittitle>Signed typescript of "Rigorists" </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.23 </container>
+						<unittitle>Notes on her poem, "Poetry," </unittitle>
+						<unitdate>2 May 1968</unitdate>
+						<physdesc>(removed from IMALBC volume 14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.24 </container>
+						<unittitle>Signed clipping of "To a Giraffe," from the <emph render="italic">New York Times</emph>, </unittitle>
+						<unitdate>19 Apr 1963</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.25 </container>
+						<unittitle>Notice sent with advance review copies of <emph render="underline">Nevertheless</emph>, </unittitle>
+						<unitdate>1944</unitdate>
+						<physdesc>(removed from IMALBC volume 13)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.26 </container>
+						<unittitle>Letter from the Hampshire Bookshop to A.B. Churchill, </unittitle>
+						<unitdate>20 Dec 1951</unitdate>
+						<physdesc>(removed from IMALBC volume 11)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.27 </container>
+						<unittitle>Program from "Poetry in Crystal" exhibition at Steuben Glass, </unittitle>
+						<unitdate>1963</unitdate>
+						<physdesc>(removed from IMALBC volume 17)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.28 </container>
+						<unittitle>Notice of Moore's reading at the Poetry Center, </unittitle>
+						<unitdate>17 Nov 1968</unitdate>
+						<physdesc>(removed from IMALBC volume 14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.29 </container>
+						<unittitle>Clipping re National Medal for Literature,</unittitle>
+						<unitdate>11 Dec 1968</unitdate>
+						<physdesc>(removed from IMALBC volume 14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.30 </container>
+						<unittitle>Citation written by John Hall Wheelock for the Academy of American Poets presentation, </unittitle>
+						<unitdate>Oct 1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.31</container>
+						<unittitle>Poem for Moore by Eloise C. Parker, </unittitle>
+						<unitdate>1956</unitdate>
+						<physdesc>(removed from IMALBC volume 12)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.32</container>
+						<unittitle>Photographs, </unittitle>
+						<unitdate>1953-1969</unitdate>
+						<physdesc>(3 prints)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES X: Howard Nemerov</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.8 </container>
+						<unittitle>Mailing announcing the "Consultants' Reunion: Readings by Consultants in Poetry to the Library of Congress," an event at the Library of Congress, </unittitle>
+						<unitdate>6 Mar 1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.9 </container>
+						<unittitle>Mailing announcing Nemerov's lecture at the Library of Congress entitled "Science and Stories, </unittitle>
+						<unitdate>1 May 1989</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES XI: May Sarton</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 2.10 </container>
+						<unittitle>"The Phoenix Again," signed broadside printed by Firefly Press for Sarton's 75th birthday, </unittitle>
+						<unitdate>3 May 1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.33 </container>
+						<unittitle>"The Ender, The Beginner," signed broadside printed by Firefly Press for Sarton's 80th birthday, </unittitle>
+						<unitdate>3 May 1992</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES XII: Edith Sitwell</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.34 </container>
+						<unittitle>Clippings, signature, etc. </unittitle>
+						<physdesc>(removed from IMALBC volume 16)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> SERIES XIII: Miscellaneous</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.35 </container>
+						<unittitle>Iannucci annotations and other items removed from the book collection </unittitle>
+						<unitdate/>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+		<index>
+			<head>Volume Index</head>
+			<p>Index of volumes in the Iannucci Modern American Literature Book Collection (IMALBC) from which manuscript material was pulled.</p>
+			<indexentry>
+				<name>(01) Bishop, Elizabeth. <emph render="underline">The Complete Poems</emph>. London: Chatto and Windus, [1969].</name>
+			</indexentry>
+			<indexentry>
+				<name>(02) Bishop, Elizabeth. <emph render="underline">The Complete Poems</emph>. New York: Farrar. Straus &amp; Giroux, 1969 (advance copy for review).</name>
+			</indexentry>
+			<indexentry>
+				<name>(03) Bishop, Elizabeth. <emph render="underline">The Complete Poems</emph>. New York: Farrar. Straus &amp; Giroux, 1969 (Mary McCarthy's copy).</name>
+			</indexentry>
+			<indexentry>
+				<name>(04) Bogan, Louise. <emph render="underline">The Blue Estuaries: Poems, 1923-1968</emph>. New York: Farrar. Straus &amp; Giroux, 1968 (copy inscribed to Eugene Delafield).</name>
+			</indexentry>
+			<indexentry>
+				<name>(05) Bogan, Louise. <emph render="underline">The Sleeping Fury.</emph>. London: Charles Scribner's Sons, 1937 (copy with "Cassandra" inscribed on fly leaf).</name>
+			</indexentry>
+			<indexentry>
+				<name>(06) Field, Charles K. <emph render="underline">Cheerio's Book of Days</emph>. New York: Garden City Publishing, 1940</name>
+			</indexentry>
+			<indexentry>
+				<name>(07) Gregory, Horace, ed. <emph render="underline">New Letters in America. </emph>. New York: Norton, 1937.</name>
+			</indexentry>
+			<indexentry>
+				<name>(08) Kreymborg, Alfred. <emph render="underline">Others: An Anthology of New Verse</emph>. New York: Knopf, 1917.</name>
+			</indexentry>
+			<indexentry>
+				<name>(09) La Fontaine, Jean de. <emph render="underline">The Fables of La Fontaine</emph>. Translated by Marianne Moore. New York: Viking Press, 1964.</name>
+			</indexentry>
+			<indexentry>
+				<name>(10) Moore, Marianne. <emph render="underline">The Absentee</emph>. New York: House of Books, 1962 (Signed copy given to Robert Lowell by Marguerite Cohn).</name>
+			</indexentry>
+			<indexentry>
+				<name>(11) Moore, Marianne. <emph render="underline">Collected Poems</emph>. New York: Macmillan, 1951 (copy with Faber and Faber book jacket).</name>
+			</indexentry>
+			<indexentry>
+				<name>(12) Moore, Marianne. <emph render="underline">Collected Poems</emph>. New York: Macmillan, 1955 (copy inscribed to Eloise Parker).</name>
+			</indexentry>
+			<indexentry>
+				<name>(13) Moore, Marianne. <emph render="underline">Nevertheless</emph>. New York: Macmillan, 1944.</name>
+			</indexentry>
+			<indexentry>
+				<name>(14) Moore, Marianne. <emph render="underline">O To Be a Dragon</emph>. New York: Viking Press, 1959 (copy inscribed to Bryan Sheedy).</name>
+			</indexentry>
+			<indexentry>
+				<name>(15) Moore, Marianne. <emph render="underline">Puss in Boots, The Sleeping Beauty, &amp; Cinderella: A Retelling of Three Classic Fairy Tales Based on the French of Charles Perrault </emph>. New York: Macmillan, 1963.</name>
+			</indexentry>
+			<indexentry>
+				<name>(16) Salter, Elizabeth. <emph render="underline">The Last Years of a Rebel: A Memoir of Edith Sitwell.</emph>. Lonodon: The Bodley Head, 1967.</name>
+			</indexentry>
+			<indexentry>
+				<name>(17) Steuben Glass. <emph render="underline">Poetry in Crystal.</emph>. New York: Steuben Glass, 1963</name>
+			</indexentry>
+			<indexentry>
+				<name>(18) Watson, Hildegarde Lasell. <emph render="underline">The Edge of the Woods</emph>. Privately printed, 1979. </name>
+			</indexentry>
+		</index>
+	</archdesc>
+</ead>

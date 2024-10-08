@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_printed_leaves
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Printed Leaves Collection, 1475-1905</titleproper>
+				<author>Inventory prepared by Miranda Villesvik</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>January 2015</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2015</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245"> Printed Leaves Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1475-1905 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.0 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">An artificial collection of printed leaves, including leaves separated from incunabula as well as later works.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>An artificial collection of printed leaves, including leaves separated from incunabula as well as later works.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-francis-fitz-randolph-collection-incunabula-leaves-1472-1500" show="new"> Francis Fitz Randolph Collection of Incunabula Leaves</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Printing--Specimens</subject>
+				<subject source="lcsh" encodinganalog="650"> Printing--Europe--History</subject>
+				<subject source="lcsh" encodinganalog="650"> Incunabula--Specimens</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Incunabula</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Printing and Publishing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, January 2015.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>List created by Miranda Villesvik, December 2014.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gifts and purchases from a variety of sources over a number of years.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Printed Leaves Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>Arranged chronologically. </p>
+		</arrangement>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>2.1</container>
+					<unittitle> Diogenes Laertius. Lives, Teachings, and Sayings of Famous Philosophers. Venice: Nicolas Jenson, 1475. Goff D-220.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.1</container>
+					<unittitle> Bible. Latin. Vulgate. Venice: Nicolas Jenson, 1476. Goff B-547.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>2.2-2.3</container>
+					<unittitle> Higden, Ranulf. Polycronicon. Westminster: William Caxton, after 1482. (Leaves CCIII, CCCXXII). Goff H-267. </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.2</container>
+					<unittitle> Thuróczy, János. Chronica Hungarorum. Brno: Conrad Stahel and Mathias Preunlein, 1488. Goff T-360.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.3</container>
+					<unittitle> Dante Alighieri. Divina Commedia. Venice: Piero de Piasi, 1491. Goff D-33.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.4-1.5</container>
+					<unittitle> Cassiodorus. Expositio Psalmorum. Basel: Johann Amerbach, 1491. Goff C-236. (Leaves XCVIII, XXXIIII)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.6-1.7</container>
+					<unittitle> Schedel, Hartmann. Liber Chronicarum. Latin. Nuremberg: Anton Koberger, 1493. (Leaves CXXVI, CLXXXIX). Goff S-307.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.8-1.14</container>
+					<unittitle> Schedel, Hartmann. Liber Chronicarum. German. Nuremberg: Anton Koberger, 1493. (Leaves VI, XXIX, XLI, LVII-LVIII, LXX, LXXXII). Goff S-309.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.15</container>
+					<unittitle> Jacobus de Voragine, Golden Legend. London: Wynken de Worde; 1512?</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.16</container>
+					<unittitle> Varronis, Cornucopiae. Venice: Aldus Manutius; 1513.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.17</container>
+					<unittitle> Froissart, Chronicles. 15--? </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>2.4 </container>
+					<unittitle> German Herbal. Late 15th early 16th?</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.18</container>
+					<unittitle> Apocrypha. English Bible. 16th-17th Century?</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.19</container>
+					<unittitle> Mamusse Wunneetupanatamwe Up-Biblum God… (Eliot Indian Bible). Cambridge, MA: Samuel Green, 1685.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.20</container>
+					<unittitle> Bauhin, Gaspad, Theatri Botanici Sive Historiae Plantarum… Basel, 1685.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.21</container>
+					<unittitle> Votes of the Assembly. Philadelphia: Benjamin Franklin; 1753.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.22</container>
+					<unittitle> The Holy Bible. Cambridge: John Baskerville, 1763.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>2.5</container>
+					<unittitle> Vitas Patrum. Hammersmith: Kelmscott Press, 1892. (Trial sheet &amp; Prospectus).</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>1.23-1.25</container>
+					<unittitle> The English Bible. (1 leaf and 2 bifolia: 19-20, 145&amp;146-159&amp;160, 261&amp;262-267&amp;268). Hammersmith: Doves Press, 1903-05.</unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

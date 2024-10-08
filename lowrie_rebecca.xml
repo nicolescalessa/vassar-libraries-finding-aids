@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_lowrie_rebecca </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Rebecca Lawrence Lowrie Papers, 1846-1996 (bulk 1909-1977)</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>February 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Lowrie, Rebecca Lawrence, 1891-1975</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Rebecca Lawrence Lowrie Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1846-1996 </unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1909-1977 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 2 cubic feet (9 boxes with ca. 1000 items)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> The bulk of the collection consists of Lowrie's manuscripts of published and unpublished book reviews, 1934-1952. Other items include correspondence relating to Vassar College, her work as a book reviewer, responses to her reviews, her health, comments on people and politics, popular culture, her dogs, and other personal issues. There is also family and biographical material, her Christmas card collection, and other items.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Ella Rebecca Lawrence (1891-1975) was born in Galesburg, Illinois on December 14, 1891, the third child of George Appleton and Ella Louise Park Lawrence. Rebecca graduated Phi Beta Kappa from Vassar College in 1913 and received her M.A. in history from Radcliffe College. Having returned to Galesburg to accept a teaching position at Knox College, Rebecca met John Marshall Lowrie, a practicing attorney. The two were married on December 19, 1916.</p>
+			<p>The Lowries lived in New York City, where Mrs. Lowrie spent two years working for Macmillan Company and subsequently became a book reviewer for Harper Brothers (now Harper and Row). In addition to her regular assignments at Harper’s, she reviewed occasional books for <emph render="italic">The New Yorker</emph> and <emph render="italic">The Saturday Review of Literature </emph>. In 1928, while pursuing her literary career, Mrs. Lowrie wrote <emph render="underline">Cambric Tea</emph>, a book describing her rather lonely childhood in Galesburg. In 1931, Mrs. Lowrie resigned from Harper Brothers to accept a job as first reader for the Book-of-the-Month Club, a position she would hold until 1943.</p>
+			<p>Rebecca Lowrie served as a trustee of Vassar College from 1944 to 1952. Following her husband’s death in 1954, she moved to Chicago. After closing the Galesburg home, Mrs. Lowrie gave to Vassar a collection of over 3,000 volumes, many of which are now housed in the Special Collections Library. In 1965, Mrs. Lowrie made an outright gift to Vassar of the Elmwood Farm in Galesburg -- a tract of nearly 900 acres. To this generous gift, her will added 4,500 acres and securities valued in excess of $10 million, the largest bequest in Vassar’s history. Mrs. Lowrie requested in her will that after being held in trust for a period of 10 years, the income derived from the land be used to fund the Lucy Maynard Salmon Chair for American History to a level of $1.5 million, with the balance going to the Sarah Gibson Blanding Fund for the promotion of academic excellence at Vassar College.</p>
+			<p>For more Biographical information, see "Rebecca Lawrence Lowrie: An appreciation," by Alan Simpson. <emph render="italic">Vassar Views</emph>, July, 1977, no. 49</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Rebecca Lawrence Lowrie Collection consists primarily of correspondence, typescripts, newsclippings, articles, speeches and addresses, and photographs. Also contained within the collection are a set of 22 Christmas cards designed for Rebecca Lowrie by Ralph Fletcher Seymour, a hand-written catalogue for the Park-Lawrence private library, and a scrapbook of newspaper reviews of <emph render="underline">Cambric Tea</emph>.</p>
+			<p>The bulk of the Collection consists of over 600 book reviews written by Lowrie between 1934 and 1952. Personal correspondence includes letters of general information. Contained within the Lowrie Collection are a set of 95 letters written by Rebecca Lowrie to Mary Simpson between 1963 and 1971. A set of 64 letters written by Lowrie to Eloise Ellery (1936-1956) can be found within the Eloise Ellery Collection at Vassar College. Also, a series of 27 letters from Rebecca Lowrie to Lucy Maynard Salmon written between 1912 and 1926, together with one letter from Lowrie to Mrs. Clark (1936) can be located within the Lucy Maynard Salmon Collection at Vassar.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>There are letters written by Rebecca Lowrie to Dr. C. Stanley Urban in the Fishburn Archives at Park University. The letters were written in 1957 and relate to research Dr. Urban was doing on the Park family. </p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="700"> Foote, Barbara</persname>
+				<persname source="lcnaf" encodinganalog="700"> Seymour, Ralph Fletcher, 1876-1966</persname>
+				<persname source="lcnaf" encodinganalog="600"> Simpson, Mary</persname>
+				<persname source="lcnaf" encodinganalog="600"> Couch, Helen</persname>
+				<persname source="lcnaf" encodinganalog="600"> Garnsey, Gertrude, 1904-1989</persname>
+				<persname source="lcnaf" encodinganalog="600"> Lowrie family</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Book-of-the-Month Club</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Harper &amp; Brothers</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Board of Trustees</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Alumni and alumnae</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Family--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650"> Christmas cards</subject>
+				<subject source="lcsh" encodinganalog="650"> Dogs</subject>
+				<subject source="lcsh" encodinganalog="650"> Decedents' estates</subject>
+				<subject source="lcsh" encodinganalog="650"> American literature</subject>
+				<subject source="lcsh" encodinganalog="650"> Women in the book industries and trade</subject>
+				<subject source="lcsh" encodinganalog="650"> Books--Reviews</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> United States--Social life and customs--20th century</geogname>
+				<geogname source="lcnaf" encodinganalog="651"> United States--Politics and government--20th century</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, February 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Updated August 1998 and June 2009.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>The bulk of the collection was a gift of Barbara Foote, Mary Simpson, and the Estate of Rebecca Lawrence Lowrie. A later addition of land records was transfered from the Vassar College Office of the Vice President for Finance by Anthony Stellato in 1996.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Rebecca Lawrence Lowrie Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence </unittitle>
+					<physdesc>(Boxes 1-2, 7)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Book Reviews Written By Lowrie </unittitle>
+					<physdesc>(Boxes 3-5, 7)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Printed Material </unittitle>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Unpublished Works </unittitle>
+					<physdesc>(Box 6)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Legal Documents </unittitle>
+					<physdesc>(Boxes 7-8)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Lawrence - Lowrie Family </unittitle>
+					<physdesc>(Box 7)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Park - Lawrence Library </unittitle>
+					<physdesc>(Box 7)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Photographs </unittitle>
+					<physdesc>(Box 7 as well as Multiple Collections)</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX.</ref> Miscellaneous</unittitle>
+					<physdesc>(Boxes 7-8)</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I: CORRESPONDENCE </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Letters To Rebecca Lowrie </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.1 </container>
+							<unittitle> Couch, Helen, </unittitle>
+							<physdesc> (9 letters) </physdesc>
+							<unitdate type="inclusive"> 1953-1957 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.2 </container>
+							<unittitle> Garnsey, Gertrude, </unittitle>
+							<physdesc> (9 letters) </physdesc>
+							<unitdate type="inclusive"> 1953-1968 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.3 </container>
+							<unittitle> Minor Correspondents, A-Z, </unittitle>
+							<physdesc> (10 letters, 1 telegram, 2 postcards) </physdesc>
+							<unitdate type="inclusive"> 1931-1966, n.d. </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Letters from Rebecca Lowrie </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.87 </container>
+							<unittitle> to Dorothy and Albert Britt, </unittitle>
+							<unitdate type="inclusive"> ca. 1934-1954 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.4 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (5 letters) </physdesc>
+							<unitdate type="inclusive"> 1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.5 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (19 letters) </physdesc>
+							<unitdate type="inclusive"> 1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.6 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (15 letters) </physdesc>
+							<unitdate type="inclusive"> 1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.7 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (11 letters, 3 postcards) </physdesc>
+							<unitdate type="inclusive"> 1966 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.8 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (16 letters) </physdesc>
+							<unitdate type="inclusive"> 1967 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.9 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (12 letters) </physdesc>
+							<unitdate type="inclusive"> 1968 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.10 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (4 letters) </physdesc>
+							<unitdate type="inclusive"> 1969-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.11 </container>
+							<unittitle> to Mary Simpson, </unittitle>
+							<physdesc> (3 Christmas cards) </physdesc>
+							<unitdate type="inclusive"> n.d. </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.12 </container>
+							<unittitle> to Class of 1913, A-B, </unittitle>
+							<physdesc> (TS, 18 letters) </physdesc>
+							<unitdate type="inclusive"> 1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.13 </container>
+							<unittitle> to Class of 1913, C-D, </unittitle>
+							<physdesc> (TS, 29 letters) </physdesc>
+							<unitdate type="inclusive"> 1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.14 </container>
+							<unittitle> to Class of 1913 E-H, </unittitle>
+							<physdesc> (TS, 28 letters) </physdesc>
+							<unitdate type="inclusive"> 1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.15 </container>
+							<unittitle> to Class of 1913, I-Z, </unittitle>
+							<physdesc> (TS, 15 letters) </physdesc>
+							<unitdate type="inclusive"> 1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.16 </container>
+							<unittitle> to Others, </unittitle>
+							<physdesc> (4 letters (2 Xerox), 1 Christmas card and envelope) </physdesc>
+							<unitdate type="inclusive"> 1913-1951 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Miscellaneous Correspondence </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.17 </container>
+							<unittitle> Letters pertaining to the Collection, </unittitle>
+							<physdesc> (10 letters) </physdesc>
+							<unitdate type="inclusive"> 1976-1977, n.d. </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.18 </container>
+							<unittitle> Letters by and about others, </unittitle>
+							<physdesc> (2 letters) </physdesc>
+							<unitdate type="inclusive"> 1933-1948 </unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container> BOX 2 </container>
+							<unittitle> Christmas Cards: Catalogue of Christmas card designed for Rebecca Lowrie by Ralph F. Seymour </unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II: BOOKS REVIEWS WRITTEN BY LOWRIE </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Unpublished Book Reviews </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.19 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 17 reviews) </physdesc>
+							<unitdate type="inclusive"> Feb-June 1934 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.20 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 13 reviews) </physdesc>
+							<unitdate type="inclusive"> July-Aug 1934 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.21 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 17 reviews) </physdesc>
+							<unitdate type="inclusive"> Sept 1934, [1934] </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.22 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 23 reviews) </physdesc>
+							<unitdate type="inclusive"> [1934] </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.23 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 11 reviews) </physdesc>
+							<unitdate type="inclusive"> [1934] </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.24 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 16 reviews) </physdesc>
+							<unitdate type="inclusive"> [Jan]-July 1935 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.25 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 19 reviews) </physdesc>
+							<unitdate type="inclusive"> Aug-Dec 1935 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.26 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 22 reviews) </physdesc>
+							<unitdate type="inclusive"> Jan-Apr 1935 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.27 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 24 reviews) </physdesc>
+							<unitdate type="inclusive"> May-Aug 1936 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.28 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 25 reviews) </physdesc>
+							<unitdate type="inclusive"> Sept-Dec 1936 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.29 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 20 reviews) </physdesc>
+							<unitdate type="inclusive"> Jan-Feb 1937 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.30 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 25 reviews) </physdesc>
+							<unitdate type="inclusive"> Mar-May 1937 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.31 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 22 reviews) </physdesc>
+							<unitdate type="inclusive"> June-Aug 1937 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.32 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 25 reviews) </physdesc>
+							<unitdate type="inclusive"> Sept-Dec 1937 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.33 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 27 reviews) </physdesc>
+							<unitdate type="inclusive"> Jan-Feb 1938 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.34 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 16 reviews) </physdesc>
+							<unitdate type="inclusive"> Mar-June 1938 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.35 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 23 reviews) </physdesc>
+							<unitdate type="inclusive"> July-Aug 1938 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.36 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 20 reviews) </physdesc>
+							<unitdate type="inclusive"> Sept-Dec 1938 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.37 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 18 reviews) </physdesc>
+							<unitdate type="inclusive"> Jan-Mar 1939 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.38 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 17 reviews) </physdesc>
+							<unitdate type="inclusive"> Apr-June 1939 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.40 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 19 reviews) </physdesc>
+							<unitdate type="inclusive"> July-Aug 1939 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.41 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 26 reviews) </physdesc>
+							<unitdate type="inclusive"> Sept-Dec 1939 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.42 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 20 reviews) </physdesc>
+							<unitdate type="inclusive"> Jan-[ca. Feb] 1940 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.42 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 22 reviews) </physdesc>
+							<unitdate type="inclusive"> [ca. Feb]-June 1940 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.43 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 18 reviews) </physdesc>
+							<unitdate type="inclusive"> July-Aug 1940 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.44 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 17 reviews) </physdesc>
+							<unitdate type="inclusive"> Sept-Dec 1940 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.45 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 22 reviews) </physdesc>
+							<unitdate type="inclusive"> Jan-July 1941 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.46 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 22 reviews) </physdesc>
+							<unitdate type="inclusive"> Aug-Dec 1941 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.47 </container>
+							<unittitle> Unpublished book reviews, </unittitle>
+							<physdesc> (TS, 22 reviews) </physdesc>
+							<unitdate type="inclusive"> Jan-June 1942 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Published Book Reviews </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.48 </container>
+							<unittitle> Published book reviews, </unittitle>
+							<physdesc> (TS, 3 reviews) </physdesc>
+							<unitdate type="inclusive"> 1935 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.49 </container>
+							<unittitle> Published book reviews, </unittitle>
+							<physdesc> (TS, 10 reviews) </physdesc>
+							<unitdate type="inclusive"> 1936 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.50 </container>
+							<unittitle> Published book reviews, </unittitle>
+							<physdesc> (TS, 14 reviews and 7 attached printed reviews) </physdesc>
+							<unitdate type="inclusive"> 1937 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.51 </container>
+							<unittitle> Published book reviews, </unittitle>
+							<physdesc> (TS, 16 reviews and 8 attached printed reviews) </physdesc>
+							<unitdate type="inclusive"> 1938 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.52 </container>
+							<unittitle> Published book reviews, </unittitle>
+							<physdesc> (TS, 8 reviews) </physdesc>
+							<unitdate type="inclusive"> 1939-1940 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.53 </container>
+							<unittitle> Published book reviews, </unittitle>
+							<physdesc> (TS, 11 reviews) </physdesc>
+							<unitdate type="inclusive"> 1941 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 5.54 </container>
+							<unittitle> Published book reviews, </unittitle>
+							<physdesc> (TS, 5 reviews) </physdesc>
+							<unitdate type="inclusive"> 1942 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.89 </container>
+							<unittitle> Unbound scrapbook of <emph render="underline">Cambric Tea</emph> Reviews </unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III: PRINTED MATERIAL </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Book Reviews by Rebecca Lowrie </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.55 </container>
+							<unittitle> Magazine review clippings, </unittitle>
+							<physdesc> (25 clippings) </physdesc>
+							<unitdate type="inclusive"> 1935-1942 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.56 </container>
+							<unittitle> The Saturday Review Literature, w/ review by Rebecca Lowrie, </unittitle>
+							<physdesc> (2 issues) </physdesc>
+							<unitdate type="inclusive"> 1938-1941 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Newspaper Articles </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.57 </container>
+							<unittitle> Newsclippings concerning <emph render="underline">Cambric Tea</emph>, </unittitle>
+							<physdesc> (photocopies) </physdesc>
+							<unitdate type="inclusive"> 1928-1931 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.58 </container>
+							<unittitle> Assorted newsclippings, </unittitle>
+							<physdesc> (photocopies ) </physdesc>
+							<unitdate type="inclusive"> 1924-1967 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Miscellaneous Printed Material </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.59 </container>
+							<unittitle> Printed material by or about Lowrie, </unittitle>
+							<physdesc> (5 items) </physdesc>
+							<unitdate type="inclusive"> 1937-1977 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.60 </container>
+							<unittitle> Eulogies, </unittitle>
+							<physdesc> (2 pamphlets) </physdesc>
+							<unitdate type="inclusive"> 1934-1954 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.61 </container>
+							<unittitle> "A Pioneer of Freedom," by George A. Lawrence, </unittitle>
+							<physdesc> (1 booklet) </physdesc>
+							<unitdate type="inclusive"> 1913 </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV: UNPUBLISHED WORKS </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Written by Lowrie </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.62 </container>
+							<unittitle> Poems, </unittitle>
+							<physdesc> (MS, 2 pp., TS, 1 p. 2 Xerox) </physdesc>
+							<unitdate type="inclusive"> 1916, n.d. </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.63 </container>
+							<unittitle> "1853," </unittitle>
+							<physdesc> (TS, 13 pp. ) </physdesc>
+							<unitdate type="inclusive"> [1957] </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.64 </container>
+							<unittitle> "Hob: An Etymological Biography," </unittitle>
+							<physdesc> (TS, 15 pp. (Xerox) ) </physdesc>
+							<unitdate type="inclusive"> [1958] </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.65 </container>
+							<unittitle> "The Lady and the Brewer," </unittitle>
+							<physdesc> (TS, 20 pp. ) </physdesc>
+							<unitdate type="inclusive"> [1961] </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.66 </container>
+							<unittitle> "Report for 45th Reunion Class," </unittitle>
+							<physdesc> (TS, 4 pp. ) </physdesc>
+							<unitdate type="inclusive"> 1957 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Written by Others About Lowrie </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.67 </container>
+							<unittitle> "Rebecca Lawrence Lowrie," by Barbara Foote (rough draft), </unittitle>
+							<physdesc> (TS, 22 pp. (Xerox) ) </physdesc>
+							<unitdate type="inclusive"> 1977 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.68 </container>
+							<unittitle> "Rebecca Lawrence Lowrie," by Barbara Foote (final draft), </unittitle>
+							<physdesc> (TS, 20 pp. (Xerox) ) </physdesc>
+							<unitdate type="inclusive"> 1977 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Written By and About Others </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folders 6.69 </container>
+							<unittitle> Announcements concerning the Lucy Maynard Salmon Chair and Sarah Gibson Blanding Fund, </unittitle>
+							<physdesc> (TS, 2 items (Xerox) ) </physdesc>
+							<unitdate type="inclusive"> 1969, n.d. </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Gifts Donated by Rebecca Lowrie </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 6.70 </container>
+							<unittitle> Announcements, summaries and valuations of gifts, </unittitle>
+							<physdesc> (TS, 10 items (7 Xerox), MS, 1 item) </physdesc>
+							<unitdate type="inclusive"> 1944-1977 </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V: LEGAL DOCUMENTS </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.77 </container>
+						<unittitle> Inventory of estate, </unittitle>
+						<physdesc> (TS, 15 pp., oversized) </physdesc>
+						<unitdate type="inclusive"> 1960 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.78 </container>
+						<unittitle> Will of Rebecca Lowrie w/ letter from Frederick G. Acker to James Ritterskamp(1976), </unittitle>
+						<physdesc> (TS, 12 pp. (Xerox)) </physdesc>
+						<unitdate type="inclusive"> 1975 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.93 </container>
+						<unittitle> Land records for property in Illinois (subsequently bequeathed to Vassar College) and later documentation, </unittitle>
+						<physdesc>(16 land warrants, plus additional documentation)</physdesc>
+						<unitdate type="inclusive"> 1846-1853, 1952, 1996, 2009 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle> SERIES VI: LAWRENCE-LOWRIE FAMILY </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> College Bulletins </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.79 </container>
+							<unittitle> Knox College publications, </unittitle>
+							<physdesc> (3 items (1 Xerox)) </physdesc>
+							<unitdate type="inclusive"> 1976 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.80 </container>
+							<unittitle> Park College Alumniad, </unittitle>
+							<physdesc> (1 magazine) </physdesc>
+							<unitdate type="inclusive"> 1976 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Genealogical Information </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.81 </container>
+							<unittitle> Genealogical charts, etc., </unittitle>
+							<physdesc> </physdesc>
+							<unitdate type="inclusive"> n.d. </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.82 </container>
+							<unittitle> Daughters of the American Revolution applications, </unittitle>
+							<physdesc> (5 photocopies) </physdesc>
+							<unitdate type="inclusive"> 1914-1919 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 7.83 </container>
+							<unittitle> Facsimile of 1877 letter from Matthew Vassar Jr. to Ella Park (w/transcript) </unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle> SERIES VII: PARK-LAWRENCE LIBRARY </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.84 </container>
+						<unittitle> Bills and receipts, </unittitle>
+						<physdesc> (9 pp. ) </physdesc>
+						<unitdate type="inclusive"> 1912-1916 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.85 </container>
+						<unittitle> Book listings and catalogue descriptions, </unittitle>
+						<physdesc> (TS, 4 items, MS, 2 items, 2 clippings) </physdesc>
+						<unitdate type="inclusive"> 1920-24 n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.86 </container>
+						<unittitle> Correspondence to Mrs. George A. Lawrence, </unittitle>
+						<physdesc> (2 letters) </physdesc>
+						<unitdate type="inclusive"> 1909-1916 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.92 </container>
+						<unittitle> Library catalogue of the Park-Lawrence private library, </unittitle>
+						<physdesc> (1 catalog) </physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle> SERIES VIII: PHOTOGRAPHS </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.71 </container>
+						<unittitle> Rebecca Lowrie portraits </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.72 </container>
+						<unittitle> Rebecca Lowrie with John Lowrie </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.73 </container>
+						<unittitle> Family </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.74 </container>
+						<unittitle> Vassar</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.76 </container>
+						<unittitle> Homes </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.75 </container>
+						<unittitle> Miscellaneous </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Multiple Collections </container>
+						<unittitle> 25th Anniversary pictures and photo of Rebecca in childhood, </unittitle>
+						<physdesc> (4 photos) </physdesc>
+						<unitdate type="inclusive"> 1941, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Box 9 </container>
+						<unittitle> Family photograph album </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle> SERIES IX: MISCELLANEOUS </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Folder 7.88</container>
+						<unittitle> Miscellaneous material, items including: report card, addressed envelopes, </unittitle>
+						<physdesc> (12 items) </physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.90</container>
+						<unittitle> Vassar note cards — "The Dreyfus Case..." </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.90</container>
+						<unittitle> Vassar note cards — "The Friendly Hob..." </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 8.94</container>
+						<unittitle> Notes </unittitle>
+						<physdesc> (2 sets)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

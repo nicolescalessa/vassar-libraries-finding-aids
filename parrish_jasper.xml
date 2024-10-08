@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_parrish_jasper</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Jasper Parrish Papers, 1757-1954 (bulk 1757-1869)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Parrish, Jasper, 1767-1836</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Jasper Parrish Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1757-1954</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1757-1869</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.8 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Material relating to Jasper Parrish and his involvement with the Iroquois peoples, particularly in New York State.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Jasper Parrish (1767-1836) was born in Windham, Connecticut, but as a child moved with his family to the head of the Delaware River in the Southern Tier of New York State, a region still territorially controlled by the Iroquois Confederacy of Six Nations (Haudenosaunee). Parrish was eight years old when the Revolutionary War broke out. In 1778, at the age of eleven, Parrish and his father, while tending their corn fields, were captured by a group of Munsee, a band of the Delaware (Lenape) tribe. Soon thereafter, the senior Parrish was separated from his son, turned over to the British, and later exchanged as a prisoner of war and returned to his family. His son, however, remained with the Indians for nearly seven years. The last five years were with the family of a Mohawk chief, David Hill. Hill welcomed Parrish into his family and in 1780, during a council meeting among the Chiefs of the Six Nations, Hill formally adopted him in a traditional ceremony.</p>
+			<p>In 1784, when Parrish was seventeen, he was surrendered along with other captives according to the peace terms of the Treaty of Fort Stanwix between the United States and the Six Nations in present-day Rome, New York. Although his adoptive family wanted him to stay, Parrish opted to leave what had become his home to find his birth parents and rejoin the culture in which he was born. Re-entering that world was difficult for Parrish. Although he was then fluent in the Delaware and Mohawk languages, he had lost most of his English. He spent less than one year in school relearning the language and continued his education on his own, catching up with the world he had become a stranger to.</p>
+			<p>In 1790, Parrish was asked to serve as an interpreter for the United States government, and in 1792, he moved to Canandaigua and worked under General Israel Chapin, U.S. Superintendent of the Six Nations. Parrish spoke several Indian languages and interpreted for a number of important treaty negotiations, including the <archref href="https://cayuganation-nsn.gov/tribal-history.html" show="new">Pickering Treaty</archref> at Canandaigua in 1794 which gave the Six Nations sovereignty and full title to their lands, and established peace between the confederacy and the United States. This treaty is still cited today in New York State Native American land claims. Parrish continued his government service for nearly forty years, working not only as an interpreter but also as a sub-agent to the Six Nations. His duties included handling various kinds of business transactions and negotiations between the confederacy and the federal government as well as the New York State government.</p>
+			<p>Parrish left his position in 1829. He spent the rest of his life in Canandaigua, where he had become an important figure in local business and civic affairs. Little is known about Parrish's personal life except that he married Roxcelana Paine (daughter of General Edward Paine)in 1800 and they had three sons and three daughters. Parrish died July 12, 1836 and is buried in Canandaigua's Pioneer Cemetery.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1767</date>
+					<event>Born in Windham, Connecticut</event>
+				</chronitem>
+				<chronitem>
+					<date>1778 July 5</date>
+					<event>Captured by the Munsee</event>
+				</chronitem>
+				<chronitem>
+					<date>1780</date>
+					<event>Sold to Mohawk chief David Hill</event>
+				</chronitem>
+				<chronitem>
+					<date>1784 November 29</date>
+					<event>Surrendered at Fort Stanwix (now Rome, NY)</event>
+				</chronitem>
+				<chronitem>
+					<date>1790</date>
+					<event>Asked to serve as an interpreter for the U.S. government</event>
+				</chronitem>
+				<chronitem>
+					<date>1792</date>
+					<event>Appointed standing interpreter and moved to Canandaigua</event>
+				</chronitem>
+				<chronitem>
+					<date>1794</date>
+					<event>Served as chief interpreter for the negotiations and signing of the Pickering Treaty</event>
+				</chronitem>
+				<chronitem>
+					<date>1800</date>
+					<event>Married the Roxcelana Paine</event>
+				</chronitem>
+				<chronitem>
+					<date>1803</date>
+					<event>Appointed sub-agent to the Six Nations</event>
+				</chronitem>
+				<chronitem>
+					<date>1815</date>
+					<event>Given the gift of Squaw Island by the Seneca for his good work on their behalf</event>
+				</chronitem>
+				<chronitem>
+					<date>1829</date>
+					<event>Left government service</event>
+				</chronitem>
+				<chronitem>
+					<date>1836 July 12</date>
+					<event>Died in Canandaigua at the age of 69</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection includes correspondence of Jasper Parrish, 1790-1829, and others, 1757-1869, relating to the Painted Post treaty, payments to Indians, supplies to the Seneca mission, conduct of the St. Regis Indians, and work of the Quakers among the Indians. There are addresses and messages, 1803-1823, of Timothy Pickering, Thomas Jefferson, and John C. Calhoun to Iroquois chiefs including Red Jacket, Cornplanter, Farmer’s Brother, Little Billy, Young King, and others. There are also legal papers, agreements and deeds, 1791-1824, including a deed of conveyance pertaining to the property of Mary Jemison. Records of Jasper Parrish’s business transactions include receipts, invoices, notes, and accounts, 1793-1837. There are military and government records relating to the War of 1812 and the New York State Indians, including annuity payment agreements to the Indians and petitions for payments not received, a census of the Six Nations, 1792-1828, and other miscellaneous items,
+				1799-1860. There is also a set of transcripts along with an introduction prepared by Dorothy May Fairbank, Vassar Class of 1940, another set of transcripts created in 1954, and two biographical narratives of Jasper Parrish contributed by Caroline Townsend Monks, who was Vassar Class of 1940 and a direct descendant of Jasper Parrish.</p>
+		</scopecontent>
+		<accessrestrict>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/7c096bee-81a9-4f9c-92d5-a30b4e8a4f94">Lucy Maynard Salmon Historical Materials Collection</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="local" encodinganalog="700">Newton, Dorothy Fairbank, 1919-2012</persname>
+				<persname source="lcnaf" encodinganalog="600">Pickering, Timothy, 1745-1829</persname>
+				<persname source="lcnaf" encodinganalog="600">Jefferson, Thomas, 1743-1826</persname>
+				<persname source="lcnaf" encodinganalog="600">Calhoun, John C. (John Caldwell), 1782-1850</persname>
+				<persname source="lcnaf" encodinganalog="600">Chapin, Israel, Sr., 1740-1795</persname>
+				<persname source="lcnaf" encodinganalog="600">Cornplanter, Seneca chief, 1732?-1836</persname>
+				<persname source="lcnaf" encodinganalog="600">Graham, George, 1770–1830</persname>
+				<persname source="lcnaf" encodinganalog="600">Jemison, Mary, 1743-1833</persname>
+				<persname source="lcnaf" encodinganalog="600">Red Jacket, Seneca chief, approximately 1756-1830</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">St. Regis Indians</subject>
+				<subject source="lcsh" encodinganalog="650">Seneca Indians--Missions</subject>
+				<subject source="lcsh" encodinganalog="650">Iroquois Indians--Census</subject>
+				<subject source="lcsh" encodinganalog="650">Iroquois Indians--Treaties</subject>
+				<subject source="lcsh" encodinganalog="650">Indians of North America--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Quakers--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Indian agents</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">United States--History--Revolution, 1775-1783</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--History--War of 1812</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New York (State)--Politics and government--18th century</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New York (State)--Politics and government--19th century</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Local History</subject>
+				<subject source="local" encodinganalog="690">Native Americans</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007. Updated by Emma Gronbeck, March 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Biographical note added March 2007. General description updated and detailed item list added by Mary Ahenakew, October 2012. Rehoused from 3 boxes to 2 boxes by Emma Gronbeck, March 2023.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Donated to the Lucy Maynard Salmon Collection of Historical Materials, Vassar College Library, in 1939 by Caroline Monks, Vassar Class of 1940 and direct descendant of Jasper Parrish.</p>
+		</acqinfo>
+		<altformavail encodinganalog="530">
+			<head>Other Formats</head>
+			<p>Most items in this collection are available online via the
+				<archref href="http://digitallibrary.vassar.edu/">Vassar College Libraries'
+					Digital Library</archref>.</p>
+		</altformavail>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Jasper Parrish Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Correspondence – Parrish to Others</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Correspondence – Others to Parrish</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Correspondence – Others to Others</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Letter Fragments and Autographs</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Addresses and Messages</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Legal Documents</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Financial Documents</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Censuses of the Six Nations</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX.</ref> Parrish Promotion and Commission Documents</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">Series X.</ref> Miscellaneous Documents</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series11">Series XI.</ref> Biographical Narratives, Transcripts and Inventories</unittitle>
+					<unitdate/>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Correspondence – Parrish to Others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.1</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/f9f73c0b-4b19-4167-b89d-2b3a72c522f1">Colonel Timothy Pickering</archref>,  </unittitle>
+						<unitdate>1792 October 22</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.2</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/8d60cbbc-3b36-44e5-aa3c-da86b3b05c37">Thomas L. McKenney</archref>, </unittitle>
+						<unitdate>1828 January 1</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.3</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/eb4c6762-aee6-45cd-b653-82794cc899a7">Chiefs and Warriors of the St. Regis Indians</archref>, </unittitle>
+						<unitdate>1828 January 3</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.4</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/d2402c6f-314e-4116-ad1b-008031c94c09">Edward P. Parrish</archref>, </unittitle>
+						<unitdate>1828 January 3</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.5</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/984f87b5-1485-4bd1-a784-216bd2854cf3">Thomas L. McKenney</archref>, </unittitle>
+						<unitdate>1828 January 26</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.6</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e93abbea-1cb1-45f4-8478-62f8319bce67">Mrs. Townsend</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Correspondence – Others to Parrish</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.7</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/5b18563b-ad0c-4c03-8f46-6ccb931be160">Colonel Timothy Pickering</archref>, </unittitle>
+						<unitdate>1790 October 30</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.8</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/7fdf6d9c-d7fe-4eb4-8e9f-433c052c1f3c">Colonel Timothy Pickering</archref>, </unittitle>
+						<unitdate>1791 April 18</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.9</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/70f13f85-a2ed-47ef-81cc-ced115f1ec1a">Colonel Timothy Pickering</archref>, </unittitle>
+						<unitdate>1791 May 9</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.10</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/6f1af248-9acc-42f7-a442-ce99eacbf306">Colonel Timothy Pickering</archref>, </unittitle>
+						<unitdate>1792 April 29</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.11</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/446aa42e-c1b9-49fe-bfe0-492d8649ab7f">John Parrish</archref>, </unittitle>
+						<unitdate>1793 August 1</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.12</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/8bc663ae-ef70-4929-af9a-f24b28e43763">John Parrish</archref>, </unittitle>
+						<unitdate>1796 April 7</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.13</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/49b3a87b-e3bd-4def-8d2d-024e85d92de6">Captain Thomas Morris</archref>, </unittitle>
+						<unitdate>1796 August 22</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.14</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/3b13858c-12d7-4e6a-815b-ec2e9a05c8f0">Edward Paine</archref>, </unittitle>
+						<unitdate>1798 May 26</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.15</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/38941bce-a35e-4b31-90c9-f104860901c6">John Johnston</archref>, </unittitle>
+						<unitdate>1800 July 19</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.16</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/01b6317a-4770-4cfb-9c3f-0095ad294086">Captain Thomas Morris</archref>, </unittitle>
+						<unitdate>1800 November 12</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.18</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/73e81acc-2cd1-4c20-bd3d-d5d6cdba7458">Callender Irvin</archref>, </unittitle>
+						<unitdate>1803 May 18</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.19</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/5bafc133-e3ad-41e4-bb3d-60cf6d741f16">John H. Frisbee</archref>, </unittitle>
+						<unitdate>1805 December 7</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.20</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/6589fab3-9d03-44ae-964d-5f2ce7da52e1">Jacob M. Hallett</archref>, </unittitle>
+						<unitdate>1805 December 29</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.21</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/474cde83-ec6f-418f-93f2-1bbef52dc27a">Elbert Willett</archref>, </unittitle>
+						<unitdate>1806 February 27</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.22</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/3dace723-c505-41ed-a5f9-d6d9f68adcc1">Frederic Dilano</archref>, </unittitle>
+						<unitdate>1806 March 23</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.23</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a34143d9-0f5d-4bcd-a3b8-367eec9d965c">General Edward Paine</archref>, </unittitle>
+						<unitdate>1806 March 30</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.24</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/16d98594-569f-4d24-a271-5e6729fa1095">Nicholas Silverheels</archref>, </unittitle>
+						<unitdate>1806 April 1</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.25</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/04b22ae9-0978-4705-9aa2-5ed03ed2ceae">Henry Dearborn</archref>, </unittitle>
+						<unitdate>1806 August 11</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.26</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/ea27b198-d122-4c89-b43e-2f542cf0ff0e">Henry Dearborn</archref>, </unittitle>
+						<unitdate>1808 January 6</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.27</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/3307825a-e9d8-45d9-a461-c9ccc81be503">Captain Thomas Morris</archref>, </unittitle>
+						<unitdate>1809 June 7</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.28</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/32459de6-e1a9-4286-a36a-322bd8757faf">William Spring</archref>, </unittitle>
+						<unitdate>1809 August 24</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.29</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/ca1055d1-d975-467f-bbd0-616debf3b40d">Henry Dearborn</archref>, </unittitle>
+						<unitdate>1809 October 14</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.30</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/427aabb4-4225-4125-a7ca-554dc2c991b8">Erastus Granger</archref>, </unittitle>
+						<unitdate>1812 October 24</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.31</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/73f3f1e4-809f-492f-b5e5-01351dd32598">Morgan Lewis</archref>, </unittitle>
+						<unitdate>1813 April 27</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.32</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a84cfbe6-305c-40d4-9703-8f48b31a0a89">Fielder Ridgeway</archref>, </unittitle>
+						<unitdate>1813 October 3</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.33</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/cd7d04dd-8653-45fb-90a8-2333766c4f0b">Samuel W. Phelps</archref>, </unittitle>
+						<unitdate>1814 February 22</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.34</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/34b89c28-170b-4d9d-bb65-4b0a7819bf8c">Peter B. Porter</archref>, </unittitle>
+						<unitdate>1814 June 12</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.35</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a827e869-977b-4b97-804c-57cf2d4067f1">Edward A. Trowbridge</archref>, </unittitle>
+						<unitdate>1814 June 15</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.36</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/853761b3-1c80-40f5-a5b3-9e963e9d4667">Peter B. Porter</archref>, </unittitle>
+						<unitdate>1814 July 31</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.37</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/ff7094d6-9d38-451f-a9a3-f66c2c28786b">J. A. Geddes</archref>, </unittitle>
+						<unitdate>1814 October 24</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.38</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a7a17267-40ff-4989-bc6d-c9bcdeee239b">Erastus Granger</archref>, </unittitle>
+						<unitdate>1815 July 20</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.39</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/62372c37-e61b-4a17-84b9-4b803ea418de">Erastus Granger</archref>, </unittitle>
+						<unitdate>1816 December 11</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.40</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/671e28d9-3d02-4809-b3a6-cd5aea1b17e5">George Graham</archref>, </unittitle>
+						<unitdate>1817 March 19</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.41</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/78d46ab2-a052-4da9-8892-7d657fbb0405">Hester Hill</archref>, </unittitle>
+						<unitdate>1817 June 7</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.42</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/d25ab163-ad8b-439e-a7c1-3b5f30e8f955">Moses Van Campen</archref>, </unittitle>
+						<unitdate>1817 August 12</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.43</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/c5b3ff0d-cd91-4dbf-8c6a-e970ba7b4f92">William J. Kerr</archref>, </unittitle>
+						<unitdate>1818 May 28</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.44</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a2db9316-dc94-493e-9356-8c47f3f6551a">John C. Calhoun</archref>, </unittitle>
+						<unitdate>1820 February 19</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.45</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/6419baf2-27a0-48a5-a13b-df1e60fe8f3a">James Young</archref>, </unittitle>
+						<unitdate>1821 October 11</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.46</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/1738db27-a889-4a61-8f59-8bb576ea1e90">John Savage</archref>, </unittitle>
+						<unitdate>1822 July 26</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.47</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/98b57376-935d-4d49-ae76-643064f48da3">[Joseph?] S. Elkinton</archref>, </unittitle>
+						<unitdate>1822 September 22</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.48</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/0ad55034-49a9-4502-8aba-f959203abe34">Rev. T. S. Harris</archref>, </unittitle>
+						<unitdate>1826 February 8</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.49</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/615d69c4-afd1-4ca7-8935-7da9f17f23db">Thomas L. McKenney</archref>, </unittitle>
+						<unitdate>1827 December 20</unitdate>
+						<physdesc> (2 leaves, includes copy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.50</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/51c7e2df-881e-4f0d-996f-e9f4ae50f4f3">Edward P. Parrish</archref>, </unittitle>
+						<unitdate>1828 January 25</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.51</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/432add0b-53dd-4557-ba92-0753f4f88795">Jabez King</archref>, </unittitle>
+						<unitdate>1828 September 11</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.52</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/b9750ec2-8f75-40bc-9eb1-d3fe8d373597">Livingstone</archref>, </unittitle>
+						<unitdate>1828 September 15</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.53</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/3460e0dd-4aa2-4aa0-8c98-481c8c442373">T. S. Harris</archref>, </unittitle>
+						<unitdate>1829 July 6</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.54</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/72c14e37-3081-48b0-8308-1bc86115542c">Erastus Granger</archref>, </unittitle>
+						<unitdate>1816 August 29</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Correspondence – Others to Others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.55</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/5c60c7b2-2885-406a-b966-798862c3aa1f">Byron – Daws</archref>, </unittitle>
+						<unitdate>1757 December 8</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.56</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/50c365c8-af0a-4dd9-99e0-3f9981ed6ac2">Colonel Timothy Pickering – The Six Nations</archref>, </unittitle>
+						<unitdate>1791 April 17</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.57</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/19cc6bd7-d389-4e8a-855c-7ecb6e9e3ebf">[Robert Pratt – To All Concerned] Letter granting Parrish permission to travel</archref>, </unittitle>
+						<unitdate>1793 August 5</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.58</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/6b0357fe-bc87-4888-ac07-41a170567869">Captain Israel Chapin – the head Chiefs,  Sachems, and Warriors at Buffaloe Creek</archref>, </unittitle>
+						<unitdate>circa 1796</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.17</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e37ebd10-48bd-44e7-8f21-8150579bdb4e">Captain Israel Chapin to the Seneca Chiefs at Buffalo Creek</archref>, </unittitle>
+						<unitdate>1802 July 30</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.59</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/67ac34ac-5c56-49fa-8a44-9ce7533d6dc5">Henry Dearborn – Erastus Granger</archref>, </unittitle>
+						<unitdate>1804 March 11</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.60</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/26415549-6cd9-49eb-b4be-05f91f80d5f3">Henry Dearborn – Erastus Granger</archref>, </unittitle>
+						<unitdate>1812 September 29</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.61</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/f4a98ee7-8520-4f34-a2b6-d81efd5f347d">Herman J. Redfield – Red Jacket [and others]</archref>, </unittitle>
+						<unitdate>1822 June 6</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.62</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/ecc150d4-b3dc-49b6-85a9-718727f31f22">[Nathaniel Prime – H. Gibson] Letter of introduction for J. Parrish</archref>, </unittitle>
+						<unitdate>1826 June 28</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.63</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/1413c08a-1e10-41e4-998b-ce694baed020">Nancy Dickinson – Mrs. Jasper Parrish</archref>, </unittitle>
+						<unitdate>1834 December 28</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.64</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/c998103d-477d-4188-bda7-43e896239bc3">Hancock, Winfield Scott – Maj. Gen. Alfred Pleasanton</archref>, </unittitle>
+						<unitdate>1864 September [10?]</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.65</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/81213a77-56e5-4f13-8ab3-ac0dbdf027c3">Alfred Pleasanton – Caroline P. Townsend</archref>, </unittitle>
+						<unitdate>1864 September 30</unitdate>
+						<physdesc> (3 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.66</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/d66dddcf-7e4c-49be-80d6-0d3c266a1cef">[John Brooks - Peter Townsend]</archref>, </unittitle>
+						<unitdate>1869 December 28</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Letter Fragments and Autographs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/007d56cb-e6da-4f06-a0ba-b96517fa0c07">Dewitt Clinton</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/9fbb6b93-6f80-4e03-9c5b-2effdd6dbd44">Ephraim Webster</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/cb18bd3a-871d-49db-bf84-e237290620e7">Jefferson Davis</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/47b34d0d-f11f-4bc8-a044-10e1884a844c">Frederic Delano</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/377ed039-c17f-45e0-a480-8a9dc39ca8da">Peter Gansevoort, Jr.</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/51d3a096-c9be-4a6c-b252-5c51241c7504">Oliver [?]</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/14980549-3b2c-42b8-ba89-37fb3f37c05f">Egbert Benson, Jr.</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/b0ed3490-3132-41ac-8a5f-b410076f7908">Israel Chapin</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/199a11c3-0ced-494f-8614-a084a1c2b1d6">[Dudley Saltonstall]</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/8c2bf18c-ba97-4445-8647-386c1b4aea89">Isaac Denniston</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/b5eb7047-27ba-4756-8b8c-f406bb5de1c0">Joseph Fellows</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/907cce7d-f7db-413d-90ec-8f785d44ff68">[Mrs. Grump or Grimp?]</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/9e6e6fd9-85b3-4425-af3d-6f08ee8e6acf">Eleazer Williams</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/9ea6531e-9173-4f75-b521-133fead2117b">Erastus Granger</archref>, </unittitle>
+						<unitdate>1806 April 14</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.67</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/7ba93984-c6ef-43e2-9097-2326bdadaaa7">August [Pistor or Piston?]</archref>, </unittitle>
+						<unitdate>1818 December [10?]</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Addresses and Messages</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.68</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e8c5f25d-c430-48ef-a058-903c36eaa6c4">Address by Thomas Jefferson to Chiefs of the Seneca, Oneida, and Onondagua Nations</archref>, </unittitle>
+						<unitdate>1803 February 14</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.68</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a8df1ef9-a328-4dea-bfbf-1e91873cd0fc">[Brief description of the Jefferson address]</archref>, </unittitle>
+						<unitdate></unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.69</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/2ec9aa70-5640-49d1-bce0-101640b47198">Testimony of James B. Mower, Ontario County Clerk [fragment]</archref>, </unittitle>
+						<unitdate>1808 October 15</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.70</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/0e644b13-6a3f-4f10-a91e-3f62e0f0228b">Message from the Six Nations to the Secretary of War</archref>, </unittitle>
+						<unitdate>1815 February 20</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.71</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/2c72fa25-f5be-414f-b8ad-2f74730c93f8">Copy of petition to President Monroe by Six Nation Chiefs [fragment]</archref>, </unittitle>
+						<unitdate>1818 January 1</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.72</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e40f93b4-24df-4ba6-91d9-ad3f2c5f8ab4">Speech by John C. Calhoun to Red Jacket [and others]</archref>, </unittitle>
+						<unitdate>1823 March 14</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.73</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/f45b9c11-700d-47e0-95fd-28ed86f40a4c">Report from the Tuscarora Indians</archref>, </unittitle>
+						<unitdate>1823 December 9</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.74</container>
+						<unittitle>Copy of Calhoun speech to Seneca Chiefs, </unittitle>
+						<unitdate>1823</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.74</container>
+						<unittitle>[Brief description of the Calhoun speech to Seneca Chiefs], </unittitle>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. Legal Documents</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>1.75</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/cf0e3b5a-4b59-4163-87ac-aa0fef9f56db">Copy of deed of cession by the Seneca Nation to Mary and Chloe Allen</archref>, </unittitle>
+						<unitdate>1791 July 15</unitdate>
+						<physdesc> (4 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.82</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/993b5996-77a5-44c0-96df-f6f4857c69b2">General Schuyler’s statement of intent to investigate land claimed by Cayugas</archref>, </unittitle>
+						<unitdate>[1795 July]</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.76</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/8eac5a5a-7442-48a8-b7f6-a0becef77817
+							">Document re: land dispute between Jasper Parrish and John Richardson</archref>, </unittitle>
+						<unitdate>1795 December 5</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.77</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/45ec9cb1-f7e5-4da6-9fd2-0f6291684587
+							">Original deed of conveyance of property of Mary Jimoson [Jemison]</archref>, </unittitle>
+						<unitdate>1797</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.78</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/5f4370b8-57b4-46ed-b849-0b3ba6fd596d
+							">Deed of conveyance of property of Mary Jimeson [Jemison] [copy]</archref>, </unittitle>
+						<unitdate>1797</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.79</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e0d877c0-2648-4143-a8ef-20677cc75083
+							">Discontinuance of a suit against Israel Chapin by the Seneca Nation</archref>, </unittitle>
+						<unitdate>approximately 1802</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.80</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/9fe3cc93-df1c-4ba9-b74b-1b3ba0e67812
+							">Certification of damage to Parrish property by U.S. Troops</archref>, </unittitle>
+						<unitdate>1819 May 18</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.81</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/c102e2c4-e133-4ef7-a88f-f465892ee497
+							">Appointment of Parrish by Indian chiefs as attorney for Rev. War claims</archref>, </unittitle>
+						<unitdate>1824</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.83</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e01623d8-2425-499d-816b-f7e9251ef076">Agreement between Phelps and Barlow, witnessed by Jasper Parrish</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>1.84</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/141010cb-5165-49f1-ba89-71762b1ffb89">Articles of association: W. H. &amp; Peter Townsend</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Series VII. Financial Documents</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>2.85</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/0b546ee9-9a2a-4cd9-9634-bfd0f39648b8">Expense account – Jasper Parrish</archref>, </unittitle>
+						<unitdate>1793 May 14 – July 27</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.86</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/7ceaf984-310a-4ff9-9e62-21c7353e6dec">Pledge of annuity to Little Billy from Timothy Pickering</archref>, </unittitle>
+						<unitdate>1794 November 15</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.87</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/27d9d75c-0eb5-4e74-bc80-7b8cdee27fcf">Pledge of annuity to Little Beard for Oliver Phelps</archref>, </unittitle>
+						<unitdate>1802 September 27</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.88</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/b4ccb2a0-47b6-41aa-9732-6afb522c2cc8">Expense account – Jasper Parrish</archref>, </unittitle>
+						<unitdate>1803 March 15 – April 10</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.89</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/dc34bbad-f0e4-4c76-a5be-5f0f14bb4c90">Indian annuity invoices</archref>, </unittitle>
+						<unitdate>1805</unitdate>
+						<physdesc> (4 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.90</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/3b944a2b-6fbf-4d28-a218-4784c51d4b42">Expense account</archref>, </unittitle>
+						<unitdate>1812 July 13 – December 2</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.91</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/f23a9bb0-6757-482c-a9d5-7af3a413c23f">Receipts – Jasper Parrish</archref>, </unittitle>
+						<unitdate>1813 – 1815</unitdate>
+						<physdesc> (10 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.92</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/85eed627-f1ba-4773-8c74-f39961ce7cd4">Annuity award to Richard Warrington</archref>, </unittitle>
+						<unitdate>1820 September 21</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.93</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/32562e5a-d625-40e6-813b-f7b63d43931a">Receipt of payment to Seneca warriors for war of 1812 service</archref>, </unittitle>
+						<unitdate>1821 May 28</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.94</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/28690a83-e80e-4f83-99fc-0c067696d1ce">Indian annuity receipts</archref>, </unittitle>
+						<unitdate>1821 May 28</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.95</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e96b5661-37ba-4b14-bc82-6c0ebf933915">Indian annuity invoice</archref>, </unittitle>
+						<unitdate>1826 July 7</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.96</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/242a91be-0a41-48eb-9333-a370e7fcbfec">Miscellaneous financial notes</archref>, </unittitle>
+						<unitdate>1826, undated</unitdate>
+						<physdesc> (3 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.97</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/9070d067-c8e3-447d-a00e-93347f9f03c2">Indian annuity receipt</archref>, </unittitle>
+						<unitdate>1831 January 29</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.98</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/2f4b9872-98b2-4196-b5ce-243c22e3aa1f">Bill for medical care of Mrs. Jasper Parrish</archref>, </unittitle>
+						<unitdate>1837</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>Series VIII. Censuses of the Six Nations</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>2.99</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/83df2575-235e-49d0-97b0-9655172386bb">Numbers of the Six Nations</archref>, </unittitle>
+						<unitdate>1792 November</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.100</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a01a462b-35d9-4248-ba12-36bb52dde6f5">List of signatures of Americans signed at Canandaigua [fragment]</archref>, </unittitle>
+						<unitdate>1799 April 8</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.101</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/c1e521cc-a613-4ce3-9139-232af5bf2388">Number of Onondagas at Onondaga</archref>, </unittitle>
+						<unitdate>1808 September 5</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.102</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/ce906188-5f72-485a-b209-b1a19a5b1920">Muster roll of Six Nations in War of 1812</archref>, </unittitle>
+						<unitdate>1814 February 14</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.103</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/361fb993-1705-4d4f-90d5-ec9b3b550f35">Number of the St. Regis Indians</archref>, </unittitle>
+						<unitdate>1828 January</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.104</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/2e1ae20d-6a39-4348-9297-0451b27e7ac1">Ontario Troop roll</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>Series IX. Parrish Promotion and Commission Documents</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>2.105</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/35003940-e689-47f2-9f63-9029e0b0e4b6">Parrish promotion to Cornet</archref>, </unittitle>
+						<unitdate>1796 April 2</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.106</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/71678fb8-5d21-4865-aab7-c28d21e26c18">Parrish promotion to Second Lieutenant</archref>, </unittitle>
+						<unitdate>1797 March 28</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.107</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/f1389ce9-435f-46eb-993f-2a82a07d69ff">Parrish promotion to Captain</archref>, </unittitle>
+						<unitdate>1800 November 27</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.108</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/60e78175-b268-4acb-8f58-b0480ef91f27">Commission letter of Jasper Parrish as U.S. Sub-agent to the Six Nations</archref>, </unittitle>
+						<unitdate>1803 February 15</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>Series X. Miscellaneous Documents</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>2.109</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections?search_api_fulltext=jasper%20parrish%20photograph">Photograph of a portrait of Jasper Parrish</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (3 photographs)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.110</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/0eebde93-f51b-4e41-b3b1-4b2682a17c1b">Plan of Parrish House</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.111</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/6856e599-9c25-4fbe-9537-b8176fffc10c">Apprenticeship of Halana Morgan to Jasper Parrish</archref>, </unittitle>
+						<unitdate>1807 August 3</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.112</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e56c7a8a-ba16-44bd-8f42-da39d62a2d28">Description of a highway in Canandaigua [fragment]</archref>, </unittitle>
+						<unitdate>1799 June 1</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.113</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/d96f85fd-ed66-4341-b536-5c731e51280f">Clippings</archref>, </unittitle>
+						<unitdate>1803, undated</unitdate>
+						<physdesc> (5 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.114</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/f8737432-836e-44b8-8364-18201e2a762c">Autographs (2) written for Caroline Townsend</archref>, </unittitle>
+						<unitdate>1859 – 1860</unitdate>
+						<physdesc> (2 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.115</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/9a9996ff-711b-489c-aeea-1eb1b29f29d9">Samples of paper money</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (9 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.116</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/b06871f3-7e23-42cd-9689-dd7cf958bbf7">Miscellaneous</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (3 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.117</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/b58db4d9-b969-4e84-8ed0-87fbcabef793">Drawing and parts description of Sterling Furnace</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (1 leaf)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle>Series XI. Biographical Narratives, Transcripts and Inventories</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>2.118</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/4c753f4f-c507-47c6-8d99-8e86b0ab2877">Biographical narratives of Jasper Parrish</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc> (18 leaves)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.119-2.121</container>
+						<unittitle>"Letters and Documents Relating to the Government Service of Jasper Parrish among the Indians of New York State, 1790 – 1831," edited by Dorothy May Fairbanks, </unittitle>
+						<unitdate>1940</unitdate>
+						<physdesc> (typescript - 247 leaves)</physdesc>
+					</did>
+					<scopecontent><p><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a22c1a0b-2c86-409e-bd77-b8f22a76b808">p. 1-60</archref> - <archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/2be704db-f0c3-43f7-bd18-30781977b5ab">p. 61-120</archref> - <archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/5ce89c15-6dc8-4a78-8991-59edb05ddf0b">p. 121-180</archref> - <archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/8221b957-dd04-4a6d-bd27-f1a6b5f78b8a">p. 181-241</archref></p></scopecontent>
+					
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>2.122-2.123</container>
+						<unittitle>"Jasper Parrish Papers in Vassar College Library," </unittitle>
+						<unitdate>1954</unitdate>
+						<physdesc> (typed transcripts - 141 leaves)</physdesc>
+					</did>
+					<scopecontent><p><archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/a168cb56-5374-431d-9c5d-26ec39da38f4">no. 1-42</archref> - <archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/75199548-71a4-4a7d-a218-47851fd9fb7d">no. 43-84</archref> - <archref href="https://digitallibrary.vassar.edu/collections/other-collections/jaspar-parrish-papers/e780a737-834c-4bec-a47d-c438c3dd2877">no. 85-119</archref></p></scopecontent>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

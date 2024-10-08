@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_osgood_judith</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Judith Osgood Papers, 1950-1988</titleproper>
+				<author>Inventory prepared by Janine St. Germain.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>May 2020</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Janine St. Germain <date>August-September 2020</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Osgood, Judith</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Judith Osgood Papers,</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1950-1988</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">2 boxes</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, diaries, photographs, manuscript writings, and ephemera documenting the life and career of Judith Osgood.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Judith Osgood graduated from Vassar College in 1955 and went on to a successful career in journalism. One of a number of pioneering women journalists during the 1960s, in 1966, while working for CBS News, she persuaded her superiors to send her to Vietnam, where she covered the war for CBS News radio until August 1967. While a reporter for CBS, Osgood became close to such notable figures as CBS executive Richard Salant and journalist Morley Safer.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection consists of correspondence, diaries, photographs, manuscript writings, and ephemera documenting the life and career of Judith Osgood. The bulk of the collection consists of correspondence between Osgood and CBS News colleagues, regarding news coverage of the Vietnam War. Correspondence reveals the logistical challenges of war reporting during the 1960s and the camaraderie of key CBS news bureau stakeholders covering the Vietnam War.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Herford, Peter</persname>
+				<persname source="lcnaf" encodinganalog="600">Reasoner, Harry, 1923-1991</persname>
+				<persname source="lcnaf" encodinganalog="600">Safer, Morley</persname>
+				<persname source="lcnaf" encodinganalog="600">Salant, Richard S., 1914-1993</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">CBS News</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975--Journalists</subject>
+				<subject source="lcsh" encodinganalog="650">Women journalists--United States--20th century</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Janine St. Germain, August-September 2020</p>
+		</odd>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Purchased from Johnson Rare Books and Archives (M2020-001).</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Judith Osgood Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Correspondence</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II. </ref>Journals</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III. </ref>Biographical Materials</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4"> Series IV. </ref>Writings</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5"> Series V. </ref>Photographic Prints</unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> SERIES I. CORRESPONDENCE</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Correspondence from Judith Osgood </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.1 </container>
+							<unittitle> Osgood, Mrs. Cornelius (mother), </unittitle>
+							<unitdate type="inclusive"> 1952 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.2-1.4 </container>
+							<unittitle> Salant, Richard, </unittitle>
+							<unitdate type="inclusive"> 1966-1967 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Correspondence to Judith Osgood </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.5 </container>
+							<unittitle> General, </unittitle>
+							<unitdate type="inclusive"> 1962 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.6 </container>
+							<unittitle> General, postcards,</unittitle>
+							<unitdate type="inclusive"> 1952-1978 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.7 </container>
+							<unittitle> Holiday cards, Japan Quarterly, NHK,</unittitle>
+							<unitdate type="inclusive"> 1960-1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.8-1.9 </container>
+							<unittitle> Salant Richard,</unittitle>
+							<unitdate type="inclusive"> 1966-1967 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.10 </container>
+							<unittitle> Herford, Peter,</unittitle>
+							<unitdate type="inclusive"> 1966 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.11 </container>
+							<unittitle> McWhirter, William,</unittitle>
+							<unitdate type="inclusive"> 1967 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.12 </container>
+							<unittitle> Osgood, Corneilius (father),</unittitle>
+							<unitdate type="inclusive"> 1973-1977 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.13 </container>
+							<unittitle> Pearce, John Ed,</unittitle>
+							<unitdate type="inclusive"> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.14 </container>
+							<unittitle> Reasoner, Harry,</unittitle>
+							<unitdate type="inclusive"> 1967 </unitdate>
+							<physdesc>(includes carbon copy of Osgood letter)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.15 </container>
+							<unittitle> Safer, Morley,</unittitle>
+							<unitdate type="inclusive"> 1967 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.16 </container>
+							<unittitle> Sakamoto, Hiroshi, NHK,</unittitle>
+							<unitdate type="inclusive"> 1966 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 1.17</container>
+							<unittitle> Salant, Richard to Manning, Paskman,</unittitle>
+							<unitdate type="inclusive"> 1966-1967 </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> SERIES II. JOURNALS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unittitle>Weekly Reminder,</unittitle>
+						<unitdate>1950</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unittitle>Japan, summer trip,</unittitle>
+						<unitdate>1961</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unittitle>My Trip Abroad,</unittitle>
+						<unitdate>1952</unitdate>
+						<physdesc>(includes correspondence)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21</container>
+						<unittitle>Summer,</unittitle>
+						<unitdate>1954</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.22-1.23</container>
+						<unittitle>Datebooks,</unittitle>
+						<unitdate>1962-1964</unitdate>
+						<physdesc>(includes correspondence)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> SERIES III. BIOGRAPHICAL MATERIALS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.24</container>
+						<unittitle>IDs, press cards, ration card,</unittitle>
+						<unitdate>1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unittitle>Osgood Estate, property, Keenville, IL,</unittitle>
+						<unitdate>1977-1988</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> SERIES IV. WRITINGS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.1</container>
+						<unittitle>Essaays, notes, </unittitle>
+						<unitdate>1952-1953</unitdate>
+						<physdesc>(typescripts, manuscripts)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.2</container>
+						<unittitle>"My Values are Abstract and Idealistic...," </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(typescript)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.3</container>
+						<unittitle>Scientific Attitude, Jack Street, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(typescript)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle> SERIES V. PHOTOGRAPHIC PRINTS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.4-2.5</container>
+						<unittitle>Osgood, Judith, portraits, snapshots, </unittitle>
+						<unitdate>approximately 1950-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.6</container>
+						<unittitle>Osgood, Judith, with family, friends, colleagues, </unittitle>
+						<unitdate>1950-1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.7</container>
+						<unittitle>Osgood, Judith, professional, </unittitle>
+						<unitdate>1960-1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.8</container>
+						<unittitle>Friends, family, colleagues</unittitle>
+						<unitdate>1960-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9</container>
+						<unittitle>Locations,</unittitle>
+						<unitdate>1960-1970</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

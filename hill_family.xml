@@ -1,0 +1,5756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_hill_family</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Hill Family Papers, 1662-1994 (bulk 1835-1970)</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>February 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Hill Family</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Hill Family Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1662-1994</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1835-1970</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">43.8 cubic feet (220 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials relating to the family's personal, professional, and political activities. The bulk of the collection relates most directly to Elsie M. Hill.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Elsie Hill was a feminist, activist and leader in the suffrage movement. Born in Norwalk, Connecticut, in 1883, Hill was the daughter of Mary Eileen Mossman and Ebenezer J. Hill, a Republican Congressman. In 1906 she graduated from Vassar College. She then took a teaching position at a Washington DC high school. It was in Washington that she became active in the suffrage movement and began her life-long friendship with Alice Paul. Hill held leading positions in many organizations but is most well known for her work with the National Woman's Party. Hill's passion for the cause led her to jail (along with her sisters, Clara and Helena) on more than one occasion. After the passage of the 19th amendment, she remained active in the struggle for women's rights, running for public office and working through a variety of organizations to further the cause. From 1921 to 1956 she was married to Albert Lévitt (1887-1968), a lawyer and politician who served as Judge of the U.S. District
+				Court of the Virgin Islands from 1935 to 1937. The marriage made national news because she kept her maiden name à la Lucy Stone, quite shocking for the era. They had one child, Leslie Hill-Lévitt Latham (VC 1945-4). In 1968, at the age of 84, she made headlines again when she boarded Pan American Airlines first flight from New York to Moscow. Hill died in Norwalk, Connecticut, August 6, 1970.</p>
+			<p>For more biographical details, see Hill's profile on the American Memory site at the <extref href="http://memory.loc.gov/ammem/collections/suffrage/nwp/ profiles7.html">Library of Congress</extref> as well as the clippings in box 86 of Vassar's Elsie Hill collection.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, minutes, reports, press releases, financial and legal papers, clippings, speeches, government documents, articles, and diaries relating to her personal and political activities. Subjects include the National Woman's Party, suffrage, women's rights, Equal Rights Amendment, civil rights, Connecticut politics, civic affairs, her teaching career, history of Joel Barlow, her hobby of breeding Swiss Toggenberg milk goats, and family and personal affairs. Correspondents include Alice Paul, 1915-1970, Anita Pollitzer, 1921-1969, Albert Lévitt, 1921-1968, her sister Clara M. Hill, 1898-1939, and Cary Fink Baynes, 1903-1939. Collection also includes correspondence of Albert Lévitt, 1921-1965, with Robert W. Clairborne, Alice Paul, Roscoe Pound, Elsie Hill, Clara M. Hill, his daughter Elsie Hill-Lévitt, and others. The collection also includes the papers of Clara M. Hill, Ebenezer J. Hill, Mary Mossman, Albert Lévitt, and other family members.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p>
+				<archref href="https://archives.library.wcsu.edu/omeka/items/show/1553">"Elsie Hill Interview, 1963." Herb Janick Papers, MS012. Western Connecticut State University Archives</archref>
+			</p>
+			<p>
+				<archref href="https://archivessearch.lib.uconn.edu/repositories/2/archival_objects/146144">Interview with Elsie Hill, Center for Oral History, University of Connecticut</archref>
+			</p>
+			<p>
+				<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-national-womans-party-pamphlet-collection-approximately-1923-1946">National Woman's Party Pamphlet Collection, Vassar College Archives and Special Collections</archref></p>
+			<p>
+				<archref href="http://lcweb2.loc.gov/service/mss/eadxmlmss/eadpdfmss/2003/ms003077.pdf">Records of the National Woman's Party, Manuscript Division, Library of Congress</archref>
+			</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Barlow, Joel, 1754-1812</persname>
+				<persname source="lcnaf" encodinganalog="600">Paul, Alice, 1885-1977</persname>
+				<persname source="lcnaf" encodinganalog="600">Pollitzer, Anita, 1894-1975</persname>
+				<persname source="lcnaf" encodinganalog="600">Lévitt, Albert, b. 1887</persname>
+				<persname source="lcnaf" encodinganalog="600">Hill, Clara M.</persname>
+				<persname source="lcnaf" encodinganalog="600">Baynes, Cary F.</persname>
+				<persname source="lcnaf" encodinganalog="600">Clairborne, Robert W.</persname>
+				<persname source="lcnaf" encodinganalog="600">Pound, Roscoe, 1870-1964</persname>
+				<persname source="lcnaf" encodinganalog="600">Hill-Lévitt, Elsie</persname>
+				<persname source="lcnaf" encodinganalog="600">Hill, Ebenezer J., 1845-1917</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">United States. Congress. House</corpname>
+				<corpname source="lcnaf" encodinganalog="610">National Woman's Party</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Community</subject>
+				<subject source="lcsh" encodinganalog="650">Equal rights amendments</subject>
+				<subject source="lcsh" encodinganalog="650">Women in politics</subject>
+				<subject source="lcsh" encodinganalog="650">Women's rights</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Diaries</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Suffrage</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Social conditions</subject>
+				<subject source="lcsh" encodinganalog="650">Feminism</subject>
+				<subject source="lcsh" encodinganalog="650">Goat breeding</subject>
+				<subject source="lcsh" encodinganalog="650">Civil rights</subject>
+				<subject source="lcsh" encodinganalog="650">Feminists</subject>
+				<subject source="lcsh" encodinganalog="650">Women teachers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Connecticut--Politics and government</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Politics and government--20th century</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Social life and customs</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Politics</subject>
+				<subject source="local" encodinganalog="690">Women's History</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, February 2007.</p>
+			<p>Additional encoding by Laura Streett, August 2014.</p>
+			<p>Updated by Emma Gronbeck, January 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date for the Elsie Hill papers unknown. The rest of the collection was processed by Janine St. Germain in 2014.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Leslie Hill-Levitt Latham in several accessions.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Hill Family Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Elsie M. Hill, </unittitle>
+					<unitdate>1875-1994</unitdate>
+					<physdesc>(Boxes 1-113)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Correspondence</p>
+					<p>Subject Files</p>
+					<p>Clippings</p>
+					<p>Manuscripts And Notes</p>
+					<p>Diaries, Calendars, Address Books and Telephone Lists</p>
+					<p>Financial And Legal</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Albert Lévitt, </unittitle>
+					<unitdate>1906-1968</unitdate>
+					<physdesc>(Boxes 120-161)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Correspondence</p>
+					<p>Biographical</p>
+					<p>Financial And Legal</p>
+					<p>Clippings</p>
+					<p>Printed Material</p>
+					<p>Subject Files</p>
+					<p>Writings</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Clara Hill, </unittitle>
+					<unitdate>1862-1959</unitdate>
+					<physdesc>(Boxes 162-182)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Biographical</p>
+					<p>Correspondence</p>
+					<p>Ephemera</p>
+					<p>Financial And Legal</p>
+					<p>Manuscripts</p>
+					<p>Clippings</p>
+					<p>Printed Material</p>
+					<p>Subject Files</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Ebenezer Hill, </unittitle>
+					<unitdate>1800-1919</unitdate>
+					<physdesc>(Boxes 183-201)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Correspondence</p>
+					<p>Biographical and Travel</p>
+					<p>Printed Material</p>
+					<p>Writings</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Mary Mosman Hill, </unittitle>
+					<unitdate>1835-1952</unitdate>
+					<physdesc>(Boxes 202-207)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Correspondence</p>
+					<p>Biographical</p>
+					<p>Subject Files</p>
+					<p>Writings</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Leslie Hill-Lévitt Latham, </unittitle>
+					<unitdate>1927-1971</unitdate>
+					<physdesc>(Box 208)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Biographical</p>
+					<p>Correspondence</p>
+					<p>Subject Files</p>
+					<p>Printed Material</p>
+					<p>Writings</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Mixed Family Materials, </unittitle>
+					<unitdate>1711-1970</unitdate>
+					<physdesc>(Boxes 114, 209, 211-216)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Photographs</p>
+					<p>Miscellaneous letters, documents, recordings and ephemera</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Miscellaneous Materials, </unittitle>
+					<unitdate>1662-1923</unitdate>
+					<physdesc>(Boxes 115-119, 210, 214-215, 217)</physdesc>
+				</did>
+				<arrangement>
+					<head>Subseries</head>
+					<p>Postcards</p>
+					<p>Road maps</p>
+					<p>Deteriorated original materials</p>
+					<p>Various historical documents and heirlooms</p>
+				</arrangement>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. ELSIE M. HILL</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>CORRESPONDENCE</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Letters to Elsie Hill</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 1</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(136 letters in 13 folders)</physdesc>
+								<unitdate type="inclusive">1910-1921</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 2</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(153 letters in 10 folders)</physdesc>
+								<unitdate type="inclusive">1922-1928</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 3</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(143 letters in 12 folders)</physdesc>
+								<unitdate type="inclusive">1929-1930</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 4</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(153 letters in 14 folders)</physdesc>
+								<unitdate type="inclusive">1931-1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 5</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(177 letters in 14 folders)</physdesc>
+								<unitdate type="inclusive">1934-1938</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 6</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(97 letters in 10 folders)</physdesc>
+								<unitdate type="inclusive">1939-1946</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 7</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(134 letters in 12 folders)</physdesc>
+								<unitdate type="inclusive">1947-1953</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 8</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(126 letters in 12 folders)</physdesc>
+								<unitdate type="inclusive">1954-1963</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 9</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(117 letters in 9 folders)</physdesc>
+								<unitdate type="inclusive">1964-1965</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 10</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(87 letters in 9 folders)</physdesc>
+								<unitdate type="inclusive">1966-1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 11</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(64 letters in 4 folders)</physdesc>
+								<unitdate type="inclusive">1969-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 11.120</container>
+								<unittitle>General (chronological) correspondence, fragments, </unittitle>
+								<physdesc>(9 fragments)</physdesc>
+								<unitdate type="inclusive">1918-1949, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 12</container>
+								<unittitle>Letters from Alice Paul, </unittitle>
+								<physdesc>(83 letters in 11 folders)</physdesc>
+								<unitdate type="inclusive">1915-1925</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 13</container>
+								<unittitle>Letters from Alice Paul, </unittitle>
+								<physdesc>(99 letters in 15 folders)</physdesc>
+								<unitdate type="inclusive">1926-1951</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 14</container>
+								<unittitle>Letters from Alice Paul, </unittitle>
+								<physdesc>(83 letters in 7 folders)</physdesc>
+								<unitdate type="inclusive">1954-1970</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 14.154</container>
+								<unittitle>Cards from Alice Paul, </unittitle>
+								<physdesc>(4 cards)</physdesc>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 14.154A</container>
+								<unittitle>Alice Paul to Beatrice Rosenthal, </unittitle>
+								<physdesc>(1 letter)</physdesc>
+								<unitdate type="inclusive">[1962?]</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 15</container>
+								<unittitle>Letters from Anita Pollitzer, </unittitle>
+								<physdesc>(77 letters in 11 folders)</physdesc>
+								<unitdate type="inclusive">1921-1960</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 16</container>
+								<unittitle>Letters from Anita Pollitzer, </unittitle>
+								<physdesc>(53 letters in 5 folders)</physdesc>
+								<unitdate type="inclusive">1961-1969, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 16.171</container>
+								<unittitle>Letters from Elie Edson, </unittitle>
+								<physdesc>(6 letters)</physdesc>
+								<unitdate type="inclusive">1946-1960, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 17</container>
+								<unittitle>Civic Affairs Correspondence, </unittitle>
+								<physdesc>(53 letters in 11 folders)</physdesc>
+								<unitdate type="inclusive">1909-1962</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 18</container>
+								<unittitle>Civic Affairs Correspondence, </unittitle>
+								<physdesc>(102 letters in 10 folders)</physdesc>
+								<unitdate type="inclusive">1963-1970</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Family Correspondence to Elsie Hill</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 19</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(123 letters in 11 folders)</physdesc>
+								<unitdate type="inclusive">1921-1926</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 20</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(55 letters in 7 folders)</physdesc>
+								<unitdate type="inclusive">1927</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 21</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(83 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">1928-1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 22</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(74 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">1934-June 1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 23</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(82 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">July 1935-June 1936</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 24</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(59 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">July 1936-1938</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 25</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(72 letters in 9 folders)</physdesc>
+								<unitdate type="inclusive">1939-March 1940</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 26</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(79 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">April 1940-June 1941</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 27</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(79 letters in 10 folders)</physdesc>
+								<unitdate type="inclusive">Aug 1941-May 1942</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 28</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(80 letters in 9 folders)</physdesc>
+								<unitdate type="inclusive">June 1942-1943</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 29</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(97 letters in 11 folders)</physdesc>
+								<unitdate type="inclusive">1944-Oct 1946</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 30</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(87 letters in 10 folders)</physdesc>
+								<unitdate type="inclusive">Nov 1946-June 1955</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 31</container>
+								<unittitle>Letters from Albert Levitt, </unittitle>
+								<physdesc>(76 letters in 9 folders)</physdesc>
+								<unitdate type="inclusive">July 1955-1968, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 32</container>
+								<unittitle>Letters from Clara M. Hill, </unittitle>
+								<physdesc>(212 letters in 12 folders)</physdesc>
+								<unitdate type="inclusive">1898-1952</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 33</container>
+								<unittitle>Letters from family B-L, </unittitle>
+								<physdesc>(112 letters in 12 folders)</physdesc>
+								<unitdate type="inclusive">1906-1958, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 34</container>
+								<unittitle>Letters from family M-W, </unittitle>
+								<physdesc>(52 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">1905-1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 35</container>
+								<unittitle>Letters from family W-Y, </unittitle>
+								<physdesc>(85 letters in 6 folders)</physdesc>
+								<unitdate type="inclusive">1937-1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 35.347</container>
+								<unittitle>Miscellaneous family letters, </unittitle>
+								<physdesc>(12 letters)</physdesc>
+								<unitdate type="inclusive">1913-1966</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Personal Correspondence to Elsie Hill</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Boxes 36-39</container>
+								<unittitle>General, arranged chronologically, </unittitle>
+								<physdesc>(353 letters in 30 folders)</physdesc>
+								<unitdate type="inclusive">1901-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 40</container>
+								<unittitle>From Cary Fink (VC 1906), </unittitle>
+								<physdesc>(39 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">1903-1909</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 41</container>
+								<unittitle>From Cary Fink (VC 1906), </unittitle>
+								<physdesc>(42 letters in 7 folders)</physdesc>
+								<unitdate type="inclusive">1910-1939</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 41.393</container>
+								<unittitle>From Violet Pike Penty (VC 1907), </unittitle>
+								<physdesc>(8 letters)</physdesc>
+								<unitdate type="inclusive">1905-1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 42</container>
+								<unittitle>Re: goat breeding, </unittitle>
+								<physdesc>(96 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">1923-1936, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 43</container>
+								<unittitle>Re: Joel Barlow, </unittitle>
+								<physdesc>(79 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">1934-1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 43</container>
+								<unittitle>Re: Hill's teaching career, </unittitle>
+								<physdesc>(17 letters in 2 folders)</physdesc>
+								<unitdate type="inclusive">1911-1943</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 44</container>
+								<unittitle>Greeting Cards</unittitle>
+								<physdesc>(6 folders)</physdesc>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Correspondence from Elsie Hill to others</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 45.418</container>
+								<unittitle>Letters to Frederick A. Hill [brother], </unittitle>
+								<physdesc>(2 letters)</physdesc>
+								<unitdate type="inclusive">1901</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 45.419</container>
+								<unittitle>Letters to Helena Hill Weed [sister], </unittitle>
+								<physdesc>(3 letters)</physdesc>
+								<unitdate type="inclusive">1901</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 45</container>
+								<unittitle>Miscellaneous, </unittitle>
+								<physdesc>(117 letters in 12 folders)</physdesc>
+								<unitdate type="inclusive">1901- circa 1969, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>SUBJECT FILES - Social and Political Activism</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">National Woman's Party</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 46</container>
+								<unittitle>National Council Meeting Minutes, </unittitle>
+								<unitdate type="inclusive">1921-1946</unitdate>
+								<physdesc>(14 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 46.446</container>
+								<unittitle>National Council Meeting Agenda, </unittitle>
+								<unitdate type="inclusive">1962</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 46.447</container>
+								<unittitle>Membership Reports, </unittitle>
+								<unitdate type="inclusive">1921-1923</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 46.448</container>
+								<unittitle>Committee Reports</unittitle>
+								<unitdate type="inclusive">1924-1969</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Legal Materials</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.449</container>
+								<unittitle>Work done by Legal Research Dept., </unittitle>
+								<unitdate type="inclusive">1922</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.450</container>
+								<unittitle>Miscellaneous legal documents, </unittitle>
+								<unitdate type="inclusive">1951-1962</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.451</container>
+								<unittitle>Proposed by-laws, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.452</container>
+								<unittitle>By-laws, </unittitle>
+								<unitdate type="inclusive">1938-1949, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.453</container>
+								<unittitle>Inez Milholland Memorial Committee, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.454</container>
+								<unittitle>State and federal legislation, drafts, </unittitle>
+								<unitdate type="inclusive">[circa 1920-1929]</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.455</container>
+								<unittitle>Domicile laws, notes and reports, </unittitle>
+								<unitdate type="inclusive">[circa 1920-1929]</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.456</container>
+								<unittitle>ERA legislation, notes and drafts, </unittitle>
+								<unitdate type="inclusive">1920-1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.457</container>
+								<unittitle>ERA legislation, notes and drafts, </unittitle>
+								<unitdate type="inclusive">1936-1967, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.458</container>
+								<unittitle>Notes and reports on "protective" laws, </unittitle>
+								<unitdate type="inclusive">1913-1916, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 47.459</container>
+								<unittitle>Misc. legal reports and notes, </unittitle>
+								<unitdate type="inclusive">1911-1939, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Nationality of Women</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 48</container>
+								<unittitle>General, arranged chronologically, </unittitle>
+								<physdesc>(21 folders)</physdesc>
+								<unitdate type="inclusive">February 1930-1939, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Press Releases</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 49</container>
+								<unittitle>General, arranged chronologically, </unittitle>
+								<physdesc>(14 folders)</physdesc>
+								<unitdate type="inclusive">1917-1969, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Financial reports and statements</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.495</container>
+								<unittitle>Congressional Union for Woman Suffrage. Financial statements, </unittitle>
+								<unitdate type="inclusive">1914</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.496</container>
+								<unittitle>Congressional Union for Woman Suffrage. Financial statements, </unittitle>
+								<unitdate type="inclusive">1915</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.497</container>
+								<unittitle>Equal Rights, </unittitle>
+								<unitdate type="inclusive">1935-1937, n.d</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.498</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">1922-1923</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.499</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">1926 - April 1931</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.500</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">April - July 1932</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.501</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">Sept 1932 -July 1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.502</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">Nov 1931 - Sept 1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.503</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">Sept - Oct 1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 50.504</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">July - Nov 1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.505</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">April 1934</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.506</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">Aug 1934 - Dec 1934</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.507</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">1936</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.508</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">1937</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.509</container>
+								<unittitle>National Woman’s Party. Financial statements, </unittitle>
+								<unitdate type="inclusive">July 1951 - June 1953</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.510</container>
+								<unittitle>National Woman’s Party Belmont Memorial Fund. Report, </unittitle>
+								<unitdate type="inclusive">1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.511</container>
+								<unittitle>National Woman’s Party General Fund, </unittitle>
+								<unitdate type="inclusive">Nov 1936</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.512</container>
+								<unittitle>National Woman’s Party International Fund. Financial Reports, </unittitle>
+								<unitdate type="inclusive">1930-1933, 1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.513</container>
+								<unittitle>National Woman’s Party Investment and Endowment Fund Committee. Reports, </unittitle>
+								<unitdate type="inclusive">1933-1934</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.514</container>
+								<unittitle>National Woman’s Party Investment and Endowment Fund Committee. Reports, </unittitle>
+								<unitdate type="inclusive">1936, 1953, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.515</container>
+								<unittitle>National Woman’s Party tentative and proposed budgets, </unittitle>
+								<unitdate type="inclusive">1942, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.516</container>
+								<unittitle>Expenses of Elsie M. Hill, </unittitle>
+								<unitdate type="inclusive">1917-1933 undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 51.517</container>
+								<unittitle>Inter-American Commission of Women. Financial Statements, </unittitle>
+								<unitdate type="inclusive">1929-1938</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Pamphlets and Periodicals</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.518</container>
+								<unittitle>Pamphlets, </unittitle>
+								<unitdate type="inclusive">1922-1924</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.519</container>
+								<unittitle>Pamphlets, </unittitle>
+								<unitdate type="inclusive">1926-1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.520</container>
+								<unittitle>Pamphlets, </unittitle>
+								<unitdate type="inclusive">1934-1960</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.521</container>
+								<unittitle>The National Woman’s Party Bulletin, </unittitle>
+								<unitdate type="inclusive">1965-1966</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.522</container>
+								<unittitle>The National Woman’s Party Bulletin, </unittitle>
+								<unitdate type="inclusive">1967</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.523</container>
+								<unittitle>The National Woman’s Party Bulletin, </unittitle>
+								<unitdate type="inclusive">1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.524</container>
+								<unittitle>Equal Rights, </unittitle>
+								<unitdate type="inclusive">1932-1951</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.525</container>
+								<unittitle>Equal Rights, </unittitle>
+								<unitdate type="inclusive">1922</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.526-52.527</container>
+								<unittitle>National Woman’s Party, Pamphlets, </unittitle>
+								<unitdate type="inclusive">1961-1970</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 52.528</container>
+								<unittitle>National Woman’s Party, Letterhead, </unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Ephemera</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 53.526-53.544</container>
+								<unittitle>Miscellaneous, arranged chronologically, </unittitle>
+								<unitdate type="inclusive">1913-1949</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 54.545-54.558</container>
+								<unittitle>Miscellaneous, arranged chronologically, </unittitle>
+								<unitdate type="inclusive">1950-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 54.559</container>
+								<unittitle>Forms and stationery</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 54.560</container>
+								<unittitle>Miscellaneous lists, </unittitle>
+								<unitdate type="inclusive">1911-1926</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 54.561</container>
+								<unittitle>Miscellaneous lists, </unittitle>
+								<unitdate type="inclusive">1931-1965, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 54.562</container>
+								<unittitle>Miscellaneous notes and resolutions, </unittitle>
+								<unitdate type="inclusive">1914-1961, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 54.563</container>
+								<unittitle>World Woman's Party, </unittitle>
+								<unitdate type="inclusive">1926-1953, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">U.S. Government Documents</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 55.564</container>
+								<unittitle>Alva Belmont House and tax-exempt status of the National Woman’s Party, </unittitle>
+								<unitdate type="inclusive">1925-1960</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 55.565</container>
+								<unittitle>Civil Rights, </unittitle>
+								<unitdate type="inclusive">1957</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 55.566</container>
+								<unittitle>Civil Rights, </unittitle>
+								<unitdate type="inclusive">1963</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 55.567</container>
+								<unittitle>Civil Rights, </unittitle>
+								<unitdate type="inclusive">1964</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 55.568</container>
+								<unittitle>Civil Rights, </unittitle>
+								<unitdate type="inclusive">1965-1966</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 56.569</container>
+								<unittitle>Employment and wages of women, </unittitle>
+								<unitdate type="inclusive">1935-1937</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 56.570</container>
+								<unittitle>Equal Rights Amendment, </unittitle>
+								<unitdate type="inclusive">1929-1931</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 56.571</container>
+								<unittitle>Equal Rights Amendment, </unittitle>
+								<unitdate type="inclusive">1932-1938</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 56.572</container>
+								<unittitle>Equal Rights Amendment, </unittitle>
+								<unitdate type="inclusive">1943-1956</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 56.573</container>
+								<unittitle>Equal Rights Amendment, </unittitle>
+								<unitdate type="inclusive">1957-1961</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 56.574</container>
+								<unittitle>Equal Rights Amendment, </unittitle>
+								<unitdate type="inclusive">1962</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 56.575</container>
+								<unittitle>Equal Rights Amendment [contains 2 docs with AP’s annotations], </unittitle>
+								<unitdate type="inclusive">1963-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 57.576</container>
+								<unittitle>Nationality and immigration, </unittitle>
+								<unitdate type="inclusive">[192?]-1932</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 57.577</container>
+								<unittitle>Nationality and immigration, </unittitle>
+								<unitdate type="inclusive">1933-1940</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 57.578</container>
+								<unittitle>Prostitution, </unittitle>
+								<unitdate type="inclusive">1909-1910</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 57.579</container>
+								<unittitle>Prostitution, </unittitle>
+								<unitdate type="inclusive">1911</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 57.580</container>
+								<unittitle>Prostitution, </unittitle>
+								<unitdate type="inclusive">1912-1913</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 57.581</container>
+								<unittitle>Miscellaneous, </unittitle>
+								<unitdate type="inclusive">1924-1970</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 58.582</container>
+								<unittitle>Children’s Bureau, </unittitle>
+								<unitdate type="inclusive">1906-1928</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 58.583</container>
+								<unittitle>Children’s Bureau, </unittitle>
+								<unitdate type="inclusive">1929-1938</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 58.584</container>
+								<unittitle>Women’s Bureau, </unittitle>
+								<unitdate type="inclusive">1926-1928</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 58.585</container>
+								<unittitle>Women’s Bureau, </unittitle>
+								<unitdate type="inclusive">1931-1942, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 58.586</container>
+								<unittitle>Miscellaneous state documents, </unittitle>
+								<unitdate type="inclusive">1916-1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 58.587</container>
+								<unittitle>Miscellaneous state documents, </unittitle>
+								<unitdate type="inclusive">1933</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 58.588</container>
+								<unittitle>Miscellaneous state documents, </unittitle>
+								<unitdate type="inclusive">1959-1968</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Other U.S. Women's Associations</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 59.589</container>
+								<unittitle>Pamphlets, </unittitle>
+								<unitdate type="inclusive">1905-1918</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 59.590</container>
+								<unittitle>Pamphlets, </unittitle>
+								<unitdate type="inclusive">1921-1928</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 59.591</container>
+								<unittitle>Pamphlets, </unittitle>
+								<unitdate type="inclusive">1930-1950</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 59.592</container>
+								<unittitle>Pamphlets, </unittitle>
+								<unitdate type="inclusive">1965-1968</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Periodicals</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 59.593</container>
+								<unittitle>Connecticut League of Woman Voters. The Woman Voter’s Bulletin, </unittitle>
+								<unitdate type="inclusive">1929-1932</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 59.594</container>
+								<unittitle>Lucy Stone League Bulletin, </unittitle>
+								<unitdate type="inclusive">ca. 1920-1970</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 59.595</container>
+								<unittitle>Women’s Legislative Council of Washington. Legislative Counsellor</unittitle>
+								<unitdate type="inclusive">1919-1921</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 60.596-60.604</container>
+								<unittitle>Ephemera, </unittitle>
+								<unitdate type="inclusive">1910-1970, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">International Women's Associations</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 61.605</container>
+								<unittitle>Pamphlets and serial publications, </unittitle>
+								<unitdate type="inclusive">1919-1926</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 61.606</container>
+								<unittitle>Pamphlets and serial publications, </unittitle>
+								<unitdate type="inclusive">1929-1937</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 61.607</container>
+								<unittitle>Pamphlets and serial publications, </unittitle>
+								<unitdate type="inclusive">1938-1963</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 61.608</container>
+								<unittitle>Ephemera, </unittitle>
+								<unitdate type="inclusive">1909-1930</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 61.609</container>
+								<unittitle>Ephemera, </unittitle>
+								<unitdate type="inclusive">1931-1937</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 61.610</container>
+								<unittitle>Ephemera, </unittitle>
+								<unitdate type="inclusive">1938-1939</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 61.611</container>
+								<unittitle>Ephemera, </unittitle>
+								<unitdate type="inclusive">1941-1963, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">United Nations</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 62.612</container>
+								<unittitle>Notes of Elsie Hill, </unittitle>
+								<unitdate type="inclusive">1950, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 62.613</container>
+								<unittitle>Notes of Alice Paul re: Human Rights Covenant, </unittitle>
+								<unitdate type="inclusive">1950</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 62.614</container>
+								<unittitle>Human Rights publications, </unittitle>
+								<unitdate type="inclusive">1949-1950</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 62.615 - 62.617</container>
+								<unittitle>Human Rights publications, </unittitle>
+								<unitdate type="inclusive">1952-1961</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 62.618 - 62.623</container>
+								<unittitle>Status of women publications, </unittitle>
+								<unitdate type="inclusive">1951-1967</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 63.624 - 63.625</container>
+								<unittitle>Journal of the General Assembly, </unittitle>
+								<unitdate type="inclusive">1950-1961</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 63.626</container>
+								<unittitle>Miscellaneous publications, </unittitle>
+								<unitdate type="inclusive">1950-1960, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 63.627</container>
+								<unittitle>U.N. Charter (English, French, Spanish)</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 63.628</container>
+								<unittitle>Committee and organization membership lists, </unittitle>
+								<unitdate type="inclusive">1953-1961</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 64.629</container>
+								<unittitle>Delegations, </unittitle>
+								<unitdate type="inclusive">1950-1961</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 64.630</container>
+								<unittitle>Permanent missions and delegations, </unittitle>
+								<unitdate type="inclusive">1952-1959</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 64.631</container>
+								<unittitle>Elsie Hill’s press tickets and passes</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 64.632</container>
+								<unittitle>League of Nations miscellaneous publications, </unittitle>
+								<unitdate type="inclusive">1931-1935</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Miscellaneous social and political activism</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.633</container>
+								<unittitle>Anti-war ephemera, </unittitle>
+								<unitdate type="inclusive">1916-1919, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.634</container>
+								<unittitle>Anti-war ephemera, </unittitle>
+								<unitdate type="inclusive">1931-1937</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.635</container>
+								<unittitle>Anti-war ephemera, </unittitle>
+								<unitdate type="inclusive">1949-1968, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.636</container>
+								<unittitle>Anti-war ephemera, </unittitle>
+								<unitdate type="inclusive">1949-1968, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.637</container>
+								<unittitle>Civil liberties and human rights ephemera, </unittitle>
+								<unitdate type="inclusive">1950-1966, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.638</container>
+								<unittitle>Labor ephemera, </unittitle>
+								<unitdate type="inclusive">1919-1937</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 65.639 - 65.640</container>
+								<unittitle>Miscellaneous social activism ephemera, </unittitle>
+								<unitdate type="inclusive">1909-1967, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.641</container>
+								<unittitle>The Arbitrator, </unittitle>
+								<unitdate type="inclusive">1931-1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.642</container>
+								<unittitle>Political ephemera, </unittitle>
+								<unitdate type="inclusive">1909-1953</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 65.643</container>
+								<unittitle>Political ephemera, </unittitle>
+								<unitdate type="inclusive">1960-1967, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Social and political activism in Connecticut</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.644</container>
+								<unittitle>Hill political campaign material, </unittitle>
+								<unitdate type="inclusive">1932-1950, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.645</container>
+								<unittitle>Fairfield County (CT) Republican Women’s Association Annual Report, </unittitle>
+								<unitdate type="inclusive">1960-1963</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.646</container>
+								<unittitle>Disposal of Gilbert Farm, Redding</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.647</container>
+								<unittitle>Connecticut educational legislation, </unittitle>
+								<unitdate type="inclusive">1925-1961</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.648</container>
+								<unittitle>Miscellaneous Norwalk material</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.649</container>
+								<unittitle>Norwalk Common Council Meeting minutes, </unittitle>
+								<unitdate type="inclusive">1961-1966</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.650</container>
+								<unittitle>Norwalk N.A.A.C.P., </unittitle>
+								<unitdate type="inclusive">1964-1966</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 66.651</container>
+								<unittitle>Connecticut politics, </unittitle>
+								<unitdate type="inclusive">1932-1968, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 67.652</container>
+								<unittitle>Redding Bicentennial, </unittitle>
+								<unitdate type="inclusive">1967</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 67.653</container>
+								<unittitle>Connecticut state forests and parks, </unittitle>
+								<unitdate type="inclusive">1925-1965, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 67.654</container>
+								<unittitle>Connecticut state forests and parks [pamphlets and map], </unittitle>
+								<unitdate type="inclusive">1926-1940</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 67.655</container>
+								<unittitle>Connecticut Tercentenary, </unittitle>
+								<unitdate type="inclusive">1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 67.656</container>
+								<unittitle>U.S. Congressman’s reports to Connecticut constituents, </unittitle>
+								<unitdate type="inclusive">1962-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 67.657</container>
+								<unittitle>Connecticut miscellaneous</unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Lockwood-Mathews Mansion, Norwalk</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 68.658</container>
+								<unittitle>Correspondence; meeting minutes of the Citizens Actions Committee and the Common Interest Groups of Norwalk; and public hearings, </unittitle>
+								<unitdate type="inclusive">1958-1963</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 68.659</container>
+								<unittitle>Correspondence; meeting minutes of the Citizens Action Committee and the Common Interest Group of Norwalk; and public hearings, </unittitle>
+								<unitdate type="inclusive">1964-1972, n.d</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 68.660-68.662</container>
+								<unittitle>Contents of scrapbook presented to EH by Common Interest Group</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 68.663</container>
+								<unittitle>Articles about mansion in Mark, the Community Magazine (Norwalk), </unittitle>
+								<unitdate type="inclusive">1960-1967</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 68.664</container>
+								<unittitle>Miscellaneous articles about the mansion, </unittitle>
+								<unitdate type="inclusive">1959-1967</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 68.665-68.666</container>
+								<unittitle>Miscellaneous pamphlets and brochures about the mansion</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 68.667</container>
+								<unittitle>Lockwood and Mathews family histories</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 68.668-68.670</container>
+								<unittitle>Miscellaneous notes about the mansion</unittitle>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>SUBJECT FILES – Biographical Materials</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">General</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 69.671</container>
+								<unittitle>Biographical notes</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 69.672</container>
+								<unittitle>Broadcasts and personal appearances</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 69.673</container>
+								<unittitle>Employment material</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 69.674</container>
+								<unittitle>Passports [incl. picture of EMH and LH-L], birth certificate facsimiles, social security cards, other personal material</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 69.675</container>
+								<unittitle>Personal realia</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 69.676</container>
+								<unittitle>Realia relating to the women's movement</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 69.677 - 69.678</container>
+								<unittitle>New York-Moscow flight, 15 July 1968</unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Education</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 70.679</container>
+								<unittitle>High school French notebook, </unittitle>
+								<unitdate type="inclusive">1899</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 70.680</container>
+								<unittitle>Notebooks from Paris and Rome, </unittitle>
+								<unitdate type="inclusive">1900-1901</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 70.681</container>
+								<unittitle>Vassar notes: American history, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 70.682 - 70.684</container>
+								<unittitle>Vassar notes: Biology, </unittitle>
+								<unitdate type="inclusive">circa 1902-1904</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 70.685</container>
+								<unittitle>Vassar notes: Charities and Corrections, </unittitle>
+								<unitdate type="inclusive">1906</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 70.686</container>
+								<unittitle>Vassar notes: Comparative anatomy of vertebrates, </unittitle>
+								<unitdate type="inclusive">Fall 1905</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 71.687</container>
+								<unittitle>Vassar notes: Economic history, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 71.688</container>
+								<unittitle>Vassar notes: English, </unittitle>
+								<unitdate type="inclusive">1903</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 71.689</container>
+								<unittitle>Vassar notes: blank French notebook, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 71.690</container>
+								<unittitle>Vassar notes: Latin, </unittitle>
+								<unitdate type="inclusive">1902</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.691</container>
+								<unittitle>Vassar notes: Miscellaneous, </unittitle>
+								<unitdate type="inclusive">1904-1905</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.692</container>
+								<unittitle>Vassar notes: Miscellaneous, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.693</container>
+								<unittitle>Vassar [?] notes: Miscellaneous, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.694</container>
+								<unittitle>Vassar notes: Municipal and house sanitation notes, </unittitle>
+								<unitdate type="inclusive">circa 1905</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.695</container>
+								<unittitle>Vassar notes: Psychology, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.696</container>
+								<unittitle>Vassar [?] notes: Religion, </unittitle>
+								<unitdate type="inclusive">June-July 1904</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.697</container>
+								<unittitle>Vassar College catalog, </unittitle>
+								<unitdate type="inclusive">1902-1903</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 72.698</container>
+								<unittitle>Vassar College catalog, </unittitle>
+								<unitdate type="inclusive">1905-1906</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 73</container>
+								<unittitle>Contents of EMH's "Memory book" of Vassar College, </unittitle>
+								<unitdate type="inclusive">1899-1902</unitdate>
+								<physdesc>(6 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 74</container>
+								<unittitle>Contents of EMH's "Memory book" of Vassar College [incl. letter from C. Fink], </unittitle>
+								<unitdate type="inclusive">1903</unitdate>
+								<physdesc>(6 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 75</container>
+								<unittitle>Contents of EMH's "Memory book" of Vassar College, </unittitle>
+								<unitdate type="inclusive">1904-1906</unitdate>
+								<physdesc>(4 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.715</container>
+								<unittitle>Contents of EMH"s "Memory book" of Vassar College: Commencement invitations, </unittitle>
+								<unitdate type="inclusive">1906</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.716</container>
+								<unittitle>Vassar College miscellanea, </unittitle>
+								<unitdate type="inclusive">1900-1916</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.717</container>
+								<unittitle>Vassar College miscellanea, </unittitle>
+								<unitdate type="inclusive">1964, n.d</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.718</container>
+								<unittitle>Vassar Alumnae directories, </unittitle>
+								<unitdate type="inclusive">1962-1963, 1967-1968</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.719</container>
+								<unittitle>Miscellaneous Vassar alumnae communications, </unittitle>
+								<unitdate type="inclusive">1951-1969, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.720</container>
+								<unittitle>Associated Vassar Clubs of Fairfield County [CT], </unittitle>
+								<unitdate type="inclusive">1960-1966</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.721</container>
+								<unittitle>Communication of Vassar College Class of 1906, </unittitle>
+								<unitdate type="inclusive">1933-1969</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 76.722</container>
+								<unittitle>Vassar College Class of 1906 memorabilia</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 77.723</container>
+								<unittitle>New York School of Philanthropy, </unittitle>
+								<unitdate type="inclusive">Summer 1906</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 77.724</container>
+								<unittitle>George Washington University. Notebook for Property I. Personal, </unittitle>
+								<unitdate type="inclusive">1903</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 78.725</container>
+								<unittitle>Yale Law School. Assignments and exams</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 78.726</container>
+								<unittitle>Yale Law School. Introduction to the Study of Law [textbook]</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 78.727-78.730</container>
+								<unittitle>Study of Law: Notes</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 78.731-78.733</container>
+								<unittitle>Yale Law School: Notes</unittitle>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>SUBJECT FILES – Non-Political Affiliations</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Ancestral Societies</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.732</container>
+								<unittitle>Annual meeting programs</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.733</container>
+								<unittitle>Charters and by-laws</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.734</container>
+								<unittitle>Society communications with members, </unittitle>
+								<unitdate type="inclusive">1939-1966, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.735</container>
+								<unittitle>D.A.R. manual for citizenship</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.736</container>
+								<unittitle>D.A.R. notebook</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.737</container>
+								<unittitle>Meeting notices, </unittitle>
+								<unitdate type="inclusive">1939-1969, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.738</container>
+								<unittitle>Membership allocations</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.739</container>
+								<unittitle>Membership cards</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.740</container>
+								<unittitle>Membership lists</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 79.741</container>
+								<unittitle>Miscellaneous notes</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 80.742</container>
+								<unittitle>Ephemera, </unittitle>
+								<unitdate type="inclusive">1932-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 80.743</container>
+								<unittitle>Sash and badges</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 80.744-80.747</container>
+								<unittitle>Yearbooks and calendars, </unittitle>
+								<unitdate type="inclusive">1934-1969</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Joel Barlow</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.748</container>
+								<unittitle>A bill authorizing the erection of a memorial to Joel Barlow, </unittitle>
+								<unitdate type="inclusive">1929</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.749</container>
+								<unittitle>Addresses given at the Joel Barlow Commemoration, </unittitle>
+								<unitdate type="inclusive">1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.750</container>
+								<unittitle>Programs for the Joel Barlow Commemoration, </unittitle>
+								<unitdate type="inclusive">1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.751</container>
+								<unittitle>Notes about Joel Barlow and the Joel Barlow Commemoration</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.752</container>
+								<unittitle>Notebook on Joel Barlow</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.753</container>
+								<unittitle>Notes and transcriptions of Joel Barlow's works, </unittitle>
+								<unitdate type="inclusive">1931-1935, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.754</container>
+								<unittitle>Copyright denial for "Frontispiece for the `Hasty Pudding'"</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.755</container>
+								<unittitle>Speeches about Joel Barlow, </unittitle>
+								<unitdate type="inclusive">1935-1960, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.756</container>
+								<unittitle>Articles about Joel Barlow, </unittitle>
+								<unitdate type="inclusive">1938-1967</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.757</container>
+								<unittitle>Fritz, Florence. Joel Barlow's Early Deistic Liberalism [thesis]</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.758</container>
+								<unittitle>Miscellaneous Barlow facsimiles</unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Genealogy</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.759</container>
+								<unittitle>Genealogical notes on Joel Barlow and the Barlow family, </unittitle>
+								<unitdate type="inclusive">undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.760</container>
+								<unittitle>Genealogy of Alice Stone Blackwell, researched by Katherine Stetson Chamberlin</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.761</container>
+								<unittitle>Genealogical notes of the Hill, Mossman, Goodale and Rice families, </unittitle>
+								<unitdate type="inclusive">1940-1969, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Goat Raising</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.762</container>
+								<unittitle>Pedigrees, </unittitle>
+								<unitdate type="inclusive">1929-1931</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 81.763</container>
+								<unittitle>Miscellanea, </unittitle>
+								<unitdate type="inclusive">1929-1935, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>CLIPPINGS</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Social and Political Activism</emph></unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 82.764-82.768</container>
+								<unittitle>Suffrage, </unittitle>
+								<unitdate type="inclusive">1913-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 82.769-82.773</container>
+								<unittitle>Equal Rights Amendment, </unittitle>
+								<unitdate type="inclusive">1921-1971, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 82.774-82.776</container>
+								<unittitle>International Women's Rights, </unittitle>
+								<unitdate type="inclusive">1925-1966, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 83.777-83.785</container>
+								<unittitle>Other women's concerns and interests, </unittitle>
+								<unitdate type="inclusive">1907-1966, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 84.786-84.794</container>
+								<unittitle>Miscellaneous politics and government, </unittitle>
+								<unitdate type="inclusive">1912-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 84.795</container>
+								<unittitle>Civil rights and segregation, </unittitle>
+								<unitdate type="inclusive">1957-1969, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 84.796</container>
+								<unittitle>Prohibition, </unittitle>
+								<unitdate type="inclusive">1928-1966, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 84.797</container>
+								<unittitle>War and military service, </unittitle>
+								<unitdate type="inclusive">1916, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle><emph render="bold">Connecticut Social and Political Interests</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 85.798 - 85.800</container>
+								<unittitle>Connecticut politics and government, </unittitle>
+								<unitdate type="inclusive">1922-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 85.801</container>
+								<unittitle>Connecticut zoning and roads, </unittitle>
+								<unitdate type="inclusive">1929-1967, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 85.802</container>
+								<unittitle>Connecticut land preservation and building restoration, </unittitle>
+								<unitdate type="inclusive">1958-1969, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 85.803</container>
+								<unittitle>Dissolution of the Gilbert Farm, </unittitle>
+								<unitdate type="inclusive">1930-1940, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 85.804-85.805</container>
+								<unittitle>Preservation of the Lockwood-Mathews Mansion, Norwalk, </unittitle>
+								<unitdate type="inclusive">1958-1976, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 85.806-85.810</container>
+								<unittitle>Sherwood Island State Park, Westport, </unittitle>
+								<unitdate type="inclusive">1929-1964, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 85.811-85.812</container>
+								<unittitle>Connecticut education system, </unittitle>
+								<unitdate type="inclusive">1914-1969, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Biographical Clippings of Elsie Hill</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 86.813-86.818</container>
+								<unittitle>General, arranged chronologically, </unittitle>
+								<unitdate type="inclusive">1913-1994, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Personal Interests</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 86.819-86.820</container>
+								<unittitle>Daughters of the American Revolution, </unittitle>
+								<unitdate type="inclusive">1929-1970, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 86.821</container>
+								<unittitle>Goats, </unittitle>
+								<unitdate type="inclusive">1929-1932</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 86.822-86.823</container>
+								<unittitle>Historic preservation, </unittitle>
+								<unitdate type="inclusive">1933-1969, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 86.824-86.825</container>
+								<unittitle>Joel Barlow, </unittitle>
+								<unitdate type="inclusive">1931-1976</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>
+								<emph render="bold">Magazine articles on women's rights</emph>
+							</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folder 87.826</container>
+								<unittitle>General, arranged chronologically, </unittitle>
+								<unitdate type="inclusive">1911-1954</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 87.827</container>
+								<unittitle>General, arranged chronologically, </unittitle>
+								<unitdate type="inclusive">1960-1962</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 87.828</container>
+								<unittitle>General, arranged chronologically, </unittitle>
+								<unitdate type="inclusive">1964-1969, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 87.829</container>
+								<unittitle>"If You Ask Me" by E. Roosevelt, McCall's, </unittitle>
+								<unitdate type="inclusive">June 1949</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>MANUSCRIPTS AND NOTES</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.830</container>
+							<unittitle>List of series of EMH speeches, </unittitle>
+							<unitdate type="inclusive">1906-1936</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.831</container>
+							<unittitle>[On "Chiffon Politics"], </unittitle>
+							<unitdate type="inclusive">1912</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.832</container>
+							<unittitle>The Mother as Creative Artist [notes], </unittitle>
+							<unitdate type="inclusive">[1926?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.833</container>
+							<unittitle>The Mother as Creative Artist [typed drafts], </unittitle>
+							<unitdate type="inclusive">1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.834</container>
+							<unittitle>In Defense of Congressmen [notes], </unittitle>
+							<unitdate type="inclusive">[1928]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.835</container>
+							<unittitle>In Defense of Congressmen [typescripts], </unittitle>
+							<unitdate type="inclusive">[1928]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.836</container>
+							<unittitle>[Alice Paul], </unittitle>
+							<unitdate type="inclusive">[1930?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.837</container>
+							<unittitle>The World Court or World Code, </unittitle>
+							<unitdate type="inclusive">1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.838</container>
+							<unittitle>[Regarding the World Court appropriations bill], </unittitle>
+							<unitdate type="inclusive">[1932]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.839</container>
+							<unittitle>[On the Independent Republican Party of Connecticut] , </unittitle>
+							<unitdate type="inclusive">[1932]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.840</container>
+							<unittitle>[Campaign speech], </unittitle>
+							<unitdate type="inclusive">[1932]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.841</container>
+							<unittitle>Hello, Connecticut [campaign speech draft], </unittitle>
+							<unitdate type="inclusive">[1932]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.842</container>
+							<unittitle>Daughters of the American Evolution, </unittitle>
+							<unitdate type="inclusive">1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.843</container>
+							<unittitle>Yankees Born Again or Yankees Reborn o Yankees of Power and Light, </unittitle>
+							<unitdate type="inclusive">[ca. 1934]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.844</container>
+							<unittitle>The March of the Women or Women of Power and Light, </unittitle>
+							<unitdate type="inclusive">[ca. 1937]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.845</container>
+							<unittitle>Women of Power and Light, </unittitle>
+							<unitdate type="inclusive">[ca. 1937]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.846</container>
+							<unittitle>[Script of "We the People" broadcast], </unittitle>
+							<unitdate type="inclusive">[ca. 10 Nov 1939]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.847</container>
+							<unittitle>[Speech given at meeting of D.C. College Equal Suffrage League], </unittitle>
+							<unitdate type="inclusive">1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.848</container>
+							<unittitle>On the English Common Law Status of women [transcript of radio broadcast], </unittitle>
+							<unitdate type="inclusive">1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.849</container>
+							<unittitle>Miscellaneous drafts of speeches, </unittitle>
+							<unitdate type="inclusive">circa 1949, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.850</container>
+							<unittitle>Miracle of America, no.6: Woman's Suffrage[transcript of a play broadcast on KOWL Santa Monica, CA}, </unittitle>
+							<unitdate type="inclusive">1951</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.851</container>
+							<unittitle>Little Girls Grow Up, </unittitle>
+							<unitdate type="inclusive">[1951]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.852</container>
+							<unittitle>[Partial script for broadcast of Persona Report: Elsie Hill in conversation with Edith Evans Astbury], </unittitle>
+							<unitdate type="inclusive">1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.853</container>
+							<unittitle>[Speech given at meeting of the Common Interest Group of Norwalk], </unittitle>
+							<unitdate type="inclusive">[circa 1967]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.854</container>
+							<unittitle>[Speeches given at meeting of the Connecticut Branch of the NWP], </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.855</container>
+							<unittitle>"Women as Dishwashers," </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 88.856</container>
+							<unittitle>[Miscellaneous poetry manuscripts by various and anonymous writers], </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 89.857-89.859</container>
+							<unittitle>Miscellaneous notes and statements, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 89.860</container>
+							<unittitle>Miscellaneous press releases, </unittitle>
+							<unitdate type="inclusive">[1923-1937]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 89.861-89.862</container>
+							<unittitle>Notebooks with miscellaneous notes, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>DIARIES, CALENDARS, ADDRESS BOOKS AND TELEPHONE LISTS</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 90.863-90.865</container>
+							<unittitle>Biographical diaries, </unittitle>
+							<unitdate type="inclusive">1883-1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 90.866-90.869</container>
+							<unittitle>Diaries, </unittitle>
+							<unitdate type="inclusive">1907-1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 91.870-91.873</container>
+							<unittitle>Diaries, </unittitle>
+							<unitdate type="inclusive">1926-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 92.874-92.877</container>
+							<unittitle>Diaries, </unittitle>
+							<unitdate type="inclusive">1929-1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 93.878-93.880</container>
+							<unittitle>Diaries, </unittitle>
+							<unitdate type="inclusive">1942-1959</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 93.881</container>
+							<unittitle>Address books</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 93.882 - 92.883</container>
+							<unittitle>Miscellaneous addresses and telephone numbers</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 94.884-94.895</container>
+							<unittitle>Calendars, </unittitle>
+							<unitdate type="inclusive">1930-1963</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 95.896-95.905</container>
+							<unittitle>Calendars, </unittitle>
+							<unitdate type="inclusive">1964-1968</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>FINANCIAL AND LEGAL</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 96.906-96.912</container>
+							<unittitle>Correspondence, </unittitle>
+							<physdesc>(172 letters)</physdesc>
+							<unitdate type="inclusive">1903-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 97.913-97.920</container>
+							<unittitle>Correspondence, </unittitle>
+							<physdesc>(128 letters)</physdesc>
+							<unitdate type="inclusive">1930-1971, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 98.921-98.927</container>
+							<unittitle>Correspondence re: The Rock Lot, </unittitle>
+							<physdesc>(119 letters)</physdesc>
+							<unitdate type="inclusive">1940-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 98.928</container>
+							<unittitle>Miscellaneous notes re: The Rock Lot, </unittitle>
+							<unitdate type="inclusive">1923-1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 99.929</container>
+							<unittitle>Estate of Annie H. Thomas, </unittitle>
+							<unitdate type="inclusive">1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 99.930</container>
+							<unittitle>Estate of Ebenezer J. Hill, </unittitle>
+							<unitdate type="inclusive">1899-1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 99.931</container>
+							<unittitle>Estate of Mary E. M. Hill, </unittitle>
+							<unitdate type="inclusive">1918-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 99.932</container>
+							<unittitle>Will of Clara Mossman Hill, </unittitle>
+							<unitdate type="inclusive">1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 99.933-934</container>
+							<unittitle>Records of investments, </unittitle>
+							<unitdate type="inclusive">1924-1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 99.935</container>
+							<unittitle>Stocks and bonds, </unittitle>
+							<unitdate type="inclusive">1920-1955, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 99.936-99.937</container>
+							<unittitle>Mortgages, deeds and leases, </unittitle>
+							<unitdate type="inclusive">1875-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 99.938-99.941</container>
+							<unittitle>Insurance policies, </unittitle>
+							<unitdate type="inclusive">1927-1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 100.942</container>
+							<unittitle>Expense ledger, </unittitle>
+							<unitdate type="inclusive">1904-1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 100.943 - 100.946</container>
+							<unittitle>Household expense ledgers, </unittitle>
+							<unitdate type="inclusive">1928-1960</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 100.946</container>
+							<unittitle>Notes of miscellaneous household and car expenses, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 101</container>
+							<unittitle>Bills and receipts, </unittitle>
+							<unitdate type="inclusive">1908-1929</unitdate>
+							<physdesc>(20 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 102</container>
+							<unittitle>Bills and receipts, </unittitle>
+							<unitdate type="inclusive">1930-1963</unitdate>
+							<physdesc>(14 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 103</container>
+							<unittitle>Bills and receipts, </unittitle>
+							<unitdate type="inclusive">1964-1970</unitdate>
+							<physdesc>(8 folders)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 104.989 - 104.993</container>
+							<unittitle>Taxes, </unittitle>
+							<unitdate type="inclusive">1918-1969</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 104.994 - 104.998</container>
+							<unittitle>Bank notes, </unittitle>
+							<unitdate type="inclusive">1920-1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 105-113</container>
+							<unittitle>Bank statements, check registers and cleared checks, </unittitle>
+							<unitdate type="inclusive">1919-1969</unitdate>
+							<physdesc>(47 folders)</physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II. PAPERS OF ALBERT LEVITT</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Letters to Albert Levitt</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Box 120</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(110 letters)</physdesc>
+								<unitdate type="inclusive">1911-1926</unitdate>
+								<physdesc>(11 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 121</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(69 letters)</physdesc>
+								<unitdate type="inclusive">1927-1950</unitdate>
+								<physdesc>(8 folders)</physdesc>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 121.1132 - 121.1133</container>
+								<unittitle>Letters from Robert W. Claiborne, </unittitle>
+								<physdesc>(9 letters)</physdesc>
+								<unitdate type="inclusive">1936-1939</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 121.1134</container>
+								<unittitle>Letters from Alice Paul, </unittitle>
+								<physdesc>(6 letters)</physdesc>
+								<unitdate type="inclusive">1921-1923</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 121.1135 - 121.1136</container>
+								<unittitle>Letters from Roscoe Pound, </unittitle>
+								<physdesc>(24 letters)</physdesc>
+								<unitdate type="inclusive">1920-1941</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 121.1137</container>
+								<unittitle>Letters of introduction for Albert Levitt, </unittitle>
+								<physdesc>(14 letters)</physdesc>
+								<unitdate type="inclusive">1946</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 121.1138</container>
+								<unittitle>Letters of recommendation for Alfred Levitt, </unittitle>
+								<physdesc>(2 letters)</physdesc>
+								<unitdate type="inclusive">1907-1908</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 122</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(61 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">1921-July 1926</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 123</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(57 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">Sept 1926-Feb 1927</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 124</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(49 letters in 9 folders)</physdesc>
+								<unitdate type="inclusive">Mar 1927-1928</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 125</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(87 letters in 11 folders)</physdesc>
+								<unitdate type="inclusive">1930-May 1935</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 126</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(63 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">June 1935-May 1936</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 127.1183 - 127.1190</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(68 letters in 8 folders)</physdesc>
+								<unitdate type="inclusive">June 1936-1937 [and 1938?]</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 128</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(70 letters in 10 folders)</physdesc>
+								<unitdate type="inclusive">Jan 1938-Mar 1940</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Box 129</container>
+								<unittitle>Letters from Elsie Hill, </unittitle>
+								<physdesc>(86 letters in 11 folders)</physdesc>
+								<unitdate type="inclusive">Apr 1940-1957, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 130.1212 - 130.1214</container>
+								<unittitle>Letters from Clara M. Hill, </unittitle>
+								<physdesc>(25 letters)</physdesc>
+								<unitdate type="inclusive">1925-1959</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 130.1215 - 130.1220</container>
+								<unittitle>Letters from Elsie Hill-Levitt (Leslie Latham), </unittitle>
+								<physdesc>(60 letters)</physdesc>
+								<unitdate type="inclusive">[ca. 1932?}-1943</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 131.1220 - 131.1223</container>
+								<unittitle>Letters from Elsie Hill-Levitt (Leslie Latham), </unittitle>
+								<physdesc>(28 letters)</physdesc>
+								<unitdate type="inclusive">1944-1965, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 131.1224</container>
+								<unittitle>Miscellaneous family members, </unittitle>
+								<physdesc>(3 letters)</physdesc>
+								<unitdate type="inclusive">1939-1947</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 131.1225</container>
+								<unittitle>Personal (chronological) correspondence[re: his ministry at Willow-Place Chapel], </unittitle>
+								<physdesc>(11 letters)</physdesc>
+								<unitdate type="inclusive">1912-1914</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 131.1226 - 131.1230</container>
+								<unittitle>Personal (chronological) correspondence, </unittitle>
+								<physdesc>(45 letters)</physdesc>
+								<unitdate type="inclusive">1920-1941</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 132.1231 - 132.1232</container>
+								<unittitle>Personal (chronological) correspondence, </unittitle>
+								<physdesc>(23 letters)</physdesc>
+								<unitdate type="inclusive">1942-1965, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folders 132.1233 - 132.1234</container>
+								<unittitle>Letters from Mrs. John Darling ("Mother Mollie"), </unittitle>
+								<physdesc>(16 letters)</physdesc>
+								<unitdate type="inclusive">1917-1949, undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Letters from Albert Levitt</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container>Folders 132.1235 - 132.1240</container>
+								<unittitle>General (chronological) correspondence, </unittitle>
+								<physdesc>(67 letters)</physdesc>
+								<unitdate type="inclusive">1921-1953, undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container>Folder 132.1241</container>
+								<unittitle>Levitt Memoranda, </unittitle>
+								<physdesc>(2 items)</physdesc>
+								<unitdate type="inclusive">1935-1937</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 133.1242 - 133.1244</container>
+							<unittitle>Army chaplain scrapbooks, </unittitle>
+							<unitdate>1917-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 133.1245</container>
+							<unittitle>Articles re Thomas Levet, </unittitle>
+							<unitdate>1913-1914</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 133.1246</container>
+							<unittitle>Bibliographies, article lists, </unittitle>
+							<unitdate>ca. 1920-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 134.1247</container>
+							<unittitle>Certificates, Harvard, National Geographic Society, Dept. of Justice, Admission to Bar, Phi Beta Kappa, Delta Sigma Ro, </unittitle>
+							<unitdate>1912-1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 134.1248</container>
+							<unittitle>Certificates/identification, French passport, foreign residence permit, safe conduct permit, American Army Chaplain certification, Mail Steamer Roma Certificate, </unittitle>
+							<unitdate>1915-1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 135.1249 - 135.1250</container>
+							<unittitle>Diaries - bound books, </unittitle>
+							<unitdate>1919-1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 136.1251 - 136.1253</container>
+							<unittitle>Diaries - bound books, </unittitle>
+							<unitdate>1929 -1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 137.1254 - 137.1255</container>
+							<unittitle>Diaries - bound books, </unittitle>
+							<unitdate>1940-1956</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 138.1256 - 138.1266</container>
+							<unittitle>Diaries - bound/unbound, </unittitle>
+							<unitdate>1906-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 139.1267 - 139.1278</container>
+							<unittitle>Diaries - typescripts, personal and office, </unittitle>
+							<unitdate>1924-1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 140.1279 - 140.1288</container>
+							<unittitle>Diaries - typescripts, unbound, </unittitle>
+							<unitdate>1933-1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 141.1289 - 141.1295</container>
+							<unittitle>Diaries - typescripts, unbound, titled "Nationality," originals and carbon copies, </unittitle>
+							<unitdate>1933-1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 142.1296 - 142.1300</container>
+							<unittitle>Diaries - unbound, </unittitle>
+							<unitdate>1935-1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 143.1301</container>
+							<unittitle>Ephemera/identification, including passports, war ration books, </unittitle>
+							<unitdate>1915-1946</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 143.1302</container>
+							<unittitle>European travel records, </unittitle>
+							<unitdate>1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 143.1303</container>
+							<unittitle>Letterhead, business card, </unittitle>
+							<unitdate>ca. 1920-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 143.1304 - 143.1305</container>
+							<unittitle>Military Service records, </unittitle>
+							<unitdate>1908-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 143.1306</container>
+							<unittitle>Press release, Child Labor, </unittitle>
+							<unitdate>1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 143.1307</container>
+							<unittitle>Press release, General Assembly in Action, </unittitle>
+							<unitdate>1931 April</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 143.1308</container>
+							<unittitle>Realia - lace from Brussels, Ambulance of the American Hospital of Paris Arm Band, Freemason leather pouch &amp; membership certificate, </unittitle>
+							<unitdate>1916-1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 143.1309</container>
+							<unittitle>Resumes, CVs, biographical texts, obituaries, </unittitle>
+							<unitdate>1912-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 143.1310</container>
+							<unittitle>Unitarian Church, Santa Monica, CA, </unittitle>
+							<unitdate>1922-1946</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Financial and Legal</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 144.1311 - 144.1315</container>
+							<unittitle>Checkbooks and check registers, </unittitle>
+							<unitdate>1926-1951</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 145.1316 - 145.1327</container>
+							<unittitle>Deluth property, bills, receipts, financial correspondence, stocks, bonds, </unittitle>
+							<unitdate>1920-1959</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 146.1328 - 146.1331</container>
+							<unittitle>Ledger books, some containing correspondence, (see 1944 ledger includes poetry drafts)</unittitle>
+							<unitdate>1941-1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 147.1332 - 147.1336</container>
+							<unittitle>Ledger books, some containing correspondence, </unittitle>
+							<unitdate>1944-1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 148.1337 - 148.1339</container>
+							<unittitle>Ledger books, some containing correspondence, </unittitle>
+							<unitdate>1949-1951</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 149.1340 - 149.1342</container>
+							<unittitle>Ledger books, some containing correspondence, </unittitle>
+							<unitdate>1952-1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 150.1343</container>
+							<unittitle>Levitt/Hill divorce decree, </unittitle>
+							<unitdate>1956</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 150.1344</container>
+							<unittitle>Power of Attorney for Elsie Hill, </unittitle>
+							<unitdate>1946</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 150.1345 - 150.1354</container>
+							<unittitle>Press clippings, Legal - Levitt v. Black, </unittitle>
+							<unitdate>1937-1968</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Photographs</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 151.1355 - 151.1356</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1912 - [ca. 1959]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 151.1357 - 151.1358</container>
+							<unittitle>Meadville Theological Seminary, </unittitle>
+							<unitdate>1909-1910</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 151.1359</container>
+							<unittitle>Philippines, photo album, </unittitle>
+							<unitdate>1906-1907</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 151.1360</container>
+							<unittitle>Portraiture, </unittitle>
+							<unitdate>ca. 1950-1959</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 151.1361</container>
+							<unittitle>Walking Trip, </unittitle>
+							<unitdate>1913</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Clippings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 152.1362 - 152.1364</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1919-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 152.1365 - 152.1366</container>
+							<unittitle>1928 campaign</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Material</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 153.1367</container>
+							<unittitle>Barlow, Joel, </unittitle>
+							<unitdate>1915-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 153.1368</container>
+							<unittitle>Business and calling cards (includes Coolidge White House invitation)</unittitle>
+							<unitdate>1922</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 153.1369</container>
+							<unittitle>Child Labor reports, Dept. of Labor, notes, </unittitle>
+							<unitdate>1921-1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 153.1370</container>
+							<unittitle>Handbill, "vote dry republican"</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 153.1371</container>
+							<unittitle>HR Bill 4185, native born US women who loose citizenship by marriage to alien, </unittitle>
+							<unitdate>1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 153.1372</container>
+							<unittitle>Inter American Commission of Women, </unittitle>
+							<unitdate>1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 154.1373</container>
+							<unittitle>Les Orientales, by Victor Hugo</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 154.1374</container>
+							<unittitle>Unitarian; Court of Appeals, Republican National Committee, Russia, CT Citizen, </unittitle>
+							<unitdate>1915-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 154.1375</container>
+							<unittitle>Women/legal, </unittitle>
+							<unitdate>1921-1924</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 155.1376</container>
+							<unittitle>Barlow, Joel</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 155.1377</container>
+							<unittitle>Book list, private library of A. Levitt and E.M. Hill</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 155.1378 - 156.1382</container>
+							<unittitle>Brazil trip, travel documents, correspondence, invoices, itineraries, </unittitle>
+							<unitdate>1961</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1383</container>
+							<unittitle>Columbia University, </unittitle>
+							<unitdate>1914</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1384</container>
+							<unittitle>Columbia University - lecture, Committee on vacation &amp; resources of working girls, </unittitle>
+							<unitdate>1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1385</container>
+							<unittitle>Convention of the Independent Republic Party, minutes, </unittitle>
+							<unitdate>1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1386</container>
+							<unittitle>Equal Rights Amendment, typescripts, </unittitle>
+							<unitdate>1921-1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1387</container>
+							<unittitle>Harvard Law School, Yale Law School, </unittitle>
+							<unitdate>1917-1923</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 157.1388</container>
+							<unittitle>Judgeship - US District Court, District of CT, </unittitle>
+							<unitdate>1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1389</container>
+							<unittitle>Latham, Louis</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1390</container>
+							<unittitle>Levitt v Black, </unittitle>
+							<unitdate>1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 156.1391</container>
+							<unittitle>Meadville Theological Seminary, includes scholastic record of A. Levitt, </unittitle>
+							<unitdate>1908-1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 156.1392 - 157.1396</container>
+							<unittitle>Mexico Trip, correspondence, diaries, manuscript, printed materials; re: social, political &amp; business conditions of Mexico, </unittitle>
+							<unitdate>1946-1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 157.1397 - 157.1398</container>
+							<unittitle>Ministry at Willow Place Chapel, Brooklyn, NY, </unittitle>
+							<unitdate>1912-1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 157.1399 - 157.1400</container>
+							<unittitle>Political campaigns, </unittitle>
+							<unitdate>1930-1944</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 157.1401</container>
+							<unittitle>Programs, musical performances, with notations, </unittitle>
+							<unitdate>1934-1966</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 157.1402</container>
+							<unittitle>Right of women to retain maiden names, </unittitle>
+							<unitdate>1924-1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 157.1403</container>
+							<unittitle>Russia, marriage and labor law, </unittitle>
+							<unitdate>1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 157.1404</container>
+							<unittitle>Union Settlement House, NY, </unittitle>
+							<unitdate>1911-1913</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 157.1405</container>
+							<unittitle>University of North Dakota, </unittitle>
+							<unitdate>1921-1922</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 157.1406</container>
+							<unittitle>Washington and Lee University Law School, </unittitle>
+							<unitdate>1921-1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 157.1407</container>
+							<unittitle>West Bridgewater and Harvard Street Churches, </unittitle>
+							<unitdate>1916</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 158.1408 - 158.1409</container>
+							<unittitle>A Dagger in Her Heart, </unittitle>
+							<unitdate>1947</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1410</container>
+							<unittitle>A Proposed Code of International Criminal Law</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1411</container>
+							<unittitle>A Protestant Defends the Roman Church, </unittitle>
+							<unitdate>1953</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1412</container>
+							<unittitle>An Open Letter from Albert Levitt to Chester Merrow, </unittitle>
+							<unitdate>1958</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1413</container>
+							<unittitle>Autobiography (incomplete), </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1414</container>
+							<unittitle>Book review, The Salem Witch Trials, </unittitle>
+							<unitdate>1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1415</container>
+							<unittitle>Campaign issues, prohibition, address at Stamford Baptist Church, </unittitle>
+							<unitdate>1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1416</container>
+							<unittitle>Central Law Journal, </unittitle>
+							<unitdate>1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1417</container>
+							<unittitle>Collected letters to editor; The Connecticut Citizen; Camp Deans Thanksgiving Program, </unittitle>
+							<unitdate>1917-1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1418</container>
+							<unittitle>Collected writings, legal, </unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 158.1419 - 158.1423</container>
+							<unittitle>Discipline and Moarle, lecture, </unittitle>
+							<unitdate>1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 158.1424</container>
+							<unittitle>Four Stone Faces, </unittitle>
+							<unitdate>1952</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1425</container>
+							<unittitle>How to Study Law, dedicated to Elsie Hill Levitt, </unittitle>
+							<unitdate>1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1426</container>
+							<unittitle>Jesus, Judas &amp; John, </unittitle>
+							<unitdate>1958</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1427</container>
+							<unittitle>Judas Iscariot, An Imaginative Autobiography, </unittitle>
+							<unitdate>1961</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1428</container>
+							<unittitle>Lectures, essays, statements, </unittitle>
+							<unitdate>1922-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1429</container>
+							<unittitle>Legal briefs, Sufficiency of the Declaration</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1430</container>
+							<unittitle>Lists, books and articles written by Albert Levitt, </unittitle>
+							<unitdate>1925-1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1431</container>
+							<unittitle>Love and the Law, </unittitle>
+							<unitdate>1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1432</container>
+							<unittitle>Our Constitution, </unittitle>
+							<unitdate>1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1433</container>
+							<unittitle>Outline of a book on legal problems, "You and the Law"</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1434</container>
+							<unittitle>Poetry, </unittitle>
+							<unitdate>1924-1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 159.1435</container>
+							<unittitle>Speech, Convention of the Independent Republican Party, </unittitle>
+							<unitdate>1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1436</container>
+							<unittitle>Speech, delivered to the Tax Payers Association of Norwich, CT, </unittitle>
+							<unitdate>1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1437</container>
+							<unittitle>Speech, The Study of Law, </unittitle>
+							<unitdate>1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1438</container>
+							<unittitle>Taxpayers Are People Too</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1439</container>
+							<unittitle>Ten Years in Connecticut, </unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1440</container>
+							<unittitle>The Chaplain and Army Morale, </unittitle>
+							<unitdate>1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1441</container>
+							<unittitle>The Churchman Journal; published essays, letters to editor, </unittitle>
+							<unitdate>1963-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1442</container>
+							<unittitle>The Conflict Between Vaticanism and Americanism, </unittitle>
+							<unitdate>1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1443</container>
+							<unittitle>The Law Behind the News, </unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1444</container>
+							<unittitle>The Law of Community Property in California, </unittitle>
+							<unitdate>1950</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1445</container>
+							<unittitle>The Lieutenant or the Colonel, </unittitle>
+							<unitdate>1948</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1446</container>
+							<unittitle>The Political Faith of an American Lawyer, </unittitle>
+							<unitdate>1955</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1447</container>
+							<unittitle>The President and the International Affairs of the United States, </unittitle>
+							<unitdate>1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 160.1448</container>
+							<unittitle>The Young Democrats and the Future, </unittitle>
+							<unitdate>1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 161.1449</container>
+							<unittitle>Thesis, Meadville Theological School, The Categories of Activity and Growth Applied to the Idea of God</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 161.1450</container>
+							<unittitle>Thomas Jefferson &amp; Pope John XXIII, </unittitle>
+							<unitdate>1964</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 161.1451</container>
+							<unittitle>To Elsie Hill Levitt from Her Father on Her 17th Birthday, </unittitle>
+							<unitdate>1941</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 161.1452</container>
+							<unittitle>Vaticanism, Political Principles of the Roman Catholic Church, NY: Vantage Press, </unittitle>
+							<unitdate>1960</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 161.1453</container>
+							<unittitle>Was Clyde Griffiths Guilty of Murder in the First Degree?, </unittitle>
+							<unitdate>1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 161.1454</container>
+							<unittitle>Who Owns Connecticut, The Nation, Vol. CXXXVIII, No. 3591, </unittitle>
+							<unitdate>1934</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. CLARA HILL</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1455</container>
+							<unittitle>Address books, </unittitle>
+							<unitdate>1934-1953</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1456</container>
+							<unittitle>Army diary of Moses Asbury Hill, </unittitle>
+							<unitdate>1862</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1457</container>
+							<unittitle>Birth certificate, </unittitle>
+							<unitdate>1871</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1458</container>
+							<unittitle>Church missionary accreditation, </unittitle>
+							<unitdate>1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1459</container>
+							<unittitle>Citizenship registration papers, </unittitle>
+							<unitdate>1907-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1460</container>
+							<unittitle>Deeds from Albert Levitt, Elbert Miller, Helena Hill Weed, </unittitle>
+							<unitdate>1923-1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1461</container>
+							<unittitle>Diary, </unittitle>
+							<unitdate>1910-1914</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 162.1462</container>
+							<unittitle>Diary text re: "games Mexican children play"</unittitle>
+							<unitdate>1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1463</container>
+							<unittitle>Genealogy, descent form George Hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1464</container>
+							<unittitle>Genealogy, descent form Gov. John Webster &amp; Lieut. Samuel Smith</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1465</container>
+							<unittitle>Genealogy, descent from Governor Tristram Coffin</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1466</container>
+							<unittitle>Genealogy, descent from Thomas Wilder</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1467</container>
+							<unittitle>Genealogy, descent from William Westwood</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 162.1468 - 162.1472</container>
+							<unittitle>Genealogy, English countries, Scotland and Ireland/CMH genealogical research</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 163.1473</container>
+							<unittitle>Genealogy, epitaphs, </unittitle>
+							<unitdate>ca. 1910-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 165-166</container>
+							<unittitle>Genealogy, index cards (incl. data re Barlow, John)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1474</container>
+							<unittitle>Genealogy, lines of descent of CMH</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1475</container>
+							<unittitle>Genealogy, manuscript notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1476</container>
+							<unittitle>Genealogy, maternal and paternal lines of descent</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 163.1477</container>
+							<unittitle>Genealogy, notes, </unittitle>
+							<unitdate>ca. 1930-1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1478</container>
+							<unittitle>Genealogy, notes re Hill Family, </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1479</container>
+							<unittitle>Genealogy, passengers of the Mayflower, </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1480</container>
+							<unittitle>Genealogy, Rice Family, </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 164.1481</container>
+							<unittitle>Genealogy, Ward, Andrew, </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 163.1482</container>
+							<unittitle>General, biographical documents, </unittitle>
+							<unitdate>[ca. 1940-1959]</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 163.1483</container>
+							<unittitle>Letters of introduction, </unittitle>
+							<unitdate>1900-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 163.1484</container>
+							<unittitle>Medical records, </unittitle>
+							<unitdate>1927-1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 163.1485</container>
+							<unittitle>Passport, US, </unittitle>
+							<unitdate>1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 163.1486 - 163.1491</container>
+							<unittitle>Scrapbook/"Nonsense Book," limericks, poems, notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 163.1492</container>
+							<unittitle>Visa, Mexican, </unittitle>
+							<unitdate>1927</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1493</container>
+							<unittitle>ERA, InterAmerican Commission of Women, </unittitle>
+							<unitdate>1931-1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1494</container>
+							<unittitle>ERA, to/from legislators/Clara Hill, </unittitle>
+							<unitdate>1951-1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 167.1495 - 167. 1499</container>
+							<unittitle>Family correspondence, </unittitle>
+							<unitdate>1910-1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1500</container>
+							<unittitle>General correspondence, </unittitle>
+							<unitdate>1952-1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1501</container>
+							<unittitle>Hill, Elsie to Clara Hill, </unittitle>
+							<unitdate>1910-1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1502</container>
+							<unittitle>InterAmerican Commission of Women, </unittitle>
+							<unitdate>1932-1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1503 - 167.1504</container>
+							<unittitle>InterAmerican Commission of Women, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1505 - 167.1506</container>
+							<unittitle>Legislators to Clara Hill, with CMH notes; ERA, letters sent to NWP headquarters, </unittitle>
+							<unitdate>1953</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 167.1507</container>
+							<unittitle>Levitt, Albert to Clara Hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 168.1508 - 169.1521</container>
+							<unittitle>Personal correspondence, </unittitle>
+							<unitdate>1899-1955</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 169.1522 – 169.1526</container>
+							<unittitle>Socci, Luisa to Clara Hill, </unittitle>
+							<unitdate>1932-1954</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Ephemera</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 170.1527</container>
+							<unittitle>Business cards and printing plate</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 170.1528</container>
+							<unittitle>Invitation, cards, check for "good behavior" at Vassar, </unittitle>
+							<unitdate>1892</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 170.1529</container>
+							<unittitle>Suffrage banner and pin</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 170.1530</container>
+							<unittitle>Tags, </unittitle>
+							<unitdate>1903-1915</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Financial and Legal</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 171.1531 - 172.1533</container>
+							<unittitle>Check register books, </unittitle>
+							<unitdate>1950 -1955</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 172.1534</container>
+							<unittitle>Correspondence, </unittitle>
+							<unitdate>1918-1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 172.1535</container>
+							<unittitle>Correspondence, EJ Hill's German government bonds, mixed claims, </unittitle>
+							<unitdate>1928-1937</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 172.1536</container>
+							<unittitle>Court papers, Clara Mossman Hill vs. Norwalk Hospital Association, </unittitle>
+							<unitdate>1954-1956</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 172.1537</container>
+							<unittitle>Court papers, Clara Mossman Hill vs. The Employers Group Insurance Co., </unittitle>
+							<unitdate>1955-1956</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 172.1538</container>
+							<unittitle>Invoices, deeds, </unittitle>
+							<unitdate>1836-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 172.1539</container>
+							<unittitle>Invoices; agreement - National Bank of Norwalk, includes will codicil, </unittitle>
+							<unitdate>1919-1955</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Manuscripts</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1540</container>
+							<unittitle>A Valentine to you, dear Joe (poem)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1541</container>
+							<unittitle>Christ of the Indian Road, by E Jones (notes by CMH)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1542</container>
+							<unittitle>Christian Science: What Is It, by Rev. Wm. Short (notes by CMH)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1543</container>
+							<unittitle>Church History, assignment sheet</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1544</container>
+							<unittitle>Church History, notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1545</container>
+							<unittitle>El Dia de las Muertas, Mexico</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1546</container>
+							<unittitle>El Hijo de Dios (Son of God)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1547</container>
+							<unittitle>El percado, el perdon, el castigo</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1548</container>
+							<unittitle>Emily Post</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1549</container>
+							<unittitle>Escuela Biblica de Vacaciones en Pueblo Nuevo</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1550</container>
+							<unittitle>Glimpses at Eastern District</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1551</container>
+							<unittitle>Hardshell Baptist Sermon</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1552</container>
+							<unittitle>Land question</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1553</container>
+							<unittitle>Latin American History, notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1554</container>
+							<unittitle>Latin American literature</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1555</container>
+							<unittitle>Looking Outward (missionary to Mexico)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1556</container>
+							<unittitle>Los dos primos, Barnabi y Marcos</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1557</container>
+							<unittitle>Mohammedanism</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1558</container>
+							<unittitle>Noah Webster</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1559</container>
+							<unittitle>Notes on customs in Mexico</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1560</container>
+							<unittitle>Oaxaca Churches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1561</container>
+							<unittitle>Opinions on misc. topics</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1562</container>
+							<unittitle>Oppenheim, Phillips bibliography</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1563</container>
+							<unittitle>Poetry</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1564</container>
+							<unittitle>Religion, "The Life of God in the Soul of Man"</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1565</container>
+							<unittitle>Savonarola, la Antorcha de Florencia</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1566</container>
+							<unittitle>Speeches, presented to church groups</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1567</container>
+							<unittitle>The King's Business</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1568</container>
+							<unittitle>Virtue Its Own Reward</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1569</container>
+							<unittitle>Work of Foreign Missions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 173.1570</container>
+							<unittitle>Written assignment, Ed. 468</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Clippings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1571</container>
+							<unittitle>Connecticut history, </unittitle>
+							<unitdate>1939-1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1572</container>
+							<unittitle>Detective fiction, murder mysteries, </unittitle>
+							<unitdate>1931-1946</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1573</container>
+							<unittitle>Ebenezer Hill, </unittitle>
+							<unitdate>1903-1914</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1574</container>
+							<unittitle>Ebenezer Hill, obituaries, </unittitle>
+							<unitdate>1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1575</container>
+							<unittitle>Education, </unittitle>
+							<unitdate>1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1576</container>
+							<unittitle>Elena Hill Weed, </unittitle>
+							<unitdate>1958</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1577</container>
+							<unittitle>Genealogy, </unittitle>
+							<unitdate>1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1578</container>
+							<unittitle>Hill and Mossman families, </unittitle>
+							<unitdate>1919-1940</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1579</container>
+							<unittitle>Hill, Clara, </unittitle>
+							<unitdate>1930-1955</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1580</container>
+							<unittitle>History, politics, </unittitle>
+							<unitdate>1914-1950</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1581</container>
+							<unittitle>Latin America, </unittitle>
+							<unitdate>1921-1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1582</container>
+							<unittitle>Leslie Levitt Latham, </unittitle>
+							<unitdate>1947-1955</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1583</container>
+							<unittitle>Literary, </unittitle>
+							<unitdate>1933-1951</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1584</container>
+							<unittitle>Literary reviews, </unittitle>
+							<unitdate>1933-1950</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1585</container>
+							<unittitle>Miscellaneous, </unittitle>
+							<unitdate>1913-1949</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1586</container>
+							<unittitle>Religion, </unittitle>
+							<unitdate>1907-1954</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1587</container>
+							<unittitle>Science, Technology, </unittitle>
+							<unitdate>1936-1952</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 174.1588</container>
+							<unittitle>Women, </unittitle>
+							<unitdate>1922-1948</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Material</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 175.1589</container>
+							<unittitle>Connecticut history, </unittitle>
+							<unitdate>1935-1951</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 175.1590</container>
+							<unittitle>Genealogy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 175.1591</container>
+							<unittitle>Letterhead, stationery</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 175.1592 - 177.1604</container>
+							<unittitle>Pamphlets, booklets, handbills, sheet music, religious publications (incl. Mexican), suffragette publications, political and educational materials, book jackets, </unittitle>
+							<unitdate>1895-1967</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 177.1605</container>
+							<unittitle>Postcards</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 178.1606</container>
+							<unittitle>Answers to magazine contests</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 178.1607 - 181.1636</container>
+							<unittitle>Bible study teaching syllabus; teaching materials, </unittitle>
+							<unitdate>1924-1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 181.1637</container>
+							<unittitle>China, missionary school</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 181.1638</container>
+							<unittitle>Historical notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 181.1639</container>
+							<unittitle>Lecture notes - The Preparation for the Middle Ages</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 181.1640</container>
+							<unittitle>Lists</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 181.1641</container>
+							<unittitle>Mexico, broadsides, </unittitle>
+							<unitdate>1922</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 182.1642</container>
+							<unittitle>Mexico, mission schools, journal notes, </unittitle>
+							<unitdate>1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 182.1643</container>
+							<unittitle>Philosophy and Literature, notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 182.1644</container>
+							<unittitle>Recipes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 182.1645</container>
+							<unittitle>Spanish vocabulary notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 182.1646</container>
+							<unittitle>The New Deal, Susan B. Anthony</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 182.1647</container>
+							<unittitle>U.N. charter, ms excerpt</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>SERIES IV. EBENEZER HILL</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 183.1648 - 183.1652</container>
+							<unittitle>General correspondence files, arranged alphabetically, by EJH, </unittitle>
+							<unitdate>1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 185.1661</container>
+							<unittitle>To and from Ebenezer Hill (includes handwritten note from Samuel L. Clemens, May 1908)</unittitle>
+							<unitdate>1840-1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 185.1662</container>
+							<unittitle>Legal and business, includes contracts, articles of incorporation, </unittitle>
+							<unitdate>1892-1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 184.1654</container>
+							<unittitle>Letters of introduction, </unittitle>
+							<unitdate>1901</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 184.1655</container>
+							<unittitle>Political, </unittitle>
+							<unitdate>1902-1909</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 184.1656</container>
+							<unittitle>President McKinley, William, </unittitle>
+							<unitdate>1900</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 184.1657</container>
+							<unittitle>Roosevelt, Theodore, </unittitle>
+							<unitdate>1901-1910</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 184.1658 - 184.1659</container>
+							<unittitle>President Taft, William Howard, </unittitle>
+							<unitdate>1908-1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 184.1660</container>
+							<unittitle>President Wilson, Woodrow, </unittitle>
+							<unitdate>1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 185.1663</container>
+							<unittitle>Reverend Moses Hill (letters to Moses Hill), </unittitle>
+							<unitdate>1855</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical and Travel</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 186.1665 - 187.1671</container>
+							<unittitle>Diaries, </unittitle>
+							<unitdate>1895-1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 188.1672 - 188.1673</container>
+							<unittitle>Diary - trips around the world, Siberia, Philippines, England, France, Germany, Panama, Egypt, Palestine, Mexico, </unittitle>
+							<unitdate>1895-1909</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 188.1674</container>
+							<unittitle>Diary, trip to Germany, study of denatured alcohol, </unittitle>
+							<unitdate>1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 198.1700</container>
+							<unittitle>Scrapbook, bills introduced by Hon. Ebenezer J. Hill, </unittitle>
+							<unitdate>1907</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 198.1701</container>
+							<unittitle>Scrapbook, political press clippings, </unittitle>
+							<unitdate>1896</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 198 - 200</container>
+							<unittitle>Scrapbooks, political; contains correspondence, press clippings, </unittitle>
+							<unitdate>1896 -1914</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1702</container>
+							<unittitle>List of books once held in the library of Ebenezer Hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1703</container>
+							<unittitle>Travel documents, invoices, </unittitle>
+							<unitdate>1904-1905</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Material</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 189.1675</container>
+							<unittitle>Invitations/announcements - Calling Cards, </unittitle>
+							<unitdate>1900-1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 189.1676</container>
+							<unittitle>Invitations/announcements - Colonial Dames, D.A.R., invitations to Mary Ellen Hill, </unittitle>
+							<unitdate>1905-1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 190.1677 - 190.1678</container>
+							<unittitle>Invitations/announcements - Commemorations, memorials, dedications, dinners, including McKinley inaugural materials, </unittitle>
+							<unitdate>1800-1909</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 190.1679</container>
+							<unittitle>Invitations/announcements - Diplomatic, </unittitle>
+							<unitdate>1912-1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 191.1680</container>
+							<unittitle>Invitations/announcements - General, </unittitle>
+							<unitdate>1899-1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 191.1681 - 193.1688</container>
+							<unittitle>Invitations/announcements - Taft, Presidential tour to Philippines &amp; Japan, programs, itineraries, ephemera, seating charts, postcards, menus, </unittitle>
+							<unitdate>1905-1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 194.1689</container>
+							<unittitle>Invitations/announcements - Weddings, incl. Aldrich-Rockefeller, Chase-Taft, Pres. Wilson, Roosevelt-Longworth, </unittitle>
+							<unitdate>1856-1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 194.169 - 196.1692</container>
+							<unittitle>Invitations/announcements - White House, </unittitle>
+							<unitdate>1897-1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 197.1693</container>
+							<unittitle>Letterhead</unittitle>
+							<unitdate></unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 197.1694</container>
+							<unittitle>Memorial addresses on life and character of Ebenezer Hill, </unittitle>
+							<unitdate>1919</unitdate>
+							<physdesc>(2 copies)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 197.1695 - 197.1699</container>
+							<unittitle>Press clippings, including account of the assassination of President Lincoln, New Haven Journal, </unittitle>
+							<unitdate>1865-1917</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1704</container>
+							<unittitle>A Tribute to the Memory of Senator Orville Platt</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1705</container>
+							<unittitle>A Trip Through Siberia, The National Geographic Magazine, </unittitle>
+							<unitdate>1902</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1706</container>
+							<unittitle>Government by Consent of the Governed, </unittitle>
+							<unitdate>1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1707</container>
+							<unittitle>Industrial Future of New England; speech, Republican State Convention, </unittitle>
+							<unitdate>1907-1910</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1708</container>
+							<unittitle>Philippine Islands, speech synopsis</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 201.1709 - 201.1710</container>
+							<unittitle>Republican Record &amp; Achievement, ms draft, </unittitle>
+							<unitdate>1907</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1711</container>
+							<unittitle>Tariff, Wages &amp; Living, </unittitle>
+							<unitdate>1894</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1712</container>
+							<unittitle>The Gold Standard Imperiled</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1713</container>
+							<unittitle>The Tariff/The Philippines/"as a son of the neighboring town of Redding...," </unittitle>
+							<unitdate>1904</unitdate>
+							<physdesc>(3 typescripts)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 201.1714</container>
+							<unittitle>Untitled (New Milford, Bridgewater, CT)</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>SERIES V. MARY MOSMAN HILL</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folders 202.1715 - 202.1720</container>
+							<unittitle>EMH to Mary Mosman Hill, </unittitle>
+							<unitdate>1900-1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 202.1721</container>
+							<unittitle>Letters to MMH, </unittitle>
+							<unitdate>1890-1913</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 203.1722 - 203.1723</container>
+							<unittitle>Letters from MMH to children, includes letters from Clara Hill to Elsie Hill, </unittitle>
+							<unitdate>1899-1907</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 204.1724</container>
+							<unittitle>Certificates - Israel Putman Community Campground Commission, </unittitle>
+							<unitdate>1913-1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 204.1725</container>
+							<unittitle>Diaries, Congressional Directories, </unittitle>
+							<unitdate>1897-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 204.1726</container>
+							<unittitle>Diaries, Investments and Income, </unittitle>
+							<unitdate>1946-1952</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 204.1727</container>
+							<unittitle>Diaries, Norwalk Women's Club, European travels, </unittitle>
+							<unitdate>1838-1898</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 205.1728</container>
+							<unittitle>Emily R. Mossman, poem, </unittitle>
+							<unitdate>1839</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 206</container>
+							<unittitle>Genealogy index cards, </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 205.1729</container>
+							<unittitle>Musical programs, itineraries, </unittitle>
+							<unitdate>1894-1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 205.1730</container>
+							<unittitle>Photographs, Italy, Sicily, </unittitle>
+							<unitdate>1907-1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 205.1731</container>
+							<unittitle>Press clippings, </unittitle>
+							<unitdate>1894-1918</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 205.1732</container>
+							<unittitle>Composition Book, Hartford High school, incl. Amherst map, </unittitle>
+							<unitdate>1835-1852</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 205.1733</container>
+							<unittitle>Explanation of curiosities in possession of Mrs. E.J. Hill, Norwalk, CT</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 205.1734</container>
+							<unittitle>Taft Inaugural, printed material, </unittitle>
+							<unitdate>1909</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 207.1735</container>
+							<unittitle>An Old Connecticut Town, </unittitle>
+							<unitdate>1893</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 207.1736</container>
+							<unittitle>Europe's Changing Balance of Power</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 207.1737</container>
+							<unittitle>The Woman's Club, Norwalk, CT</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>SERIES VI. LESLIE HILL-LEVITT LATHAM</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Biographical</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1738</container>
+							<unittitle>School records and associated correspondence (Gunston Hall, Walnut Hill, Vassar), </unittitle>
+							<unitdate>1928-1942</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1739</container>
+							<unittitle>General, </unittitle>
+							<unitdate>1941-1971</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.174</container>
+							<unittitle>From Hill, Elsie M., </unittitle>
+							<unitdate>1952-1956</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1741</container>
+							<unittitle>From Leslie Hill Levitt Latham, </unittitle>
+							<unitdate>1939-1942</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1742</container>
+							<unittitle>From Levitt, Albert, </unittitle>
+							<unitdate>1928</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Printed Material</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1743</container>
+							<unittitle>Poetry Magazine, God's Dark Bedtime Verses, </unittitle>
+							<unitdate>1942-1943</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1744</container>
+							<unittitle>Programs, InterAmerican Conference, includes notes re Albert Levitt, </unittitle>
+							<unitdate>1936-1940</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subject Files</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1745</container>
+							<unittitle>Teaching materials, </unittitle>
+							<unitdate>1927-1945</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 208.1746</container>
+							<unittitle>Poetry, </unittitle>
+							<unitdate>ca. 1950-1959</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>SERIES VII. MIXED FAMILY MATERIAL</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>PHOTOGRAPHS</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1046</container>
+							<unittitle>Alice Paul, </unittitle>
+							<unitdate type="inclusive">[ca. 1914?]-1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1047</container>
+							<unittitle>Suffrage (individuals), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1048</container>
+							<unittitle>Suffrage (groups), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1049</container>
+							<unittitle>World Woman's Party and League of Nations, </unittitle>
+							<unitdate type="inclusive">1931-1939</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1050</container>
+							<unittitle>U.N. – related, </unittitle>
+							<unitdate type="inclusive">1951-1961, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1051</container>
+							<unittitle>Elsie M. Hill, </unittitle>
+							<unitdate type="inclusive">1900-1969, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1052</container>
+							<unittitle>Clara and Helena Hill, </unittitle>
+							<unitdate type="inclusive">1890-1933, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1053</container>
+							<unittitle>Elsie Hill-Levitt, </unittitle>
+							<unitdate type="inclusive">1925-1938</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1068</container>
+							<unittitle>Elsie Hill Levitt, </unittitle>
+							<unitdate type="inclusive">1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1054</container>
+							<unittitle>Albert Levitt, </unittitle>
+							<unitdate type="inclusive">1914-1958</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 114.1065 - 114.1065.1</container>
+							<unittitle>Albert Levitt, </unittitle>
+							<unitdate type="inclusive">1914-1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1066</container>
+							<unittitle>Ebenezer Hill, includes picture book of proposed Panama Pacific International Exposition, </unittitle>
+							<unitdate type="inclusive">1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1067</container>
+							<unittitle>Ebenezer Hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 216.1770</container>
+							<unittitle>Mary Mosman Hill</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 216.1766 - 216.1768</container>
+							<unittitle>Clara Hill, Mexico travels</unittitle>
+							<physdesc>(includes negatives and prints)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1055</container>
+							<unittitle>Miscellaneous Hill family members, </unittitle>
+							<unitdate type="inclusive">1936-1970</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 216.1769</container>
+							<unittitle>Miscellaneous Hill family members, </unittitle>
+							<unitdate type="inclusive">1903-1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1056</container>
+							<unittitle>Miscellaneous people and places, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1057</container>
+							<unittitle>The Rock Lot [home of EMH], </unittitle>
+							<unitdate type="inclusive">1921-1923</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1058</container>
+							<unittitle>Trip taken by EMH to Bras d'Or Lake, Cape Breton Island, </unittitle>
+							<unitdate type="inclusive">1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1059</container>
+							<unittitle>Trip taken by EMH to Sierra Mountains with Cary Fink, </unittitle>
+							<unitdate type="inclusive">1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1060</container>
+							<unittitle>Flight taken by EMH from New York to Moscow, </unittitle>
+							<unitdate type="inclusive">1968</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1061</container>
+							<unittitle>EMH at Vassar College, </unittitle>
+							<unitdate type="inclusive">ca. 1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1062</container>
+							<unittitle>EMH's walking club of Rome, </unittitle>
+							<unitdate type="inclusive">1907-1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1063</container>
+							<unittitle>Joel Barlow – related, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 114.1064</container>
+							<unittitle>Lockwood - Matthews Mansion and family cemetery plot, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>MISCELLANEOUS</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 211</container>
+							<unittitle>Hill, Elsie, audio tapes, cassettes, reel to reel, </unittitle>
+							<unitdate>1964, 1968, 1970</unitdate>
+							<physdesc>(9 items)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 214.1753</container>
+							<unittitle>Hill, Elsie, record album, 33 1/3, Elsie Hill, Women and the US Constitution, </unittitle>
+							<unitdate>1951</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 209.1747</container>
+							<unittitle>Hill, Frederick, letter of credit, copy of letter to President McKinley, </unittitle>
+							<unitdate>1898-1909</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 209.1748</container>
+							<unittitle>Hill, Helena, correspondence to/from, </unittitle>
+							<unitdate>1907</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 209.1749 - 209.1750</container>
+							<unittitle>Hill, Moses, Sermon drafts, </unittitle>
+							<unitdate>ca 1820-1839</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 209.1751</container>
+							<unittitle>Hill, Moses US citizenship certification, correspondence, </unittitle>
+							<unitdate>1866-1890</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 209.1752</container>
+							<unittitle>How, Mossman Marriage Certificates, Mossman, Rice Death Certificates, </unittitle>
+							<unitdate>1711-1886</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 212</container>
+							<unittitle>Books - The Soul of the Bible (1914); John Knox and His House (1905), My Galahad of the Trenches (1918), The Story of the Woman's Party (1921), Problems and Quiz, Criminal Law (1894), </unittitle>
+							<unitdate>1894-1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 213</container>
+							<unittitle>Artifacts/Ephemera, items from Ebenezer Hill's 1905 Presidential (Taft) tour to Philippines and Japan. Checkered silk sashes, embroidery, Pacific Mail Steamship Co. picture book, </unittitle>
+							<unitdate>1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 214</container>
+							<unittitle>Artifacts/Ephemera, items from Ebenezer Hill's 1905 Presidential (Taft) tour to Philippines &amp; Japan. Kimono, hand fans (5), Japanese &amp; US flags, embroidery, </unittitle>
+							<unitdate>1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 215</container>
+							<unittitle>Artifacts/Ephemera, items from Ebenezer Hill's 1905 Presidential (Taft) tour to Philippines &amp; Japan. Embroidered box containing small lacquer boxes, </unittitle>
+							<unitdate>1905</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>SERIES VIII. MISCELLANEOUS MATERIALS</unittitle>
+				</did>
+				<c02 level="subgrp">
+					<did>
+						<container>Box 115</container>
+						<unittitle>Postcard Collection [collected by EMH?]: Cards from: Belgium, California, Colorado, Connecticut, England, Florida, France, Italy, Massachusetts, New Hampshire, South Carolina, Washington, D. C., Yosemite National Park, and miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="subgrp">
+					<did>
+						<container>Boxes 116-119</container>
+						<unittitle>Miscellaneous deteriorated original materials</unittitle>
+						<physdesc>(146 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 210</container>
+						<unittitle>Road maps, New Jersey, New England, Virginia, Europe</unittitle>
+						<unitdate></unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 214.1754</container>
+						<unittitle>Certificate, James Anderson, NY State Artillery, </unittitle>
+						<unitdate>1845</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 214.1755</container>
+						<unittitle>Print - "Inez Milholland Boissevain, Who Died for the Freedom of Women," </unittitle>
+						<unitdate>circa 1923</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 215.1756</container>
+						<unittitle>Washing Irving letter, </unittitle>
+						<unitdate>1852</unitdate>
+						<physdesc>(ALS and engraving)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 215.1757</container>
+						<unittitle>Warrant sent to John Robinson, Lieutenant of the Tower of London, for the imprisonment of John Davies, </unittitle>
+						<unitdate>20 December 1662</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 215.1758</container>
+						<unittitle>Photographic print and signed note, John Tryndall, </unittitle>
+						<unitdate>1882</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 217.1759 (Oversize)</container>
+						<unittitle>Sections of the [New York] Sun, regarding the death of President McKinley and the Moore Treaty with Colombia, </unittitle>
+						<unitdate>1901, 1916</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 217.1760 (Oversize)</container>
+						<unittitle>Map of the Philippines, </unittitle>
+						<unitdate>1903</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 217.1761 (Oversize)</container>
+						<unittitle>Print, "Commission Granted to Mr. Tristram Coffin, to be Chief Magistrate in and over the Islands Nantuckett and Tuckanuckett," </unittitle>
+						<unitdate>1872</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 217.1762 (Oversize)</container>
+						<unittitle>Letter, M. Ban, Second Senior Secretary of the Dept. of Education, and Chief of General Affairs, Japan. Includes engraving titled "In the Collection of Sir Thomas Hanmer Bar," </unittitle>
+						<unitdate>1883</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 217.1763 (Oversize)</container>
+						<unittitle>Land grant, Thomas Jefferson, "An Act regulating the grants of land appropriated for Military Services..." Signed by Thomas Jefferson, </unittitle>
+						<unitdate>1805</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 217.1764 (Oversize)</container>
+						<unittitle>Certificate, appointment of Martin Vosburgh, Regiment of Militia in the County of Dutchess, signed by Jasper Hopper, </unittitle>
+						<unitdate>1798</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 217.1765 (Oversize)</container>
+						<unittitle>"Little Eva Song - Uncle Tom's Guardian Angel"</unittitle>
+						<unitdate>1852</unitdate>
+						<physdesc>(print on textile)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_parkhurst_boarding_school
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Hannah M. Parkhurst’s Boarding School Records, 1863-1869</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>July 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname> Hannah M. Parkhurst's Boarding and Day School (Newburgh, N.Y.)</corpname></origination>
+			<unittitle label="Title:" encodinganalog="245"> Hannah M. Parkhurst’s Boarding School Records</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1863-1869 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 0.5 cubic feet (1 box)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Journals kept by Lucy Skeel, 1864, Fannie Denniston, 1865, and Ella Weed, 1868-1869, while attending the school. Denniston's journal also reports on a boat trip to Poughkeepsie and a visit to Vassar College grounds. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Hannah M. Parkhurst’s Boarding and Day School for Young Ladies was one of many private schools in nineteenth-century Newburgh, NY, and is listed in city directories for the 1860s. An advertisement in the 1864-65 directory mentions that, "Miss Parkhurst has had seven years of successful experience in the care of Boarding School in the State, besides several years of teaching in the best schools in Massachusetts." Nothing further is known of Miss Parkhurst or the school; it did not appear in the directories after 1869.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Journals of Lucy Skeel, Fannie Denniston, and Ella Weed kept while they were students at Miss Parkhurst’s School in 1864, 1865, and 1868-1869. Lucy Skeel and Ella Weed subsequently graduated from Vassar in 1873. Fannie Denniston’s journal reports on a school boat trip to Poughkeepsie May 28, 1865, which included a visit to the Vassar campus with a tour of the grounds by Matthew Vassar.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Skeel, Lucy</persname>
+				<persname source="lcnaf" encodinganalog="600"> Denniston, Fannie</persname>
+				<persname source="lcnaf" encodinganalog="600"> Weed, Ella, 1853-1894</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Description</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Boarding schools--New York (State)--Newburgh</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Education</subject>
+				<subject source="lcsh" encodinganalog="650"> Boats and boating--New York (State)--Hudson River</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Diaries</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> Poughkeepsie (N.Y.)--Description</geogname>
+				<geogname source="lcnaf" encodinganalog="651"> Hudson River (N.Y. and N.J.)--Description and travel</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Diaries</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Education </subject>
+				<subject source="local" encodinganalog="690"> Local History </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, July 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Updated January 2007.</p>
+		</processinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Hannah M. Parkhurst's Boarding School Newburgh, NY Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Container List</head>
+			<p>There is no container list currently available for this collection.</p>
+		</dsc>
+	</archdesc>
+</ead>

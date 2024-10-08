@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_middleton_robert
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Robert E. Middleton Papers, 1939-1954</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>Jan 2007</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>5 Feb 2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Middleton, Robert, 1920-</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Robert E. Middleton Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1939-1954</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.75 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, photographs and miscellaneous papers from Robert E. Middleton, VC Professor of Music 1953-1985.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Born 18 Nov 1920 in Diamond, Ohio, Robert E. Middleton was a composer, performing artist and instructor. Educated at Harvard, Middleton began teaching music at Vassar College in 1953, after spending three years as an instructor at Harvard. <emph render="italic">Command Performance</emph>, Middleton's full-length opera was commissioned by the Vassar College Centennial Committee and had its premiere at Vassar College on 11 Nov 1961. In 1974, Middleton was appointed the George Sherman Dickinson Chair of the Music Department. He retired on 30 June 1985.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>18 Nov 1920</date>
+					<event>Born in Diamond, Ohio</event>
+				</chronitem>
+				<chronitem>
+					<date>Sept 1942-Jan 1946</date>
+					<event>Military Service, U.S. Army</event>
+				</chronitem>
+				<chronitem>
+					<date>1948</date>
+					<event>B.A., Harvard University</event>
+				</chronitem>
+				<chronitem>
+					<date>1953</date>
+					<event>Appointed Assistant Professor, Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1954</date>
+					<event>M.A., Harvard University</event>
+				</chronitem>
+				<chronitem>
+					<date>1958</date>
+					<event>Appointed Associate Professor, Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1965</date>
+					<event>Awarded Guggenheim Fellowship in Musical Composition</event>
+				</chronitem>
+				<chronitem>
+					<date>1966</date>
+					<event>Appointed Full Professor, Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1974</date>
+					<event>Appointed George Sherman Dickinson Professor, Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>30 June 1985</date>
+					<event>Retired from Vassar College</event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Robert E. Middleton collection contains correspondence, notes, postcards and 2 scores.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the regulations of the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> Vassar College Archives and Special Collections Library without any additional restrictions.</archref></p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="700">Boulanger, Nadia</persname>
+				<persname source="lcnaf" encodinganalog="700">Chanler, Theodore, 1902-1961</persname>
+				<persname encodinganalog="700">Chauncey, Henry</persname>
+				<persname source="lcnaf" encodinganalog="700">Copland, Aaron, 1900-1990</persname>
+				<persname source="lcnaf" encodinganalog="700">Dallapiccola, Luigi, 1904-1975</persname>
+				<persname source="lcnaf" encodinganalog="700">Palmer, Robert, 1915-</persname>
+				<persname source="lcnaf" encodinganalog="700">Piston, Walter, 1894-1976</persname>
+				<persname source="lcnaf" encodinganalog="700">Slonimsky, Nicolas, 1894-1995</persname>
+				<persname source="lcnaf" encodinganalog="700">Szigeti, Joseph, 1892-1973</persname>
+				<persname source="lcnaf" encodinganalog="700">Thompson, Randall, 1899-1984</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Composers</subject>
+				<subject source="lcsh" encodinganalog="650">Pianists</subject>
+				<subject source="lcsh" encodinganalog="650">Musicians</subject>
+				<subject source="lcsh" encodinganalog="650">Opera--United States--20th century</subject>
+				<subject source="lcsh" encodinganalog="650">College teachers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Postcards</genreform>
+				<genreform source="aat" encodinganalog="655">Scores (documents for music)</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Music </subject>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, 12 Feb 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Laura Streett, 2005. Updated in 2017. </p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Robert E. Middleton, 1992. 1950 score donated by the Paddock Music Library, Dartmouth College, 2016.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Robert E. Middleton Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<appraisal encodinganalog="583">
+			<head>Appraisal</head>
+			<p>The Robert E. Middleton Papers were appraised by Wurlitzer-Bruck, 60 Riverside Dr., New York, New York 10024, 1 July 1992.</p>
+		</appraisal>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container> 1.1 </container>
+					<unittitle> "Approximations for Viola and Piano" by Robert Middleton </unittitle>
+					<unitdate type="inclusive"> 1970 </unitdate>
+					<physdesc>
+						<extent>(1 score)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.1b </container>
+					<unittitle> Boulanger, Nadia, </unittitle>
+					<unitdate type="inclusive"> 1939-1946 </unitdate>
+					<physdesc>
+						<extent>(14 notes and letters from N.B.; 1 letter from Henry Chauncey, Harvard University)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.2 </container>
+					<unittitle> Boulanger, Nadia, </unittitle>
+					<unitdate type="inclusive"> 1952-1958 </unitdate>
+					<physdesc>
+						<extent>(18 notes and letters; 2 postcards</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.3 </container>
+					<unittitle> Boulanger, Nadia, </unittitle>
+					<unitdate type="inclusive"> circa 1960-1969 </unitdate>
+					<physdesc>
+						<extent>(11 notes and letters; 2 photographs) </extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.4 </container>
+					<unittitle> Boulanger, Nadia, </unittitle>
+					<unitdate type="inclusive"> 1970-1979 </unitdate>
+					<physdesc>
+						<extent>(12 notes and letters)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.5 </container>
+					<unittitle> Chanler, Theodore, </unittitle>
+					<unitdate type="inclusive"> 1947 </unitdate>
+					<physdesc>
+						<extent>(2 letters)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.6 </container>
+					<unittitle> Chanler, Theodore — Score of <emph render="italic">Second Joyful Mystery</emph>,</unittitle>
+					<unitdate type="inclusive"> circa 1947 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.6b </container>
+					<unittitle> "Command Performance : opera in four acts"</unittitle>
+					<unitdate type="inclusive"> approximately 1960 </unitdate>
+					<physdesc>(typescript)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.6c </container>
+					<unittitle> "The Complete Libretto of <emph render="italic">Command Performance</emph>" by Robert Middleton and Harold Smith</unittitle>
+					<unitdate type="inclusive"> 1961 </unitdate>
+					<physdesc>(program for permier performance laid in)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.7 </container>
+					<unittitle> Copland, Aaron, </unittitle>
+					<unitdate type="inclusive"> 1964, 1969 </unitdate>
+					<physdesc>
+						<extent>(4 letters)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.8 </container>
+					<unittitle> Dallapiccola, Luigi, </unittitle>
+					<unitdate type="inclusive"> 1953-1958 </unitdate>
+					<physdesc>
+						<extent>(6 letters)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.8b </container>
+					<unittitle> "Organ Preludes" by Robert Middleton</unittitle>
+					<unitdate type="inclusive"> 1979 </unitdate>
+					<physdesc>
+						<extent>(1 score)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.9 </container>
+					<unittitle> Palmer, Robert, </unittitle>
+					<unitdate type="inclusive"> 1965 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.10 </container>
+					<unittitle> Piston, Walter, </unittitle>
+					<unitdate type="inclusive"> 1957-1966 </unitdate>
+					<physdesc>
+						<extent>(12 letters; 1 postcard)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.11 </container>
+					<unittitle> Slonimsky, Nicolas, </unittitle>
+					<unitdate type="inclusive"> 1958 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.12 </container>
+					<unittitle> Szigeti, Joseph, </unittitle>
+					<unitdate type="inclusive"> 1956-1958 </unitdate>
+					<physdesc>
+						<extent>(3 letters from Szigeti; 1 carbon from Middleton; 1 program)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.13 </container>
+					<unittitle> Thompson, Randall, </unittitle>
+					<unitdate type="inclusive"> 1958, 1964 </unitdate>
+					<physdesc>
+						<extent>(2 letters; 1 postcard)</extent>
+					</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Box 2 </container>
+					<unittitle> "String Quartet" by Robert Middleton </unittitle>
+					<unitdate type="inclusive"> 1950</unitdate>
+					<physdesc>
+						<extent>(1 score)</extent>
+					</physdesc>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

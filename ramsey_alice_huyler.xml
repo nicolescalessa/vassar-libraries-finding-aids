@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_ramsey_alice_huyler
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Alice Huyler Ramsey Papers, 1905-1989</titleproper>
+				<author>Inventory prepared by Jessica Kemm</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>November 2009</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jessica Kemm <date>October 2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Ramsey, Alice</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Alice Huyler Ramsey Papers </unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1905-1989 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 1.1 cubic feet (4 boxes) </physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Scrapbook and printed materials about Alice Huyler Ramsey's automobile trip across the United States in 1909. Also correspondence from Alice Huyler Bruns, research notes, and manuscripts of unpublished book about the trip by Earluth Abbitt. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Alice Huyler Ramsey (VC ex 1907) was the first woman to drive across the United States, a feat accomplished in 1909. </p>
+			<p>Alice Ramsey was born in Hackensack, New Jersey on November 11, 1886, the daughter of John Edwin Huyler and Ada Farr Huyler. Her father was a coal dealer and captain of a steam launch who encouraged his daughter's interest in machines. Although she entered Vassar College in 1903, she left after only two years to marry John Rathbone Ramsey (1862-1933). Her attorney husband was the Clerk of Bergen County when they married and later served in the U.S. Congress (1917-1921). Their son, John Rathbone Ramsey, Jr. (1907-2000), graduated from Princeton University and attended Harvard Law School. After receiving his theological degree from the General Theological Seminary, he served as an Episcopal priest for more than 67 years. Their daughter, Alice Valleau Huyler Bruns (1910- ), was a member of the Vassar College class of 1931. </p>
+			<p>Ramsey’s husband bought her a car in the spring of 1908 after carriage horses bolted on her. The new automobile seemed safer. During her first summer behind the wheel, she drove 6,000 miles, mostly exploring roads in New Jersey. After an "endurance run" on Long Island to Montauk, she was approached by Carl Kelsey, then Sales Manager of the Maxwell-Briscoe [Automobile] Company to consider a cross country journey. The trip had recently been made by men, but no woman had made the trip. </p>
+			<p>On June, 1909, she set out from New York City with her husbands sisters Margaret Atwood and Nettie Powell, and friend Hermine Jahns. Ramsey was the only one of the four who could drive. With advance man John D. Murphy traveling ahead to publicize the trip and arrange for Maxwell-Briscoe agents to have tires, parts and mechanics available, they drew curious crowds and dealt with harsh driving conditions where few roads were paved. Their 3,800, 50-day journey took them across New York to Chicago and then through Nebraska, Wyoming, Utah, and Nevada to San Francisco. The trip included 11 spare tires, a broken axle, rain, mud, desert, prairie dog holes and a road block of policemen searching for a murderer. Traveling across Wyoming, they followed wagon trails that disappeared so often, they had to follow local cars whose drivers could lead them to their destination. </p>
+			<p>After her journey, she returned to New Jersey to her husband and young son. Subsequently, she made at least 30 more cross-country trips, including a 1919 journey with her son and daughter, friend, and another child. After her husband's death, she moved to Ridgewood, New Jersey, and in 1954 to Covina, California.</p>
+			<p>The 50th anniversary of Ramsey's trip brought a revival of interest in her accomplishment. She was honored as "Woman Motorist of the Century" at the 1960 Automobile Show in Detroit. She published <emph render="italic">Veil, Duster and Tire Iron </emph> in 1961. It was annotated and republished in 2005. In 2000, she became the first woman to be inducted into the Automotive Hall of Fame. </p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem>
+					<date>1886 </date>
+					<event>Born in Hackenensack, New Jersey</event>
+				</chronitem>
+				<chronitem>
+					<date>1903-1905</date>
+					<event>Attended Vassar College</event>
+				</chronitem>
+				<chronitem>
+					<date>1906</date>
+					<event>Married John Rathbone Ramsey</event>
+				</chronitem>
+				<chronitem>
+					<date>1907</date>
+					<event>Son John Rathbone Ramsey, Jr. born</event>
+				</chronitem>
+				<chronitem>
+					<date>1908</date>
+					<event> Montauk Run</event>
+				</chronitem>
+				<chronitem>
+					<date>1909</date>
+					<event>Transcontinental Trip</event>
+				</chronitem>
+				<chronitem>
+					<date>1910</date>
+					<event> Daughter Alice Ramsey (Bruns) born</event>
+				</chronitem>
+				<chronitem>
+					<date>1933</date>
+					<event>Husband John Ramsey died</event>
+				</chronitem>
+				<chronitem>
+					<date>1960</date>
+					<event>Honored at the Detroit Automobile Show </event>
+				</chronitem>
+				<chronitem>
+					<date>1961</date>
+					<event> Published <emph render="italic">Veil Duster and Tire Iron</emph>. </event>
+				</chronitem>
+				<chronitem>
+					<date>1983</date>
+					<event>Died in Covina, California</event>
+				</chronitem>
+				<chronitem>
+					<date>2000</date>
+					<event>First woman inducted into Automotive Hall of Fame </event>
+				</chronitem>
+				<chronitem>
+					<date>2005</date>
+					<event><emph render="italic">Veil, Duster, and Tire Iron </emph>republished as <emph render="italic">Alice's Drive</emph>. Annotated by Gregory M. Franzwa </event>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p> The Alice Huyler Ramsey Collection focuses on Ramsey's early life and her groundbreaking automobile trip across the United States in 1909. The most significant materials include a scrapbook of photographs chronically the journey and notes Ramsey made for Earluth Abbitt who wrote two unpublished manuscripts for children's books about the trip. Draft manuscripts of Abbitt's works are also included. Clippings and magazine articles and a taped interview describe the trip and Ramsey's life.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>This collection is open for research according to the regulations of the Vassar College Archives and Special Collections Library without any additional restrictions. </p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Another scrapbook recording Huyler's transcontinental trip is located in the Detroit Public Library. Additional research material gathered by Earluth Abbitt, including an interview of Huyler by Charles Kuralt is at the Texas Woman's University Libraries. </p>
+			<p> Ramsey published an account of her transcontinental journey, <emph render="italic">Veil, Duster and Tire Iron </emph> (Covina, CA: The Castle Press, 1961). It was republished as <emph render="italic"> Alice's drive : republishing veil, duster, and tire iron </emph> (Tucson, AZ: Patrice Press) in 2005. Books about Huyler's trip include: Don Brown's <emph render="italic">Alice Ramsey's Grand Adventure. </emph> (Boston: Houghton Mifflin, 1997) and Patricia Rusch Hyatt's <emph render="italic">Coast to Coast with Alice </emph> (Minneapolis: Carolrhoda,, 1995). </p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="700"> Abbitt, Earluth Epting</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Automobile travel--United States--History</subject>
+				<subject source="lcsh" encodinganalog="650"> Women travelers</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Alumni and alumnae</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651"> United States--Description and travel</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Travel </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Jessica Kemm, October 2009</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Jessica Kemm, October 2009</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Box 1 was received from Alice Ramsey Bruns VC 1931, daughter of Alice Huyler Ramsey. </p>
+			<p>Boxes 2-4 were received from Travis DuPriest, nephew of Earluth Abbitt, in 1990. </p>
+		</acqinfo>
+		<phystech>
+			<head>Physical Characteristics and Technical Requirements</head>
+			<p>The audiotaped interview of Ramsey requires special arrangements. Please contact the Archives and Special Collections Library staff for more information. </p>
+		</phystech>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Alice Huyler Ramsey Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p> Material donated by Ramsey's daughter is in Box 1. Materials gathered by Eurluth Abbitt and donated by Travis DuPriest are in Boxes 2-5.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Bruns Accession</unittitle>
+				</did>
+				<scopecontent>
+					<p>The Bruns accession includes a photograph album that documents Ramsey's transcontinental trip in 1909, as well as clippings, an audiotape, and other material. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II. </ref> DuPriest accession </unittitle>
+				</did>
+				<scopecontent>
+					<p> The DuPriest accession consists of materials compiled by Earluth Abbot in her efforts to write a book about Ramsey's journey. The book was never completed, but Abbott did write several drafts of various chapters, which are included in this series along with her notes and other research materials. There are also photographs sent by Ramsey to Abbitt, correspondence, artwork for the book cover, and a treatment for television by Howard George and Morton Lewis. </p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I: Bruns Accession</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> Box 1</container>
+						<unittitle> Photograph album of transcontinental trip,</unittitle>
+						<unitdate>1909 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.1</container>
+						<unittitle> Loose items removed from photo album </unittitle>
+						<physdesc>[clippings, etc.]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.2 </container>
+						<unittitle> Photograph of Detroit Award, </unittitle>
+						<unitdate> 1960 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> Miscellaneous correspondence to Alice Ramsey Bruns, </unittitle>
+						<unitdate> 1971-1983 </unitdate>
+						<physdesc>[3 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folders 1.4 - 1.5 </container>
+						<unittitle> Clippings and magazines </unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container> Box 1 </container>
+						<unittitle> Audiotape of Interview - J. Gambling and Alice Huyler Ramsey, </unittitle>
+						<unitdate>25 Aug 1970</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II: Dupriest Accession </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Correspondence</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.23</container>
+							<unittitle> Ramsey, Alice Huyler to Earluth Abbitt, </unittitle>
+							<unitdate> 1977-1983 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.24 </container>
+							<unittitle> Bruns, Alice Ramsey, </unittitle>
+							<unitdate> 1983 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.25 </container>
+							<unittitle> Elliott, Elizabeth, </unittitle>
+							<unitdate> ca. 1983-1989 </unitdate>
+							<physdesc>[photocopies]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.26 </container>
+							<unittitle> Abbitt, Earluth, </unittitle>
+							<unitdate> [1990?] </unitdate>
+							<physdesc>[draft]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Photographs </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.4</container>
+							<unittitle> VC 1907's Daisy Chain, </unittitle>
+							<unitdate>1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.5</container>
+							<unittitle> Wedding Portrait, </unittitle>
+							<unitdate> 1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.6</container>
+							<unittitle> AHR in her first car,</unittitle>
+							<unitdate> 1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.7</container>
+							<unittitle> AHR, Sennell Ford, and Lorrey Fort fixing a flat on her first car,</unittitle>
+							<unitdate> 1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.8</container>
+							<unittitle> Run to Montauk Point, </unittitle>
+							<unitdate> 1908 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.2 </container>
+							<unittitle> AHR and friends in car, </unittitle>
+							<unitdate> 1909 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.22</container>
+							<unittitle> List of photos sent by AHR to Abbitt documenting the transcontinental trip </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folders 2.9 - 2.21</container>
+							<unittitle> Photos sent by AHR to Abbitt documenting the transcontinental trip, </unittitle>
+							<unitdate> 1908-1909 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.3 </container>
+							<unittitle> AHR and her homes, </unittitle>
+							<unitdate> 1977</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Research Materials </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 3.1</container>
+							<unittitle> Book proposal </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 3.2 </container>
+							<unittitle> Manuscripts, book proposal </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folders 3.3 - 3.9</container>
+							<unittitle> Manuscripts, clippings and notes </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folders 4.1 - 4.9</container>
+							<unittitle> Manuscripts, clippings and notes </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.10</container>
+							<unittitle> Artwork for cover design</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.27</container>
+							<unittitle> Clippings and magazines</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> Folder 2.1</container>
+							<unittitle>"A Dictionary for Tired People" - pamphlet</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Adaptations </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> Folder 4.11 </container>
+							<unittitle> George/Lewis treatment n Lewis. </unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

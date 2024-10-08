@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_mchenry_bannon</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Bannon McHenry-James Merrill Collection, circa 1971-2001</titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>January 2020</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl, <date>January 2020</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100"><persname>McHenry, Bannon</persname></origination>
+			<unittitle label="Title:" encodinganalog="245">Bannon McHenry-James Merrill Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">circa 1971-2001</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.6 cubic feet (1 box, 3 oversize portfolios)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a"><corpname>Archives and Special Collections Library, Vassar College Libraries</corpname></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The Bannon McHenry-James Merrill
+				Collection contains materials pertaining to poet James Merrill, collected by his
+				friend and neighbor, Bannon McHenry (VC 1952). The collection contains
+				correspondence, ephemera, photographs, printed material, and writings of James
+				Merrill.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>James Merrill was recognized as one of the leading poets of his generation. Born in
+				1926 in New York City, Merrill won nearly every major literary award in America: two
+				National Book Awards, one for <emph render="italic">Nights and Days</emph> (1966), and
+				one for <emph render="italic">Mirabell: Books of Numbers</emph> (1978); the National
+				Book Critics Circle Award for his Ouija-inspired long poem <emph render="italic">The
+					Changing Light at Sandover</emph> (1982); and the inaugural Bobbitt National
+				Prize for Poetry by the Library of Congress for <emph render="italic">The Inner
+					Room</emph> (1988). He also received both the Bollingen Prize in Poetry and the
+				Pulitzer Prize for <emph render="italic">Divine Comedies</emph> (1976). James Merrill
+				died of a heart attack related to AIDS in 1995 while vacationing in Tucson,
+				Arizona.</p>
+			<p>Bannon McHenry was born in Baltimore in 1930. She attended the Bryn Mawr School and
+				then Vassar College, graduating from the latter institution in 1952. Bannon
+				McHenry’s intellectual interests focused on art, and she pursued a career as an art
+				historian, teacher, and journalist based in New York. For many years McHenry lived
+				at 164 East 72nd Street, the same building as James Merrill, who had inherited an
+				apartment in the building from his grandmother. McHenry and Merrill became friends,
+				and McHenry collected materials relating to Merrill’s life and work. Merrill gave
+				several of his publications to McHenry, many containing inscriptions to her.
+				McHenry acquired other materials pertaining to Merrill from dealers, bookshops, or
+				other sources.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection includes correspondence, ephemera, photographs, printed material, and
+				writings of James Merrill collected by Merrill's friend and neighbor, Bannon
+				McHenry.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the regulations of the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">Vassar
+				College Archives and Special Collections Library</archref> without any additional
+					restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><extref href="https://vaslib.vassar.edu/search~S1?/dBannon+McHenry-James+Merrill+Collection/dbannon+mchenry+james+merrill+collection/-3,-1,0,B/browse /index.html"
+				show="new">See the Bannon McHenry-James Merrill Collection in Vassar’s Rare Book Collection for books included with this gift.</extref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Hagstrom, Jack</persname>
+				<persname source="lcnaf" encodinganalog="600">Hooten, Peter</persname>
+				<persname source="lcnaf" encodinganalog="600">Jackson, David, 1922-</persname>
+				<persname source="lcnaf" encodinganalog="600">Merrill, James, 1926-1995</persname>
+				<persname source="lcnaf" encodinganalog="600">Ray, Kevin</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Broadsides--United States--20th century</subject>
+				<subject source="lcsh" encodinganalog="650">Ouija boards</subject>
+				<subject source="lcsh" encodinganalog="650">American poetry--20th century</subject>
+				<subject source="lcsh" encodinganalog="650">American literature--20th
+					century</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<subject source="lcsh" encodinganalog="651">New York (N.Y.)</subject>
+				<subject source="lcsh" encodinganalog="651">Stonington (Conn.)</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Broadsides</genreform>
+				<genreform source="aat" encodinganalog="655">Ephemera</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, January 2019.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, September-October 2019.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Bannon McHenry (VC 1952), 2017.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Bannon McHenry-James Merrill Collection, Archives and Special Collections Library,
+				Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series1">Series I.</ref> Correspondence, </unittitle>
+					<unitdate>approximately 1980-2001</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series is divided into three subseries: Letters to Bannon McHenry,
+						Letters from James Merrill, and Letters to James Merrill. Correspondents
+						include Jack Hagstom, Peter Hooton, Robert Hughes, and Kevin Ray.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series2">Series II.</ref> Notes and Ephemera, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series consists of a recipe and other ephemera and handwritten
+						material.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series3">Series III.</ref> Photographs, </unittitle>
+					<unitdate>approximately 1971-2000</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series consists of publicity and portrait photographs of James Merrill,
+						as well as photos of James Merrill and David Jackson.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series4">Series IV.</ref> Printed Material, </unittitle>
+					<unitdate>approximately 1971-2000</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series consists of reviews, publicity materials, programs and other
+						printed matter pertaining to James Merrill's works and events in his
+						honor.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle><ref target="series5">Series V.</ref> Writings, </unittitle>
+					<unitdate>1981-1988</unitdate>
+				</did>
+				<scopecontent>
+					<p>This series consists of writing by James Merrill, including drafts and copies
+						with annotations by Merrill.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Correspondence</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters to Bannon McHenry</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>Hagstrom, Jack, </unittitle>
+							<unitdate>2001 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Hooten, Peter, </unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle>Hooten, Peter, </unittitle>
+							<unitdate>1999 Dec</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters from James Merrill</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.4</container>
+							<unittitle>to Hughes, Robert, </unittitle>
+							<unitdate>1980</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>to McHenry, Bannon, </unittitle>
+							<unitdate>approximately 1980</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>to McHenry, Bannon, </unittitle>
+							<unitdate>1988</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Letters to James Merrill</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.7</container>
+							<unittitle>Ray, Kevin, </unittitle>
+							<unitdate>1994 Sep 16</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.8</container>
+							<unittitle>Illustrated envelopes, </unittitle>
+							<unitdate>1991</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Notes and Ephemera</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.9</container>
+						<unittitle>Real estate flyer, 72nd Street duplex, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.10</container>
+						<unittitle>Recipe, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Photographs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.11</container>
+						<unittitle>James Merrill Memorial Service, Stonington, CT, </unittitle>
+						<unitdate>2000 Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.12</container>
+						<unittitle>James Merrill portrait, photograph of painting by Bruce Hafley, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.13</container>
+						<unittitle>James Merrill portrait, by Tom Victor, </unittitle>
+						<unitdate>1971</unitdate>
+						<physdesc>(signed by James Merrill)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.14</container>
+						<unittitle>James Merrill portrait, </unittitle>
+						<unitdate>approximately 1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.15</container>
+						<unittitle>James Merrill and David Jackson at Ouija Board, by Harrison
+							Pemberton, </unittitle>
+						<unitdate>1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.16</container>
+						<unittitle>James Merrill and Peter Hooten, </unittitle>
+						<unitdate>1985, 1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.17</container>
+						<unittitle>James Merrill publicity photograph, by Rollie McKenna, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.18</container>
+						<unittitle>Snapshots of James Merrill, bronze bust, </unittitle>
+						<unitdate>approximately 1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.19</container>
+						<unittitle>James Merrill at piano, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>Series IV. Printed Materials</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.20</container>
+						<unittitle>Blank postcards, printed with photographic images by James
+							Merrill, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.21</container>
+						<unittitle>Book review, <emph render="italic">The First Nine: Poems,
+								1946-1976</emph>, <emph render="italic">New Yorker</emph>, </unittitle>
+						<unitdate>1984 May 21</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>Book review, <emph render="italic">A Scattering of Salts</emph>,
+								<emph render="italic">New York Review of Books</emph>, </unittitle>
+						<unitdate>1995 May 11</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>Flyer, Academy of American Poets, at The Guggenheim Museum, James
+							Merrill reading, </unittitle>
+						<unitdate>1999 Dec 1</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.22</container>
+						<unittitle>Flyer, <emph render="italic">Voices from
+							Sandover</emph> publicity, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.23</container>
+						<unittitle>Invitation, The Academy of American Poets, <emph render="italic"
+								>Voices from Sandover</emph>, </unittitle>
+						<unitdate>1989 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.24</container>
+						<unittitle>Invitation, Marie Bullock Poetry Reading, New York University, </unittitle>
+						<unitdate>1992 Sep 30</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.25</container>
+						<unittitle>Invitation, National Arts Club, The Bait and the Image Maker, </unittitle>
+						<unitdate>1988 Nov 19</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26</container>
+						<unittitle>Invitation, Philip Taaffe, Rebecca Camhi Gallery, </unittitle>
+						<unitdate>1998 Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27</container>
+						<unittitle>Merrill Memorial, Amherst College, </unittitle>
+						<unitdate>2001 Apr 12</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>Merrill Memorial, Amherst College, </unittitle>
+						<unitdate>2004 Apr 32-24</unitdate>
+						<physdesc>(2 programs, 2 keepsakes, chronology)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.28</container>
+						<unittitle>Merrill Memorial, The New School, </unittitle>
+						<unitdate>2001 Apr 10</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29</container>
+						<unittitle>Merrill Memorial, New York Public Library, </unittitle>
+						<unitdate>1995 May 13</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.30</container>
+						<unittitle>Merrill Memorial, Stonington, CT, </unittitle>
+						<unitdate>1995 Feb</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31</container>
+						<unittitle>Merrill Memorial, Washington University, St. Louis, MO, </unittitle>
+						<unitdate>2001 Mar 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32</container>
+						<unittitle>Newsletter, <emph render="italic">Envoy</emph>, Academy of
+							American Poets, No. 51, </unittitle>
+						<unitdate>1988</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33</container>
+						<unittitle>Newsletter, <emph render="italic">Erato</emph>, Harvard College,
+							Spring, No. 4, </unittitle>
+						<unitdate>1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34</container>
+						<unittitle>Obituary, Harry Ford, <emph render="italic">New York
+							Times</emph>, Grolier Club memorial, program, </unittitle>
+						<unitdate>1999 Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35</container>
+						<unittitle>Obituary, James Merrill, <emph render="italic">New York
+								Times</emph>, </unittitle>
+						<unitdate>1995 Feb 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36</container>
+						<unittitle>Pamphlet, Manuscript Collection, Washington University Libraries, </unittitle>
+						<unitdate>2009 Feb 3</unitdate>
+						<physdesc>(with note from Jack Hagstrom)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Writings</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.47</container>
+						<unittitle>"164 East 72nd Street," </unittitle>
+						<unitdate>1988</unitdate>
+						<physdesc>(signed by James Merrill)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>"Fort Lauderdale," </unittitle>
+						<unitdate>1977</unitdate>
+						<physdesc><genreform>(handwritten broadside poem</genreform>, Folger Poetry
+							Broadside Series</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.48</container>
+						<unittitle>"The Metro," </unittitle>
+						<unitdate>1981 Nov 24</unitdate>
+						<physdesc>(draft with edits, initialed JM)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>"Palme," </unittitle>
+						<unitdate>1981 Nov 24</unitdate>
+						<physdesc><genreform>(proof</genreform>, James Merrill’s translation, with
+							hand drawn illustration and notation from Bannon McHenry)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.49</container>
+						<unittitle>"Popular Science Used to Claim…," </unittitle>
+						<unitdate>1988</unitdate>
+						<physdesc>(including note to Ted Danforth)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>"Processional," </unittitle>
+						<unitdate>1986-1987</unitdate>
+						<physdesc>(handwritten poem, written on sheet from The Folger Shakespeare
+							Library 1986-87 Evening Poetry Series)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>"Snapshot of Adam," </unittitle>
+						<unitdate>1984 Nov</unitdate>
+						<physdesc><genreform>(broadside poem</genreform>, hand numbered 6 of 60,
+							with large lithograph of seated male nude by Laurence Scott, signed by
+							James Merrill)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Portfolio</container>
+						<unittitle>"Trees Listening to Bach," </unittitle>
+						<unitdate>1984</unitdate>
+						<physdesc><genreform>(broadside poem</genreform>, illustration by Lawrence
+							Scott, one of 60 copies)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

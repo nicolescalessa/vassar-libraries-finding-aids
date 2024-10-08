@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_lockwood_helen</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Helen Drusilla Lockwood Papers, 1883-1971</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>December 2006</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100"><persname>Lockwood, Helen Drusilla, approximately 1891-1971</persname></origination>
+			<unittitle label="Title:" encodinganalog="245">Helen Drusilla Lockwood Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1883-1971</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">28 cubic feet (35 boxes, 1 roll)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a"><corpname>Archives and Special Collections Library, Vassar College Libraries</corpname></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, notes, manuscripts,
+				and diaries relating to Lockwood's life and work a professor of English at Vassar
+				College and her interests in euthenics, labor and the press.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Helen Lockwood was born May 8, 1891, in Clifton Springs, NY. Following the example of
+				her mother, Mary E. Lamson (VC 1890), she was graduated from Vassar in 1912. The
+				following fifteen years were spent in study, travel, and teaching. After earning a
+				doctorate in comparative literature from Columbia, she taught at Wellesley,
+				1925-1927, and at the Bryn Mawr School for Women Workers in Industry, 1921-1923. She
+				returned to Vassar in 1927, was made a full professor in 1936, and served as
+				chairman of the English department from 1950 until her retirement in 1956.</p>
+			<p>Helen Lockwood was an outstanding teacher and a challenging member of the faculty.
+				Her courses, whether on romantic poets or the contemporary press, were considered a
+				memorable part of a student's program. A supporter of interdisciplinary studies,
+				Helen Lockwood played a leading role in the American Culture and Today's Cities
+				programs; she also supported the euthenics program. Education, in her view, should
+				prepare the individual to act effectively in society, and she herself deeply
+				interested in the social and cultural life of the local community. Helen Lockwood
+				died in England in 1971, where she spent most summers and much of her retirement.
+				Her unrestricted gift to the college of more than six million dollars was one of the
+				largest in Vassar's history.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, notes, manuscripts, and diaries relating to Lockwood's life and work
+				a professor of English at Vassar College and her interests in euthenics, labor and
+				the press. Boxes 24A-24B contain letters from former students at the time of H.D.L’s
+				retirement. Note: Seven boxes of the Lockwood Collection are currently
+				unprocessed.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Clark, Eleanor, 1913-1996</persname>
+				<persname source="lcnaf" encodinganalog="600">Murray, Pauli, 1910-1985</persname>
+				<persname source="lcnaf" encodinganalog="600">Page, Elizabeth, 1889-1969</persname>
+				<persname source="lcnaf" encodinganalog="600">Robertson, Priscilla Smith</persname>
+				<persname source="lcnaf" encodinganalog="600">Sewell, Elizabeth, 1919-2001</persname>
+				<persname source="lcnaf" encodinganalog="600">Smith, Hilda Worthington</persname>
+				<persname source="lcnaf" encodinganalog="600">Ware, Caroline F. (Caroline Farrar), 1899-1990</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">English language--Study and teaching</subject>
+				<subject source="lcsh" encodinganalog="650">Euthenics</subject>
+				<subject source="lcsh" encodinganalog="650">Press</subject>
+				<subject source="lcsh" encodinganalog="650">Labor and laboring classes--Education</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, December 2006. Updated by Emma Gronbeck, March 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of the Estate of Helen Lockwood.</p>
+			<p>Additional material added in June 2009: 4 letters from Lockwood to Barbara Swain, now
+				in Box 3.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Helen Drusilla Lockwood Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is only partially processed. There is descriptive information for 29
+				of the 34 boxes. Also, it appears that the container list is not completely
+				accurate: although the material should be in the box indicated, it may not have the
+				same folder number.</p>
+		</arrangement>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.1</container>
+					<unittitle>Personal and biographical information relating to HDL and her family.
+						Includes correspondence, excerpts from Gladys Meyer Wolfe's diary, draft of
+						an article on HDL by Mary Alice White, notes about HDL collected by Barbara
+						Swain, a notebook, and 1945 daybook</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.2</container>
+					<unittitle>Photographs of HDL. Other photographs are in boxes 21-23</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.3</container>
+					<unittitle>Letters to William Lockwood from his mother, </unittitle>
+					<unitdate type="inclusive">1883-1885</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.4</container>
+					<unittitle>Mary Lamson Lockwood's letters while a student at Vassar, </unittitle>
+					<unitdate type="inclusive">1886-1888</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.5</container>
+					<unittitle>Miscellaneous letters to Mrs. William Lockwood</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.6</container>
+					<unittitle>Letters to HDL from her mother, </unittitle>
+					<unitdate type="inclusive">1909-1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.7</container>
+					<unittitle>Letters to HDL from her father, </unittitle>
+					<unitdate type="inclusive">1908-1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.8</container>
+					<unittitle>Miscellaneous letters to HDL while a student at Vassar, </unittitle>
+					<unitdate type="inclusive">1908-1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 1.9-1.10</container>
+					<unittitle>Letters to HDL from mother and family, </unittitle>
+					<unitdate type="inclusive">1913-1940</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.11</container>
+					<unittitle>Letters from Cordelia Lockwood (HDL's sister) from Vassar to her
+						family, </unittitle>
+					<unitdate type="inclusive">1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 1.12-1.23</container>
+					<unittitle>HDL's letters to her family, </unittitle>
+					<unitdate type="inclusive">1908-1921</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.1-2.11</container>
+					<unittitle>HDL's letters to her family, </unittitle>
+					<unitdate type="inclusive">1922-1937</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.12</container>
+					<unittitle>Cordelia's letters to HDL, </unittitle>
+					<unitdate type="inclusive">1909</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.13</container>
+					<unittitle>Cordelia's letters to her family, </unittitle>
+					<unitdate type="inclusive">1917-1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.14</container>
+					<unittitle>Letters from Mrs. Lockwood to Cordelia, </unittitle>
+					<unitdate type="inclusive">1911-1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.15</container>
+					<unittitle>Correspondence with Dr. Jane N. Baldwin, </unittitle>
+					<unitdate type="inclusive">1957-1970</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.16</container>
+					<unittitle>Correspondence with Emily Clark Brown, </unittitle>
+					<unitdate type="inclusive">1951-1971</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.17</container>
+					<unittitle>Correspondence with Edna Carter, </unittitle>
+					<unitdate type="inclusive">1943-1961</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.18</container>
+					<unittitle>Correspondence with Eleanor Clark, </unittitle>
+					<unitdate type="inclusive">1932-1970</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.19</container>
+					<unittitle>Correspondence with Evangeline Darrow, </unittitle>
+					<unitdate type="inclusive">1950-1971</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.20</container>
+					<unittitle>Correspondence with Hallie Flanagan Davis, </unittitle>
+					<unitdate type="inclusive">1930-1969</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.21</container>
+					<unittitle>Correspondence with Eloise Ellery, </unittitle>
+					<unitdate type="inclusive">1932-1957</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.22</container>
+					<unittitle>Correspondence with Josephine Gleason, </unittitle>
+					<unitdate type="inclusive">1958-1970</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.23</container>
+					<unittitle>Correspondence with Monica Healea, </unittitle>
+					<unitdate type="inclusive">1957-1971</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.24</container>
+					<unittitle>Correspondence with Elizabeth Page, </unittitle>
+					<unitdate type="inclusive">1912-1969</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.25</container>
+					<unittitle>Correspondence with Blanche Powers, </unittitle>
+					<unitdate type="inclusive">1960-1971</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.26</container>
+					<unittitle>Correspondence with Priscilla Smith Robertson. For correspondence
+						relating to The Humanist see box 14, folders 1 and 2, </unittitle>
+					<unitdate type="inclusive">1931-1968</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.27</container>
+					<unittitle>Correspondence with Lillian Smith, </unittitle>
+					<unitdate type="inclusive">1957, 1959</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.1-3.2</container>
+					<unittitle>Correspondence with Elizabeth Sewell, </unittitle>
+					<unitdate type="inclusive">1955-1971</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.3</container>
+					<unittitle>Elizabeth Sewell manuscripts and publications</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.4</container>
+					<unittitle>Correspondence with Hilda W. Smith (Jane Smith), poems by Hilda
+						Smith. Additional correspondence with the material on Workers Education,
+						boxes 16 and 17</unittitle>
+					<unitdate type="inclusive">1952-1970</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.5</container>
+					<unittitle>Correspondence with E.K. Van Alstyne, </unittitle>
+					<unitdate type="inclusive">1927-1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.6</container>
+					<unittitle>Correspondence with Caroline Ware. Correspondence relating to the
+						UNESCO history is in box 15, </unittitle>
+					<unitdate type="inclusive">1922-1970</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.7</container>
+					<unittitle>Correspondence with Gladys Meyer Wolfe, </unittitle>
+					<unitdate type="inclusive">1929-1968</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.8</container>
+					<unittitle>Correspondence with Vassar faculty, including Ida Treat Bergeret,
+						Martha Bossavy, Evelyn Eastman, Nell Eurich, Carrie Mercer, Barbara Swain,
+						and C. Mildred Thompson</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.9-3.12</container>
+					<unittitle>Miscellaneous correspondence. Includes correspondence with Ruth
+						Andrus, Ruth Lamb Atkinson, Pauli Murray (with some of her poems), Lucy
+						Madeira Wing, and Helen Wright</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.1</container>
+					<unittitle>Papers and addresses representing formulations over time of HDL's
+						educational philosophy</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.2</container>
+					<unittitle>Manuscripts, "Vassar College and the Community of Poughkeepsie and
+						Dutchess County," and "The Essence of Vassar's Education," 1967, with notes
+						and correspondence</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.3</container>
+					<unittitle>Notes and manuscripts, including article for the Vassar Quarterly,
+						1921, on worker's education, poetry, miscellaneous on teaching and
+						students</unittitle>
+					<unitdate type="inclusive">circa 1914-1921</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.4</container>
+					<unittitle>Papers written for Columbia courses, copies of The Relay (Wellesley),
+						October 1927, with article, "The American Tragedy" by HDL, and
+						correspondence and book reviews relating to HDL's dissertation, "Tools and
+						the Man."</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.5</container>
+					<unittitle>Notes, manuscripts, and publications, including reviews of Caroline
+						Ware's, 1920-1930 Greenwich Village, and Mary Beard's On Understanding
+						Women, manuscripts: "Literacy and Illiteracy," "For Armistice Day, November
+						11, 1935," "What is College For" (3 Dec1935), and "The Bryn Mawr Summer
+						School," 1936.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.6</container>
+					<unittitle>Notes, manuscripts, publications, including review of Lewis Mumford’s
+						The Culture of Cities, and review of November 1940 issue of Vassar Review
+						and Little Magazine, "The New Freedom" (commencement address delivered at
+						The Madeira School, 1939), "She Knows Her Place: A Democratic Concept of
+						Household Employment" (contribution to Symposium on Household Employment,
+						Nov. 28, 1939), Vassar 75th anniversary symposium speech, "The American Way
+						of Life in Time of Crisis," and "Does Defense of Freedom Include Women?" (
+						scripts broadcast on station WGY, Schenectady, Oct. 11, 1940 and Jan. 4,
+						1941).</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.7</container>
+					<unittitle>Notes, manuscripts, and publications, including "On the Election of
+						Lloyd Nichols" (broadcast over WKIP, Nov. 6, 1942); manuscripts of
+						contributions to Family-Community Digest, 1943; Vassar Brew, 1943; Vassar
+						Miscellany News, Vassar Political Association publication, 1945; Vassar
+						Alumnae Magazine, 1948; The Humanist, 1957; and correspondence.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.8</container>
+					<unittitle>Writings on euthenics and material on the Vassar Summer Institute,
+						Including abstracts of lectures given during the 1942
+						Institute.</unittitle>
+					<unitdate type="inclusive">1940-1945</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.9</container>
+					<unittitle>Some contributions to the Vassar Miscellany News, </unittitle>
+					<unitdate type="inclusive">1932-1956</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.10</container>
+					<unittitle>Convocation addresses, </unittitle>
+					<unitdate type="inclusive">1951 and 1955</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.11</container>
+					<unittitle>Holidays (notes)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.1</container>
+					<unittitle>Teaching at Roselle Park, 1913-14 and "The Elms,"
+						1914-15.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.1A</container>
+					<unittitle>Wellesley material, including correspondence with Wellesley
+						students.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.2</container>
+					<unittitle>Correspondence relating to college business, fellowships,
+						etc.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.3</container>
+					<unittitle>English (range, problems, published materials).</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.4-5.8</container>
+					<unittitle>Vassar College English Department, </unittitle>
+					<unitdate type="inclusive">1926-56</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.9-5.10</container>
+					<unittitle>English Department reading lists.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.10-5.12</container>
+					<unittitle>National Council of Teachers of English, Conference on College
+						Composition and Communication, and NCTE Achievement Awards judge, </unittitle>
+					<unitdate type="inclusive">1960</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.13</container>
+					<unittitle>College Conference on English, </unittitle>
+					<unitdate type="inclusive">1938</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.14</container>
+					<unittitle>N.Y. State English Council, Syracuse, </unittitle>
+					<unitdate type="inclusive">1953</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.15</container>
+					<unittitle>Recruiting teachers.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 6.1-6.10</container>
+					<unittitle>Relations with students. Correspondence with students, arranged
+						alphabetically, and student recommendations.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 6.11-6.17</container>
+					<unittitle>English courses 105, 185, 210, 218</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Boxes 7, 8, and 9</container>
+					<unittitle>Material on English courses 218, 235, 241, 242, 275, 300, 312, 335;
+						(Folders 18 -75) Documentary Film, American Culture, Today’s
+						Cities.</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Boxes 10 and 11</container>
+					<unittitle>Faculty meetings, faculty committees, Social Museum , and (Folders
+						76-110) miscellaneous college- related activities.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 12.1-12.2</container>
+					<unittitle>Speeches, 1955-1959, programs, correspondence, and notes.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 12.3</container>
+					<unittitle>Conferences and traveling seminars, </unittitle>
+					<unitdate type="inclusive">1958</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 12.4</container>
+					<unittitle>Vassar Institute for Women in Business, </unittitle>
+					<unitdate type="inclusive">1956</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 12.5</container>
+					<unittitle>Vassar Institute, Secretaries Newsletter.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 12.6-12.7</container>
+					<unittitle>Vassar Centennial and International Conference, </unittitle>
+					<unitdate type="inclusive">March 1961</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 12.8-12.12</container>
+					<unittitle>Alumnae activities, 1912 activities.</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 12</container>
+					<unittitle>Also thesis by Mary Anna Nevins, "Peter Sterry and English
+						Independency," in 2 binders.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 13.1</container>
+					<unittitle>Examples of financial contributions to community and national
+						causes.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 13.2A-13.9</container>
+					<unittitle>Poughkeepsie, Poughkeepsie Forum, and Poughkeepsie Music
+						Survey, </unittitle>
+					<unitdate type="inclusive">1950</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folders 13.10-13.11</container>
+					<unittitle>Poughkeepsie community activities, philanthropy, and the
+						Philharmonic.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 13.12</container>
+					<unittitle>National Conference of Jews and Christians.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 13.13</container>
+					<unittitle>New York Women’s Trade Union League.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 13.14</container>
+					<unittitle>Women’s International League for Peace and Freedom.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 13.15</container>
+					<unittitle>The United Nations.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 13.16</container>
+					<unittitle>Downs Day Club</unittitle>
+					<unitdate type="inclusive">(from 1966/1967-)</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 14.1-14.2</container>
+					<unittitle>The Humanist. Correspondence with Priscillan Smith
+						Roberson, </unittitle>
+					<unitdate type="inclusive">1956-1959 and 1976</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 14.3</container>
+					<unittitle>The Humanist. Programs and proceedings of international congresses,
+						symposiums, and newsletters. A file of The Humanist from 1956 through
+						1959.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 14.4-14.5</container>
+					<unittitle>Miscellaneous manuscripts and publications contributed to H.D.L. by
+						friends.</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 14.5-14.6</container>
+					<unittitle>Miscellaneous pamphlets and programs; 2 student papers.</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 15</container>
+					<unittitle>Work with Caroline Ware on the UNESCO History of Mankind: The
+						(Folders 1-12) Twentieth Century. The material includes correspondence,
+						outlines, and early drafts of the text. Also publications of Caroline Ware
+						and Gardiner Means.</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Boxes 16-17</container>
+					<unittitle>Material on worker’s education: information on the Bryn Mawr (Folders
+						1-15) Summer School, the Vineyard Shore School, and the Hudson Shore Labor
+						1922-52. (H.D.L. participated as a teacher and was Chairman of the Board of
+						Directors of the Hudson Shore Labor School from circa 1943 to
+						1952.)</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Boxes 18-19</container>
+					<unittitle>Collections of newspaper clippings, including items relating to
+						(Folders 1-34) H.D.L.’s trip to India; theatre programs.</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 20</container>
+					<unittitle>Alumnae questionnaires for the article in the Vassar Alumnae Magazine,
+						May 1948, "Part Time Paid Jobs for Women."</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 21</container>
+					<unittitle>High-school papers and yearbook; Vassar scrapbook, 1908-1912; V.C.
+						publications relating to President Taylor, Miss Wylie, and Miss Salmon;
+						photograph album; and A.B., M.A., and Ph.D. degrees.</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 21A</container>
+					<unittitle>3 early diaries, </unittitle>
+					<unitdate type="inclusive">1903-circa 1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 22</container>
+					<unittitle>Miscellaneous personal and family items, including a scrapbook and 3
+						notebooks of Mary Lamson Lockwood; 2 notebooks used by William Lockwood at
+						Cronell; 2 Bibles which had belonged to H.D. L (Class of '90 baby); and 5
+						framed photographs.</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Box 23</container>
+					<unittitle>Photographs</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Clare Burgin Allen (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Jane McDill Anderson (VC 1930)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Lydia Anderson (VC 1944)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Helen S. Fox Appell (VC 1945-44)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Carolyn Stearns Ashbaugh (VC 1939)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Margaret Travis Atwood (VC 1948)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Dorothea Ferry Bamford (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Mayr Agnes Amiels Barnes (VC 1950)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Jacqueline Marx Barnett (VC 1954)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Jean Brayfogle Bartlett (VC 1954)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Patricia Reynolds Bassett (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.1</container>
+					<unittitle>Former Students—Evelyn Chambers Birge</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Frances Jones Boyerson (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Constance McChesney Brauer (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Martha Higley Buscoe (VC 1943)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Alice Osborn Brown (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Barbara Bailey Brown (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Pauline Bryan (VC 1933)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Elizabeth Bushnell (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Peggy Masback Cahn (VC 1943)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Jane Calloman (VC 1950)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Margaret Sawyer Carroll (VC 1934)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Jane Uhl Chamberlain (VC 1944)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Carnzu Clark (VC 1936)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Kay Dorr Clark (VC 1937)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Ursula McHugh (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Joan Daly (VC 1945)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Anita Straub Darrow (VC 1942)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Evangeline Moore Darrow (VC 1916)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Clara Lyman Day (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Gladys Krieble Delmas (VC 1935)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Mary Irvine Doyle (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.2</container>
+					<unittitle>Former Students—Emilie Levy Drooker (VC 1945-44)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Mary Coit Drury (VC 1937)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Clare Raymond Durant (VC 1935)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—MaryLou Elery Ellicott (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Judith Kelly English (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Louise T. Erskine (VC 1942)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Kathleen McInerny Dornan (VC 1935)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Beulah Bertolet Fehr (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Pamela Cottier Forcey (VC 1946)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Ann Garretson Fod (VC 1947)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Mary Adams Frederick (VC 1935)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Mary Ann Lueser Freiberg (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Cecile Gabriel (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Nancy Gailor (VC 1956)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Iona Horowitz Ginsburg (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Helen Crosby Glendening (VC 1936)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Priscilla Sprague Goldthwait (VC 1942)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Nancy Dubois Hagmayer (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Molly Thomas Hamett (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.3</container>
+					<unittitle>Former Students—Barbara Gilman Hammond (VC 1942)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Anne Ferris Harris (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Jean L. Harry (VC 1933)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Isabelle Ellis Hart (VC 1939)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Faith Hall Harvie (VC 1945-44)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Kathaleen Fishback Hempstone (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Joan M. Hench (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Sally Powell Hermansdorfer (VC 1954)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Dorothy Kittell Hesselman (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Isabell Teeter Hill (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Becky Hirsch (VC 1955)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Elizabeth Blair Hirsch (VC 1933)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Sarah Gardner Hull (VC 1949)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Maryphyllis Barber Hunter (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Marjorie Frankenthaler Iseman (VC 1943)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.4</container>
+					<unittitle>Former Students—Katharine Jenkins (VC 1946)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Joan Lewis Jewett (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Nancy Johnson (VC 1945-44)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Rebecca Johnston (VC 1930)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Jane DeWalt Jones (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Janet Clark Jones (VC 1958)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Mary Coker Josline (VC 1944)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Anne Heath Kemper (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Elizabeth E. Kingsley (VC 1935)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Lovina May Knight (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Helen Warner Keornig (VC 1955)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Georgette Averback Koopman (VC 1937)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Elizabeth Coles Langhorne (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Betty Brooks Laurenson (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Margaret Voorgees Leggett (VC 1937)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Ann Rosar Levine (VC 1947)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24A.5</container>
+					<unittitle>Former Students—Joyce Osterman Lieberman (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Bernice Lorber Lifton (VC 1943)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Dorothy Spivak Linder (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Libby Austin Lindsay (VC 1945-44)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Carol Ludington Livingstone (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Margaret Thom Lovejoy (VC 1939)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Frances Lewison Low (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Tina Ramsey Lyman (VC 1929)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Anne McConnell (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Helen Davison McCord (VC 1947)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Anne MacDonald (VC 1956)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Jane Howe McGeary (VC 1934)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Helen Stephenson Magee (VC 1942)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Ruth Weiss Mandelbaum (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Marion Samson Marshall (VC 1928)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Helen Hickam Martin (VC 1929)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Alison Murphy Mathews (VC 1935)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Betty Greenwood Metcalk (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Vivian Seigel Meyers (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Berle Meyerson (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Annabelle McAllister Miller (VC 1929)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Barbara Miller (VC 1945-55)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.1</container>
+					<unittitle>Former Students—Carrel Hidlay Moore (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Anne Hazlewood Morgan (VC 1946)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Carol Heckman Morrison (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Eleanor Morrison (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Anabel Burkhardt Murphy (VC 1937)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Anna Mattison Murray (VC 1933)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Elizabeth Newton (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Virginia Shafroth Newton (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Fay Frederick Padelford (VC 1939)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Ruth Adams (VC 1939)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Mary Patterson (VC 1954)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Madge Pendleton (VC 1937)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Virginia Perry (VC 1931)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Ethel Phillips</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Harriet Fleisell Pilpel (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Helen Plotz ( VC 1933)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Katherine Prescott (VC 1934)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Margaret Sparrow Pulsifer (VC ex. 1930)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Doris Purves (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.2</container>
+					<unittitle>Former Students—Mary F. Quarles (VC 1929)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Polly Anne Raizen (VC 1949)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Elinor Schatzman Reiss (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Mary Sublett Richards (VC 1943)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Ruth Silber Ridler (VC 1950)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Anne Grosvenor Robinson (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Doris Pick Rubin (VC 1939)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Betsey Lowell Ryland (VC 1940)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Shirley Schecter (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Georgia Schneider (VC 1946)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Shirley Sims Schneider (VC 1947)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Nini Klaveness Scott (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Helen Searing (VC 1954)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Marion Shaw (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Joan Youngelson Sherman (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Mary Shaw Shirley (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Anna Jane Phillips Shuman (VC 1928)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Ellen Howe Smith (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Margaret L. Smith (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Anne W. Spaulding (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Natalie Davis Springarn (VC 1943)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.3</container>
+					<unittitle>Former Students—Elizabeth Packard Sprague (VC 1943)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Helen Edwards Steiner (VC 1948)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Grace Holden Stephenson (VC 1955)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Jeanne Thompson Stephenson (VC 1942)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Jean Keiser Stevenson (VC 1930)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Helene Nieschlag Steneman (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Anne Louise Schulz Strong (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Franny Prindle Taft (VC 1942)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Barbara Warne Thompson (VC 1951)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Eleanor Smith Toby (VC 1935)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Glendora Rollins Trescher (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Annie Parran Wagner (VC 1949)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Susie Berg Waldman (VC 1944)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Louise Baker Wall (VC 1929)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Virginia Norht Waters (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Martha Kiser Wayt (VC 1950)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Emma Jane Weale (VC 1955)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Merylee Werthan (VC 1953)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Anne Underwood White (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Hilary Whittaker (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Pat Wilbert (VC 1952)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Marjorie Ziegler Wilson (VC 1954)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Jane Dealy Wirsig (VC 1941)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Helen Martin Wood</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Mary Clabaugh Wright (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Louise Joseph Yanoff (VC 1932)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Connie Croll Young (VC 1950)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Mary L. Young</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.4</container>
+					<unittitle>Former Students—Margaret Stone Zilboorg (VC 1938)</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 24B.5</container>
+					<unittitle>Former Students—Unidentified correspondents</unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container>Boxes 25-31</container>
+					<unittitle>unprocessed material</unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

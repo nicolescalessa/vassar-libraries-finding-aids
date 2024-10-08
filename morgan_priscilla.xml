@@ -1,0 +1,3096 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_morgan_priscilla
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Priscilla Morgan Papers, 1910-2014 (bulk 1945-2014)</titleproper>
+				<author>Inventory prepared by Janine St. Germain</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>June 2018</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2019</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Morgan, Priscilla, 1919-2014</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Priscilla Morgan Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1910-2014</unitdate>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1945-2014 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 18.75 cubic feet (48 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> The Priscilla Morgan Papers document the career and collaborative efforts of a New York-based international arts administrator, producer and emissary of arts and culture. The collection contains correspondence, manuscripts, subject files, travel files, maps, and photograph albums.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note <?xm-replace_text {Biographical Note or Administrative History}?></head>
+			<p>Priscilla Morgan (1919-2014) attended Vassar College from 1937 to 1939. She served as a commanding officer in the United States Women's Naval Reserve during World War II, where one of her notable accomplishments was producing a concert by Frank Sinatra in 1943. Following her service in the Navy, she launched her career as a radio producer in NYC and went on to become a theatrical agent for writers, directors and producers. </p>
+			<p> In the mid 1950s European travel and business became central to her career, and during this period, Morgan met the composer Gian Carlo Menotti, founder of the Spoleto Festival (Festival of the Two Worlds), which later developed into the Spoleto Festival USA (Charleston, North Carolina). Menotti and Morgan became collaborators and proponents of a legacy of performing and visual artists through their co-direction of the festival. At this time, Morgan also became involved in live television and continued as a theatrical agent at William Morris Agency until her full-time association in the mid 1960s laying the ground work for the Spoleto Festival. In years following, Morgan's partnership as a confidant and advisor to the sculptor Isamu Noguchi became central to her life, as she guided public commissions and varied projects for the renowned artist. Her relationship with Noguchi lasted until his death in 1988. </p>
+			<p>A long-standing and influential New York cultural figure, Morgan's collaborative projects involved a wide range of performing and visual artists. She cultivated formidable networks of artistic liaisons, with both artists and philanthropists, during her lengthy career as producer, festival director, and as board member of the Noguchi Museum until the time of her death. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The Priscilla Morgan Papers document the robust career of a producer and advocate of the performing, visual and literary arts both in New York City, Europe and Japan. The papers document her contributions as a producer, theatrical agent, philanthropic promoter, festival administrator, museum board member and seminal host within wide-reaching New York cultural circles. </p>
+			<p>The collection consists mainly of subject files (1932 – 2014), as created by Morgan's office, and correspondence files which contain professional and personal correspondence with performing and visual artists, colleagues and philanthropists in the performing arts. Subject files document Ms. Morgan's productions in theater, film, television and visual arts from the mid 1950s until her death in 2014. </p>
+			<p>Morgan's involvement with Isamu Noguchi and her commitment to the museum in his name, figure prominently in the papers. Her partnership with Noguchi spanned between the personal and the public, as documented in both the collection's subject files and correspondence files. Subject files also document collaborative works with artists including R. Buckminster Fuller, Willem deKooning, Martin Manulis, Robert Wilson, Rene Bouche and others.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>Material relating to settlement of the Noguchi estate (folders 21.1-21.3) are restricted through 2037. Otherwise, this collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> De Kooning, Lisa, 1956 - 2012</persname>
+				<persname source="lcnaf" encodinganalog="600"> Fuller, R. Buckminster (Richard Buckminster), 1895-1983</persname>
+				<persname source="lcnaf" encodinganalog="600"> Gilchrist, Ellen, 1935-</persname>
+				<persname source="lcnaf" encodinganalog="600"> Menotti, Gian Carlo, 1911-2007</persname>
+				<persname source="lcnaf" encodinganalog="600"> Noguchi, Isamu, 1904-1988</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Spoleto Festival U.S.A.‏</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Isamu Noguchi Foundation and Garden Museum‏</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Art patrons--United States--Biography</subject>
+				<subject source="lcsh" encodinganalog="650">Arts, American--New York (State)--New York</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Art and Artists </subject>
+				<subject source="local" encodinganalog="690"> Music </subject>
+				<subject source="local" encodinganalog="690"> Travel </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, January 2019.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Janine St. Germain, 2018.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Bequest of the estate of Priscilla Morgan, 2017.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Priscilla Morgan Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p> The collection is arranged into three series; Subject Files (1932 – 2014), Correspondence (1945 – 2014), Photographs (1910 – 2009). Subject Files contain fourteen subseries, as defined by the creator. </p>
+			<p> Correspondence files of substantial volume are arranged by year, otherwise the series is arranged alphabetically by name, as arranged by the creator. </p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Subject Files</unittitle>
+					<unitdate>1932-2014</unitdate>
+					<physdesc>(Boxes 1-31 and 43-46 )</physdesc>
+				</did>
+				<scopecontent>
+					<p>Subject files reflect the filing system of Ms. Morgan’s office, the majority of folders arranged by their original folder titles. The files document Morgan’s business acumen, and often include budget drafts of both visual and performing art projects, numerous dinner party seating charts, guest lists, menus and event logistics, extensive phone logs, and travel itineraries, dating from her earliest days as a radio/theater/television producer, through to her final years serving on the board of the Noguchi Museum. Business files track Ms. Morgan’s earliest years as a young producer for William Morris Agency, for William Liebling, and on through to her development of her own production agencies, Drunk With Love, and MPM Productions. Files document her negotiations both on behalf of her clients, as well as her own personal advancement in the field.</p>
+					<p>Spoleto Festival USA files document the festival’s earliest years in Charleston, North Carolina, including initial fundraising efforts to raise capital in support of the festival mission. Logistical files document itineraries and scheduling of some of the festival’s earliest performers, visual artists and speakers, e.g. Philip Glass, Buckminster Fuller, and Robert Wilson. </p>
+					<p>Art collection files contain documentation of Morgan’s personal collected artworks, including loans, consignments and sales agreements. Early efforts to bring the Spoleto Festival to the USA is documented in the Harlem Theater Workshop files, illustrating Morgan and Menotti’s failed attempt in launching the festival in Harlem. </p>
+					<p>Subject files document correspondence and collaborative efforts with Gian Carlo Menotti (founder of the Spoleto Festival in Italy and the United States), Isamu Noguchi, and R. Buckminster Fuller. The Noguchi files reflect the artist’s long-standing reliance on Morgan to execute his creative vision when negotiating commissions for new works. A limited number of files (here and in correspondence files) include handwritten notations by Noguchi, in particular, a draft artist statement regarding Akari Light Sculptures. Noguchi Museum files illustrate Morgan’s role as a board member, fundraiser, and advisor for the Noguchi estate, through to the end of Morgan’s life. </p>
+					<p>Travel files, some including travel for William Morris Agency, include detailed documentation of international travel logistics, itineraries, budgets, agendas, correspondence, entertainment budgets, and letters of introduction, providing detailed insight into how business was conducted and managed by a young woman managing a business in the mid 1950s. Travel files often include correspondence. </p>
+					<p>The subject files are arranged alphabetically into fourteen subseries as defined by the creator: </p>
+					<p>Art Collection</p>
+					<p>Biographical</p>
+					<p>Drunk With Love Productions</p>
+					<p>Events</p>
+					<p>Fuller, R. Buckminster </p>
+					<p>General</p>
+					<p>Harlem Theatre Workshop</p>
+					<p>Legal</p>
+					<p>Menotti</p>
+					<p>MPM Productions</p>
+					<p>Noguchi, Isamu</p>
+					<p>Noguchi Museum</p>
+					<p>Spoleto Festival</p>
+					<p>Travel </p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2"> Series II. </ref> Correspondence</unittitle>
+					<unitdate>1945-2014</unitdate>
+					<physdesc>(Boxes 32-43)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence files reflect Morgan’s own filing system, mainly arranged chronologically, in addition to select files arranged by name, as determined by Morgan’s office. Correspondents include performing and visual artists, as well as philanthropic collaborators involved in the New York City and European art world. </p>
+					<p>Spoleto office correspondence provides documentation of the festival’s earliest efforts with logistics and correspondents with artists, VIPs and festival administrators. </p>
+					<p>A limited number of correspondence files include carbon copies of Ms. Morgan’s originating letters. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3"> Series III. </ref> Photographs</unittitle>
+					<unitdate>1910-2009</unitdate>
+					<physdesc>(Boxes 47-48)</physdesc>
+				</did>
+				<scopecontent>
+					<p>Collection includes early photographic prints of the Morgan family, photographs from travels with Isamu Noguchi, copy prints of Noguchi as a child, as well as images documenting Morgan’s business travels both in Europe and Japan.</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I. Subject Files </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> ART COLLECTION </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 1.1 </container>
+							<unittitle> Appraisals,</unittitle>
+							<unitdate> 1958-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.2 </container>
+							<unittitle> Consignments, loans,</unittitle>
+							<unitdate> 1960- 1979 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.3 </container>
+							<unittitle> de Kooning,</unittitle>
+							<unitdate> 2008 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.4 </container>
+							<unittitle> de Kooning authentication,</unittitle>
+							<unitdate> 1985 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.5 </container>
+							<unittitle> Loan Agreements, invoices,</unittitle>
+							<unitdate> 1992-2013 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.6 </container>
+							<unittitle> Sales agreements, consignments,</unittitle>
+							<unitdate> 1990-2006 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.7 - 1.8 </container>
+							<unittitle> Sales, purchases,</unittitle>
+							<unitdate> 1955-2005 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.9 </container>
+							<unittitle> Sales, Noguchi, Circles,</unittitle>
+							<unitdate> 2008-2014 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> BIOGRAPHICAL </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 43.1 </container>
+							<unittitle> Columbia University, American Literature, Henry Loomis lesson plan,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.10 </container>
+							<unittitle> Passports, IDs, Episcopal Church Confirmation, Birth Certificate,</unittitle>
+							<unitdate> 1933-1996 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.11 </container>
+							<unittitle> Press clippings,</unittitle>
+							<unitdate> 1945, 1977-2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.12 </container>
+							<unittitle> Profile of Priscilla Morgan, TS, New York Woman Magazine,</unittitle>
+							<unitdate> 1986 September </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 1.13 - 1.15 </container>
+							<unittitle> U.S. Naval Reserve, personnel files, press clippings,</unittitle>
+							<unitdate> 1943-1955 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> DRUNK WITH LOVE </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 2.1 - 2.2 </container>
+							<unittitle> Ehrin, Kerry, contracts, correspondence,</unittitle>
+							<unitdate> 1990-1991 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.3 </container>
+							<unittitle> Finances,</unittitle>
+							<unitdate> 1988-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.4 </container>
+							<unittitle> Gilchrist, Ellen, casting - Nora Jane,</unittitle>
+							<unitdate> 1987-1988 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.5 </container>
+							<unittitle> Gilchrist, Ellen, press clippings,</unittitle>
+							<unitdate> 2000 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.6 - 2.7 </container>
+							<unittitle> Gilchrist, Ellen, contract negotiations,</unittitle>
+							<unitdate> 1986-2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.8 </container>
+							<unittitle> Gilchrist, Ellen, correspondence,</unittitle>
+							<unitdate> 1987-2011 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.9 </container>
+							<unittitle> Gilchrist, Ellen, literary options,</unittitle>
+							<unitdate> 1988-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.10 - 2.11 </container>
+							<unittitle> Gilchrist, Ellen, writings,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 2.12 </container>
+							<unittitle> Goldstone, Patricia, contract, script analysis,</unittitle>
+							<unitdate> 1988-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.1 </container>
+							<unittitle> Goldstone, Patricia, legal notes,</unittitle>
+							<unitdate> 1987-1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.2 </container>
+							<unittitle> Horowitz, Rachael, notes, memos,</unittitle>
+							<unitdate> 1992-1997 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.3 - 3.5 </container>
+							<unittitle> Interscope Communications, contract,</unittitle>
+							<unitdate> 1989-1991 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.6 </container>
+							<unittitle> Interscope Communications, correspondence, memos,</unittitle>
+							<unitdate> 1990-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.7 </container>
+							<unittitle> Manulis, Martin, notes, memos,</unittitle>
+							<unitdate> 1986-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.8 </container>
+							<unittitle> Mrs. Claus, film production,</unittitle>
+							<unitdate> 1988-1996 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.9 </container>
+							<unittitle> Notes, ideas,</unittitle>
+							<unitdate> 1987-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.10 </container>
+							<unittitle> Script analysis, Kerry Ehrin,</unittitle>
+							<unitdate> 1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 3.11 - 4.2 </container>
+							<unittitle> Script draft, Ehrin,</unittitle>
+							<unitdate> 1990-1994 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.3 </container>
+							<unittitle> Script, Goldstone, Gilchrist,</unittitle>
+							<unitdate> 1994 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.4 </container>
+							<unittitle> Story treatments,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.5 </container>
+							<unittitle> Studio correspondence,</unittitle>
+							<unitdate> 1987-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.6 </container>
+							<unittitle> Studio rejections,</unittitle>
+							<unitdate> 1988-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.7 </container>
+							<unittitle> Travel, California,</unittitle>
+							<unitdate> 1988 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.8 </container>
+							<unittitle> Travel, Los Angeles,</unittitle>
+							<unitdate> 1988-1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.9 </container>
+							<unittitle> Travel, New Orleans,</unittitle>
+							<unitdate> 1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 4.10 </container>
+							<unittitle> Writers for consideration,</unittitle>
+							<unitdate> 1987-1989 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> EVENTS </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 5.1 </container>
+							<unittitle> Apollo 12 launch viewing,</unittitle>
+							<unitdate> 1970 November </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.2 </container>
+							<unittitle> Beadleston wedding,</unittitle>
+							<unitdate> 2003 March </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.3 </container>
+							<unittitle> Benefit Concert for the Homeless of NYC,</unittitle>
+							<unitdate> 1989 January </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.4 - 5.11 </container>
+							<unittitle> Dinner parties - planning, logistics, seating charts,</unittitle>
+							<unitdate> 1953-2011 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.12 </container>
+							<unittitle> Glass, Philip, benefit,</unittitle>
+							<unitdate> 2005 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 5.13 </container>
+							<unittitle> Glass, Philip, concert programs, press,</unittitle>
+							<unitdate> 1971-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 6.1 - 6.2 </container>
+							<unittitle> Lacoste School of the Arts, benefit,</unittitle>
+							<unitdate> 1990 April </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 6.3 - 6.6 </container>
+							<unittitle> Morgan, Priscilla, 90th birthday party,</unittitle>
+							<unitdate> 2009 October </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 6.7 </container>
+							<unittitle> Municipal Art Society, Noguchi, President's Medal,</unittitle>
+							<unitdate> 1985 October </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 6.8 </container>
+							<unittitle> Noguchi Garden Museum Opening, logistics,</unittitle>
+							<unitdate> 1985 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 6.9 </container>
+							<unittitle> Noguchi Museum Benefit, Vermont Studio School,</unittitle>
+							<unitdate> 1986 June </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 6.10 </container>
+							<unittitle> Noguchi Museum Spring Benefit, with Patti Smith,</unittitle>
+							<unitdate> 2012 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 6.11 </container>
+							<unittitle> Noguchi Museum, Storm King Sculpture Park,</unittitle>
+							<unitdate> 1985 November </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> FULLER, R. BUCKMINSTER </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 7.1 </container>
+							<unittitle> American Academy of Arts and Letters, ceremony program,</unittitle>
+							<unitdate> 1968-05-28 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.6 </container>
+							<unittitle> Buckminster Fuller Centennial Celebration, seating charts, notes,</unittitle>
+							<unitdate> 1995-11-09 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.2 </container>
+							<unittitle> Buckminster Fuller Institute Newsletter, correspondence,</unittitle>
+							<unitdate> 1984 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.3 - 7.4 </container>
+							<unittitle> Correspondence, to/from RBF/PM,</unittitle>
+							<unitdate> 1968-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.5 </container>
+							<unittitle> Critique by Shoji Sadad re New Yorker article on RBF,</unittitle>
+							<unitdate> 2008 June </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.6 </container>
+							<unittitle> Fundraising efforts,</unittitle>
+							<unitdate> 1980 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.7 </container>
+							<unittitle> Futurist, Journal of Forecasts, Trends and Ideas,</unittitle>
+							<unitdate> 1969 February </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.8 </container>
+							<unittitle> How Little I Know, TS, with annotations by RBF, inscribed to PM,</unittitle>
+							<unitdate> 1966 October </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.9 </container>
+							<unittitle> Keynote address, text, Vision 65, Southern Illinois University,</unittitle>
+							<unitdate> 1965 October </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.10 </container>
+							<unittitle> Letterhead, The R. Buckminster Fuller Centennial Celebration , </unittitle>
+							<unitdate> 1995 November </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.7 </container>
+							<unittitle> NY Studio School, Buckminster Fuller lecture, logistics, promotion,</unittitle>
+							<unitdate> 1971 February </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.11 </container>
+							<unittitle> Nine Chains to the Moon, photocopies of inscribed title page to PM,</unittitle>
+							<unitdate> 1967 October </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.12 - 7.14 </container>
+							<unittitle> Offprints,</unittitle>
+							<unitdate> 1932-1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.15 </container>
+							<unittitle> Planetary Planning, New Delhi, lecture text, promotional materials,</unittitle>
+							<unitdate> 1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.16 - 7.17 </container>
+							<unittitle> Poetry, by RBF, TS and photocopies,</unittitle>
+							<unitdate> 1970-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.18 </container>
+							<unittitle> President Makarios, statement, Nicosia, Cyprus,</unittitle>
+							<unitdate> 1966 July </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.19 </container>
+							<unittitle> Profile of the Industrial Revolution </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.20 </container>
+							<unittitle> Promotional, printed materials,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.21 </container>
+							<unittitle> Schedule of lectures and projects, autobiographical RBF letter (photocopy),</unittitle>
+							<unitdate> 1951-1956 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.22 </container>
+							<unittitle> Sketch, Deliberately Non-Straight Line, to Isamu Noguchi (photocopy),</unittitle>
+							<unitdate> 1967-05-24 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.8 </container>
+							<unittitle> Sketch, Fuller's Principle of Irreversibility, signed by RBF , </unittitle>
+							<unitdate> 1972-11-24 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.23 </container>
+							<unittitle> Sketch, Mini Earth Suspended Over East River, drawn on American Airlines Boarding Pass,</unittitle>
+							<unitdate> 1971-04-26 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.24 - 7.25 </container>
+							<unittitle> Spoleto, RBF exhibit, budgets, logistics, correspondence,</unittitle>
+							<unitdate> 1966-1968 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.26 </container>
+							<unittitle> Spoletosphere, logistics,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.9 </container>
+							<unittitle> Spoletosphere, notes, drawings, prints,</unittitle>
+							<unitdate> 1967-1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 7.27 </container>
+							<unittitle> The Synergetical World of R. Buckminster Fuller, offprint signed by RBF,</unittitle>
+							<unitdate> 1973 November </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.1 </container>
+							<unittitle> Travel itineraries,</unittitle>
+							<unitdate> 1970-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.2 </container>
+							<unittitle> Wheelwright, Joseph - correspondence, travel itineraries,</unittitle>
+							<unitdate> 1976-1982 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.3 </container>
+							<unittitle> World Man Center, promotional material,</unittitle>
+							<unitdate> 1966 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> GENERAL </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 8.4 </container>
+							<unittitle> A Play for Television, TS, by Tad Mosel,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.5 </container>
+							<unittitle> Albany TV, shareholder minutes </unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.6 </container>
+							<unittitle> Annual account, Lisa de Kooning Trust,</unittitle>
+							<unitdate> 2009 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.7 </container>
+							<unittitle> Apartment appraisals, inventories,</unittitle>
+							<unitdate> 1957-1986 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.1 - 44.2 </container>
+							<unittitle> Bouche, Rene, correspondence, sketches,</unittitle>
+							<unitdate> 1954-1957 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.8 </container>
+							<unittitle> Boys Harbor Art Show, event logistics,</unittitle>
+							<unitdate> 1991 June </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.3 </container>
+							<unittitle> Christmas lists, gifts, cards rec'd,</unittitle>
+							<unitdate> 1952-1953 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.9 - 8.11 </container>
+							<unittitle> de Kooning, Lisa, bills paid by PM,,</unittitle>
+							<unitdate> 1985-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.12 </container>
+							<unittitle> de Kooning, Lisa, funeral logistics,</unittitle>
+							<unitdate> 2012 December </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.13 </container>
+							<unittitle> de Kooning, Willem - conservancy office space plans,</unittitle>
+							<unitdate> 1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.14 </container>
+							<unittitle> de Kooning, Willem, conservancy office space plans,</unittitle>
+							<unitdate> 1997 March </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.15 </container>
+							<unittitle> Del Turco, Lorenzo,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 8.16 </container>
+							<unittitle> Guild Hall, Willem de Kooning event logistics,</unittitle>
+							<unitdate> 1994 June </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.1 </container>
+							<unittitle> Khanal, Puna Ram (Pushkak),</unittitle>
+							<unitdate> 2003 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.2 </container>
+							<unittitle> Lacoste School of the Arts,</unittitle>
+							<unitdate> 1985-2002 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.3 </container>
+							<unittitle> Letterhead stationery, Priscilla Morgan,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.4 </container>
+							<unittitle> Lists, notes,</unittitle>
+							<unitdate> circa 1950-1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.5 </container>
+							<unittitle> Massie, Robert,</unittitle>
+							<unitdate> 1971 December </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.6 </container>
+							<unittitle> McGrath, Earl,</unittitle>
+							<unitdate> 1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.7 </container>
+							<unittitle> Nickrenz, Elizabeth, poetry,</unittitle>
+							<unitdate> 1987 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 9.8 - 10.3 </container>
+							<unittitle> Phone logs,</unittitle>
+							<unitdate> 1976-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.4 </container>
+							<unittitle> Player, Willis,</unittitle>
+							<unitdate> 1968-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.5 </container>
+							<unittitle> Pritchett, Florence,</unittitle>
+							<unitdate> 1964-1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.6 </container>
+							<unittitle> Pushkar, Puna Ram,</unittitle>
+							<unitdate> 2003-2007 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.7 </container>
+							<unittitle> Robbins, Jerome, budgets, travel,</unittitle>
+							<unitdate> 1978 January </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.8 </container>
+							<unittitle> Robison, Paula,</unittitle>
+							<unitdate> 1983-2009 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.9 </container>
+							<unittitle> Rorem, Ned,</unittitle>
+							<unitdate> 1966 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.10 </container>
+							<unittitle> Rosentiel, Elizabeth,</unittitle>
+							<unitdate> 1974-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.11 </container>
+							<unittitle> Dadao, Shoji,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.12 </container>
+							<unittitle> Scelsi, Giancarlo,</unittitle>
+							<unitdate> 1977 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.13 </container>
+							<unittitle> Schlumberger, Madam Merre,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.14 </container>
+							<unittitle> Schoelkopf, Caroline,</unittitle>
+							<unitdate> 1983 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 10.15 - 11.2 </container>
+							<unittitle> Segerstrom, Henry,</unittitle>
+							<unitdate> 2005-2006 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.3 </container>
+							<unittitle> Shapiro, Nathasha,</unittitle>
+							<unitdate> 1976 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.4 </container>
+							<unittitle> Shapiro, Tina,</unittitle>
+							<unitdate> 1990-1991 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.4 </container>
+							<unittitle> Sketches, artwork unidentified,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.5 </container>
+							<unittitle> Snyder, Alexandra, memories of Noguchi,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.6 </container>
+							<unittitle> Sterne, Hedda,</unittitle>
+							<unitdate> 1975-1995 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.7 </container>
+							<unittitle> Tully, Alice,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.8 </container>
+							<unittitle> Urban Arts Corps Theatre,</unittitle>
+							<unitdate> 1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.9 </container>
+							<unittitle> Vanderbilt, Gloria,</unittitle>
+							<unitdate> 2003 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.10- 11.11 </container>
+							<unittitle> Vassar, Priscilla Morgan exhibit logistics,</unittitle>
+							<unitdate> 1988-2007 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.12 </container>
+							<unittitle> Ventouras, Octavio,</unittitle>
+							<unitdate> 2011-2012 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.13 </container>
+							<unittitle> Vogue, article re Priscilla Morgan,</unittitle>
+							<unitdate> 2007 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.14 - 11.15 </container>
+							<unittitle> Vreeland, Tim, manuscripts,</unittitle>
+							<unitdate> 2005-2006 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.16 </container>
+							<unittitle> Wadsworth, Susan,</unittitle>
+							<unitdate> 2009 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.17 </container>
+							<unittitle> Wieners, John, handmade book,</unittitle>
+							<unitdate> 1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 11.18 - 11.19, 12.1 - 12.2 </container>
+							<unittitle> Wilson, Robert, includes signed book, Paradiso,</unittitle>
+							<unitdate> 1973-2010 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 12.3 </container>
+							<unittitle> Woffard, Harris,</unittitle>
+							<unitdate> 1970-1975 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> HARLEM THEATER WORKSHOP </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 12.4 - 12.8 </container>
+							<unittitle> Board, reports, meeting agendas, minutes,</unittitle>
+							<unitdate> 1968-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 12.9 - 12.12 </container>
+							<unittitle> Budgets, correspondence,</unittitle>
+							<unitdate> 1967-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.5 </container>
+							<unittitle> Closing documents, real estate,</unittitle>
+							<unitdate> 1970 October </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 12.13 </container>
+							<unittitle> Condemnation of the Latino Theater, letter from P. Morgan,</unittitle>
+							<unitdate> 1971 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 12.14 </container>
+							<unittitle> Corporation by-laws,</unittitle>
+							<unitdate> 1968 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 12.15 - 12.18 </container>
+							<unittitle> Correspondence to/from Priscilla Morgan,</unittitle>
+							<unitdate> 1968-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 12.19 </container>
+							<unittitle> East Harlem Triangle Neighborhood Development, correspondence,</unittitle>
+							<unitdate> 1971 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 12.20 </container>
+							<unittitle> NYC Housing and Development, correspondence,</unittitle>
+							<unitdate> 1968-1971 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> LEGAL </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 13.1 </container>
+							<unittitle> Business certificate, Priscilla Morgan Agency,</unittitle>
+							<unitdate> 1953 June </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 13.2 - 13.5 </container>
+							<unittitle> Contracts, Liebling Wood, William Morris, Priscilla Morgan Agency,</unittitle>
+							<unitdate> 1951-1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 13.6 </container>
+							<unittitle> Estate of Marian Barradale Morgan,</unittitle>
+							<unitdate> 1961-1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 13.7 </container>
+							<unittitle> Marriage certificate, divorce documentation, will (Margaret Hotchkiss),</unittitle>
+							<unitdate> 1949-1955 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 13.8 - 13.11 </container>
+							<unittitle> Real estate, Bucks County property,</unittitle>
+							<unitdate> 1956-1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 13.12 - 13.13 </container>
+							<unittitle> Will, Priscilla Morgan, correspondence, drafts, notes,</unittitle>
+							<unitdate> 1968-2006 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> MENOTTI </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 14.1 - 14.2 </container>
+							<unittitle> A Happy Ending, script, film production correspondence,</unittitle>
+							<unitdate> 1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.10, 14.3 </container>
+							<unittitle> Amahl and the Night Visitors, agreements, programs,</unittitle>
+							<unitdate> 1968-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.11 </container>
+							<unittitle> American Center for Students and Artists, Paris,</unittitle>
+							<unitdate> 1976-1977 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.4 </container>
+							<unittitle> American Symphony Tripoli Concerto,</unittitle>
+							<unitdate> 1970 October </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.5 </container>
+							<unittitle> Bell Telephone Hour Broadcast, Menotti documentary,</unittitle>
+							<unitdate> 1966 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.6 </container>
+							<unittitle> Concert tour logistics, Klaus Kolmar,</unittitle>
+							<unitdate> 1963-1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.7, 44.12 </container>
+							<unittitle> The Consul, NYC Opera, agreement, notes,</unittitle>
+							<unitdate> 1966, 1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.8 </container>
+							<unittitle> Contracts, CBS TV,</unittitle>
+							<unitdate> 1962-1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 44.13 - 44.14 </container>
+							<unittitle> Contracts, The Last Superman; The Saint of Bleeker Street,</unittitle>
+							<unitdate> 1959-1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.9 </container>
+							<unittitle> Contracts, Vanessa,</unittitle>
+							<unitdate> 1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.10 </container>
+							<unittitle> Correspondence, notes, press clippings,</unittitle>
+							<unitdate> 1965- 1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.11 </container>
+							<unittitle> Correspondence, notes, itineraries, programs,</unittitle>
+							<unitdate> 1971-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.12 </container>
+							<unittitle> Correspondence to/from Priscilla Morgan,</unittitle>
+							<unitdate> 1968-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.13 </container>
+							<unittitle> Fort Worth, TX, Spoleto Festival,</unittitle>
+							<unitdate> 1966 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.1 - 45.4 </container>
+							<unittitle> Globolinks, fundraising, press clippings, Ray Stark,</unittitle>
+							<unitdate> 1970-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.14 - 14.18 </container>
+							<unittitle> Globolinks, City Center, Hamburg, Santa Fe,</unittitle>
+							<unitdate> 1968-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 14.19 </container>
+							<unittitle> Labyrinth Corporation, first board meeting minutes,</unittitle>
+							<unitdate> 1964 April </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.1 </container>
+							<unittitle> Labyrinth, certificate of incorporation, scripts,</unittitle>
+							<unitdate> 1963-1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.5 </container>
+							<unittitle> Last Savage, L'Ultimo Superuomo, musical score title page, signed by Gian Carlo Menotti,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.2 - 15.3 </container>
+							<unittitle> The Leper, programs, promotion, correspondence,</unittitle>
+							<unitdate> 1968-1970 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.4 </container>
+							<unittitle> Letter, re: Harlem Theater Workshop ceasing efforts,</unittitle>
+							<unitdate> 1972 Februar </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.5, 45.6 </container>
+							<unittitle> Madame Aupic, agreements, notes,</unittitle>
+							<unitdate> 1958-1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.6 </container>
+							<unittitle> Maria Golovin, opera,</unittitle>
+							<unitdate> 1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.7 </container>
+							<unittitle> Martin's Lie, production logistics,</unittitle>
+							<unitdate> 1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.8 </container>
+							<unittitle> Martin's Lie, script photocopies,</unittitle>
+							<unitdate> 1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.9 -15.11, 45.7, 45.8 </container>
+							<unittitle> Martin's Lie, correspondence, budgets, logistics,</unittitle>
+							<unitdate> 1963-1967 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.12 </container>
+							<unittitle> Menotti, Gian Carlo, bio, resume,</unittitle>
+							<unitdate> 1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.13 </container>
+							<unittitle> Menotti, Gian Carlo, memorial,</unittitle>
+							<unitdate> 2007 February </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.9 </container>
+							<unittitle> The Most Important Man in the World, NYC Opera press clippings,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.14 - 15.16 </container>
+							<unittitle> Notes, travel expenses,</unittitle>
+							<unitdate> 1964-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.17 </container>
+							<unittitle> Of Two Worlds, Spoleto proposal, Walter Wanger project,</unittitle>
+							<unitdate> 1962-1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.18 </container>
+							<unittitle> Press clippings,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.19 </container>
+							<unittitle> Speech, commencement, Curtis Institute of Music,</unittitle>
+							<unitdate> 1965 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.20 </container>
+							<unittitle> Spoleto budgets,</unittitle>
+							<unitdate> 1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.21 </container>
+							<unittitle> Spoletosphere, Festival of Two Worlds, press clippings,</unittitle>
+							<unitdate> 1967 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.22 </container>
+							<unittitle> Symphony of the New World, promotion,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 15.23 </container>
+							<unittitle> Tamu Tamu, Opera Studebaker Theatre, promotion,</unittitle>
+							<unitdate> 1973 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> MPM PRODUCTIONS </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 16.1 </container>
+							<unittitle> Bio file, Morgan, Priscilla, Manulis, Matin, Penn, Arthur,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.2 </container>
+							<unittitle> Breece George - notes, correspondence,</unittitle>
+							<unitdate> 1981 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.3 </container>
+							<unittitle> Film, TV script research,</unittitle>
+							<unitdate> circa 1980-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.4 </container>
+							<unittitle> Gilchrist, Ellen, MS submissions,</unittitle>
+							<unitdate> 1989-1995 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.5 </container>
+							<unittitle> Herman, Jerry, notes, press clippings,</unittitle>
+							<unitdate> 1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.6 </container>
+							<unittitle> Horovitiz, Israel, notes, correspondence,</unittitle>
+							<unitdate> 1978-1979 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.7 </container>
+							<unittitle> Love in All Its Disguises, synopsis, by Norman Rosten, notes, correspondence,</unittitle>
+							<unitdate> 1983-1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.8 </container>
+							<unittitle> New Yorker, Talk of the Town, George Trow, marked-up galley , </unittitle>
+							<unitdate> 1971-03-13 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.9 </container>
+							<unittitle> Partnership agreement,</unittitle>
+							<unitdate> 1978-1988 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.10 </container>
+							<unittitle> Penn, Arthur, bio file,</unittitle>
+							<unitdate> 1980 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.11 </container>
+							<unittitle> Press clippings, press releases,</unittitle>
+							<unitdate> 1978 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.12 </container>
+							<unittitle> Requests for collaboration, correspondence,</unittitle>
+							<unitdate> 1978 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.13 </container>
+							<unittitle> Script reports,</unittitle>
+							<unitdate> 1978-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.14 </container>
+							<unittitle> Script research,</unittitle>
+							<unitdate> 1980-1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.15 </container>
+							<unittitle> Tournier, Michael, press clippings, memos,</unittitle>
+							<unitdate> 1988-1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 16.16 </container>
+							<unittitle> Wally Cafe, theatrical production, negotiations,</unittitle>
+							<unitdate> 1979 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> NOGUCHI, ISAMU </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 45.10 </container>
+							<unittitle> Akari light sculptures, Isamu Noguchi handwritten artist statement,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.1 </container>
+							<unittitle> Akari light sculptures, marketing materials,</unittitle>
+							<unitdate> 1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.2 </container>
+							<unittitle> Akari light sculptures, retail price list,</unittitle>
+							<unitdate> 1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.3 </container>
+							<unittitle> Art for Senator McGovern, donation,</unittitle>
+							<unitdate> 1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.4 </container>
+							<unittitle> Artist statement, Two Stone Gardens, Yale University, Chase Manhattan Bank,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.5 </container>
+							<unittitle> Autobiography, notes, correspondence, research,</unittitle>
+							<unitdate> 1960-1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.11 </container>
+							<unittitle> Awards, honors given, programs and correspondence,</unittitle>
+							<unitdate> 1969-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.6 </container>
+							<unittitle> Book, regarding Noguchi childhood, by Tobi Tobias, includes letter, and critique by Noguchi,</unittitle>
+							<unitdate> 1972-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.7 </container>
+							<unittitle> Book statement, Tobi Tobias, including carbon copy of Noguchi correspondence,</unittitle>
+							<unitdate> 1969-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.8 </container>
+							<unittitle> Budgets, office expenses,</unittitle>
+							<unitdate> 1970-1984 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.9 </container>
+							<unittitle> Catalog raisonne proposal,</unittitle>
+							<unitdate> 2008-2010 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.10 - 17.11 </container>
+							<unittitle> Centennial birthday event logistics,</unittitle>
+							<unitdate> 2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.12 </container>
+							<unittitle> Chase Manhattan Bank, Tokyo, correspondence to/from Noguchi and David Rockefeller,</unittitle>
+							<unitdate> 1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.12 </container>
+							<unittitle> Chase Manhattan Bank, Tokyo, letter handwritten, from Noguchi to Gordon Bunshaft,</unittitle>
+							<unitdate> 1973-07-16 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.13 </container>
+							<unittitle> Correspondence, administrative, from Noguchi,</unittitle>
+							<unitdate> 1971-1976 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.14 </container>
+							<unittitle> Correspondence, administrative, to Noguchi,</unittitle>
+							<unitdate> 1968-1988 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.15 </container>
+							<unittitle> Detroit, imaginary landscapes, including TS re Walter Dusenbery, by Isamu Noguchi,</unittitle>
+							<unitdate> 1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.13 </container>
+							<unittitle> Graham, Martha, repertoire lists, notes,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.14 </container>
+							<unittitle> Horace E. Dodge and Son Foundation, Detroit MI,</unittitle>
+							<unitdate> 1971-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.16 </container>
+							<unittitle> Film documentary projects,</unittitle>
+							<unitdate> 1972-1986 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.17 </container>
+							<unittitle> Fountain and Plaza, Cambridge, MA,</unittitle>
+							<unitdate> 1973, 1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.18 </container>
+							<unittitle> Gallery correspondence, Wight, Pace, Walker Art Center, Marlborough,</unittitle>
+							<unitdate> 1968-1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.19 </container>
+							<unittitle> Gimpel Hanover Gallery, Switzerland, includes Noguchi correspondence,</unittitle>
+							<unitdate> 1971-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 17.20 </container>
+							<unittitle> Glass, Philip, benefit logistics,</unittitle>
+							<unitdate> 1996 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.1 </container>
+							<unittitle> Harvard Graduate School, Noguchi Museum,</unittitle>
+							<unitdate> 1989-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.2 </container>
+							<unittitle> Hayden Herrera, Japan travel,</unittitle>
+							<unitdate> 2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.3 </container>
+							<unittitle> Hayden Herrera, Noguchi biography budgets, contract,</unittitle>
+							<unitdate> 2005-2007 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.4 </container>
+							<unittitle> Hayden Herrera, fundraising,</unittitle>
+							<unitdate> 2005-2006 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.5 </container>
+							<unittitle> Hayden Herrera agreement, correspondence,</unittitle>
+							<unitdate> 1993-2005 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.6 </container>
+							<unittitle> Hiroi, Tsutomu, book preface, by Isamu Noguchi,</unittitle>
+							<unitdate> 1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.7 </container>
+							<unittitle> Hunter, Sam, book, letter of agreement,</unittitle>
+							<unitdate> 1977 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.8 </container>
+							<unittitle> Japan House Gallery,</unittitle>
+							<unitdate> 1969-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.9 </container>
+							<unittitle> Miyake, Issey, correspondence,</unittitle>
+							<unitdate> 1996 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.10 </container>
+							<unittitle> Morgan, Priscilla, compensation request, Noguchi Museum,</unittitle>
+							<unitdate> 1990- 1995 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.11 - 18.13 </container>
+							<unittitle> Mure Museum,</unittitle>
+							<unitdate> 1990-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.14 </container>
+							<unittitle> National Gallery of Art, exhibition, "Unknown Bird",</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.15 </container>
+							<unittitle> Noguchi Foundation, board minutes,</unittitle>
+							<unitdate> 1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.16 </container>
+							<unittitle> Noguchi Foundation, consultancy, correspondence, meeting notes,</unittitle>
+							<unitdate> 1987-2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.17 </container>
+							<unittitle> Noguchi Memorial, Priscilla Morgan speech text,</unittitle>
+							<unitdate> 1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.18 </container>
+							<unittitle> Noguchi Studio, Mure-Cho, Japan,</unittitle>
+							<unitdate> 1993-1994 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.19 </container>
+							<unittitle> Notes, Japan travel,</unittitle>
+							<unitdate> 1971-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 18.20 </container>
+							<unittitle> Preservation efforts in Japan,</unittitle>
+							<unitdate> 2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.1 </container>
+							<unittitle> Problems of Modern Sculpture, TS, Noguchi lecture, Yale,</unittitle>
+							<unitdate> 1948 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.2 </container>
+							<unittitle> Proposals for Museum in Mure, Japan,</unittitle>
+							<unitdate> 1992-2000 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.3 </container>
+							<unittitle> Scroll and sculpture inventories,</unittitle>
+							<unitdate> 1973-1987 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.4 </container>
+							<unittitle> Segerstrom, Orange County Spring Festival proposal,</unittitle>
+							<unitdate> 2007-2011 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.5 </container>
+							<unittitle> SUNY Purchase loan, "The Bow",</unittitle>
+							<unitdate> 1971-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.6 </container>
+							<unittitle> Threlfall, Tim, Noguchi text,</unittitle>
+							<unitdate> 1989-1990 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> NOGUCHI MUSEUM </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 19.7 </container>
+							<unittitle> Affidavit (P. Morgan) re sale of artwork to support Noguchi Foundation,</unittitle>
+							<unitdate> 2004-2006 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.8 </container>
+							<unittitle> Akari Foundation certificate of incorporation, Noguchi Foundation Board minutes,</unittitle>
+							<unitdate> 1967-1984 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.9 </container>
+							<unittitle> Benefit event,</unittitle>
+							<unitdate> 2010 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.10 - 19.11 </container>
+							<unittitle> Board minutes, reports, memoranda,</unittitle>
+							<unitdate> 1983-1985 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 19.12 - 19.15, 20.1 </container>
+							<unittitle> Board minutes, Noguchi Foundation,</unittitle>
+							<unitdate> 1986-2008 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.2 - 20.3 </container>
+							<unittitle> Budgets,</unittitle>
+							<unitdate> 1989-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.4 </container>
+							<unittitle> Building estimates, construction,</unittitle>
+							<unitdate> 1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.5 - 20.7 </container>
+							<unittitle> Correspondence,</unittitle>
+							<unitdate> 2004-2012 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.8 </container>
+							<unittitle> Exhibition logistics, Japan,</unittitle>
+							<unitdate> 1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.9 </container>
+							<unittitle> Fundraising,</unittitle>
+							<unitdate> 1997-2003 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.10 </container>
+							<unittitle> Fundraising events,</unittitle>
+							<unitdate> 2004-2007 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.11 </container>
+							<unittitle> Grand reopening,</unittitle>
+							<unitdate> 2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.12 </container>
+							<unittitle> Morgan, Priscilla, consultancy to museum,</unittitle>
+							<unitdate> 1995 , 2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.13 </container>
+							<unittitle> Museum collection policy review,</unittitle>
+							<unitdate> 2009-2010 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.14 </container>
+							<unittitle> Museum director search,</unittitle>
+							<unitdate> 1989-1990 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.15 </container>
+							<unittitle> Noguchi Foundation agreements,</unittitle>
+							<unitdate> 1993-1994 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.16 </container>
+							<unittitle> Noguchi Foundation, memoranda, budgets,</unittitle>
+							<unitdate> 1990-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 45.15 </container>
+							<unittitle> Noguchi Museum opening, guest lists,</unittitle>
+							<unitdate> 1985 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.17 </container>
+							<unittitle> Priscilla Morgan Study Center,</unittitle>
+							<unitdate> 2010-2012 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.18 </container>
+							<unittitle> Schulman, Claire, dinner,</unittitle>
+							<unitdate> 2001 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 20.19 </container>
+							<unittitle> Segerstrom funding of Noguchi Museum archives,</unittitle>
+							<unitdate> 2011 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.1 - 21.3 </container>
+							<unittitle> [RESTRICTED] Settlement of Noguchi Estate,</unittitle>
+							<unitdate> 1992-1996 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.4 </container>
+							<unittitle> Staffing,</unittitle>
+							<unitdate> 1991 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.5 - 21.7 </container>
+							<unittitle> Strategic plan, correspondence,</unittitle>
+							<unitdate> 2008-2009 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.8 </container>
+							<unittitle> Trustee file, Fulbright Awards Dinner,</unittitle>
+							<unitdate> 2013 May </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.9 </container>
+							<unittitle> Trustee correspondence, re Japanese works of art,</unittitle>
+							<unitdate> 1991-1993 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.10 </container>
+							<unittitle> Wilson, Robert, installation,</unittitle>
+							<unitdate> 2004 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> SPOLETO FESTIVAL </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 45.16 </container>
+							<unittitle> Art exhibition at 420 West Broadway,</unittitle>
+							<unitdate> 1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.11 </container>
+							<unittitle> Artist lists, festival participants,</unittitle>
+							<unitdate> 1958- 1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 46.1 </container>
+							<unittitle> Blackwood, Michael, film productions,</unittitle>
+							<unitdate> 1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 46.2 - 46.5 </container>
+							<unittitle> Board minutes,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 21.12 - 21.14 </container>
+							<unittitle> Board minutes,</unittitle>
+							<unitdate> 1972 -1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.1 </container>
+							<unittitle> Boissevain, Ernest, correspondence, notes,</unittitle>
+							<unitdate> 1974-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.2 </container>
+							<unittitle> Brochures,</unittitle>
+							<unitdate> 1958-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.3 - 22.11, 46.6 - 46.7 </container>
+							<unittitle> Budgets, expenditures, itineraries,</unittitle>
+							<unitdate> 1968 -1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.12 </container>
+							<unittitle> Business Committee for the Arts, Metropolitan Museum,</unittitle>
+							<unitdate> 1971-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 46.8 </container>
+							<unittitle> Calendars, social event scheduling,</unittitle>
+							<unitdate> 1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.13 </container>
+							<unittitle> CBS broadcast, Gian Carlo Menotti,</unittitle>
+							<unitdate> 1962-1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.14 </container>
+							<unittitle> Charleston,</unittitle>
+							<unitdate> 2004 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.15 </container>
+							<unittitle> Consulting agreement, Charles Fabius,</unittitle>
+							<unitdate> 2007 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 22.16, 23.1 - 23.8 </container>
+							<unittitle> Correspondence, business/administrative,</unittitle>
+							<unitdate> 1967-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 23.9 </container>
+							<unittitle> Daily schedules,</unittitle>
+							<unitdate> 1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 23.10 </container>
+							<unittitle> de Kooning, Lisa, apprentice application,</unittitle>
+							<unitdate> 1972 November </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 23.11 </container>
+							<unittitle> Dome, Buckminster Fuller, notes,</unittitle>
+							<unitdate> 1967 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 23.12 </container>
+							<unittitle> Friends of Spoleto, promotional text, correspondence,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 23.13 - 23.14, 24.1 - 24.3 </container>
+							<unittitle> Friends of Spoleto Evenings,</unittitle>
+							<unitdate> 1971-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 24.4 - 24.7 </container>
+							<unittitle> Fundraising,</unittitle>
+							<unitdate> 1967-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 24.8 </container>
+							<unittitle> Fundraising, proposed Alice Tully Hall benefit,</unittitle>
+							<unitdate> 1972-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 24.9 - 24.11 </container>
+							<unittitle> Fundraising, benefit auction logistics,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.1 </container>
+							<unittitle> Fundraising, Bloomingdales Friends of Spoleto Gala,</unittitle>
+							<unitdate> 1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.2 </container>
+							<unittitle> Fundraising, correspondence,</unittitle>
+							<unitdate> 1972-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.3 </container>
+							<unittitle> Glass, Philip, Spoletosphere Concert,</unittitle>
+							<unitdate> 1972 June </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.4 </container>
+							<unittitle> Highpoint Spoleto Tour,</unittitle>
+							<unitdate> 1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.5 </container>
+							<unittitle> Keene, Christopher, itineraries, press clippings,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.6 - 25.8 </container>
+							<unittitle> Logistics, correspondence,</unittitle>
+							<unitdate> 1966-1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.9 </container>
+							<unittitle> Miracle of Spoleto, essay by Gian Carlo Menotti,</unittitle>
+							<unitdate> 1971 April </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.10 - 25.11 </container>
+							<unittitle> National Endowment for the Arts, application, research,</unittitle>
+							<unitdate> 1973-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.12 </container>
+							<unittitle> National Orchestra Association reception,</unittitle>
+							<unitdate> 1973 April </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.13 </container>
+							<unittitle> New Music Research,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.14 </container>
+							<unittitle> Noguchi Spoleto Play Sculptures,</unittitle>
+							<unitdate> 1968-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 25.15 - 25.18 </container>
+							<unittitle> Notes, lists, correspondence,</unittitle>
+							<unitdate> 1969-1970 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.1 - 26.4 </container>
+							<unittitle> Oral history transcript, Priscilla Morgan interviewed by Gene Waddell,</unittitle>
+							<unitdate> 1999 Apri; </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.5 </container>
+							<unittitle> Parties, event lists,</unittitle>
+							<unitdate> 1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.6 - 26.11 </container>
+							<unittitle> Poster production, de Kooning, Frankenthaler, Lindner, Motherwell, Steinberg,</unittitle>
+							<unitdate> 1969-1979 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 46.9 </container>
+							<unittitle> Morgan, Priscilla notes,</unittitle>
+							<unitdate> 1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.12 - 26.13 </container>
+							<unittitle> Press relations, Publicity,</unittitle>
+							<unitdate> 1965-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.14 </container>
+							<unittitle> Robbins, Jerome, celebration,</unittitle>
+							<unitdate> 1973-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.15 </container>
+							<unittitle> Samuel Rubin Foundation,</unittitle>
+							<unitdate> 1967-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.16 </container>
+							<unittitle> Schedules, notes,</unittitle>
+							<unitdate> 1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 46.10 </container>
+							<unittitle> Seating charts, Teatro Nuovo, Spoleto,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.17 </container>
+							<unittitle> Staff bios, correspondence,</unittitle>
+							<unitdate> 1972-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.18 </container>
+							<unittitle> Twyla Tharp promotion,</unittitle>
+							<unitdate> 1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.19 - 26.20 </container>
+							<unittitle> VIP arrival logistics, lodging,</unittitle>
+							<unitdate> 1970-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 46.11 - 46.12 </container>
+							<unittitle> Wilson, Robert - logistics, Life and Times of Joseph Stalin, Einstein on the Beach, Letter for Queen Victoria,</unittitle>
+							<unitdate> 1974-1975 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 26.21 </container>
+							<unittitle> World premiere lists,</unittitle>
+							<unitdate> 1958-1973 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> TRAVEL </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 27.1 - 27.2 </container>
+							<unittitle> China, Festival of Music and Dance,</unittitle>
+							<unitdate> 1977-1978 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 27.3 - 27.4 </container>
+							<unittitle> China, logistics,</unittitle>
+							<unitdate> 1984 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 27.5 - 27.6 </container>
+							<unittitle> Costa Mesa, CA,</unittitle>
+							<unitdate> 2006-2008 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 28.3 - 28.7, 29.1 - 29.8, 30.1 - 30.8, 31.1 - 31.7 </container>
+							<unittitle> Europe,</unittitle>
+							<unitdate> 1954-2008 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 27.7 </container>
+							<unittitle> India,</unittitle>
+							<unitdate> 1990-1995 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 27.8 - 27.11 </container>
+							<unittitle> Japan,</unittitle>
+							<unitdate> 1984-1999 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 27.12 </container>
+							<unittitle> Los Angeles, CA, Martin Manulis Memorial,</unittitle>
+							<unitdate> 2007 December </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 27.13 </container>
+							<unittitle> Maine,</unittitle>
+							<unitdate> 2003 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 31.8 </container>
+							<unittitle> Maps, printed materials,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 27.14 </container>
+							<unittitle> Mexico,</unittitle>
+							<unitdate> 1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 28.1 </container>
+							<unittitle> Morocco,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 28.2 </container>
+							<unittitle> Texas, The Greenhouse, Arlington,</unittitle>
+							<unitdate> 1985-1986 </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II. Correspondence </unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Outgoing </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 32.1 </container>
+							<unitdate> 1950-1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 32.2 </container>
+							<unitdate> 1971-1976 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 32.3 </container>
+							<unitdate> 1986-1994 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Incoming </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 32.4 - 32.11 </container>
+							<unitdate> 1950-1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 33.1 - 33.8 </container>
+							<unitdate> 1965 -1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 34.1 - 34.8, 43.3 </container>
+							<unitdate> 1970-1974 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 35.1 - 35.8 </container>
+							<unitdate> 1975-1979 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 36.1 - 36.8 </container>
+							<unitdate> 1980-1985 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 37.1 - 37.7 </container>
+							<unitdate> 1986-1991 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 38.1 - 38.10 </container>
+							<unitdate> 1992-2001 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 39.1 - 39.8 </container>
+							<unitdate> 2002-2007 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 40.1 - 40.8 </container>
+							<unitdate> 2008-2014 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 43.2 </container>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.1 </container>
+							<unittitle> Albee, Edward,</unittitle>
+							<unitdate> 1963-06-17 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.2 </container>
+							<unittitle> Angleton, Carmen,</unittitle>
+							<unitdate> 1959-1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 43.9 </container>
+							<unittitle> Berman, Eugene,</unittitle>
+							<unitdate> 1960-1970 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.3 </container>
+							<unittitle> Biddle Duke, Angier,</unittitle>
+							<unitdate> 1962-1971 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.4 </container>
+							<unittitle> Bouche, Rene,</unittitle>
+							<unitdate> 1954-1959 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.5 </container>
+							<unittitle> Calder, Alexander,</unittitle>
+							<unitdate> 1959-04-21 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.6 </container>
+							<unittitle> Christo,</unittitle>
+							<unitdate> 1969 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.7 </container>
+							<unittitle> Coe, Fred,</unittitle>
+							<unitdate> 1956-1970 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.8 </container>
+							<unittitle> Coggeshall, Calvert,</unittitle>
+							<unitdate> 1969-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.9 </container>
+							<unittitle> Congdon, Don,</unittitle>
+							<unitdate> 1985-1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.10 </container>
+							<unittitle> Cox, Mitchell,</unittitle>
+							<unitdate> 1950-1954 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.11 </container>
+							<unittitle> Davis, John,</unittitle>
+							<unitdate> 1962-1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.12 </container>
+							<unittitle> de Kooning, Elaine,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.13 </container>
+							<unittitle> de Kooning, Lisa,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.14 </container>
+							<unittitle> de Kooning, Willem,</unittitle>
+							<unitdate> 1964 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.15 </container>
+							<unittitle> Fuller, Anne Hewlett,</unittitle>
+							<unitdate> 1968-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.16 </container>
+							<unittitle> Fuller, Buckminster,</unittitle>
+							<unitdate> 1971, 1980 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.17 </container>
+							<unittitle> Graham, Martha,</unittitle>
+							<unitdate> 1989 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.18 </container>
+							<unittitle> Guernsey, Otis, includes MS: Unicorn,</unittitle>
+							<unitdate> 1962-1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.19 </container>
+							<unittitle> Hearon, Shelby,</unittitle>
+							<unitdate> 1977-1981 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.20 </container>
+							<unittitle> Hua, Mao Jian,</unittitle>
+							<unitdate> 1986 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.21 </container>
+							<unittitle> Johnson, H.B.,</unittitle>
+							<unitdate> 1945 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.22 </container>
+							<unittitle> Lewis, Salim,</unittitle>
+							<unitdate> 1952-1955 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.23 </container>
+							<unittitle> Manulis, Martin,</unittitle>
+							<unitdate> 1960-1985 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.24 </container>
+							<unittitle> Matta, Malitte,</unittitle>
+							<unitdate> 1970-1977 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 41.25 </container>
+							<unittitle> Menotti, Gian Carlo,</unittitle>
+							<unitdate> 1965-1970 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.1 </container>
+							<unittitle> Mosel, Tad,</unittitle>
+							<unitdate> 1963 -1964, 1992 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.4 </container>
+							<unittitle> O'Hara, Frank,</unittitle>
+							<unitdate> 1962-01-08 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.5 </container>
+							<unittitle> Penrose, Roland,</unittitle>
+							<unitdate> 1983-09-24 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 43.10 </container>
+							<unittitle> Rawlings, John,</unittitle>
+							<unitdate> 1957-1963 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.6 </container>
+							<unittitle> Reinhardt, Ad,</unittitle>
+							<unitdate> 1962 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.7 </container>
+							<unittitle> Rockefeller, Larry,</unittitle>
+							<unitdate> 1970 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.8 </container>
+							<unittitle> Sadao, Shoji,</unittitle>
+							<unitdate> 1968-1973 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.9 </container>
+							<unittitle> Smith, David,</unittitle>
+							<unitdate> 1961, 1965 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.10 </container>
+							<unittitle> Smith, David, to P.M., note written on blank check,</unittitle>
+							<unitdate> undated </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.11 </container>
+							<unittitle> Turner, Tess,</unittitle>
+							<unitdate> 1965-1966 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.12 </container>
+							<unittitle> Tworkov, Jack,</unittitle>
+							<unitdate> 1959-1972 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.13 </container>
+							<unittitle> Angleton, Carmen,</unittitle>
+							<unitdate> 2003-04-10 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.14 </container>
+							<unittitle> Whitney, John Hay,</unittitle>
+							<unitdate> 1960 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.15 </container>
+							<unittitle> Wilson, Robert,</unittitle>
+							<unitdate> 1975-2011 </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle> Mixed </unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container> 41.26 - 41.27 </container>
+							<unittitle> Morgan, Henry and Marian (parents), correspondence to/from Priscilla Morgan,</unittitle>
+							<unitdate> 1840, 1911, 1953-1962 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container> 42.2 - 42.3, 43.4 - 43.8 </container>
+							<unittitle> Noguchi, Isamu - to/from Priscilla Morgan, photocopies,</unittitle>
+							<unitdate> 1960-1973 </unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III. Photographs </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container> 47.1 </container>
+						<unittitle> Cummings, Ralph Waldo,</unittitle>
+						<unitdate> circa 1950-1959 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.2 </container>
+						<unittitle> Fuller, Buckminster and Morgan, Priscilla,</unittitle>
+						<unitdate> 1970-1983 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.3 </container>
+						<unittitle> Fuller, Buckminster, slides taken by Isamu Noguchi, India, Nehru Memorial,</unittitle>
+						<unitdate> 1969 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.4 </container>
+						<unittitle> Harlem Theater Workshop, building facade,</unittitle>
+						<unitdate> 1972 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.5 - 47.6 </container>
+						<unittitle> Morgan, Priscilla, childhood, family,</unittitle>
+						<unitdate> circa 1910-1919, circa 1940-1949 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.7 </container>
+						<unittitle> Morgan, Priscilla, 90th birthday,</unittitle>
+						<unitdate> 2009 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.8 </container>
+						<unittitle> Menotti, Gian Carlo,</unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.9 </container>
+						<unittitle> Menotti, Martin's Lie,</unittitle>
+						<unitdate> 1964 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.10 </container>
+						<unittitle> Noguchi, Isamu, childhood,</unittitle>
+						<unitdate> circa 1910 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.11 </container>
+						<unittitle> Noguchi, Isamu, Morgan, Priscilla,</unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.12 </container>
+						<unittitle> Noguchi Fountain, Plaza, Detroit, MI,</unittitle>
+						<unitdate> 1973 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.13 </container>
+						<unittitle> Noguchi Sculptures,</unittitle>
+						<unitdate> undated </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.14 </container>
+						<unittitle> Travel, including Japan,</unittitle>
+						<unitdate> circa 1950-1999 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.15 - 47.16 </container>
+						<unittitle> Unidentified, children, friends, family,</unittitle>
+						<unitdate> circa 1970, 1980-1999 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.17 </container>
+						<unittitle> Scrapbook photo album, Sapporo Art Park,</unittitle>
+						<unitdate> 1997 October </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.18 </container>
+						<unittitle> Vassar exhibition re Priscilla Morgan,</unittitle>
+						<unitdate> 2007 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.19 </container>
+						<unittitle> Vassar,</unittitle>
+						<unitdate> circa 1920-1939 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 47.20 </container>
+						<unittitle> Negatives, unidentified,</unittitle>
+						<unitdate> circa 1940-1959 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> 48 </container>
+						<unittitle> (2) photo albums, Japan, New York, Italy, Noguchi,</unittitle>
+						<unitdate> circa 1970-1989 </unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

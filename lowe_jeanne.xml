@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_lowe_jeanne</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Jeanne R. Lowe Papers, circa 1941-1972</titleproper>
+				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave, Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>April 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck, <date>April 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Lowe, Jeanne R.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Jeanne R. Lowe Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">circa 1941-1972</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 35.5 cubic feet (37 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The collection consists of journalist and educator Jeanne R. Lowe's correspondence, writings, notes, and substantial research materials pertaining to urban renewal, urban housing, the role of women in the sciences, race, public housing, and community planning in the United States. Specific cities covered include New York, New Haven, Philadelphia, Pittsburgh, Miami, Sunnyvale (CA), Chicago, Rochester, and Washington, D.C.. Writings include drafts of Lowe's book <emph render="italic">Cities in a Race with Time</emph> (1967), as well as numerous other publications written for the Ford Foundation, the Alfred P. Sloan Foundation, and other non-governmental organizations. Also included are personal and professional materials related to Lowe's life and career, including her work with academic organizations as a lecturer and organizer for Goucher College, Vassar College, and New York University.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Jeanne R. Lowe (1924-1972) was born in Pelham, NY, and attended the Horace Mann School for Girls. After she graduated from Vassar in December 1944 (Class of 1945-4), Lowe began a career in journalism. In time, her interests focused on urban affairs and she became known as an expert in that field. From 1959 to 1960, she directed Goucher College's seventy-fifth anniversary, a year-long program on urban society. She was a frequent lecturer on college and university campuses and spoke before numerous national organizations. A regular contributor to magazines such as <emph render="italic">Harper's Magazine</emph> and <emph render="italic">The Nation</emph>, Lowe's major publication was her book, <emph render="italic">Cities in a Race with Time</emph>, published in 1967. She was engaged as a consultant by many organizations, including the National Urban Coalition, the Fund for the City of New York, and the Ford Foundation. At the time of her death, Jeanne Lowe was a senior fellow at the Urban Center of New York University and a lecturer at the university's Washington Square campus.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<head>Chronology</head>
+			<chronlist>
+				<chronitem><date>1924</date><event>Jeanne R. Lowe is born in Pelham, NY.</event></chronitem>
+				<chronitem><date>1941</date><event>Graduated from Horace Mann School for Girls, New York City.</event></chronitem>
+				<chronitem><date>1941-1944</date><event>Attended Vassar College and graduated with a B.A. in Modern European History.</event></chronitem>
+				<chronitem><date>1944-1946</date><event>Editorial researcher at <emph render="italic">TIME Magazine</emph>, also worked on <emph render="italic">LIFE</emph> and <emph render="italic">Fortune</emph>.</event></chronitem>
+				<chronitem><date>1948-1949</date><event>Researcher-writer for <emph render="italic">The Reporter Magazine</emph>.</event></chronitem>
+				<chronitem><date>1949-1955</date><event>Account executive at Roger Brown, Inc.</event></chronitem>
+				<chronitem><date>1955-1957</date><event>Assistant public information manager for ACTION (American Council to Improve Our Neighborhoods)</event></chronitem>
+				<chronitem><date>1959-1960</date><event>Director of Goucher College’s 75th anniversary program on "Human Values in the Emerging City." Papers commissioned for this project were published in 1963 by University of Pittsburgh Press as <emph render="italic">Man and the Modern City</emph>.</event></chronitem>
+				<chronitem><date>1964-1965</date><event>Conducted research study on business leadership in metropolitan affairs for the Committee on Economic Development (CED).</event></chronitem>
+				<chronitem><date>1966</date><event>Published a book-length report, <emph render="italic">Urban Renewal in Flux: The New York View</emph>.</event></chronitem>
+				<chronitem><date>1967</date><event>Published <emph render="italic">Cities in a Race with Time</emph>.</event></chronitem>
+				<chronitem><date>1967-1968</date><event>Expert witness and consultant for the National Commission on Urban Problems.</event></chronitem>
+				<chronitem><date>1967-1969</date><event>Senior editor at <emph render="italic">McCall’s Magazine</emph>.</event></chronitem>
+				<chronitem><date>1969-1970</date><event>On commission from the New York City Housing Authority, prepared a history of the Authority. For the New York Urban Coalition with a grant from the Alfred P. Sloan Foundation, directed a study of corporate resources of NYC universities.</event></chronitem>
+				<chronitem><date>1970</date><event>Investigated urban planning in European countries as Writer in Residence for The American Academy in Rome.</event></chronitem>
+				<chronitem><date>1971</date><event>Conducted housing study for the Fund for the City of New York. Worked on a monograph for Syracuse University on its Maxwell School for Citizenship and Public Affairs. Worked on a book for middle school-age readers on the urban crisis, on contract from the MacMillan Company.</event></chronitem>
+				<chronitem><date>1972</date><event>Published <emph render="italic">The Near Side of Federalism</emph> for the Ford Foundation, reporting on Foundation-assisted projects.</event></chronitem></chronlist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection consists of journalist and educator Jeanne R. Lowe's correspondence, writings, notes, and substantial research materials pertaining to urban renewal, urban housing, the role of women in the sciences, race, public housing, and community planning in the United States. Specific cities covered include New York, New Haven, Philadelphia, Pittsburgh, Miami, Sunnyvale (CA), Chicago, Rochester, and Washington, D.C.. Writings include drafts of Lowe's book <emph render="italic">Cities in a Race with Time</emph> (1967), as well as numerous other publications written for the Ford Foundation, the Alfred P. Sloan Foundation, and other non-governmental organizations. Also included are personal and professional materials related to Lowe's life and career, including her work with academic organizations as a lecturer and organizer for Goucher College, Vassar College, and New York University.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p><extref href="https://vassar.primo.exlibrisgroup.com/discovery/search?vid=01VAC_INST:VAC">Jeanne Lowe's published monographs were removed from the collection and catalogued separately. They can be found by searching the Vassar College online catalog.</extref></p>
+			<p>Nine boxes of publications were separated from the collection and discarded during processing, including those published by the U.S. Federal Government, the State of New York, and the United Nations. Issues of magazines including <emph render="italic">Architectural Forum</emph> and <emph render="italic">House &amp; Home</emph> were also discarded.</p>
+		</separatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Gruen, Victor, 1903-1980</persname>
+				<persname source="lcnaf" encodinganalog="600">Moses, Robert, 1888-1981</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Alfred P. Sloan Foundation</corpname>
+				<corpname source="lcnaf" encodinganalog="610">American Council to Improve Our Neighborhoods</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Committee for Economic Development</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Ford Foundation</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Fund for the City of New York</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Goucher College</corpname>
+				<corpname source="lcnaf" encodinganalog="610">National Urban Coalition (U.S.)</corpname>
+				<corpname source="lcnaf" encodinganalog="610">New York University</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">City planning--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Housing--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Housing policy--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Public housing--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Racism--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Urban renewal--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Urban renewal--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Urban policy--New York (State)</subject>
+				<subject source="lcsh" encodinganalog="650">Urban policy--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Women journalists</subject>
+				<subject source="lcsh" encodinganalog="650">Women college teachers</subject>
+				<subject source="lcsh" encodinganalog="650">Women authors, American</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Chicago (Ill.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Miami (Fla.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New York (N.Y.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New Haven (Conn.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Philadelphia (Pa.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Pittsburgh (Pa.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Rochester (N.Y.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Sunnyvale (Calif.)--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Washington (D.C.)--Social conditions</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Conference proceedings</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Drafts (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Newsletters</genreform>
+				<genreform source="aat" encodinganalog="655">Notes (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Publications (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Economics</subject>
+				<subject source="local" encodinganalog="690">Journalism</subject>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Politics</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, April 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>The collection was processed by Emma Gronbeck, April 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Joseph Lowe, 1972. Additional materials gifted by Ruth L. Bookman, May 1973.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Jeanne R. Lowe Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Personal and Professional Papers, </unittitle>
+					<unitdate type="inclusive" normal="1941/1972">circa 1941-1972</unitdate>
+					<physdesc>(Boxes 1-2, 36)</physdesc>
+				</did>
+				<scopecontent><p>
+					This series consists of material related to Jeanne Lowe's personal and professional life, including biographical information, correspondence, teaching materials, Goucher College 75th anniversary planning materials, and Vassar College materials related to Lowe's time as an undergraduate and her participation in the college's 100th anniversary.
+				</p></scopecontent>
+				<arrangement><p>
+					Arranged alphabetically by title.
+				</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Writings, </unittitle>
+					<unitdate type="inclusive" normal="1946/1972">1946-1972</unitdate>
+					<physdesc>(Boxes 2-14, 37)</physdesc>
+				</did>
+				<scopecontent><p>
+					This series consists of drafts, notes, research materials, correspondence, publicity material, reviews, printed editions, and other material related to Jeanne Lowe's writings, including articles, reports, speeches, and books. Major works include Lowe's 1967 book, <emph render="italic">Cities in a Race With Time</emph>; her publication on Washington D.C.'s Southwest Project, <emph render="italic">The City Rebuilders</emph>; her 1971 report for the Sloan Foundation on continuing education for women; drafts for a middle-school book on cities for the MacMillan Company; her report for the Ford Foundation on projects they had funded, <emph render="italic">The Near Side of Federalism</emph>; and a survey of secondary schools for New York University.
+				</p></scopecontent>
+				<arrangement><p>
+					Arranged into seven subseries: <emph render="italic">Cities in a Race With Time</emph> (1967), <emph render="italic">The City Rebuilders</emph>, <emph render="italic">Continuing Education for Women: Report for the Sloan Foundation</emph> (1971), MacMillan Book, <emph render="italic">The Near Side of Federalism</emph> (Ford Foundation Report), New York University Survey of Secondary Schools, and Other Writings.
+				</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Projects and Research by City, </unittitle>
+					<unitdate type="inclusive" normal="1943/1972">1943-1972</unitdate>
+					<physdesc>(Boxes 14-27)</physdesc>
+				</did>
+				<scopecontent><p>
+					This series consists of Jeanne Lowe's writing drafts, notes, research materials, and correspondence related to particular cities in the United States, particularly New York City; New Haven, Connecticut; Philadelphia, Pennsylvania; and Sunnyvale, California. New York City subjects include public official and urban planner Robert Moses, the Fund for the City of New York, the New York Housing and Development Board, the New York Urban Coalition, and the National Urban Coalition. Research materials include newspaper clippings, pamphlets, reports, newsletters, proposals, and other material produced by government, non-profit, and corporate entities.
+				</p></scopecontent>
+				<arrangement><p>
+					Arranged alphabetically by city.
+				</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Subject Files, </unittitle>
+					<unitdate type="inclusive" normal="1951/1972">1951-1972</unitdate>
+					<physdesc>(Boxes 27-31, 37)</physdesc>
+				</did>
+				<scopecontent><p>
+					This series consists of Jeanne Lowe's writing drafts, notes, research materials, and correspondence related to various topics around city planning and urban renewal. Significant topics include European urban development, the planning of new towns, public housing, the suburbs, and architect Victor Gruen. Research materials include newspaper clippings, pamphlets, reports, newsletters, proposals, and other material produced by government, non-profit, and corporate entities.
+				</p></scopecontent>
+				<arrangement><p>
+					Arranged alphabetically by subject, with miscellaneous files at the end of the sequence.
+				</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Jeanne Lowe Research Library, </unittitle>
+					<unitdate type="inclusive" normal="1948/1972">1948-1972</unitdate>
+					<physdesc>(Boxes 31-36)</physdesc>
+				</did>
+				<scopecontent><p>
+					This series consists of Jeanne Lowe's collected publications on topics related to city planning, urban renewal, race, and housing. Material types include reports, proposals, and other publications produced by non-governmental organizations, including the Committee for Economic Development (CED); local and state government publications related to policy, redevelopment, and analysis of various aspects of city planning; and other published materials related to urban renewal.
+				</p></scopecontent>
+				<arrangement><p>
+					Arranged alphabetically by subject, with miscellaneous publications filed at the end of the sequence.
+				</p></arrangement>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+<c01 level="series" id="series1"><did><unittitle>Series I. Personal and Professional Papers, </unittitle><unitdate type="inclusive" normal="circa 1941/1972">circa 1941-1972</unitdate></did>
+<c02 level="file"><did><unittitle><emph render="bold">Biographical</emph></unittitle></did>
+<c03 level="file"><did><container>Folder 1.1</container><unittitle>American Academy in Rome - Correspondence, story leads, and assignments, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.2</container><unittitle>American Academy in Rome - Fellowship in Environmental Design, </unittitle><unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.3</container><unittitle>"Barry Gray Show" #242, featuring Jeanne Lowe, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>[audio reel]</physdesc></did></c03>
+<c03 level="file"><did><container>Folder 1.4</container><unittitle>Job searching, </unittitle><unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.5</container><unittitle>Job searching, </unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.6</container><unittitle>Job searching, notebooks, </unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.7</container><unittitle>Lowe, clippings, </unittitle><unitdate type="inclusive" normal="1967/1969">1967, 1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.8</container><unittitle>Lowe, memorial pamphlet, </unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.9</container><unittitle>Lowe, photographs, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.10</container><unittitle>Lowe, resumes and biographical information, </unittitle><unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate></did></c03>
+	<c03 level="file"><did><container>Folder 1.11</container><unittitle>Phi Beta Kappa, Visiting Scholar Program, </unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Box 36</container><unittitle>Planner, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Conferences</emph></unittitle></did>
+<c03 level="file"><did><container>Folder 1.12</container><unittitle>ACTION Executives Seminar on the American City, </unittitle><unitdate type="inclusive" normal="195905">1959 May</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.13</container><unittitle>ACTION, "The Seminar on Civic Leadership," Yale Law School, </unittitle><unitdate type="inclusive" normal="19590514">1959 May 14</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.14</container><unittitle>Center for NYC Affairs of the New School, Seminar on Urban Renewal, </unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.15</container><unittitle>National League of Cities annual conference, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.16</container><unittitle>"The Planning of Our City--Reading Notes", </unittitle><unitdate type="inclusive" normal="1956">circa 1956</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.17</container><unittitle>"A Report on the The First National Corporate Executives Seminar on the American City," presented by ACTION, seminar agenda, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Correspondence</emph></unittitle></did>
+<c03 level="file"><did><container>Folder 1.18</container><unittitle>A, </unittitle><unitdate type="inclusive" normal="1957/1971">1957-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.19</container><unittitle>ACTION (American Council to Improve Our Neighborhoods), </unittitle><unitdate type="inclusive" normal="1955">1955</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.20</container><unittitle>B, </unittitle><unitdate type="inclusive" normal="1968/1972">1968-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.21</container><unittitle>Brunt, Harry H., </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.22</container><unittitle>C, </unittitle><unitdate type="inclusive" normal="1961/1972">1961-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.23</container><unittitle>Campbell, Alan K., </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.24</container><unittitle>Claremont University, </unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.25</container><unittitle>Committee on Architectural Preservation, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.26</container><unittitle>D-F, </unittitle><unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.27</container><unittitle>Drew University, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.28</container><unittitle>Fan mail, </unittitle><unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.29</container><unittitle>Foundation News, </unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.30</container><unittitle>Fund for the City of New York, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.31</container><unittitle>G-H, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.32</container><unittitle><emph render="italic">Harper's Magazine</emph>, </unittitle><unitdate type="inclusive" normal="1957/1971">1957, 1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.33</container><unittitle>The Harry Walker Bureau, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.34</container><unittitle><emph render="italic">House &amp; Home</emph>, </unittitle><unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.35</container><unittitle>I-K, </unittitle><unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.36</container><unittitle>L, </unittitle><unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.37</container><unittitle>Lowe family, </unittitle><unitdate type="inclusive" normal="1941/1945">circa 1941-1945</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.38</container><unittitle>Library of Urban Affairs, </unittitle><unitdate type="inclusive" normal="1967/1970">1967-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.39</container><unittitle>M, </unittitle><unitdate type="inclusive" normal="1963/1970">1963-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.40</container><unittitle>Minnesota Mining &amp; Manufacturing Co., </unittitle><unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.41</container><unittitle>Muskie Committee, </unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.42</container><unittitle>N, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.43</container><unittitle>Osman, John, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.44</container><unittitle>P-R, </unittitle><unitdate type="inclusive" normal="1957/1970">1957-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.45</container><unittitle>"Redevelopment officials", </unittitle><unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.46</container><unittitle>S, </unittitle><unitdate type="inclusive" normal="1962/1972">1962-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.47</container><unittitle><emph render="italic">Saturday Evening Post</emph>, </unittitle><unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.48</container><unittitle><emph render="italic">The Saturday Review</emph>, </unittitle><unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.49</container><unittitle>Speaking invitations, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.50</container><unittitle>T, </unittitle><unitdate type="inclusive" normal="1944/1970">1944-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.51</container><unittitle>U, </unittitle><unitdate type="inclusive" normal="1957/1970">1957-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.52</container><unittitle>Vassar College, </unittitle><unitdate type="inclusive" normal="1955">1955</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.53</container><unittitle>W, </unittitle><unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.54</container><unittitle>Y, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.55</container><unittitle>Unidentified, </unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></did></c03></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Goucher College 75th Anniversary Special Program</emph></unittitle></did>
+<c03 level="file"><did><container>Folder 1.56</container><unittitle>Bibliography, </unittitle><unitdate type="inclusive" normal="1959">circa 1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.57</container><unittitle>Clippings, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.58</container><unittitle>Correspondence and planning, </unittitle><unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 1.59</container><unittitle>Ephemera, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.1</container><unittitle>Goucher Alumnae Quarterly, Seventy-Fifth Anniversary Issue, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.2</container><unittitle>"Man and the Modern City," correspondence, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.3</container><unittitle>Panel and discussion summaries, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.4</container><unittitle>Paper by Lawrence Frank, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.5</container><unittitle>"Reading for the Seminar on Human Values in the Emerging American City," Vol. 2, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.6</container><unittitle>"Reading for the Seminar on Human Values in the Emerging American City," Vol. 3, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.7</container><unittitle>"Reading for the Seminar on Human Values in the Emerging American City," Vol. 4, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.8</container><unittitle>"Reading for the Seminar on Human Values in the Emerging American City," Vol. 5, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 2.9-2.11</container><unittitle>"Readings for the Seminars on Human Values in the Emerging American City", </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate><physdesc>[3 copies]</physdesc></did></c03></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Teaching</emph></unittitle></did>
+<c03 level="file"><did><container>Folder 2.12</container><unittitle>Correspondence and proposals, </unittitle><unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.13</container><unittitle>NYU, </unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 2.14-2.15</container><unittitle>NYU, "City in Crisis", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.16</container><unittitle>Universities, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.17</container><unittitle>Yale lecture notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03></c02>
+<c02 level="file"><did><unittitle><emph render="bold">Vassar College</emph></unittitle></did>
+<c03 level="file"><did><container>Folder 2.18</container><unittitle>Acceptance letter, </unittitle><unitdate type="inclusive" normal="1941">1941</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.19</container><unittitle>Centennial symposium, </unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.20</container><unittitle>"Next 20 Years," notes, </unittitle><unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.21</container><unittitle>Student papers, </unittitle><unitdate type="inclusive" normal="1942">1942</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.22</container><unittitle>Student papers, </unittitle><unitdate type="inclusive" normal="1943">1943</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.23</container><unittitle>Student paper, "Ticonderoga: The Study of a Community", </unittitle><unitdate type="inclusive" normal="1943">1943</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 2.24</container><unittitle>Student paper, "Which Way to Peace? - From the Rhineland to Munich", </unittitle><unitdate type="inclusive" normal="1944">1944</unitdate></did></c03></c02></c01>
+<c01 level="series" id="series2"><did><unittitle>Series II. Writings, </unittitle><unitdate type="inclusive" normal="1946/1972">1946-1972</unitdate></did>
+<c02 level="subseries"><did><unittitle>Cities in a Race With Time (1967)</unittitle></did>
+<c03 level="file"><did><unittitle><emph render="bold">Correspondence</emph></unittitle></did>
+<c04 level="file"><did><container>Folder 2.25</container><unittitle>General, </unittitle><unitdate type="inclusive" normal="1959/1968">1959-1968</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.26</container><unittitle>Avalon Foundation Grant, </unittitle><unitdate type="inclusive" normal="1959/1963">1959-1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.27</container><unittitle>Julian Bach, </unittitle><unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.28</container><unittitle>Film adaptation suggestions, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.29</container><unittitle>Foreign rights, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 2.30-2.31</container><unittitle>Letters of congratulations, </unittitle><unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.32</container><unittitle>Letters received by J.R. Cominsky about the book, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.33</container><unittitle>Letters to editors, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.34</container><unittitle>Magazines, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c04></c03>
+<c03 level="file"><did><unittitle><emph render="bold">Drafts</emph></unittitle></did>
+<c04 level="file"><did><container>Folders 2.35-2.36</container><unittitle>"The City: America's Unfinished Business", </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 2.37</container><unittitle>"The Past is Prelude," Ch 1-3, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.1</container><unittitle>Ch 1, "first draft", </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 3.2-3.3</container><unittitle>Ch 1, drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.4</container><unittitle>Ch 1-2, revised drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.5</container><unittitle>Ch 2, "The Man Who Got Things Done for New York," drafts, </unittitle><unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.6</container><unittitle>Ch 2, "The Man Who Got Things Done for New York," draft, </unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.7</container><unittitle>Ch 2, "The Man Who Got Things Done for New York," drafts and notes, </unittitle><unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.8</container><unittitle>Ch 2, "The Man Who Got Things Done for New York," drafts, notes, and research, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 3.9-3.12</container><unittitle>Ch 2, drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.13</container><unittitle>Ch 2-3, "first draft", </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.14</container><unittitle>Ch 3, "The New Coalition," drafts and correspondence, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.15</container><unittitle>Ch 3, "The New Coalition," draft, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 3.16-3.18</container><unittitle>Ch 3, "The New Coalition," drafts and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 3.19</container><unittitle>Ch 4-5, drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.1</container><unittitle>Ch 7, drafts, notes and clippings, </unittitle><unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.2</container><unittitle>Ch 7, drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 4.3-4.4</container><unittitle>Ch 7, "Housing," drafts and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.5</container><unittitle>Ch 7, "End of the Line," drafts and notes, </unittitle><unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 4.6-4.7</container><unittitle>Ch 7, "End of the Line," notes and research, </unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.8</container><unittitle>Ch 7, research, </unittitle><unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.9</container><unittitle>Ch 8, "A City for the People," draft, </unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.10</container><unittitle>Ch 8, "A City for the People," draft, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.11</container><unittitle>Ch 8, Philadelphia, notes and revisions, </unittitle><unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.12</container><unittitle>Ch 8, Philadelphia, notes and research, </unittitle><unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.13</container><unittitle>Ch 8, Philadelphia, photographs and captions, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.14</container><unittitle>Ch 10, draft, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.15</container><unittitle>Conclusion, "first draft", </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 4.16-4.18</container><unittitle>Conclusion, drafts and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.19</container><unittitle>Chicago chapter, "Renewing Neighborhoods," draft, </unittitle><unitdate type="inclusive" normal="circa 1960">circa 1960</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.20</container><unittitle>Miami chapter, drafts, correspondence, and research, </unittitle><unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 4.21-4.22</container><unittitle>Miami chapter, drafts, notes, and research, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 4.23</container><unittitle>Miami chapter, drafts and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 5.1</container><unittitle>Unsorted drafts and notes, </unittitle><unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 5.2</container><unittitle>Unsorted drafts and notes, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 5.3</container><unittitle>Unsorted drafts and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04></c03>
+<c03 level="file"><did><container>Folder 5.4</container><unittitle>Excerpts published in magazines, </unittitle><unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 5.5</container><unittitle>Editing, 3rd printing, corrections, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 5.6</container><unittitle>Editing, comments on manuscript, </unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 5.7-5.15</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 5.16-5.17</container><unittitle>Notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 5.18</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1962">1958-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.1</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.2</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1959/1963">1959-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.3</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.4</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.5</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.6</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.7</container><unittitle>Notes and research, "housing", </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.8</container><unittitle>Notes and research, "housing", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.9</container><unittitle>Notes and research, "Housing/New Illusions", </unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.10</container><unittitle>Notes and research, Public Housing Act of 1965, </unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.11</container><unittitle>Notes and research, "Relocation", </unittitle><unitdate type="inclusive" normal="1958/1960">1958-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.12</container><unittitle>Outline, drafts, </unittitle><unitdate type="inclusive" normal="1958">circa 1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.13</container><unittitle>Outline and description, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.14</container><unittitle>Proofs, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.15</container><unittitle>Publicity, advance notices, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.16</container><unittitle>Publicity, book blurb, </unittitle><unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.17</container><unittitle>Publicity, ephemera, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 6.18</container><unittitle>Publicity, flyer from Random House, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.1</container><unittitle>Publicity, flyer planning, </unittitle><unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.2</container><unittitle>Publicity, interview for NFSNC, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.3</container><unittitle>Publicity, paperback edition, </unittitle><unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.4</container><unittitle>Publicity, press releases, </unittitle><unitdate type="inclusive" normal="1963/1967">1963-1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.5</container><unittitle>Publicity, promotion letters, </unittitle><unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.6</container><unittitle>Publicity, promotion lists, </unittitle><unitdate type="inclusive" normal="1958/1966">1958-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.7</container><unittitle>Publicity, promotion to universities, </unittitle><unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.8</container><unittitle>Publicity, speaking invitations, </unittitle><unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.9</container><unittitle>Publicity, television programs, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.10</container><unittitle>Publicity material, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 37.1 (Oversize)</container><unittitle>Publicity material, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.11</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1946/1961">1946-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.12</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1958/1971">1958-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.13</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.14</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1960/1968">1960-1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 7.15-7.16</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.17</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1962/1971">1962-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.18</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1962/1972">1962-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.19</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 7.20</container><unittitle>Research, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.1</container><unittitle>Research - Chicago, Hyde Park, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.2</container><unittitle>Research - "conclusion", </unittitle><unitdate type="inclusive" normal="1958/1964">1958-1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.3</container><unittitle>Research - "End of the Line", </unittitle><unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.4</container><unittitle>Research - National Housing Conference, </unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.5</container><unittitle>Research - Philadelphia, Ford Foundation Project, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.6</container><unittitle>Research - Philadelphia, Schools, </unittitle><unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 8.7-8.9</container><unittitle>Research - "Relocation", </unittitle><unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.10</container><unittitle>Research - Schools, </unittitle><unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.11</container><unittitle>Research - "Segregation and integration", </unittitle><unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.12</container><unittitle>Review letters, </unittitle><unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 8.13-8.15</container><unittitle>Reviews, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 37.2 (Oversize)</container><unittitle>Reviews, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.16</container><unittitle>Reviews, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 8.17</container><unittitle>Reviews, clippings, </unittitle><unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>The City Rebuilders</unittitle></did>
+<c03 level="file"><did><container>Folder 9.1</container><unittitle>Correspondence and notes, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.2</container><unittitle>Draft and correspondence, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.3</container><unittitle>Drafts and notes, </unittitle><unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.4</container><unittitle>Drafts - Ch 3, Washington DC Southwest project, </unittitle><unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.5</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.6</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1960">1958-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.7</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.8</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.9</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.10</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.11</container><unittitle>Notes and research, Ch 3, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.12</container><unittitle>Notes and research, Ch 5, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.13</container><unittitle>Notes and research, "conclusion", </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.14</container><unittitle>Notes and research, "James H. Scheuer", </unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.15</container><unittitle>Notes and research, "James H. Scheuer, Cleveland", </unittitle><unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.16</container><unittitle>Notes and research, "Washington DC, Southwest project", </unittitle><unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.17</container><unittitle>Notes and research, "Washington DC, Southwest project", </unittitle><unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.18</container><unittitle>Notes and research, "Washington DC, Southwest project", </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.19</container><unittitle>Notes and research, "William Zeckendorf", </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.20</container><unittitle>Research - Insurance companies, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 9.21</container><unittitle>Research - Urban Renewal Symposium, Hartford, CT, </unittitle><unitdate type="inclusive" normal="196010">1960 Oct</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Continuing Education for Women: Report for the Sloan Foundation (1971)</unittitle></did>
+<c03 level="file"><did><container>Folder 10.1</container><unittitle>Correspondence, </unittitle><unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 10.2</container><unittitle>Draft, </unittitle><unitdate type="inclusive" normal="197106">1971 Jun</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 10.3</container><unittitle>Draft, "Appendix A: Schools with Special Programs or Services for Adult Women", </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 10.4</container><unittitle>Draft, "Appendix B: Related Services or Programs for Adult Women", </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 10.5</container><unittitle>Interviews, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 10.6</container><unittitle>Notes, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 10.7</container><unittitle>Notes, "Women in the Soviet Economy", </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><unittitle><emph render="bold">Notes and Research</emph></unittitle></did>
+<c04 level="file"><did><container>Folder 10.8</container><unittitle>Business management, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.9</container><unittitle>Engineering, </unittitle><unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.10</container><unittitle>Medicine, </unittitle><unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.11</container><unittitle>Miscellaneous Post-B.A. Programs, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.12</container><unittitle>PhDs in Science, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 10.13-10.14</container><unittitle>Professional Women and Equality, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.15</container><unittitle>Stanford Medical School, </unittitle><unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.16</container><unittitle>Proposals, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04></c03>
+<c03 level="file"><did><unittitle><emph render="bold">Research</emph></unittitle></did>
+<c04 level="file"><did><container>Folder 10.17</container><unittitle>College-Level Examination Program (CLEP), </unittitle><unitdate type="inclusive" normal="1971">circa 1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.18</container><unittitle>"The Female Engineer and Scientist" by Carolyn Perucci, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.19</container><unittitle>Individual Institutions: Brooklyn College, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.20</container><unittitle>Individual Institutions: Claremont Colleges, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.21</container><unittitle>Individual Institutions: College for Human Services, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.22</container><unittitle>Individual Institutions: George Washington University, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.23</container><unittitle>Individual Institutions: Loyola University, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.24</container><unittitle>Individual Institutions: Northeastern University, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.25</container><unittitle>Individual Institutions: Radcliffe Institute, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.26</container><unittitle>Individual Institutions: Sarah Lawrence College, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 10.27</container><unittitle>Individual Institutions: Simmons College, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.1</container><unittitle>Individual Institutions: Syracuse University College, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.2</container><unittitle>Individual Institutions: Tufts University, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.3</container><unittitle>Individual Institutions: University of Michigan, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.4</container><unittitle>Individual Institutions: University of Minnesota, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.5</container><unittitle>Individual Institutions: University of Pennsylvania, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.6</container><unittitle>Individual Institutions: University of Pittsburgh, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.7</container><unittitle>Individual Institutions: University of Wisconsin, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.8</container><unittitle>Miscellaneous papers, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.9</container><unittitle>Miscellaneous publications, </unittitle><unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 11.10</container><unittitle>Miscellaneous publications, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c04></c03></c02>
+<c02 level="subseries"><did><unittitle>MacMillan Book</unittitle></did>
+<c03 level="file"><did><container>Folder 11.11</container><unittitle>Bibliography drafts, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.12</container><unittitle>Chapter outlines, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.13</container><unittitle>Correspondence, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.14</container><unittitle>Drafts - Proposal and Chapters 1-5, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.15</container><unittitle>Drafts - Chapters 1-4, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.16</container><unittitle>Drafts - Chapter 1, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.17</container><unittitle>Drafts - Chapter 2, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.18</container><unittitle>Drafts - Chapter 3, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 11.19-11.20</container><unittitle>Drafts - Chapter 4, with notes, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 11.21-11.22</container><unittitle>Drafts - Chapter 5, with notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.23</container><unittitle>Drafts - Chapter 5, notes and clippings, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.24</container><unittitle>Drafts - Chapter 6, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.25</container><unittitle>Drafts - Chapter 7, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.26</container><unittitle>Drafts - Chapter 8, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.27</container><unittitle>Drafts and notes, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 11.28-11.29</container><unittitle>Notes, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.30</container><unittitle>Notes - "Urban Living: Value of Bigness vs Problems of Size", </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.31</container><unittitle>Notes - "Why Cities Are in Trouble", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.32</container><unittitle>Research, clippings, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.33</container><unittitle>Research, "crime", </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.34</container><unittitle>Research, "Grade 8 Urban Growth…Calendar of Lessons", </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.35</container><unittitle>Research, "Grade 8 Urban Growth…Course of Study and Related Learning Activities…", </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>The Near Side of Federalism (Ford Foundation Report)</unittitle></did>
+<c03 level="file"><did><container>Folder 11.36</container><unittitle>Correspondence, </unittitle><unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.37</container><unittitle>Drafts, outline, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 11.38</container><unittitle>Drafts, "first draft", </unittitle><unitdate type="inclusive" normal="196712">1967 Dec</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.1</container><unittitle>Draft, </unittitle><unitdate type="inclusive" normal="1968">circa 1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.2</container><unittitle>Draft, </unittitle><unitdate type="inclusive" normal="196807">1968 Jul</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.3</container><unittitle>Draft, revisions, </unittitle><unitdate type="inclusive" normal="196808">1968 Aug</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.4</container><unittitle>Draft, </unittitle><unitdate type="inclusive" normal="196902">1969 Feb</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.5</container><unittitle>Draft, </unittitle><unitdate type="inclusive" normal="19690624">1969 Jun 24</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.6</container><unittitle>Draft with revisions, </unittitle><unitdate type="inclusive" normal="197106">1971 Jun</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.7</container><unittitle>Draft, </unittitle><unitdate type="inclusive" normal="197109">1971 Sep</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.8</container><unittitle>Notes, </unittitle><unitdate type="inclusive" normal="1968">circa 1968</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>New York University Survey of Secondary Schools</unittitle></did>
+<c03 level="file"><did><container>Folder 12.9</container><unittitle>Correspondence with publishers, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.10</container><unittitle>Correspondence with school districts, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.11</container><unittitle>Correspondence with State Department of Education, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.12</container><unittitle>Correspondence, urban affairs curriculum, </unittitle><unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.13</container><unittitle>Notes, urban affairs curriculum, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.14</container><unittitle>Research, Chicago, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.15</container><unittitle>Research, Detroit Public Schools, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.16</container><unittitle>Research, Indianapolis, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.17</container><unittitle>Research, Seattle Public Schools, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Other Writings</unittitle></did>
+<c03 level="file"><did><container>Folder 12.18</container><unittitle>"85 Million Live in US Slums" (The Tulsa Tribune), clipping, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.19</container><unittitle>"Adequate, Open Housing in Metropolis: Comprehensive Area Management's Challenge to the Business Community (National Association of Manufacturers, Area Industrial Problems Committee), drafts, </unittitle><unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.20</container><unittitle>"The American House," article on property tax reform, notes, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.21</container><unittitle>"Balanced [Neighborhoods]," notes and drafts, </unittitle><unitdate type="inclusive" normal="1961">circa 1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 12.22-12.23</container><unittitle>"Balanced [Neighborhoods]," research, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.24</container><unittitle>"Battle Against Blight: Remaking Our Cities" (North American Newspaper Alliance), proofs, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.25</container><unittitle>"Can Americans Create a City of Joy?" in the Proceedings of the 44th Annual Congress of Cities of the National League of Cities, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.26</container><unittitle>"Cities in Crisis" (Journal of National Association of Women Deans and Counselors), clippings, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.27</container><unittitle>"Clearance Plans Promise Results" (The Chattanooga Times), clipping, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.28</container><unittitle>"Community Facilities and Services" for James Scheuer, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.29</container><unittitle>"Downtown Areas: Mess to Malls" (<emph render="italic">The Tulsa Tribune</emph>), clipping, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.30</container><unittitle>"European vs American Urban Policy," for the 20th Century Fund, draft, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.31</container><unittitle>"Federal Renewal Program Aids in Slum Clearance" (<emph render="italic">Syracuse Herald-Journal</emph>), clipping, </unittitle><unitdate type="inclusive" normal="">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.32</container><unittitle>Film proposal - "New Life for American Cities: A Case Study - New Haven, CT," draft with correspondence, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.33</container><unittitle>"Fort Worth Forgot to Remember the Citizen" (<emph render="italic">Journal of Housing</emph>), clippings, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.34</container><unittitle>"Greenwich - LWU speech," notes and research, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.35</container><unittitle>"Higbee ms" for the 20th Century Fund, draft, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.36</container><unittitle>"Hofstra College and Long Island," draft, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.37</container><unittitle>"Housing and Urban Change: Where Does Social Work Fit In," speech for University of Chicago School of Social Service Administration, draft, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.38</container><unittitle>"Housing and Urban Change: Where Does Social Work Fit In" (<emph render="italic">The Social Service Review</emph>), clippings, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.39</container><unittitle>"Last Test for Federalism" (<emph render="italic">THINK Magazine</emph>), drafts, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 12.40</container><unittitle>"Lee of New Haven and His Political Inkpot" (<emph render="italic">Harper's Magazine</emph>), clippings, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.1</container><unittitle>"Local Funds Put to Worth Building Up Downtowns" (<emph render="italic">Syracuse Herald-Journal</emph>), clipping, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.2</container><unittitle><emph render="italic">LOOK Magazine</emph>, CPI article, draft, </unittitle><unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.3</container><unittitle>"'Lowe' Program for Cities," drafts, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.4</container><unittitle>"Major Overhaul Needed in Cities" (<emph render="italic">The Chattanooga Times</emph>), clipping, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.5</container><unittitle><emph render="italic">McCall's Magazine</emph> - Article, drafts and correspondence, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 37.3 (Oversize)</container><unittitle><emph render="italic">McCall's Magazine</emph> - Articles and editorials, clippings, </unittitle><unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.6</container><unittitle>"A Metropolitan Strategy for the Private Sector" (<emph render="italic">The Saturday Review</emph>), drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.7</container><unittitle>Miscellaneous speech notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.8</container><unittitle>National Association of Women Deans and Counselors, speech, drafts, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.9</container><unittitle>National Association of Women Deans and Counselors, speech, notes and research, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.10</container><unittitle>National Commission on Urban Problems (Douglas Commission), Lowe testimony, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.11</container><unittitle>The Nation, "New Coalition," drafts and notes, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.12</container><unittitle>The Nation, "New Coalition," draft with correspondence, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.13</container><unittitle>"New Life for Aging Neighborhoods" (<emph render="italic">America Illustrated</emph>), </unittitle><unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.14</container><unittitle>"The Negro Woman," drafts and research, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.15</container><unittitle>"NY Urban Development Company Proposal" for the 20th Century Fund, draft, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.16</container><unittitle>Notebook - Economics Meeting, census, etc., </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.17</container><unittitle>Notebook - RPA meeting, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.18</container><unittitle>Notes - "Andrew Haswell Green", </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.19</container><unittitle>Notes - "Buffalo, [NY] - Alinsky", </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.20</container><unittitle>Notes - "case histories", </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.21</container><unittitle>Notes - "Future projects", </unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.22</container><unittitle>Notes - "Possible projects", </unittitle><unitdate type="inclusive" normal="1962/1970">1962-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.23</container><unittitle>Notes - "Story ideas", </unittitle><unitdate type="inclusive" normal="1957/1959">1957-1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.24</container><unittitle>Notes - "Writer's job", </unittitle><unitdate type="inclusive" normal="1964">1964, undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.25</container><unittitle>"Old Cities and New Towns" in <emph render="italic">The Saturday Review</emph>, </unittitle><unitdate type="inclusive" normal="196804">1968 Apr</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.26</container><unittitle>"Our Urban Crisis," speech notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.27</container><unittitle>Pennsylvania Planning Association Annual Meeting, speech drafts, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.28</container><unittitle>"The Press Takes a Long-Range Look at Urban Renewal" (NAHRO Convention), drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.29</container><unittitle>"Progress Report on Cities" (National American Newspaper Alliance), proofs, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.30</container><unittitle>"Race, Jobs, and Cities: What Business Can Do," for <emph render="italic">The Saturday Review</emph>, drafts and correspondence, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.31</container><unittitle>"Race, Jobs, and Cities: What Business Can Do" (<emph render="italic">The Saturday Review</emph>), clippings, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.32</container><unittitle>"Rebuilding Cities - and Politics" (<emph render="italic">The Nation</emph>), clipping, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 13.33</container><unittitle>"Rebuilding Cities - and Politics" (<emph render="italic">The Nation</emph>), reviews, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 14.1-14.2</container><unittitle>Sermon before the First Unitarian Church of Cleveland, drafts and notes, </unittitle><unitdate type="inclusive" normal="19691109">1969 Nov 9</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.3</container><unittitle>"Special To: Women's News Service," draft, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.4</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, clipping, </unittitle><unitdate type="inclusive" normal="197003/197004">1970 Mar-Apr</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.5</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, correspondence and drafts, </unittitle><unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.6</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, notebooks, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.7</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, research, Buffalo-Amherst Corridor, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.8</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, research, Lysander, NY "New Community", </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.9</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, research, Mid-Hudson Pattern for Progress, Inc., </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.10</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, research, NY Urban Development Corporation, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.11</container><unittitle>"The States, Will They Act to Save Our Cities?" for <emph render="italic">THINK</emph>, research, "Welfare Island", </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.12</container><unittitle>"Travel in Egypt," draft, </unittitle><unitdate type="inclusive" normal="1947">circa 1947</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.13</container><unittitle>"Travel in Egypt" (for <emph render="italic">New York Times</emph>), draft, </unittitle><unitdate type="inclusive" normal="1952">circa 1952</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.14</container><unittitle>"Urban Renewal," draft, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.15</container><unittitle>"The University and the Emerging Federalism" conference, speech drafts, </unittitle><unitdate type="inclusive" normal="1972">1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.16</container><unittitle>"Victor Gruen," drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.17</container><unittitle>"Washington's 'Operation Exodus'" (<emph render="italic">Reader's Digest</emph>), draft, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.18</container><unittitle>"What Rehabilitation Can Do (and Can't Do) to Uplift People as Well as Houses" (<emph render="italic">House &amp; Home</emph>), clipping, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.19</container><unittitle>"What White America Must Do" (<emph render="italic">The Saturday Review</emph>), clipping, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.20</container><unittitle>"What's Happened in Fort Worth?" drafts and research, </unittitle><unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.21</container><unittitle>"What's Happened in Fort Worth?" (<emph render="italic">Architectural Forum</emph>), clipping, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.22</container><unittitle>Writings by Others - Gleklen, Donald and John Taussig, "A Case Study of Manhattan Town," draft with notes by Jeanne Lowe, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03></c02></c01>
+<c01 level="series" id="series3"><did><unittitle>Series III. Projects and Research by City, </unittitle><unitdate type="inclusive" normal="1943/1972">1943-1972</unitdate></did>
+<c02 level="subseries"><did><unittitle>Baltimore, MD</unittitle></did>
+<c03 level="file"><did><container>Folder 14.23</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Chicago, IL</unittitle></did>
+<c03 level="file"><did><container>Folder 14.24</container><unittitle>Hyde Park, correspondence and notes, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.25</container><unittitle>Hyde Park, Kenwood Community Conference, </unittitle><unitdate type="inclusive" normal="1954/1960">1954-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.26</container><unittitle>Hyde Park, notebooks #1-2, </unittitle><unitdate type="inclusive" normal="1960">circa 1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.27</container><unittitle>Hyde Park, notebooks #3-4, </unittitle><unitdate type="inclusive" normal="1960">circa 1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.28</container><unittitle>Hyde Park, research, </unittitle><unitdate type="inclusive" normal="1956/1958">1956-1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 14.29</container><unittitle>Hyde Park, research, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.1</container><unittitle>Hyde Park, research and notes, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.2</container><unittitle>Hyde Park, research and notes, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.3</container><unittitle>Hyde Park, urban renewal, research and notes, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.4</container><unittitle>"Urban Renewal Plan: Near West Side, City of Chicago", </unittitle><unitdate type="inclusive" normal="19601020">1960 Oct 20</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Cleveland, OH</unittitle></did>
+<c03 level="file"><did><container>Folder 15.5</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1956/1961">1956-1961</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Fresno, CA</unittitle></did>
+<c03 level="file"><did><container>Folder 15.6</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Miami, FL</unittitle></did>
+<c03 level="file"><did><container>Folder 15.7</container><unittitle>Notebooks #1-2, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.8</container><unittitle>Notebooks #3-4, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.9</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.10</container><unittitle>Notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.11</container><unittitle>Research - General, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.12</container><unittitle>Research - Campbell firing, Oct 17 election, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.13</container><unittitle>Research - Dade County Board of Commissioners, Meeting of Nov 22, 1960 - Index, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.14</container><unittitle>Research - Dade County reports, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.15</container><unittitle>Research - Dade County research, ephemera, </unittitle><unitdate type="inclusive" normal="1957">circa 1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.16</container><unittitle>Research - Islandia, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.17</container><unittitle>Research - Land use, notes and research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.18</container><unittitle>Research - MacLeod, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.19</container><unittitle>Research - Miami Metro, clippings, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.20</container><unittitle>Research - Miami Metro, notes and research, </unittitle><unitdate type="inclusive" normal="1947/1961">1947-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.21</container><unittitle>Research - Miami Metro, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 15.22</container><unittitle>Research - Miami Metro, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1962">1958-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.1</container><unittitle>Research - "Metro Bulletin", </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.2</container><unittitle>Research - Metropolitan Dade County Planning Dept, Planning Staff Reports #1-6, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.3</container><unittitle>Research - Reassessment, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>New Haven, CT</unittitle></did>
+<c03 level="file"><did><container>Folder 16.4</container><unittitle>Drafts, notes, and correspondence, </unittitle><unitdate type="inclusive" normal="1954/1959">1954-1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.5</container><unittitle>Drafts, notes, and research, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.6</container><unittitle>Drafts and notes, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.7</container><unittitle>Drafts, notes, and research, </unittitle><unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.8</container><unittitle>Drafts and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.9</container><unittitle>Drafts, notes, and research - Church St, </unittitle><unitdate type="inclusive" normal="1957/1963">1957-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.10</container><unittitle>Drafts and notes, "Lee of New Haven and His Political Jackpot", </unittitle><unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.11</container><unittitle>Drafts, "The Real Revolution", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.12</container><unittitle>Drafts, notes, and research - Wooster Square manuscript, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.13</container><unittitle>Notebook, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.14</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.15</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive" normal="196511">[1965?] Nov</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.16</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.17</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.18</container><unittitle>Notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.19</container><unittitle>Notes - Books about New Haven, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.20</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.21</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 16.22</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.1</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.2</container><unittitle>Notes and research - Church St, </unittitle><unitdate type="inclusive" normal="1959/1963">1959-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.3</container><unittitle>Notes and research - Church St, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.4</container><unittitle>Notes and research - Community Progress, Inc. (CPI) and employment, </unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.5</container><unittitle>Notes and research - Community Progress, Inc. (CPI), </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.6</container><unittitle>Notes and research - Conclusion, </unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.7</container><unittitle>Notes and research - Dixwell redevelopment, </unittitle><unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.8</container><unittitle>Notes and research - Ford Foundation, gray areas, </unittitle><unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.9</container><unittitle>Notes and research - <emph render="italic">Harper's Magazine</emph> article background, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.10</container><unittitle>Notes and research - Housing, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.11</container><unittitle>Notes and research - Mayor Lee, </unittitle><unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.12</container><unittitle>Notes and research - Mayor Lee, </unittitle><unitdate type="inclusive" normal="1951/1961">1951-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.13</container><unittitle>Notes and research - Urban renewal, other cities, </unittitle><unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.14</container><unittitle>Notes and research - "Middle Ground", </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.15</container><unittitle>Notes and research - Mitchell Svirdoff, </unittitle><unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 17.16</container><unittitle>Notes and research - Planning and redevelopment, </unittitle><unitdate type="inclusive" normal="1955/1957">1955-1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 17.17-17.18</container><unittitle>Notes and research - "schools", </unittitle><unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.1</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1954/1961">1954-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.2</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1955/1960">1955-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.3</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.4</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.5</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.6</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.7</container><unittitle>Research - "Addresses by: Hon. Richard C. Lee, Eugene V. Rostow", </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.8</container><unittitle>Research - Business relocation payments, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.9</container><unittitle>Research - Citizen's Action Commission, </unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.10</container><unittitle>Research - Citywide Recreation Survey, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.11</container><unittitle>Research - Community Council of Greater New Haven, report, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.12</container><unittitle>Research - Community Progress, Inc., </unittitle><unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.13</container><unittitle>Research - Dixwell redevelopment, </unittitle><unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.14</container><unittitle>Research - Dixwell redevelopment, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.15</container><unittitle>Research - Redevelopment Agency, annual reports, </unittitle><unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 18.16</container><unittitle>Research - Redevelopment Agency, publications, </unittitle><unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.1</container><unittitle>Research - Wooster Square, </unittitle><unitdate type="inclusive" normal="1957/1963">1957-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.2</container><unittitle>Research - "Wooster Square Redevelopment and Renewal Plan", </unittitle><unitdate type="inclusive" normal="19580602">1958 Jun 2</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>New York, NY</unittitle></did>
+<c03 level="file"><did><container>Folder 19.3</container><unittitle>The Architect's Technical Assistance Center, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.4</container><unittitle>Chelsea - Notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.5</container><unittitle>Chelsea - Notes and research, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.6</container><unittitle>Citizen's Housing and Planning Council of NY, Inc., publications, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.7</container><unittitle>Citizens Union - planning committee, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.8</container><unittitle>Citizens Union - "Proposal for Decentralizing City Government", </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.9</container><unittitle>Department of City Planning, newsletter, </unittitle><unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.10</container><unittitle>Fund for the City of New York - Contract, </unittitle><unitdate type="inclusive" normal="197110">1971 Oct</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.11</container><unittitle>Fund for the City of New York - "Housing Statistics Handbook", </unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.12</container><unittitle>Fund for the City of New York - Report, drafts and notes, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 19.13-19.14</container><unittitle>Fund for the City of New York - Report, notebooks, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.15</container><unittitle>Fund for the City of New York - Report, notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 19.16-19.17</container><unittitle>Fund for the City of New York - Report, notes and research, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.18</container><unittitle>"Housing," notes and research, </unittitle><unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 19.19-19.21</container><unittitle>"Housing," research, </unittitle><unitdate type="inclusive" normal="1959/1963">1959-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.22</container><unittitle>"Housing," research, </unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 19.23</container><unittitle>"Housing," research - "An Interim Report on Neighborhood Conservation in New York City", </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.1</container><unittitle>"Housing and slums," research, </unittitle><unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.2</container><unittitle>Housing and Development Board - notes and research, </unittitle><unitdate type="inclusive" normal="1959/1962">1959-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.3</container><unittitle>Housing and Development Board - notes and research, </unittitle><unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.4</container><unittitle>Housing and Development Board - research, </unittitle><unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.5</container><unittitle>Housing and Development Board - research, </unittitle><unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.6</container><unittitle>Housing and Development Board - "West Side Urban Renewal Area Project No. NY R-43", </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.7</container><unittitle>Housing and Development Board - "West Side Urban Renewal Project", </unittitle><unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.8</container><unittitle>Housing and Development Board - West Village project, </unittitle><unitdate type="inclusive" normal="1959/1962">1959-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.9</container><unittitle>Housing Authority - Report, correspondence, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.10</container><unittitle>Housing Authority - Report, draft, </unittitle><unitdate type="inclusive" normal="196905">1969 May</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.11</container><unittitle>Housing Authority - Report, final draft, </unittitle><unitdate type="inclusive" normal="196908">1969 Aug</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.12</container><unittitle>Metropolitan Regional Council, research, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.13</container><unittitle>The Municipal Art Society of New York, </unittitle><unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.14</container><unittitle>The Municipal Art Society of New York, awards committee, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.15</container><unittitle>The Municipal Art Society of New York, subway art, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.16</container><unittitle>National Association of County Officials - Meeting, notes and papers, </unittitle><unitdate type="inclusive" normal="196207">1962 Jul</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 20.17</container><unittitle>"New Towns - Federal Programs," research, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><unittitle><emph render="bold">"New York City and Robert Moses"</emph></unittitle></did>
+<c04 level="file"><did><container>Folder 20.18</container><unittitle>Drafts, notes, and research, </unittitle><unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 20.19</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folders 20.20-20.22</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 20.23</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1964">1958-1964</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 20.24</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 20.25</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 20.26</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 20.27</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.1</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.2</container><unittitle>1959 scandal, notes and research, </unittitle><unitdate type="inclusive" normal="1959, 1963">1959, 1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.3</container><unittitle>"The End Product," notes and research, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.4</container><unittitle>New York method, notes and research, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.5</container><unittitle>Slums and relocation, notes and research, </unittitle><unitdate type="inclusive" normal="1956/1963">1956-1963</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.6</container><unittitle>Start of Title I, notes and research, </unittitle><unitdate type="inclusive" normal="1949/1960">1949-1960</unitdate></did></c04></c03>
+<c03 level="file"><did><container>Folder 21.7</container><unittitle>New York City, notes and research, </unittitle><unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 21.8</container><unittitle>New York Regional Plan Association - "Choices for '76," proposal on urban planning, </unittitle><unitdate type="inclusive" normal="19710511">1971 May 11</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 21.9</container><unittitle>Radio WMCA - "The Housing That Haunts New York," scripts, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 21.10</container><unittitle>"State government and metropolitan planning," research, </unittitle><unitdate type="inclusive" normal="1966/1971">1966-1971</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 21.11</container><unittitle>Taxes and revenue, research, </unittitle><unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 21.12</container><unittitle>"Triborough Bridge," notes and research, </unittitle><unitdate type="inclusive" normal="1956/1958">1956-1958</unitdate></did></c03>
+<c03 level="file"><did><unittitle><emph render="bold">The Urban Coalition</emph></unittitle></did>
+<c04 level="file"><did><container>Folder 21.13</container><unittitle><emph render="italic">House &amp; Home</emph> roundtable conference, correspondence, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.14</container><unittitle><emph render="italic">House &amp; Home</emph> roundtable conference, research, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.15</container><unittitle><emph render="italic">House &amp; Home</emph> roundtable conference, "Urban Housing: Patterns for Corporate Action," drafts and notes, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.16</container><unittitle>Urban America, Inc. Development Forum 6, ephemera and correspondence, </unittitle><unitdate type="inclusive" normal="196904">1969 Apr</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.17</container><unittitle>Urban America, Inc. Development Forum 6, notes, </unittitle><unitdate type="inclusive" normal="196904">1969 Apr</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.18</container><unittitle>Urban America, Inc. Development Forum 6, "The Corporation and Low-Income Housing", </unittitle><unitdate type="inclusive" normal="196908">1969 Aug</unitdate></did></c04></c03>
+<c03 level="file"><did><unittitle><emph render="bold">The Urban Coalition Study</emph></unittitle></did>
+<c04 level="file"><did><container>Folder 21.19</container><unittitle>College Board Corporation, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.20</container><unittitle>Correspondence on Position Papers and Statement of Principles of the National Urban Coalition, </unittitle><unitdate type="inclusive" normal="196904/196909">1969 Apr-Sep</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.21</container><unittitle>Letter to university president, drafts, </unittitle><unitdate type="inclusive" normal="196904">1969 Apr</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.22</container><unittitle>National Urban Coalition goals and principles, research and notes, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.23</container><unittitle>Notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.24</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.25</container><unittitle>Phase II research, correspondence, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.26</container><unittitle>Phase II research, C.U.N.Y., </unittitle><unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.27</container><unittitle>Phase II research, Columbia University, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.28</container><unittitle>Phase II research, Fordham University, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 21.29</container><unittitle>Phase II research, New York University, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.1</container><unittitle>Phase II research, Teachers College, Columbia University, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.2</container><unittitle>Phase II research, urban universities: admissions, educational programs, special studies, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.3</container><unittitle>Planning drafts, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.4</container><unittitle>Press release, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.5</container><unittitle>Proposal, </unittitle><unitdate type="inclusive" normal="196903">1969 Mar</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.6</container><unittitle>Reports, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.7</container><unittitle>Reports, interim report, </unittitle><unitdate type="inclusive" normal="197002">1970 Feb</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.8</container><unittitle>Reports, synopsis of findings, </unittitle><unitdate type="inclusive" normal="197004">1970 Apr</unitdate></did></c04>
+<c04 level="file"><did><container>Folder 22.9</container><unittitle>University personnel notes, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c04></c03>
+<c03 level="file"><did><container>Folder 22.10</container><unittitle>"What's Wrong with NYC?" notes and research, </unittitle><unitdate type="inclusive" normal="1955/1963">1955-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.11</container><unittitle>Zoning, notes and research, </unittitle><unitdate type="inclusive" normal="1959/1963">1959-1963</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Oakland, CA</unittitle></did>
+<c03 level="file"><did><container>Folder 22.12</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Philadelphia, PA</unittitle></did>
+<c03 level="file"><did><container>Folder 22.13</container><unittitle>General - Drafts and notes, </unittitle><unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.14</container><unittitle>General - Drafts and notes, "The Return of the Native", </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.15</container><unittitle>General - Notebooks, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.16</container><unittitle>General - Notebooks, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.17</container><unittitle>General - Notebooks, </unittitle><unitdate type="inclusive" normal="1961">circa 1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.18</container><unittitle>General - Notebooks, </unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.19</container><unittitle>General - Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 22.20</container><unittitle>General - Notes and research, </unittitle><unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.1</container><unittitle>General - Notes and research, </unittitle><unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.2</container><unittitle>General - Notes and research, </unittitle><unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.3</container><unittitle>Center City - Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.4</container><unittitle>Center City - Notes and research, </unittitle><unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.5</container><unittitle>Center City - Notes and research, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.6</container><unittitle>"Commission on Human Relations," notes and research, </unittitle><unitdate type="inclusive" normal="1956/1961">1956-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.7</container><unittitle>"Commission on Human Relations," informational packets #1-3, </unittitle><unitdate type="inclusive" normal="1960">circa 1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.8</container><unittitle>"Commission on Human Relations," informational packets #4, </unittitle><unitdate type="inclusive" normal="1960">circa 1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.9</container><unittitle>Commission on Human Relations, </unittitle><unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.10</container><unittitle>Community Renewal Program, publications, </unittitle><unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.11</container><unittitle>Community Renewal Program, "Technical Report #6", </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.12</container><unittitle>"Dilworth as Mayor," notes and research, </unittitle><unitdate type="inclusive" normal="1950/1960">1950-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.13</container><unittitle>"Early Days," notes and research, </unittitle><unitdate type="inclusive" normal="1951/1961">1951-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.14</container><unittitle>Greater Philadelphia Movement, research, </unittitle><unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.15</container><unittitle>Housing, research, </unittitle><unitdate type="inclusive" normal="1959/1966">1959-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.16</container><unittitle>Housing Code Enforcement, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.17</container><unittitle>Industry, notes and research, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 23.18</container><unittitle>Jobs, notes and research, </unittitle><unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.1</container><unittitle>"Negroes" and anti-poverty, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1966">1958-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.2</container><unittitle>Old Philadelphia, Development Corporation, publications, </unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.3</container><unittitle>Old Philadelphia, Development Corporation, publications, </unittitle><unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.4</container><unittitle>Redevelopment, notes and research, </unittitle><unitdate type="inclusive" normal="1953/1961">1953-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.5</container><unittitle>Redevelopment Authority of the City of Philadelphia, "Summary Report of the Central Urban Renewal Area, </unittitle><unitdate type="inclusive" normal="1956">1956</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.6</container><unittitle>Reichley, James, "The Art of Government: Reform and Organization Politics in Philadelphia, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.7</container><unittitle>Renewing Renewal, </unittitle><unitdate type="inclusive" normal="1959/1966">1959-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 24.8-24.9</container><unittitle>Schools, notes and research, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.10</container><unittitle>Society Hill and Washington Square East, notes and research, </unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 24.11-24.12</container><unittitle>Traffic and transit, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.13</container><unittitle>Transportation, notes and research, </unittitle><unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.14</container><unittitle>Urban renewal, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.15</container><unittitle>West Philly, notes and research, </unittitle><unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Pittsburgh, PA</unittitle></did>
+<c03 level="file"><did><container>Folder 24.16</container><unittitle>ACTION, notebook, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.17</container><unittitle>ACTION-Housing, Inc., </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 24.18</container><unittitle>Homewood Community Improvement Association, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.1</container><unittitle>Interview notes, </unittitle><unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.2</container><unittitle>Junior League, "Quality in the Urban Environment," notes and drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.3</container><unittitle>"The New Coalition," drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.4</container><unittitle>"The New Coalition," Hazlett revisions, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.5</container><unittitle>New Coalition and conference notes, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.6</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.7</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.8</container><unittitle>Research, </unittitle><unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.9</container><unittitle>Schools, notes and research, </unittitle><unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Rochester, NY</unittitle></did>
+<c03 level="file"><did><container>Folder 25.10</container><unittitle>Committee for Economic Development (CED) Study, correspondence and meeting minutes, </unittitle><unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.11</container><unittitle>Committee for Economic Development (CED) Study, "The Rochester Bureau of Municipal Research," drafts, </unittitle><unitdate type="inclusive" normal="1965">1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.12</container><unittitle>Committee for Economic Development (CED) Study, "The Rochester Bureau of Municipal Research," drafts, </unittitle><unitdate type="inclusive" normal="1966">1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.13</container><unittitle>Correspondence, the MacMillan Company, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.14</container><unittitle>Drafts, "conclusion", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.15</container><unittitle>Drafts and notes, "The Community Today", </unittitle><unitdate type="inclusive" normal="1964">circa 1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.16</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.17</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.18</container><unittitle>Notes, "community views of Bureau and Albany", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.19</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 25.20</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.1</container><unittitle>Notes and research, Monroe County, </unittitle><unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>St. Louis, MO</unittitle></did>
+<c03 level="file"><did><container>Folder 26.2</container><unittitle>Notes and research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Sunnyvale, CA</unittitle></did>
+<c03 level="file"><did><container>Folder 26.3</container><unittitle>Correspondence and outline, </unittitle><unitdate type="inclusive" normal="1959/1966">1959-1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.4</container><unittitle>Correspondence, finance and development policies, </unittitle><unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.5</container><unittitle>Drafts - first draft and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.6</container><unittitle>Drafts - "How to Build a New City", </unittitle><unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.7</container><unittitle>Drafts - "How to Avoid Community Growing Pains", </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.8</container><unittitle>Drafts - "How to Build a New City", </unittitle><unitdate type="inclusive" normal="1963">1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.9</container><unittitle>Drafts - "How to Build a New City", </unittitle><unitdate type="inclusive" normal="1963">circa 1963</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.10</container><unittitle>Drafts - "How to Build a New City," first revision, </unittitle><unitdate type="inclusive" normal="1966">circa 1966</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.11</container><unittitle>Drafts - "How to Build a New City", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.12</container><unittitle>Drafts - "conclusion", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.13</container><unittitle>Drafts - outline, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.14</container><unittitle>Notebooks #1-2, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.15</container><unittitle>Notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.16</container><unittitle>Notecards, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.17</container><unittitle>Notes and correspondence, "problems", </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 26.18</container><unittitle>Notes and drafts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folders 26.19-26.21</container><unittitle>Research and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 27.1</container><unittitle>Research and notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 27.2</container><unittitle>Research and notes, "early history", </unittitle><unitdate type="inclusive" normal="1943/1957">1943-1957</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 27.3</container><unittitle>Research and notes, maps and ephemera, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 27.4</container><unittitle>Research and notes, "A Report from KOBE, Inc.", </unittitle><unitdate type="inclusive" normal="1961">circa 1961</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 27.5</container><unittitle>Research and notes, "schools", </unittitle><unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></did></c03></c02>
+<c02 level="subseries"><did><unittitle>Toronto, Canada</unittitle></did>
+<c03 level="file"><did><container>Folder 27.6</container><unittitle>"A Report on the Metropolitan Toronto System of Government", </unittitle><unitdate type="inclusive" normal="196111">1961 Nov</unitdate></did></c03>
+<c03 level="file"><did><container>Folder 27.7</container><unittitle>Urban development, research, </unittitle><unitdate type="inclusive" normal="1953/1961">1953-1961</unitdate></did></c03></c02></c01>
+<c01 level="series" id="series4"><did><unittitle>Series IV. Subject Files, </unittitle><unitdate type="inclusive" normal="1951/1972">1951-1972</unitdate></did>
+<c02 level="file"><did><container>Folder 27.8</container><unittitle>ACTION - Notes and research, </unittitle><unitdate type="inclusive" normal="1951/1957">1951-1957</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.9</container><unittitle>Business and urban renewal, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1960">1958-1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.10</container><unittitle>California metro, notes and research, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 27.11-27.12</container><unittitle>"The Crisis," notes and research, </unittitle><unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.13</container><unittitle>"The Crisis," notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.14</container><unittitle>European Urban Development - Great Britain, notes and research, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.15</container><unittitle>European Urban Development - Israel, research, </unittitle><unitdate type="inclusive" normal="1965/1968">1965-1968</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 27.16-27.18</container><unittitle>European Urban Development - Notebooks, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.19</container><unittitle>European Urban Development - "Report of the International Seminar on Urban Renewal - The Hague", </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.20</container><unittitle>European Urban Development - Rome, notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.21</container><unittitle>European Urban Development - Rome and Venice, traffic and city planning, notes and research, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 27.22</container><unittitle>European Urban Development - Sweden, notes and research, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 28.1-28.2</container><unittitle>Highways, correspondence, notes, and research, </unittitle><unitdate type="inclusive" normal="1957">1957</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.3</container><unittitle>"Industry in Suburbs," notes and research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.4</container><unittitle>"Industry in Suburbs," Fairlawn Industrial Park, notes and research, </unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 28.5-28.6</container><unittitle>Land use and zoning, notes and research, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.7</container><unittitle>Local Government, notes and research, </unittitle><unitdate type="inclusive" normal="1957/1959">1957-1959</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.8</container><unittitle>The MacDowell Colony, </unittitle><unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.9</container><unittitle>Metropolis, notes and research, </unittitle><unitdate type="inclusive" normal="1957/1960">1957, 1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 28.10-28.12</container><unittitle>Metropolis, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.13</container><unittitle>Metropolis, notes and research, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.14</container><unittitle>"Metropolis Against Itself" by Robert C. Wood, annotated, </unittitle><unitdate type="inclusive" normal="195903">1959 Mar</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.15</container><unittitle>"Metro - Other cities," notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.16</container><unittitle>National Civic Review, annotated, </unittitle><unitdate type="inclusive" normal="196004">1960 Apr</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.17</container><unittitle>National Civic Review, annotated, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.18</container><unittitle>National Civic Review, annotated, </unittitle><unitdate type="inclusive" normal="196203">1962 Mar</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.19</container><unittitle>Nevada industries, Inc., research, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 28.20</container><unittitle>New Jersey planning, notes, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 29.1-29.2</container><unittitle>New Jersey planning, research, </unittitle><unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.3</container><unittitle>New Jersey planning and Paul Ylvisaker, research, </unittitle><unitdate type="inclusive" normal="1968">1968</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.4</container><unittitle>New Towns, research, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.5</container><unittitle>New Towns - Columbia, Maryland, research, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.6</container><unittitle>New Towns - Columbia - Reston, VA, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.7</container><unittitle>New Towns - Institute of Current World Affairs, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.8</container><unittitle>New Towns - London, correspondence, notes, and research, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.9</container><unittitle>Property Taxes, notes and research, </unittitle><unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.10</container><unittitle>Property Taxes, notes and research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.11</container><unittitle>Public Housing, notes, </unittitle><unitdate type="inclusive" normal="1968">circa 1968</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.12</container><unittitle>Public Housing, notes, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.13</container><unittitle>Public Housing, notes and research, </unittitle><unitdate type="inclusive" normal="1959/1962">1959-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.14</container><unittitle>Public Housing, notes and research, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.15</container><unittitle>Public Housing, notes and research, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.16</container><unittitle>Public Housing, research, </unittitle><unitdate type="inclusive" normal="1951/1962">1951-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.17</container><unittitle>Public Housing, research, </unittitle><unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 29.18-29.19</container><unittitle>Public Housing, research, </unittitle><unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.20</container><unittitle>Public Housing, research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 29.21</container><unittitle>Public Housing - Community Relations Service / Justice Dept, notes and research, </unittitle><unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.1</container><unittitle>Public Housing - Mid-Income Housing, research, </unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.2</container><unittitle>Public Housing - Mid-Income Housing, research, </unittitle><unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.3</container><unittitle>Public Housing - Urban housing, notes and research, </unittitle><unitdate type="inclusive" normal="1961">1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.4</container><unittitle>Race and housing, notes and research, </unittitle><unitdate type="inclusive" normal="1956/1962">1956-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.5</container><unittitle>Race and housing, notes and research, </unittitle><unitdate type="inclusive" normal="1959/1962">1959-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.6</container><unittitle>Race and housing, research, </unittitle><unitdate type="inclusive" normal="1957/1959">1957-1959</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.7</container><unittitle>Raymond, George, notes and research, </unittitle><unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.8</container><unittitle>Redevelopers, notes and research, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.9</container><unittitle>Regional Plan Association, conference, "The Spreading Metropolis", </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.10</container><unittitle>Suburbs, notes and research, </unittitle><unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.11</container><unittitle>Suburbs, notes and research, </unittitle><unitdate type="inclusive" normal="1957/1966">1957-1966</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 30.12-30.13</container><unittitle>Suburbs, notes and research, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.14</container><unittitle>Suburbs - ACTION, correspondence and research, </unittitle><unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.15</container><unittitle>Suburbs and New Towns, notes and research, </unittitle><unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.16</container><unittitle>Suffolk County Planning Commission, "Report on Local Government Analysis", </unittitle><unitdate type="inclusive" normal="196201">1962 Jan</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.17</container><unittitle>Transit and transportation, research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.18</container><unittitle>Urban curricula - Yale, NYU, Columbia, Vassar, research, </unittitle><unitdate type="inclusive" normal="1970">1970</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.19</container><unittitle>Urban redevelopment, research, </unittitle><unitdate type="inclusive" normal="1955/1964">1955-1964</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 30.20</container><unittitle>Urban redevelopment, research, </unittitle><unitdate type="inclusive" normal="1964">1964</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.1</container><unittitle>Urban sprawl and open space, research, </unittitle><unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folders 31.2-31.3</container><unittitle>Victor Gruen, notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.4</container><unittitle>Victor Gruen and others, notebooks, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.5</container><unittitle>Victor Gruen, notes and research, </unittitle><unitdate type="inclusive" normal="1954/1961">1954-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.6</container><unittitle>Victor Gruen, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.7</container><unittitle>Victor Gruen - Other cities, notes and research, </unittitle><unitdate type="inclusive" normal="1958/1961">1958-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.8</container><unittitle>Victor Gruen - Vehicles and shopping, notes and research, </unittitle><unitdate type="inclusive" normal="1957/1961">1957-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.9</container><unittitle>Victor Gruen, Rochester, and shopping malls - drafts and notes, </unittitle><unitdate type="inclusive" normal="1959">1959</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.10</container><unittitle>Victor Gruen, Rochester, and shopping malls - drafts and notes, </unittitle><unitdate type="inclusive" normal="1960">1960</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.11</container><unittitle>Victor Gruen, Rochester, and shopping malls - drafts and notes, </unittitle><unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.12</container><unittitle>Victor Gruen, Rochester, and shopping malls - notes and research, </unittitle><unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.13</container><unittitle>Victor Gruen, shopping, Ft. Worth - notes and research, </unittitle><unitdate type="inclusive" normal="1958/1962">1958-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.14</container><unittitle>Ylvisaker, Paul N. - speeches, </unittitle><unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 37.4 (Oversize)</container><unittitle>Miscellaneous - Notes and research, </unittitle><unitdate type="inclusive" normal="1951/1956">1951-1956</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.15</container><unittitle>Miscellaneous - Notes and research, </unittitle><unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.16</container><unittitle>Miscellaneous - Notes and research, </unittitle><unitdate type="inclusive" normal="1958">1958</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.17</container><unittitle>Miscellaneous - Notes and research, </unittitle><unitdate type="inclusive" normal="1958/1965">1958-1965</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.18</container><unittitle>Miscellaneous - Notes and research, </unittitle><unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></did></c02>
+<c02 level="file"><did><container>Folder 31.19</container><unittitle>Miscellaneous - Notes and research, </unittitle><unitdate type="inclusive" normal="1962">1962</unitdate></did></c02></c01>
+<c01 level="series" id="series5"><did><unittitle>Series V. Jeanne Lowe Research Library, </unittitle><unitdate type="inclusive" normal="1948/1972">1948-1972</unitdate></did>
+<c02 level="file"><did><container>Box 32</container><unittitle>Miami, FL, </unittitle><unitdate type="inclusive" normal="1954/1961">1954-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Box 32</container><unittitle>New Haven, CT, </unittitle><unitdate type="inclusive" normal="1954/1961">1954-1961</unitdate></did></c02>
+<c02 level="file"><did><container>Boxes 32-33</container><unittitle>New York, NY, </unittitle><unitdate type="inclusive" normal="1954/1972">1954-1972</unitdate></did></c02>
+<c02 level="file"><did><container>Box 34</container><unittitle>Philadelphia, PA, </unittitle><unitdate type="inclusive" normal="1957/1966">1957-1966</unitdate></did></c02>
+<c02 level="file"><did><container>Boxes 34-35</container><unittitle>Sunnyvale, CA, </unittitle><unitdate type="inclusive" normal="1948/1964">1948-1964</unitdate></did></c02>
+<c02 level="file"><did><container>Box 35</container><unittitle>Washington, D.C., </unittitle><unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate></did></c02>
+<c02 level="file"><did><container>Box 35</container><unittitle>Miscellaneous Publications, </unittitle><unitdate type="inclusive" normal="1952/1968">1952-1968</unitdate></did></c02>
+<c02 level="file"><did><container>Box 36</container><unittitle>Miscellaneous Publications, </unittitle><unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></did></c02></c01>
+		</dsc>
+	</archdesc>
+</ead>

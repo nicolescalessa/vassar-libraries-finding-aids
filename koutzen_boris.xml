@@ -1,0 +1,2725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_koutzen_boris</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Boris Koutzen Papers, approximately 1916-2002</titleproper>
+				<author>Inventory prepared by Vassar College Music Library</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>2010</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Laura Streett, <date>2011</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Koutzen, Boris, 1901-1966</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Boris Koutzen Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">approximately 1916-2002</unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">approximately 1916-1966</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">20 cubic feet (58 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Music manuscripts, correspondence, and recordings relating to the life and work of Boris Koutzen.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Boris Koutzen was born in Uman, Southern Russia, 1 April 1901. He began composing and studying the violin as a young child, and launched his career as a concert violinist at the age of eleven. His musical education began under his father's tutelage, but in 1918 the family moved to Moscow so Boris could study with Leo Zetlin and Reinhold Glière at the Moscow Conservatory. While a student at the conservatory, Koutzen won the position of first violin in the State Opera House Orchestra, and played for the Moscow Symphony Orchestra under Serge Koussevitzky. Koutzen graduated from the Moscow Conservatory in 1921, studied and played in Germany for two years, then moved to the United States in 1923. His career in the U.S. included playing for the Philadelphia Orchestra under Leopold Stokowski (1924-1927), heading the violin department of the Philadelphia Conservatory (1924-1961), and playing for the NBC Orchestra under Arturo Toscanini (1937-1945). In 1944 he joined the faculty of Vassar College, where he taught violin and conducted the Vassar Orchestra until June 1966. He also taught at Bard College from 1949-1951. Koutzen died of a heart attack 10 December 10 1966 at the age of 65.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection consists of music manuscripts, correspondence, recordings, and other materials relating to the life and work of Boris Koutzen.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Department of Music</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Composers--United States--correspondence</subject>
+				<subject source="lcsh" encodinganalog="650">Violinists--United States--correspondence</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Sheet music</genreform>
+				<genreform source="aat" encodinganalog="655">Scores (documents for music)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Music</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Laura Streett, March 2010. Updated by Emma Gronbeck, September 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by the Vassar College Music Library. Updated by Sarah Canino, January 2010. Last update by Laura Streett, February 2011.</p>
+		</processinfo>
+		<custodhist encodinganalog="561">
+			<head>Custodial History</head>
+			<p>Transferred from the Vassar College Music Library, 2010.</p>
+		</custodhist>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Original gift from Nadia Koutzen with later accessions in 1999, 2002 and 2010.</p>
+		</acqinfo>
+		<altformavail encodinganalog="530">
+			<head>Other Formats</head>
+			<p>Series II. "Recordings" has been digitized and the recordings are available to listen to online at the <extref href="http://digitallibrary.vassar.edu">Vassar College Digital Library</extref>.</p>
+		</altformavail>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Boris Koutzen Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Musical Manuscripts, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+				<scopecontent><p>This series contains materials related to Koutzen's musical compositions, including drafts, proofs, published copies of scores and librettos.</p>
+				<p>Arranged alphabetically by composition title with miscellaneous compositions filed at the end of the sequence.</p></scopecontent>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Recordings, </unittitle>
+					<unitdate>1941-1966</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Correspondence, Biographical Material and Miscellany, </unittitle>
+					<unitdate>1955-2002</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Additional Accessions from Nadia Koutzen, </unittitle>
+					<unitdate>1916-1965</unitdate>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. Musical Manuscripts</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Cadenza (for Mozart's "Concerto in G major")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Proof</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Clown's reverie and dance</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Worksheets</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Concert piece for violoncello and string orchestra</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Transparencies (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Ink holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 1</container>
+							<unittitle>Pencil holograph</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Concertante for two solo flutes and orchestra</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Part (clarinet only)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Photocopy of piano reduction</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Transparencies (orchestra score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Piano-percussion reduction</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 2</container>
+							<unittitle>Pencil holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Solo parts (photo-positives)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Solo parts (original ink copies)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Solo parts (final ink copies)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>Ink holograph (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 3</container>
+							<unittitle>4 letters to Leon Brazin</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Concertino for piano and strings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Transparencies (original score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Two bound copies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Extra parts (not corrected)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Manuscript of condensed score and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 4</container>
+							<unittitle>Pen and ink score- "Reduction of orchestra for a second piano"</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Concerto for five solo instruments and string orchestra</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>Original pencil score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>Transparencies (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>Ink holograph (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>2 bound orchestral scores</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 5 (Oversize)</container>
+							<unittitle>Transparencies (string parts)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Concerto for viola and orchestra</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Transparencies (orchestral score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Bound orchestral score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Solo parts (2 envelopes and wrapped parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Photo-positives</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Ink holograph (parts for strings, flute, and clarinet)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Worksheets (for 1st, 2nd, and 3rd movements)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 6 (Oversize)</container>
+							<unittitle>Solo part and piano reduction (transparencies)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Concerto for violin and orchestra</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Photograph of Eugene Ormandy and Boris and Nadia Koutzen</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Orchestral score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 7</container>
+							<unittitle>Transparencies (orchestral score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Photocopy of solo part</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Correspondence between Denise Koutzen and Robert Parks</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 8</container>
+							<unittitle>Piano arrangement of the score- sketches and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 9</container>
+							<unittitle>Parts (mimeographed)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Piano reduction (pencil holograph and ink copy)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Transparencies (solo part)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Transparencies (solo part and piano reduction)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Piano reduction/ worksheets and sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 56</container>
+							<unittitle>Concerto for chorus and orchestra without lyrics, just a syllable.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 56</container>
+							<unittitle>Pencil score, not completed</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 56</container>
+							<unittitle>Divertimento for orchestra</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 11 (Oversize)</container>
+							<unittitle>Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 11 (Oversize)</container>
+							<unittitle>Transparencies (orchestral score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12 (Oversize)</container>
+							<unittitle>Sketches and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12 (Oversize)</container>
+							<unittitle>Program</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12 (Oversize)</container>
+							<unittitle>3 bound orchestral scores</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12 (Oversize)</container>
+							<unittitle>Parts (transparencies)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12 (Oversize)</container>
+							<unittitle>Bound volume with sketches for orchestral arrangement and notes regarding instrumentation on score of original version</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Dreamland for voice and piano</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Pencil manuscript and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Copy of printed sheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Copies of printed sheets marked for performance?</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Photocopy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Duo concertante</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Ink holograph transparencies</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Eidolóns: poem for piano</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Proofs</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Sketches and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 13</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Elegiac rhapsody for orchestra</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Pencil copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Transparencies (orchestra score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>4 bound orchestral scores</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Enigma for piano</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 14</container>
+							<unittitle>Pencil copy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Fanfare, prayer, and march</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Wallpaper bound folder with misc. pencil sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Full score- 2 bound copies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Manuscript- 21 pages (condensed score) and worksheets- 29 pages</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Individual orchestra parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 15</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>The Fatal oath</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 16</container>
+							<unittitle>Piano vocal reduction of orchestral score with text revisions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 16</container>
+							<unittitle>Pencil holograph (orchestral score) and photocopies of three letters- 2 by Rodzinski, 1 by Mitropoulos</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Libretti: unbound, working copy?</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Libretti: bound with revisions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Libretti: transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Libretti: printed</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Libretti:pencil copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Libretti: typed with revisions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Libretti: typed</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 17</container>
+							<unittitle>Piano vocal score with some revisions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 18 (Oversize)</container>
+							<unittitle>Orchestral score (bound in two volumes)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 18 (Oversize)</container>
+							<unittitle>"Final Version" (with revisions) of piano vocal score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 18 (Oversize)</container>
+							<unittitle>Piano vocal score (transparencies)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 18 (Oversize)</container>
+							<unittitle>Piano vocal score with revisions and sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 19</container>
+							<unittitle>Program (world premier)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 19</container>
+							<unittitle>Set design</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 19</container>
+							<unittitle>Chamber orchestra version (ink copy of orchestral score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 20</container>
+							<unittitle>Sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 20</container>
+							<unittitle>Worksheets (4 books)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 20</container>
+							<unittitle>Proof of orchestral score-wrapped in two groups</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21 (Oversize)</container>
+							<unittitle>Transparencies (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21 (Oversize)</container>
+							<unittitle>Pencil holograph (parts- strings, clarinet, and flute)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21 (Oversize)</container>
+							<unittitle>Synopsis and program</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21 (Oversize)</container>
+							<unittitle>Spiral-bound piano vocal score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21 (Oversize)</container>
+							<unittitle>Spiral-bound photocopy of piano vocal score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 21 (Oversize)</container>
+							<unittitle>Spiral-bound mimeograph of full score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 22</container>
+							<unittitle>Parts (ink)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Foundation of violin playing</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 23</container>
+							<unittitle>Ink holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 23</container>
+							<unittitle>3 sketchbooks</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 23</container>
+							<unittitle>Forward and sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 23</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 23</container>
+							<unittitle>2 bound copies</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>From the American folklore</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 24 (Oversize)</container>
+							<unittitle>Ink copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 24 (Oversize)</container>
+							<unittitle>Pencil copy and program notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 24 (Oversize)</container>
+							<unittitle>Worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 24 (Oversize)</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 24 (Oversize)</container>
+							<unittitle>Orchestral parts (2 groups)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 24 (Oversize)</container>
+							<unittitle>Orchestral parts (3 bound volumes)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Holiday mood (See also "Divertimento for orchestra, Movement 3")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 25</container>
+							<unittitle>Worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 25</container>
+							<unittitle>Proofs</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 25</container>
+							<unittitle>Cover</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 25</container>
+							<unittitle>Transparencies (score and solo part)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 25</container>
+							<unittitle>Mimeograph (score and solo part)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 25</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>An invocation</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 26</container>
+							<unittitle>Original pencil copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 26</container>
+							<unittitle>Sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 26</container>
+							<unittitle>Sketches and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 26</container>
+							<unittitle>Orchestra parts (2 envelopes)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 26</container>
+							<unittitle>Text</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 26</container>
+							<unittitle>2 mimeograph copies of the full score</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Landscape and dance</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Pencil copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Sketches and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Transparencies (score)?</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Légende for violin and piano</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>2 published copies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Pencil holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>1st and 2nd proofs of solo parts</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Légende for elementary school band (In the style of a Russian folksong)</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Photo-positives and ink holograph of piano part</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Pencil holograph (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Photo-positives</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Ink holograph (score and parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Clarinet part from Légende for elementary school band- not found</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>"Concertante"- not found</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Lethe</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Holograph (pencil)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>New copy (ink)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Photo-positive</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Photocopy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Melody with variations</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Ink holograph (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Proofs (solo parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Proofs (solo clarinet and full score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>2nd proof, violin part</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 27 (Oversize)</container>
+							<unittitle>Photo-positives</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Morning music</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 31</container>
+							<unittitle>Transparencies (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 31</container>
+							<unittitle>Ink holograph (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 31</container>
+							<unittitle>Worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 31</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 31</container>
+							<unittitle>Programs</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Music for violin alone</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Bound mimeographed copy and transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Sketches (pencil)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Nocturne for violin and piano</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Proof</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Ink holograph- not found here</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Proof (score)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Octave study</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Orchestration</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Passacaglia</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Pencil holograph</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Pastorale and dance</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>1st proofs (2 clarinet and 2 violin parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Transparencies (score and parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>1st proof of full score- not found here</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>Proofs (score and parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 32</container>
+							<unittitle>2nd proof (score)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Poem for violin and string quartet</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Manuscript and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Transparencies (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Photo-positives (2 envelopes)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Photocopy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Ink holograph (2 groups)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Retirement concert</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Program, 24 Apr 1966</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Quartets, strings, no. 1 (Other title: "Quatuor")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Mimeograph and pencil holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Photo-positive of copyist's manuscript</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 33</container>
+							<unittitle>Ink holograph</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Quartets, strings, no. 2</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 57</container>
+							<unittitle>Score (mimeograph)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 57</container>
+							<unittitle>Parts (mimeographed original? and copyists)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 57</container>
+							<unittitle>Prints</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 57</container>
+							<unittitle>Worksheets and sketches and pencil holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 57</container>
+							<unittitle>Programs</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 57</container>
+							<unittitle>Bound published library copy (no. 2)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Quartets, strings, no. 3</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 34</container>
+							<unittitle>Transparencies (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 34</container>
+							<unittitle>Transparencies (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 34</container>
+							<unittitle>Corrections</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Russian dance</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 34</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Serenade for saxophone, bassoon, and 'cello (Other title: "Music for saxophone, bassoon, and 'cello")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 34</container>
+							<unittitle>Mimeograph of ink holograph (bassoon and cello parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 34</container>
+							<unittitle>Pencil holograph (score)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sinfonietta</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 34</container>
+							<unittitle>Sketches- 26 pages and pencil holograph 3 booklets- 64 pages</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Solitude (Other title: Poem nocturne "Solitide")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 35</container>
+							<unittitle>Individual orchestra parts- 2 envelopes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 35</container>
+							<unittitle>Original pencil holograph of the orchestra score- 43 pages</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 35</container>
+							<unittitle>Orchestra score- 2 copies</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sonata for piano and violin (1928)</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 36</container>
+							<unittitle>Ink holograph- solo violin part</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 36</container>
+							<unittitle>Photocopy- solo violin part</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 36</container>
+							<unittitle>Pencil holograph (1st and 3rd movements)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 36</container>
+							<unittitle>3 scores- different versions</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sonata no. 2 for violin and piano</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 37</container>
+							<unittitle>Ink holograph (score and solo part)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 37</container>
+							<unittitle>Sketches, working copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 37</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 37</container>
+							<unittitle>Ink holograph</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sonata for violin and cello</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>Proof of full score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>Proof of full score (green)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>Worksheets and sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>Special prints for violin part</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>1st proof</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>Ink holograph</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sonatina for piano</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Sketches and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Bound copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Proofs</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sonatina for two pianos</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Ink copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>One page from Sonatina for two pianos</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Sonnet for organ</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Pencil copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Sketches and worksheets (26 pages)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Ink copy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Symphonic movement for orchestra and violin obligato (Other title: "Mouvement symphonique")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 40 (Oversize)</container>
+							<unittitle>Parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 40 (Oversize)</container>
+							<unittitle>Bound orchestral score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 40 (Oversize)</container>
+							<unittitle>Pencil holographs- 2 envelopes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 40 (Oversize)</container>
+							<unittitle>Published copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 40 (Oversize)</container>
+							<unittitle>Proofs</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Symphonic rhapsody for the band (Other titles: "Rhapsody for symphonic band," "Symphonic rhapsody for the band" and "Rhapsody for band")</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>Manuscript (condensed score)- 23 pages, worksheets, holograph of the full score in pencil- 43 pages</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>Pencil holograph (score)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>Ink copy (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>2 bound copies of full score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>Individual orchestra parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Symphony in C</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>Piano score holograph (65 pages)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>1 unbound photocopy of piano score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41 (Oversize)</container>
+							<unittitle>1 spiral-bound photocopy of piano score</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Symphony in C</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 42 (Oversize)</container>
+							<unittitle>1 unbound ink copy</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 42 (Oversize)</container>
+							<unittitle>2 spiral-bound ink copies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 43</container>
+							<unittitle>Photo-positive</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 43</container>
+							<unittitle>Parts (1 of 2)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 44</container>
+							<unittitle>Parts (2 of 2)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Trio for flute, 'cello, and harp</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Proofs of score and parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Ink holograph (score)- 2 folders</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Ink holographs (parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Photocopy (part)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Photocopy (score)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Trio for piano, violin and 'cello</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Transparencies (full score and parts)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Worksheets (for 1st, 2nd, and 3rd movements) 3 envelopes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Proofs of score and parts- not found here</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 45</container>
+							<unittitle>Pencil holographs 92 p. full scores- not found here</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Valley Forge</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Transparencies of individual orchestra parts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Letter from congressman</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Pencil holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Sketches and worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Score (2 copies- one bound, one loose sheets)</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Words of cheer to Zion</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Condensed score and worksheets- 37 pages</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Score for mixed chorus with piano accompaniment- not found</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Text</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>You never know</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 46</container>
+							<unittitle>Spiral-bound score</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 47</container>
+							<unittitle>Holograph-loose leaf binder</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 47</container>
+							<unittitle>Transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 47</container>
+							<unittitle>Libretto</unittitle>
+							<physdesc>(2 envelopes)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 48</container>
+							<unittitle>Libretto</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 48</container>
+							<unittitle>Libretto -transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 48</container>
+							<unittitle>Auto-positives</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 48</container>
+							<unittitle>Libretto-pencil holograph</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 48</container>
+							<unittitle>Sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 49</container>
+							<unittitle>Piano reduction with vocal part</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 49</container>
+							<unittitle>Orchestral score - transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 49</container>
+							<unittitle>Published copy of the piano reduction</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 49</container>
+							<unittitle>Work copy</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellaneous</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 28</container>
+							<unittitle>Sketches and sketchbooks</unittitle>
+							<physdesc>(3 envelopes)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 28</container>
+							<unittitle>Newspaper clipping</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 28</container>
+							<unittitle>Bound sketchbook</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 28</container>
+							<unittitle>Worksheets</unittitle>
+							<physdesc>(1 envelope)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 28</container>
+							<unittitle>1 loose leaf book</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 29</container>
+							<unittitle>Miscellaneous photo-positives</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 29</container>
+							<unittitle>Miscellaneous sketches</unittitle>
+							<physdesc>(2 envelopes)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 29</container>
+							<unittitle>4 sketchbooks</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 29</container>
+							<unittitle>Miscellaneous transparencies</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 29</container>
+							<unittitle>Miscellaneous pages 19 and 20</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 30</container>
+							<unittitle>Miscellaneous worksheets</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 30</container>
+							<unittitle>Miscellaneous scores</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 30</container>
+							<unittitle>Miscellaneous scores - envelope titled "Sonata for violin and 'cello" but score for violin and piano</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II. Recordings</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-1)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/e87f6f70-51e7-446c-97bc">Chausson, Ernest — Concerto for violin and piano. I, II, III Movements, Boris Koutzen, (violinist), John Crouch (pianist), Vassar College, Skinner Hall</archref>, </unittitle>
+						<unitdate>1956 Feb 2</unitdate>
+						<physdesc>(reel-to-reel, 2 copies)</physdesc>
+					</did>
+				</c02>
+
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-5)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/cf29892b-176e-4ec0-a59d">Debussy, Claude — Danse sacrée et [danse] profane</archref>, </unittitle>
+						<unitdate>circa 1950s</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-6)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/8309a997-835e-4a9c-91a5">Fauré, Gabriel— Sonata for violin and piano. (John Crouch and Boris Koutzen)</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(reel-to-reel, 2 copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 51 (K#51LP-2)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/368c48d7-0414-4512-a83d">Haydn, Joseph — 4th movement / Sibelius, Vassar College Orchestra</archref>, </unittitle>
+						<unitdate>1959 May 6</unitdate>
+						<physdesc>(LP, 33 1/3 rpm)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-24)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/ff25346e-bf88-491d-9198">Koutzen, Boris — 1st string quartet in Bb major — NBC String Quartet</archref>, </unittitle>
+						<unitdate>1942 Nov 8</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-25)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/8c7d8501-cb81-4b68-82c8">Koutzen, Boris — 2nd string quartet — NBC Broadcast, Primrose String Quartet</archref>, </unittitle>
+						<unitdate>1941 Mar 30</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-12)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/0314624a-6ee4-4d84-8525">Koutzen, Boris — A concert of compositions by Boris Koutzen (Part 1) — I. "String Quartet No. 3 (1944)" performed by the Hudson Valley String Quartet and II. "Sonnet for Organ (1946)" performed by Kathleen Funk Pearson</archref>, </unittitle>
+						<unitdate>1966 Apr 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.b (K#52RR-28)</container>
+						<unittitle>Koutzen, Boris — A concert of compositions by Boris Koutzen (Part 2) — III. "Trio for Flute, Cello and Harp (1933)" performed by Paul Boyer, Sterling Hunkins, and Susan Jolles and IV. "Poem for Violin Solo and String Quartet (1963)" performed by Nadia Koutzen and the Hudson Valley String Quartet, </unittitle>
+						<unitdate>1966 Apr 24</unitdate>
+						<physdesc>(reel-to-reel, original)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.b (K#52CD-1)</container>
+						<unittitle>Koutzen, Boris — A concert of compositions by Boris Koutzen (Part 2) — III. "Trio for Flute, Cello and Harp (1933)" performed by Paul Boyer, Sterling Hunkins, and Susan Jolles and IV. "Poem for Violin Solo and String Quartet (1963)" performed by Nadia Koutzen and the Hudson Valley String Quartet, </unittitle>
+						<unitdate>1966 Apr 24</unitdate>
+						<physdesc>(CD copy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.b (K#52RR-29)</container>
+						<unittitle>Koutzen, Boris — A concert of compositions by Boris Koutzen (Part 2) — III. "Trio for Flute, Cello and Harp (1933)" performed by Paul Boyer, Sterling Hunkins, and Susan Jolles and IV. "Poem for Violin Solo and String Quartet (1963)" performed by Nadia Koutzen and the Hudson Valley String Quartet, </unittitle>
+						<unitdate>1966 Apr 24</unitdate>
+						<physdesc>(reel-to-reel, copy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.b (K#52CD-2)</container>
+						<unittitle>Koutzen, Boris — A concert of compositions by Boris Koutzen (Part 2) — III. "Trio for Flute, Cello and Harp (1933)" performed by Paul Boyer, Sterling Hunkins, and Susan Jolles and IV. "Poem for Violin Solo and String Quartet (1963)" performed by Nadia Koutzen and the Hudson Valley String Quartet, </unittitle>
+						<unitdate>1966 Apr 24</unitdate>
+						<physdesc>(CD copy)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-13)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/9adc319b-2f59-483d-bf86">Koutzen, Boris — A concert of compositions by Boris Koutzen (Part 3) — V. "Dreamland - for voice and piano (1964)" performed by Albert and Huguette van Ackere and VI. "Sonatina for Two Pianos (1944)" performed by Gwendolyn Hamilton and Earl Groves</archref>, </unittitle>
+						<unitdate>1966 Apr 24</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-11)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/c6bcdaf8-28ca-4e4f-a170">Koutzen, Boris — Concerto for five solo instruments and string orchestra, Vassar College Orchestra</archref>, </unittitle>
+						<unitdate>1961 May 7</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-4)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/d2f003e9-ca48-4566-a32d">Koutzen, Boris — Dreamland and Sonatina for Two Pianos (original)</archref>, </unittitle>
+						<unitdate>[1966?]</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-8)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/c8a92efb-a2b5-495e-85dd">Koutzen, Boris — Elegiac Rhapsody, Vassar College Orchestra</archref>, </unittitle>
+						<unitdate>1963 May 1</unitdate>
+						<physdesc>(reel-to-reel, 2 copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.b (K#52RR-27)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/ff98b8d6-f128-4dc4-a347">Koutzen, Boris — Fanfare, prayer and march, Vassar College Orchestra, Koutzen conducting</archref>, </unittitle>
+						<unitdate>1965 May 5</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-14)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/82ff13bb-4f8f-4b49-b528">Koutzen, Boris — Fanfare, prayer and march, Vassar College Orchestra, Koutzen conducting</archref>, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-16)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/dfdf2cb5-022a-48d8-a987">Koutzen, Boris — An invocation (rehearsal), Vassar College Glee Club and Orchestra</archref>, </unittitle>
+						<unitdate>1959 May 5</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-17)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/2536fd6b-0b90-491f-b260">Koutzen, Boris — An invocation (performance), Vassar</archref>, </unittitle>
+						<unitdate>1959 May 6</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 51 (K#51LP-3)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/43268186-7e3e-45a6-97c8">Koutzen, Boris — An Invocation, Vassar College Glee Club and Chappaqua Chamber Orchestra, Koutzen conducting</archref>, </unittitle>
+						<unitdate>1959 May 16</unitdate>
+						<physdesc>(LP, 33 1/3 rpm)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-18)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/cc5be9d9-9ce1-4c4d-948b">Koutzen, Boris — An invocation for women's' voices and orchestra, Vassar Glee Club and the Chappaqua Chamber Orchestra, Koutzen conducting</archref>, </unittitle>
+						<unitdate>1959 May 16</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-19)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/ac63107e-0f30-44d9-91b9">Koutzen, Boris — An invocation, "Vassar and [Philadelphia] Orchestra,"</archref> </unittitle>
+						<unitdate>[1959?]</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-20)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/3914d06b-875b-4884-9d2b">Koutzen, Boris — Morning music for flute and string orchestra, Philadelphia Conservatory Orchestra, Koutzen conducting</archref>, </unittitle>
+						<unitdate>circa 1950s</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-21)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/2fab415f-7581-4069-8aeb">Koutzen, Boris — Sonata for violin and cello, Koutzen and Shapiro</archref>, </unittitle>
+						<unitdate>1958 Nov 13</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 51 (K#51LP-1)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/8e246ffc-8101-4a59-a06d">Koutzen, Boris — "Sinfonietta" and "Concerto for viola and orchestra," The Knickerbocker Chamber Players</archref>, </unittitle>
+						<unitdate>circa 1950s</unitdate>
+						<physdesc>(LP, 33 1/3 rpm)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.b (K#52RR-26)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/7191c098-ca8b-442b-b3b0">Koutzen, Boris — String quartet no. 3 (1944) — Hudson Valley String Quartet / Sonnet for Organ (1946) — Kathleen Funk Pearson, organ</archref>, </unittitle>
+						<unitdate>[1966?]</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-23)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/ae131eac-e15b-43da-a0b8">Koutzen, Boris — Valley Forge Symphonic Poem — I. Broadcast, NBC Symphony (Sep 8, 1940) — II. Broadcast, The Cleveland Orchestra (Feb 21, 1942)</archref>, </unittitle>
+						<unitdate>1940, 1942</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 52.a (K#52RR-22)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/db8e5e4c-89fe-45de-b722">[Simons, Netty] — Sonata for 2 violins</archref>, </unittitle>
+						<unitdate>[circa 1950-1970?]</unitdate>
+						<physdesc>(reel-to-reel)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 51 (K#51LP-13)</container>
+						<unittitle><archref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-archives-audio-collection/7a3f1576-f8c6-461c-8467">Excerpts from an unknown radio broadcast</archref>, </unittitle>
+						<unitdate>circa 1930-1945</unitdate>
+						<physdesc>(LP, 33 1/3 rpm)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. Correspondence, Biographical Material And Miscellany</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 51</container>
+						<unittitle>An invocation</unittitle>
+						<physdesc>(10 copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 51</container>
+						<unittitle>An unidentified performance</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Typescript of "Journal Boris Koutzen (1944-1955)"</unittitle>
+						<physdesc>(2 copies)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>"Vassar College Orchestra / Boris Koutzen, Conductor, Presented by the Vassar College Orchestra, May 4, 1966" — Photos, news clippings, and concert programs</unittitle>
+						<physdesc>(Leather 3-hole binder)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Letters from Vassar personnel to Koutzen</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Exhibit Materials — Concert programs, news clippings, and informative exhibit labels, </unittitle>
+						<unitdate>1961, 1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Exhibit Materials — Poster, Koutzen family attendance, Vassar and family member letters and photos, </unittitle>
+						<unitdate>2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>"The works of Boris Koutzen"</unittitle>
+						<physdesc>(printed pamphlet)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Folder from Nadia Koutzen — News clippings, concert programs, letter from Sarah Blanding to Mrs. Koutzen</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 50</container>
+						<unittitle>Loose leaf binder regarding Koutzen's works</unittitle>
+						<physdesc>(fragile)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 50</container>
+						<unittitle>Three letters to Koutzen from Sarah Gibson Blanding</unittitle>
+						<physdesc>(fragile)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 50</container>
+						<unittitle>Frame photograph of Koutzen with Sarah Gibson Blanding</unittitle>
+						<physdesc>(fragile)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 50</container>
+						<unittitle>Obituaries</unittitle>
+						<physdesc>(fragile)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>SERIES IV. Additional Accessions from Nadia Koutzen</unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>1999 Accession</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 54</container>
+							<unittitle>Vassar-related correspondence, including work contracts, </unittitle>
+							<unitdate>1944-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 54</container>
+							<unittitle>A packet of information on "Bastien and Bastienne"</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>2002 Accession</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 54</container>
+							<unittitle>Folder of "Pappa's [sic] gift of music to Vassar" — letters, appraisals, </unittitle>
+							<unitdate>1960-1965</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Broadway Rhapsody" by Bernard Kay (Manuscript, pencil)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Broadway Serenade" by Bernard Kay (Manuscript, ink)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>Black and white photo of Boris Koutzen [in front of Skinner Hall?]</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Feuille d'Album" (pencil sketch as well as ink and pencil copy)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Legende" (Ink holograph, published edition marked for performance, and fair copy with subtitle "In the style of a Russian Folk song"</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Nocturne for violin and piano" (Pencil "copied by Inez")</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>Cadenza to Mozart's Violin Concerto in G Major "to my little daughter and pupil Nadia"</unittitle>
+							<physdesc>(negative photocopy)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>2 unidentified pencil sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>2 unidentified pencil and ink sketches</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>Cadenza to Haydn Violin Concerto in C (pencil, ink and blueprint)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>Kpanca (?) op. 77 1922 (pencil and ink)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>Cadenza to Bockerini [sic] (3rd movement) (pencil)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>Clarinet quartet score (pencil)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>1"?? odd sheet" (pencil sketch)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Russian Siberian Folk Song" arrangement for 4 ‘cellos by Boris Koutzen (pencil)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>Russian Dance from "The Tsar's Bride" (Rimsky-Korssakoff [sic]) freely adapted for four ‘cellos by Boris Koutzen</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Rondino" (Vieutemps/Koutzen) for violin and piano (ink)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"En Bateau" (Debussy) arranged for violin and piano</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Russian Dance" (Tchaikovsky/Koutzen) arranged for violin and piano</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Romance Orientale" (Rimsky-Korsakov) arranged by B. Koutzen for violin and piano with publication of Rimsky-Korsakov's "The Rose enslaves the Nightingale" ([Boston]: Boston Music Co. : 1916)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 55</container>
+							<unittitle>"Malaguena" Spanish Dance for violin and piano, Sarasete/Koutzen — (Ink, pencil, blueprint of violin part, negative photocopy, reduced photocopy, pencil sketches, and parts (ink) enclosed in Proof copy [?] )</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>2010 Accession</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 40 (Oversize)</container>
+							<unittitle>Koutzen's diploma from the Philadelphia Conservatory, </unittitle>
+							<unitdate>1940</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_rathbone_collection</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Richmond John Rathbone Collection of Rare Maps, 1550-1798</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>September 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck, <date>September 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname source="local">Rathbone, Richmond John</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Richmond John Rathbone Collection of Rare Maps</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1550-1798</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.3 cubic feet (1 box, 1 map folder)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Collection of maps, atlas pages, and documents depicting the Western Hemisphere, globe, and regions of North America from the 16th to 18th centuries. Also included is a military commission for Daniel Rathbun, Jr., signed by New York governor John Jay in 1798.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Collection of maps, atlas pages, and documents, depicting the Western Hemisphere, globe, and regions of North America from the 16th to 18th centuries. Includes four maps drawn by Samuel Lewis (ca. 1854-1922) from "General Atlas of Guthrie's Geography Improved" by Matthew Carey. Also included is a military commission for Daniel Rathbun, Jr., signed by New York governor John Jay in 1798.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is organized into two groupings by material type and sub-arranged alphabetically by creator or title.</p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</archref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<archref href="https://library.vassar.edu/specialcollections/rarebooks" show="new">
+					Atlas Collection</archref>
+			</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/ed35d545-2cd6-47a4-b5f4-38618ab93741">Breed Collection of Maps, Documents, and Prints</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/d9893e8f-9586-4cb5-97a4-45ac250ae564">Edward Lasker Collection of Atlases and Maps</archref></p>
+			<p>Vassar College Archives Maps Collection</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Johnson, Guy, approximately 1740-1788</persname>
+				<persname source="lcnaf" encodinganalog="600">Lewis, Samuel, 1753 or 1754-1822</persname>
+				<persname source="lcnaf" encodinganalog="600">Münster, Sebastian, 1489-1552</persname>
+				<persname source="lcnaf" encodinganalog="600">Seutter, Matthäus, 1678-1757</persname>
+				<persname source="lcnaf" encodinganalog="600">Visscher, Nicolaes, 1649-1702</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Massachusetts--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New York (State)--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">North America--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Pennsylvania--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Maps</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Maps</genreform>
+				<genreform source="aat" encodinganalog="655">Military commissions</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Maps</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, September 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, September 2024.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Mary Rathbone Acker, 2004 and 2005. [M2004-010 and M2005-003]</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Richmond John Rathbone Collection of Rare Maps, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series">
+				<did>
+					<unittitle>MAPS</unittitle>
+				</did>
+					<c02 level="file">
+						<did>
+							<container>Folder 1</container>
+							<unittitle>Johnson, Guy, "Map of the Frontiers of the Northern Colonies with the Boundary Line Established Between Them and the Indians at the Treaty Held by S. Will Johnson at Ft. Stanwyx in Nov. 1768," </unittitle>
+							<unitdate type="inclusive">1768</unitdate>
+						</did>
+					</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2</container>
+						<unittitle>Lewis, Samuel, "British Possessions in North American (Map No. 23)," from "General Atlas of Guthrie's Geography Improved" by Matthew Carey, </unittitle>
+						<unitdate type="inclusive">1794</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3</container>
+						<unittitle>Lewis, Samuel, "State of Massachusetts (Map No. 28), from "General Atlas of Guthrie's Geography Improved" by Matthew Carey, </unittitle>
+						<unitdate type="inclusive">1795</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4</container>
+						<unittitle>Lewis, Samuel, "State of New York (Map No. 31), from "General Atlas of Guthrie's Geography Improved" by Matthew Carey, </unittitle>
+						<unitdate type="inclusive">1795</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5</container>
+						<unittitle>Lewis, Samuel, "State of Pennsylvania (Map No. 33), from "General Atlas of Guthrie's Geography Improved" by Matthew Carey, </unittitle>
+						<unitdate type="inclusive">1794</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6</container>
+						<unittitle>Munster, Sebastian, "Western Hemisphere," </unittitle>
+						<unitdate type="inclusive">1550</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Map Case - Drawer 32</container>
+						<unittitle>Seutter, Matthew (Matthäus Seutter), "Diversi Globi Terr-Aque," </unittitle>
+						<unitdate type="inclusive">1720</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Map Case - Drawer 32</container>
+						<unittitle>Visscher, Nicholas Janz (Nicolaes Visscher), "Novissima et Accuratissima, Titius Americae," </unittitle>
+						<unitdate type="inclusive">1680</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>DOCUMENTS</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 7</container>
+						<unittitle>"Atlas Geographicus," descriptive folio including information about the Seutter map, </unittitle>
+						<unitdate type="inclusive">1720</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8</container>
+						<unittitle>"Commission of Daniel Rathbun," signed by New York governor John Jay, </unittitle>
+						<unitdate type="inclusive">1798</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

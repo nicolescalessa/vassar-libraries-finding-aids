@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_portrait_collection</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Portrait Collection, 1673-1962</titleproper>
+				<author>Inventory prepared by Rachel Schles.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>15 Feb 2007</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jason Kovari, <date>Feb 2009</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="110">
+				<corpname>Vassar College. Library</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Portrait Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1673-1962</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">4.6 cubic feet (5 oversize boxes, 5 mapcase folders, and 2 separate items)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Artificial collection of portraits of significant figures in history, literature and the arts.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Artificial collection of portraits of significant figures in history, literature and the arts. Created and added to over several decades for the purposes of library instruction.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref>.</p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Portraits</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Finding aid encoded by Jason Kovari, February 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Collection processed by Rachel Schles, February 2007.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Samuel S. Constant portrait was received in 2004 (A2004-017); other items acquired from various sources.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Portrait Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.01 (Oversize)</container>
+					<unittitle>Agrippa, Henricus Cornelius, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.01 (Oversize)</container>
+					<unittitle>Ann, Queen, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.01 (Oversize)</container>
+					<unittitle>Antino O., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.01 (Oversize)</container>
+					<unittitle>Antonino, Marcus Aurelius, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.02 (Oversize)</container>
+					<unittitle>Ariosto, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.02 (Oversize)</container>
+					<unittitle>Aristotle, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.02 (Oversize)</container>
+					<unittitle>Arnold, Matthew, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.02 (Oversize)</container>
+					<unittitle>Audobon, John J., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.03 (Oversize)</container>
+					<unittitle>Bartlett, Paul, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.03 (Oversize)</container>
+					<unittitle>Beerbohm, Max, </unittitle>
+					<unitdate>1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>Beerbohm, Max, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.03 (Oversize)</container>
+					<unittitle>Beethoven, Ludwig van, </unittitle>
+					<unitdate>1927</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.03 (Oversize)</container>
+					<unittitle>Bellingham, John, </unittitle>
+					<unitdate>18 May 1812</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.04 (Oversize)</container>
+					<unittitle>Benet, Stephen Vincent, </unittitle>
+					<unitdate>1943</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.04 (Oversize)</container>
+					<unittitle>Bentivoglio, Cardinal Guido, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.04 (Oversize)</container>
+					<unittitle>Blackstone, Sir William, </unittitle>
+					<unitdate>1874</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.05 (Oversize)</container>
+					<unittitle>Blashfield, Edwin Howland, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.05 (Oversize)</container>
+					<unittitle>Bodley, Sir Thomas, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.06 (Oversize)</container>
+					<unittitle>Bojer, Johan, </unittitle>
+					<unitdate>1920</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.06 (Oversize)</container>
+					<unittitle>Bombast, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.06 (Oversize)</container>
+					<unittitle>Bonaparte, Napoleon, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.07 (Oversize)</container>
+					<unittitle>Brougham, Lord, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.07 (Oversize)</container>
+					<unittitle>Buck, Pease S., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.07 (Oversize)</container>
+					<unittitle>Bullen, Ann, </unittitle>
+					<unitdate>1738</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.07 (Oversize)</container>
+					<unittitle>Bullion, Cardinal de, </unittitle>
+					<unitdate>1673</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.08 (Oversize)</container>
+					<unittitle>Burroughs, John, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.09 (Oversize)</container>
+					<unittitle>Camden, Charles Pratt Earl, </unittitle>
+					<unitdate>1794</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.09 (Oversize)</container>
+					<unittitle>Carter, Elizabeth, </unittitle>
+					<unitdate>1788</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.09 (Oversize)</container>
+					<unittitle>Cartwright, Major, </unittitle>
+					<unitdate>1831</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.10 (Oversize)</container>
+					<unittitle>Cesare, C., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.10 (Oversize)</container>
+					<unittitle>Chamberlain, Neville, </unittitle>
+					<unitdate>1938</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.10 (Oversize)</container>
+					<unittitle>Charron, Pierre, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.11 (Oversize)</container>
+					<unittitle>Chase, Salmon P., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.11 (Oversize)</container>
+					<unittitle>Christian VII, </unittitle>
+					<unitdate>1768</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.11 (Oversize)</container>
+					<unittitle>Cibelle, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.12 (Oversize)</container>
+					<unittitle>Clemenceal, M. George, </unittitle>
+					<unitdate>1918</unitdate>
+					<physdesc><extent>(2 item)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.13 (Oversize)</container>
+					<unittitle>Condillac, </unittitle>
+					<unitdate>1780</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.14 (Oversize)</container>
+					<unittitle>Constant, Samuel S., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.13 (Oversize)</container>
+					<unittitle>Cooper, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.13 (Oversize)</container>
+					<unittitle>Cowleius (Cowley), Abrahamus, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.14 (Oversize)</container>
+					<unittitle>Cromwell, Oliver, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>De La Mare, Walter, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.15 (Oversize)</container>
+					<unittitle>Defoe, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.15 (Oversize)</container>
+					<unittitle>Dickens, Charles "Boz", </unittitle>
+					<unitdate>1838</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.15 (Oversize)</container>
+					<unittitle>Dickens, Charles, His Wife, and Sister, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.15 (Oversize)</container>
+					<unittitle>Diderot, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.16 (Oversize)</container>
+					<unittitle>Dodgson, Campbell, </unittitle>
+					<unitdate>1934</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.16 (Oversize)</container>
+					<unittitle>Drinkwater, John, </unittitle>
+					<unitdate>1919</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.16 (Oversize)</container>
+					<unittitle>Dumas, Alexandre, </unittitle>
+					<unitdate>1902</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.17 (Oversize)</container>
+					<unittitle>Duns, Jean, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>Eddington, A. S., </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.17 (Oversize)</container>
+					<unittitle>Edward VIII, King, </unittitle>
+					<unitdate>1936</unitdate>
+					<physdesc><extent>(3 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.17 (Oversize)</container>
+					<unittitle>Egan, Pierce, </unittitle>
+					<unitdate>1832</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>Einstein, Albert, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M1 (Oversize)</container>
+					<unittitle>Eisenhower, Dwight D., </unittitle>
+					<unitdate>1956</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.18 (Oversize)</container>
+					<unittitle>Elizabeth, Queen, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.04 (Oversize)</container>
+					<unittitle>Elizabeth II, Queen and King George VI, </unittitle>
+					<unitdate>1936, 1937</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.18 (Oversize)</container>
+					<unittitle>Emerson, Ralph Waldo, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M1 (Oversize)</container>
+					<unittitle>Evarts, William, </unittitle>
+					<unitdate>1884</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.19 (Oversize)</container>
+					<unittitle>Fabre, J. H., </unittitle>
+					<unitdate>1914</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.19 (Oversize)</container>
+					<unittitle>Faguet, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.19 (Oversize)</container>
+					<unittitle>Fenelon (Francois de Salignac de la Mothe), </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.20 (Oversize)</container>
+					<unittitle>Ferdinand I, </unittitle>
+					<unitdate>1922</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.20 (Oversize)</container>
+					<unittitle>Ferrimontanus, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.20 (Oversize)</container>
+					<unittitle>Fisher, Bishop of Rochester, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.21 (Oversize)</container>
+					<unittitle>Foch, Marshal, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(3 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.22 (Oversize)</container>
+					<unittitle>France, Anatole, </unittitle>
+					<unitdate>1914, undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 1.22 (Oversize)</container>
+					<unittitle>Franklin, Benjamin, </unittitle>
+					<unitdate>1778, 1950</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Mapcase (separate drawer) (Oversize)</container>
+					<unittitle>Franklin, Benjamin, </unittitle>
+					<unitdate>1859</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.01 (Oversize)</container>
+					<unittitle>Frederic II, </unittitle>
+					<unitdate>1756</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.01 (Oversize)</container>
+					<unittitle>Galba, Ser., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.01 (Oversize)</container>
+					<unittitle>Garibaldi, Giuseppe, </unittitle>
+					<unitdate>1919</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.01 (Oversize)</container>
+					<unittitle>Gates, Horatio, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.02 (Oversize)</container>
+					<unittitle>George I, King, </unittitle>
+					<unitdate>1746</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.02 (Oversize)</container>
+					<unittitle>George IV, King, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.03 (Oversize)</container>
+					<unittitle>George V, King, </unittitle>
+					<unitdate>1928, 1929, 1935, undated</unitdate>
+					<physdesc><extent>(4 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.04 (Oversize)</container>
+					<unittitle>George VI, King and Queen Elizabeth II, </unittitle>
+					<unitdate>1936, 1937</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.04 (Oversize)</container>
+					<unittitle>George, M. Lloyd, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.05 (Oversize)</container>
+					<unittitle>Gerard, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.05 (Oversize)</container>
+					<unittitle>Giove, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.05 (Oversize)</container>
+					<unittitle>Giraud, Jacob Post, Jr., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.05 (Oversize)</container>
+					<unittitle>Gladstone, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.06 (Oversize)</container>
+					<unittitle>Gneifenau, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.06 (Oversize)</container>
+					<unittitle>Goethe, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.06 (Oversize)</container>
+					<unittitle>Green, John Richard, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.07 (Oversize)</container>
+					<unittitle>Gutenberg, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.07 (Oversize)</container>
+					<unittitle>Harrington, Lucy, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>Hauptmann, Gerhart, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.07 (Oversize)</container>
+					<unittitle>Hawker, Robert, </unittitle>
+					<unitdate>1820</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.08 (Oversize)</container>
+					<unittitle>Hayes, President, and Cabinet, </unittitle>
+					<unitdate>1880</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.08 (Oversize)</container>
+					<unittitle>Hill, Lord, </unittitle>
+					<unitdate>1819</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.08 (Oversize)</container>
+					<unittitle>Hillman, Sydney, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.09 (Oversize)</container>
+					<unittitle>Hitler, Adolph, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.09 (Oversize)</container>
+					<unittitle>Holmes, Oliver Wendell, Senior, </unittitle>
+					<unitdate>approximately 1875</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.09 (Oversize)</container>
+					<unittitle>Hoover, Herbert, </unittitle>
+					<unitdate>1925</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M1 (Oversize)</container>
+					<unittitle>Hoover, Herbert, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M6 (Oversize)</container>
+					<unittitle>Humboldt, Alexander von, </unittitle>
+					<unitdate>1856</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.09 (Oversize)</container>
+					<unittitle>Hume, David, </unittitle>
+					<unitdate>1806</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.09 (Oversize)</container>
+					<unittitle>James, Thomas, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.10 (Oversize)</container>
+					<unittitle>Jefferson, Thomas, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.10 (Oversize)</container>
+					<unittitle>Jenkins, Henry, </unittitle>
+					<unitdate>1846</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.11 (Oversize)</container>
+					<unittitle>Joachim, Joseph, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M2 (Oversize)</container>
+					<unittitle>Joffre, General, </unittitle>
+					<unitdate>1915</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.11 (Oversize)</container>
+					<unittitle>John, Augustus, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.11 (Oversize)</container>
+					<unittitle>Johnson, Samuel, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.11 (Oversize)</container>
+					<unittitle>Kent, Duchess Of, </unittitle>
+					<unitdate>1818?</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.12 (Oversize)</container>
+					<unittitle>Kruell, Gustov, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.13 (Oversize)</container>
+					<unittitle>Laud, Archbishop, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.13 (Oversize)</container>
+					<unittitle>Lavisse, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.13 (Oversize)</container>
+					<unittitle>Langtree, L., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.14 (Oversize)</container>
+					<unittitle>Leapold, Prince of Saxe Cobura, </unittitle>
+					<unitdate>1817</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.14 (Oversize)</container>
+					<unittitle>Lincoln, Abraham, </unittitle>
+					<unitdate>1909, undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.15 (Oversize)</container>
+					<unittitle>Lincoln, Abraham, </unittitle>
+					<unitdate>1913, 1915, 1956, undated</unitdate>
+					<physdesc><extent>(4 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.16 (Oversize)</container>
+					<unittitle>Lincoln, Abraham, </unittitle>
+					<unitdate>1909, 1935, undated</unitdate>
+					<physdesc><extent>(4 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M3 (Oversize)</container>
+					<unittitle>Lincoln, Abraham, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(6 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Mapcase (separate drawer) (Oversize)</container>
+					<unittitle>Lincoln, Abraham, </unittitle>
+					<unitdate>1869</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.17 (Oversize)</container>
+					<unittitle>Lindbergh, Charles A., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.17 (Oversize)</container>
+					<unittitle>Locke, John, </unittitle>
+					<unitdate>1738</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 2.17 (Oversize)</container>
+					<unittitle>Lown, Clarence, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.01 (Oversize)</container>
+					<unittitle>Lowth, Robert, </unittitle>
+					<unitdate>1809</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.01 (Oversize)</container>
+					<unittitle>Lydgate, John, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.01 (Oversize)</container>
+					<unittitle>Lynes, George Platt, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.01 (Oversize)</container>
+					<unittitle>MacCracken, Henry Noble, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>MacDonald, Rt. Hon. J. Ramsey, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.02 (Oversize)</container>
+					<unittitle>Malebranche, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.02 (Oversize)</container>
+					<unittitle>Manning, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.02 (Oversize)</container>
+					<unittitle>Maria, Countess of Coventry, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.02 (Oversize)</container>
+					<unittitle>Marie, Queen of Romania, </unittitle>
+					<unitdate>1922</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.03 (Oversize)</container>
+					<unittitle>Marshall, John, </unittitle>
+					<unitdate>1877, undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.03 (Oversize)</container>
+					<unittitle>Mary, Dutchess of Lancaster, </unittitle>
+					<unitdate>1758</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.03 (Oversize)</container>
+					<unittitle>Mary II, Queen, </unittitle>
+					<unitdate>1744</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.04 (Oversize)</container>
+					<unittitle>Mary, Queen, The Queen Mother, </unittitle>
+					<unitdate>1937</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M2 (Oversize)</container>
+					<unittitle>Masaryk, T. G., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>Melchett, Rt. Hon. Lord, of Landford, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.04 (Oversize)</container>
+					<unittitle>Milton, John, </unittitle>
+					<unitdate>1741</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.04 (Oversize)</container>
+					<unittitle>Mommsen, Theodor, </unittitle>
+					<unitdate>1897</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.04 (Oversize)</container>
+					<unittitle>Montagu, Lady Elizabeth, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.05 (Oversize)</container>
+					<unittitle>Montagu, Mrs., </unittitle>
+					<unitdate>1809</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.05 (Oversize)</container>
+					<unittitle>Montgomery, James, </unittitle>
+					<unitdate>1819</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.05 (Oversize)</container>
+					<unittitle>Moore, Marianne, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.05 (Oversize)</container>
+					<unittitle>More, Hannah, </unittitle>
+					<unitdate>1824</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.06 (Oversize)</container>
+					<unittitle>Morris, William, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.06 (Oversize)</container>
+					<unittitle>Morse, Samuel, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.06 (Oversize)</container>
+					<unittitle>Nelson, Lord Horatio, </unittitle>
+					<unitdate>1938</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.06 (Oversize)</container>
+					<unittitle>O'Keefe, Georgia, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.07 (Oversize)</container>
+					<unittitle>O'Neil, Miss, </unittitle>
+					<unitdate>1816</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.07 (Oversize)</container>
+					<unittitle>Oastler, Richard, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.07 (Oversize)</container>
+					<unittitle>Pasteur, Louis, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.08 (Oversize)</container>
+					<unittitle>Panizzi, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.08 (Oversize)</container>
+					<unittitle>Peel, Robert, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.08 (Oversize)</container>
+					<unittitle>Pennell, Joseph, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.09 (Oversize)</container>
+					<unittitle>Poe, Edgar Allan, </unittitle>
+					<unitdate>1930</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.09 (Oversize)</container>
+					<unittitle>Pomponius Porphyrio, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.09 (Oversize)</container>
+					<unittitle>Prior, Matthew, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.10 (Oversize)</container>
+					<unittitle>Reade, Charles, </unittitle>
+					<unitdate>1913</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.10 (Oversize)</container>
+					<unittitle>Rembrandt, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.10 (Oversize)</container>
+					<unittitle>Renan, Ernest, </unittitle>
+					<unitdate>1823</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.10 (Oversize)</container>
+					<unittitle>Richardot and Son, </unittitle>
+					<unitdate>1894</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.11 (Oversize)</container>
+					<unittitle>Rivera, Prima de, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.11 (Oversize)</container>
+					<unittitle>Rockefeller, John D., </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.11 (Oversize)</container>
+					<unittitle>Rogers, Samuel, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.12 (Oversize)</container>
+					<unittitle>Roosevelt, Franklin, </unittitle>
+					<unitdate>1946, undated</unitdate>
+					<physdesc><extent>(4 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 3.12 (Oversize)</container>
+					<unittitle>Roosevelt, Theodore, </unittitle>
+					<unitdate>1905, 1908</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.01 (Oversize)</container>
+					<unittitle>Rossetti, Christina, </unittitle>
+					<unitdate>1912</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.01 (Oversize)</container>
+					<unittitle>Rossetti, D. G., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.01 (Oversize)</container>
+					<unittitle>Rostand, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.02 (Oversize)</container>
+					<unittitle>Rousseau, J. J., </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(5 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M6 (Oversize)</container>
+					<unittitle>Rousseau, J. J., </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.03 (Oversize)</container>
+					<unittitle>Ruskin, John, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.03 (Oversize)</container>
+					<unittitle>Sa Saintete Pie XII, </unittitle>
+					<unitdate>1939</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.03 (Oversize)</container>
+					<unittitle>Saltykov, Minhail Eugrafoviah, </unittitle>
+					<unitdate>1940</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.03 (Oversize)</container>
+					<unittitle>Sand, George, </unittitle>
+					<unitdate>1840</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.04 (Oversize)</container>
+					<unittitle>Savonarola, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.04 (Oversize)</container>
+					<unittitle>Selden, John, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.04 (Oversize)</container>
+					<unittitle>Shakespeare, William, </unittitle>
+					<unitdate>1719, 1914</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.05 (Oversize)</container>
+					<unittitle>Shaw, George Bernard, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.05 (Oversize)</container>
+					<unittitle>Shelley, Mary Wollstonecraft, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.05 (Oversize)</container>
+					<unittitle>Shelley, Percy Bysshe, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(5 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.06 (Oversize)</container>
+					<unittitle>Sherman, William T., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.06 (Oversize)</container>
+					<unittitle>Shuter, Mr., </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.06 (Oversize)</container>
+					<unittitle>Simon, Jules, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.06 (Oversize)</container>
+					<unittitle>Simpson, James Alexander, </unittitle>
+					<unitdate>1936</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.08 (Oversize)</container>
+					<unittitle>Steer, Philip Wilson, </unittitle>
+					<unitdate>1929</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.07 (Oversize)</container>
+					<unittitle>Stokes, Lydia Babbott, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.07 (Oversize)</container>
+					<unittitle>Stuart, Gilbert, </unittitle>
+					<unitdate>1928</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.07 (Oversize)</container>
+					<unittitle>Sturge, Joseph, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.07 (Oversize)</container>
+					<unittitle>Swinburne, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.08 (Oversize)</container>
+					<unittitle>Talfourd, Serjieant, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.08 (Oversize)</container>
+					<unittitle>Tennyson, Alfred, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.08 (Oversize)</container>
+					<unittitle>[Tennyson, Alfred ?], </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.08 (Oversize)</container>
+					<unittitle>Truman, Harry, </unittitle>
+					<unitdate>1945</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.09 (Oversize)</container>
+					<unittitle>Tsar Nicolaievitch, </unittitle>
+					<unitdate>1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.09 (Oversize)</container>
+					<unittitle>Tsar Nicolaievitch and family, </unittitle>
+					<unitdate>1905</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.09 (Oversize)</container>
+					<unittitle>Turgot, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M4 (Oversize)</container>
+					<unittitle>Vassar, John Guy, </unittitle>
+					<unitdate>1861</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.09 (Oversize)</container>
+					<unittitle>Venerable, Sally Stokes, VC 1947, </unittitle>
+					<unitdate>1949</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.09 (Oversize)</container>
+					<unittitle>Voltaire, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.10 (Oversize)</container>
+					<unittitle>Von Brandenburg, Friedrich Wilhelm, </unittitle>
+					<unitdate>1875</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 4.10 (Oversize)</container>
+					<unittitle>Washington, Mary Ball, and stekches, </unittitle>
+					<unitdate>1914, 1928</unitdate>
+					<physdesc><extent>(6 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.01 (Oversize)</container>
+					<unittitle>Washington, George, </unittitle>
+					<unitdate>1909, 1912, 1957</unitdate>
+					<physdesc><extent>(3 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.02 (Oversize)</container>
+					<unittitle>Washington, George, </unittitle>
+					<unitdate>1909, 1926, undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M5 (Oversize)</container>
+					<unittitle>Washington, George, </unittitle>
+					<unitdate>1932, undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.03 (Oversize)</container>
+					<unittitle>Wayland, F., </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.03 (Oversize)</container>
+					<unittitle>Webster, Daniel, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.03 (Oversize)</container>
+					<unittitle>Whitman, Walt, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc><extent>(3 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.04 (Oversize)</container>
+					<unittitle>William III, King, </unittitle>
+					<unitdate>1744</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.04 (Oversize)</container>
+					<unittitle>Wilson, Woodrow, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder M5 (Oversize)</container>
+					<unittitle>Wilson, Woodrow, </unittitle>
+					<unitdate>1918</unitdate>
+					<physdesc><extent>(2 items)</extent></physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.04 (Oversize)</container>
+					<unittitle>Wordsworth, William, </unittitle>
+					<unitdate>1841</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.05 (Oversize)</container>
+					<unittitle>Wynn, Watkin Williams, </unittitle>
+					<unitdate>1742</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.05 (Oversize)</container>
+					<unittitle>Yale, Elihu, </unittitle>
+					<unitdate>1962</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.06 (Oversize)</container>
+					<unittitle>Unidentified Man, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.06 (Oversize)</container>
+					<unittitle>Unidentified Woman with Dog, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.07 (Oversize)</container>
+					<unittitle>Unidentified Man, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.07 (Oversize)</container>
+					<unittitle>Unidentified Man, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.07 (Oversize)</container>
+					<unittitle>Unidentified Man, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.07 (Oversize)</container>
+					<unittitle>Unidentified Group, </unittitle>
+					<unitdate>1911</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.07 (Oversize)</container>
+					<unittitle>Unidentified Group, </unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

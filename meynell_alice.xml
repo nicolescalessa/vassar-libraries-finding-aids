@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv"> npv_meynell_alice </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Alice Meynell Papers, approximately 1875, 1893</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Meynell, Alice Christiana Thompson, 1847-1922</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Alice Meynell Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> approximately 1875, 1893 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 0.1 cubic feet (1 box containing 9 items)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Papers consist of her manuscripts of two poems as well as letters to John Lane and James Carlton Young.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Alice Thompson Meynell (1847-1922), noted English poet, essayist, and journalist, was born near London but spent most of her youth in Italy and France, where she and her sister were educated by their father. She became a Roman Catholic at the age of 20 and remained profoundly religious throughout her life. An admirer of 17th-century poetry, she published volumes of verse and essays, and she edited various anthologies. Her first book of poems, <emph render="underline"> Preludes</emph>, was published in 1875 and began the remarkable career that won Alice Meynell the admiring attention of the great writers of her time.</p>
+			<p>In 1877 she married the journalist Wilfred Meynell, and their modest London home became a popular gathering spot for the journalists, suffragists, Christian socialists and literati they befriended. The couple had eight children, several of whom became significant figures in the literary world as well. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Papers consist of her manuscripts of two poems as well as letters to John Lane and James Carlton Young.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Two of Meynell's publications are available in the Rare Book Collection: <emph render="underline">Essays</emph> (Helen Wright Collection, W/M577) and the privately printed <emph render="underline">Other Poems</emph> (PR5021.M3 A6 1896). Both are signed. The poem inscribed "for Mr. Hutchinson" was removed from <emph render="underline">Other Poems</emph> along with a photograph of Thomas Mosher and original wrappers.</p>
+			<p>There are also materials in the Mary Thaw Thompson Papers: two letters from Meynell to Thompson, dated 12 March and 30 December 1920.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Lane, John, 1854-1925</persname>
+				<persname source="lcnaf" encodinganalog="600"> Thompson, Mary Thaw, 1856-1944</persname>
+				<persname source="lcnaf" encodinganalog="600"> Young, James Carlton</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Women authors, English</subject>
+				<subject source="lcsh" encodinganalog="650"> Women poets</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Poems</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Last updated by Laura Streett, May 2007.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Some items were purchased; others were gifts of Mitchell Kennerley (May 1931) and Elizabeth Thompson Reed, VC 1903 </p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Alice Meynell Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container> Folder 1 </container>
+					<unittitle> Letter to John Lane, </unittitle>
+					<unitdate type="inclusive"> 17 May n.y. </unitdate>
+					<physdesc>[includes typed transcript]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Solander box </container>
+					<unittitle> 3 letters to James Carlton Young, </unittitle>
+					<unitdate type="inclusive"> 21 Jan n.y, 16 Apr n.y., and 23 Sep n.y. </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Solander box</container>
+					<unittitle> Poem: "Renunciation," </unittitle>
+					<unitdate type="inclusive"> ca. 1875 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2 </container>
+					<unittitle> Poem: excerpt from "Singers to Come" inscribed "for Mr. Hutchinson," </unittitle>
+					<unitdate type="inclusive"> 27 Sep 1893</unitdate>
+					<physdesc>[removed from <emph render="underline">Other Poems</emph>]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2 </container>
+					<unittitle> Photograph of Thomas Mosher </unittitle>
+					<physdesc>[removed from <emph render="underline">Other Poems</emph>]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> Folder 2 </container>
+					<unittitle> Original wrappers? </unittitle>
+					<physdesc>[removed from <emph render="underline">Other Poems</emph>]</physdesc>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

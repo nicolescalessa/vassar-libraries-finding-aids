@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_may_sybil_huntington
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Sybil Huntington May Papers, 1898-1976 (bulk 1910-1919)</titleproper>
+				<author>Inventory prepared by Jessica Kemm.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>September 2009</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Jessica Kemm <date>September 2009</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>May, Sybil Huntington</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Sybil Huntington May Papers </unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"> 1898-1976</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1910-1919</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 2 cubic feet (2 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Materials related to May’s life as a student at Vassar and during the years immediately after her graduation. There is also correspondence related to Leo Huberman, co-founder of the <emph render="italic">Monthly Review</emph>.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p> Educator Sybil Huntington May taught at the progressive City and Country School in New York City for 24 years before becoming a charter staff member of the <emph render="italic">Monthly Review</emph>. May was born in 1893 in New York City, the daughter of Charles and Carder Collins May. She attended the Charlton School, before entering Vassar in 1910. Her post-Vassar education included the New York School of Philanthropy (1914-1915) and Teachers College of Columbia University where she earned an M.A. in 1917. Her early career in education included teaching English at Miss Pond’s School in Newark, New Jersey (1917-1918), English and History at Miss Chapin’s School in New York City (1918-1922, 1923-1926) and the sixth grade at Francis Parker School in Chicago(1922-1923). She taught from 1926 until 1950 at the City and Country School in New York City. Upon her retirement, she began working with the <emph render="italic">Monthly Review</emph>, serving as the a proofreader and
+				Executive Secretary of <emph render="italic">Monthly Review </emph>Associates, which raised funds for the non-profit publication. With the magazine's co-founder Leo Huberman, she co-wrote the <emph render="italic">ABC of Socialism </emph>(New York: Monthly Review, 1953), which was translated into Spanish, Swedish, Telugu, and Finnish. She died October 3, 1978. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection contains correspondence and photographs documenting the lives of May, her family, and friends, many of whom also attended Vassar College. Of special note are portrayals of family life in letters to May while she was at Vassar and observations by young socially conscious Vassar alumnae. </p>
+			<p>Correspondence from the late 1960’s includes material related to Leo Huberman, co-founder of the <emph render="italic">Monthly Review</emph>.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcsh" encodinganalog="600"> Huberman, Leo, 1903-1968 </persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Vassar College </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Jessica Kemm, September 2009.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown. Transcribed from paper guide, May 2005. Updated by Jessica Kemm, September 2009.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Correspondence from 1915-1918 was donated by Edward Huberman in 1990 and is included in Series 2. </p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Sybil Huntington May Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1"> Series I. </ref> Biographical Information </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref>Letters to Sybil H. May </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Letters From Sybil H. May </unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Photographs </unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle> Series I: Biographical Information </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.1 </container>
+						<unittitle> Biographical Information </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.2 </container>
+						<unittitle> Sybil May estate information, donation to Vassar College </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.3 </container>
+						<unittitle> Journal, </unittitle>
+						<unitdate>1920s? </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.4 </container>
+						<unittitle> War Ration Books </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle> Series II: Letters to Sybil H. May </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.5 - 1.25 </container>
+						<unittitle> Letters from family members, </unittitle>
+						<unitdate>1898 - 1922, n.d.</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.26 </container>
+						<unittitle> Boody, Bertha </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.27 </container>
+						<unittitle> Brainerd, Bertha/Cephas </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.28 </container>
+						<unittitle> Brant, Lilian </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.29 </container>
+						<unittitle> Brinsmade, Dorothy </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.30 </container>
+						<unittitle> Chapin, Maria B. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.31 </container>
+						<unittitle> Colcord, J.C. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.32 </container>
+						<unittitle> Deming, Dorothy (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.33 </container>
+						<unittitle> Dorothy ? </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.34 </container>
+						<unittitle> Dubois, Helen </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.35 </container>
+						<unittitle> Fowler, Katherine </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.36 </container>
+						<unittitle> Fuller, Carding </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.37 </container>
+						<unittitle> Geuder, Agnes </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.38 - 1.43</container>
+						<unittitle> Gleason, Josephine [Jo] (VC 1914), </unittitle>
+						<unitdate>ca. 1916-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container> Folder 1.44</container>
+						<unittitle> Green, Annie L. (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.45 </container>
+						<unittitle> Griff, Helen </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.46 </container>
+						<unittitle> Howe, Susana </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.47 </container>
+						<unittitle> Jamieson, Edith (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.48 </container>
+						<unittitle> Jeanette? </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 1.49 </container>
+						<unittitle> Katherine? </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 1.50 - 1.51 </container>
+						<unittitle> Kelley, Margaret [Mardie] </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.1 </container>
+						<unittitle> Lee? </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.2 </container>
+						<unittitle> McDaniels, Harriet </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.3 </container>
+						<unittitle> Mallon, Mary (VC 1915) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.4 </container>
+						<unittitle> Marguerita </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.5 </container>
+						<unittitle> Mary? </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.6 </container>
+						<unittitle> Noble, Evelyn </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.7 </container>
+						<unittitle> Rufus? </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.8 </container>
+						<unittitle> Rilling, Ruth (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.9 </container>
+						<unittitle> Roberts, Willa [Billie] (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.10 </container>
+						<unittitle> Stanley, Louise (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.11 </container>
+						<unittitle> Taylor, Margaret (VC ex 1915) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.12 </container>
+						<unittitle> Underhill, Elsie </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.13 </container>
+						<unittitle> Underhill, Gertrude </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.14 </container>
+						<unittitle> Vanneman, Aimeé (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.15 </container>
+						<unittitle> Willard, Marion [Marnie] (VC 1914) </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.16 </container>
+						<unittitle> Miscellaneous, </unittitle>
+						<unitdate>Jan 1912 - Sep 1914 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.17 - 2.42 </container>
+						<unittitle> Letters from non-family members, </unittitle>
+						<unitdate>1910 - 1976, n.d. </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.43 </container>
+						<unittitle> Letters from others to others, </unittitle>
+						<unitdate>Dec 1911- Feb 1912, Oct 1921 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.51 - 2.55 </container>
+						<unittitle> Letters acquired from Edward Huberman, </unittitle>
+						<unitdate>1914-1918 </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle> Series III: Letters from Sybil H. May </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.44 - 2.45 </container>
+						<unittitle> Letters to her parents, </unittitle>
+						<unitdate>1923</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.46 - 2.48 </container>
+						<unittitle> Letters to her mother, </unittitle>
+						<unitdate>1911, 1919, 1923, n.d.</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle> Series IV: Photographs </unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folders 2.49 - 2.50</container>
+						<unittitle> Photographs </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_oxford_oxfordshire</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Printed Illustrations of Oxford and Oxfordshire
+					Collection, approximately 1600-1908</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY,
+						12604-0020</addressline>
+				</address>
+				<date>May 2021</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Mark Seidl, <date>May 2021</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245">Printed Illustrations of Oxford and
+				Oxfordshire Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately
+				1600-1908</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">3.5 cubic feet (8 boxes, 1 framed
+				item)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College
+					Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Collection of printed illustrations
+				of Oxford and Oxfordshire.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>A collection of printed illustrations depicting Oxfordshire and the city of Oxford in
+				England.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
+		</userestrict>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Oxford (England)</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Oxfordshire (England)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Lithographs</genreform>
+				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Mark Seidl, May 2021. Updated by Emma Gronbeck, July 2023.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Inventory created by Emma Iadanza, March 2021.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Source unknown.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Printed Illustrations of Oxford and Oxfordshire Collection, Archives and Special
+				Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is organized into six series and arranged alphabetically by title within each series.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Maps and Views of Oxford
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Oxford Street Views
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Oxford Buildings
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV. </ref> People and Events at Oxford
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Nearby Locations
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Miscellaneous
+					</unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>SERIES I. MAPS AND VIEWS OF OXFORD</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>2.36</container>
+						<unittitle>Oxford, from a field in China Lane, </unittitle>
+						<unitdate>approximately 1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.33</container>
+						<unittitle>Oxford, from … Bagley Wood, </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.59</container>
+						<unittitle>… Oxford, from Heddington Hill, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.31</container>
+						<unittitle>Oxford, from the Henley Road, </unittitle>
+						<unitdate>1821</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.8</container>
+						<unittitle>[Oxford, from the Observatory], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.35</container>
+						<unittitle>Oxford, from … the Path to Pullin’s Tree, </unittitle>
+						<unitdate>1822</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.58</container>
+						<unittitle>… Oxford, from Wytham, </unittitle>
+						<unitdate>1848</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.34</container>
+						<unittitle>Oxford, [North View], </unittitle>
+						<unitdate>1821</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.32</container>
+						<unittitle>[Oxford, map], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.1</container>
+						<unittitle>[Oxford, map], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.28</container>
+						<unittitle>[Oxford, SE View], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.30</container>
+						<unittitle>[Oxford, SE View], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.62</container>
+						<unittitle>[Oxford (two views)], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.63</container>
+						<unittitle>[Oxford (two views)], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.65</container>
+						<unittitle>[Oxford (two views)], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.47</container>
+						<unittitle>[Oxford, various views], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.3</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.9</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.26</container>
+						<unittitle>[View from Christ Church Meadow], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.51</container>
+						<unittitle>View from the Grounds at the North East of Wadham College, </unittitle>
+						<unitdate>1848</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Framed Storage 2.6</container>
+						<unittitle>Way, Thomas, "The Towers of Oxford from the Bell Tower of Magdalen College," lithograph, </unittitle>
+						<unitdate>1908 Nov 5</unitdate>
+						<physdesc>[1 framed print]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>SERIES II. OXFORD STREET VIEWS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>4.44</container>
+						<unittitle>South East View of the Taylor Building and University Galleries, </unittitle>
+						<unitdate>1847</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.1</container>
+						<unittitle>Broad Street, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.64</container>
+						<unittitle>Carfax Conduit…, </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.48</container>
+						<unittitle>Cat Street, Hertford College, </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.29</container>
+						<unittitle>Entrance to Oxford …, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.61</container>
+						<unittitle>… Entrance to Oxford, </unittitle>
+						<unitdate>1816</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.4</container>
+						<unittitle>[Fleigh Street], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.63</container>
+						<unittitle>…Folly Bridge…, </unittitle>
+						<unitdate>1853</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.6a</container>
+						<unittitle>High Street, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>8.1</container>
+						<unittitle>High Street, </unittitle>
+						<unitdate>1811</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.9</container>
+						<unittitle>[High Street, Carfax Conduit], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.51</container>
+						<unittitle>Hithe Bridge, etc., </unittitle>
+						<unitdate>1817</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.65</container>
+						<unittitle>Hythe Bridge with Tower of the Castle, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.35</container>
+						<unittitle>Magdalen Bridge…, </unittitle>
+						<unitdate>1819</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.62</container>
+						<unittitle>Magdalen Tower and Bridge…, </unittitle>
+						<unitdate>1854</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.13</container>
+						<unittitle>Magpie Lane, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.27</container>
+						<unittitle>Martyrs Memorial, </unittitle>
+						<unitdate>1842</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.57</container>
+						<unittitle>[North Gate], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.2</container>
+						<unittitle>[Perspective View]: Cathedral and Radcliffe Library, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.10</container>
+						<unittitle>[Perspective View]: Radcliffe Library, Brazen Nose College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.25</container>
+						<unittitle>[Perspective View]: Radcliffe Library, All Souls College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.55</container>
+						<unittitle>[Perspective View: Radcliffe Library, All Souls’ College…], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.13</container>
+						<unittitle>[Perspective View]: [Printing House, Theater, the Museum, various
+							colleges], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.40</container>
+						<unittitle>[Perspective View]: Printing House, Theater…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.41</container>
+						<unittitle>[Perspective View, Colleges]: Baliol College, Trinity College…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.16</container>
+						<unittitle>[Perspective View, Colleges, from The Turl], </unittitle>
+						<unitdate>approximately 1806</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.27</container>
+						<unittitle>Perspective View [Colleges]: Exter, Alban, Hart, Edmund, Mary,
+							Merton, Brazen Nose, New Inn, Magdalen, Worcester, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.3</container>
+						<unittitle>[Perspective View, Colleges]: New and Magdalen, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.20</container>
+						<unittitle>[Perspective View, Colleges]: Merton and Christ Church, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.17</container>
+						<unittitle>[Perspective View, Colleges]: Oriel and Corpus Christi Colleges, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.25</container>
+						<unittitle>[Perspective View, Colleges]: Queens College, University College,
+							All Souls College…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.8</container>
+						<unittitle>Perspective View [Colleges]: Queens College, University College,
+							All Souls College…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.41</container>
+						<unittitle>[Perspective View Colleges]: St. Mary’s Church, All Saints’
+							Church…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.15</container>
+						<unittitle>The Turl, </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.67</container>
+						<unittitle>[Untitled view], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>SERIES III. OXFORD BUILDINGS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>5.14</container>
+						<unittitle>All Saints Church, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>8.2</container>
+						<unittitle>[All Souls College, atrium], </unittitle>
+						<unitdate>1717</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>8.4</container>
+						<unittitle>[All Souls College, atrium], </unittitle>
+						<unitdate>[1717?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>8.3</container>
+						<unittitle>[All Souls College,] Ichnographia, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.2</container>
+						<unittitle>[All Souls College, Library], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.7</container>
+						<unittitle>[All Souls College], Mallardianorum effigies …, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.3</container>
+						<unittitle>All Souls College, The New Quadrangle, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.24</container>
+						<unittitle>Balliol College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.27</container>
+						<unittitle>Balliol College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.9</container>
+						<unittitle>[Balliol College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.54</container>
+						<unittitle>[Balliol College, New Chapel], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.5</container>
+						<unittitle>[Balliol College, Plan], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.6</container>
+						<unittitle>[Balliol College, South East View], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.15</container>
+						<unittitle>Bodleian Library, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.24</container>
+						<unittitle>[Bodleian Library, interior], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.28</container>
+						<unittitle>[Bodleian Library, interior], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.40</container>
+						<unittitle>[Bodleian Library, picture gallery], </unittitle>
+						<unitdate>1829</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.26</container>
+						<unittitle>[Brasen Nose College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.29</container>
+						<unittitle>[Brasen Nose College, Front], </unittitle>
+						<unitdate>1816</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.46</container>
+						<unittitle>[Brasen Nose College, Front], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.9a</container>
+						<unittitle>[Brasen Nose College, the Large Quadrangle], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.12</container>
+						<unittitle>[Brasen Nose College, Plan,]</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.18</container>
+						<unittitle>Chapter House, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.38</container>
+						<unittitle>[Christ Church, Canterbury Gate], </unittitle>
+						<unitdate>after 1775</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.28</container>
+						<unittitle>[Christ Church], Cathedral, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.52</container>
+						<unittitle>[Christ Church, Cathedral], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.45</container>
+						<unittitle>… Christ Church, Cathedral, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.53</container>
+						<unittitle>[Christ Church, Cathedral and Chapterhouse], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.7</container>
+						<unittitle>[Christ Church, Cathedral, St. Friedeswide’s Chapel], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.8</container>
+						<unittitle>[Christ Church, Cathedral, St. Friedeswide’s Chapel], </unittitle>
+						<unitdate>after 1790</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.26</container>
+						<unittitle>Christ Church Cathedral, [interior], </unittitle>
+						<unitdate>1816</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.11</container>
+						<unittitle>Christ Church from the Gardens, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.39</container>
+						<unittitle>Christ Church from the Meadows, </unittitle>
+						<unitdate>1816</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.11</container>
+						<unittitle>[Christ Church, Front View], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.10</container>
+						<unittitle>[Christ Church, Great Quadrangle], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.49</container>
+						<unittitle>[Christ Church, Inside View of the Hall], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.19</container>
+						<unittitle>Christ Church, Kitchen, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.52</container>
+						<unittitle>Christ Church, Library, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.68</container>
+						<unittitle>Christ Church, Library, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.37</container>
+						<unittitle>[Christ Church, New Gate], </unittitle>
+						<unitdate>[1785?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.7</container>
+						<unittitle>[Christ Church, New Quadrangle], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.8</container>
+						<unittitle>[Christ Church, New Quadrangle], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.69</container>
+						<unittitle>[Christ Church, Old Stables and Remains of Austin Friary], </unittitle>
+						<unitdate>1821</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.6</container>
+						<unittitle>[Christ Church], plan of the building destroyed by the Fire, </unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.10</container>
+						<unittitle>[Christ Church, Staircase Leading to the Hall], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.40</container>
+						<unittitle>[Christ Church, Tom Gate], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.47</container>
+						<unittitle>Christ Church, Walk, </unittitle>
+						<unitdate>1822</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.66</container>
+						<unittitle>[Christ Church, West Front], </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.68</container>
+						<unittitle>[Christ Church] West Entrance from Pembroke Lane, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.41</container>
+						<unittitle>[Christ Church, Wide Walk], </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.30</container>
+						<unittitle>[Corpus Christi College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.39</container>
+						<unittitle>[Corpus Christi College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.16</container>
+						<unittitle>[Corpus Christi College, facades and plans], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.6b</container>
+						<unittitle>[Corpus Christi College, facade and quadrangle], </unittitle>
+						<unitdate>1832</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.56</container>
+						<unittitle>Corpus Christi College from the Fields, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.18</container>
+						<unittitle>Corpus Christi College, the Fellows’ Building, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.33</container>
+						<unittitle>Coventry Hall, </unittitle>
+						<unitdate>1819</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.23</container>
+						<unittitle>[Divinity School, interior], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.22</container>
+						<unittitle>Exeter College, <unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.27</container>
+						<unittitle>[Exeter College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.17</container>
+						<unittitle>… Friar Bacon’s Study, </unittitle>
+						<unitdate>1819</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.24</container>
+						<unittitle>… Friar Bacon’s Study, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.43</container>
+						<unittitle>[Hertford College,] Demolished Buildings…, </unittitle>
+						<unitdate>1822</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.37</container>
+						<unittitle>[Herford College, facade], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.3</container>
+						<unittitle>Hertford College from the Grove, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.6</container>
+						<unittitle>[Jesus College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.15</container>
+						<unittitle>[Jesus College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.23</container>
+						<unittitle>Jesus College, Chapel, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.21</container>
+						<unittitle>Lincoln College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.28</container>
+						<unittitle>[Lincoln College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.17</container>
+						<unittitle>[Lincoln College], </unittitle>
+						<unitdate>[1723?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.20</container>
+						<unittitle>Lincoln [College], Chapel, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.60</container>
+						<unittitle>Little Lion Hall and Great Lion Hall, </unittitle>
+						<unitdate>1817</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.3</container>
+						<unittitle>[Magdalen College], </unittitle>
+						<unitdate>1823</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.6</container>
+						<unittitle>Magdalen College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.17</container>
+						<unittitle>Magdalen College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.57</container>
+						<unittitle>…Magdalen College…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.5</container>
+						<unittitle>[Magdalen College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.48</container>
+						<unittitle>Magdalen College…, </unittitle>
+						<unitdate>[1778?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.54</container>
+						<unittitle>Magdalen College, New Building, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.1a</container>
+						<unittitle>[Magdalen College, New Hall], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.60</container>
+						<unittitle>[Magdalen College, Old Approach], </unittitle>
+						<unitdate>1846</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.14</container>
+						<unittitle>[Magdalen College, Plan], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.59</container>
+						<unittitle>[Magdalen College, Quadrangle], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.58</container>
+						<unittitle>[Magdalen College], Remains of Old Magdalen Hall, </unittitle>
+						<unitdate>1841</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.2</container>
+						<unittitle>[Magdalen College], Tower, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.20</container>
+						<unittitle>Merton [College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.4</container>
+						<unittitle>[Merton College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.34</container>
+						<unittitle>[Merton College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.35</container>
+						<unittitle>[Merton College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.17</container>
+						<unittitle>…Merton College, Chapel, </unittitle>
+						<unitdate>[1802?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.19</container>
+						<unittitle>Merton College, Chapel…, </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.9b</container>
+						<unittitle>[Merton College, Entrance], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.50</container>
+						<unittitle>[Merton College, Demolished Buildings], </unittitle>
+						<unitdate>1821</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.49</container>
+						<unittitle>Merton College from the Grove, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.43</container>
+						<unittitle>Merton College from the Meadows, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.18</container>
+						<unittitle>[Merton College, Plan], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.72</container>
+						<unittitle>[Natural History Museum], </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>(photograph)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.44</container>
+						<unittitle>[New College] …, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.13</container>
+						<unittitle>[New College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.15</container>
+						<unittitle>[New College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.31</container>
+						<unittitle>[New College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.33</container>
+						<unittitle>[New College], </unittitle>
+						<unitdate>[1674?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.47</container>
+						<unittitle>[New College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.16</container>
+						<unittitle>[New College, Chapel and Tower], </unittitle>
+						<unitdate>1843</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.20</container>
+						<unittitle>New College, from the Mount, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.26</container>
+						<unittitle>[Observatory], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.32</container>
+						<unittitle>Old Buildings…, </unittitle>
+						<unitdate>1821</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.38</container>
+						<unittitle>Old Carfax Church, </unittitle>
+						<unitdate>1819</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.30</container>
+						<unittitle>[Oriel College, New Library], </unittitle>
+						<unitdate>1741</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.37</container>
+						<unittitle>[Oxford] Castle…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.18</container>
+						<unittitle>[Oxford Castle, Crypt], </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.45</container>
+						<unittitle>[Oxford Castle, Tower], </unittitle>
+						<unitdate>1818</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.64</container>
+						<unittitle>…Pembroke College, </unittitle>
+						<unitdate>1837</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.70</container>
+						<unittitle>[Pembroke College, New Hall], </unittitle>
+						<unitdate>1857</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.1b</container>
+						<unittitle>[Queen’s College], </unittitle>
+						<unitdate>1751</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.12</container>
+						<unittitle>[Queen’s College], </unittitle>
+						<unitdate>1751</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.16</container>
+						<unittitle>[Queen’s College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.8</container>
+						<unittitle>[Queen’s College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.50</container>
+						<unittitle>… Queen’s College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.21</container>
+						<unittitle>[Queen’s College, Old Buildings], </unittitle>
+						<unitdate>1818</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.1</container>
+						<unittitle>[Queen’s College, Plan], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.8</container>
+						<unittitle>[Queen’s College, room of the Black Prince], </unittitle>
+						<unitdate>1751</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.5</container>
+						<unittitle>[Radcliffe Camera], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.30</container>
+						<unittitle>Radcliffe [Camera]…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.24</container>
+						<unittitle>[Radcliffe Camera], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.13</container>
+						<unittitle>[Radcliffe Camera], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.29</container>
+						<unittitle>[Radcliffe Camera], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.21</container>
+						<unittitle>[Radcliffe Camera], Interior, </unittitle>
+						<unitdate>1835</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.22</container>
+						<unittitle>[Radcliffe Camera, plan], </unittitle>
+						<unitdate>1737</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.2</container>
+						<unittitle>[Sheldonian Theatre], Nummorum antiquorum scriniis Bodelianis
+							reconditorum cataologus, </unittitle>
+						<unitdate>1750</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.7</container>
+						<unittitle>[Sheldonian Theatre], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.6</container>
+						<unittitle>[Sheldonian Theatre], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.9</container>
+						<unittitle>[Sheldonian Theatre], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.11</container>
+						<unittitle>[Sheldonian Theatre], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.15</container>
+						<unittitle>[Sheldonian Theatre, façade and plan], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.12</container>
+						<unittitle>[St. Aldale’s], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.31</container>
+						<unittitle>[St. Alban Hall], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.32</container>
+						<unittitle>[St.] Alban Hall, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.36</container>
+						<unittitle>[St. Alban Hall, plan], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.15</container>
+						<unittitle>St. Clement’s Church, </unittitle>
+						<unitdate>1836</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.56</container>
+						<unittitle>[St. Ebbe, Old Church], </unittitle>
+						<unitdate>1818</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.7a</container>
+						<unittitle>St. Edmund Hall, </unittitle>
+						<unitdate>1822</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.9</container>
+						<unittitle>St. Edmund Hall, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.22</container>
+						<unittitle>[St. Edmund Hall], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.19</container>
+						<unittitle>[St. Edmund Hall], </unittitle>
+						<unitdate>undated</unitdate>
+						<note>
+							<p>[See also: St. Peter in the East (now St. Edmund Hall library)]</p>
+						</note>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.4</container>
+						<unittitle>St. Giles’ Church, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.28</container>
+						<unittitle>…St Giles’ Church, </unittitle>
+						<unitdate>1845</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.49</container>
+						<unittitle>[St. John’s College], </unittitle>
+						<unitdate>1828</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.26</container>
+						<unittitle>St. John’s College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.2</container>
+						<unittitle>[St. John’s College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.23</container>
+						<unittitle>St. John’s College…, </unittitle>
+						<unitdate>[1783?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.32</container>
+						<unittitle>[St. John’s College, Canterbury Quad], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.48</container>
+						<unittitle>[St. John’s College, Interior Quadrangle], </unittitle>
+						<unitdate>1844</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.50</container>
+						<unittitle>St. John’s College … Library …, </unittitle>
+						<unitdate>1828</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.37</container>
+						<unittitle>… St. Martin’s Church, </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.14, </container>
+						<unitdate>undated</unitdate>
+						<unittitle>St. Mary Hall</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.14</container>
+						<unittitle>St. Mary Hall, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.29</container>
+						<unittitle>[St. Mary Hall], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.13</container>
+						<unittitle>[St. Mary Hall, Church], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.16</container>
+						<unittitle>St. Mary [Hall], Church, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.40</container>
+						<unittitle>[St. Mary Hall, Church], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.23</container>
+						<unittitle>St. Mary Magdalen Church, </unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.69</container>
+						<unittitle>[St. Mary Magdalen Church], </unittitle>
+						<unitdate>1839</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.48</container>
+						<unittitle>[St. Mary Magdalen College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.24</container>
+						<unittitle>[St. Peter in the East], </unittitle>
+						<unitdate>undated</unitdate>
+						<note>
+							<p>(see also: St. Edmund Hall)</p>
+						</note>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.42</container>
+						<unittitle>St. Peter in the East, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.52</container>
+						<unittitle>St. Peter … in the East</unittitle>
+						<unitdate>1820</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.23</container>
+						<unittitle>… St. Peter [in the East], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.25</container>
+						<unittitle>… St. Peter in the East, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.4</container>
+						<unittitle>Cryprt of St. Peter's Church in the East, </unittitle>
+						<unitdate>approximately 1822</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.7</container>
+						<unittitle>Trinity College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.46</container>
+						<unittitle>Trinity College…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.1</container>
+						<unittitle>[Trinity College], </unittitle>
+						<unitdate>1688</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.4</container>
+						<unittitle>[Trinity College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.21</container>
+						<unittitle>Trinity College, President’s Lodgings, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.19</container>
+						<unittitle>… University College …, </unittitle>
+						<unitdate>1823</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.44</container>
+						<unittitle>University Printing House, </unittitle>
+						<unitdate>1832</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.61</container>
+						<unittitle>Untitled photograph, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.2</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.1</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+						<note>
+							<p>(same as 1.2)</p>
+						</note>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.5</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+						<note>
+							<p>(same as 1.2)</p>
+						</note>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.17</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.3</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.4</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.5</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.7</container>
+						<unittitle>Untitled view</unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.8</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.9</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.11</container>
+						<unittitle>Untitled view</unittitle>
+						<unitdate>1809</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.43</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.53</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.66</container>
+						<unittitle>Untitled View, </unittitle>
+						<unitdate>[1798?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.12</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.27</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.46</container>
+						<unittitle>Untitled view, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.6</container>
+						<unittitle>Untitled view [chapel], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.47</container>
+						<unittitle>[Various Oxford Buildings], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.10</container>
+						<unittitle>[Various Oxford Buildings]</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.51</container>
+						<unittitle>Wadham College …, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.3</container>
+						<unittitle>[Wadham College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.10</container>
+						<unittitle>Wadham College…, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.39</container>
+						<unittitle>[Wadham College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.42</container>
+						<unittitle>[Wadham College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.53</container>
+						<unittitle>Wadham [College], Chapel …, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.51</container>
+						<unittitle>Wadham College, Grounds, </unittitle>
+						<unitdate>1848</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.25</container>
+						<unittitle>Wackham Chapel, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.11</container>
+						<unittitle>Worcester College, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.36</container>
+						<unittitle>Worcester College…, </unittitle>
+						<unitdate>1855</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.12</container>
+						<unittitle>[Worcester College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.13</container>
+						<unittitle>[Worcester College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.14</container>
+						<unittitle>[Worcester College], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.46</container>
+						<unittitle>[Worcester College, New Buildings], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.45</container>
+						<unittitle>[Worcester College, Old Buildings], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>SERIES IV. PEOPLE AND EVENTS AT OXFORD</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>2.19</container>
+						<unittitle>The board walk, Christ Church Meadows, Oxford, on Sunday Evening,
+							June 16th</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>[newspaper clipping]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.49</container>
+						<unittitle>[Capriccio], </unittitle>
+						<unitdate>[1765?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.50</container>
+						<unittitle>[Capriccio], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.5</container>
+						<unittitle>English Agricultural Society’s Dinner … 1839, </unittitle>
+						<unitdate>[1839?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.34</container>
+						<unittitle>[English Agricultural Society’s Dinner, 1839]</unittitle>
+						<unitdate>[1839?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.71</container>
+						<unittitle>[English Agricultural Society’s Dinner, 1839], </unittitle>
+						<unitdate>[1839?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.20</container>
+						<unittitle>[English Agricultural Society’s Dinner,1839], </unittitle>
+						<unitdate>[1839?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.16</container>
+						<unittitle>Henley Regata, June 1844, </unittitle>
+						<unitdate>[1844?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.2</container>
+						<unittitle>[Procession], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>3.18</container>
+						<unittitle>… Thames Regata, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>SERIES V. NEARBY LOCATIONS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>5.55</container>
+						<unittitle>[Antiquy Hall], </unittitle>
+						<unitdate>1817</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.39</container>
+						<unittitle>Bathing Place, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.25</container>
+						<unittitle>… Beaumont, </unittitle>
+						<unitdate>1819</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.42</container>
+						<unittitle>Blenheim House, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.45</container>
+						<unittitle>[Clattercote-Priory, SW View], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.67</container>
+						<unittitle>[Hedington Hill, Joe Pullen’s Elm], </unittitle>
+						<unitdate>1821</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.22</container>
+						<unittitle>Iffley Mill, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.10</container>
+						<unittitle>Village of Iffley …, </unittitle>
+						<unitdate>approximately 1840</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.41</container>
+						<unittitle>… Nuneham, </unittitle>
+						<unitdate>1787</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.35</container>
+						<unittitle>…Osney Abbey, </unittitle>
+						<unitdate>1817</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.34</container>
+						<unittitle>…Rewley Abbey…, </unittitle>
+						<unitdate>1818</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.43</container>
+						<unittitle>[Stanton-Hancourt, Ruins, Chapel], </unittitle>
+						<unitdate>1763</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.44</container>
+						<unittitle>[Stanton-Hancourt, Ruins, Chapel], </unittitle>
+						<unitdate>[1763?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.21</container>
+						<unittitle>[Stanton-Hancourt, Ruins, Kitchens], </unittitle>
+						<unitdate>1785</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.4</container>
+						<unittitle>[Stanton-Hancourt, Ruins, Kitchens and offices], </unittitle>
+						<unitdate>1763</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.22</container>
+						<unittitle>Yeofley, Church, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>SERIES VI. MISCELLANEOUS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>3.14</container>
+						<unittitle>[Ashmolean Museum, marbles], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.33</container>
+						<unittitle>[1 Chron. xxix. 11 and Luke ii.14 in various languages], </unittitle>
+						<unitdate>1814</unitdate>
+						<physdesc>[Type specimen sheet of the Clarendon Press, Oxford]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.31</container>
+						<unittitle>Fonts at Oxford Churches, </unittitle>
+						<unitdate>1821</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>1.7b</container>
+						<unittitle>Illustration for Concert at Sheldonian Theatre, </unittitle>
+						<unitdate>1818</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.70</container>
+						<unittitle>Praefatio, </unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc>[Leaf from catalogue of printed books at the Bodleian
+							Library(?)]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>6.3</container>
+						<unittitle>Pictorial Times, [Oxford Grand Comemoration, 1844], </unittitle>
+						<unitdate>approximately 1844</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.38</container>
+						<unittitle>Pictorial Times (View of Oxford), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.11</container>
+						<unittitle>Pictorial Times (Views of Oxford), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.29</container>
+						<unittitle>Pictorial Times (Views of Oxford), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.30</container>
+						<unittitle>Pictorial Times (Views of Oxford; Oxford People), </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>2.42</container>
+						<unittitle>References to the Plates; References to the Ground Plan, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.12</container>
+						<unittitle>[Roundel], </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>5.54</container>
+						<unittitle>Specimen of the Decoration of Rooms in the reign of Q. Elizabeth, </unittitle>
+						<unitdate>1823</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>4.1</container>
+						<unittitle>Untitled interior view “Sciant psentes fut…,"</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.5</container>
+						<unittitle>[Various clippings], </unittitle>
+						<unitdate>undated</unitdate>
+						<note>
+							<p>[The Academical Habits of the several degrees in the University of
+								Oxford; The conservatory for ever-greens in the Physick Garden of
+								the University of Oxford; Scholae Publicae; The Grand Entrance of
+								Christ Church; East Side of the Quadrangle of the Schools; Vue du
+								theatre de Sheldon à Oxford, du côté du Nord]</p>
+						</note>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>7.38</container>
+						<unittitle>Untitled view and scene, </unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

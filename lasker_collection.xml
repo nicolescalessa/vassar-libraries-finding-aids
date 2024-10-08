@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_rathbone_collection</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Edward Lasker Collection of Atlases and Maps, 1549-1926</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>September 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck, <date>September 2024</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname source="local">Lasker, Edward</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Edward Lasker Collection of Atlases and Maps</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1549-1926</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1 cubic foot (3 boxes), 14 volumes</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Collection of atlases and maps depicting the globe, North and South America, the West Indies, Germany, Wales, and regions of the United States from
+				the 16th to 19th centuries.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Collection of atlases and maps depicting the globe, North and South America, the West Indies, and regions of Europe and the United States from
+				the 16th to 19th centuries.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is organized into two series: Series I. Atlases, [1572]-1926; and Series II. Maps, 1549-1864.</p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</archref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<archref href="https://library.vassar.edu/specialcollections/rarebooks" show="new">
+					Atlas Collection</archref>
+			</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/ed35d545-2cd6-47a4-b5f4-38618ab93741">Breed Collection of Maps, Documents, and Prints</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/8ea220d6-2a9e-4c5c-8344-71e490b0e1bb">Richmond John Rathbone Collection of Rare Maps</archref></p>
+			<p>Vassar College Archives Maps Collection</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Blaeu, Joan, 1596-1673</persname>
+				<persname source="lcnaf" encodinganalog="600">Blaeu, Willem Janszoon, 1571-1638</persname>
+				<persname source="lcnaf" encodinganalog="600">Bodenehr, Gabriel, active 17th century-18th century</persname>
+				<persname source="lcnaf" encodinganalog="600">Bowen, Emanuel, 1693 or 1694-1767</persname>
+				<persname source="lcnaf" encodinganalog="600">Faden, William, 1749-1836</persname>
+				<persname source="lcnaf" encodinganalog="600">Fry, Joshua, approximately 1700-1754</persname>
+				<persname source="lcnaf" encodinganalog="600">Green, John, -1757</persname>
+				<persname source="lcnaf" encodinganalog="600">Grenet, abbé, 1750-</persname>
+				<persname source="lcnaf" encodinganalog="600">Homann, Johann Baptist, 1663-1724</persname>
+				<persname source="lcnaf" encodinganalog="600">Hubbard, William, 1621 or 1622-1704</persname>
+				<persname source="lcnaf" encodinganalog="600">Humphreys, Arthur L. (Arthur Lee), 1865-1946</persname>
+				<persname source="lcnaf" encodinganalog="600">L'Isle, Guillaume de, 1675-1726</persname>
+				<persname source="lcnaf" encodinganalog="600">Jansson, Jan, 1588-1664</persname>
+				<persname source="lcnaf" encodinganalog="600">Jefferys, Thomas, -1771</persname>
+				<persname source="lcnaf" encodinganalog="600">Kitchin, Thomas, 1719-1784</persname>
+				<persname source="lcnaf" encodinganalog="600">Lotter, Tobias Conrad, 1717-1777</persname>
+				<persname source="lcnaf" encodinganalog="600">Lowitz, G. M. (George Moritz), 1722-1774</persname>
+				<persname source="lcnaf" encodinganalog="600">Manuel, Hans Rudolf, 1525-1571</persname>
+				<persname source="lcnaf" encodinganalog="600">Mercator, Gerhard, 1512-1594</persname>
+				<persname source="lcnaf" encodinganalog="600">Ortelius, Abraham, 1527-1598</persname>
+				<persname source="lcnaf" encodinganalog="600">Popple, Henry, -1743</persname>
+				<persname source="lcnaf" encodinganalog="600">Seutter, Matthäus, 1678-1757</persname>
+				<persname source="lcnaf" encodinganalog="600">Wit, Frederik de, 1629 or 1630-1706</persname>
+				<persname source="lcnaf" encodinganalog="600">Zürner, Adam Friedrich, 1679-1742</persname>	
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Germany--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New England--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">New York (State)--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">North America--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">South America--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">West Indies--Maps</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Atlases</genreform>
+				<genreform source="aat" encodinganalog="655">Maps</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Maps</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, September 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, September 2024. Atlases in Series I were catalogued and shelved separately from the maps in Series II.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Loula Lasker (VC 1909), 1937.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Edward Lasker Collection of Atlases and Maps, Archives and Special Collections
+				Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Atlases, </unittitle>
+					<unitdate type="inclusive">[1572]-1926</unitdate>
+				</did>
+				<arrangement><p>Arranged alphabetically by creator or title.</p></arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series II.</ref> Maps, </unittitle>
+					<unitdate type="inclusive" normal="1549/1864">1549-1864</unitdate>
+				</did>
+				<arrangement><p>Arranged according to original order of portfolios.</p></arrangement>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Atlases, </unittitle>
+					<unitdate type="inclusive" normal="1572/1926">[1572]-1926</unitdate>
+				</did>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008227109707396"
+								>Folio G1015 .A85 1762</extref></container>
+						<unittitle>"Atlas moderne : ou Collection de cartes sur toutes les parties
+							du globe terrestre / par plusieurs auteurs ; avec approbation &amp;
+							privilege du roy," Paris : Lattre &amp; Delalain, </unittitle>
+						<unitdate type="inclusive" normal="1762/1773">1762-1773</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008240339707396"
+								>Folio G1015 .B53 1644</extref></container>
+						<unittitle>Blaeu, Willem Jansz (1571-1638), "Theatrum orbis terrarum, sive
+							Atlas novus : in quo tabulae et descriptiones omnium regionum,"
+							Amsterdami : Apud Iohannem Guiljelmi F. Blaeu, </unittitle>
+						<unitdate type="inclusive" normal="1644">[1644]</unitdate>
+						<physdesc>[Vol. 1]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/13q1kks/alma991007472389707396"
+								>Folio G1015 .B53 1645</extref></container>
+						<unittitle>Blaeu, Willem Jansz (1571-1638), "Guil. et Ioannis Blaeu theatrum
+							orbis terrarum, sive Atlas novus. Pars secunda," Amsterdami : Apud
+							Iohannem Guiljelmi F. Blaeu, </unittitle>
+						<unitdate type="inclusive" normal="1645">[1645]</unitdate>
+						<physdesc>[Vol. 2]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008238649707396"
+								>Folio G1015 .H66 1789</extref></container>
+						<unittitle>[A collection of maps, most issued by Johann Baptist Homann or
+							his heirs], [S.l.] : [s.n.], </unittitle>
+						<unitdate type="inclusive" normal="1789">[1789?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/13q1kks/alma991008230739707396"
+								>Folio G1019 .F33 1780</extref></container>
+						<unittitle>Faden, William, "[Atlas with maps colored according to the
+							Definitive Treaty of Peace, 1815]," [London] : [W. Faden ... [and 10
+							others in 4 other places], </unittitle>
+						<unitdate type="inclusive" normal="1780/1838">1780-1838</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/13q1kks/alma991006668999707396"
+								>Folio G1015 .G74 1794</extref></container>
+						<unittitle>Grenet, abbé (1750-), "Compendio di geografia antica e moderna
+							formato sulle carte più esatte : opera utilisima per apprendere l'una e
+							l'altra geografia…," Venezia : presso Andrea Santini, </unittitle>
+						<unitdate type="inclusive" normal="1794">1794</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991006668899707396"
+								>Folio G1025 .H8 1926</extref></container>
+						<unittitle>Humphreys, Arthur Lee (1865-1946), "Old decorative maps and
+							charts. With illustrations from engravings in the Macpherson collection,
+							and a catalogue of the atlases, etc., in the collection by Henry
+							Stevens," London : Halton and T. Smith, ltd., N.Y. : Minton, Balch &amp;
+							Co., </unittitle>
+						<unitdate type="inclusive" normal="1926">1926</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008214249707396"
+								>Folio G1100 .J44 1778</extref></container>
+						<unittitle>Jefferys, Thomas (-1771), "The American atlas, or, A geographical
+							description of the whole continent of America; wherein are delineated at
+							large, its several regions, countries, states, and islands; and chiefly
+							the British colonies, composed from numerous surveys...," London : R.
+							Sayer and Bennett, </unittitle>
+						<unitdate type="inclusive" normal="1778">1778</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008243909707396"
+								>Folio G1015 .K58 1788</extref></container>
+						<unittitle>Kitchin, Thomas (1719-1784), "A general atlas, describing the
+							whole universe : being a complete collection of the most approved maps
+							extant; corrected with the greatest care, and augmented from the latest
+							discoveries…," London : Printed for Robert Sayer, </unittitle>
+						<unitdate type="inclusive" normal="1788">[1788?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/13q1kks/alma991008445859707396"
+								>G1007 1634</extref></container>
+						<unittitle>Mercator, Gerhard (1512-1594), "Atlas minor / Gerardi Mercatoris
+							; à I. Hondio plurimis aeneis tabulis auctus et illustratus : denuo
+							recognit additisque novis delineationibus emendatis," Amsterodami : Ex
+							officina Ioannis Ianssoni, </unittitle>
+						<unitdate type="inclusive" normal="1634">1634</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/13q1kks/alma991008220519707396"
+								>Folio G1006 .T53 1612</extref></container>
+						<unittitle>Ortelius, Abraham (1527-1598), "Nomenclator Ptolemaicus : omnia
+							locorum vocabula, quae in tota Ptolemaei Geographia occurrunt, continens
+							ad fidem Graeci codicis purgatus, &amp; in ordinem non minus vtilem quàm
+							elegantem digestus," Antuerpiae : Typis Roberti Bruneau, </unittitle>
+						<unitdate type="inclusive" normal="1607">1607</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008220279707396"
+								>Folio G1006 .T53 1612</extref></container>
+						<unittitle>Ortelius, Abraham (1527-1598), "[Theatro del mondo di Abrahamo
+							Ortelio : da lui poco inanzi la sua morte riueduto, &amp; di tauole
+							nuoue, et commenti adorno, &amp; arricchito, con la vita dell'autore /
+							traslato in lingua toscana dal sigr. Filippo Pigafetta]," [In Anversa] :
+							[si vende nella libraria Plantiniana], </unittitle>
+						<unitdate type="inclusive" normal="1612">[1612]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008219889707396"
+								>Folio G1006 .T53 1572</extref></container>
+						<unittitle>Ortelius, Abraham (1527-1598), "[Theatrum oder Schawplatz des
+							Erdbodems warin die Landttafell der gantzen Weldt : mit sambt aine der
+							selben kurtze Erklarung zu sehen ist / durch Abrahaumum Ortelium],"
+							[Antorff] : [Gielis von Diest], </unittitle>
+						<unitdate type="inclusive" normal="1572">[1572]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/13q1kks/alma991008214209707396"
+								>Folio G1106.F3 P67 1733</extref></container>
+						<unittitle>Popple, Henry (-1743), "A map of the British Empire in America :
+							with the French and Spanish settlements adjacent thereto," [London] :
+							[Sold by S. Harding and W.H. Toms], </unittitle>
+						<unitdate type="inclusive" normal="1733">[1733]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref
+								href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991008226699707396"
+								>Folio G1015 .W58 1688</extref></container>
+						<unittitle>Wit, Frederik de (1629 or 1630-1706), "Atlas," Tot Amsterdam :
+							Bij Frederick de Wit in de Calverstreat bij den dam inde Witte Paskaert, </unittitle>
+						<unitdate type="inclusive" normal="1688">1688</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Maps, </unittitle>
+					<unitdate type="inclusive" normal="1549/1864">1549-1864</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle><emph render="bold">Portfolio I (North America and the United
+								States)</emph></unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 1</container>
+							<unittitle>[North America] Jansson, Jan (d. 1666), "Nova Belgica et
+								Anglia Nova," </unittitle>
+							<unitdate type="inclusive" normal="1641">circa 1641</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 2</container>
+							<unittitle>[North America] Lotter, Tobias Conrad (1717-1777), "Becens
+								edita totius Novi Belgii…," </unittitle>
+							<unitdate type="inclusive" normal="1740">circa 1740</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 3</container>
+							<unittitle>[North America] "A new and accurate map of the English Empire
+								in America…," </unittitle>
+							<unitdate type="inclusive" normal="1755">circa 1755</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 4</container>
+							<unittitle>[North America] Seutter, Matthew (1678-1756), "Mappa
+								geographica regionem Mexicanan et Floridam, terrasque adjacentes…," </unittitle>
+							<unitdate type="inclusive" normal="1740">circa 1740</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 5</container>
+							<unittitle>[New England] Hubbard, William (1621-1704), "A map of
+								New-England, being the first that ever was here cut…," </unittitle>
+							<unitdate type="inclusive" normal="1677">1677</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 6</container>
+							<unittitle>[New England] Kitchin, Thomas (1718-1784), "A map of New
+								England, and Nova Scotia; with part of New York, Canada, and New
+								Britain…," </unittitle>
+							<unitdate type="inclusive" normal="1758">1758</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 7</container>
+							<unittitle>[New England] Homann, Johann Baptist (1663-1724), "Nova
+								Anglia Septentrionali Americae...," </unittitle>
+							<unitdate type="inclusive" normal="1720">circa 1720</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 8</container>
+							<unittitle>[New England] Green, John (1729?-1757?), "A map of the most
+								inhabited part of New England…," </unittitle>
+							<unitdate type="inclusive" normal="1776">1776</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 9</container>
+							<unittitle>[Connecticut] Kitchin, Thomas (1718-1784), "A map of the
+								colonies of Connecticut and Rhode Island…," </unittitle>
+							<unitdate type="inclusive" normal="1758">1758</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 10</container>
+							<unittitle>[New York (State)] "The country between Crown Point and
+								Albany, being the great pass from the English to the French
+								settlements in North America," </unittitle>
+							<unitdate type="inclusive" normal="1758">1758</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 11</container>
+							<unittitle>[New York (City)] Bittner, Franklin, "A plan of the city of
+								New York in the yeare 1664…," </unittitle>
+							<unitdate type="inclusive" normal="1664">1664</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 12</container>
+							<unittitle>[New York (City)] Lyne, James, "A plan of the city of New
+								York from an actual survey…," </unittitle>
+							<unitdate type="inclusive" normal="1728">1728</unitdate>
+							<physdesc>[Reproduction from 1926]</physdesc>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 13</container>
+							<unittitle>[Virginia] Fry, Joshua (1700?-1754), "A map of the most
+								inhabited part of Virginia containing the whole province of Maryland
+								with part of Pensilvania, New Jersey and North Carolina…," </unittitle>
+							<unitdate type="inclusive" normal="1775">1775</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 14</container>
+							<unittitle>[Texas] "A New map of Texas, Oregon and California with the
+								regions adjoining…," </unittitle>
+							<unitdate type="inclusive" normal="1846">1846</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 15</container>
+							<unittitle>[U.S., Western] "Colton's map of the Pacific states…," </unittitle>
+							<unitdate type="inclusive" normal="1864">1864</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio I, Item no. 16</container>
+							<unittitle>[St. Lawrence River] Kitchin, Thomas (1718-1784), "A new
+								chart of the river St. Lawrence from the island of Anticosti to Lake
+								Ontario," </unittitle>
+							<unitdate type="inclusive" normal="1759">1759</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle><emph render="bold">Portfolio II (North and South America, West
+								Indies)</emph></unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 1</container>
+							<unittitle>[America] Vaughan, Robert (engraver), "Americae nova
+								descriptio," </unittitle>
+							<unitdate type="inclusive" normal="1663">1663</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 2</container>
+							<unittitle>[America] "The western hemisphere, taken from an English
+								world map or atlas," </unittitle>
+							<unitdate type="inclusive" normal="1670">[circa 1670?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 3</container>
+							<unittitle>[America] Wit, Frederik de (1629 or 1630-1706), "Novissima et
+								accuratissima totius Americae descriptio," </unittitle>
+							<unitdate type="inclusive" normal="1695">circa 1695</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 4</container>
+							<unittitle>[America] Homann, Johann Baptist (1663-1724), "Totius
+								Americae Septentrionalis et Meridionalis novissima representatio…," </unittitle>
+							<unitdate type="inclusive" normal="1720">circa 1720</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 5</container>
+							<unittitle>[America] Homann, Johann Baptist (1663-1724), "Totius
+								Americae Septentrionalis et Meridionalis novissima representatio…," </unittitle>
+							<unitdate type="inclusive" normal="1730">circa 1730</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 6</container>
+							<unittitle>[America] Seutter, Matthew (1678-1756), "Novus orbis sive
+								America Meridionalis et Septentrionalis…," </unittitle>
+							<unitdate type="inclusive" normal="1740">circa 1740</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 7</container>
+							<unittitle>[America] Boehm, August Gottlob (1719-1797), "Americae mappa
+								generalis…," </unittitle>
+							<unitdate type="inclusive" normal="1746">1746</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 8</container>
+							<unittitle>[West Indies] Homann heirs, "Dominia Anglorum in praecipuis
+								insulis Americae…," </unittitle>
+							<unitdate type="inclusive" normal="1759">circa 1759</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 9</container>
+							<unittitle>[Jamaica] "A new map of the island of Jamaica...," </unittitle>
+							<unitdate type="inclusive" normal="1700/1799">18th century</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 10</container>
+							<unittitle>[Cuba] "A new chart of the seas, surrounding the island of
+								Cuba…," </unittitle>
+							<unitdate type="inclusive" normal="1762">1762</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 11</container>
+							<unittitle>[Martinique] Seutter, Matthew (1678-1756), "Representation la
+								plus nouvelle et exacte de l'ile Martinique…," </unittitle>
+							<unitdate type="inclusive" normal="1740">circa 1740</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio II, Item no. 12</container>
+							<unittitle>[South America] Delisle, Guillaume (1675-1726), "L'Amerique
+								meridionale…," </unittitle>
+							<unitdate type="inclusive" normal="1720">circa 1720</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle><emph render="bold">Portfolio III (Europe and the
+							World)</emph></unittitle>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 1</container>
+							<unittitle>[World] Zuerner, Adam Friedrich (1630-1742), "Planisphaerium
+								terrestre cum utroque coelesti hemisphaerio…," </unittitle>
+							<unitdate type="inclusive" normal="1712">circa 1712</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 2</container>
+							<unittitle>[World] Lowitz, George Maurice (1722-1774), "Planiglobii
+								terrestris mappa universalis…," </unittitle>
+							<unitdate type="inclusive" normal="1746">1746</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 3</container>
+							<unittitle>[World] Bowen, Emanuel (d. 1767), "An accurate map of the
+								world…," </unittitle>
+							<unitdate type="inclusive" normal="1750">circa 1750</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 4</container>
+							<unittitle>[Wales, Pembrokeshire] Blaeu, Joan (1596-1673), "Penbrochia
+								comitatus et comitatus Caermaridunum…," </unittitle>
+							<unitdate type="inclusive" normal="1662">circa 1662</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 5</container>
+							<unittitle>[Germany, Baden (province)] Weimar - Geographisches institut,
+								"Theil von Baden… Partis de Baade," </unittitle>
+							<unitdate type="inclusive" normal="1808">[1808?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 6</container>
+							<unittitle>[Germany, Breisgau] Seutter, Matthew (1678-1756), "Accurata
+								delinaeatio Brisgoviae…," </unittitle>
+							<unitdate type="inclusive" normal="1740">circa 1740</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 7</container>
+							<unittitle>[Germany, Freiburg im Breisgau] Bodenehr, Gabriel
+								(1664-1758), "Freiburg im Brisgow," </unittitle>
+							<unitdate type="inclusive" normal="1705">circa 1705</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 8</container>
+							<unittitle>[Germany, Freiburg im Breisgau] Deutsch, Hans Rudolf Manuel
+								(1525-1571), "Friburg im Brisgew," </unittitle>
+							<unitdate type="inclusive" normal="1549">1549</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 9</container>
+							<unittitle>[Germany, Freiburg im Breisgau] Deutsch, Hans Rudolf Manuel
+								(1525-1571), "Friburg im Brisgew," </unittitle>
+							<unitdate type="inclusive" normal="1549">1549</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 10</container>
+							<unittitle>[Germany, Freiburg im Breisgau] "Die statt Freyburg im
+								Breysgaw," </unittitle>
+							<unitdate type="inclusive" normal="1646">[1646?]</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Portfolio III, Item no. 11</container>
+							<unittitle>[Germany, Heidelberg] "Heidelberga…," </unittitle>
+							<unitdate type="inclusive" normal="1576">[1576?]</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

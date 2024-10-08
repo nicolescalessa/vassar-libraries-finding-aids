@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_pollitzer_anita </eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Anita Pollitzer Papers, 1923-1964 (bulk 1945-1946)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>unknown</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Elizabeth Clarke <date>June 2007</date></creation>
+			<langusage>Finding aid written in<language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head> Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<persname>Pollitzer, Anita, 1894-1975</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245"> Anita Pollitzer Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1923-1964 </unitdate>
+			<unitdate type="bulk" label="Dates:" encodinganalog="245$f"> 1945-1946 </unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a"> 3 cubic feet (4 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a"> Papers reflecting Pollitzer's interest and activities in regard to women's rights, particularly her work with the National Woman's Party</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note </head>
+			<p>Anita Lilly Pollitzer (1894-1975), suffragist and equal-rights advocate, was born in Charleston, S.C. on October 31, 1894. She grew up in Charleston and later attended Teacher's College, Columbia University, where she received a bachelor's degree in art and education in 1916 and a master's degree in international law from Columbia University in 1933. She became interested in the suffrage movement immediately after graduation in 1916 and made the struggle for the granting of equal rights to women her life's work. One of the early members of the National Woman's Party, she served on its Executive Council from 1921 onward and became the National Chairman in 1945, succeeding Alice Paul, party strategist. She was a leader in the early campaigns to have the Equal Rights Amendment passed by Congress and was also active in the international women's movement. Anita Pollitzer, who was the wife of a free-lance press agent, Elie Charlier Edson, in private life, died in 1975.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Papers reflecting Pollitzer's interest and activities in regard to women's rights, including correspondence, statements, minutes, reports, clippings, photographs, and other published items concerning the National Woman's Party, Alice Paul and leadership issues in National Woman's Party, the Equal Rights Amendment (ERA), women workers, political endorsements for the ERA, support of the Republican Party, the Married Women's Association (Great Britain), and the United Nations Commission on the Status of Women. Correspondents include Mary Sinclair Crawford, Jeanette Augustus Marks, Ethel Ernest Murrell, Alice Paul, Agnes Ermima Wells, Anna Kelton Wiley, Alice Morgan Wright, and Mary E. Owens. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>Vassar College also holds a small collection of Elie Charlier Edson papers, which were probably part of the original accession.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600"> Paul, Alice, 1885-1977</persname>
+				<persname source="lcnaf" encodinganalog="600"> Crawford, Mary Sinclair</persname>
+				<persname source="lcnaf" encodinganalog="600"> Marks, Jeanette Augustus, 1875-1964</persname>
+				<persname source="lcnaf" encodinganalog="600"> Murrell, Ethel Ernest</persname>
+				<persname source="lcnaf" encodinganalog="600"> Wells, Agnes Ermima, 1876-1959</persname>
+				<persname source="lcnaf" encodinganalog="600"> Wiley, Anna Kelton, 1877-1964</persname>
+				<persname source="lcnaf" encodinganalog="600"> Wright, Alice Morgan, 1881-1975</persname>
+				<persname source="lcnaf" encodinganalog="600"> Owens, Mary E.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610"> National Woman's Party</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Republican Party (U.S. : 1854- )</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> Married Women's Association (Great Britain)</corpname>
+				<corpname source="lcnaf" encodinganalog="610"> United Nations Commission on the Status of Women</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650"> Equal rights amendments</subject>
+				<subject source="lcsh" encodinganalog="650"> Feminism</subject>
+				<subject source="lcsh" encodinganalog="650"> Women's rights</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Employment</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Social conditions</subject>
+				<subject source="lcsh" encodinganalog="650"> Women in politics</subject>
+				<subject source="lcsh" encodinganalog="650"> Women--Suffrage</subject>
+				<subject source="lcsh" encodinganalog="650"> Feminists</subject>
+			</controlaccess>
+			<controlaccess>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories</head>
+				<subject source="local" encodinganalog="690"> Women's History </subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Elizabeth Clarke, April 2007. Updated June 2007, box list added.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Original processing date unknown.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of Mrs. Peter Seeger.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Anita Pollitzer Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="file">
+				<did>
+					<container> 1.1-1.2 </container>
+					<unittitle> Biographical material, clippings, photographs </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.3-1.6 </container>
+					<unittitle> Publications, miscellaneous notes and typescripts, correspondence </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.7-1.11 </container>
+					<unittitle> National Woman's Party – 1946-1947 controversy, minutes of meetings of National Council, 1938-1945, pamphlets, articles, clippings </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.12 </container>
+					<unittitle> Master's thesis: "Suffrage and World War I," by Harvey Kraut, Brooklyn College, </unittitle>
+					<physdesc> (photocopy of typescript) </physdesc>
+					<unitdate type="inclusive"> 1964 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 1.13-1.14 </container>
+					<unittitle> Miscellaneous publications and clippings on equal rights </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 1 </container>
+					<unittitle> Hearings and other Congressional and government documents on Equal Rights Amendment, </unittitle>
+					<unitdate type="inclusive"> 1931-1948 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.1 </container>
+					<unittitle> Material on Susan B. Anthony </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.2-2.6 </container>
+					<unittitle> Correspondence concerning the Equal Rights Amendment </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.7 </container>
+					<unittitle> Congressional campaign for passage of ERA, </unittitle>
+					<unitdate type="inclusive"> 1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.8-2.11 </container>
+					<unittitle> National Woman's Party business and meetings, ERA and Democratic Party </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.12-2.13 </container>
+					<unittitle> Equal Rights Amendment </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.14-2.15 </container>
+					<unittitle>
+						<emph render="italic"> Equal Rights Magazine </emph>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.16-2.17 </container>
+					<unittitle> National Woman's Party </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.18 </container>
+					<unittitle> French Constitution </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.19 </container>
+					<unittitle> Obituary of Beatrice Fairfax, </unittitle>
+					<unitdate type="inclusive"> 1945 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.20-2.27 </container>
+					<unittitle> Correspondence concerning ERA, NWP, </unittitle>
+					<unitdate type="inclusive"> 1945-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.28 </container>
+					<unittitle> Women workers and the ERA; press releases, clippings, </unittitle>
+					<unitdate type="inclusive"> 1938-1945 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.29 </container>
+					<unittitle>
+						<emph render="italic"> Bulletin of the International Council of Women, </emph>
+					</unittitle>
+					<unitdate type="inclusive"> August and December 1945 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.30-2.31 </container>
+					<unittitle> Senate Judiciary Committee and passage of Equal Rights Amendment – correspondence, voting, </unittitle>
+					<unitdate type="inclusive"> 1943-1950 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.32-2.34 </container>
+					<unittitle> Correspondence re: ERA </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.35 </container>
+					<unittitle>
+						<emph render="italic"> Legal Status of Women </emph>– pamphlet published by Women's Bureau, </unittitle>
+					<unitdate type="inclusive"> 1944 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.36-2.41 </container>
+					<unittitle> Correspondence, re: National Woman's Party and ERA, </unittitle>
+					<unitdate type="inclusive"> 1943-1947 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.42 </container>
+					<unittitle> Married Women's Association (Great Britain) – correspondence, pamphlets</unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.43-2.46 </container>
+					<unittitle> Correspondence and other material on the ERA and NWP </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.47 </container>
+					<unittitle> Material on Lucretia Mott </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.48 </container>
+					<unittitle> Multi-Party Committee of Women – correspondence, and pamphlets, </unittitle>
+					<unitdate type="inclusive"> 1944-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.49-2.52 </container>
+					<unittitle> Correspondence and other material on ERA </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.53-2.56 </container>
+					<unittitle> NWP business and miscellaneous </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.57-2.58 </container>
+					<unittitle> ERA and NWP in New York </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.59-2.61 </container>
+					<unittitle> Correspondence re: NWP and ERA, </unittitle>
+					<unitdate type="inclusive"> 1946-1948 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.62 </container>
+					<unittitle> Opposition to ERA – clippings, letters, pamphlets, </unittitle>
+					<unitdate type="inclusive"> 1944-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.63 </container>
+					<unittitle> Correspondence re: NWP and ERA with Mary E. Owens, </unittitle>
+					<unitdate type="inclusive"> 1946-1947 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.64 </container>
+					<unittitle> Alice Paul – correspondence, material about her </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.65 </container>
+					<unittitle> Correspondence re: ERA in Pennsylvania </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.66 </container>
+					<unittitle> Pepper-Morse Bill-equal pay for women </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.67 </container>
+					<unittitle> Press releases, </unittitle>
+					<unitdate type="inclusive"> 1943-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.68 </container>
+					<unittitle> Letters to Senator George L. Radcliffe, a supporter of ERA </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.69-2.72 </container>
+					<unittitle> ERA – correspondence, endorsements, support of Republican Party </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.73 </container>
+					<unittitle> Article on Marian Roberts – lack of legal rights of married women </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.74 </container>
+					<unittitle> Statement by Eleanor Roosevelt on Equal Rights Amendment </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.75 </container>
+					<unittitle> Anniversary of Seneca Falls Convention </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.76-2.79 </container>
+					<unittitle> Miscellaneous correspondence on ERA, </unittitle>
+					<unitdate type="inclusive"> 1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.80 </container>
+					<unittitle> Elizabeth Cady Stanton – celebration of anniversary of her birth </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.81 </container>
+					<unittitle> Doris Stevens – clippings re: controversy about appointment of U.S. delegate to Inter-American Commission on Women </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.82 </container>
+					<unittitle> Strittmater will – correspondence concerning sale of property willed to National Woman's Party, </unittitle>
+					<unitdate type="inclusive"> 1945-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.83 </container>
+					<unittitle> Stiassny curriculum vitae </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.84 </container>
+					<unittitle> United Nations Sub-Commission on Status of Women – 1st session </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.85-2.88 </container>
+					<unittitle> Correspondence re: ERA and NWP business, </unittitle>
+					<unitdate type="inclusive"> 1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.89 </container>
+					<unittitle> NWP treasurer's reports, </unittitle>
+					<unitdate type="inclusive"> 1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.89 </container>
+					<unittitle> NWP auditor's reports, </unittitle>
+					<unitdate type="inclusive"> 1943-1945 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.90 </container>
+					<unittitle> 25th anniversary of women's suffrage amendment – clippings, photographs </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.91-2.92 </container>
+					<unittitle> United Nations – correspondence, clippings on Sub-Commission on Status of Women and women in the UN; UN voluntary organizations </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>2.93-2.104 </container>
+					<unittitle> Correspondence on ERA and NWP, </unittitle>
+					<unitdate type="inclusive"> 1943-1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>2.105 </container>
+					<unittitle> Woman's Enfranchisement Day – anniversary of Nineteenth Amendment (statements, press releases) </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.106 </container>
+					<unittitle> Committee on Women in World Affairs </unittitle>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.107 </container>
+					<unittitle> Women's Joint Legislative Committee for Equal Rights – correspondence, meetings, </unittitle>
+					<unitdate type="inclusive"> 1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.108 </container>
+					<unittitle> World Woman's Party for Equal Rights – correspondence, press releases, </unittitle>
+					<unitdate type="inclusive"> 1938-1947 </unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container> 2.109-2.111 </container>
+					<unittitle> Correspondence and other material on ERA, </unittitle>
+					<unitdate type="inclusive"> 1946 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> 2 folders of photographs (many unlabeled) – woman's–rights leaders and their meetings, including Susan B. Anthony, Alice Paul, Anita Pollitzer, and Mary Sinclair Crawford </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> 2 framed photos – reception in honor of delegates to the International Council of Women…Washington, </unittitle>
+					<unitdate type="inclusive"> 1947 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Newspaper: <emph render="italic"> Seneca County Press, </emph> July 21, 1923 – "Special equal rights edition," </unittitle>
+					<unitdate type="inclusive"> 21 July 1923 </unitdate>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 3 </container>
+					<unittitle> Large photographs of Blanche Yukon and Mme. Dorade Phillippe </unittitle>
+				</did>
+			</c01>
+			<c01 level="item">
+				<did>
+					<container> Box 4 </container>
+					<unittitle> Recordings </unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

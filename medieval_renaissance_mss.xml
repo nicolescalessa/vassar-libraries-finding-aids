@@ -29,7 +29,7 @@
 				<corpname>Vassar College. Library</corpname></origination>
 			<unittitle label="Title:" encodinganalog="245">Medieval and Renaissance Manuscripts Collection</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">11th century - 17th century</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">22 codices, 78 leaves and cuttings (3 boxes, 2 map folders)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">22 codices, 79 leaves and cuttings (3 boxes, 2 map folders)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -56,18 +56,18 @@
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref
+			<p>This collection is open for research according to the <extref
 					href="https://library.vassar.edu/specialcollections/policies" show="new">
 					regulations of the Vassar College Archives and Special Collections
-					Library</archref> without any additional restrictions.</p>
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
 			<p>Permission to quote (publish) from unpublished or previously published material must
-				be obtained as described in the <archref
+				be obtained as described in the <extref
 					href="https://library.vassar.edu/specialcollections/policies" show="new">
 					regulations of the Vassar College Archives and Special Collections
-					Library.</archref></p>
+					Library.</extref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
 			<head>Related Materials</head>
@@ -81,10 +81,10 @@
 		<separatedmaterial encodinganalog="544 0">
 		<head>Separated Materials</head>
 		<p>
-			<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Series II. Leaves and Clippings - Items 51, 70, and 73 were separated from the collection and added to the Middle Eastern Manuscripts Collection, January 2024.</archref>
+			<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Series II. Leaves and Cuttings - Leaves 51, 70, and 73 were separated from the collection and added to the Islamic Manuscripts Collection, January 2024.</archref>
 		</p>
 			<p>
-				<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/ea6cc834-246d-4e1b-9120-754a0eacfcb8">Series II. Leaves and Clippings - Items 71 and 72 were separated from the collection and added to the Russian Leaves Collection, January 2024.</archref>
+				<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/ea6cc834-246d-4e1b-9120-754a0eacfcb8">Series II. Leaves and Cuttings - Leaves 71 and 72 were separated from the collection and added to the Russian Leaves Collection, January 2024.</archref>
 			</p>
 		</separatedmaterial>
 		<controlaccess>
@@ -123,7 +123,7 @@
 			<head>Encoding Information</head>
 			<p>Encoded by Elizabeth Clarke, April 2007.</p>
 			<p>Updated by Mark Seidl, October 2011, September 2014, and April 2019.</p>
-			<p>Updated by Emma Gronbeck, March 2023 and January 2024.</p>
+			<p>Last updated by Emma Gronbeck, October 2024.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -133,14 +133,15 @@
 				information received from Peter Kidd. Item titles and collection arrangement revised
 				in 2023 following additional identification and descriptive work by Peter Kidd.</p>
 			<p>
-				Items with call numbers have been catalogued bibliographically and more information on them can be found on their catalog entries.
+				Codices have been catalogued bibliographically and more information on them can be found in their linked catalog entries.
 			</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
 			<p>Gifts and transfers from a variety of sources.</p>
-			<p>Item 74 was purchased from Bernard Quaritch, Ltd., February 2011. [M2011-006]</p>
-			<p>Item 83 was the bequest of Frederich Hammond, November 2023. [M2024-004]</p>
+			<p>Leaf 74 was purchased from Bernard Quaritch, Ltd., February 2011. [M2011-006]</p>
+			<p>Leaf 83 was the bequest of Frederich Hammond, November 2023. [M2024-004]</p>
+			<p>Leaf 84 was purchased from Les Enluminures, September 2024. [M2024-019]</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -399,8 +400,9 @@
 				</did>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 1-2</container>
+						
+						<container type="item">Leaves 1-2</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>Two Leaves from a Decorated Pocket Bible [England (or perhaps
 							France)], </unittitle>
 						<unitdate type="inclusive" normal="1250/1275" certainty="approximate">13th
@@ -409,8 +411,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 3</container>
+						
+						<container type="item">Leaf 3</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Fragment of a Glossed Psalms [France or England], </unittitle>
 						<unitdate type="inclusive" normal="1170/1230" certainty="approximate">late
 							12th or early 13th century</unitdate>
@@ -418,8 +421,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 4</container>
+						
+						<container type="item">Leaf 4</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Fragmentary Leaf, Apparently from a List of Aphorisms Set to
 							Music [Germany], </unittitle>
 						<unitdate type="inclusive" normal="1000/1099" certainty="approximate">11th
@@ -428,8 +432,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 5</container>
+						
+						<container type="item">Leaf 5</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from Philip the Chancellor (d. 1236), <emph
 								render="italic">Sermons</emph> [France (Paris?)], </unittitle>
 						<unitdate type="inclusive" normal="1230/1299" certainty="approximate">13th
@@ -438,8 +443,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 6</container>
+						
+						<container type="item">Leaf 6</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from Thomas Aquinas, <emph render="italic">Commentary on
 								the Sentences of Peter Lombard</emph> [Italy (Florence)], </unittitle>
 						<unitdate type="inclusive" normal="1450/1499" certainty="approximate">circa
@@ -448,8 +454,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 7</container>
+						
+						<container type="item">Leaf 7</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Book of Hours, in Latin with French rubrics, with
 							miniatures of <emph render="italic">St. Francis and St. Lawrence</emph>
 							[France], </unittitle>
@@ -459,8 +466,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 8</container>
+						
+						<container type="item">Leaf 8</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Processional(?) [France (Normandy?, Caen?)], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -469,8 +477,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 9</container>
+						
+						<container type="item">Leaf 9</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Gradual [France], </unittitle>
 						<unitdate type="inclusive" normal="1500/1599" certainty="approximate">16th
 							century</unitdate>
@@ -478,33 +487,35 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 10, 37</container>
-						<unittitle>A Leaf from a Breviary [Italy (Tuscany, in or near Lucca)], </unittitle>
+						
+						<container type="item">Leaves 10, 37</container>
+						<container type="box"> (Box 1)</container><unittitle>A Leaf from a Breviary [Italy (Tuscany, in or near Lucca)], </unittitle>
 						<unitdate type="inclusive" normal="1464">1464</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 11</container>
+						
+						<container type="item">Leaf 11</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Praxapostolos, in Armenian, </unittitle>
 						<unitdate type="inclusive" normal="1400/1599">15th or 16th century</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 12-13</container>
-						<unittitle>Two Leaves from a Breviary, Use of Sarum(?) [France (Rouen?)], </unittitle>
+						
+						<container type="item">Leaves 12-13</container>
+						<container type="box"> (Box 1)</container><unittitle>Two Leaves from a Breviary, Use of Sarum(?) [France (Rouen?)], </unittitle>
 						<unitdate type="inclusive" normal="1400/1450" certainty="approximate">circa
 							1400-1450</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 14-15</container>
+						
+						<container type="item">Leaves 14-15</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>Two Leaves from a Book of Hours, Use of Troyes [France], </unittitle>
 						<unitdate type="inclusive" normal="1430/1470" certainty="approximate"
 							>mid-15th century</unitdate>
@@ -512,8 +523,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 16</container>
+						
+						<container type="item">Leaf 16</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Book of Hours, in Netherlandish [Northern
 							Netherlands], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
@@ -522,8 +534,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 17-19</container>
+						
+						<container type="item">Leaves 17-19</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>Three Leaves from a Book of Hours, Use of Paris [France
 							(Paris?)], </unittitle>
 						<unitdate type="inclusive" normal="1475" certainty="approximate">circa
@@ -532,8 +545,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 20</container>
+						
+						<container type="item">Leaf 20</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Book of Hours [France], </unittitle>
 						<unitdate type="inclusive" normal="1500/1530" certainty="approximate">early
 							16th century</unitdate>
@@ -541,8 +555,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 21</container>
+						
+						<container type="item">Leaf 21</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Book of Hours [France], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -550,8 +565,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 22</container>
+						
+						<container type="item">Leaf 22</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a miniature Book of Hours [France?], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -559,8 +575,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 23-24</container>
+						
+						<container type="item">Leaves 23, 24</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>Two leaves from a Book of Hours, with rubrics in Netherlandish
 							[Southern Netherlands (Bruges?)], </unittitle>
 						<unitdate type="inclusive" normal="1430/1470" certainty="approximate"
@@ -569,8 +586,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 25-29</container>
+						
+						<container type="item">Leaves 25-29</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>Five Leaves with Miniatures from the Calendar of a Book of Hours
 							[France (Reims, or Paris?)], </unittitle>
 						<unitdate type="inclusive" normal="1470/1530" certainty="approximate">early
@@ -579,8 +597,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 30</container>
+						
+						<container type="item">Leaf 30</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from the Chichester “Evangelia Festivalia” [England
 							(Chichester?)], </unittitle>
 						<unitdate type="inclusive" normal="1500/1530" certainty="approximate">early
@@ -589,8 +608,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 31</container>
+						
+						<container type="item">Document 31</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Grant of property, in Latin with some Words in Middle English
 							[England (Kent)], </unittitle>
 						<unitdate type="inclusive" normal="14250116/14260116">[1425 or 1426] Jan
@@ -599,8 +619,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 32</container>
+						
+						<container type="item">Leaf 32</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Processional, on paper [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1500/1599" certainty="approximate">16th
 							century</unitdate>
@@ -608,8 +629,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 33</container>
+						
+						<container type="item">Leaf 33</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from the Litany in a Book of Hours [France], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -617,8 +639,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 34</container>
+						
+						<container type="item">Leaf 34</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Burial Service [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -626,8 +649,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 35-36</container>
+						
+						<container type="item">Leaves 35, 36</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>Two Leaves from a Book of Hours [France], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -635,8 +659,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 38</container>
+						
+						<container type="item">Leaf 38</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Breviary [France (Paris?)], </unittitle>
 						<unitdate type="inclusive" normal="1300/1350" certainty="approximate">circa
 							1300/1350</unitdate>
@@ -644,8 +669,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 39</container>
+						
+						<container type="item">Cutting 39</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Miniature Depicting <emph render="italic">The Betrayal and
 								Arrest of Christ</emph>, doubtless from a Book of Hours [Southern
 							Netherlands (Flanders, Ghent?)], </unittitle>
@@ -655,8 +681,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Items 40-41</container>
+						
+						<container type="item">Cuttings 40, 41</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>Two Miniatures each depicting a <emph render="italic">Pope
 								Performing Mass</emph>, Cut from a Missal of Pope Leo X [Italy
 							(Florence)], </unittitle>
@@ -666,8 +693,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 42</container>
+						
+						<container type="item">Leaf 42</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Miniature by the Spanish Forger, on a Cutting from an
 							Antiphonary [Italy, 14th century; and France, late 19th or early 20th
 							century], </unittitle>
@@ -677,8 +705,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 43</container>
+						
+						<container type="item">Leaf 43</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Missal [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -686,8 +715,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 44</container>
+						<container type="item">Leaf 44</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from a Bible [Bohemia], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -695,8 +724,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 45</container>
+						<container type="item">Leaf 45</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf of a Martyrology [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1150/1175" certainty="approximate">12th
 							century ([3rd?] quarter)</unitdate>
@@ -704,8 +733,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 46</container>
+						<container type="item">Leaf 46</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from a Psalter [Southern Netherlands (Bruges?)], </unittitle>
 						<unitdate type="inclusive" normal="1200/1250" certainty="approximate">circa
 							1200-1250</unitdate>
@@ -713,8 +742,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 47</container>
+						<container type="item">Leaf 47</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from a folio-sized Bible [France (Paris?)], </unittitle>
 						<unitdate type="inclusive" normal="1220/1240" certainty="approximate">circa
 							1220-1240</unitdate>
@@ -722,8 +751,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 48</container>
+						<container type="item">Leaf 48</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from “The Bohun Bible” [England (East Anglia, perhaps
 							Cambridge?)], </unittitle>
 						<unitdate type="inclusive" normal="1330/1370" certainty="approximate"
@@ -732,8 +761,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Items 49-50</container>
+
+						<container type="item">Leaves 49-50</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>Two Leaves from a Palimpsest Antiphonary [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1300/1499" certainty="approximate"
 							>[14th?] and 15th century</unitdate>
@@ -741,15 +771,14 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 51</container>
-						<unittitle>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Middle Eastern Manuscripts Collection, Item 1</archref>]</unittitle>
+						<container type="item">Leaf 51</container>
+						<unittitle>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Islamic Manuscripts Collection, Arabic MS 2</archref>]</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Items 52-53</container>
+						<container type="item">Leaves 52-53</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>Two Leaves from a Homilary, in Armenian [Iran (Isfahan)], </unittitle>
 						<unitdate type="inclusive" normal="1671/1672" certainty="approximate">1671–1672</unitdate>
 						<physdesc>[See also <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/03f6eb3d-d64f-4483-8fc3-a1955107f342">Nicholas B. Scheetz Collection, MS 29a-e</archref>]</physdesc>
@@ -758,8 +787,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 54</container>
+						
+						<container type="item">Leaf 54</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from Virgil, <emph render="italic">Aeneid</emph> [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1300/1399" certainty="approximate">14th
 							century</unitdate>
@@ -767,8 +797,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 55</container>
+						<container type="item">Leaf 55</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf of a Gradual [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1300/1399" certainty="approximate">14th
 							century</unitdate>
@@ -776,8 +806,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 56</container>
+						<container type="item">Leaf 56</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from a Carthusian(?) Hymnal [Bohemia?], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">[15th
 							century?]</unitdate>
@@ -785,8 +815,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 57</container>
+						<container type="item">Leaf 57</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from a Dominican Missal [Italy (Perugia)], </unittitle>
 						<unitdate type="inclusive" normal="1300/1399" certainty="approximate">14th
 							century (perhaps 1353)</unitdate>
@@ -794,8 +824,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 58</container>
+
+						<container type="item">Leaf 58</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from a Missal [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -803,8 +834,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 59</container>
+						
+						<container type="item">Leaf 59</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from a Breviary, Use of Sarum [England], </unittitle>
 						<unitdate type="inclusive" normal="1300/1399" certainty="approximate">14th
 							century</unitdate>
@@ -812,8 +844,9 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 60</container>
+
+						<container type="item">Leaf 60</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from Vincent of Beauvais, <emph render="italic">Speculum
 								Historiale</emph> [France (Paris?)], </unittitle>
 						<unitdate type="inclusive" normal="1370/1430" certainty="approximate">late
@@ -822,8 +855,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 61</container>
+						<container type="item">Leaf 61</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from Terence, <emph render="italic">Comedies</emph> [Italy
 							(Florence)], </unittitle>
 						<unitdate type="inclusive" normal="1450/1460" certainty="approximate">circa
@@ -832,8 +865,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Items 62-67</container>
+						<container type="item">Leaves 62-67</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>Fragments from Justinian, <emph render="italic"
 							>Institutes</emph>, Glossed [Italy (Bologna)], </unittitle>
 						<unitdate type="inclusive" normal="1200/1299" certainty="approximate">13th
@@ -841,9 +874,9 @@
 					</did>
 				</c02>
 				<c02 level="file">
-					<did>
-						<container type="box">Map Case, </container>
-						<container type="item">Item 68</container>
+					<did>	
+						<container type="item">Leaf 68</container>
+						<container type="box"> (Map Case - Drawer 28)</container>
 						<unittitle>A Vast Leaf from an Antiphonary [Spain], </unittitle>
 						<unitdate type="inclusive" normal="1500/1599" certainty="approximate">16th
 							century</unitdate>
@@ -851,8 +884,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Map Case, </container>
-						<container type="item">Item 69</container>
+						<container type="item">Leaf 69</container>
+						<container type="box"> (Map Case - Drawer 28)</container>
 						<unittitle>A Vast Leaf from an Antiphonary [Spain], </unittitle>
 						<unitdate type="inclusive" normal="1500/1599" certainty="approximate">16th
 							century</unitdate>
@@ -860,29 +893,22 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 70</container>
-						<unittitle>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Middle Eastern Manuscripts Collection, Item 9</archref>]</unittitle>
+
+						<container type="item">Leaves 70, 73</container>
+						<unittitle>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Islamic Manuscripts Collection, Arabic MS 8 and 9</archref>]</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Items 71-72</container>
-						<unittitle>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/ea6cc834-246d-4e1b-9120-754a0eacfcb8">Russian Leaves Collection, Items 1-2</archref>]</unittitle>
+
+						<container type="item">Leaves 71-72</container>
+						<unittitle>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/ea6cc834-246d-4e1b-9120-754a0eacfcb8">Russian Leaves Collection, Russian MS 1 and 2</archref>]</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 73</container>
-						<unittitle>[See <archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Middle Eastern Manuscripts Collection, Item 8</archref>]</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container type="box">Box 1, </container>
-						<container type="item">Item 74</container>
+						<container type="item">Leaf 74</container>
+						<container type="box"> (Box 1)</container>
 						<unittitle>A Leaf from Pseudo-Virgil, in Italian and Latin, on paper
 							[Italy], </unittitle>
 						<unitdate type="inclusive" normal="1500/1530" certainty="approximate">early
@@ -891,8 +917,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 3 (Oversize), </container>
-						<container type="item">Item 75</container>
+						<container type="item">Leaf 75</container>
+						<container type="box"> (Box 3, Oversize)</container>
 						<unittitle>A Leaf from an Antiphonary [Netherlands (Meuse region?)], </unittitle>
 						<unitdate type="inclusive" normal="1500/1530" certainty="approximate">early
 							16th century</unitdate>
@@ -900,8 +926,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 3 (Oversize), </container>
-						<container type="item">Item 76</container>
+						<container type="item">Leaf 76</container>
+						<container type="box"> (Box 3, Oversize)</container>
 						<unittitle>A Leaf from an Antiphonary [Germany (Upper Rhine) or
 							Switzerland], </unittitle>
 						<unitdate type="inclusive" normal="1300/1350" certainty="approximate">circa
@@ -910,8 +936,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 3 (Oversize), </container>
-						<container type="item">Items 77-78</container>
+						<container type="item">Leaves 77-78</container>
+						<container type="box"> (Box 3, Oversize)</container>
 						<unittitle>Two Leaves from a Stenciled Gradual [Spain?], </unittitle>
 						<unitdate type="inclusive" normal="1600/1699" certainty="approximate">[17th
 							century?]</unitdate>
@@ -919,8 +945,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Items 79-81</container>
+						<container type="item">Leaves 79-81</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>Psalms 148–150 [Germany (Cologne?)], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th
 							century</unitdate>
@@ -928,8 +954,8 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 82</container>
+						<container type="item">Leaf 82</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from a Psalter [Flanders], </unittitle>
 						<unitdate type="inclusive" normal="1200/1250" certainty="approximate">circa
 							1200-1250</unitdate>
@@ -937,10 +963,18 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container type="box">Box 2, </container>
-						<container type="item">Item 83</container>
+						<container type="item">Leaf 83</container>
+						<container type="box"> (Box 2)</container>
 						<unittitle>A Bifolium from a Noted Missal [Italy], </unittitle>
 						<unitdate type="inclusive" normal="1400/1499" certainty="approximate">15th century</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="item">Leaf 84</container>
+						<container type="box"> (Box 2)</container>
+						<unittitle>A Leaf from the Rosenbaum Psalter-Hours [Flanders or the Rhineland, or England], </unittitle>
+						<unitdate type="inclusive" normal="1260" certainty="approximate">circa 1260</unitdate>
 					</did>
 				</c02>
 			</c01>

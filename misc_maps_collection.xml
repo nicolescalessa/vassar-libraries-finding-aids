@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_misc_maps_collection</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Miscellaneous Historical Maps Collection, circa 1558-1989 (bulk 1820-1945)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+				</address>
+				<date>October 2024</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck, <date>2024</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle label="Title:" encodinganalog="245">Miscellaneous Historical Maps Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">circa 1558-1989</unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">1820-1945</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">Approximately 115 maps (3 boxes, 1 framed item)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Collection of maps, charts, atlas
+				pages, and illustrations depicting various regions of the globe ranging
+				from the 16th to 20th centuries, with a particular focus on the United States and New York.</abstract>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Collection of maps, charts, atlas
+				pages, and illustrations depicting various regions of the globe ranging
+				from the 16th to 20th centuries, with a particular focus on the United States and New York.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library.
+				</extref></p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head> Related Materials</head>
+			<p>
+				<extref href="https://library.vassar.edu/specialcollections/rarebooks" show="new">
+					Atlas Collection</extref>
+			</p>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/ed35d545-2cd6-47a4-b5f4-38618ab93741"
+				>Breed Collection of Maps, Documents, and Prints</archref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/d9893e8f-9586-4cb5-97a4-45ac250ae564"
+					>Edward Lasker Collection of Atlases and Maps</archref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/8ea220d6-2a9e-4c5c-8344-71e490b0e1bb"
+					>Richmond John Rathbone Collection of Rare Maps</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Kitchin, Thomas, 1719-1784</persname>
+				<persname source="lcnaf" encodinganalog="600">Langenes, Barent</persname>
+				<persname source="lcnaf" encodinganalog="600">Lewis, Samuel, 1753 or 1754-1822</persname>
+				<persname source="lcnaf" encodinganalog="600">Moll, Herman, -1732</persname>
+				<persname source="lcnaf" encodinganalog="600">Moore, Raymond C. (Raymond Cecil), 1892-1974</persname>
+				<persname source="lcnaf" encodinganalog="600">Seutter, Matthäus, 1678-1757</persname>
+				<persname source="lcnaf" encodinganalog="600">Warren, G. K. (Gouverneur Kemble), 1830-1882</persname>	
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname source="lcnaf" encodinganalog="651">Europe--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Great Britain--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Germany--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Italy--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">North America--History--Colonial period, ca. 1600-1775</geogname>
+				<geogname source="lcnaf" encodinganalog="651">North America--Maps</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States—History—Civil War, 1861-1865</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Maps</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Maps</genreform>
+				<genreform source="aat" encodinganalog="655">Manuscripts (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Local History</subject>
+				<subject source="local" encodinganalog="690">Maps</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, November 2024.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Assembled together from legacy map collections belonging to both Special Collections
+				and the Vassar College Main Library, as well as more recent accessions. Items
+				previously cataloged using the Dewey Decimal System, or a legacy cataloging system
+				used by the Vassar College Library in the 20th century (call numbers beginning with
+				"M"), are still identified with these former call numbers.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of various donors.</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Miscellaneous Historical Maps Collection, Archives and Special Collections Library,
+				Vassar College Libraries.</p>
+		</prefercite>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The maps are organized into series roughly by geographic area. There is considerable
+				overlap between the sub-series, though, so careful browsing is required to complete
+				a thorough search of the collection.</p>
+			<p>Within each series, maps are arranged in alphabetical order by creator or title.</p>
+		</arrangement>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">EUROPE</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">EUROPE — GERMANY</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">EUROPE — GREAT BRITAIN</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">EUROPE — ITALY</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">EUROPE — NETHERLANDS</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">JAPAN</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">MISCELLANEOUS</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">NEAR EAST</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">NORTH AMERICA</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">NORTH AMERICA — MEXICO</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series11">NORTH AMERICA — UNITED STATES</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series12">NORTH AMERICA — UNITED STATES — CIVIL WAR MAPS</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series13">NORTH AMERICA — UNITED STATES — KANSAS</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series14">NORTH AMERICA — UNITED STATES — LOUISIANA</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series15">NORTH AMERICA — UNITED STATES — MASSACHUSETTS</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series16">NORTH AMERICA — UNITED STATES — MINNESOTA</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series17">NORTH AMERICA — UNITED STATES — NEW YORK</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series18">NORTH AMERICA — UNITED STATES — NEW YORK — DUTCHESS
+							COUNTY AND POUGHKEEPSIE</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series19">NORTH AMERICA — UNITED STATES — PENNSYLVANIA</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series20">NORTH AMERICA — UNITED STATES — VIRGINIA</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series21">NORTH AMERICA — UNITED STATES — WASHINGTON, D.C.</ref>
+					</unittitle>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series22">WORLD</ref>
+					</unittitle>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>EUROPE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Aitchison, R. T., "A Chart of the History of Printing in Europe," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[2 copies] (M004 Ai91)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Kitchin, Thomas, "Poland with its Disimember'd Provinces," </unittitle>
+						<unitdate type="inclusive" normal="1784">1784</unitdate>
+						<physdesc>[17x25 x 20.5] (M438 K648)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Framed Storage 1.1</container>
+						<unittitle>Munster, Sebastian, "Moderna Europae Descripto," </unittitle>
+						<unitdate type="inclusive" normal="1558">circa 1558</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Unidentified map of Europe, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Several sheets printed on clear plastic]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>EUROPE - GERMANY</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>"Plan of Dresden, Capital of Saxony, the late Residence of the
+							King of Poland, Elector of Saxony," Vincent Sculp., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[11.5 x 18.75 in]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>EUROPE - GREAT BRITAIN</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Bacon's New Map of London," London: G. W. Bacon &amp; Co., </unittitle>
+						<unitdate type="inclusive" normal="1900">circa 1900</unitdate>
+						<physdesc>(M421 B133)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>L'Ecosse Par le S. Robert de Vangondy Geographie ord?du Roi, de
+							S.M.Pol? Duc de Lorr? Etde Bar, et de la Societe' royale de Nancy.
+							1762, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[15.75 x 10.75 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"'Geographia' Map of England and Wales - Pictorial Plan of
+							London," </unittitle>
+						<unitdate type="inclusive" normal="1923">1923</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>"Hartforde Shire," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[5.5 x 3.5 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"Hertford From the Ordinance Survey" and "Report on the Borough
+							of Hertford," [pages 239-242], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[8.5 x 13.75 in; 2 leaves]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"Hertfordiae Comitatus A. Cat: tifuclanis olim Inhabitatus," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[16.5 x 13.25 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"Hertfordshire" [information on Hertfordshire and color map], </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[11.5 x 16 in] (Dewey no. 942.58 C839?)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"Hertfordshire," drawn and engraved for Lewis's Topographical
+							Dictionary, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[12.5 x 9.75 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Jack, E. M., Brigadier, "Ordnance Survey Map of Roman Britain,
+							Second Edition," </unittitle>
+						<unitdate type="inclusive" normal="1928">1928</unitdate>
+						<physdesc>(M4201 G792)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>James, Major General Sir Henry, "Ancient Map of Great Britain
+							(1870)," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Facsimile] (M4203 G79)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>[Kent, Essex, Middlesex, Scotland, Buckinghamshire, West Riding
+							of Yorkshire, Warwickshire, Lancashire] "…reproduced from John Norden’s
+							map engraved by William Kip for Camden's 'Brittania' 1610," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[16.75 x 15; 8 maps]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>London, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(Dewey no. 973.2 B81)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Map of Jewish East London," </unittitle>
+						<unitdate type="inclusive" normal="1899">1899</unitdate>
+						<physdesc>[24.5 x 18.75 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"Map of the London General Bus Routes," </unittitle>
+						<unitdate type="inclusive" normal="192311">1923 Nov</unitdate>
+						<physdesc>[17.5 x 14 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"The Map of Great Britain (The Gough Map), circa 1360"
+							(Reproduction from the collection of the Bodleain Library), </unittitle>
+						<unitdate type="inclusive" normal="1958">[1958?]</unitdate>
+						<physdesc>(Dewey no. F 912.42 M322)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>[A Map of Great Britain and Surrounding Waters] "Sold by Herman
+							Moll and by Iohn King at the Globe in the Poultrey near Stocks Market," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"A New and Exact Plan of the Cities of London and
+							Westminster…1756," </unittitle>
+						<unitdate type="inclusive" normal="198909">1989 Sep</unitdate>
+						<physdesc>[Facsimile]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"The North and East Ridings of Yorkshire" by John Speede, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Walker, Emery, "The City of London Showing the Wards and
+							Liberties as Described by Stow, c. 1600," with cover page of "The
+							Pictorial Plan of London," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[item removed from Survey of London by Stow, with original call
+							number 942.1 St72] (M421 W15)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series4">
+				<did>
+					<unittitle>EUROPE - ITALY</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Porto di Villafranca," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Seutter, Matthaus, "Nova Et Exactissima Italiae, Sardinia et
+							Corsica…," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>EUROPE - NETHERLANDS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>Sensex, Ion, "The VII United Provinces…dedicated to Elihu Yale
+							Esq…," </unittitle>
+						<unitdate type="inclusive" normal="1709">1709</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>JAPAN</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Geological Maps of Japanese Empire" and "Depths of the Adjacent
+							Seas of Japan" by the Hydrographic Department, </unittitle>
+						<unitdate type="inclusive" normal="1926">1926</unitdate>
+						<physdesc>[5 items] (M052 J27)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Map Showing the Depression and Upheaval of the Ground Produced
+							at Kwato Districsts After the Great Earthquake of Sept. 1st, 1923," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(M52 P19)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>MISCELLANEOUS MAPS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Langenes, Barent, "Eyland Chios" (probably from the "Caert
+							Thresoor"), </unittitle>
+						<unitdate type="inclusive" normal="1598">[1598?]</unitdate>
+						<physdesc>[4 x 6 in; mounted to 10 x 7.5 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Langenes, Barent, "Zante Insula" (probably from the "Caert
+							Thresoor"), </unittitle>
+						<unitdate type="inclusive" normal="1598">[1598?]</unitdate>
+						<physdesc>[4 x 6 in; mounted to 10 x 7.5 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Langenes, Barent, "Eyland Van Sancta Helena" (probably from the
+							"Caert Thresoor"), </unittitle>
+						<unitdate type="inclusive" normal="1598">[1598?]</unitdate>
+						<physdesc>[4 x 6 in; mounted to 10 x 7.5 in]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>NEAR EAST</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Map Shewing the Marches of Alexander" published by John Murray, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(M038 G915)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>NORTH AMERICA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"A Chart of the Discoveries and Route of the Northern Land
+							Expedition Under the Command of Captain Franklin, R. N.," </unittitle>
+						<unitdate type="inclusive" normal="1923">[1923?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"A copy of the map of 'that Province' in America made…," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[extracted from Vol. 1, p. 456; 1 original, 2 photocopies] (Dewey
+							no. 973.2 B81)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Cyprian Southack a New Chart of the English Empire in North
+							America…1717," </unittitle>
+						<unitdate type="inclusive" normal="1942">1942</unitdate>
+						<physdesc>[Facsimile; 4 items] (Dewey no. F 912.7 So87)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>"Glacial Map of North America," </unittitle>
+						<unitdate type="inclusive" normal="1945">1945</unitdate>
+						<physdesc>[in 2 parts] (M007 N215 1)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Lewis and Clark, "A Map of Lewis and Clark's Track Across the
+							Western Portion of North America…," </unittitle>
+						<unitdate type="inclusive" normal="1804/1806">1804-1806</unitdate>
+						<physdesc>(M078 C549)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>Seutter, Matthaus, "Recens Edita totius Novi Belgii in America
+							Septentrionali fiti, delineation cura et fumtibus...," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[17.5 x 15.5]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>NORTH AMERICA - MEXICO</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Battles of Mexico. Survey of the Line of Operations of the U.S.
+							Army under the command of Major General Winfield Scott, on the 19th and
+							20th of August and the 8th, 12th, and 13th of September, 1847," drawn by
+							Captain McClellan, U.S. Engineer Bureau, </unittitle>
+						<unitdate type="inclusive" normal="1847">circa 1847</unitdate>
+						<physdesc>(M725 Un35)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Chatelain, Henri, "Description, situation, &amp; vue de la Ville
+							de Mexique..." , </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>"Pourtraict et description del la grande cite de temistitan,
+							1397," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Siege of Vera Cruz by the U.S. Troops Under Major General Scott,
+							March 1847," drawn by Captain McClellan, U.S. Engineer Bureau, </unittitle>
+						<unitdate type="inclusive" normal="1847">circa 1847</unitdate>
+						<physdesc>(M726 Un35)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Boston and New England via Poughkeepsie Bridge Crossing to the
+							Coal Fields, The West and Southwest," </unittitle>
+						<unitdate type="inclusive" normal="1872">circa 1872</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>"Carte de la Campagne en Virgnie du Major Général Mis. de la
+							Fayette ou fetrouvent les Campes et marches ainsy que ceux du Lieutent.
+							Général Lord Cornwallis en 1781," </unittitle>
+						<unitdate type="inclusive" normal="1961">1961</unitdate>
+						<physdesc>[Facsimile; 4 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"A Charter of King James His River in Virginia," from "Maps from
+							The Genesis of the United States" by A. Brown, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 original, 1 photocopy] (Dewey no. 973.2 B81)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>Fremont, John Charles, "Profile of the Traveling Route from the
+							South Pass of the Rocky Mountains to the Bay of San Francisco; Map of
+							the Oregon and Upper California from the Surveys of John Charles
+							Fremont…," </unittitle>
+						<unitdate type="inclusive" normal="1848">1848</unitdate>
+						<physdesc>(Dewey no. 912.795 P92)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"The Herrman Map of Virginia and Maryland, London, 1673," </unittitle>
+						<unitdate type="inclusive" normal="1941">1941</unitdate>
+						<physdesc>[Facsimile; 4 items] (M755 H436)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Map Showing Indian Reservations Within the Limit of the United
+							States," </unittitle>
+						<unitdate type="inclusive" normal="1903/1904">1903-1904</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Map Showing The Relation of New England and the Iron Ore Fields
+							of the East to the Coal Regions of Pennsylvania by the Poughkeepsie
+							Bridge Route…," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Route of the Expedition from Isle de la Crosse to Fort
+							Providence, in 1819 and 1820," </unittitle>
+						<unitdate type="inclusive" normal="1820">circa 1820</unitdate>
+						<physdesc>[9.25 x 20 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Route of the Expedition from York Factory to Cumberland House
+							and the Summer &amp; Winter Tracks from thence to Isle de la Crosse, in
+							1819 and 1820," </unittitle>
+						<unitdate type="inclusive" normal="1820">circa 1820</unitdate>
+						<physdesc>[22.5 x 9.75 in]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Stewart, Alexander, "A Map of the Seneca Villages and the Jesuit
+							and French Contacts 1615-1708," </unittitle>
+						<unitdate type="inclusive" normal="1931">1931</unitdate>
+						<physdesc>[20.5 x 17.5; 2 copies, 4 items] (Dewey no. 974.789
+							St4)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"The United States According to the Definitive Treaty of Peace
+							Signed at Paris, Sept. 3, 1783," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[19 x 18.5, cloth mounted] (M73 M22)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>U.S. Department of the Interior, "Map of the United States
+							Showing Principal Explorers and Early Roads and Highways…," </unittitle>
+						<unitdate type="inclusive" normal="1908">1908</unitdate>
+						<physdesc>(Dewey no. 912.731 Un3)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>Warren, BVT Major General G. K., "Map of Nebraska and Dakota and
+							Portions of the States and Territories Bordering Thereon…," </unittitle>
+						<unitdate type="inclusive" normal="1867">1867</unitdate>
+						<physdesc>(Dewey no. 912.782 W25)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>Zuniga, "The Draught of St Georges Fort," from "Maps from The
+							Genesis of the United States" by A. Brown, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 original, 1 photocopy] (Dewey no. 973.2 B81)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series12">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - CIVIL WAR MAPS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Duval, P. S. and Son, "Map of the Seat of the War" and "Seat of
+							the War in the West," </unittitle>
+						<unitdate type="inclusive" normal="1861">1861</unitdate>
+						<physdesc>[2 items] (M075 D956)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>Phelps and Watson's Historical and Military Map of the Border and
+							Southern States, </unittitle>
+						<unitdate type="inclusive" normal="1862">1862</unitdate>
+						<physdesc>(M075 P511)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>"The Seat of the War; A Bird's Eye View of Virginia, Maryland,
+							Delaware and the District of Columbia," </unittitle>
+						<unitdate type="inclusive" normal="1861">1861</unitdate>
+						<physdesc>(M075 Sch1)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Smith, W. E., "Battlefield of Chattanooga," </unittitle>
+						<unitdate type="inclusive" normal="1863">1863</unitdate>
+						<physdesc>(M737 Un25)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>U.S. Coast Survey Office, "Map Showing the Operations of the
+							National Forces under the Command of Maj. Gen. W. T. Sherman," </unittitle>
+						<unitdate type="inclusive" normal="1864">1864</unitdate>
+						<physdesc>(M737 Un3)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>U.S. War Department, "Map Illustrating the Siege of Atlanta,
+							Georgia," </unittitle>
+						<unitdate type="inclusive" normal="1864">1864</unitdate>
+						<physdesc>(M737 Un32)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>U.S. War Department, Engineer Bureau, "Map Showing Route of
+							Marches of the Army of Gen. W. T. Sherman from Atlanta to Boldsboro,
+							NC," </unittitle>
+						<unitdate type="inclusive" normal="1864">1864</unitdate>
+						<physdesc>[19 x 13 in] (M737 Un33)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series13">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - KANSAS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Landes, Kenneth, "Oil and Gas Fields of Kansas," </unittitle>
+						<unitdate type="inclusive" normal="1932">1932</unitdate>
+						<physdesc>(M781 K13)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Moore, Raymond, "Contour Map Showing Topography of Pre-Cambrian
+							Surface Underlying Eastern Two-Thirds of Kansas," </unittitle>
+						<unitdate type="inclusive" normal="1935">1935</unitdate>
+						<physdesc>(Dewey no. 557.81 K137)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Moore, Raymond, "Geological Map of Kansas," </unittitle>
+						<unitdate type="inclusive" normal="1935">1935</unitdate>
+						<physdesc>(Dewey no. 557.81 K1376)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Moore, Raymond, "Geological Map of Kansas, Northwestern Kansas," </unittitle>
+						<unitdate type="inclusive" normal="1935">1935</unitdate>
+						<physdesc>(Dewey no. 557.81 K1373)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Moore, Raymond, "Geological Map of Kansas, Southwestern Kansas," </unittitle>
+						<unitdate type="inclusive" normal="1935">1935</unitdate>
+						<physdesc>(Dewey no. 557.81 K1374)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Moore, Raymond, "The Surface Features of Kansas," </unittitle>
+						<unitdate type="inclusive" normal="1935">1935</unitdate>
+						<physdesc>(Dewey no. 557.81 K1375)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series14">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - LOUISIANA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Franquelin, Louis, "Carte de la Louisiane…1684," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Facsimile] (Dewey no. 912.763 F85)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series15">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - MASSACHUSETTS</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"A Geological Map of Massachusetts," </unittitle>
+						<unitdate type="inclusive" normal="1832">1832</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>"Map of the Metropolitan District of Boston Showing Local Public
+							Reservations…," </unittitle>
+						<unitdate type="inclusive" normal="1921">1921</unitdate>
+						<physdesc>(M7446 B65)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"Massachusetts," published by Dorr. Howland &amp; Co., Worcester, </unittitle>
+						<unitdate type="inclusive" normal="1839">1839</unitdate>
+						<physdesc>[13.25 x 8.5 in]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series16">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - MINNESOTA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Brower, J. V., "Detailed Hydrographic Chart of the Ultimate
+							Source of the Mississippi River," </unittitle>
+						<unitdate type="inclusive" normal="1891">1891</unitdate>
+						<physdesc>(Dewey no. 912.77 B8)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Geological Map of the State of Minnesota," </unittitle>
+						<unitdate type="inclusive" normal="1932">1932</unitdate>
+						<physdesc>(M776 M66 (1))</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series17">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - NEW YORK</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Burr, David, "Map of the County of Oswego," </unittitle>
+						<unitdate type="inclusive" normal="1829">1829</unitdate>
+						<physdesc>(M74767 B94)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Lewis, Samuel, "The State of New York, Compiled from the best
+							Authorities…," </unittitle>
+						<unitdate type="inclusive" normal="1795">1795</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Manor Reselaerwick by Bleeker, </unittitle>
+						<unitdate type="inclusive" normal="1767">1767</unitdate>
+						<physdesc>(M74741 B615)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"A Plan of the City of New York," </unittitle>
+						<unitdate type="inclusive" normal="1834">1834</unitdate>
+						<physdesc>[Facsimile; 18 x 22.5] (M7471 L99)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>"Pictorial New York," </unittitle>
+						<unitdate type="inclusive" normal="1855">1855</unitdate>
+						<physdesc>(Dewey no. 912.747 P58)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"The Rand-McNally Vest Pocket Map of New York City," </unittitle>
+						<unitdate type="inclusive" normal="1911">1911</unitdate>
+						<physdesc>(M7471 R16)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Stevens, B. F., "British Headquarter Map of New York and
+							Environs, 1782," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Facsimile, 3 sheets (incomplete set); 15x25 x 22.5] (M7471
+							G798)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series18">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - NEW YORK - DUTCHESS COUNTY AND
+						POUGHKEEPSIE</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>Beers, F.W., "Town of Poughkeepsie" [from Atlas of New York and
+							Vicinity], </unittitle>
+						<unitdate type="inclusive" normal="1867">1867</unitdate>
+						<physdesc>[13.5 x 16.5 in, mounted] (Dewey no. F 912.747 B39)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>"Dutchess County Soil Survey Map," </unittitle>
+						<unitdate type="inclusive" normal="1907">1907</unitdate>
+						<physdesc>(Dewey no. 747.3 M77)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Fenner's Map On Trail with P.V. Burgh Aug, 1809...Showing some
+							land later including in the Vassar Campus," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[2 maps; positive and negative photostats]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Great Nine Partners Patent, N.Y. Dutchess Co.," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Photostatic copy] (Dewey no. 747.3 G798)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>"A Map of Dutchess County, New York from Actual Surveys," John E.
+							Gillette, Publisher, Philadelphia, </unittitle>
+						<unitdate type="inclusive" normal="1858">1858</unitdate>
+						<physdesc>[Folded cloth map; 9.75 x 10.5 in (folded); 59 x 63 in
+							(unfolded)]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Map of Dutchess Co. New York from actual surveys. John Gillette,
+							Publisher, 517, 519, 521, Minor Str. Philadelphia," </unittitle>
+						<unitdate type="inclusive" normal="1858">1858</unitdate>
+						<physdesc>[Part 1 of 2]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Map of Dutchess Co. New York from actual surveys. John Gillette,
+							Publisher, 517, 519, 521, Minor Str. Philadelphia," </unittitle>
+						<unitdate type="inclusive" normal="1858">1858</unitdate>
+						<physdesc>[Part 2 of 2]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>"A Map of the Lands of Poughkeepsie…1770," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Photocopy] (M747.33 C644)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>Map of Poughkeepsie, </unittitle>
+						<unitdate type="inclusive" normal="1852">circa 1852</unitdate>
+						<physdesc>(M747.33 Si14)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Map of the City of Poughkeepsie," </unittitle>
+						<unitdate type="inclusive" normal="1876">1876</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3 (Oversize)</container>
+						<unittitle>"Map of the Town of Poughkeepsie, by Livingston, 1790," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[12.75 x 18.5; photostatic copy] (Dewey no. 747.33
+							L762)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"A Map of the Incorporated Village of Poughkeepsie, 1834," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[3 items; positive and negative photostats]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Map Supplement to the Dutchess County Guide of the American
+							Guide Series," </unittitle>
+						<unitdate type="inclusive" normal="1938">1938</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Plan of Dutchess Co.," </unittitle>
+						<unitdate type="inclusive" normal="1867">1867</unitdate>
+						<physdesc>[2 copies] (Dewey no. 747.3 B392)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Plan of the City of Poughkeepsie," </unittitle>
+						<unitdate type="inclusive" normal="1867">1867</unitdate>
+						<physdesc>(Dewey no. 747.3 B392)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>Poughkeepsie, </unittitle>
+						<unitdate type="inclusive" normal="1920">circa 1920</unitdate>
+						<physdesc>(M747.33 C76)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Poughkeepsie, Upper Red Hook / Map of Unionvale Township," </unittitle>
+						<unitdate type="inclusive" normal="1876">1876</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>"Second and Corrected Copy of the Lands Belonging to the Estate
+							of Esther Emily Parker, Poughkeepsie," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Photocopy]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>"Town of Poughkeepsie," </unittitle>
+						<unitdate type="inclusive" normal="1867">1867</unitdate>
+						<physdesc>(Dewey no. 747.3 B392)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series19">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - PENNSYLVANIA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 18</container>
+						<unittitle>Stose, George W. and O. A. Ljungstedt, "Geographic Map of
+							Pennsylvania Department of Internal Affairs…," </unittitle>
+						<unitdate type="inclusive" normal="1931">1931</unitdate>
+						<physdesc>(M748 P38)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series20">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - VIRGINIA</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 17</container>
+						<unittitle>Nelson, Wilbur, "Geological Map of Virginia," </unittitle>
+						<unitdate type="inclusive" normal="1928">1928</unitdate>
+						<physdesc>(M755 V81)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Zuniga, Chart of Virigina, "sent from London, England, 10th
+							Sept., 1608," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[16x5 x 19; opp. p. 184; 1 original and 2 copies] (Dewey no. 973.2
+							B81)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series21">
+				<did>
+					<unittitle>NORTH AMERICA - UNITED STATES - WASHINGTON, D.C.</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>"L'Enfant's Plan for Washington D.C.; Printed by the United
+							States Coast and Geodetic Survey Office, 1887," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Facsimile] (Dewey no. F 912.753 L52)</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series22">
+				<did>
+					<unittitle>WORLD</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>"The Cassini World Map of 1696," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Facsimile]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>Leardo Map of the World, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(Dewey no. 912 L478)</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Orbis Terrarum," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 6</container>
+						<unittitle>"Typus Orbis Terrarum," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[Photostat of map missing from Special Collections copy of
+							Hakluyt, Richard Principall (Hairgalions), London, 1587]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 19</container>
+						<unittitle>World Map (Hispanic Society of America), </unittitle>
+						<unitdate type="inclusive" normal="1912">1912</unitdate>
+						<physdesc>(Dewey no. F 860.6 H62)</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

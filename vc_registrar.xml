@@ -30,7 +30,7 @@
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Vassar College Registrar Records</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1865-1998</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">2 cubic feet (2 boxes, 17 volumes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.8 cubic feet (3 boxes); 17 volumes</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -107,7 +107,7 @@
 				<did>
 					<unittitle>
 						<ref target="series1">Series I.</ref> Course Schedules, </unittitle>
-					<unitdate type="inclusive" normal="1964/1998">1964-1998</unitdate>
+					<unitdate type="inclusive" normal="1911/1998">1911-1998</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -124,20 +124,42 @@
 			<c01 level="series" id="series1">
 				<did>
 					<unittitle>Series I. Course Schedules, </unittitle>
-					<unitdate type="inclusive" normal="1964/1998">1964-1998</unitdate>
+					<unitdate type="inclusive" normal="1911/1998">1911-1998</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
+						<container>Box 3</container>
+						<unitdate type="inclusive" normal="191109/191505">1911 Sep - 1915 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unitdate type="inclusive" normal="191609/192405">1916 Sep - 1924 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 3</container>
+						<unitdate type="inclusive" normal="192509/193205">1925 Sep - 1932 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Map Case - Drawer 29</container>
+						<unitdate type="inclusive" normal="193209/194205">1932 Sep - 1942 May</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
 						<container>Box 1</container>
-						<unitdate type="inclusive" normal="196409/198905">1964 Sep - 1989
-							May</unitdate>
+						<unitdate type="inclusive" normal="196409/198905">1964 Sep - 1989 May</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
 						<container>Box 2</container>
-						<unitdate type="inclusive" normal="198909/199805">1989 Sep - 1998
-							May</unitdate>
+						<unitdate type="inclusive" normal="198909/199805">1989 Sep - 1998 May</unitdate>
 					</did>
 				</c02>
 			</c01>

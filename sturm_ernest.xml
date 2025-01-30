@@ -27,12 +27,11 @@
 			<origination label="Creator:" encodinganalog="100"><persname>Sturm, Ernest</persname></origination>
 			<unittitle label="Title:" encodinganalog="245">Ernest Sturm Collection</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1742-1929</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">3 cubic feet (4 boxes, 6 volumes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">3 cubic feet (4 boxes, 5 volumes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a"><corpname>Archives and Special
 					Collections Library, Vassar College Libraries</corpname></repository>
 			<abstract label="Abstract:" encodinganalog="520$a">Variety of rare manuscripts relating
-				to American and European history, art and literature. Also includes a 19th century
-				manuscript of the Qur'an.</abstract>
+				to American and European history, art and literature.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note</head>
@@ -53,8 +52,7 @@
 				similar items of English literary and artistic figures; a letter of Edmund Burke; a
 				letter and photos of Robert Browning; a letter of Robert E. Lee; printed copy of the
 				United States Constitution dated 1787; letters and documents signed by American
-				Presidents; transcript of a poem by Robert Louis Stevenson, and eighteenth century
-				manuscripts copy of the Koran.</p>
+				Presidents; and a transcript of a poem by Robert Louis Stevenson.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
@@ -71,6 +69,10 @@
 					>regulations of the Vassar College Archives and Special Collections
 					Library.</archref></p>
 		</userestrict>
+		<separatedmaterial encodinganalog="544 1">
+			<head>Separated Material</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Volume 6, a Qur'an, was separated from the collection, catalogued as Arabic MS 11, and added to the Islamic Manuscripts Collection, December 2024.</archref></p>
+		</separatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
@@ -122,7 +124,6 @@
 			<controlaccess>
 				<head>VCL Categories:</head>
 				<subject source="local" encodinganalog="690">Autographs</subject>
-				<subject source="local" encodinganalog="690">Islamic Manuscripts</subject>
 				<subject source="local" encodinganalog="690">Literature and Writing</subject>
 				<subject source="local" encodinganalog="690">Politics</subject>
 			</controlaccess>
@@ -265,12 +266,6 @@
 					<unittitle><ref target="series18">Series XVIII.</ref> Napoleon and His
 						Family</unittitle>
 					<physdesc>(volume 5)</physdesc>
-				</did>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unittitle><ref target="series19">Series XIX.</ref> Koran</unittitle>
-					<physdesc>(volume 6)</physdesc>
 				</did>
 			</c01>
 		</dsc>
@@ -1771,18 +1766,7 @@
 					</did>
 				</c02>
 			</c01>
-			<c01 level="series" id="series19">
-				<did>
-					<unittitle>Series XIX. Qur'an</unittitle>
-				</did>
-				<c02 level="item">
-					<did>
-						<container>Volume 6</container>
-						<unittitle>Qur'an, in Arabic (Naskh script) [Ottoman Empire], </unittitle>
-						<unitdate type="inclusive">1854</unitdate>
-					</did>
-				</c02>
-			</c01>
+			
 		</dsc>
 	</archdesc>
 </ead>

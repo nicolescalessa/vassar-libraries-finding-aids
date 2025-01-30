@@ -42,7 +42,7 @@
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>The collection consists of correspondence, clippings, reports, speeches, articles, pamphlets, and government documents pertaining to food and drug legislation, the drug "krebiozen," the seafood industry, ergot, consumer groups, Food for Freedom, Ralph Nader, and drug industry propaganda, 1928-1970. Major correspondents include Rachel Lynn Palmer and William Allen White. Also included are notes, articles, pamphlets, and clippings used in writing Atkinson's books; drafts and galley proofs; correspondence with her publisher Farrar &amp; Rinehart; and reviews and letters received about <emph render="italic">American Chamber of Horrors</emph>, 1934-1937, and <emph render="italic">The Devil's Candle</emph>. Other items include clippings and government reports concerning India's independence, 1945-1947; Indian and Persian manuscripts; a scrapbook of the drug and cosmetic advertisements she wrote in the 1920s; and miscellaneous Americana she collected including 1781 military communication of General William Heath, 1830 sheet music, and Benson J. Lossing prints of the Hudson River.</p>
+			<p>The collection consists of correspondence, clippings, reports, speeches, articles, pamphlets, and government documents pertaining to food and drug legislation, the drug "krebiozen," the seafood industry, ergot, consumer groups, Food for Freedom, Ralph Nader, and drug industry propaganda, 1928-1970. Major correspondents include Rachel Lynn Palmer and William Allen White. Also included are notes, articles, pamphlets, and clippings used in writing Atkinson's books; drafts and galley proofs; correspondence with her publisher Farrar &amp; Rinehart; and reviews and letters received about <emph render="italic">American Chamber of Horrors</emph>, 1934-1937, and <emph render="italic">The Devil's Candle</emph>. Other items include clippings and government reports concerning India's independence, 1945-1947; Indian manuscripts; a scrapbook of the drug and cosmetic advertisements she wrote in the 1920s; and miscellaneous Americana she collected including 1781 military communication of General William Heath, 1830 sheet music, and Benson J. Lossing prints of the Hudson River.</p>
 			<p>Note: The Revolutionary War fife listed under Miscellaneous Americana is missing as of 13 November 2006.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
@@ -53,10 +53,10 @@
 			<head>Restrictions on Use</head>
 			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
 		</userestrict>
-		<relatedmaterial encodinganalog="544 1">
-			<head>Related Materials</head>
-			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Islamic Manuscripts Collection</archref></p>
-		</relatedmaterial>
+		<separatedmaterial encodinganalog="544 1">
+			<head>Separated Material</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Five leaves from a manuscript copy of <emph render="italic">Haft Paykar</emph>, a Persian epic poem, were separated from Box 13 of the collection, cataloged as Persian MS 6, and added to the Islamic Manuscripts Collection, December 2024.</archref></p>
+		</separatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
@@ -87,7 +87,6 @@
 				<subject source="lcsh" encodinganalog="650">Ergot</subject>
 				<subject source="lcsh" encodinganalog="650">Krebiozen</subject>
 				<subject source="lcsh" encodinganalog="650">Consumer education</subject>
-				<subject source="lcsh" encodinganalog="650">Manuscripts, Persian</subject>
 				<subject source="lcsh" encodinganalog="650">Manuscripts, Sanskrit</subject>
 			</controlaccess>
 			<controlaccess>
@@ -109,7 +108,6 @@
 			<controlaccess>
 				<head>VCL Categories:</head>
 				<subject source="local" encodinganalog="690">East Asia, South Asia, and India</subject>
-				<subject source="local" encodinganalog="690">Islamic Manuscripts</subject>
 				<subject source="local" encodinganalog="690">Politics</subject>
 			</controlaccess>
 		</controlaccess>
@@ -348,8 +346,8 @@
 			<c01 level="file">
 				<did>
 					<container>Box 13</container>
-					<unittitle>Indian Miscellany — Portfolio of Persian and Indian manuscript pages, drawings and paintings, </unittitle>
-					<physdesc>(13 leaves)</physdesc>
+					<unittitle>Indian Miscellany — Portfolio of Indian manuscript pages, drawings and paintings, </unittitle>
+					<physdesc>(8 leaves)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">

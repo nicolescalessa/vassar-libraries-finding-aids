@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
-	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
 		<eadid countrycode="us" mainagencycode="npv">npv_vc_trustees</eadid>
 		<filedesc>
 			<titlestmt>
@@ -29,28 +30,49 @@
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Vassar College Board of Trustees Records</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1861-2014</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">approximately 42 cubic feet (32 boxes and 113 volumes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">40 cubic feet (55 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a">Materials relating to the work of the Board. Includes meeting minutes, reports, correspondence and financial records.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">Materials relating to the work of the Vassar College
+				Board of Trustees. Includes meeting minutes, reports, correspondence, committee records, and financial
+				records.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Administrative History</head>
-			<p>The members of the first Board of Trustees were listed in the college charter, which was passed by the New York State Legislature January 18, 1861. The first meeting of the Board occured five weeks later on February 26th.</p>
+			<p>The members of the first Board of Trustees were listed in the college charter, which
+				was passed by the New York State Legislature January 18, 1861. The first meeting of
+				the Board occurred five weeks later on February 26th.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Materials relating to the work of the Board. Includes meeting minutes, reports, correspondence and financial records.</p>
+			<p>The collection consists of materials relating to the work of the Vassar College
+				Board of Trustees. Includes meeting minutes, reports, correspondence, committee records, and financial
+				records.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>Records from 1986 to the present are currently closed to research. The rest of the collection is open for research with permission of the office of origin and in accordance with the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref>.</p>
+			<p>Records from roughly 1986 to the present (including all materials in boxes 24-34, 40-46, and 48-55) are currently closed to
+				research. The rest of the collection is open for research with permission of the
+				office of origin and in accordance with the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</extref>.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <archref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</archref></p>
 		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref
+				href="https://digitallibrary.vassar.edu/collections/finding-aids/6ab53f95-7e93-4491-a610-8e9d6a4b7374"
+				>Vassar College Archives Files</archref></p>
+		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
@@ -62,29 +84,51 @@
 				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
 			</controlaccess>
 			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Compact discs</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Financial Records</genreform>
+				<genreform source="aat" encodinganalog="655">Minutes (administrative records)</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+			</controlaccess>
+			<controlaccess>
 				<head>VCL Categories:</head>
 				<subject source="local" encodinganalog="690">Vassar College Trustees</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Elizabeth Clarke, June 2007. Updated by Laura Streett, March 2009. Updated by Emma Gronbeck, October 2023.</p>
+			<p>Encoded by Elizabeth Clarke, June 2007. Updated by Laura Streett, March 2009. Updated
+				by Emma Gronbeck, January 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Original processing date unknown. Updated by Laura Streett, July 2011, by Mark Seidl, December 2019, and by Emma Gronbeck, November 2022 and October 2023.</p>
+			<p>Original processing date unknown. Updated by Laura Streett, July 2011, by Mark Seidl,
+				December 2019, and by Emma Gronbeck, November 2022, October 2023, and January 2025.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>College transfer in multiple and continuing accessions. Some material (in boxes 10-15) was transferred from the Office of the Vice President for Finance in 2007 (A2007-046).</p>
+			<p>College transfer in multiple and continuing accessions. (A2001-001, A2003-001,
+				A2003-012, A2004-011, A2004-020, A2004-021, A2005-007, A2006-002, A2006-021,
+				A2006-044, A2007-003, A2007-004, A2007-011, A2007-012, A2007-026, A2007-059,
+				A2007-060, A2008-004, A2008-022, A2008-026, A2008-027, A2009-006, A2009-045,
+				A2010-005, A2010-006, A2010-008, A2011-013, A2011-035, A2011-054, A2012-016,
+				A2012-027, A2012-030, A2013-031, A2014-027, A2014-054)</p>
+			<p>Some material (in boxes 29-34, 53) was transferred from the Office of the Vice
+				President for Finance in 2007 (A2007-046).</p>
+			<p>Materials from the Trustee Committee on Buildings and Grounds in boxes 48-51 were
+				transferred in 2007 and 2009. (A2007-047, A2009-014)</p>
 		</acqinfo>
 		<altformavail encodinganalog="530">
 			<head>Other Formats</head>
-			<p>Some minutes have been digitized and are searchable through a database. However, direct access to the database is restricted to the Special Collections staff. Please contact the staff for further information.</p>
+			<p>Some minutes have been digitized and are searchable through a database. However,
+				direct access to the database is restricted to the Special Collections staff. Please
+				contact the staff for further information.</p>
 		</altformavail>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p>Vassar College Board of Trustees Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>Vassar College Board of Trustees Records, Archives and Special Collections Library,
+				Vassar College Libraries.</p>
 		</prefercite>
 		<dsc type="analyticover">
 			<head>Series List</head>
@@ -92,8 +136,8 @@
 				<did>
 					<unittitle>
 						<ref target="series1">Series I.</ref> Minutes and Reports, </unittitle>
-					<unitdate type="inclusive">1861-1998</unitdate>
-					<physdesc></physdesc>
+					<unitdate type="inclusive">1861-2014</unitdate>
+					<physdesc/>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -110,14 +154,18 @@
 					<unitdate type="inclusive">1931-2005</unitdate>
 				</did>
 				<scopecontent>
-					<p>The Secretary's Files are divided into three subseries. The first set is arranged alphabetically and dates primarily from the 1940s. The second set is chronological, dates from 1980 to 2005, and includes minutes, reports, agendas and some correspondence relating to regular meetings of the Board as well as its committees. The last set is in no particular order and its origin is uncertain. It dates from roughly 1982-1989</p>
+					<p>The Secretary's Files are divided into three subseries. The first set is
+						arranged alphabetically and dates primarily from the 1940s. The second set
+						is arranged alphabetically and dates from 1977 to 1989, and includes minutes, reports,
+						agendas and some correspondence relating to regular meetings of the Board as
+						well as its committees. The last set is minutes of the Executive Committee of the Board of Trustees and is arranged chronologically.</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
 						<ref target="series4">Series IV.</ref> Miscellaneous, </unittitle>
-					<unitdate type="inclusive">1868-2014</unitdate>
+					<unitdate type="inclusive">1868-2006</unitdate>
 				</did>
 			</c01>
 		</dsc>
@@ -125,40 +173,41 @@
 			<head>Container List</head>
 			<c01 level="series" id="series1">
 				<did>
-					<unittitle>SERIES I. MINUTES and REPORTS</unittitle>
+					<unittitle>SERIES I. MINUTES and REPORTS, </unittitle>
+					<unitdate type="inclusive" normal="1861/2014">1861-2014</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
 						<unittitle>Minutes of Meetings of the Full Board, </unittitle>
-						<unitdate>1861-1997</unitdate>
+						<unitdate type="inclusive" normal="1861/1997">1861-1997</unitdate>
 					</did>
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 1, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1861-1934</emph></unitdate>
-							<physdesc><emph render="bold">(3 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1861/1934"><emph render="bold"
+									>1861-1934</emph></unitdate>
 						</did>
-					<c04 level="item">
-						<did>
-							<container>Bound Volumes</container>
-							<unittitle>Vol. 1, </unittitle>
-							<unitdate type="inclusive">1861-1891</unitdate>
-							<physdesc>(original)</physdesc>
-						</did>
-					</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1891-1921</unitdate>
+								<container>Box 1</container>
+								<unittitle>Vol. 1, </unittitle>
+								<unitdate type="inclusive" normal="1861/1891">1861-1891</unitdate>
 								<physdesc>(original)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 2</container>
+								<unittitle>Vol. 2, </unittitle>
+								<unitdate type="inclusive" normal="1891/1921">1891-1921</unitdate>
+								<physdesc>(original)</physdesc>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Box 3</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1921-1934</unitdate>
+								<unitdate type="inclusive" normal="1921/1934">1921-1934</unitdate>
 								<physdesc>(original)</physdesc>
 							</did>
 						</c04>
@@ -166,162 +215,163 @@
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 2, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1861-1945</emph></unitdate>
-							<physdesc><emph render="bold">(6 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1861/1945"><emph render="bold"
+									>1861-1945</emph></unitdate>
 						</did>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 4</container>
 								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1861-1891</unitdate>
+								<unitdate type="inclusive" normal="1861/1891">1861-1891</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 4</container>
 								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1892-1919</unitdate>
+								<unitdate type="inclusive" normal="1892/1919">1892-1919</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 5</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1920-1926</unitdate>
+								<unitdate type="inclusive" normal="1920/1926">1920-1926</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 5</container>
 								<unittitle>Vol. 4, </unittitle>
-								<unitdate type="inclusive">1927-1933</unitdate>
+								<unitdate type="inclusive" normal="1927/1933">1927-1933</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 6</container>
 								<unittitle>Vol. 5, </unittitle>
-								<unitdate type="inclusive">1934-1939</unitdate>
+								<unitdate type="inclusive" normal="1934/1939">1934-1939</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 6</container>
 								<unittitle>Vol. 6, </unittitle>
-								<unitdate type="inclusive">1940-1945</unitdate>
+								<unitdate type="inclusive" normal="1940/1945">1940-1945</unitdate>
 							</did>
 						</c04>
 					</c03>
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 3, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1933-1997</emph></unitdate>
-							<physdesc><emph render="bold">(15 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1933/1997"><emph render="bold"
+									>1933-1997</emph></unitdate>
 						</did>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1933 Oct - 1939 Jun</unitdate>
+								<unitdate type="inclusive" normal="193310/193906">1933 Oct - 1939
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1939-1945</unitdate>
+								<unitdate type="inclusive" normal="1939/1945">1939-1945</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1945-1949</unitdate>
+								<unitdate type="inclusive" normal="1945/1949">1945-1949</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 4, </unittitle>
-								<unitdate type="inclusive">1949-1953</unitdate>
+								<unitdate type="inclusive" normal="1949/1953">1949-1953</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 5, </unittitle>
-								<unitdate type="inclusive">1953-1958</unitdate>
+								<unitdate type="inclusive" normal="1953/1958">1953-1958</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 6, </unittitle>
-								<unitdate type="inclusive">1958-1963</unitdate>
+								<unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 7, </unittitle>
-								<unitdate type="inclusive">1963-1966</unitdate>
+								<unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 8, </unittitle>
-								<unitdate type="inclusive">1966-1968</unitdate>
+								<unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 7</container>
 								<unittitle>Vol. 9, </unittitle>
-								<unitdate type="inclusive">1968-1970</unitdate>
+								<unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 10, </unittitle>
-								<unitdate type="inclusive">1970-1972</unitdate>
+								<unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 11, </unittitle>
-								<unitdate type="inclusive">1972-1975</unitdate>
+								<unitdate type="inclusive" normal="1972/1975">1972-1975</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 12, </unittitle>
-								<unitdate type="inclusive">1975-1978</unitdate>
+								<unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 13, </unittitle>
-								<unitdate type="inclusive">1978-1984</unitdate>
+								<unitdate type="inclusive" normal="1978/1984">1978-1984</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 14, </unittitle>
-								<unitdate type="inclusive">1984-1989</unitdate>
+								<unitdate type="inclusive" normal="1984/1989">1984-1989</unitdate>
 								<physdesc>[RESTRICTED]</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 15, </unittitle>
-								<unitdate type="inclusive">1989-1997</unitdate>
+								<unitdate type="inclusive" normal="1989/1997">1989-1997</unitdate>
 								<physdesc>(3 folders) [RESTRICTED]</physdesc>
 							</did>
 						</c04>
@@ -329,30 +379,33 @@
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 4, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1983-1997</emph></unitdate>
-							<physdesc><emph render="bold">(3 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1983/1997"><emph render="bold"
+									>1983-1997</emph></unitdate>
 						</did>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1983 May - 1988 Dec</unitdate>
+								<unitdate type="inclusive" normal="198305/198812">1983 May - 1988
+									Dec</unitdate>
 								<physdesc>[RESTRICTED]</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1989 Oct - 1993 May</unitdate>
+								<unitdate type="inclusive" normal="198910/199305">1989 Oct - 1993
+									May</unitdate>
 								<physdesc>[RESTRICTED]</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 8</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1993 Oct - 1997 Oct</unitdate>
+								<unitdate type="inclusive" normal="199310/199710">1993 Oct - 1997
+									Oct</unitdate>
 								<physdesc>[RESTRICTED]</physdesc>
 							</did>
 						</c04>
@@ -361,51 +414,51 @@
 				<c02 level="subseries">
 					<did>
 						<unittitle>Minutes of Executive Committee Meetings, </unittitle>
-						<unitdate>1861-1998</unitdate>
+						<unitdate type="inclusive" normal="1861/1998">1861-1998</unitdate>
 					</did>
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 1, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1861-1925</emph></unitdate>
-							<physdesc><emph render="bold">(5 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1861/1925"><emph render="bold"
+									>1861-1925</emph></unitdate>
 						</did>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 9</container>
 								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1861-1870</unitdate>
+								<unitdate type="inclusive" normal="1861/1870">1861-1870</unitdate>
 								<physdesc>(original)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 10</container>
 								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1870-1879</unitdate>
+								<unitdate type="inclusive" normal="1870/1879">1870-1879</unitdate>
 								<physdesc>(original)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 11</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1880-1901</unitdate>
-								<physdesc>(original, includes 3 folders)</physdesc>
+								<unitdate type="inclusive" normal="1880/1901">1880-1901</unitdate>
+								<physdesc>(original, 3 folders)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 12</container>
 								<unittitle>Vol. 4, </unittitle>
-								<unitdate type="inclusive">1901-1915</unitdate>
+								<unitdate type="inclusive" normal="1901/1915">1901-1915</unitdate>
 								<physdesc>(original)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 13</container>
 								<unittitle>Vol. 5, </unittitle>
-								<unitdate type="inclusive">1915-1925</unitdate>
+								<unitdate type="inclusive" normal="1915/1925">1915-1925</unitdate>
 								<physdesc>(original)</physdesc>
 							</did>
 						</c04>
@@ -413,236 +466,265 @@
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 2, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1861-1937</emph></unitdate>
-							<physdesc><emph render="bold">(11 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1861/1937"><emph render="bold"
+									>1861-1937</emph></unitdate>
 						</did>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1861 Jan - 1863 Jun</unitdate>
+								<unitdate type="inclusive" normal="186101/186306">1861 Jan - 1863
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1863 Jul - 1865 Dec</unitdate>
+								<unitdate type="inclusive" normal="186307/186512">1863 Jul - 1865
+									Dec</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1866 Jan - 1872 Jun</unitdate>
+								<unitdate type="inclusive" normal="186601/187206">1866 Jan - 1872
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 4, </unittitle>
-								<unitdate type="inclusive">1872 Jul - 1879 Dec</unitdate>
+								<unitdate type="inclusive" normal="187207/187912">1872 Jul - 1879
+									Dec</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 5, </unittitle>
-								<unitdate type="inclusive">1880 Jan - 1885 Jun</unitdate>
+								<unitdate type="inclusive" normal="188001/188506">1880 Jan - 1885
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 6, </unittitle>
-								<unitdate type="inclusive">1885 Jul - 1893 Dec</unitdate>
+								<unitdate type="inclusive" normal="188507/189312">1885 Jul - 1893
+									Dec</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 7, </unittitle>
-								<unitdate type="inclusive">1894 Jan - 1909 Dec</unitdate>
+								<unitdate type="inclusive" normal="189401/190912">1894 Jan - 1909
+									Dec</unitdate>
 								<physdesc>(2 folders)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 8, </unittitle>
-								<unitdate type="inclusive">1910 Jan - 1919 Dec</unitdate>
+								<unitdate type="inclusive" normal="191001/191912">1910 Jan - 1919
+									Dec</unitdate>
 								<physdesc>(2 folders)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 9, </unittitle>
-								<unitdate type="inclusive">1920 Jan - 1925 Sep</unitdate>
+								<unitdate type="inclusive" normal="192001/192509">1920 Jan - 1925
+									Sep</unitdate>
 								<physdesc>(2 folders)</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 10, </unittitle>
-								<unitdate type="inclusive">1925 Sep - 1932 Jul</unitdate>
+								<unitdate type="inclusive" normal="192509/193207">1925 Sep - 1932
+									Jul</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Box 14</container>
 								<unittitle>Vol. 11, </unittitle>
-								<unitdate type="inclusive">1932 Sep - 1937 Dec</unitdate>
+								<unitdate type="inclusive" normal="193209/193712">1932 Sep - 1937
+									Dec</unitdate>
 							</did>
 						</c04>
 					</c03>
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 3, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1938-1969</emph></unitdate>
-							<physdesc><emph render="bold">(5 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1938/1969"><emph render="bold"
+									>1938-1969</emph></unitdate>
 						</did>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folders 15.1-15.3</container>
 								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1938 Apr - 1956 Apr</unitdate>
+								<unitdate type="inclusive" normal="193804/195604">1938 Apr - 1956
+									Apr</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folders 15.4-15.6</container>
 								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1956 Jul - 1961 Mar</unitdate>
+								<unitdate type="inclusive" normal="195607/196103">1956 Jul - 1961
+									Mar</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folders 15.7-15.10</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1961 Sep - 1964 Jun</unitdate>
-							</did>
-						</c04>						
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 4, </unittitle>
-								<unitdate type="inclusive">1964 Sep - 1967 Jun</unitdate>
+								<unitdate type="inclusive" normal="196109/196406">1961 Sep - 1964
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folders 15.11-15.14</container>
+								<unittitle>Vol. 4, </unittitle>
+								<unitdate type="inclusive" normal="196409/196706">1964 Sep - 1967
+									Jun</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container>Folders 15.14-15.17</container>
 								<unittitle>Vol. 5, </unittitle>
-								<unitdate type="inclusive">1967 Sep - 1969 Jun</unitdate>
+								<unitdate type="inclusive" normal="196709/196906">1967 Sep - 1969
+									Jun</unitdate>
 							</did>
 						</c04>
 					</c03>
 					<c03 level="file">
 						<did>
 							<unittitle><emph render="bold">Set 4, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1932-1998</emph></unitdate>
-							<physdesc><emph render="bold">(14 volumes)</emph></physdesc>
+							<unitdate type="inclusive" normal="1932/1998"><emph render="bold"
+									>1932-1998</emph></unitdate>
 						</did>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folders 15.18-15.19</container>
 								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1932-1939</unitdate>
-								<physdesc>(2 folders)</physdesc>
+								<unitdate type="inclusive" normal="193209/193905">1932 Sep - 1939
+									May</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 15.20</container>
 								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1939-1946</unitdate>
+								<unitdate type="inclusive" normal="193909/194604">1939 Sep - 1946
+									Apr</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.1</container>
 								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1946-1949</unitdate>
+								<unitdate type="inclusive" normal="194609/194905">1946 Sep -1949
+									May</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.2</container>
 								<unittitle>Vol. 4, </unittitle>
-								<unitdate type="inclusive">1949-1953</unitdate>
+								<unitdate type="inclusive" normal="194907/195304">1949 Jul - 1953
+									Apr</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.3</container>
 								<unittitle>Vol. 5, </unittitle>
-								<unitdate type="inclusive">1953-1958</unitdate>
+								<unitdate type="inclusive" normal="195309/195803">1953 Sep - 1958
+									Mar</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.4</container>
 								<unittitle>Vol. 6, </unittitle>
-								<unitdate type="inclusive">1958-1961</unitdate>
+								<unitdate type="inclusive" normal="195809/196103">1958 Sep - 1961
+									Mar</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.5</container>
 								<unittitle>Vol. 7, </unittitle>
-								<unitdate type="inclusive">1961-1964</unitdate>
+								<unitdate type="inclusive" normal="196109/196403">1961 Sep - 1964
+									Mar</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.6</container>
 								<unittitle>Vol. 8, </unittitle>
-								<unitdate type="inclusive">1964-1968</unitdate>
+								<unitdate type="inclusive" normal="196409/196806">1964 Sep - 1968
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.7</container>
 								<unittitle>Vol. 9, </unittitle>
-								<unitdate type="inclusive">1968-1969</unitdate>
+								<unitdate type="inclusive" normal="196809/196906">1968 Sep - 1969
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.8</container>
 								<unittitle>Vol. 10, </unittitle>
-								<unitdate type="inclusive">1969-1972</unitdate>
+								<unitdate type="inclusive" normal="196909/197206">1969 Sep - 1972
+									Jun</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.9</container>
 								<unittitle>Vol. 11, </unittitle>
-								<unitdate type="inclusive">1972-1975</unitdate>
+								<unitdate type="inclusive" normal="197209/197505">1972 Sep - 1975
+									May</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.10</container>
 								<unittitle>Vol. 12, </unittitle>
-								<unitdate type="inclusive">1975-1982</unitdate>
+								<unitdate type="inclusive" normal="197509/198205">1975 Sep - 1982
+									May</unitdate>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.11</container>
 								<unittitle>Vol. 13, </unittitle>
-								<unitdate type="inclusive">1982-1990</unitdate>
+								<unitdate type="inclusive" normal="198208/199005">1982 Aug - 1990
+									May</unitdate>
 								<physdesc>[RESTRICTED]</physdesc>
 							</did>
 						</c04>
 						<c04 level="item">
 							<did>
-								<container>Bound Volumes</container>
+								<container>Folder 16.12</container>
 								<unittitle>Vol. 14, </unittitle>
-								<unitdate type="inclusive">1990-1998</unitdate>
+								<unitdate type="inclusive" normal="199008/199812">1990 Aug - 1998
+									Dec</unitdate>
 								<physdesc>[RESTRICTED]</physdesc>
 							</did>
 						</c04>
@@ -651,1115 +733,2914 @@
 				<c02 level="subseries">
 					<did>
 						<unittitle>Reports, </unittitle>
-						<unitdate type="inclusive">1926-1979</unitdate>
+						<unitdate type="inclusive" normal="1926/1946">1926-1946</unitdate>
+					</did>
+					<c03 level="item">
+						<did>
+							<container>Folder 16.13</container>
+							<unittitle>Collected Reports, Vol. 1, </unittitle>
+							<unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 16.14</container>
+							<unittitle>Collected Reports, Vol. 2, </unittitle>
+							<unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 16.15</container>
+							<unittitle>Collected Reports, Vol. 3, </unittitle>
+							<unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 16.16</container>
+							<unittitle>Collected Reports, Vol. 4, </unittitle>
+							<unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 17.1</container>
+							<unittitle>Collected Reports, Vol. 5, </unittitle>
+							<unitdate type="inclusive" normal="1930/1931">1930-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 17.2</container>
+							<unittitle>Collected Reports, Vol. 6, </unittitle>
+							<unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 17.3</container>
+							<unittitle>Collected Reports, Vol. 7, </unittitle>
+							<unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 17.4</container>
+							<unittitle>Collected Reports, Vol. 8, </unittitle>
+							<unitdate type="inclusive" normal="1933/1934">1933-1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 17.5</container>
+							<unittitle>Collected Reports, Vol. 9, </unittitle>
+							<unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<container>Folder 17.6</container>
+							<unittitle>President's Reports, </unittitle>
+							<unitdate type="inclusive" normal="1926/1946">1926-1946</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Combined Full Board and Executive Committee Minutes and Reports, </unittitle>
+						<unitdate type="inclusive" normal="1936/2014">1936-2014</unitdate>
 					</did>
 					<c03 level="file">
 						<did>
-							<unittitle><emph render="bold">Reports, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1926-1946</emph></unitdate>
-							<physdesc><emph render="bold">(10 volumes)</emph></physdesc>
+							<container>Folder 17.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="193609/193804">1936 Sep -1938
+								Apr</unitdate>
 						</did>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 1, </unittitle>
-								<unitdate type="inclusive">1926-1927</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 2, </unittitle>
-								<unitdate type="inclusive">1927-1928</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 3, </unittitle>
-								<unitdate type="inclusive">1928-1929</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 4, </unittitle>
-								<unitdate type="inclusive">1929-1930</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 5, </unittitle>
-								<unitdate type="inclusive">1930-1931</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 6, </unittitle>
-								<unitdate type="inclusive">1931-1932</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 7, </unittitle>
-								<unitdate type="inclusive">1932-1933</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 8, </unittitle>
-								<unitdate type="inclusive">1933-1934</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Collected Reports, Vol. 9, </unittitle>
-								<unitdate type="inclusive">1934-1935</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>President's Reports, </unittitle>
-								<unitdate type="inclusive">1926-1946</unitdate>
-							</did>
-						</c04>
 					</c03>
 					<c03 level="file">
 						<did>
-							<unittitle><emph render="bold">Combined Minutes and Reports, </emph></unittitle>
-							<unitdate type="inclusive"><emph render="bold">1935-1979</emph></unitdate>
-							<physdesc><emph render="bold">(40 volumes)</emph></physdesc>
+							<container>Folder 17.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="193805/193906">1938 May - 1939
+								Jun</unitdate>
 						</did>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 1, </unittitle>
-								<unitdate type="inclusive">1935-1940</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 2, </unittitle>
-								<unitdate type="inclusive">1940-1941</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 3, </unittitle>
-								<unitdate type="inclusive">1941-1942</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 4, </unittitle>
-								<unitdate type="inclusive">1942-1943</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 5, </unittitle>
-								<unitdate type="inclusive">1943-1945</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 6, </unittitle>
-								<unitdate type="inclusive">1945-1946</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 7, </unittitle>
-								<unitdate type="inclusive">1946-1947</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 8, </unittitle>
-								<unitdate type="inclusive">1947-1948</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 9, </unittitle>
-								<unitdate type="inclusive">1948-1949</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 10, </unittitle>
-								<unitdate type="inclusive">1949-1950</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 11, </unittitle>
-								<unitdate type="inclusive">1950-1951</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 12, </unittitle>
-								<unitdate type="inclusive">1951-1952</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 13, </unittitle>
-								<unitdate type="inclusive">1952-1953</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 14, </unittitle>
-								<unitdate type="inclusive">1954-1955</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 15, </unittitle>
-								<unitdate type="inclusive">1955-1956</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 16, </unittitle>
-								<unitdate type="inclusive">1956-1957</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 17, </unittitle>
-								<unitdate type="inclusive">1957-1958</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 18, </unittitle>
-								<unitdate type="inclusive">1958-1959</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 19, </unittitle>
-								<unitdate type="inclusive">1959-1960</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 20, </unittitle>
-								<unitdate type="inclusive">1960 Oct - 1961 Jun</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 21, </unittitle>
-								<unitdate type="inclusive">1961 Aug - 1962 Jun</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 22, </unittitle>
-								<unitdate type="inclusive">1962 Jun - 1963 Jun</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 23, </unittitle>
-								<unitdate type="inclusive">1963 Jun - 1964 Mar</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 24, </unittitle>
-								<unitdate type="inclusive">1964 Apr - 1965 Mar</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 25, </unittitle>
-								<unitdate type="inclusive">1965 Mar - Oct</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 26, </unittitle>
-								<unitdate type="inclusive">1965 Oct - 1966 Jun</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 27, </unittitle>
-								<unitdate type="inclusive">1966 Sep - 1967 May</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 28, </unittitle>
-								<unitdate type="inclusive">1967 May - 1968 Jun</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 29, </unittitle>
-								<unitdate type="inclusive">1968 Jun - 1969 Feb</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 30, </unittitle>
-								<unitdate type="inclusive">1969 Jan - Aug</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 31, </unittitle>
-								<unitdate type="inclusive">1969 Sep - Dec</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 32, </unittitle>
-								<unitdate type="inclusive">1970 Jan - May</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 33, </unittitle>
-								<unitdate type="inclusive">1970 Aug - Dec</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 34, </unittitle>
-								<unitdate type="inclusive">1971</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 35, </unittitle>
-								<unitdate type="inclusive">1972</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 36, </unittitle>
-								<unitdate type="inclusive">1973</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 37, </unittitle>
-								<unitdate type="inclusive">1974-1975</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 38, </unittitle>
-								<unitdate type="inclusive">1976</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 39, </unittitle>
-								<unitdate type="inclusive">1977</unitdate>
-							</did>
-						</c04>
-						<c04 level="item">
-							<did>
-								<container>Bound Volumes</container>
-								<unittitle>Vol. 40, </unittitle>
-								<unitdate type="inclusive">1978-1979</unitdate>
-							</did>
-						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 17.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="193909/194002">1939 Sep - 1940
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 17.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194004/194006">1940 Apr -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 17.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194009/194104">1940 Sep - 1941
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 17.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194105/194106">1941 May -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 17.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194107/194202">1941 Jul - 1942
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 17.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194203/194206">1942 Mar -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194209/194212">1942 Sep -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194301/194306">1943 Jan -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194309/194405">1943 Sep - 1944
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194406/194504">1944 Jun - 1945
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194505/194512">1945 May -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194601/194603">1946 Jan -
+								Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194604/194611">1946 Apr -
+								Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194612/194703">1946 Dec - 1947
+								Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194704/194706">1947 Apr -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194709/194801">1947 Sep - 1948
+								Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194802/194805">1948 Feb -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194806/194810">1948 Jun -
+								Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194811/194904">1948 Nov - 1949
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194905/194906">1949 May -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="194907/194912">1949 Jul -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195001/195004">1950 Jan -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195005/195009">1950 May -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.18</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195010/195101">1950 Oct - 1951
+								Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 18.19</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195102/195105">1951 Feb -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195106/195109">1951 Jun -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195110/195201">1951 Oct - 1952
+								Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195202/195205">1952 Feb -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195206/195212">1952 Jun -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195301/195304">1953 Jan -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195305/195306">1953 May -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195309/195402">1953 Sep - 1954
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195403/195406">1954 Mar -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195409/195412">1954 Sep -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195501/195506">1955 Jan -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195508/195512">1955 Aug -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195601/195604">1956 Jan -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195605/195609">1956 May -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195610/195702">1956 Oct - 1957
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195703/195706">1957 Mar -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195709/195712">1957 Sep -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 19.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195801/195804">1958 Jan -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195805/195809">1958 May -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195810/195902">1958 Oct - 1959
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195903/195905">1959 Mar -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195906/195910">1959 Jun -
+								Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="195912/196002">1959 Dec - 1960
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196003/196007">1960 Mar -
+								Jul</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196009/196012">1960 Sep -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196102/196104">1961 Feb -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196105/196108">1961 May -
+								Aug</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196109/196110">1961 Sep -
+								Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196111/196202">1961 Nov - 1962
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196203/196205">1962 Mar -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196206">1962 Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196209/196211">1962 Sep -
+								Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196212/196302">1962 Dec - 1963
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196303/196305">1963 Mar -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 20.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196306/196309">1963 Jun -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196310/196402">1963 Oct - 1964
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196403/196405">1964 Mar -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196406/196409">1964 Jun -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196410/196412">1964 Oct -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196501/196505">1965 Jan -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196506/196509">1965 Jun -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196510/196511">1965 Oct -
+								Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196512/196603">1965 Dec - 1966
+								Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196604/196606">1966 Apr -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196609/196612">1966 Sep -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196701/196703">1967 Jan -
+								Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196704/196706">1967 Apr -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196706/196709">1967 Jun -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196710/196802">1967 Oct - 1968
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196803/196805">1968 Mar -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 21.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196806/196807">1968 Jun -
+								Jul</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196809/196810">1968 Sep -
+								Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196811/196812">1968 Nov -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196901/196902">1969 Jan -
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196903/196904">1969 Mar -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196905/196908">1969 May -
+								Aug</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196909">1969 Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196910/196911">1969 Oct -
+								Nov</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="196912/197001">1969 Dec - 1970
+								Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197002/197004">1970 Feb -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197005/197008">1970 May -
+								Aug</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197009/197012">1970 Sep -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197101/197104">1971 Jan -
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197105/197109">1971 May -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197110/197204">1971 Oct - 1972
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197205/197206">1972 May -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197210/197303">1972 Oct - 1973
+								Mar</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197304/197310">1973 Apr -
+								Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 22.18</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197311/197406">1973 Nov - 1974
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197409/197505">1974 Sep - 1975
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197506/197512">1975 Jun -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197601/197606">1976 Jan -
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197609">1976 Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197610/197702">1976 Oct - 1977
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197703/197709">1977 Mar -
+								Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197710/197804">1977 Oct - 1978
+								Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197805/197812">1978 May -
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197901/197905">1979 Jan -
+								May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="197909/197912">1979 Sep -
+								Dec</unitdate>
+							<physdesc>[empty]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198002">1980 Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198005">1980 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198010">1980 Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 23.14-23.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198012">1980 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198102">1981 Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198105">1981 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.18</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198110">1981 Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.19</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198112">1981 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.20</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198202">1982 Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.21</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198205">1982 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.22</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198210">1982 Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.23</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198212">1982 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.24</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198302">1983 Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.25</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198305">1983 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.26</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198310">1983 Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.27</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198312">1983 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.28</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198402">1984 Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.29</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198405">1984 May</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.30</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198410">1984 Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.31</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198412">1984 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 23.32</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198502">1985 Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 24.1-24.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198505">1985 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198510">1985 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198602">1986 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198605">1986 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198610">1986 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198702">1987 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198705">1987 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198710">1987 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198802">1988 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 24.11-24.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198805">1988 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198810">1988 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198902">1989 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198905">1989 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="198910">1989 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199002">1990 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.18</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199005">1990 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.19</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199010">1990 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.20</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199102">1991 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.21</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199105">1991 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.22</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199110">1991 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.23</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199202">1992 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199205">1992 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199210">1992 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199302">1993 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199305">1993 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199310">1993 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199402">1994 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199405">1994 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199410">1994 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199502">1995 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199505">1995 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199510">1995 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199602">1996 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199605">1996 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199610">1996 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199702">1997 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199705">1997 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199710">1997 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.18</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199802">1998 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.19</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199805">1998 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.20</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199810">1998 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.21</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199902">1999 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.22</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199905">1999 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.23</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="199910">1999 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 25.24</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200002">2000 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200005">2000 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200010">2000 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200102">2001 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200105">2001 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200110">2001 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200202">2002 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200205">2002 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200210">2002 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.9</container>
+							<unittitle>Minutes and Reports - Special Campaign Session, </unittitle>
+							<unitdate type="inclusive" normal="200210">2002 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200302">2003 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200305">2003 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 26.12-26.13</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200310">2003 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200402">2004 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.15</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200405">2004 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200410">2004 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.17</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200502">2005 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.18</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200505">2005 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 26.19</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200510">2005 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 26.20-26.21</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200602">2006 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 26.22-26.23</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200605">2006 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 27.1-27.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200610">2006 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200702">2007 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200705">2007 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 27.5-27.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200710">2007 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200712">2007 Dec</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.8</container>
+							<unittitle>Minutes and Reports - Retreat, </unittitle>
+							<unitdate type="inclusive" normal="200802/200803">2008
+								Feb-Mar</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200805">2008 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.10</container>
+							<unittitle>Minutes and Reports - Executive Committee Meeting, </unittitle>
+							<unitdate type="inclusive" normal="200809">2008 Sep</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200812">2008 Dec</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.12</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200905">2009 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.13</container>
+							<unittitle>Minutes and Reports - Executive Committee Meeting, </unittitle>
+							<unitdate type="inclusive" normal="200909">2009 Sep</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.14</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="200910">2009 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.15</container>
+							<unittitle>Minutes and Reports - Special Meeting, </unittitle>
+							<unitdate type="inclusive" normal="200912">2009 Dec</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.16</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201002">2010 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folders 27.17-27.18</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201005">2010 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.19</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201009">2010 Sep</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.20</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201010">2010 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.21</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201012">2010 Dec</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.22</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201102">2011 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.23</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201105">2011 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.24</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201110">2011 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.25</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201112">2011 Dec</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 27.26</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201202">2012 Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.1</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201205">2012 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.2</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201210">2012 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.3</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201212">2012 Dec</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.4</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201303">2013 Mar</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.5</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201305">2013 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.6</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201309">2013 Sep</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.7</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201310">2013 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.8</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201312">2013 Dec</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.9</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201402/201403">2014
+								Feb-Mar</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.10</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201405">2014 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 28.11</container>
+							<unittitle>Minutes and Reports, </unittitle>
+							<unitdate type="inclusive" normal="201410">2014 Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series2">
 				<did>
 					<unittitle>SERIES II. TRUSTEE COMMITTEES, </unittitle>
-					<unitdate type="inclusive">1861-2006</unitdate>
+					<unitdate type="inclusive" normal="1861/2006">1861-2006</unitdate>
 				</did>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Folder 29.1</container>
 						<unittitle>Audit Committee, </unittitle>
-						<unitdate type="inclusive">1981-2002</unitdate>
+						<unitdate type="inclusive" normal="1981/2002">1981-2002</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 10</container>
+						<container>Folders 29.2-29.12</container>
 						<unittitle>Budget Committee, </unittitle>
-						<unitdate type="inclusive">1958-1989</unitdate>
+						<unitdate type="inclusive" normal="1958/1989">1958-1989</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 10</container>
+						<container>Folders 29.13-29.19</container>
 						<unittitle>Budget and Finance Committee, </unittitle>
-						<unitdate type="inclusive">1989-2002</unitdate>
+						<unitdate type="inclusive" normal="1989/2002">1989-2002</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 11</container>
+						<container>Folders 30.1-30.9</container>
 						<unittitle>Buildings and Grounds Committee, </unittitle>
-						<unitdate type="inclusive">1925-2002</unitdate>
+						<unitdate type="inclusive" normal="1925/2002">1925-2002</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Boxes 15-20</container>
-						<unittitle>Buildings and Grounds Committee — Architectural planning reports and drawings, </unittitle>
-						<unitdate type="inclusive">approximately 1930-2006</unitdate>
+						<container>Box 54</container>
+						<unittitle>Buildings and Grounds Committee — "Alumnae House - Restoration
+							and Mechanical Upgrade," pre-schematic plans, </unittitle>
+						<unitdate type="inclusive" normal="19941121">1994 Nov 21</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Bound Volumes</container>
-						<unittitle>Buildings and Grounds Committee AND Executive Committee Meeting Minutes, </unittitle>
-						<unitdate type="inclusive">1861-1862</unitdate>
+						<container>Folder 52.1</container>
+						<unittitle>Buildings and Grounds Committee — "Avery Courtyard Proposal -
+							Center for Drama and Film" by Balmori Associates, concept art, </unittitle>
+						<unitdate type="inclusive" normal="2000">circa 2000</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 32</container>
+						<container>Box 53</container>
+						<unittitle>Buildings and Grounds Committee — "Avery Hall" by Cesar Pelli
+							&amp; Associates, architectural plans, </unittitle>
+						<unitdate type="inclusive" normal="19940329">1994 Mar 29</unitdate>
+						<physdesc>(11 leaves) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Buildings and Grounds Committee — "Avery Hall" by Cesar Pelli
+							&amp; Associates, architectural plans, </unittitle>
+						<unitdate type="inclusive" normal="1999126">1999 Dec 6</unitdate>
+						<physdesc>(10 boards) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 52.2</container>
+						<unittitle>Buildings and Grounds Committee — Capital Project Executive
+							Summary, </unittitle>
+						<unitdate type="inclusive" normal="20001013">2000 Oct 13</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 55 (Oversize)</container>
+						<unittitle>Buildings and Grounds Committee — Chicago Hall Expansion,
+							architectural plans, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(6 boards) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 48</container>
+						<unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art
+							Center," architectural plans, </unittitle>
+						<unitdate type="inclusive" normal="1989">1989</unitdate>
+						<physdesc>(5 boards) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 49</container>
+						<unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art
+							Center," architectural plans, photographs, and report, </unittitle>
+						<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+						<physdesc>(10 boards) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 52.3</container>
+						<unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art
+							Center - Sculpture Garden" by Balmori Associates, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 54</container>
+						<unittitle>Buildings and Grounds Committee — "Jewett House Renovation Plans"
+							by Herbert S. Newman and Partners, </unittitle>
+						<unitdate type="inclusive" normal="200203">2002 Mar</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 52.4</container>
+						<unittitle>Buildings and Grounds Committee — "The Renovation and Renewal of
+							Jewett House" by Herbert S. Newman and Partners, </unittitle>
+						<unitdate type="inclusive" normal="200210">2002 Oct</unitdate>
+						<physdesc>(3 copies) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 54</container>
+						<unittitle>Buildings and Grounds Committee — "Kenyon Hall Renovation Design
+							Development" by Gluckman Mayner Architects, </unittitle>
+						<unitdate type="inclusive" normal="200206">2002 Jun</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 54</container>
+						<unittitle>Buildings and Grounds Committee — "Kenyon Hall Renovation" by
+							Gluckman Mayner Architects, </unittitle>
+						<unitdate type="inclusive" normal="20021011">2002 Oct 11</unitdate>
+						<physdesc>(3 copies) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 50</container>
+						<unittitle>Buildings and Grounds Committee — Vassar College Art Department
+							and Gallery, architectural plans, </unittitle>
+						<unitdate type="inclusive" normal="19891019">1989 Oct 19</unitdate>
+						<physdesc>(13 boards) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Buildings and Grounds Committee — Vassar College Art Department
+							and Gallery, architectural plans, </unittitle>
+						<unitdate type="inclusive" normal="19891019">1989 Oct 19</unitdate>
+						<physdesc>(7 boards) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 54</container>
+						<unittitle>Buildings and Grounds Committee — "Vassar College Athletics
+							Fields" by Leo A Daly, design plans, </unittitle>
+						<unitdate type="inclusive" normal="200204">2002 Apr</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 51</container>
+						<unittitle>Buildings and Grounds Committee — Vassar College Drama and Film
+							Center, architectural plans, </unittitle>
+						<unitdate type="inclusive" normal="2000">2000</unitdate>
+						<physdesc>(14 boards) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Buildings and Grounds Committee — Vassar College Drama and Film
+							Center by Cesar Pelli &amp; Associates, concept art, </unittitle>
+						<unitdate type="inclusive" normal="2000">2000</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 54</container>
+						<unittitle>Buildings and Grounds Committee — "Vassar College Getty
+							Foundation Heritage Grant - Historic Preservation Manual," Platt Byard
+							Dovell White Architects LLP, </unittitle>
+						<unitdate type="inclusive" normal="20070615">2007 Jun 15</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 52.5</container>
+						<unittitle>Buildings and Grounds Committee — "Vassar College Landscape
+							Master Plan" by Sasaki Associates, Inc., </unittitle>
+						<unitdate type="inclusive" normal="199210">1992 Oct</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 52.6</container>
+						<unittitle>Buildings and Grounds Committee — "Vassar College Landscape
+							Master Plan, Final Report," </unittitle>
+						<unitdate type="inclusive" normal="19880901">1988 Sep 1</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>Buildings and Grounds Committee — Vassar College Libraries
+							renovation, floor plans, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(7 leaves) [RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 54</container>
+						<unittitle>Buildings and Grounds Committee — "Wimpfheimer Nursery School -
+							Draft Building Evaluation Report," </unittitle>
+						<unitdate type="inclusive" normal="200508">2005 Aug</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 52.7</container>
+						<unittitle>Buildings and Grounds Committee — Unidentified interior concept
+							art, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 52.8</container>
+						<unittitle>Buildings and Grounds Committee — Unidentified photograph of
+							indoor basketball courts, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 47</container>
+						<unittitle>Buildings and Grounds Committee AND Executive Committee Meeting
+							Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 30.10</container>
 						<unittitle>Coeducation, Committee on, </unittitle>
-						<unitdate type="inclusive">1973-1975</unitdate>
+						<unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Folder 30.11</container>
 						<unittitle>Education of Women at Vassar, Committee on, </unittitle>
-						<unitdate type="inclusive">1971</unitdate>
+						<unitdate type="inclusive" normal="1971">1971</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 9</container>
+						<container>Folders 30.12-30.13</container>
 						<unittitle>Endowment Committee, </unittitle>
-						<unitdate type="inclusive">1952-1957</unitdate>
+						<unitdate type="inclusive" normal="1952/1957">1952-1957</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 9</container>
+						<container>Folders 30.14-30.17</container>
 						<unittitle>Faculty and Studies Committee, </unittitle>
-						<unitdate type="inclusive">1919-1971</unitdate>
+						<unitdate type="inclusive" normal="1915/1938">1915-1938</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 11</container>
+						<container>Folders 31.1-31.9</container>
+						<unittitle>Faculty and Studies Committee, </unittitle>
+						<unitdate type="inclusive" normal="1938/1971">1938-1971</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folders 31.10-31.16</container>
 						<unittitle>Investments and Finance Committee, </unittitle>
-						<unitdate type="inclusive">1964-1987</unitdate>
+						<unitdate type="inclusive" normal="1964/1984">1964-1984</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 12</container>
+						<container>Folders 32.1-32.9</container>
 						<unittitle>Investments and Finance Committee, </unittitle>
-						<unitdate type="inclusive">1987-1989</unitdate>
+						<unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 12</container>
+						<container>Folders 32.10-32.17</container>
 						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive">1989-1991</unitdate>
+						<unitdate type="inclusive" normal="198903/199105">1989 Mar - 1991
+							May</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 13</container>
+						<container>Folders 33.1-33.17</container>
 						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive">1991-1994</unitdate>
+						<unitdate type="inclusive" normal="199105/199312">1991 May - 1993
+							Dec</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 14</container>
+						<container>Folders 34.1-34.16</container>
 						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive">1994-1998</unitdate>
+						<unitdate type="inclusive" normal="199403/199806">1994 Mar - 1998
+							Jun</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Folders 35.1-35.6</container>
 						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive">1998-2002</unitdate>
+						<unitdate type="inclusive" normal="199809/200205">1998 Sep - 2002
+							May</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Folder 35.7</container>
 						<unittitle>Investor Responsibility Committee, </unittitle>
-						<unitdate type="inclusive">1991-2002</unitdate>
+						<unitdate type="inclusive" normal="1991/2002">1991-2002</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
-						<unittitle>Nominate a President (Alan Simpson), Committee to, </unittitle>
-						<unitdate type="inclusive">1964-1965</unitdate>
+						<container>Folder 36.42</container>
+						<unittitle>Joint Committee with the Faculty, </unittitle>
+						<unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Folder 35.8</container>
+						<unittitle>Nominate a President (Alan Simpson), Committee to, </unittitle>
+						<unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 35.9</container>
 						<unittitle>Nominations Committee, </unittitle>
-						<unitdate type="inclusive">1984 Dec</unitdate>
+						<unitdate type="inclusive" normal="198412">1984 Dec</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series3">
 				<did>
 					<unittitle>SERIES III. SECRETARY'S FILES, </unittitle>
-					<unitdate type="inclusive">1931-2005</unitdate>
+					<unitdate type="inclusive" normal="1937/2005">1937-2005</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle>Set 1, </unittitle>
-						<unitdate>1931-1951</unitdate>
+						<unittitle>Set 1 - Subject Files, </unittitle>
+						<unitdate type="inclusive" normal="1937/1951">1937-1951</unitdate>
 					</did>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Advisory System</unittitle>
+							<container>Folder 35.10</container>
+							<unittitle>Advisory System, </unittitle>
+							<unitdate type="inclusive" normal="1943">1943</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Agenda</unittitle>
+							<container>Folder 35.11</container>
+							<unittitle>Agendas for Board of Trustee Meetings, </unittitle>
+							<unitdate type="inclusive" normal="1942/1950">1942-1950</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Alumnae Committee of Seven Colleges</unittitle>
+							<container>Folder 35.12</container>
+							<unittitle>Alumnae Committee of Seven Colleges, </unittitle>
+							<unitdate type="inclusive" normal="1937/1943">1937-1943</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Alumnae House</unittitle>
+							<container>Folder 35.13</container>
+							<unittitle>Alumnae House, </unittitle>
+							<unitdate type="inclusive" normal="1938/1942">1938-1942</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Budget Committee</unittitle>
+							<container>Folder 35.14</container>
+							<unittitle>Budget Committee, </unittitle>
+							<unitdate type="inclusive" normal="1943/1950">1943-1950</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Buildings and Grounds</unittitle>
-							<physdesc>(2 folders)</physdesc>
+							<container>Folder 35.15</container>
+							<unittitle>Buildings and Grounds, </unittitle>
+							<unitdate type="inclusive" normal="1938/1951">1938-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Business Administration, Committee on</unittitle>
+							<container>Folder 35.16</container>
+							<unittitle>Business Administration, Committee on, </unittitle>
+							<unitdate type="inclusive" normal="1949/1950">1949-1950</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>By-Laws</unittitle>
+							<container>Folder 35.17</container>
+							<unittitle>By-Laws, </unittitle>
+							<unitdate type="inclusive" normal="1939/1942">1939-1942</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Calendar</unittitle>
+							<container>Folder 35.18</container>
+							<unittitle>Calendar, </unittitle>
+							<unitdate type="inclusive" normal="1944/1946">1944-1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Chairman of the Board of Trustees</unittitle>
+							<container>Folder 35.19</container>
+							<unittitle>Chairman of the Board of Trustees, </unittitle>
+							<unitdate type="inclusive" normal="1939/1947">1939-1947</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Chaplaincy</unittitle>
+							<container>Folder 35.20</container>
+							<unittitle>Chaplaincy, </unittitle>
+							<unitdate type="inclusive" normal="1938/1945">1938-1945</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Comparative Expenditures</unittitle>
+							<container>Folder 35.21</container>
+							<unittitle>Comparative Expenditures, </unittitle>
+							<unitdate type="inclusive" normal="1937/1941">1937-1941</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Communications</unittitle>
+							<container>Folder 35.22</container>
+							<unittitle>Communications, </unittitle>
+							<unitdate type="inclusive" normal="1937/1950">1937-1950</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Comptroller</unittitle>
+							<container>Folder 35.23</container>
+							<unittitle>Comptroller, </unittitle>
+							<unitdate type="inclusive" normal="1946/1951">1946-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Conferences with Faculty</unittitle>
+							<container>Folder 35.24</container>
+							<unittitle>Conferences with Faculty, </unittitle>
+							<unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Cooperative Houses and Cooperative Systems</unittitle>
+							<container>Folder 35.25</container>
+							<unittitle>Cooperative Houses / Self-Help Houses, </unittitle>
+							<unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Dinner Meetings</unittitle>
+							<container>Folder 35.26</container>
+							<unittitle>Dinner Meetings, </unittitle>
+							<unitdate type="inclusive" normal="1938/1946">1938-1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Economies</unittitle>
+							<container>Folder 35.27</container>
+							<unittitle>Economies, </unittitle>
+							<unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Endowment</unittitle>
+							<container>Folder 35.28</container>
+							<unittitle>Endowment, </unittitle>
+							<unitdate type="inclusive" normal="1938/1950">1938-1950</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Euthenics</unittitle>
+							<container>Folder 35.29</container>
+							<unittitle>Euthenics, </unittitle>
+							<unitdate type="inclusive" normal="1938/1942">1938-1942</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Executive Committee Recommendations</unittitle>
+							<container>Folder 35.30</container>
+							<unittitle>Executive Committee Recommendations, </unittitle>
+							<unitdate type="inclusive" normal="1937/1944">1937-1944</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Faculty and Studies</unittitle>
+							<container>Folder 35.31</container>
+							<unittitle>Faculty and Studies Committee, </unittitle>
+							<unitdate type="inclusive" normal="1937/1951">1937-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Faculty Club Committee and Faculty Representation</unittitle>
+							<container>Folder 35.32</container>
+							<unittitle>Faculty Club Committee and Faculty Representation, </unittitle>
+							<unitdate type="inclusive" normal="1939/1943">1939-1943</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Faculty Representation on the Board of Trustees</unittitle>
+							<container>Folder 35.33</container>
+							<unittitle>Faculty Representation on the Board of Trustees, </unittitle>
+							<unitdate type="inclusive" normal="1942">1942</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Faculty Salaries and Benefits</unittitle>
+							<container>Folder 35.34</container>
+							<unittitle>Faculty Salaries and Benefits, </unittitle>
+							<unitdate type="inclusive" normal="1943/1947">1943-1947</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Former Trustees Still Leaving</unittitle>
+							<container>Folder 35.35</container>
+							<unittitle>Former Trustees Still Leaving, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>General Manager</unittitle>
+							<container>Folder 35.36</container>
+							<unittitle>General Manager, </unittitle>
+							<unitdate type="inclusive" normal="1937/1951">1937-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Gifts</unittitle>
+							<container>Folder 35.37</container>
+							<unittitle>Gifts, </unittitle>
+							<unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Governance</unittitle>
+							<container>Folder 35.38</container>
+							<unittitle>Governance, </unittitle>
+							<unitdate type="inclusive" normal="1943">1943</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Health</unittitle>
+							<container>Folder 35.39</container>
+							<unittitle>Health, </unittitle>
+							<unitdate type="inclusive" normal="1939/1941">1939-1941</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Helen Kenyon Lectureship Fund</unittitle>
+							<container>Folder 35.40</container>
+							<unittitle>Helen Kenyon Lectureship Fund, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Housing</unittitle>
+							<container>Folder 35.41</container>
+							<unittitle>Housing, </unittitle>
+							<unitdate type="inclusive" normal="1939/1946">1939-1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Investments and Finance</unittitle>
+							<container>Folder 35.42</container>
+							<unittitle>Interior Decorator, </unittitle>
+							<unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Interior Decorator</unittitle>
+							<container>Folder 35.43</container>
+							<unittitle>Investments and Finance, </unittitle>
+							<unitdate type="inclusive" normal="1937/1951">1937-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Lisburne Grange</unittitle>
+							<container>Folder 35.44</container>
+							<unittitle>Lisburne Grange, </unittitle>
+							<unitdate type="inclusive" normal="1946">1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Maintenance Funds</unittitle>
+							<container>Folder 35.45</container>
+							<unittitle>Maintenance Funds, </unittitle>
+							<unitdate type="inclusive" normal="1938">1938</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Medical Examinations</unittitle>
+							<container>Folder 35.46</container>
+							<unittitle>Medical Examinations, </unittitle>
+							<unitdate type="inclusive" normal="1939">1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Memorial Tablets</unittitle>
+							<container>Folder 35.47</container>
+							<unittitle>Memorial Tablets, </unittitle>
+							<unitdate type="inclusive" normal="1937/1940">1937, 1940</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Mortgages</unittitle>
+							<container>Folder 35.48</container>
+							<unittitle>Mortgages, </unittitle>
+							<unitdate type="inclusive" normal="1939">1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Nominations</unittitle>
+							<container>Folder 35.49</container>
+							<unittitle>Nominations, Committee on, </unittitle>
+							<unitdate type="inclusive" normal="1938/1949">1938-1949</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>President Blanding</unittitle>
+							<container>Folder 35.50</container>
+							<unittitle>President Blanding to the Board of Trustees, </unittitle>
+							<unitdate type="inclusive" normal="1945/1951">1945-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>President MacCracken</unittitle>
+							<container>Folder 36.1</container>
+							<unittitle>President MacCracken, </unittitle>
+							<unitdate type="inclusive" normal="1937/1946">1937-1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Publications of Faculty</unittitle>
+							<container>Folder 36.2</container>
+							<unittitle>Publications of Faculty, </unittitle>
+							<unitdate type="inclusive" normal="1937/1942">1937-1942</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Refugess Scholars</unittitle>
+							<container>Folder 36.3</container>
+							<unittitle>Refugee Scholars, </unittitle>
+							<unitdate type="inclusive" normal="1939">1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Resolutions</unittitle>
+							<container>Folder 36.4</container>
+							<unittitle>Resolutions, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Scholarships</unittitle>
+							<container>Folder 36.5</container>
+							<unittitle>Scholarships, </unittitle>
+							<unitdate type="inclusive" normal="1938/1947">1938-1947</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Self Help Houses</unittitle>
+							<container>Folder 36.6</container>
+							<unittitle>Seven College Conference, </unittitle>
+							<unitdate type="inclusive" normal="1942">1942</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Seven College Conference</unittitle>
+							<container>Folder 36.7</container>
+							<unittitle>Seventy-Fifth Anniversary, </unittitle>
+							<unitdate type="inclusive" normal="1938/1940">1938-1940</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Seventy-Fifth Anniversary</unittitle>
+							<container>Folder 36.8</container>
+							<unittitle>Social Museum, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Social Museum</unittitle>
+							<container>Folder 36.9</container>
+							<unittitle>Three Year Program, </unittitle>
+							<unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Three Year Program</unittitle>
+							<container>Folder 36.10</container>
+							<unittitle>Treasurer's Reports to the Board of Trustees, </unittitle>
+							<unitdate type="inclusive" normal="193706/194510">1937 Jun - 1945
+								Oct</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Treasurer</unittitle>
-							<physdesc>(2 folders)</physdesc>
+							<container>Folder 36.11</container>
+							<unittitle>Treasurer's Reports to the Board of Trustees, </unittitle>
+							<unitdate type="inclusive" normal="194602/195105">1946 Feb - 1951
+								May</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Trustee Committees</unittitle>
+							<container>Folder 36.12</container>
+							<unittitle>Trustee Committee Lists, </unittitle>
+							<unitdate type="inclusive" normal="1938/1947">1938-1947</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Tuition</unittitle>
+							<container>Folder 36.13</container>
+							<unittitle>Tuition, </unittitle>
+							<unitdate type="inclusive" normal="1945">1945</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Undergraduate Life Committee</unittitle>
+							<container>Folder 36.14</container>
+							<unittitle>Undergraduate Life Committee, </unittitle>
+							<unitdate type="inclusive" normal="1937/1951">1937-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Vassar Institute — War Time Community Service</unittitle>
+							<container>Folder 36.15</container>
+							<unittitle>Vassar Institute — War Time Community Service, </unittitle>
+							<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Veterans</unittitle>
+							<container>Folder 36.16</container>
+							<unittitle>Veterans, </unittitle>
+							<unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>World Youth Conference</unittitle>
+							<container>Folder 36.17</container>
+							<unittitle>World Youth Conference, </unittitle>
+							<unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 1</container>
-							<unittitle>Miscellaneous</unittitle>
+							<container>Folder 36.18</container>
+							<unittitle>Miscellaneous, </unittitle>
+							<unitdate type="inclusive" normal="1940/1947">1940-1947</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle>Set 2, </unittitle>
-						<unitdate type="inclusive">1980-2005</unitdate>
+						<unittitle>Set 2 - Subject Files, </unittitle>
+						<unitdate type="inclusive" normal="1977/1989">1977-1989</unitdate>
 					</did>
 					<c03 level="file">
 						<did>
-							<container>Box 2</container>
-							<unitdate type="inclusive">Oct 1980 - Feb 1982</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 3</container>
-							<unitdate type="inclusive">May 1982- Dec 1983</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 4</container>
-							<unitdate type="inclusive">Dec 1983 - Jan 1985</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 5</container>
-							<unitdate type="inclusive">Feb 1985 - Aug 1987</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 6</container>
-							<unitdate type="inclusive">Feb 1988 - Oct 1991</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 7</container>
-							<unitdate type="inclusive">Feb 1992 - Feb 1998</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 8</container>
-							<unitdate type="inclusive">May 1998 - Feb 2004</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 29</container>
-							<unitdate type="inclusive">May 2004 - May 2005</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Set 3, </unittitle>
-						<unitdate type="inclusive">1982-1989</unitdate>
-					</did>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
+							<container>Folder 36.19</container>
 							<unittitle>Castle in Brissac, </unittitle>
-							<unitdate type="inclusive">1982-1985</unitdate>
+							<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 21</container>
-							<unittitle>New York State Liquor License, </unittitle>
-							<unitdate type="inclusive">1983-1989</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Nursery School, </unittitle>
-							<unitdate type="inclusive">1983</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Sunrise Lane, </unittitle>
-							<unitdate type="inclusive">1983</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Trustee Minutes — Access, </unittitle>
-							<unitdate type="inclusive">1984</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Urban Center, </unittitle>
-							<unitdate type="inclusive">1983</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Presidential Review, </unittitle>
-							<unitdate type="inclusive">1984-1985</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Grants, </unittitle>
-							<unitdate type="inclusive">1985</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Mailings to Trustees, </unittitle>
-							<unitdate type="inclusive">1982-1985</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Reports, </unittitle>
-							<unitdate type="inclusive">May 1986</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Committees — Executive Committee, </unittitle>
-							<unitdate type="inclusive">1983-1985</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
+							<container>Folder 36.29</container>
 							<unittitle>Committees — Advisory Group on Coeducation, </unittitle>
-							<unitdate type="inclusive">1984</unitdate>
+							<unitdate type="inclusive" normal="1984">1984</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 21</container>
+							<container>Folders 36.30-36.31</container>
+							<unittitle>Committees — Executive Committee, </unittitle>
+							<unitdate type="inclusive" normal="1983/1985">1983-1985</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.32</container>
 							<unittitle>Committees — Governance Committee, </unittitle>
-							<unitdate type="inclusive">1982-1984</unitdate>
+							<unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 21</container>
+							<container>Folder 36.33</container>
 							<unittitle>Committees — Investments and Finance Committee, </unittitle>
-							<unitdate type="inclusive">1982-1986</unitdate>
+							<unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate>
 							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 21</container>
-							<unittitle>Committees — Personnel Committee, </unittitle>
-							<unitdate type="inclusive">1984</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Committees — President Search Committee, </unittitle>
-							<unitdate type="inclusive">1985</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Committees — Committee on Religious Life, </unittitle>
-							<unitdate type="inclusive">1985-1986</unitdate>
-							<physdesc>[RESTRICTED]</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
+							<container>Folder 36.34</container>
 							<unittitle>Committees — Investor Responsibility Committee, </unittitle>
-							<unitdate type="inclusive">1985</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Box 21</container>
-							<unittitle>Committees — Minority Affairs Committee, </unittitle>
-							<unitdate type="inclusive">1989</unitdate>
+							<unitdate type="inclusive" normal="1985">1985</unitdate>
 							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 21</container>
+							<container>Folder 36.35</container>
+							<unittitle>Committees — Minority Affairs Committee, </unittitle>
+							<unitdate type="inclusive" normal="1989">1989</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.36</container>
 							<unittitle>Committees — Nominations Committee, </unittitle>
-							<unitdate type="inclusive">1983-1985</unitdate>
+							<unitdate type="inclusive" normal="1977/1985">1977-1985</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 21</container>
+							<container>Folder 36.37</container>
+							<unittitle>Committees — Personnel Committee, </unittitle>
+							<unitdate type="inclusive" normal="1984">1984</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.38</container>
+							<unittitle>Committees — President Search Committee, </unittitle>
+							<unitdate type="inclusive" normal="1985">1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.39</container>
+							<unittitle>Committees — Committee on Religious Life, </unittitle>
+							<unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.40</container>
 							<unittitle>Committees — Student Conference Committee, </unittitle>
-							<unitdate type="inclusive">1984</unitdate>
+							<unitdate type="inclusive" normal="1984">1984</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Box 21</container>
+							<container>Folder 36.41</container>
 							<unittitle>Committees — Student Life Committee, </unittitle>
-							<unitdate type="inclusive">1984</unitdate>
+							<unitdate type="inclusive" normal="1984">1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.20</container>
+							<unittitle>Grants, </unittitle>
+							<unitdate type="inclusive" normal="1985">1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.21</container>
+							<unittitle>Mailings to Trustees, </unittitle>
+							<unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.22</container>
+							<unittitle>New York State Liquor License, </unittitle>
+							<unitdate type="inclusive" normal="1983/1989">1983-1989</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.23</container>
+							<unittitle>Nursery School, </unittitle>
+							<unitdate type="inclusive" normal="1983">1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.24</container>
+							<unittitle>Presidential Review, </unittitle>
+							<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.25</container>
+							<unittitle>Reports, </unittitle>
+							<unitdate type="inclusive" normal="198605">1986 May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.26</container>
+							<unittitle>Sunrise Lane, </unittitle>
+							<unitdate type="inclusive" normal="1983">1983</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.27</container>
+							<unittitle>Trustee Minutes — Access, </unittitle>
+							<unitdate type="inclusive" normal="1984">1984</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 36.28</container>
+							<unittitle>Urban Center, </unittitle>
+							<unitdate type="inclusive" normal="1983">1983</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Set 3 - Board of Trustees Minutes, </unittitle>
+						<unitdate type="inclusive" normal="1980/2005">1980-2005</unitdate>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 37</container>
+							<unittitle>Board of Trustees and Executive Committee Minutes, </unittitle>
+							<unitdate type="inclusive" normal="198010/198202">1980 Oct - 1982
+								Feb</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 38</container>
+							<unittitle>Board of Trustees and Executive Committee Minutes, </unittitle>
+							<unitdate type="inclusive" normal="198205/198312">1982 May - 1983
+								Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 39</container>
+							<unittitle>Board of Trustees and Executive Committee Minutes, </unittitle>
+							<unitdate type="inclusive" normal="198312/198501">1983 Dec - 1985
+								Jan</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 40</container>
+							<unittitle>Board of Trustees and Executive Committee Minutes, </unittitle>
+							<unitdate type="inclusive" normal="198502/198708">1985 Feb - 1987
+								Aug</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 41</container>
+							<unittitle>Board of Trustees and Executive Committee Minutes, </unittitle>
+							<unitdate type="inclusive" normal="198802/199110">1988 Feb - 1991
+								Oct</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 42</container>
+							<unittitle>Board of Trustees and Executive Committee Minutes, </unittitle>
+							<unitdate type="inclusive" normal="199202/199802">1992 Feb - 1998
+								Feb</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 43</container>
+							<unittitle>Board of Trustees and Executive Committee Minutes, </unittitle>
+							<unitdate type="inclusive" normal="199805/200505">1998 May - 2005
+								May</unitdate>
+							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
 				</c02>
@@ -1767,142 +3648,152 @@
 			<c01 level="series" id="series4">
 				<did>
 					<unittitle>SERIES IV. MISCELLANEOUS, </unittitle>
-					<unitdate type="inclusive">1868-2014</unitdate>
+					<unitdate type="inclusive" normal="1868/2006">1868-2006</unitdate>
 				</did>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 22</container>
-						<unittitle>Trustee Packets, </unittitle>
-						<unitdate type="inclusive">1980-1989</unitdate>
+						<container>Folder 36.42</container>
+						<unittitle>Biographies of Trustees, </unittitle>
+						<unitdate type="inclusive" normal="1987/1988">circa 1987-1988</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 23</container>
-						<unittitle>Trustee Packets, </unittitle>
-						<unitdate type="inclusive">1990-2005</unitdate>
+						<container>Folders 36.43-36.46</container>
+						<unittitle>Biographies of Trustees, </unittitle>
+						<unitdate type="inclusive" normal="1993/1996">1993-1996</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 25</container>
-						<unittitle>Trustee Packets, </unittitle>
-						<unitdate type="inclusive">2006-2012</unitdate>
+						<container>Folders 36.47-36.50</container>
+						<unittitle>Biographies of Trustees, </unittitle>
+						<unitdate type="inclusive" normal="1999/2002">1999-2002</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 31</container>
-						<unittitle>Trustee Packets, </unittitle>
-						<unitdate type="inclusive">2012-2014</unitdate>
+						<container>Folders 36.51-36.52</container>
+						<unittitle>Biographies of Trustees, </unittitle>
+						<unitdate type="inclusive" normal="2004/2005">2004-2005</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 24</container>
-						<unittitle>Trustee Packets, </unittitle>
-						<unitdate type="inclusive">1983-1998</unitdate>
-						<physdesc>(second copies) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 30</container>
-						<unittitle>Trustee Packets, </unittitle>
-						<unitdate type="inclusive">1998-2009</unitdate>
-						<physdesc>(second copies) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Boxes 26-27</container>
-						<unittitle>Card file index to the minutes — Full board, </unittitle>
-						<unitdate type="inclusive">approximately 1930-1995</unitdate>
+						<container>Box 44</container>
+						<unittitle>Card file index to Minutes of the Full board, A-L, </unittitle>
+						<unitdate type="inclusive" normal="1930/1995">approximately
+							1930-1995</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Boxes 27-28</container>
-						<unittitle>Card file index to the minutes — Executive Committee, </unittitle>
-						<unitdate type="inclusive">approximately 1930-1995</unitdate>
+						<container>Box 45</container>
+						<unittitle>Card file index to Minutes of the Full board, M-Z, </unittitle>
+						<unitdate type="inclusive" normal="1930/1995">approximately
+							1930-1995</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 15</container>
-						<unittitle>Resolutions made upon death of Matthew Vassar, </unittitle>
-						<unitdate type="inclusive">26 June 1868</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 21</container>
-						<unittitle>Notices of Executive Committee Meetings, </unittitle>
-						<unitdate type="inclusive">1903-1906, 1908-1919</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 21</container>
-						<unittitle>Nelson Report, </unittitle>
-						<unitdate type="inclusive">1975</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 21</container>
-						<unittitle>Trustee Biographies, </unittitle>
-						<unitdate type="inclusive">approximately 1987-2005</unitdate>
+						<container>Box 45</container>
+						<unittitle>Card file index to Minutes of the Executive Committee, A-C, </unittitle>
+						<unitdate type="inclusive" normal="1930/1995">approximately
+							1930-1995</unitdate>
 						<physdesc>[RESTRICTED]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Box 46</container>
+						<unittitle>Card file index to Minutes of the Executive Committee, D-Z, </unittitle>
+						<unitdate type="inclusive" normal="1930/1995">approximately
+							1930-1995</unitdate>
+						<physdesc>[RESTRICTED]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.53</container>
+						<unittitle>"Coeducation: A Special Report on Admission," </unittitle>
+						<unitdate type="inclusive" normal="19741007">1974 Oct 7</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.54</container>
 						<unittitle>Eugenie Havemeyer's papers related to Yale/Vassar, </unittitle>
-						<unitdate type="inclusive">1967</unitdate>
+						<unitdate type="inclusive" normal="1967">1967</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 32</container>
-						<unittitle>Frances D. Fergusson Farewell Dinner photographs, </unittitle>
-						<unitdate type="inclusive">2006</unitdate>
-						<physdesc>[compact disc]</physdesc>
+						<container>Folder 36.55</container>
+						<unittitle>Frances D. Fergusson Farewell Dinner Photographs, </unittitle>
+						<unitdate type="inclusive" normal="2006">2006</unitdate>
+						<physdesc>(compact disc)</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Folder 36.56</container>
 						<unittitle>Harriet Taylor Mauk, </unittitle>
-						<unitdate type="inclusive">1950-1951</unitdate>
+						<unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
-						<unittitle>Miscellaneous, </unittitle>
-						<unitdate type="inclusive">1964-1968</unitdate>
+						<container>Folder 36.57</container>
+						<unittitle>Investments - South Africa, </unittitle>
+						<unitdate type="inclusive" normal="1978">1978</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
-						<unittitle>Miscellaneous, </unittitle>
-						<unitdate type="inclusive">1973</unitdate>
+						<container>Folder 36.58</container>
+						<unittitle>Meeting Agendas, </unittitle>
+						<unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 21</container>
+						<container>Folder 36.59</container>
+						<unittitle>Nelson Report, </unittitle>
+						<unitdate type="inclusive" normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.60</container>
+						<unittitle>Notices of Executive Committee Meetings, </unittitle>
+						<unitdate type="inclusive" normal="1903/1919">1903-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.61</container>
 						<unittitle>Miscellaneous, </unittitle>
-						<unitdate type="inclusive">1977-1978</unitdate>
+						<unitdate type="inclusive" normal="1973">1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 36.62</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1977">1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 53</container>
+						<unittitle>"Resolutions made upon the death of Matthew Vassar," </unittitle>
+						<unitdate type="inclusive" normal="18680626">1868 Jun 26</unitdate>
 					</did>
 				</c02>
 			</c01>

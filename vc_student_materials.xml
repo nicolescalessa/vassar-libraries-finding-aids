@@ -32,7 +32,7 @@
 			<unitdate type="inclusive" normal="1859/1989" certainty="approximate"
 				label="Inclusive Dates:" encodinganalog="245$f">1859 - circa 1989</unitdate>
 			<unitdate type="bulk" normal="1867/1950" label="Bulk Dates:" encodinganalog="245$f">1867-1950</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">approximately 248 cubic feet (214 boxes, 697 volumes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 248 cubic feet (213 boxes, 697 volumes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -200,11 +200,11 @@
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
 			<p>Encoded by Elizabeth Clarke and Laura Streett, April 2008. Updated by Mark Seidl,
-				November 2019-January 2020. Updated by Emma Gronbeck, November 2022 - October 2023.</p>
+				November 2019-January 2020. Updated by Emma Gronbeck, November 2022 - October January 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Original processing date unknown. Last updated by Emma Gronbeck, October 2023.</p>
+			<p>Original processing date unknown. Last updated by Emma Gronbeck, January 2025.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
@@ -233,8 +233,8 @@
 				<did>
 					<unittitle>
 						<ref target="series1">Series I.</ref> Account Books and Bills, </unittitle>
-					<unitdate type="inclusive" normal="1882/1941" certainty="approximate">circa
-						1882-1941</unitdate>
+					<unitdate type="inclusive" normal="1882/1955" certainty="approximate">circa
+						1882-1955</unitdate>
 					<physdesc>[0.4 cubic feet (2 boxes)]</physdesc>
 				</did>
 			</c01>
@@ -269,7 +269,7 @@
 						<ref target="series5">Series V.</ref> Letters, </unittitle>
 					<unitdate type="inclusive" normal="1859/1960" certainty="approximate">1859 -
 						circa 1960</unitdate>
-					<physdesc>[22.2 cubic feet (115 boxes)]</physdesc>
+					<physdesc>[22.4 cubic feet (114 boxes)]</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -329,8 +329,8 @@
 			<c01 level="series" id="series1">
 				<did>
 					<unittitle>SERIES I. ACCOUNT BOOKS and BILLS, </unittitle>
-					<unitdate type="inclusive" normal="1882/1941" certainty="approximate">circa
-						1882-1941</unitdate>
+					<unitdate type="inclusive" normal="1882/1955" certainty="approximate">circa
+						1882-1955</unitdate>
 				</did>
 				<c02 level="item">
 					<did>
@@ -402,6 +402,13 @@
 					<did>
 						<container>Box 181</container>
 						<unittitle>VC 1941 — Richards, Martha (Dilks)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1958 — Payne, Belinda J. Pope — Invoices, </unittitle>
+						<unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate>
 					</did>
 				</c02>
 			</c01>
@@ -601,6 +608,13 @@
 						<unittitle>VC 1870 — Coffin, Elizabeth R., </unittitle>
 						<unitdate type="inclusive" normal="1870" certainty="approximate">circa
 							1870</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1870 — Morgan, Lillie Merrick, </unittitle>
+						<unitdate type="inclusive" normal="1866/1870">1866-1870</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
@@ -1264,6 +1278,13 @@
 								href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-student-diaries/brydon-anne-page-diary-1923"
 								>VC 1925 — Brydon, Anne Page</archref>, </unittitle>
 						<unitdate type="inclusive" normal="1923">1923</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1925 — Jacoby, Ruth Burtner, </unittitle>
+						<unitdate type="inclusive" normal="1922/1925">1922-1925</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
@@ -2399,7 +2420,7 @@
 				</c02>
 				<c02 level="file">
 					<did>
-						<container>Box 214</container>
+						<container>Box 212</container>
 						<unittitle>VC 1896 — Johnson, Mignonette Bird — to family, </unittitle>
 						<unitdate type="inclusive" normal="189212/189505">1892 December - 1895 May</unitdate>
 						<physdesc>(5 folders, 82 letters)</physdesc>
@@ -3435,6 +3456,49 @@
 				</c02>
 				<c02 level="file">
 					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — to and from family, </unittitle>
+						<unitdate type="inclusive" normal="1945">1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — from family, </unittitle>
+						<unitdate type="inclusive" normal="1946">1946</unitdate>
+						<physdesc>(2 folders)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — to family, </unittitle>
+						<unitdate type="inclusive" normal="1946">1946</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — from family, </unittitle>
+						<unitdate type="inclusive" normal="1947">1947</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — Miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1945/1950">1945-1950, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — to and from family, </unittitle>
+						<unitdate type="inclusive" normal="1945">1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
 						<container>Box 182</container>
 						<unittitle>VC 1952 — Jones, Jane (DeWalt) — to family, </unittitle>
 						<unitdate type="inclusive" normal="1948/1952">1948-1952</unitdate>
@@ -3452,6 +3516,13 @@
 						<container>Box 211</container>
 						<unittitle>VC 1957 — Alexander, Leah McClement — to mother, </unittitle>
 						<unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1958 — Payne, Belinda J. Pope — to father, </unittitle>
+						<unitdate type="inclusive" normal="19550111">1955 Jan 11</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
@@ -4860,6 +4931,13 @@
 						<unitdate type="inclusive" normal="1936/1940" certainty="approximate">circa
 							1936-1940</unitdate>
 					</did>
+				</c02>
+			<c02 level="file">
+				<did>
+					<container>Box 212</container>
+					<unittitle>VC 1949 — Birmingham, Barbara Price — English, Latin, and Music, </unittitle>
+					<unitdate type="inclusive" normal="1945/1950">1945-1950</unitdate>
+				</did>
 				</c02>
 				<c02 level="file">
 					<did>

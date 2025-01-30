@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vc_treasurer</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Vassar College Office of the Treasurer Records, 1861-1973 (bulk 1861-1934)</titleproper>
+				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
+				<address>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY 12604-0020</addressline>
+				</address>
+				<date>February 2025</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Emma Gronbeck, <date>February 2025</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100">
+				<corpname>Vassar College. Office of the Treasurer</corpname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">Vassar College Office of the Treasurer Records</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1861-1973</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1861-1934</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 48 cubic feet (155 volumes, 29 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+			</repository>
+			<abstract label="Abstract:" encodinganalog="520$a">This collection contains materials
+				relating to the financial and business operations of Vassar College, primarily
+				records kept by the Treasurer, Cashier, Accountant, and other administrators involved
+				in college expenses and accounts.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Administrative History</head>
+			<p>The position of College Treasurer was established in 1861 as an officer of the Vassar College Board of Trustees, with Matthew Vassar, Jr.,
+				serving as the first Treasurer from 1861 until his death in 1881. The Treasurer managed most of Vassar College's finances until 1922, when the position of Comptroller (later renamed
+				Controller in 1991) was established. The Comptroller reported to the Treasurer until 1927, when it became its own office, separate from the
+				Treasurer. The position of Cashier was not officially established until 1931,
+				reporting to the Comptroller.</p>
+			<p>In 1966, the Vice President of Finance and
+				Administration was created to oversee a number of financial roles for the college.
+				The Office of the Comptroller was overseen at various times between 1966 and 1985 by
+				either the Vice President of Finance and Administration or the Office of the Treasurer.</p>
+			<list>
+				<head>
+					<emph render="bold">Chronology of Vassar College Treasurers, 1861-1962</emph>
+				</head>
+				<item>Matthew Vassar, Jr., 1861-1881 (Treasurer)</item>
+				<item>Willard L. Dean, 1882-1883 (Registrar and Assistant Treasurer)</item>
+				<item>Willard L. Dean, 1883-1893 (Treasurer and Registrar)</item>
+				<item>Willard L. Dean, 1893-1898 Oct (Treasurer and Secretary to the Board of Trustees)</item>
+				<item>Edward Elsworth, 1898-1903 (Treasurer and Secretary to the Board of Trustees)</item>
+				<item>Edward Elsworth, 1903-1910 (Treasurer)</item>
+				<item>Henry V. Pelton, 1910-1911 (Treasurer)</item>
+				<item>Will Hazen Boughton, C.E., 1911-1915 (Treasurer)</item>
+				<item>George Washington Polk, 1912-1921 (Assistant Treasurer)</item>
+				<item>George Washington Polk, 1921-1922 (Acting Treasurer; promoted to Comptroller in 1922)</item>
+				<item>Herbert Reed Gurney, A.B., 1915-1921 (Treasurer)</item>
+				<item>Arthur L. Lesher, 1922-1927 (Treasurer)</item>
+				<item>Ray Morris, 1927-1928 (Treasurer)</item>
+				<item>Raymond G. Guernsey, 1928-1940 (Treasurer and Counsel)</item>
+				<item>David G. Dutton, 1940-1941 (Treasurer)</item>
+				<item>John Wilkie, 1941-1962 (Treasurer)</item>
+				<item>George T. Welch, 1941-1962 (Assistant Treasurer)</item>
+				<item>George T. Welch, 1962- (Treasurer)</item>
+			</list>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection contains materials relating to the financial and business operations
+				of Vassar College, primarily records kept by the Treasurer, Cashier, Accountant, and
+				other administrators involved in college expenses and accounts. Records include
+				financial ledgers and journals, including: cash books; day books; account ledgers
+				for students, offices, departments, and businesses with whom Vassar obtained goods
+				or services; deposit book; expense books; investment books; and other miscellaneous
+				bookkeeping records. Also included are receipts and vouchers of financial
+				transactions, as well as correspondence of the treasurer and other administrators
+				under the purview of the Office of the Treasurer.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>Organized into three series: Series I. Financial Record Books, 1861-1973; Series II.
+				Receipts and Vouchers, [1865?] - circa 1902; and Series III. Administrative Files,
+				1876-1925.</p>
+		</arrangement>
+		<accessrestrict encodinganalog="506">
+			<head>Access</head>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Restrictions on Use</head>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library
+				</extref>.</p>
+		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref href="">Vassar College Office of the Controller</archref></p>
+			<p><archref href="">Vassar College Vice President of Finance and Administration</archref></p>
+		</relatedmaterial>
+		<controlaccess>
+			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="local" encodinganalog="600">Dean, Willard L., -1898</persname>
+				<persname source="local" encodinganalog="600">Polk, George Washington, 1855-1931</persname>
+				<persname source="lcnaf" encodinganalog="600">Vassar, Matthew, Jr., 1809-1881</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Administration</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Finances</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Minutes (administrative records)</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Administrative Offices and Functions</subject>
+			</controlaccess>
+		</controlaccess>
+		<odd encodinganalog="500">
+			<head>Encoding Information</head>
+			<p>Encoded by Emma Gronbeck, February 2025.</p>
+		</odd>
+		<processinfo encodinganalog="583">
+			<head>Processing Information</head>
+			<p>Processed by Emma Gronbeck, February 2025.</p>
+			<p>Most materials in Series II and III are unprocessed.</p>
+		</processinfo>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Transferred from various sources, including the Office of the Controller and
+				long-term storage, 2004-2024. (A2004-019, A2008-028, A2017-012, A2024-003,
+				A2024-017)</p>
+		</acqinfo>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Vassar College Office of the Treasurer Records, Archives and Special Collections
+				Library, Vassar College Libraries.</p>
+		</prefercite>
+		<dsc type="analyticover">
+			<head>Series List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series1">Series I.</ref> Financial Record Books, </unittitle>
+					<unitdate type="inclusive" normal="1861/1973">1861-1973</unitdate>
+					<physdesc>[145 volumes, 3 boxes]</physdesc>
+				</did>
+				<arrangement>
+					<p>Arranged alphabetically by item or file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series2">Series II.</ref> Receipts and Vouchers, </unittitle>
+					<unitdate type="inclusive" normal="1865/1902">[1865?] - circa 1902</unitdate>
+					<physdesc>[9 volumes, 13 boxes]</physdesc>
+				</did>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series3">Series III.</ref> Administrative Files, </unittitle>
+					<unitdate type="inclusive" normal="1876/1925">1876-1925</unitdate>
+					<physdesc>[1 volume, 13 boxes]</physdesc>
+				</did>
+			</c01>
+		</dsc>
+		<dsc type="in-depth">
+			<head>Container List</head>
+			<p/>
+			<c01 level="series" id="series1">
+				<did>
+					<unittitle>Series I. Financial Record Books, </unittitle>
+					<unitdate type="inclusive" normal="1861/1973">1861-1973</unitdate>
+					<physdesc>[145 volumes, 3 boxes]</physdesc>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Account Book - Outside Businesses, </unittitle>
+						<unitdate type="inclusive" normal="188205/188908">1882 May - 1889
+							Aug</unitdate>
+						<physdesc>[31 x 14 x 4 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Accounts Journal - General and Students, School Supplies, </unittitle>
+						<unitdate type="inclusive" normal="187807/188106">1878 Jul - 1881
+							Jun</unitdate>
+						<physdesc>[43 x 18 x 5 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by account, no
+								index.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Accounts Journal - Students and Faculty, </unittitle>
+						<unitdate type="inclusive" normal="1929/1933">1929-1933</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Sections include: Faculty, faculty charges, faculty
+								laundry, and student laundry.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Accounts Journal - Students and Faculty, School Supplies, </unittitle>
+						<unitdate type="inclusive" normal="1887/1891">1887-1891</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Accounts Journal - Students and Faculty, School Supplies, </unittitle>
+						<unitdate type="inclusive" normal="189109/189303">1891 Sep - 1893
+							Mar</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Accounts Journal - Students, Music books and scores, </unittitle>
+						<unitdate type="inclusive" normal="1875/1881">1875 - circa 1881</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Accounts Journal - Students, Music, books, and supplies, </unittitle>
+						<unitdate type="inclusive" normal="1893/1899">1893-1899</unitdate>
+						<physdesc>[36 x 23 x 5 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Aid Distribution Book," </unittitle>
+						<unitdate type="inclusive" normal="1890/1924">1890-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>"Application Fee Registers," </unittitle>
+						<unitdate type="inclusive" normal="1922/1939">[1922-1939?]</unitdate>
+						<physdesc>[2 volumes]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Book of Wills," </unittitle>
+						<unitdate type="inclusive" normal="1891">circa 1891</unitdate>
+					</did>
+					<scopecontent><p><emph render="italic">Handwritten transcripts of wills featuring bequests to Vassar College, 1868-1889. Includes Edward L. Beadle (p. 63), Stephen M. Buckingham (p. 93), Jacob P. Giraud (p. 29), Warren J. Merrill (p. 145), John Guy Vassar (p. 109), Matthew Vassar (p. 3), and Matthew Vassar, Jr. (p. 39).</emph></p></scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash [Contributions?] Book," </unittitle>
+						<unitdate type="inclusive" normal="18610409/18720518">1861 Apr 9 - 1872 May
+							18</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Accounts Book," </unittitle>
+						<unitdate type="inclusive" normal="18660124/19041014">1866 Jan 24 - 1904 Oct
+							14</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Accounts Book - Students," </unittitle>
+						<unitdate type="inclusive" normal="187007/187106">1870 Jul - 1871
+							Jun</unitdate>
+						<physdesc>[35 x 22 x 4 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Cash Book, </unittitle>
+						<unitdate type="inclusive" normal="18650918/18660724">1865 Sep 18 - 1866 Jul
+							24</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Cash Book, </unittitle>
+						<unitdate type="inclusive" normal="18660906/18700929">1866 Sep 6 - 1870 Sep
+							29</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Cash Book, </unittitle>
+						<unitdate type="inclusive" normal="18701003/18740903">1870 Oct 3 - 1874 Sep
+							3</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book," </unittitle>
+						<unitdate type="inclusive" normal="18740903/18800720">1874 Sep 3 - 1880 Jul
+							20</unitdate>
+						<physdesc>[41 x 19 x 5 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book," </unittitle>
+						<unitdate type="inclusive" normal="18800721/18850930">1880 Jul 21 - 1885 Sep
+							30</unitdate>
+						<physdesc>[33 x 23 x 5 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Cash Book, </unittitle>
+						<unitdate type="inclusive" normal="18851001/18901013">1885 Oct 1 - 1890 Oct
+							13</unitdate>
+						<physdesc>[36 x 25 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book," </unittitle>
+						<unitdate type="inclusive" normal="18901013/18950301">1890 Oct 13 - 1895 Mar
+							1</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book," </unittitle>
+						<unitdate type="inclusive" normal="18950301/18950726">1895 Mar 1 - 1895 Jul
+							26</unitdate>
+						<physdesc>[41 x 28 x 2 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">General, organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book No. 1," </unittitle>
+						<unitdate type="inclusive" normal="18950701/18970723">1895 Jul 1 - 1897 Jul
+							23</unitdate>
+						<physdesc>[42 x 31 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Receipts and disbursements, organized
+								chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book No. 2," </unittitle>
+						<unitdate type="inclusive" normal="18970724/1898063">1897 Jul 24 - 1898 Jun
+							3</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Receipts and disbursements, organized
+								chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book No. 3," </unittitle>
+						<unitdate type="inclusive" normal="18980604/19000131">1898 Jun 4 - 1900 Jan
+							31</unitdate>
+						<physdesc>[42 x 33 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Receipts and disbursements, organized
+								chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book No. 4," </unittitle>
+						<unitdate type="inclusive" normal="19000201/19010629">1900 Feb 1 - 1901 Jun
+							29</unitdate>
+						<physdesc>[41 x 33 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Receipts and disbursements, organized
+								chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book No. 8," </unittitle>
+						<unitdate type="inclusive" normal="19070613/19081231">1907 Jun 13 - 1908 Dec
+							31</unitdate>
+						<physdesc>[43 x 35 x 9 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Receipts and disbursements, organized
+								chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book No. 9," </unittitle>
+						<unitdate type="inclusive" normal="19090102/19110204">1909 Jan 2 - 1911 Feb
+							4</unitdate>
+						<physdesc>[45 x 37 x 8 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Cash by month, organized
+							chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Book No. 10," </unittitle>
+						<unitdate type="inclusive" normal="1911/1913">1911-1913</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Journal," </unittitle>
+						<unitdate type="inclusive" normal="18810222/18860417">1881 Feb 22 - 1886 Apr
+							17</unitdate>
+						<physdesc>[40 x 29 x 7 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Cash Journal," </unittitle>
+						<unitdate type="inclusive" normal="19190710/19250630">1919 Jul 10 - 1925 Jun
+							30</unitdate>
+						<physdesc>[40 x 52 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Central Ledger, with index," </unittitle>
+						<unitdate type="inclusive" normal="187409/187807">1874 Sep - 1878
+							Jul</unitdate>
+						<physdesc>[47 x 35 x 10 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by account.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>"Central Ledger," </unittitle>
+						<unitdate type="inclusive" normal="1895/1900">1895-1900</unitdate>
+						<physdesc>[51 x 51 x 16 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">p. 1-699 Student accounts, p. 700-917 College,
+								faculty, and misc accounts, p. 1299-1360 Surplus accounts, room
+								deposits, p. 1399-1400 deposit account.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"College Accounts Ledger No. 1, with index," </unittitle>
+						<unitdate type="inclusive" normal="186509/186708">1865 Sep - 1867
+							Aug</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"College Accounts Ledger No. 2, with index," </unittitle>
+						<unitdate type="inclusive" normal="186709/196907">1867 Sep - 1969
+							Jul</unitdate>
+						<physdesc>[42 x 30 x 7 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"College Accounts Ledger No. 3, with index," </unittitle>
+						<unitdate type="inclusive" normal="186909/187109">1869 Sep - 1871
+							Sep</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"College Accounts Ledger No. 4, with index," </unittitle>
+						<unitdate type="inclusive" normal="187109/187307">1871 Sep - 1873
+							Jul</unitdate>
+						<physdesc>[41 x 30 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"College Accounts Ledger No. 5, with index," </unittitle>
+						<unitdate type="inclusive" normal="187309/187407">1873 Sep - 1874
+							Jul</unitdate>
+						<physdesc>[46 x 34 x 11 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by name.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Day Book - Set 1, No. 1, </unittitle>
+						<unitdate type="inclusive" normal="18730329/18750725">1873 Mar 29 - 1875 Jul
+							25</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Day Book - Set 1, No. 2, </unittitle>
+						<unitdate type="inclusive" normal="18750727/18761129">1875 Jul 27 - 1876 Nov
+							29</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Day Book - Set 1, No. 3, </unittitle>
+						<unitdate type="inclusive" normal="18761201/18781031">1876 Dec 1 - 1878 Oct
+							31</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Day Book - Set 1, No. 4, </unittitle>
+						<unitdate type="inclusive" normal="18781101/18800731">1878 Nov 1 - 1880 Jul
+							31</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Day Book - Set 1, No. 5, </unittitle>
+						<unitdate type="inclusive" normal="18800802/18820926">1880 Aug 2 - 1882 Sep
+							26</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Day Book - Set 1, No. 6, </unittitle>
+						<unitdate type="inclusive" normal="18820927/18840616">1882 Sep 27 - 1884 Jun
+							16</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 1</container>
+						<unittitle>Day Book - Set 1, No. 7, </unittitle>
+						<unitdate type="inclusive" normal="18840624/18860416">1884 Jun 24 - 1886 Apr
+							16</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 1, No. 8, </unittitle>
+						<unitdate type="inclusive" normal="18860419/18880104">1886 Apr 19 - 1888 Jan
+							4</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 1, No. 9, </unittitle>
+						<unitdate type="inclusive" normal="18880105/18890618">1888 Jan 5 - 1889 Jun
+							18</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 1, No. 10, </unittitle>
+						<unitdate type="inclusive" normal="18890619/18910220">1889 Jun 19 - 1891 Feb
+							20</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 1, No. 11, </unittitle>
+						<unitdate type="inclusive" normal="18910223/18920603">1891 Feb 23 - 1892 Jun
+							3</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 1, No. 12, </unittitle>
+						<unitdate type="inclusive" normal="18920604/18930921">1892 Jun 4 - 1893 Sep
+							21</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 1, No. 13, </unittitle>
+						<unitdate type="inclusive" normal="18930922/18940922">1893 Sep 22 - 1894 Sep
+							22</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 1, No. 14, </unittitle>
+						<unitdate type="inclusive" normal="18940922/18950625">1894 Sep 22 - 1895 Jun
+							25</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Day Book" - Set 2, No. 1, </unittitle>
+						<unitdate type="inclusive" normal="187308/187610">1873 Aug - 1876
+							Oct</unitdate>
+						<physdesc>[41 x 22 x 7 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Day Book - Set 2, No. 2, </unittitle>
+						<unitdate type="inclusive" normal="18761010/18810221">1876 Oct 10 - 1881 Feb
+							21</unitdate>
+						<physdesc>[41 x 29 x 6 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 3, No. 1, </unittitle>
+						<unitdate type="inclusive" normal="18911211/18920930">1891 Dec 11 - 1892 Sep
+							30</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Day Book - Set 3, No. 2, </unittitle>
+						<unitdate type="inclusive" normal="18920926/18930105">1892 Sep 26 - 1893 Jan
+							5</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Day Book, </unittitle>
+						<unitdate type="inclusive" normal="18720108/18800920">1872 Jan 8 - 1880 Sep
+							20</unitdate>
+						<physdesc>[40 x 17 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Day Book, </unittitle>
+						<unitdate type="inclusive" normal="18740711/18860727">1874 Jul 11 - 1886 Jul
+							27</unitdate>
+						<physdesc>[40 x 18 x 4 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Day Book, </unittitle>
+						<unitdate type="inclusive" normal="18860301/18950629">1886 Mar 1 - 1895 Jun
+							29</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Day Book - Board and Tuition Accounts," </unittitle>
+						<unitdate type="inclusive" normal="187109/187312">1871 Sep - 1873
+							Dec</unitdate>
+						<physdesc>[41 x 23 x 7 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Departmental Accounts, </unittitle>
+						<unitdate type="inclusive" normal="1923/1925">1923-1925</unitdate>
+						<physdesc>[36 x 44 x 3 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Departmental Expenses Ledger," </unittitle>
+						<unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Departmental Expenses Ledger," </unittitle>
+						<unitdate type="inclusive" normal="1924/1925">1924-1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Departmental Expenses Ledger - Music Dept, </unittitle>
+						<unitdate type="inclusive" normal="18840918/18990518">1884 Sep 18 - 1899 May
+							18</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Deposit Ledger No. 1, with index," </unittitle>
+						<unitdate type="inclusive" normal="187407/188711">1874 Jul - 1887
+							Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Deposit Ledger No. 2 - Students," </unittitle>
+						<unitdate type="inclusive" normal="1888/1900">1888-1900</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Deposit Ledger No. 3 - Students," </unittitle>
+						<unitdate type="inclusive" normal="1900/1902">1900-1902</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Deposit Ledger No. 10 - College Functions," </unittitle>
+						<unitdate type="inclusive" normal="1900/1910">1900-1910</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Financial Ledger - "Tuesday Thursday Saturday," </unittitle>
+						<unitdate type="inclusive" normal="186411/186504">1864 Nov - 1865
+							Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Fund Ledger No. 1," </unittitle>
+						<unitdate type="inclusive" normal="187407/189207">1874 Jul - 1892
+							Jul</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized by fund.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Fund Ledger No. 2," </unittitle>
+						<unitdate type="inclusive" normal="189111/190007">1891 Nov - 1900
+							Jul</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized by fund.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Fund Ledger No. 3," </unittitle>
+						<unitdate type="inclusive" normal="190107/191607">1901 Jul - 1916
+							Jul</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized by fund.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Fund Ledger No. 4," </unittitle>
+						<unitdate type="inclusive" normal="191607/192506">1916 Jul - 1925
+							Jun</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized by fund.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Fund Ledger No. 5," </unittitle>
+						<unitdate type="inclusive" normal="192506/193407">1925 Jun - 1934
+							Jul</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized by fund.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Funds Journal, </unittitle>
+						<unitdate type="inclusive" normal="186102/187407">1861 Feb - 1874
+							Jul</unitdate>
+						<physdesc>[37 x 26 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized alphabetically by fund, with
+								index.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Funds Journal, </unittitle>
+						<unitdate type="inclusive" normal="186102/187407">1861 Feb - 1874
+							Jul</unitdate>
+						<physdesc>[37 x 26 x 6 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Funds Journal - Cash No. 1," </unittitle>
+						<unitdate type="inclusive" normal="192507/193106">1925 Jul - 1931
+							Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Funds Journal - Cash No. 2," </unittitle>
+						<unitdate type="inclusive" normal="193107/193506">1931 Jul - 1935
+							Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Funds Journal No. 1," </unittitle>
+						<unitdate type="inclusive" normal="18740613/18940122">1874 Jun 13 - 1894 Jan
+							22</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Funds Journal No. 2," </unittitle>
+						<unitdate type="inclusive" normal="18940205/19041224">1894 Feb 5 - 1904 Dec
+							24</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Funds Journal No. 3," </unittitle>
+						<unitdate type="inclusive" normal="190501/191910">1905 Jan - 1919
+							Oct</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Funds Ledger, </unittitle>
+						<unitdate type="inclusive" normal="192511/192906">1925 Nov - 1929
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger, </unittitle>
+						<unitdate type="inclusive" normal="18820103/18860904">1882 Jan 3 - 1886 Sep
+							4</unitdate>
+						<physdesc>[42 x 36 x 3 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 1, </unittitle>
+						<unitdate type="inclusive" normal="192507/192606">1925 Jul - 1926
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 2, </unittitle>
+						<unitdate type="inclusive" normal="192607/192706">1926 Jul - 1927
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 3, </unittitle>
+						<unitdate type="inclusive" normal="192707/192806">1927 Jul - 1928
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 4, </unittitle>
+						<unitdate type="inclusive" normal="192807/192906">1928 Jul - 1929
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 5, </unittitle>
+						<unitdate type="inclusive" normal="192907/193006">1929 Jul - 1930
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 6, </unittitle>
+						<unitdate type="inclusive" normal="193007/193106">1930 Jul - 1931
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 7, </unittitle>
+						<unitdate type="inclusive" normal="193107/193206">1931 Jul - 1932
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 8, </unittitle>
+						<unitdate type="inclusive" normal="193208/193306">1932 Aug - 1933
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Accounts Ledger - Annual, Vol. 9, </unittitle>
+						<unitdate type="inclusive" normal="193308/193406">1933 Aug - 1934
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Ledger - Daily, Vol. 1, </unittitle>
+						<unitdate type="inclusive" normal="18921115/19100630">1892 Nov 15 - 1910 Jun
+							30</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Ledger - Daily, Vol. 2, </unittitle>
+						<unitdate type="inclusive" normal="19100726/19230531">1910 Jul 26 - 1923 May
+							31</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Ledger - Daily, Vol. 3, </unittitle>
+						<unitdate type="inclusive" normal="19230608/19280630">1923 Jun 8 - 1928 Jun
+							30</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>General Ledger - Daily, Vol. 4, </unittitle>
+						<unitdate type="inclusive" normal="19280701/19320630">1928 Jul 1 - 1932 Jun
+							30</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>[General Ledger?] No. 7 - Index, </unittitle>
+						<unitdate type="inclusive" normal="1880/1889">circa 1880-1889</unitdate>
+						<physdesc>[49 x 36 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>"General Ledger No. 10 - Index," </unittitle>
+						<unitdate type="inclusive" normal="1900/1910">1900-1910</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"General Ledger No. 11," </unittitle>
+						<unitdate type="inclusive" normal="191007/191606">1910 Jul - 1916
+							Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"General Ledger No. 11 - Index," </unittitle>
+						<unitdate type="inclusive" normal="1910/1916">1910-1916</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"General Ledger No. 12," </unittitle>
+						<unitdate type="inclusive" normal="191607/192206">1916 Jul - 1922
+							Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"General Ledger No. 13," </unittitle>
+						<unitdate type="inclusive" normal="192207/192506">1922 Jul - 1925
+							Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"General Ledger No. 14," </unittitle>
+						<unitdate type="inclusive" normal="192507/192806">1925 Jul - 1928
+							Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"General Ledger No. 15," </unittitle>
+						<unitdate type="inclusive" normal="192807/193406">1928 Jul - 1934
+							Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Insurance Book," </unittitle>
+						<unitdate type="inclusive" normal="1901/1917">1901-1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Insurances Ledger," </unittitle>
+						<unitdate type="inclusive" normal="1877/1888">1877-1888</unitdate>
+						<physdesc>[41 x 28 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Investments Book," </unittitle>
+						<unitdate type="inclusive" normal="1884/1937">1884-1937</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Investments Book," </unittitle>
+						<unitdate type="inclusive" normal="1887/1938">1887 - circa 1938</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>"Jewett House Expenditures," </unittitle>
+						<unitdate type="inclusive" normal="1938/1973">1938-1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Laundry Register," </unittitle>
+						<unitdate type="inclusive" normal="1883/1884">1883-1884</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Laundry Register," </unittitle>
+						<unitdate type="inclusive" normal="1884/1885">1884-1885</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Laundry Register," </unittitle>
+						<unitdate type="inclusive" normal="191709/192506">1917 Sep - 1925
+							Jun</unitdate>
+						<physdesc>[36 x 24 x 4 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Payroll Ledger," </unittitle>
+						<unitdate type="inclusive" normal="1878">1878</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Payroll Ledger," </unittitle>
+						<unitdate type="inclusive" normal="188708/189302">1887 Aug - 1893
+							Feb</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Payroll Ledger," </unittitle>
+						<unitdate type="inclusive" normal="189303/189605">1893 Mar - 1896
+							May</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Petty Cash Book, Vol. 1," </unittitle>
+						<unitdate type="inclusive" normal="19200721/19240306">1920 Jul 21 - 1924 Mar
+							6</unitdate>
+						<physdesc>[32 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Petty Cash Book, Vol. 2," </unittitle>
+						<unitdate type="inclusive" normal="19240307/19250630">1924 Mar 7 - 1925 Jun
+							30</unitdate>
+						<physdesc>[32 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>"Postal Expenses Ledger," </unittitle>
+						<unitdate type="inclusive" normal="190507/190910">1905 Jul - 1909
+							Oct</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Records of articles for safekeeping, and returned," </unittitle>
+						<unitdate type="inclusive" normal="1901/1935">1901-1935</unitdate>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Ledger of physical objects of value.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Register of stock holdings and transactions," </unittitle>
+						<unitdate type="inclusive" normal="1864/1865">1864-1865</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Salary Register," </unittitle>
+						<unitdate type="inclusive" normal="1924/1925">1924-1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Steward's Account Book," </unittitle>
+						<unitdate type="inclusive" normal="186509/187607">1865 Sep - 1876
+							Jul</unitdate>
+						<physdesc>[43 x 37 x 3 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">"Articles bought for the Steward's Dept" (food,
+								soap, etc.)</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 1, </unittitle>
+						<unitdate type="inclusive" normal="190009/190106">1900 Sep - 1901
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 2, </unittitle>
+						<unitdate type="inclusive" normal="190107/190206">1901 Jul - 1902
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 3, </unittitle>
+						<unitdate type="inclusive" normal="1902/1903">1902-1903</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 4, </unittitle>
+						<unitdate type="inclusive" normal="190309/190406">1903 Sep - 1904
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 5, </unittitle>
+						<unitdate type="inclusive" normal="190408/190507">1904 Aug - 1905
+							Jul</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 6, </unittitle>
+						<unitdate type="inclusive" normal="190509/190608">1905 Sep - 1906
+							Aug</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 7, </unittitle>
+						<unitdate type="inclusive" normal="1906/1907">1906-1907</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 8, </unittitle>
+						<unitdate type="inclusive" normal="1907/1908">1907-1908</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 9, </unittitle>
+						<unitdate type="inclusive" normal="1908/1909">1908-1909</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 10, </unittitle>
+						<unitdate type="inclusive" normal="1909/1910">1909-1910</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 11, </unittitle>
+						<unitdate type="inclusive" normal="191009/191108">1910 Sep - 1911
+							Aug</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 12, </unittitle>
+						<unitdate type="inclusive" normal="1911/1912">1911-1912</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 13, </unittitle>
+						<unitdate type="inclusive" normal="191209/191308">1912 Sep - 1913
+							Aug</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 14, </unittitle>
+						<unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 15, </unittitle>
+						<unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 16, </unittitle>
+						<unitdate type="inclusive" normal="1915/1916">1915-1916</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 17, </unittitle>
+						<unitdate type="inclusive" normal="191609/191708">1916 Sep - 1917
+							Aug</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 18, </unittitle>
+						<unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 19, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 21, </unittitle>
+						<unitdate type="inclusive" normal="192009/192108">1920 Sep - 1921
+							Aug</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 22, </unittitle>
+						<unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 23, </unittitle>
+						<unitdate type="inclusive" normal="192209/192308">1922 Sep - 1923
+							Aug</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 24, </unittitle>
+						<unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 25, </unittitle>
+						<unitdate type="inclusive" normal="1924/1925">1924-1925</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 26, </unittitle>
+						<unitdate type="inclusive" normal="192509/192608">1925 Sep - 1926
+							Aug</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 27, </unittitle>
+						<unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 28, </unittitle>
+						<unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 29, </unittitle>
+						<unitdate type="inclusive" normal="192809/192907">1928 Sep - 1929
+							Jul</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 31, </unittitle>
+						<unitdate type="inclusive" normal="1930/1931">1930-1931</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 32, </unittitle>
+						<unitdate type="inclusive" normal="193108/193206">1931 Aug - 1932
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 33, </unittitle>
+						<unitdate type="inclusive" normal="193209/193306">1932 Sep - 1933
+							Jun</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Student Accounts Ledger - Annual, Vol. 34, </unittitle>
+						<unitdate type="inclusive" normal="193309/193407">1933 Sep - 1934
+							Jul</unitdate>
+						<physdesc>[41 x 27 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>"Student Accounts Ledger No. 1," </unittitle>
+						<unitdate type="inclusive" normal="1900/1902">1900-1902</unitdate>
+						<physdesc>[150 x 44 x 11 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>"Student Accounts Ledger No. 1 - Index," </unittitle>
+						<unitdate type="inclusive" normal="1900">circa 1900</unitdate>
+						<physdesc>[48 x 39 x 2 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Student Expense Accounts," </unittitle>
+						<unitdate type="inclusive" normal="1886/1896">circa 1886 - 1896</unitdate>
+						<physdesc>[39 x 28 x 4 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized by enrollment year, then alphabetically
+								by student.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>"Subsistence Department Ledger No. 13," </unittitle>
+						<unitdate type="inclusive" normal="191406/191506">1914 Jun - 1915
+							Jun</unitdate>
+						<physdesc>[42 x 69 x 9 cm]</physdesc>
+					</did>
+					<scopecontent>
+						<p><emph render="italic">Organized chronologically.</emph></p>
+					</scopecontent>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tray Ledger - Cushing House," </unittitle>
+						<unitdate type="inclusive" normal="1920/1936">1920-1936</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tray Ledger - Lathrop House and Main Building," </unittitle>
+						<unitdate type="inclusive" normal="1903/1932">1903-1932</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tray Ledger - Josselyn House," </unittitle>
+						<unitdate type="inclusive" normal="1912/1936">1912-1936</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tray Ledger - North Hall (Jewett House)," </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tray Ledger - Strong House," </unittitle>
+						<unitdate type="inclusive" normal="1903/1931">1903-1931</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tray Ledger - Raymond House and Davison House," </unittitle>
+						<unitdate type="inclusive" normal="1903/1932">1903-1932</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>"Treasurer's Statements No. 1 - Cash," </unittitle>
+						<unitdate type="inclusive" normal="188609/189012">1886 Sep - 1890
+							Dec</unitdate>
+						<physdesc>[43 x 45 x 6 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>"Treasurer's Statements No. 2," </unittitle>
+						<unitdate type="inclusive" normal="18910102/18941031">1891 Jan 2 - 1894 Oct
+							31</unitdate>
+						<physdesc>[43 x 46 x 6 cm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tuition Fee Accounts Ledger, Vol. 1," </unittitle>
+						<unitdate type="inclusive" normal="186706/186908">1867 Jun - 1869
+							Aug</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Tuition Fee Accounts Ledger, Vol. 2," </unittitle>
+						<unitdate type="inclusive" normal="186909/187107">1869 Sep - 1871
+							Jul</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series2">
+				<did>
+					<unittitle>Series II. Receipts and Vouchers, </unittitle>
+					<unitdate type="inclusive" normal="1865/1902">[1865?] - circa 1902</unitdate>
+					<physdesc>[9 volumes, 13 boxes]</physdesc>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1870/1879">1870s</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="187510/187511">1875 Oct-Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1883/1885">1883-1885</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1887/1888">1887-1888</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1888/1889">1888-1889</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1890/1891">1890-1891</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes (Oversize)</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1891/1892">1891-1892</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1893/1895">1893-1895</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Receipt Book, </unittitle>
+						<unitdate type="inclusive" normal="1894">1894</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>"Register of Audited Vouchers," </unittitle>
+						<unitdate type="inclusive" normal="1902">circa 1902</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 3</container>
+						<unittitle>Voucher index, #19000-30000, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers A, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers B, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers C, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers D, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers E, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers F, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers F, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers G, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers G, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers H, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers H, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Vouchers I, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Administrative Files, </unittitle>
+					<unitdate type="inclusive" normal="1876/1925">1876-1925</unitdate>
+					<physdesc>[1 volume, 13 boxes]</physdesc>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Bound Volumes</container>
+						<unittitle>Correspondence book of Willard L. Dean related to College
+							purchases, </unittitle>
+						<unitdate type="inclusive" normal="1876/1883">1876-1883</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Files, budgets, correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1880/1929">1880s-1920s</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Files and correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1910/1925">1910-1925</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Files and correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1915">1915</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Files and correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1916">1916</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Minutes and Reports, </unittitle>
+						<unitdate type="inclusive" normal="1917/1966">1917-1966</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Records of George Washington Polk, </unittitle>
+						<unitdate type="inclusive" normal="1925/1928">1925-1928</unitdate>
+						<physdesc>[1 box]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unittitle>Cashier's records, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[7 boxes]</physdesc>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

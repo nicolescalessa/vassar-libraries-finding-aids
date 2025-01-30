@@ -18,7 +18,7 @@
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Emma Gronbeck, <date>October 2024</date>.</creation>
+			<creation>Finding aid encoded by Emma Gronbeck, <date>January 2025</date>.</creation>
 			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
@@ -29,7 +29,7 @@
 				<corpname>Vassar College. Library</corpname></origination>
 			<unittitle label="Title:" encodinganalog="245">Islamic Manuscripts Collection</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">10th century - 19th century</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">13 codices, 5 leaves</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">14 codices, 10 leaves and fragments</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -38,13 +38,15 @@
 				<language langcode="per">Persian; </language>
 				<language langcode="ota">Turkish, Ottoman.</language>
 			</langmaterial>
-			<abstract label="Abstract:" encodinganalog="520$a">Codices and manuscript leaves from different parts of the Islamic World, primarily of the Qur'an and excerpts of the Qur'an. Also includes scholarly and
-				literary works.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">Codices and manuscript leaves from
+				different parts of the Islamic World, primarily of the Qur'an and excerpts of the
+				Qur'an. Also includes scholarly and literary works.</abstract>
 		</did>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Codices and manuscript leaves from different parts of the Islamic World, primarily of the Qur'an and excerpts of the Qur'an. Also includes scholarly and
-				literary works.</p>
+			<p>Codices and manuscript leaves from different parts of the Islamic World, primarily of
+				the Qur'an and excerpts of the Qur'an. Also includes scholarly and literary works.
+				The majority of materials originate from historic Persia (modern day Iran) and the Ottoman Empire.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
@@ -61,17 +63,18 @@
 					regulations of the Vassar College Archives and Special Collections
 					Library.</extref></p>
 		</userestrict>
-		<relatedmaterial encodinganalog="544 1">
-			<head>Related Materials</head>
-			<p><archref
-				href="https://digitallibrary.vassar.edu/collections/finding-aids/c52f1e4e-f6ff-4cff-9b40-e3ecdd716bee"
-				>Volume 6 of the Ernest Sturm Collection is an Arabic Qur’an from the Ottoman Empire.</archref></p>
-			<p><archref
-				href="https://digitallibrary.vassar.edu/collections/finding-aids/ab75a2b1-6458-4348-88d4-762d17a8c065"
-				>The Ruth Lamb Atkinson Papers includes Persian and Sanskrit manuscript leaves and illustrations.</archref></p>
-		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="600">Amīr Khusraw Dihlavī, approximately 1253-1325</persname>
+				<persname source="lcnaf" encodinganalog="600">Erzurumlu İbrâhim Hakkı, 1703-1780?</persname>
+				<persname source="lcnaf" encodinganalog="600">Jazūlī, Muḥammad ibn Sulaymān, 1404-1465</persname>
+				<persname source="lcnaf" encodinganalog="600">Kâtip Çelebi, 1609-1657</persname>
+				<persname source="lcnaf" encodinganalog="600">Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203</persname>
+				<persname source="lcnaf" encodinganalog="600">Ṭabarsī, al-Faḍl ibn al-Ḥasan, -1153</persname>
+				<persname source="lcnaf" encodinganalog="600">Zayn al-ʻĀbidīn ʻAlī ibn al-Ḥusayn, -710?</persname>
+			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
 				<subject source="lcsh" encodinganalog="650">Illumination of books and manuscripts, Arab</subject>
@@ -97,29 +100,49 @@
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Emma Gronbeck, October 2024.</p>
+			<p>Encoded by Emma Gronbeck, October 2024. Updated, January 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Processed by Emma Gronbeck, January 2024.</p>
-			<p>Arabic MS 2, 8 and 9 were separated from the Medieval and Renaissance Manuscript Collection and incorporated into this collection, January 2024.</p>
+			<p>Processed by Emma Gronbeck, October 2024. Updated, January 2025.</p>
+			<p>All items in this collection have been catalogued bibliographically and their catalog records can be viewed by searching the <extref href="https://vassar.primo.exlibrisgroup.com/discovery/search?vid=01VAC_INST:VAC">Vassar College Libraries Online Catalog</extref> or by following the links in the item call numbers listed below.</p>
+			<p>Arabic MS 2, 8 and 9 were separated from the <archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8"
+					>Medieval and Renaissance Manuscripts Collection</archref> and incorporated into
+				this collection, January 2024.</p>
+			<p>Arabic MS 11 was separated from the <archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/c52f1e4e-f6ff-4cff-9b40-e3ecdd716bee"
+					>Ernest Sturm Collection</archref> and catalogued as part of the Islamic
+				Manuscripts Collection, January 2025.</p>
+			<p>Persian MS 6 was separated from the <archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/ab75a2b1-6458-4348-88d4-762d17a8c065"
+					>Ruth Lamb Atkinson Papers</archref> and catalogued as part of the Islamic
+				Manuscripts Collection, January 2025.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
+			<p>Arabic MS 1 is of unknown origin.</p>
+			<p>Arabic MS 2, 8, and 9 are of unknown origin, possibly acquired from bookseller Otto
+				F. Ege.</p>
 			<p>Arabic MS 3 was the gift of William Bancroft Hill, 1932.</p>
-			<p>Arabic MS 4 was the gift of Mrs. Lucien Howe, 1929.</p>
+			<p>Arabic MS 4 and 10 were the gift of Elizabeth Howe (VC 1882), 1929.</p>
 			<p>Arabic MS 5 was the gift of Mildred E. Cook, 1959.</p>
 			<p>Arabic MS 6 was the gift of Janet (Bartlett) Cartwright (VC 1921), Jul 1957.</p>
-			<p>Arabic MS 7 was the gift of Ethel M. Fair (VC 1906), Nov 1971. Given to her by the Council and Faculties of the American University at Cairo in 1952.</p>
-			<p>Persian MS 1-4 and Turkish MS 1-2 were the bequest of Frederick F. Thompson, 1924.</p>
+			<p>Arabic MS 7 was the gift of Ethel M. Fair (VC 1906), Nov 1971. Given to her by the
+				Council and Faculties of the American University at Cairo in 1952.</p>
+			<p>Arabic MS 11 was the gift of Ruth Foster Sturm, 1997. It was collected by her father,
+				Ernest Sturm.</p>
+			<p>Persian MS 1-4 and Turkish MS 1-2 were the bequest of Frederick F. Thompson,
+				1924.</p>
 			<p>Persian MS 5 was the gift of Ada Thurston (VC 1880), 1939.</p>
+			<p>Persian MS 6 was the gift of Ruth Lamb Atkinson (VC 1918), 1975.</p>
 			<p>Turkish MS 3 was the gift of Helen (Morgenthau) Fox (VC 1905), 1940.</p>
-			<p>Arabic MS 1 is of unknown origin.</p>
-			<p>Arabic MS 2, 8, and 9 are of unknown origin, possibly acquired from bookseller Otto F. Ege.</p>
+
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p>Islamic Manuscripts Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>Islamic Manuscripts Collection, Archives and Special Collections Library, Vassar
+				College Libraries.</p>
 		</prefercite>
 		<dsc type="analyticover">
 			<head>Series List</head>
@@ -134,97 +157,129 @@
 				<did>
 					<unittitle>
 						<ref target="series2">Series II.</ref> Persian Manuscripts, </unittitle>
-					<unitdate>1587 - circa 1819</unitdate>
+					<unitdate>1587 - 19th century</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
 						<ref target="series3">Series III.</ref> Turkish Manuscripts, </unittitle>
-					<unitdate>16th century - 1781</unitdate>
+					<unitdate>16th century - 18th century</unitdate>
 				</did>
 			</c01>
 		</dsc>
 		<dsc type="in-depth">
-			<head>Item List</head>
+			<head>Container List</head>
 			<c01 level="series" id="series1">
 				<did>
 					<unittitle>Series I. Arabic Manuscripts</unittitle>
 				</did>
-				
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 1 (Item 2)</container>
-						<unittitle>A Leaf from a Qur'an, in Arabic (Kufic script) [Persia?], </unittitle>
-						<unitdate type="inclusive" normal="0900/1099">10th century - 11th century</unitdate>
-						<physdesc>[framed leaf in wooden case, 16 x 10 cm]</physdesc>
+						<container><extref href="">Arabic MS 1</extref></container>
+						<unittitle>A Leaf from a Qur'an, in Arabic (Maghribi Kufic script) [North
+							Africa], </unittitle>
+						<unitdate type="inclusive" normal="0900/1099">10th century - 11th
+							century</unitdate>
+						<physdesc>[framed leaf in wooden case, 160 mm x 100 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 2 (Item 1)</container>
-						<unittitle>A Leaf from a Qur'an (Sūrat al-Rūm), in Arabic (Maghribi script), </unittitle>
-						<unitdate type="inclusive" normal="1000/1199" certainty="approximate">11th century - 12th century</unitdate>
-						<physdesc>[Previously Medieval and Renaissance Manuscripts Collection, Leaf 51]</physdesc>
+						<container><extref href="">Arabic MS 2</extref></container>
+						<unittitle>A Leaf from a Qur'an (Sūrat al-Rūm), in Arabic (Maghribi
+							script), </unittitle>
+						<unitdate type="inclusive" normal="1099/1199">11th century - 12th
+							century</unitdate>
+						<physdesc>[240 mm x 215 mm; Previously <archref
+							href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8"
+							>Medieval and Renaissance Manuscripts Collection</archref>, Leaf 51]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 3 (Item 4)</container>
+						<container><extref href="">Arabic MS 3</extref></container>
 						<unittitle>Qur'an, in Arabic (Naskh script) [Persia], </unittitle>
-						<unitdate type="inclusive" normal="1300/1399" certainty="approximate">17th century - 18th century</unitdate>
-						<physdesc>[23 x 13 cm]</physdesc>
+						<unitdate type="inclusive" normal="1600/1799">17th century - 18th
+							century</unitdate>
+						<physdesc>[335 mm x 240 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 4 (Item 5) [<extref
-							href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/l1t1on/alma991017048849707396"
-							>BP100.3 1800z (Grille)</extref>]</container>
+						<container><extref href="">Arabic MS 4</extref></container>
 						<unittitle>Qur'an, in Arabic (Naskh script), </unittitle>
-						<unitdate type="inclusive" normal="18540" certainty="approximate">1854</unitdate>
-						<physdesc>[2 volumes, 22 cm]</physdesc>
-					</did>
-				</c02>
-
-				<c02 level="item">
-					<did>
-						<container>Arabic MS 5 (Item 7)</container>
-						<unittitle>Ṭabarsī, al-Faḍl ibn al-Ḥasan, (-1153), <emph render="italic">Hādhā Nathr al-La'ālī li-'Alī 'alayhi al-salām</emph>, in Arabic (Naskh script) [Persia], </unittitle>
-						<unitdate type="inclusive" normal="1843/1844" certainty="approximate">1843 or 1844	 (1259 Hijiri)</unitdate>
-						<physdesc>[18 x 11 cm]</physdesc>
+						<unitdate type="inclusive" normal="1854">1854</unitdate>
+						<physdesc>[215 mm x 160 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 6 (Item 3)</container>
+						<container><extref href="">Arabic MS 5</extref></container>
+						<unittitle>Ṭabarsī, al-Faḍl ibn al-Ḥasan (-1153), Hādhā Nathr al-La'ālī
+							li-'Alī 'alayhi al-salām, in Arabic (Naskh script) [Persia], </unittitle>
+						<unitdate type="inclusive" normal="1843/1844">1843 or 1844 (1259
+							Hijiri)</unitdate>
+						<physdesc>[110 mm x 80 mm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref href="">Arabic MS 6</extref></container>
 						<unittitle>Qur'an, in Arabic (Naskh script) [Ottoman Empire], </unittitle>
 						<unitdate type="inclusive" normal="1857/1858">1857 or 1858</unitdate>
-						<physdesc>[18 x 13 cm]</physdesc>
+						<physdesc>[180 mm x 130 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 7 (Item 6)</container>
+						<container><extref href="">Arabic MS 7</extref></container>
 						<unittitle>Qur'an, in Arabic (Naskh script) [Ottoman Empire], </unittitle>
-						<unitdate type="inclusive" normal="1500/1699">16th century - 17th century</unitdate>
-						<physdesc>[23 x 13 cm]</physdesc>
+						<unitdate type="inclusive" normal="1500/1699">16th century - 17th
+							century</unitdate>
+						<physdesc>[230 mm x 130 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 8 (Item 8)</container>
-						<unittitle>Zayn al-ʻĀbidīn ʻAlī ibn al-Ḥusayn (-710?), A Leaf from <emph render="italic">Ṣaḥīfah al-Sajjādīyah</emph>, a book of supplications attributed to Imam Zayn al-Abidin (ca. 658–712), in Arabic [Persia], </unittitle>
-						<unitdate type="inclusive" normal="1700/1899">18th century - 19th century</unitdate>
-						<physdesc>[Previously Medieval and Renaissance Manuscripts Collection, Leaf 73]</physdesc>
+						<container><extref href="">Arabic MS 8</extref></container>
+						<unittitle>Zayn al-ʻĀbidīn ʻAlī ibn al-Ḥusayn (-710?), A Leaf
+							from Ṣaḥīfah al-Sajjādīyah, a book of supplications attributed to
+							Imam Zayn al-Abidin (ca. 658–712), in Arabic [Persia], </unittitle>
+						<unitdate type="inclusive" normal="1700/1899">18th century - 19th
+							century</unitdate>
+						<physdesc>[175 mm x 125 mm; Previously <archref
+							href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8"
+							>Medieval and Renaissance Manuscripts Collection</archref>, Leaf 73]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Arabic MS 9 (Item 9)</container>
-						<unittitle>Jazūlī, Muḥammad ibn Sulaymān (1404-1465), A Leaf from <emph render="italic">Dalāʼil al-khayrāt</emph> [The Guide to Goodness], a compilation of prayers and salawat for the Prophet Muhammad, in Arabic [Persia], </unittitle>
-						<unitdate type="inclusive" normal="1600/1799">17th century - 18th century</unitdate>
-						<physdesc>[Previously Medieval and Renaissance Manuscripts Collection, Leaf 70]</physdesc>
+						<container><extref href="">Arabic MS 9</extref></container>
+						<unittitle>Jazūlī, Muḥammad ibn Sulaymān (1404-1465), A Leaf
+							from Dalāʼil al-khayrāt [The Guide to Goodness], a compilation of
+							prayers and salawat for the Prophet Muhammad, in Arabic, </unittitle>
+						<unitdate type="inclusive" normal="1600/1799">17th century - 18th
+							century</unitdate>
+						<physdesc>[165 mm x 110 mm; Previously <archref
+							href="https://digitallibrary.vassar.edu/collections/finding-aids/c681a05c-282b-4fa7-a299-49c9478a48f8"
+							>Medieval and Renaissance Manuscripts Collection</archref>, Leaf 70]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref href="">Arabic MS 10</extref></container>
+						<unittitle>Qu'ran, in Arabic (Naskh script), </unittitle>
+						<unitdate type="inclusive" normal="1854">1854 (1270 Hijiri)</unitdate>
+						<physdesc>[230 mm x 170 mm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref href="">Arabic MS 11</extref></container>
+						<unittitle>Qu'ran, in Arabic (Naskh script) [Ottoman Empire], </unittitle>
+						<unitdate type="inclusive" normal="1854">1854</unitdate>
+						<physdesc>[155 mm x 105 mm]</physdesc>
 					</did>
 				</c02>
 			</c01>
@@ -234,42 +289,54 @@
 				</did>
 				<c02 level="item">
 					<did>
-						<container>Persian MS 1 (Item 11)</container>
-						<unittitle>Anonymous anthology of Persian poems [Persia (Meshed, Khorassav)], </unittitle>
+						<container><extref href="">Persian MS 1</extref></container>
+						<unittitle>Anthology of Persian poems [Persia (Mashhad)], </unittitle>
 						<unitdate type="inclusive" normal="1587">1587 (995 Hijiri)</unitdate>
-						<physdesc>[24 x 16 cm]</physdesc>
+						<physdesc>[240 mm x 150 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Persian MS 2 (Item 12)</container>
-						<unittitle>Book of Fiction [Persia], </unittitle>
-						<unitdate type="inclusive" normal="1742">1742 (1154 Hijiri)</unitdate>
-						<physdesc>[27 x 15 cm]</physdesc>
+						<container><extref href="">Persian MS 2</extref></container>
+						<unittitle>Persian Legend [Persia], </unittitle>
+						<unitdate type="inclusive" normal="1741">1741 (1154 Hijiri)</unitdate>
+						<physdesc>[270 mm x 150 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Persian MS 3 (Item 13)</container>
-						<unittitle>Amīr Khusraw Dihlavī (approximately 1253-1325), <emph render="italic">Majnūn va Laylī</emph> [Book of Leili and Majnoon] [Persia], </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
-						<physdesc>[31 x 20 cm]</physdesc>
+						<container><extref href="">Persian MS 3</extref></container>
+						<unittitle>Amīr Khusraw Dihlavī (approximately 1253-1325), Majnūn va
+							Laylī [Book of Leili and Majnoon] [Persia], </unittitle>
+						<unitdate type="inclusive" normal="1600/1799">17th century - 18th
+							century</unitdate>
+						<physdesc>[300 mm x 200 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Persian MS 4 (Item 14)</container>
-						<unittitle>Rashti, Agha Hussein, Book of Poetry [Persia], </unittitle>
-						<unitdate type="inclusive" normal="1819" certainty="approximate">circa 1819
-							(1234 Hijiri?)</unitdate>
-						<physdesc>[24 x 14 cm]</physdesc>
+						<container><extref href="">Persian MS 4</extref></container>
+						<unittitle>[Rashti, Agha Hussein?], Persian Masnavi [Persia], </unittitle>
+						<unitdate type="inclusive">[Before 1735]</unitdate>
+						<physdesc>[240 mm x 140 mm]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Persian MS 5 (Item 10)</container>
-						<unittitle>A Leaf from a Qur'an [Persia], </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
+						<container><extref href="">Persian MS 5</extref></container>
+						<unittitle>Fragment of Amīr Arsalān Nāmdār by Muḥammad ʿAlī Naqīb [Persia], </unittitle>
+						<unitdate type="inclusive" normal="1800/1899">19th century</unitdate>
+						<physdesc>[430 mm x 190 mm]</physdesc>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container><extref href="">Persian MS 6</extref></container>
+						<unittitle>Five leaves from Haft Paykar by Niẓāmī Ganjavī (1140 or
+							1141-1202 or 1203) [Persia], </unittitle>
+						<unitdate type="inclusive" normal="1500/1699">16th century - 17th
+							century</unitdate>
+						<physdesc>[5 leaves, 290 mm x 160 mm]</physdesc>
 					</did>
 				</c02>
 			</c01>
@@ -279,31 +346,36 @@
 				</did>
 				<c02 level="item">
 					<did>
-						<container>Turkish MS 1 (Item 16)</container>
-						<unittitle>Erzurumlu İbrâhim Hakkı (1703-1780?), <emph render="italic">Ma'rifet-nāme</emph>, in Ottoman Turkish (Naskh script) [Ottoman Empire], </unittitle>
-						<unitdate type="inclusive" certainty="approximate">1781</unitdate>
-						<physdesc>[32 x 22 cm]</physdesc>
+						<container><extref href="">Turkish MS 1</extref></container>
+						<unittitle>Erzurumlu İbrâhim Hakkı (1703-1780?), Ma'rifet-nāme, in Ottoman
+							Turkish (Naskh script) [Ottoman Empire], </unittitle>
+						<unitdate type="inclusive" normal="1781">1781</unitdate>
+						<physdesc>[315 mm x 215 mm]</physdesc>
 					</did>
 					<scopecontent><p><emph render="italic">A scholarly encyclopedia covering, among other subjects, astronomy, astrology, anatomy, physiology, psychology, physics, mathematics, biology, geometry, physiognomy, faith, and Sufism.</emph></p></scopecontent>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Turkish MS 2 (Item 17)</container>
-						<unittitle>Kâtip Çelebi [Hajji Khalifa] (1609-1657), <emph render="italic">Cihannümâ</emph>, in Ottoman Turkish (Naskh script) [Ottoman Empire], </unittitle>
-						<unitdate type="inclusive" certainty="approximate">[Before 1800]</unitdate>
-						<physdesc>[31 x 21 cm]</physdesc>
+						<container><extref href="">Turkish MS 2</extref></container>
+						<unittitle>Kâtip Çelebi [Hajji Khalifa] (1609-1657), Cihannümâ, in Ottoman
+							Turkish (Naskh script) [Ottoman Empire], </unittitle>
+						<unitdate type="inclusive" normal="1700/1799">18th century</unitdate>
+						<physdesc>[310 mm x 210 mm]</physdesc>
 					</did>
 					<scopecontent><p><emph render="italic">This work is a comprehensive universal geographical history, featuring several colorful maps and atlases of various regions of the world. Marginal correction by the same scribe throughout.</emph></p></scopecontent>
 				</c02>
 				<c02 level="item">
 					<did>
-						<container>Turkish MS 3 (Item 18)</container>
-						<unittitle>Prayer Book, in Turkish and Arabic (Naskh script) [Ottoman Empire], </unittitle>
-						<unitdate type="inclusive" normal="1800" certainty="approximate">16th century - 17th century</unitdate>
-						<physdesc>[15 x 11 cm]</physdesc>
+						<container><extref href="">Turkish MS 3</extref></container>
+						<unittitle>Prayer Book, in Turkish and Arabic (Naskh script) [Ottoman
+							Empire], </unittitle>
+						<unitdate type="inclusive" normal="1500/1699">16th century - 17th
+							century</unitdate>
+						<physdesc>[150 mm x 105 mm]</physdesc>
 					</did>
 				</c02>
 			</c01>
+
 		</dsc>
 	</archdesc>
 </ead>

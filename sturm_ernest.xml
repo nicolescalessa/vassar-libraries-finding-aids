@@ -27,7 +27,7 @@
 			<origination label="Creator:" encodinganalog="100"><persname>Sturm, Ernest</persname></origination>
 			<unittitle label="Title:" encodinganalog="245">Ernest Sturm Collection</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1742-1929</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">3 cubic feet (4 boxes, 5 volumes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">3 cubic feet (4 boxes, 4 volumes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a"><corpname>Archives and Special
 					Collections Library, Vassar College Libraries</corpname></repository>
 			<abstract label="Abstract:" encodinganalog="520$a">Variety of rare manuscripts relating
@@ -50,8 +50,7 @@
 				and portraits of William Tecumseh Sherman; items signed by Napoleon Bonaparte, his
 				family and generals; photos, letters, and documents relating to the Civil War;
 				similar items of English literary and artistic figures; a letter of Edmund Burke; a
-				letter and photos of Robert Browning; a letter of Robert E. Lee; printed copy of the
-				United States Constitution dated 1787; letters and documents signed by American
+				letter and photos of Robert Browning; a letter of Robert E. Lee; letters and documents signed by American
 				Presidents; and a transcript of a poem by Robert Louis Stevenson.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
@@ -71,7 +70,8 @@
 		</userestrict>
 		<separatedmaterial encodinganalog="544 1">
 			<head>Separated Material</head>
-			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">Volume 6, a Qur'an, was separated from the collection, catalogued as Arabic MS 11, and added to the Islamic Manuscripts Collection, December 2024.</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a484edda-32b1-4b05-b1c1-670a0b8ab56f">A Qur'an was separated from the collection, catalogued as Arabic MS 11, and added to the Islamic Manuscripts Collection, December 2024.</archref></p>
+			<p><extref href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/al3g85/alma991019278326407396">A Draft of the Constitution of The United States, printed in 2 columns on 4 numbered pages in New York by John McLean for John Dunlap (Evans, American Bibliography 20817), 1787, was separated from the collection and catalogued bibliographically, February 2025.</extref></p>
 		</separatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
@@ -90,7 +90,6 @@
 			<controlaccess>
 				<head>Subjects:</head>
 				<subject source="lcsh" encodinganalog="650">State governments</subject>
-				<subject source="lcsh" encodinganalog="650">Manuscripts, Arabic</subject>
 				<subject source="lcsh" encodinganalog="650">Authors, English</subject>
 				<subject source="lcsh" encodinganalog="650">Artists--England</subject>
 				<subject source="lcsh" encodinganalog="650">Presidents--United States</subject>
@@ -116,10 +115,6 @@
 				<genreform source="aat" encodinganalog="655">Photographs</genreform>
 				<genreform source="aat" encodinganalog="655">Maps</genreform>
 				<genreform source="aat" encodinganalog="655">Poems</genreform>
-			</controlaccess>
-			<controlaccess>
-				<head>Titles:</head>
-				<title render="italic" encodinganalog="630">United States. Constitution</title>
 			</controlaccess>
 			<controlaccess>
 				<head>VCL Categories:</head>
@@ -179,7 +174,7 @@
 			<c01 level="series">
 				<did>
 					<unittitle><ref target="series5">Series V.</ref> Catherine the Great</unittitle>
-					<physdesc>(volume 1)</physdesc>
+					<physdesc>(1 volume)</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -242,30 +237,23 @@
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle><ref target="series15">Series XV.</ref> Constitution of The United
-						States</unittitle>
-					<physdesc>(volume 2)</physdesc>
+					<unittitle><ref target="series15">Series XV.</ref> Napoleon and His
+						Family</unittitle>
+					<physdesc>(1 volume)</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle><ref target="series16">Series XVI.</ref> Presidents of The United
 						States</unittitle>
-					<physdesc>(volume 3)</physdesc>
+					<physdesc>(1 volume)</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle><ref target="series17">Series XVII.</ref> Robert Louis
 						Stevenson</unittitle>
-					<physdesc>(volume 4)</physdesc>
-				</did>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unittitle><ref target="series18">Series XVIII.</ref> Napoleon and His
-						Family</unittitle>
-					<physdesc>(volume 5)</physdesc>
+					<physdesc>(1 volume)</physdesc>
 				</did>
 			</c01>
 		</dsc>
@@ -391,7 +379,7 @@
 				</did>
 				<c02 level="item">
 					<did>
-						<container>Volume 1</container>
+						<container>Volume</container>
 						<unittitle>Collection of approximately 40 manuscript documents signed by
 							Catherine, mostly relating to Russian Naval Matters, 1792-96. Bound in
 							contemporary green velvet. Evidently removed from the Russian Royal
@@ -1714,16 +1702,15 @@
 			</c01>
 			<c01 level="series" id="series15">
 				<did>
-					<unittitle>Series XV. Constitution of The United States</unittitle>
+					<unittitle>Series XV. Napoleon and His Family</unittitle>
 				</did>
 				<c02 level="item">
 					<did>
-						<container>Volume 2 (Oversize)</container>
-						<unittitle>"We the People of the United States…do Ordain and Establish this
-							Constitution for the United States of America." Printed in 2 columns on
-							4 numbered pages in Philadelphia by Dunlap and Claypool (Evans, American
-							Bibliography 20817), </unittitle>
-						<unitdate type="inclusive">1787</unitdate>
+						<container>Volume</container>
+						<unittitle>Album containing approximately 10 letters and documents signed by
+							Napoleon Bonaparte and members of the imperial family, including the
+							Empress Josephine and Empress Mari-Louise, </unittitle>
+						<unitdate type="inclusive">1787?-1816?</unitdate>
 					</did>
 				</c02>
 			</c01>
@@ -1733,7 +1720,7 @@
 				</did>
 				<c02 level="item">
 					<did>
-						<container>Volume 3</container>
+						<container>Volume</container>
 						<unittitle>Album containing letters and documents signed by every United
 							States president from George Washington through Franklin D. Roosevelt, </unittitle>
 						<unitdate type="inclusive">1796-1929</unitdate>
@@ -1746,23 +1733,9 @@
 				</did>
 				<c02 level="item">
 					<did>
-						<container>Volume 4</container>
+						<container>Volume</container>
 						<unittitle>Autograph transcript signed of his poem, "To H.F. Brown," </unittitle>
 						<unitdate type="inclusive">18--</unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series18">
-				<did>
-					<unittitle>Series XVIII. Napoleon and His Family</unittitle>
-				</did>
-				<c02 level="item">
-					<did>
-						<container>Volume 5</container>
-						<unittitle>Album containing approximately 10 letters and documents signed by
-							Napoleon Bonaparte and members of the imperial family, including the
-							Empress Josephine and Empress Mari-Louise, </unittitle>
-						<unitdate type="inclusive">1787?-1816?</unitdate>
 					</did>
 				</c02>
 			</c01>

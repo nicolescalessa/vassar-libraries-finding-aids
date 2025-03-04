@@ -18,9 +18,8 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Finding aid encoded by Laura Streett, <date>2011</date>. Updated by Mark Seidl,
-          <date>2022</date></creation>
-      <langusage>Finding aid written in<language>English.</language></langusage>
+      <creation>Finding aid encoded by Laura Streett, <date>2011</date>.</creation>
+      <langusage>Finding aid written in <language>English.</language></langusage>
     </profiledesc>
   </eadheader>
   <archdesc level="collection" type="inventory">
@@ -29,13 +28,13 @@
       <origination label="Creator:" encodinganalog="100">
         <corpname>Vassar College</corpname>
       </origination>
-      <unittitle label="Title:" encodinganalog="245"> Vassar College Scrapbooks</unittitle>
-      <unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1860-1978 </unitdate>
+      <unittitle label="Title:" encodinganalog="245">Vassar College Scrapbooks</unittitle>
+      <unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1860-1978</unitdate>
       <physdesc label="Quantity:" encodinganalog="300$a">20 cubic feet (33 volumes)</physdesc>
       <repository label="Repository:" encodinganalog="852$a">
         <corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
       </repository>
-      <abstract label="Abstract:" encodinganalog="520$a"> Scrapbooks containing newspaper clippings
+      <abstract label="Abstract:" encodinganalog="520$a">Scrapbooks containing newspaper clippings
         and programs relating to Vassar College events and issues.</abstract>
     </did>
     <bioghist encodinganalog="545">
@@ -51,17 +50,17 @@
     </scopecontent>
     <accessrestrict encodinganalog="506">
       <head>Access</head>
-      <p>This collection is open for research according to the <archref
-          href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of
-          the Vassar College Archives and Special Collections Library</archref>without any
+      <p>This collection is open for research according to the <extref
+          href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of
+          the Vassar College Archives and Special Collections Library</extref> without any
         additional restrictions.</p>
     </accessrestrict>
     <userestrict encodinganalog="540">
       <head>Restrictions on Use</head>
       <p>Permission to quote (publish) from unpublished or previously published material must be
-        obtained as described in the <archref
-          href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of
-          the Vassar College Archives and Special Collections Library. </archref></p>
+        obtained as described in the <extref
+          href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of
+          the Vassar College Archives and Special Collections Library.</extref></p>
     </userestrict>
     <controlaccess>
       <head>Subject Headings</head>
@@ -71,18 +70,16 @@
       </controlaccess>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Women's colleges--New York
-          (State)--Poughkeepsie</subject>
+        <subject source="lcsh" encodinganalog="650">Women's colleges--New York (State)--Poughkeepsie</subject>
         <subject source="lcsh" encodinganalog="650">Women--Education</subject>
       </controlaccess>
       <controlaccess>
-        <head> Document Types:</head>
+        <head>Document Types:</head>
         <genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
       </controlaccess>
       <controlaccess>
-        <head>VCL Categories</head>
-        <subject source="local" encodinganalog="690">Vassar College Audiovisuals and Realia
-        </subject>
+        <head>VCL Categories:</head>
+        <subject source="local" encodinganalog="690">Vassar College Events and Issues</subject>
       </controlaccess>
     </controlaccess>
     <odd encodinganalog="500">

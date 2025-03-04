@@ -31,7 +31,7 @@
 			<unittitle label="Title:" encodinganalog="245">Mary C. Schlosser Collection of Harriet Beecher Stowe</unittitle>
 			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1838-2021</unitdate>
 			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">1852-1934</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">8.2 cubic feet (15 boxes), 4 mapcase folders, 2 framed items</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">8.2 cubic feet (15 boxes), 4 map case folders, 2 framed items</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -61,7 +61,7 @@
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>The collection consists of printed ephemera, visual media, sheet music, and a variety of popular culture artifacts and realia related to American author and abolitionist Harriet Beecher Stowe and her most popular and divisive novel, <emph render="italic">Uncle Tom's Cabin</emph>, collected by Mary C. Schlosser. The collection contains a variety of material related to stage adaptations of <emph render="italic">Uncle Tom's Cabin</emph>, including advertisements, playbills, programs, posters and illustrated sheet music, as well as actor cards and other memorabilia. Visual media in the collection consists of lantern slides of scenes from the novel, lithograph prints, original paintings, and posters depicting scenes from the novel as well as stage adaptations. The realia portion of the collection contains a wide variety of material culture objects, from card games and toys, to cereal boxes, to pottery and sculpture of scenes and characters from <emph render="italic">Uncle Tom's Cabin</emph>. A small amount of material related to Stowe's second anti-slavery novel <emph render="italic">Dred: A Tale of the Great Dismal Swamp</emph> (1856), is also included.
+			<p>The collection consists of printed ephemera, visual media, sheet music, and a variety of popular culture artifacts and realia related to American author and abolitionist Harriet Beecher Stowe and her most popular and divisive novel, <emph render="italic">Uncle Tom's Cabin</emph>, collected by Mary C. Schlosser. A small collection of letters written by members of the Beecher family, including Catherine Beecher, Isabella Beecher Hooker, and Lyman Beecher Stowe, is also included. The collection contains a variety of material related to stage adaptations of <emph render="italic">Uncle Tom's Cabin</emph>, including advertisements, playbills, programs, posters and illustrated sheet music, as well as actor cards and other memorabilia. Visual media in the collection consists of lantern slides of scenes from the novel, lithograph prints, original paintings, and posters depicting scenes from the novel as well as stage adaptations. The realia portion of the collection contains a wide variety of material culture objects, from card games and toys, to cereal boxes, to pottery and sculpture of scenes and characters from <emph render="italic">Uncle Tom's Cabin</emph>. A small amount of material related to Stowe's second anti-slavery novel <emph render="italic">Dred: A Tale of the Great Dismal Swamp</emph> (1856), is also included.
 			</p>
 		
 		</scopecontent>
@@ -74,7 +74,7 @@
 			<head>Arrangement</head>
 			<p> The collection is organized into six series: Series I. Printed Ephemera, Series II.
 				Sheet Music, Series III. Visual Media, Series IV. Realia, Series V. Audiovisual
-				Media, and Series VI. Catalogued Materials. </p>
+				Media, Series VI. Beecher Family Papers, and Series VII. Catalogued Materials. </p>
 		</arrangement>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
@@ -93,11 +93,10 @@
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
 			<head>Related Materials</head>
-			<p><archref
-				href="https://digitallibrary.vassar.edu/collections/finding-aids/d6e79ade-b143-4976-852c-7d8b32ae536b"
-				>Catherine Beecher Letters. Autograph Files,  Archives and Special Collections Library, Vassar College Libraries.</archref></p>
-			<p>Henry Ward Beecher Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
-			<p>Lyman Beecher Collection,  Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/d6e79ade-b143-4976-852c-7d8b32ae536b">Autograph Files, Archives and Special Collections Library, Vassar College Libraries</archref></p>
+			<p>Henry Ward Beecher Collection, Archives and Special Collections Library, Vassar College Libraries</p>
+			<p>Lyman Beecher Collection, Archives and Special Collections Library, Vassar College Libraries</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/4b37858c-1c5b-44bc-9ea8-1e29a1896994">Susan B. Anthony Papers, Archives and Special Collections Library, Vassar College Libraries</archref></p>
 		</relatedmaterial>
 		<separatedmaterial encodinganalog="544 0">
 			<head>Separated Materials</head>
@@ -121,6 +120,7 @@
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">Abolitionists</subject>
 				<subject source="lcsh" encodinganalog="650">African Americans in art--19th century</subject>
 				<subject source="lcsh" encodinganalog="650">African Americans in literature--19th century</subject>
 				<subject source="lcsh" encodinganalog="650">African Americans in popular culture--United States</subject>
@@ -129,9 +129,14 @@
 				<subject source="lcsh" encodinganalog="650">Blackface minstrel shows--United States</subject>
 				<subject source="lcsh" encodinganalog="650">Literature--Adaptations</subject>
 				<subject source="lcsh" encodinganalog="650">Popular culture and literature--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Slavery--Anti-slavery movements</subject>
 				<subject source="lcsh" encodinganalog="650">Slavery--United States</subject>
 				<subject source="lcsh" encodinganalog="650">Stage adaptations</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Suffrage</subject>
 				<subject source="lcsh" encodinganalog="650">Women abolitionists--United States</subject>
+				<subject source="lcsh" encodinganalog="650">Women social reformers</subject>
+				<subject source="lcsh" encodinganalog="650">Women's rights</subject>
+				
 			</controlaccess>
 			<controlaccess>
 				<head>Document Types:</head>
@@ -173,15 +178,15 @@
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Emma Gronbeck, May 2024.</p>
+			<p>Encoded by Emma Gronbeck, May 2024. Updated, February 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Processed by Emma Gronbeck, May 2024.</p>
+			<p>Processed by Emma Gronbeck, May 2024. Updated, February 2025.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Gift of Mary C. Schlosser, January 2023 [M2023-003].</p>
+			<p>Gift of Mary C. Schlosser, 2019-2023. [M2019-043, M2023-003]</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -283,23 +288,23 @@
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series5">Series VI.</ref> Beecher Family Papers, </unittitle>
-					<unitdate type="inclusive" normal=""></unitdate>
-					<physdesc>[Boxes ]</physdesc>
+						<ref target="series6">Series VI.</ref> Beecher Family Papers, </unittitle>
+					<unitdate type="inclusive" normal="1836/1947">1836-1947</unitdate>
+					<physdesc>[Box 2]</physdesc>
 				</did>
 				<scopecontent>
-					<p> This series consists manuscript materials, correspondence, and printed material related to members of the Beecher family, including Harriet Beecher Stowe's sisters, Catherine Beecher and Isabella Hooker Beecher, and, her son, Lyman Beecher Stowe.</p>
+					<p> This series contains correspondence related to members of the Beecher family, including Harriet Beecher Stowe's sisters, Catherine Beecher and Isabella Beecher Hooker, and, her son, Lyman Beecher Stowe.</p>
 				</scopecontent>
 				<arrangement>
-					<p> Arranged alphabetically by title. </p>
+					<p> Arranged alphabetically by name.</p>
 				</arrangement>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series6">Series VII.</ref> Catalogued Materials, </unittitle>
+						<ref target="series7">Series VII.</ref> Catalogued Materials, </unittitle>
 					<unitdate type="inclusive" normal="1838/2017">1838-2017</unitdate>
-					<physdesc>[98 items]</physdesc>
+					<physdesc>[102 items]</physdesc>
 				</did>
 				<scopecontent>
 					<p> This series consists of printed materials that were separated from the
@@ -753,52 +758,14 @@
 					<did>
 						<unittitle><emph render="bold">Leaflets</emph></unittitle>
 					</did>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.17</container>
-							<unittitle>Blackwell, Alice Stone, "Easter Greetings," </unittitle>
-							<unitdate type="inclusive">undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.18</container>
-							<unittitle>Colonial Theatre, Albany, NY, </unittitle>
-							<unitdate type="inclusive">undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.19</container>
-							<unittitle>"Coming! The Standard Combination in the Great Moral Drama,
-									<emph render="italic">Uncle Tom's Cabin</emph>," </unittitle>
-							<unitdate type="inclusive">undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.20</container>
-							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>" (Made in
-								Germany), </unittitle>
-							<unitdate type="inclusive">undated</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 2.2</container>
-							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Boston
-								Museum, advertisement, </unittitle>
-							<unitdate type="inclusive" normal="1876">1876</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.21</container>
-							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> Historic Site
-								Tour Guide," </unittitle>
-							<unitdate type="inclusive">undated</unitdate>
-						</did>
-					</c03>
+					<c03 level="file"><did><container>Folder 2.34</container><unittitle>"An Appeal to the Women of the United States by the National Woman Suffrage and Educational Committee, Washington, D.C.," Hartford, CT: Case, Lockwood &amp; Brainard, Printers, </unittitle><unitdate type="inclusive" normal="1871">1871</unitdate></did></c03>
+					<c03 level="file"><did><container>Folder 1.17</container><unittitle>Blackwell, Alice Stone, "Easter Greetings", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Folder 1.18</container><unittitle>Colonial Theatre, Albany, NY, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Folder 1.19</container><unittitle>"Coming! The Standard Combination in the Great Moral Drama, <emph render="italic">Uncle Tom's Cabin</emph>", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Folder 2.35</container><unittitle>Hooker, Isabella Beecher, "Declaration and Pledge of the Women of the United States, Informally Proposed and Adopted by the Women's Suffrage Convention at Washington, D.C., Jan. 12, 1871," New York: Journeymen Printers' Co-Operative Association, </unittitle><unitdate type="inclusive" normal="1871">1871</unitdate></did></c03>
+					<c03 level="file"><did><container>Folder 1.20</container><unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>" (Made in Germany), </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Folder 2.2</container><unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>," Boston Museum, advertisement, </unittitle><unitdate type="inclusive" normal="1876">1876</unitdate></did></c03>
+					<c03 level="file"><did><container>Folder 1.21</container><unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> Historic Site Tour Guide", </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
 				</c02>
 				<c02 level="file">
 					<did>
@@ -2355,7 +2322,7 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase - Drawer 37</container>
+							<container>Map Case - Drawer 37</container>
 							<unittitle>"Ed. F. Davis' <emph render="italic">Uncle Tom's
 								Cabin</emph>: Uncle Tom bidding his children farewell," Erie Litho.
 								Co., Erie, PA, </unittitle>
@@ -2424,7 +2391,7 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase - Drawer 37</container>
+							<container>Map Case - Drawer 37</container>
 							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, Middaugh's
 								New Orleans <emph render="italic">Uncle Tom's Cabin</emph> Co.,"
 								Erie Litho. Co., Erie, PA, </unittitle>
@@ -2452,7 +2419,7 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase - Drawer 33</container>
+							<container>Map Case - Drawer 33</container>
 							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, No. 2307,"
 								Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
 							<unitdate type="inclusive">undated</unitdate>
@@ -2461,7 +2428,7 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase - Drawer 33</container>
+							<container>Map Case - Drawer 33</container>
 							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph>, No. 2308,"
 								Ackermann-Quigley Litho. Co., Kansas City, </unittitle>
 							<unitdate type="inclusive">undated</unitdate>
@@ -2479,7 +2446,7 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase - Drawer 37</container>
+							<container>Map Case - Drawer 37</container>
 							<unittitle>"<emph render="italic">Uncle Tom's Cabin</emph> in Print,"
 								exhibition poster, Vassar College, </unittitle>
 							<unitdate type="inclusive" normal="2004">2004</unitdate>
@@ -3370,15 +3337,28 @@
 					</did>
 				</c02>
 			</c01>
-			<c01 level="series" id="series6">
+			<c01 level="series" id="series6"><did><unittitle>Series VI. Beecher Family Papers, </unittitle><unitdate type="inclusive" normal="1836/1947">1836-1947</unitdate></did>
+				<c02 level="file"><did><container>Folder 2.24</container><unittitle>Letter from Beecher, Catherine to Thomas Dick, with card from Calvin E. Stowe, </unittitle><unitdate type="inclusive" normal="183605">1836 May</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.25</container><unittitle>Letter from Beecher, Catherine to Horace Greeley, Esq., </unittitle><unitdate type="inclusive" normal="18510128">1851 Jan 28</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.26</container><unittitle>Letter from Beecher, Catherine to Hon. Judge Lane, </unittitle><unitdate type="inclusive" normal="18470826">1847 Aug 26</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.27</container><unittitle>Letter from Beecher, Catherine to Anna Lynch, </unittitle><unitdate type="inclusive" normal="18500712">1850 Jul 12</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.28</container><unittitle>Letter from Beecher, Catherine to "Mrs. Stone," </unittitle><unitdate type="inclusive" normal="18520105">1852 Jan 5</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.29</container><unittitle>Letter from Beecher, Catherine to Rev. Dr. [Bennet?] Tyler, </unittitle><unitdate type="inclusive" normal="18500601">1850 Jun 1</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.30</container><unittitle>Letter from Beecher, Catherine to "My dear Virgia," </unittitle><unitdate type="inclusive" normal="1870/1879">1870s</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.31</container><unittitle>Letter from Hooker, Isabella Beecher to Eva Douglas Wise, </unittitle><unitdate type="inclusive" normal="189104">[1891 Apr?]</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.32</container><unittitle>Letter from Hooker, Isabella Beecher to "My dear friend," </unittitle><unitdate type="inclusive" normal="18760426">[1876?] Apr 26</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.33</container><unittitle>Letter from Stowe, Lyman Beecher to Emanuel Hertz, </unittitle><unitdate type="inclusive" normal="19330417">1933 Apr 17</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.33</container><unittitle>Letter from Stowe, Lyman Beecher to Emanuel Hertz, </unittitle><unitdate type="inclusive" normal="19340524">1934 May 24</unitdate><physdesc></physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.33</container><unittitle>Letter from Stowe, Lyman Beecher to "Mr. Roberts," </unittitle><unitdate type="inclusive" normal="19470602">1947 Jun 2</unitdate><physdesc></physdesc></did></c02></c01>
+			<c01 level="series" id="series7">
 				<did>
-					<unittitle>Series VI. Catalogued Material, </unittitle>
+					<unittitle>Series VII. Catalogued Material, </unittitle>
 					<unitdate type="inclusive" normal="1838/2017">1838-2017</unitdate>
 				</did>
 				<scopecontent>
 					<p><extref
 						href="https://vassar.primo.exlibrisgroup.com/discovery/search?query=any,contains,Mary%20Schlosser%20Collection%20of%20Harriet%20Beecher%20Stowe,AND&amp;query=any,contains,stowe,AND&amp;tab=spcoll&amp;search_scope=spcoll&amp;vid=01VAC_INST:VAC&amp;mode=advanced&amp;offset=0"
-						>Rare books and pamphlets, as well as a number of periodicals and broadsides, were separated from the collection and catalogued as part of the Archives and Special Collections Library Rare Book Collection. These items can be found by searching the Vassar College Libraries online catalog for the Mary C. Schlosser Collection of Harriet Beecher Stowe, as well as listed at the end of this guide as Series VI. Catalogued Materials.</extref></p>
+						>Rare books and pamphlets, as well as a number of periodicals and broadsides, were separated from the collection and catalogued as part of the Archives and Special Collections Library Rare Book Collection. These items can be found by searching the Vassar College Libraries online catalog for the Mary C. Schlosser Collection of Harriet Beecher Stowe, as well as listed at the end of this guide as Series VII. Catalogued Materials.</extref></p>
 				</scopecontent>
 				<c02 level="subseries">
 					<did>
@@ -3593,37 +3573,13 @@
 					<did>
 						<unittitle><emph render="bold">Pamphlets</emph></unittitle>
 					</did>
-					<c03 level="file">
-						<did>
-							<container/>
-							<unittitle>Bristed, Charles Astor, "In Honorem…," </unittitle>
-							<unitdate type="inclusive" normal="1870">circa 1870</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container/>
-							<unittitle>"Calvin E. Stowe and Harriet Beecher Stowe his wife v. F. W.
-								Thomas," </unittitle>
-							<unitdate type="inclusive" normal="185310">1853 Oct</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container/>
-							<unittitle>Duncan, V. and R., "Rememb'ring," New York: Irving Berlin,
-								Inc., </unittitle>
-							<unitdate type="inclusive" normal="1923">circa 1923</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container/>
-							<unittitle>"Green's Juvenile Drama: Dred by Harriet Beecher Stowe,"
-								London: J. K. Green, </unittitle>
-							<unitdate type="inclusive" normal="1856">1856</unitdate>
-						</did>
-					</c03>
+					<c03 level="file"><did><unittitle>"Annual Meeting of the Connecticut Woman Suffrage Association, Held At Hartford, September, 9, 1870. Report of the Executive Committee," Hartford: Press of Case, Lockwood &amp; Brainard, </unittitle><unitdate type="inclusive" normal="1871">1871</unitdate></did></c03>
+					<c03 level="file"><did><unittitle>Bristed, Charles Astor, "In Honorem…", </unittitle><unitdate type="inclusive" normal="1870">circa 1870</unitdate></did></c03>
+					<c03 level="file"><did><unittitle>"Calvin E. Stowe and Harriet Beecher Stowe his wife v. F. W. Thomas", </unittitle><unitdate type="inclusive" normal="185310">1853 Oct</unitdate></did></c03>
+					<c03 level="file"><did><unittitle>"The Constitutional Rights of the Women of the United States, an Address Before the International Council of Women. Washington, D.C., March 30, 1888," Hartford, CT: Fowler &amp; Miller Company, Printers, </unittitle><unitdate type="inclusive" normal="1888">[1888]</unitdate></did></c03>
+					<c03 level="file"><did><unittitle>Duncan, V. and R., "Rememb'ring," New York: Irving Berlin, Inc., </unittitle><unitdate type="inclusive" normal="1923">circa 1923</unitdate></did></c03>
+					<c03 level="file"><did><unittitle>"Green's Juvenile Drama: Dred by Harriet Beecher Stowe," London: J. K. Green, </unittitle><unitdate type="inclusive" normal="1856">1856</unitdate></did></c03>
+					<c03 level="file"><did><unittitle>Hooker, Isabella Beecher, "Memorial of the Connecticut Woman Suffrage Association to the Constitutional Convention Assembled in Hartford, Connecticut, January 1, 1902, and an Argument Theron," Hartford, CT: Plimpton Mfg. Co. Print, </unittitle><unitdate type="inclusive" normal="1902">[1902?]</unitdate></did></c03>
 					<c03 level="file">
 						<did>
 							<container/>
@@ -3839,6 +3795,14 @@
 							<container/>
 							<unittitle>"Antiques," <emph render="italic">Antiques</emph> (p. 343), </unittitle>
 							<unitdate type="inclusive" normal="196809">1968 Sep</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container/>
+							<unittitle>"The Beecher Island Annual: Sixty-Second Anniversary of the Battle of Beecher Island, Sept. 17, 18, 1868," Wray, Colorado: The Beecher Island Battle Memorial Association, </unittitle>
+							<unitdate type="inclusive" normal="1930">1930</unitdate>
+							<physdesc>[2 copies]</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">

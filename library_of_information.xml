@@ -30,11 +30,11 @@
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Library of Information Pamphlets</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1938-1946</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">4 cubic feet (4 boxes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">4.5 cubic feet (6 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a">Pamphlets, reports, and other printed
+			<abstract label="Abstract:" encodinganalog="520$a">Pamphlets, reports, clippings, and other printed
 				materials relating to the Second World War.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
@@ -54,35 +54,46 @@
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
 			<p>Pamphlets and other printed materials issued by the U.S. Office of Education's
-				Civilian Morale Service and distrubuted by the Key Center of Information and
+				Civilian Morale Service and distributed by the Key Center of Information and
 				Training at Vassar College. The materials address a variety of topics pertaining to
 				World War II and related issues, including the geographical theaters of the war,
 				military recruitment, wartime production, and civilian morale.</p>
 		</scopecontent>
+		<arrangement>
+			<head>Arrangement</head>
+			<p>The collection is arranged alphabetically by subject.</p>
+		</arrangement>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref
+			<p>This collection is open for research according to the <extref
 					href="https://library.vassar.edu/specialcollections/policies" show="new">
 					regulations of the Vassar College Archives and Special Collections
-					Library</archref> without any additional restrictions.</p>
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
 			<p>Permission to quote (publish) from unpublished or previously published material must
-				be obtained as described in the <archref
+				be obtained as described in the <extref
 					href="https://library.vassar.edu/specialcollections/policies" show="new">
 					regulations of the Vassar College Archives and Special Collections Library.
-				</archref></p>
+				</extref></p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Subjects:</head>
-				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Air operations.</subject>
-				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Campaigns.</subject>
-				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Naval operations.</subject>
-				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Occupied territories.</subject>
-				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--United States.</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Air operations</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Campaigns</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Naval operations</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Occupied territories</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945--United States</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Newspapers</genreform>
+				<genreform source="aat" encodinganalog="655">Pamphlets</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
 			</controlaccess>
 			<controlaccess>
 				<head>VCL Categories:</head>
@@ -93,1129 +104,1290 @@
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
 			<p>Encoded by Mark Seidl, March 2022. Updated June 2022.</p>
+			<p>Updated by Emma Gronbeck, February 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
 			<p>Processed by Angelina Papa, February 2022.</p>
+			<p>Updated with additional materials discovered in Vassar College Libraries storage, February 2025.</p>
 		</processinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
 			<p>Library of Information Pamphlets, Archives and Special Collections Library, Vassar College Libraries.</p>
 		</prefercite>
-		<dsc type="analyticover">
-			<head>Series List</head>
-			<c01 level="series">
-				<did>
-					<unittitle> </unittitle>
-				</did>
-				<scopecontent>
-					<p>
-						<ref target="series1"> A-Fl </ref> — <ref target="series2"> Fo-M </ref> —
-							<ref target="series3"> N-S </ref> — <ref target="series4"> T-Y </ref>
-					</p>
-				</scopecontent>
-			</c01>
-		</dsc>
 		<dsc type="in-depth">
 			<head>Container List</head>
 			<p/>
-			<c01 level="series" id="series1">
+			<c01 level="file">
 				<did>
-					<unittitle>Box 1: A-Fl</unittitle>
+					<container>Box 6</container>
+					<unittitle>Card Index to Library of Information Pamphlets (incomplete), </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
-				<c02 level="file">
-					<did>
-						<unittitle>Aeronautic Education, </unittitle>
-						<unitdate type="inclusive">1940-1943</unitdate>
-						<physdesc>(6 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Africa, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Air Raids - Protective Measures, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Airplanes, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Alaska, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Aliens, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Asia, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Australia, </unittitle>
-						<unitdate type="inclusive">1939-1945</unitdate>
-						<physdesc>(10 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Baltic States, </unittitle>
-						<unitdate type="inclusive">1944</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Belgian Congo, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Belgium, </unittitle>
-						<unitdate type="inclusive">1945</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Brazil, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Business, </unittitle>
-						<unitdate type="inclusive">1941</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Burma, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Campaigns, Aerial, </unittitle>
-						<unitdate type="inclusive">1941-1945</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Campaigns, Africa, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Campaigns, France, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Campaigns, Greece, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Canada, </unittitle>
-						<unitdate type="inclusive">1941-1946</unitdate>
-						<physdesc>(16 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Censorship, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Chemical Warfare, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Child Labor, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Child Psychology, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Child Welfare, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(6 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>China, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Churchill, Winston, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(27 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Civilian Defense, </unittitle>
-						<unitdate type="inclusive">1940-1941</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Civilian Defense, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(19 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Civilian Defense, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Civilian Defense, </unittitle>
-						<unitdate type="inclusive">1944, undated</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Colleges and Universities, </unittitle>
-						<unitdate type="inclusive">1940-1942</unitdate>
-						<physdesc>(11 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Colleges and Universities, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Conscientious Objectors, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Conservation of Resources, </unittitle>
-						<unitdate type="inclusive">1941</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Czechoslovakia, </unittitle>
-						<unitdate type="inclusive">1941-1944</unitdate>
-						<physdesc>(20 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Democracy, </unittitle>
-						<unitdate type="inclusive">1940-1943</unitdate>
-						<physdesc>(13 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Denmark, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Dodecanese Islands, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Dutch West Indies, </unittitle>
-						<unitdate type="inclusive">1944</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>East (Far East), </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Education, </unittitle>
-						<unitdate type="inclusive">1941-1944</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Education, Australia, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Education, China, </unittitle>
-						<unitdate type="inclusive">1943-1944</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Education, Europe, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Education, Netherlands, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Education, Russia, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Family Security, </unittitle>
-						<unitdate type="inclusive">1941-1942</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Finland, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Flags, U.S., </unittitle>
-						<unitdate type="inclusive">1944</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
 			</c01>
-			<c01 level="series" id="series2">
+			<c01 level="file">
 				<did>
-					<unittitle>Box 2: Fo-M</unittitle>
+					<container>Box 1</container>
+					<unittitle>Aeronautic Education, </unittitle>
+					<unitdate type="inclusive" normal="1940/1943">1940-1943</unitdate>
+					<physdesc>(6 items)</physdesc>
 				</did>
-				<c02 level="file">
-					<did>
-						<unittitle>Food, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Forums, Open, </unittitle>
-						<unitdate type="inclusive">1939-1943</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>France, </unittitle>
-						<unitdate type="inclusive">194201945</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Gardens, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Germany, </unittitle>
-						<unitdate type="inclusive">1940-1943</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Great Britain, </unittitle>
-						<unitdate type="inclusive">1939-1944</unitdate>
-						<physdesc>(16 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Great Britain, Armed Forces, </unittitle>
-						<unitdate type="inclusive">1943-1945</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Great Britain, Army, </unittitle>
-						<unitdate type="inclusive">1941-1944</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Great Britain, Empire, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Great Britain, Navy, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Great Britain, Royal Air Force, </unittitle>
-						<unitdate type="inclusive">1940-1945</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Great Britain, Social Conditions, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Health, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>High School Victory Corps, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Housing, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(6 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>India, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(18 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>India, </unittitle>
-						<unitdate type="inclusive">1944-1945</unitdate>
-						<physdesc>(11 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Inflation, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>International Organization, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(18 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Italy, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Labor, </unittitle>
-						<unitdate type="inclusive">1940-1942</unitdate>
-						<physdesc>(15 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Labor, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(13 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Labor, </unittitle>
-						<unitdate type="inclusive">1944</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Language Study, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Lend-Lease Operations, </unittitle>
-						<unitdate type="inclusive">1941-1943</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Lend-Lease Operations, </unittitle>
-						<unitdate type="inclusive">1944-1945</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Levant (Middle East), </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Liberty, </unittitle>
-						<unitdate type="inclusive">1941-1942</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Libraries, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(9 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Malta, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Medical Aspects, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Mental Hygiene, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Merchant Marine, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Military Service, Compulsory, </unittitle>
-						<unitdate type="inclusive">1940-1944</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Military Training, </unittitle>
-						<unitdate type="inclusive">1941-1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Morale, </unittitle>
-						<unitdate type="inclusive">1941-1944</unitdate>
-						<physdesc>(9 items)</physdesc>
-					</did>
-				</c02>
 			</c01>
-			<c01 level="series" id="series3">
+			<c01 level="file">
 				<did>
-					<unittitle>Box 3: N-S</unittitle>
+					<container>Box 1</container>
+					<unittitle>Africa, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
 				</did>
-				<c02 level="file">
-					<did>
-						<unittitle>National Defense, </unittitle>
-						<unitdate type="inclusive">1938-1942</unitdate>
-						<physdesc>(12 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Naval Operations, </unittitle>
-						<unitdate type="inclusive">1940-1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Netherlands, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>New Zealand, </unittitle>
-						<unitdate type="inclusive">1943-1944</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Norway, </unittitle>
-						<unitdate type="inclusive">1940-1943</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Nurses and Nursing, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(12 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Patents, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Peace, </unittitle>
-						<unitdate type="inclusive">1941-1944</unitdate>
-						<physdesc>(13 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Philippine Islands, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Poland, </unittitle>
-						<unitdate type="inclusive">1941</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Poland, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(12 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Press, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Prices--Regulation, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(12 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Prices--Regulation, </unittitle>
-						<unitdate type="inclusive">1944-1945</unitdate>
-						<physdesc>(11 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Priorities, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Prisoners and Prisons, </unittitle>
-						<unitdate type="inclusive">1944</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Radio Broadcasting, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Rationing, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(6 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Raw Materials, </unittitle>
-						<unitdate type="inclusive">1941-1943</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War), </unittitle>
-						<unitdate type="inclusive">1941-1942</unitdate>
-						<physdesc>(16 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War), </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(19 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War), </unittitle>
-						<unitdate type="inclusive">1944</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War)--Economic Aspects, </unittitle>
-						<unitdate type="inclusive">1941-1943</unitdate>
-						<physdesc>(14 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War)--Economic Aspects, </unittitle>
-						<unitdate type="inclusive">1944-1945</unitdate>
-						<physdesc>(9 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War)--Education, </unittitle>
-						<unitdate type="inclusive">1941-1944</unitdate>
-						<physdesc>(9 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War)--Great Britain, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Reconstruction (World War)--U.S., </unittitle>
-						<unitdate type="inclusive">1940-1944</unitdate>
-						<physdesc>(10 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Recreation, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(6 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Refugees, </unittitle>
-						<unitdate type="inclusive">1939-1946</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Religion, </unittitle>
-						<unitdate type="inclusive">1940-1944</unitdate>
-						<physdesc>(19 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Rural Schools, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Russia, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Salvage, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Science, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Schools at War, </unittitle>
-						<unitdate type="inclusive">1943-1944</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Service Men, Discharged, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(11 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Speakers, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
 			</c01>
-			<c01 level="series" id="series4">
+			<c01 level="file">
 				<did>
-					<unittitle>Box 4: T-Y</unittitle>
+					<container>Box 1</container>
+					<unittitle>Air Raids - Protective Measures, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(7 items)</physdesc>
 				</did>
-				<c02 level="file">
-					<did>
-						<unittitle>Technical Literature, </unittitle>
-						<unitdate type="inclusive">1940-1943</unitdate>
-						<physdesc>(6 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Transportation, </unittitle>
-						<unitdate type="inclusive">1941-1943</unitdate>
-						<physdesc>(9 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>United Nations, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(14 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Armed Forces, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(12 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Armed Forces Institute, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(3 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Army, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(10 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Army--Women's Army Corps, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Coast Guard, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Federal Bureau of Investigation, </unittitle>
-						<unitdate type="inclusive">1941-1942</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Foreign Relations, </unittitle>
-						<unitdate type="inclusive">1941-1945</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Marine Corps, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Maritime Service, </unittitle>
-						<unitdate type="inclusive">1944</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Navy, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(4 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Navy--Women's Naval Reserve, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>U.S. Office for Emergency Management, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Venereal Diseases, </unittitle>
-						<unitdate type="inclusive">1941-1943</unitdate>
-						<physdesc>(12 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Vocational Education, </unittitle>
-						<unitdate type="inclusive">1941-1944</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>War Aims, </unittitle>
-						<unitdate type="inclusive">1941-1943</unitdate>
-						<physdesc>(6 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>War and Children, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>War and Education, </unittitle>
-						<unitdate type="inclusive">1942-1943</unitdate>
-						<physdesc>(5 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>War Finance, </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(20 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>War Production, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(13 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>War Production, </unittitle>
-						<unitdate type="inclusive">1943-1944</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>West Indies, </unittitle>
-						<unitdate type="inclusive">1943</unitdate>
-						<physdesc>(1 item)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Wilson, Woodrow, </unittitle>
-						<unitdate type="inclusive">1942</unitdate>
-						<physdesc>(2 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>World War, 1939-, </unittitle>
-						<unitdate type="inclusive">1941-1943</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>World War, 1939- -- Great Britain, </unittitle>
-						<unitdate type="inclusive">1939-1945</unitdate>
-						<physdesc>(18 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>World War, 1939- -- Peace, </unittitle>
-						<unitdate type="inclusive">1941-1945</unitdate>
-						<physdesc>(21 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>World War, 1939- --U.S., </unittitle>
-						<unitdate type="inclusive">1040-1942</unitdate>
-						<physdesc>(8 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>World War, 1939- --U.S., </unittitle>
-						<unitdate type="inclusive">1942-1945</unitdate>
-						<physdesc>(12 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Youth, </unittitle>
-						<unitdate type="inclusive">1940-1944</unitdate>
-						<physdesc>(10 items)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<unittitle>Yugoslavia, </unittitle>
-						<unitdate type="inclusive">1942-1944</unitdate>
-						<physdesc>(7 items)</physdesc>
-					</did>
-				</c02>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Airplanes, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Alaska, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Aliens, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Asia, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Australia, </unittitle>
+					<unitdate type="inclusive" normal="1939/1945">1939-1945</unitdate>
+					<physdesc>(10 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Baltic States, </unittitle>
+					<unitdate type="inclusive" normal="1944">1944</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Belgian Congo, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Belgium, </unittitle>
+					<unitdate type="inclusive" normal="1945">1945</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Brazil, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Business, </unittitle>
+					<unitdate type="inclusive" normal="1941">1941</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Burma, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Campaigns, Aerial, </unittitle>
+					<unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Campaigns, Africa, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Campaigns, France, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Campaigns, Greece, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Canada, </unittitle>
+					<unitdate type="inclusive" normal="1941/1946">1941-1946</unitdate>
+					<physdesc>(16 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Censorship, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Chemical Warfare, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Child Labor, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Child Psychology, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Child Welfare, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(6 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>China, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Churchill, Winston, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(27 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Civilian Defense, </unittitle>
+					<unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Civilian Defense, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(19 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Civilian Defense, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Civilian Defense, </unittitle>
+					<unitdate type="inclusive" normal="1944">1944, undated</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Colleges and Universities, </unittitle>
+					<unitdate type="inclusive" normal="1940/1942">1940-1942</unitdate>
+					<physdesc>(11 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Colleges and Universities, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Conscientious Objectors, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Conservation of Resources, </unittitle>
+					<unitdate type="inclusive" normal="1941">1941</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Czechoslovakia, </unittitle>
+					<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+					<physdesc>(21 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Democracy, </unittitle>
+					<unitdate type="inclusive" normal="1940/1943">1940-1943</unitdate>
+					<physdesc>(13 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Denmark, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Dodecanese Islands, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Dutch West Indies, </unittitle>
+					<unitdate type="inclusive" normal="1944">1944</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>East (Far East), </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Education, </unittitle>
+					<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Education, Australia, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Education, China, </unittitle>
+					<unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Education, Europe, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Education, Netherlands, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 1</container>
+					<unittitle>Education, Russia, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Family Security, </unittitle>
+					<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Finland, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Flags, U.S., </unittitle>
+					<unitdate type="inclusive" normal="1944">1944</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Food, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Forums, Open, </unittitle>
+					<unitdate type="inclusive" normal="1939/1943">1939-1943</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>France, </unittitle>
+					<unitdate type="inclusive" normal="194201945">194201945</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Gardens, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Germany, </unittitle>
+					<unitdate type="inclusive" normal="1940/1943">1940-1943</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Great Britain, </unittitle>
+					<unitdate type="inclusive" normal="1939/1944">1939-1944</unitdate>
+					<physdesc>(16 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Great Britain, Armed Forces, </unittitle>
+					<unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Great Britain, Army, </unittitle>
+					<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Great Britain, Empire, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Great Britain, Navy, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Great Britain, Royal Air Force, </unittitle>
+					<unitdate type="inclusive" normal="1940/1945">1940-1945</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Great Britain, Social Conditions, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Health, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(12 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>High School Victory Corps, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Housing, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(6 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>India, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(21 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>India, </unittitle>
+					<unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
+					<physdesc>(11 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Inflation, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>International Organization, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(23 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Italy, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Labor, </unittitle>
+					<unitdate type="inclusive" normal="1940/1942">1940-1942</unitdate>
+					<physdesc>(15 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Labor, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(16 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Labor, </unittitle>
+					<unitdate type="inclusive" normal="1944">1944</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Language Study, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942, 1944</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Lend-Lease Operations, </unittitle>
+					<unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
+					<physdesc>(6 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Lend-Lease Operations, </unittitle>
+					<unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Levant (Middle East), </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Liberty, </unittitle>
+					<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Libraries, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(10 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Malta, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Medical Aspects, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Mental Hygiene, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 2</container>
+					<unittitle>Merchant Marine, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Military Service, Compulsory, </unittitle>
+					<unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Military Training, </unittitle>
+					<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Morale, </unittitle>
+					<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+					<physdesc>(9 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>National Defense, </unittitle>
+					<unitdate type="inclusive" normal="1938/1942">1938-1942</unitdate>
+					<physdesc>(12 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Naval Operations, </unittitle>
+					<unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Netherlands, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>New Zealand, </unittitle>
+					<unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Norway, </unittitle>
+					<unitdate type="inclusive" normal="1940/1943">1940-1943</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Nurses and Nursing, </unittitle>
+					<unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
+					<physdesc>(23 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Patents, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Peace, </unittitle>
+					<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+					<physdesc>(13 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Philippine Islands, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Poland, </unittitle>
+					<unitdate type="inclusive" normal="1941">1941</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Poland, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(16 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Press, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Prices--Regulation, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(12 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Prices--Regulation, </unittitle>
+					<unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
+					<physdesc>(11 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Priorities, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Prisoners and Prisons, </unittitle>
+					<unitdate type="inclusive" normal="1944">1944</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Propaganda</unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Race Problems</unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Radio Broadcasting, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Rationing, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(6 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Raw Materials, </unittitle>
+					<unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-), </unittitle>
+					<unitdate type="inclusive" normal="1941">1941</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-), </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(16 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-), </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(24 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-), </unittitle>
+					<unitdate type="inclusive" normal="1944">1944</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-)--Economic Aspects, </unittitle>
+					<unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
+					<physdesc>(14 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-)--Economic Aspects, </unittitle>
+					<unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
+					<physdesc>(9 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-)--Education, </unittitle>
+					<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+					<physdesc>(9 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-)--Great Britain, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Reconstruction (World War, 1939-)--U.S., </unittitle>
+					<unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate>
+					<physdesc>(11 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 3</container>
+					<unittitle>Recreation, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(6 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Refugees, </unittitle>
+					<unitdate type="inclusive" normal="1939/1946">1939-1946</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Religion, </unittitle>
+					<unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate>
+					<physdesc>(20 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Rural Schools, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Russia, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Salvage, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Science, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Schools at War, </unittitle>
+					<unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Service Men, Discharged, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(11 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Speakers, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Technical Literature, </unittitle>
+					<unitdate type="inclusive" normal="1940/1943">1940-1943</unitdate>
+					<physdesc>(6 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Transportation, </unittitle>
+					<unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
+					<physdesc>(10 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>United Nations, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(14 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Armed Forces, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(12 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Armed Forces Institute, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Army, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(10 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Army -- Women's Army Corps, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Coast Guard, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Federal Bureau of Investigation, </unittitle>
+					<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Foreign Relations, </unittitle>
+					<unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Marine Corps, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Maritime Service, </unittitle>
+					<unitdate type="inclusive" normal="1944">1944</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Navy, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(4 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Navy -- Women's Naval Reserve, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(2 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>U.S. Office for Emergency Management, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Venereal Diseases, </unittitle>
+					<unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
+					<physdesc>(17 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Vocational Education, </unittitle>
+					<unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>War Aims, </unittitle>
+					<unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
+					<physdesc>(7 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>War and Children, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>War and Education, </unittitle>
+					<unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+					<physdesc>(5 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>War Finance, </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(20 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>War Production, </unittitle>
+					<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+					<physdesc>(15 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>War Production, </unittitle>
+					<unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>West Indies, </unittitle>
+					<unitdate type="inclusive" normal="1943">1943</unitdate>
+					<physdesc>(1 item)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>Wilson, Woodrow, </unittitle>
+					<unitdate type="inclusive" normal="1942">1942</unitdate>
+					<physdesc>(3 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>World War, 1939-, </unittitle>
+					<unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>World War, 1939-, </unittitle>
+					<unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 4</container>
+					<unittitle>World War, 1939- -- Great Britain, </unittitle>
+					<unitdate type="inclusive" normal="1939/1945">1939-1945</unitdate>
+					<physdesc>(18 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>World War, 1939- -- Peace, </unittitle>
+					<unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate>
+					<physdesc>(24 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>World War, 1939- -- U.S., </unittitle>
+					<unitdate type="inclusive" normal="1940/1942">1940-1942</unitdate>
+					<physdesc>(8 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>World War, 1939- -- U.S., </unittitle>
+					<unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate>
+					<physdesc>(15 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Youth, </unittitle>
+					<unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate>
+					<physdesc>(12 items)</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 5</container>
+					<unittitle>Yugoslavia, </unittitle>
+					<unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+					<physdesc>(9 items)</physdesc>
+				</did>
 			</c01>
 		</dsc>
 	</archdesc>

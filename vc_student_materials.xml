@@ -6,7 +6,7 @@
 		<eadid countrycode="us" mainagencycode="npv">npv_vc_student_materials</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the Vassar College Student Materials Collection, 1859 - circa 1989 (bulk 1867-1950)</titleproper>
+				<titleproper>Guide to the Vassar College Student Materials Collection, 1859-2025 (bulk 1867-1950)</titleproper>
 				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
 			</titlestmt>
 			<publicationstmt>
@@ -30,9 +30,9 @@
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Vassar College Student Materials Collection</unittitle>
 			<unitdate type="inclusive" normal="1859/1989" certainty="approximate"
-				label="Inclusive Dates:" encodinganalog="245$f">1859 - circa 1989</unitdate>
+				label="Inclusive Dates:" encodinganalog="245$f">1859-2025</unitdate>
 			<unitdate type="bulk" normal="1867/1950" label="Bulk Dates:" encodinganalog="245$f">1867-1950</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">approximately 248 cubic feet (213 boxes, 697 volumes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 248 cubic feet (213 boxes, 697 volumes, 1 OV folder)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -184,6 +184,7 @@
 				<genreform source="aat" encodinganalog="655">Autograph albums</genreform>
 				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
 				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Drawings (visual works)</genreform>
 				<genreform source="aat" encodinganalog="655">Essays</genreform>
 				<genreform source="aat" encodinganalog="655">Examinations (documents)</genreform>
 				<genreform source="aat" encodinganalog="655">Notebooks</genreform>
@@ -200,11 +201,11 @@
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
 			<p>Encoded by Elizabeth Clarke and Laura Streett, April 2008. Updated by Mark Seidl,
-				November 2019-January 2020. Updated by Emma Gronbeck, November 2022 - October January 2025.</p>
+				November 2019-January 2020. Updated by Emma Gronbeck, November 2022 - May 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Original processing date unknown. Last updated by Emma Gronbeck, January 2025.</p>
+			<p>Original processing date unknown. Last updated by Emma Gronbeck, May 2025.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
@@ -224,7 +225,7 @@
 		</prefercite>
 		<arrangement encodinganalog="351">
 			<head>Arrangement</head>
-			<p>This collection is organized into 11 series, each arranged by class year. Materials
+			<p>This collection is organized into 12 series, each arranged by class year. Materials
 				with an unknown creator or class year are filed at the end of each series.</p>
 		</arrangement>
 		<dsc type="analyticover">
@@ -320,6 +321,14 @@
 					<unitdate type="inclusive" normal="1865/1989" certainty="approximate">1865-circa
 						1989</unitdate>
 					<physdesc>[approximately 52.2 cubic feet (335 volumes)]</physdesc>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series12">Series XII.</ref> Artwork and Projects, </unittitle>
+					<unitdate type="inclusive" normal="2025">2025</unitdate>
+					<physdesc>[1 OV folder]</physdesc>
 				</did>
 			</c01>
 		</dsc>
@@ -3486,15 +3495,22 @@
 				<c02 level="file">
 					<did>
 						<container>Box 212</container>
-						<unittitle>VC 1949 — Birmingham, Barbara Price — Miscellaneous, </unittitle>
-						<unitdate type="inclusive" normal="1945/1950">1945-1950, undated</unitdate>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — to family, </unittitle>
+						<unitdate type="inclusive" normal="1947">1947</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
 						<container>Box 212</container>
-						<unittitle>VC 1949 — Birmingham, Barbara Price — to and from family, </unittitle>
-						<unitdate type="inclusive" normal="1945">1945</unitdate>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — to family, </unittitle>
+						<unitdate type="inclusive" normal="1948">1948</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 212</container>
+						<unittitle>VC 1949 — Birmingham, Barbara Price — Miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1945/1950">1945-1950, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
@@ -6028,6 +6044,13 @@
 						<container>Box 91</container>
 						<unittitle>VC 1936 — Rupp, Jane (Dubbs) — Economics, </unittitle>
 						<unitdate type="inclusive" normal="1936">1936</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 82</container>
+						<unittitle>VC 1938 — Acheson, Julia L. — Economics 357, </unittitle>
+						<unitdate type="inclusive" normal="1938">1938</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
@@ -8635,6 +8658,13 @@
 						<container>Scrapbook 155</container>
 						<unittitle>VC 1929 — Irmisch, Alice (Karslake), </unittitle>
 						<unitdate type="inclusive" normal="1927/1929">1927-1929</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 212 (Scrapbook 359)</container>
+						<unittitle>VC 1929 — McKnight, Leila, </unittitle>
+						<unitdate type="inclusive" normal="1925">1925</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
@@ -11593,6 +11623,21 @@
 						<container>Album 211</container>
 						<unittitle>Unidentified, </unittitle>
 						<unitdate type="inclusive" normal="1920/1946">[before 1946]</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series12">
+				<did>
+					<unittitle>
+						Series XII. Artwork and Projects, </unittitle>
+					<unitdate type="inclusive" normal="2025">2025</unitdate>
+				</did>
+				<c02 level="item">
+					<did>
+						<container>Map Case - Drawer 33</container>
+						<unittitle>VC 2025 — Straw, Sydney — Experiential Map of Vassar College, </unittitle>
+						<unitdate type="inclusive" normal="2025">2025</unitdate>
+						<physdesc>[ink on paper]</physdesc>
 					</did>
 				</c02>
 			</c01>

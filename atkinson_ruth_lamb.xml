@@ -5,7 +5,7 @@
 		<eadid countrycode="us" mainagencycode="npv">npv_atkinson_ruth_lamb</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the Ruth Lamb Atkinson Papers, 1781-1970 (bulk 1928-1947)</titleproper>
+				<titleproper>Guide to the Ruth Lamb Atkinson Papers, 1781-1975 (bulk 1928-1947)</titleproper>
 				<author>Inventory prepared by the Archives and Special Collections Library, Vassar College Libraries</author>
 			</titlestmt>
 			<publicationstmt>
@@ -28,9 +28,9 @@
 				<persname>Atkinson, Ruth Lamb, 1896-1978</persname>
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Ruth Lamb Atkinson Papers</unittitle>
-			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1781-1970</unitdate>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1781-1975</unitdate>
 			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1928-1947</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">10 cubic feet (19 boxes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">10.2 cubic feet (20 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -47,11 +47,11 @@
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
 		<separatedmaterial encodinganalog="544 1">
 			<head>Separated Material</head>
@@ -91,7 +91,7 @@
 			</controlaccess>
 			<controlaccess>
 				<head>Places:</head>
-				<geogname source="lcnaf" encodinganalog="651">India--History -1947-</geogname>
+				<geogname source="lcnaf" encodinganalog="651">India--History--1947-</geogname>
 				<geogname source="lcnaf" encodinganalog="651">United States--Politics and government</geogname>
 				<geogname source="lcnaf" encodinganalog="651">Hudson River (N.Y. and N.J.)--Pictorial works</geogname>
 				<geogname source="lcnaf" encodinganalog="651">India--History--British occupation, 1765-1947</geogname>
@@ -102,6 +102,7 @@
 				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
 				<genreform source="aat" encodinganalog="655">Illuminated manuscripts</genreform>
 				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
 				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
 				<genreform source="aat" encodinganalog="655">Sheet music</genreform>
 			</controlaccess>
@@ -113,13 +114,13 @@
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett and Elizabeth Clarke, November 2006. Updated by Emma Gronbeck, January 2024.</p>
+			<p>Encoded by Laura Streett and Elizabeth Clarke, November 2006. Updated by Emma Gronbeck, May 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
 			<p>Collection is partially processed.</p>
 			<p>Updated by Dean Rogers, September 2006.</p>
-			<p>Updated by Emma Gronbeck, June 2023 and January 2024.</p>
+			<p>Updated by Emma Gronbeck, June 2023 and May 2025.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
@@ -395,8 +396,16 @@
 			</c01>
 			<c01 level="file">
 				<did>
-					<unittitle>Miscellaneous Americana — Revolutionary War fife</unittitle>
-					<physdesc>[MISSING as of 13 November 2006]</physdesc>
+					<container>Box 17</container>
+					<unittitle>Miscellaneous Americana — Antique wooden fife with brass fittings, </unittitle>
+					<unitdate type="inclusive">circa 1800</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Box 17</container>
+					<unittitle>Miscellaneous Americana — Correspondence on the antique wooden fife, </unittitle>
+					<unitdate type="inclusive">1975</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">

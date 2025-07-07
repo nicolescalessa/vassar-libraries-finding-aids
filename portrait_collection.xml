@@ -29,7 +29,7 @@
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Portrait Collection</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1673-1962</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">4.6 cubic feet (5 oversize boxes, 8 mapcase folders)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">4.6 cubic feet (5 oversize boxes), 8 map case folders, 1 framed item</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -41,17 +41,18 @@
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref>.</p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref>.</p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Document Types:</head>
 				<genreform source="aat" encodinganalog="655">Portraits</genreform>
+				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
 			</controlaccess>
 			<controlaccess>
 				<head>VCL Categories:</head>
@@ -307,6 +308,13 @@
 					<container>Folder 1.11 (Oversize)</container>
 					<unittitle>Chase, Salmon P., </unittitle>
 					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Folder 5.09 (Oversize)</container>
+					<unittitle>Chaucer, Geoffrey, </unittitle>
+					<unitdate>1742</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
@@ -1157,6 +1165,14 @@
 					<container>Folder 3.08 (Oversize)</container>
 					<unittitle>Pennell, Joseph, </unittitle>
 					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container>Framed Storage 1.5</container>
+					<unittitle>Peters, Hugh, </unittitle>
+					<unitdate>undated</unitdate>
+					<physdesc>[4 lithographs; framed]</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">

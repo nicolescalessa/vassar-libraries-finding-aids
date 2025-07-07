@@ -379,10 +379,10 @@
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
 			<p>Permission to quote (publish) from unpublished or previously published material must
-				be obtained as described in the <archref
+				be obtained as described in the <extref
 					href="https://library.vassar.edu/specialcollections/policies" show="new"
 					>regulations of the Vassar College Archives and Special Collections
-					Library</archref>.</p>
+					Library</extref>.</p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
 			<head>Related Materials</head>
@@ -390,13 +390,13 @@
 					href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-clara-barrus-papers-1901-1931"
 					>Clara Barrus Papers, Archives and Special Collections Library, Vassar College
 					Libraries.</archref></p>
-			<p><archref href="https://archives.nypl.org/brg/19100#overview">Although Clara Barrus's
+			<p><extref href="https://archives.nypl.org/brg/19100#overview">Although Clara Barrus's
 					transcripts are available in this collection, the earliest original Burroughs
 					journals (1854-1876) are at the New York Public Library in the Walt Whitman
-					Papers.</archref></p>
-			<p><archref href="https://search.lib.virginia.edu/sources/uva_library/items/u2402098"
+					Papers.</extref></p>
+			<p><extref href="https://search.lib.virginia.edu/sources/uva_library/items/u2402098"
 					>John Burroughs Collection, Clifton Waller Barrett Library, University of
-					Virginia.</archref></p>
+					Virginia.</extref></p>
 		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
@@ -409,16 +409,12 @@
 				<persname source="lcnaf" encodinganalog="600">Burroughs, Ursula North</persname>
 				<persname source="lcnaf" encodinganalog="600">Whitman, Walt, 1819-1892</persname>
 				<persname source="lcnaf" encodinganalog="600">Muir, John, 1838-1914</persname>
-				<persname source="lcnaf" encodinganalog="600">Roosevelt, Theodore,
-					1858-1919</persname>
+				<persname source="lcnaf" encodinganalog="600">Roosevelt, Theodore, 1858-1919</persname>
 				<persname source="lcnaf" encodinganalog="600">Rickert, Edith, 1871-1938</persname>
-				<persname source="lcnaf" encodinganalog="600">Kendrick, Georgia Avery,
-					1848-1922</persname>
+				<persname source="lcnaf" encodinganalog="600">Kendrick, Georgia Avery, 1848-1922</persname>
 				<persname source="lcnaf" encodinganalog="600">Reed, Clara S.</persname>
-				<persname source="lcnaf" encodinganalog="600">Taylor, James Monroe,
-					1848-1916</persname>
-				<persname source="lcnaf" encodinganalog="600">Whitney, Mary Watson,
-					1847-1921</persname>
+				<persname source="lcnaf" encodinganalog="600">Taylor, James Monroe, 1848-1916</persname>
+				<persname source="lcnaf" encodinganalog="600">Whitney, Mary Watson, 1847-1921</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
@@ -431,8 +427,7 @@
 			</controlaccess>
 			<controlaccess>
 				<head>Places:</head>
-				<geogname source="lcnaf" encodinganalog="651">United States--Politics and
-					government</geogname>
+				<geogname source="lcnaf" encodinganalog="651">United States--Politics and government</geogname>
 			</controlaccess>
 			<controlaccess>
 				<head>Document Types:</head>
@@ -443,8 +438,7 @@
 				<genreform source="aat" encodinganalog="655">Journals (accounts)</genreform>
 				<genreform source="aat" encodinganalog="655">Maps (documents)</genreform>
 				<genreform source="aat" encodinganalog="655">Photographs</genreform>
-				<genreform source="aat" encodinganalog="655">Printed materials (object
-					genre)</genreform>
+				<genreform source="aat" encodinganalog="655">Printed materials (object genre)</genreform>
 			</controlaccess>
 			<controlaccess>
 				<head>VCL Categories:</head>
@@ -631,7 +625,7 @@
 					<unittitle>
 						<ref target="series10">Series X.</ref> G. Clyde Fisher Papers, </unittitle>
 					<unitdate type="inclusive">1902-1927</unitdate>
-					<physdesc>(Boxes ? and 67)</physdesc>
+					<physdesc>(Boxes 67-68)</physdesc>
 				</did>
 				<scopecontent>
 					<p>The G. Clyde Fisher Papers series contains letters to Fisher from John
@@ -3247,7 +3241,7 @@
 					<did>
 						<container>Folder 65.11 (Oversize)</container>
 						<unittitle>Miscellaneous newspaper articles on war, </unittitle>
-						<unitdate>1914-1915, 1920</unitdate>
+						<unitdate type="inclusive">1914-1915, 1920</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
@@ -13171,42 +13165,42 @@
 						<did>
 							<container>Folder 63.13</container>
 							<unittitle>General — During his lifetime, </unittitle>
-							<unitdate>1892-1920, undated</unitdate>
+							<unitdate type="inclusive">1892-1920, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 63.14</container>
 							<unittitle>General — At the time of his death</unittitle>
-							<unitdate>1921</unitdate>
+							<unitdate type="inclusive">1921</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 63.15</container>
 							<unittitle>General — Since his death, </unittitle>
-							<unitdate>1931-1988, undated</unitdate>
+							<unitdate type="inclusive">1931-1988, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 55.10</container>
 							<unittitle>Slide Mountain — Clippings, </unittitle>
-							<unitdate>1921, 1924, 1964</unitdate>
+							<unitdate type="inclusive">1921, 1924, 1964</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 55.11</container>
 							<unittitle>Slide Mountain — Correspondence, </unittitle>
-							<unitdate>1921-1924</unitdate>
+							<unitdate type="inclusive">1921-1924</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 55.12</container>
 							<unittitle>Slide Mountain — Petition, </unittitle>
-							<unitdate>1923</unitdate>
+							<unitdate type="inclusive">1923</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13490,7 +13484,7 @@
 						<did>
 							<container>Folder 50.13</container>
 							<unittitle>Harriman Alaska Expedition, </unittitle>
-							<unitdate>1899</unitdate>
+							<unitdate type="inclusive">1899</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13567,25 +13561,25 @@
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 35</container>
+							<container>Map Case — Drawer 37</container>
 							<unittitle>Map: Geological Survey Map of Yellowstone</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 35</container>
+							<container>Map Case — Drawer 37</container>
 							<unittitle>Map: Florida (with attached guidebook)</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 35</container>
+							<container>Map Case — Drawer 37</container>
 							<unittitle>Map: Hawaii</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 35</container>
+							<container>Map Case — Drawer 37</container>
 							<unittitle>Map: London (with attached guidebook)</unittitle>
 						</did>
 					</c03>
@@ -13598,28 +13592,28 @@
 						<did>
 							<container>Folder 51.8</container>
 							<unittitle>Publishers and Editors — Atlantic, </unittitle>
-							<unitdate>1910-1920</unitdate>
+							<unitdate type="inclusive">1910-1920</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 51.9</container>
 							<unittitle>Publishers and Editors — Doubleday, </unittitle>
-							<unitdate>1909-1916</unitdate>
+							<unitdate type="inclusive">1909-1916</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 51.10</container>
 							<unittitle>Publishers and Editors — Ginn and Company, </unittitle>
-							<unitdate>1893-1917</unitdate>
+							<unitdate type="inclusive">1893-1917</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 51.11</container>
 							<unittitle>Publishers and Editors — Harper and Bros., </unittitle>
-							<unitdate>1892-1915</unitdate>
+							<unitdate type="inclusive">1892-1915</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13627,7 +13621,7 @@
 							<container>Folder 51.12</container>
 							<unittitle>Publishers and Editors — Houghton Mifflin — Correspondence to
 								JB, </unittitle>
-							<unitdate>1876-1920</unitdate>
+							<unitdate type="inclusive">1876-1920</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13635,7 +13629,7 @@
 							<container>Folder 51.13</container>
 							<unittitle>Publishers and Editors — Houghton Mifflin — Correspondence
 								from JB, </unittitle>
-							<unitdate>1919-1920, undated</unitdate>
+							<unitdate type="inclusive">1919-1920, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13643,21 +13637,21 @@
 							<container>Folder 56.1</container>
 							<unittitle>Publishers and Editors — Houghton Mifflin —
 								Contracts</unittitle>
-							<unitdate>1875-1920</unitdate>
+							<unitdate type="inclusive">1875-1920</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 56.2</container>
 							<unittitle>Publishers and Editors — Houghton Mifflin — Statements, </unittitle>
-							<unitdate>1873-1891</unitdate>
+							<unitdate type="inclusive">1873-1891</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 56.3</container>
 							<unittitle>Publishers and Editors — Houghton Mifflin — Statements, </unittitle>
-							<unitdate>1892-1909</unitdate>
+							<unitdate type="inclusive">1892-1909</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13665,7 +13659,7 @@
 							<container>Folder 51.14</container>
 							<unittitle>Publishers and Editors — <emph render="italic"
 									>McClure's</emph> and McClure, Phillips, </unittitle>
-							<unitdate>1902-1909</unitdate>
+							<unitdate type="inclusive">1902-1909</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13673,7 +13667,7 @@
 							<container>Folder 51.15</container>
 							<unittitle>Publishers and Editors — <emph render="italic">The
 									Outlook</emph> — Correspondence to JB, </unittitle>
-							<unitdate>1907-1912</unitdate>
+							<unitdate type="inclusive">1907-1912</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13689,14 +13683,14 @@
 						<did>
 							<container>Folder 52.1</container>
 							<unittitle>Publishers and Editors — Small, Maynard, and Co., </unittitle>
-							<unitdate>1903-1908</unitdate>
+							<unitdate type="inclusive">1903-1908</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 52.2</container>
 							<unittitle>Publishers and Editors — The University Society</unittitle>
-							<unitdate>1916</unitdate>
+							<unitdate type="inclusive">1916</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13726,14 +13720,14 @@
 						<did>
 							<container>Folder 56.4</container>
 							<unittitle>Building specifications for the Burroughs' Washington home, </unittitle>
-							<unitdate>1867</unitdate>
+							<unitdate type="inclusive">1867</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 56.5</container>
 							<unittitle>Deeds for the Burroughs' property in Washington, </unittitle>
-							<unitdate>1870</unitdate>
+							<unitdate type="inclusive">1870</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13771,7 +13765,7 @@
 						<did>
 							<container>Folder 64.8</container>
 							<unittitle>Marriage Certificate of John and Ursula Burroughs</unittitle>
-							<unitdate>12 Sep 1857</unitdate>
+							<unitdate type="inclusive">12 Sep 1857</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13830,28 +13824,28 @@
 							<container>Folder 63.58</container>
 							<unittitle>JB's<emph render="italic">Mount Tom: An All Outdoors
 									Magazine</emph>(annotated by JB), </unittitle>
-							<unitdate>Oct 1905</unitdate>
+							<unitdate type="inclusive">Oct 1905</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 63.59</container>
 							<unittitle>Edmund Gosse Breakfast program (signed by JB and others), </unittitle>
-							<unitdate>26 Jan 1885</unitdate>
+							<unitdate type="inclusive">26 Jan 1885</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 63.81</container>
 							<unittitle>Unidentified record of guests (signed by JB and others), </unittitle>
-							<unitdate>1914</unitdate>
+							<unitdate type="inclusive">1914</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 62.123</container>
 							<unittitle>"John Burroughs Nature Calendar," </unittitle>
-							<unitdate>1925</unitdate>
+							<unitdate type="inclusive">1925</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13865,7 +13859,7 @@
 						<did>
 							<container>Folder 63.73</container>
 							<unittitle>Articles referring to the wrong Burroughs, </unittitle>
-							<unitdate>1921</unitdate>
+							<unitdate type="inclusive">1921</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -13906,7 +13900,7 @@
 						<did>
 							<container>Folder 56.7</container>
 							<unittitle>Partial list by Clara Barrus of JB's manuscripts, </unittitle>
-							<unitdate>1925</unitdate>
+							<unitdate type="inclusive">1925</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
@@ -16980,7 +16974,7 @@
 							<container>Box 60</container>
 							<unittitle>Album of snapshots of a camping trip to Ampersand Creek in
 								the Adirondacks, </unittitle>
-							<unitdate>Aug 1900</unitdate>
+							<unitdate type="inclusive">Aug 1900</unitdate>
 						</did>
 					</c03>
 				</c02>

@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
-	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv"> npv_collier_laura_brownell</eadid>
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_collier_laura_brownell</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the Laura Brownell Collier Papers, 1874-1944</titleproper>
+				<titleproper>Guide to the Laura Brownell Collier Papers, 1867-1949</titleproper>
 				<author>Inventory prepared by the Vassar College Library, Archives, and Special Collections</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 				<date>29 June 2011</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Madeleine Amodio, <date>2011</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Madeleine Amodio, <date>2011</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
@@ -27,1884 +28,1952 @@
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Collier, Laura Brownell</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> The Laura Brownell Collier Papers</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1874-1944 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 3.5 cubic feet (5 boxes)</physdesc>
+			<unittitle label="Title:" encodinganalog="245">Laura Brownell Collier Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1867-1949</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">1.8 cubic feet (5 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> Material relating to and created by Laura Brownell Collier covering her time at Vassar and beyond. Mostly personal correspondence, notes, and diaries.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">The collection consists of correspondence, notes, diaries, and other material relating to and created by
+				Laura Brownell Collier (VC 1874), covering her time at Vassar and beyond.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note</head>
-			<p>Laura Brownell Collier was born on January 27, 1851 in Williston, Vermont. A member of a prominent New England family, she was descended from Governor William Bradford and John and Priscilla Alden. Laura's father, Chauncey Wells Brownell, was prominent lawyer and Vermont state senator, and her mother, Laura Chapin Higbee Brownell, had been head of the Williston Academy. </p>
-			<p>At the age of 13 Laura began teaching in a one-room school in Williston and later taught in the Burlington, Vermont public schools for $1.50 a week. She entered Vassar College as a senior and was graduated in 1874 as a member of Phi Beta Kappa. After Vassar, she taught at Abbot Academy in Andover, Massachusetts for three years, and then studied at Berlin University from 1877 to 1878. </p>
-			<p>In 1882, Laura married John Austin Collier, a research chemist who worked on experiments involving sorghum, rice production, and milling. They then moved to Brooklyn, New York where Laura found a job teaching Latin at Packer Collegiate Institute. They had two daughters, Elizabeth and Katharine, who attended both Packer and later, Vassar College. From 1902 until 1911, John was the manager of the Vermont and Arizona Copper Company, which was located in Arizona, although Laura and the girls remained in New York. Laura was widowed on September 11, 1920. </p>
-			<p>Active in various historical and social organizations, Laura was a member of the Alden Kindred Association, the Meridian Club, the League of Women Voters, and other groups concerning the antiwar and woman suffrage movements. She took pride in the fact that she voted at every regular and special election. Laura also wrote a number of editorials for the New York Press, on topics ranging from the Mexican Revolution to the College Settlement movement. </p>
-			<p>In 1942 she moved back to Vermont with her younger daughter, Katharine, where she remained until her death in 1949. </p>
+			<p>Laura Brownell Collier was born on January 27, 1851 in Williston, Vermont. A member
+				of a prominent New England family, she was descended from Governor William Bradford
+				and John and Priscilla Alden. Laura's father, Chauncey Wells Brownell, was prominent
+				lawyer and Vermont state senator, and her mother, Laura Chapin Higbee Brownell, had
+				been head of the Williston Academy.</p>
+			<p>At the age of 13 Laura began teaching in a one-room school in Williston and later
+				taught in the Burlington, Vermont public schools for $1.50 a week. She entered
+				Vassar College as a senior and was graduated in 1874 as a member of Phi Beta Kappa.
+				After Vassar, she taught at Abbot Academy in Andover, Massachusetts for three years,
+				and then studied at Berlin University from 1877 to 1878.</p>
+			<p>In 1882, Laura married John Austin Collier, a research chemist who worked on
+				experiments involving sorghum, rice production, and milling. They then moved to
+				Brooklyn, New York where Laura found a job teaching Latin at Packer Collegiate
+				Institute. They had two daughters, Elizabeth and Katharine, who attended both Packer
+				and later, Vassar College. From 1902 until 1911, John was the manager of the Vermont
+				and Arizona Copper Company, which was located in Arizona, although Laura and the
+				girls remained in New York. Laura was widowed on September 11, 1920.</p>
+			<p>Active in various historical and social organizations, Laura was a member of the
+				Alden Kindred Association, the Meridian Club, the League of Women Voters, and other
+				groups concerning the antiwar and woman suffrage movements. She took pride in the
+				fact that she voted at every regular and special election. Laura also wrote a number
+				of editorials for the New York Press, on topics ranging from the Mexican Revolution
+				to the College Settlement movement.</p>
+			<p>In 1942 she moved back to Vermont with her younger daughter, Katharine, where she
+				remained until her death in 1949.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Like the rest of the Collier Family Papers, the papers of Laura Brownell Collier tend to be weak on substance and superficial in areas. For example, there is little or no information concerning her teaching career or the program she initiated between Packer Collegiate Institute and Vassar College. The collection's strength lies in the amount of personal correspondence, notes and diaries kept by Laura Brownell Collier, and newspaper articles written by her. </p>
+			<p>The collection consists of correspondence, notes, diaries, and other material relating to and created by
+				Laura Brownell Collier (VC 1874), covering her time at Vassar and beyond. Like both the Elizabeth Brownell Collier Papers Katharine Brownell Collier Papers, the papers of Laura Brownell Collier tend
+				to be weak on substance and superficial in areas. For example, there is little or no
+				information concerning her teaching career or the program she initiated between
+				Packer Collegiate Institute and Vassar College. The collection's strength lies in
+				the amount of personal correspondence, notes and diaries kept by Laura Brownell
+				Collier, as well as newspaper articles written by her.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library.
+				</extref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
-			<head> Related Materials</head>
-			<p>Researchers interested in more of the personal aspects of Laura Brownell Collier's life are encouraged to examine the Class of 1874 Bulletins, which form part of the Class Box collection as well as the Alumnae/i Biographical Files in the Archives and Special Collections Library.</p>
-			<p> The papers of Laura's two daughters, Elizabeth Brownell Collier, VC 1906, and Katharine Brownell Collier, VC 1908, are also available for research.</p>
+			<head>Related Materials</head>
+			<p>Researchers interested in more of the personal aspects of Laura Brownell Collier's
+				life are encouraged to examine the Class of 1874 Bulletins, as well as the Alumnae/i Biographical Files in the Archives and
+				Special Collections Library:</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/a6450c16-688e-4bdd-9621-b9f4221556b8">Laura Brownell File, Alumnae/i Biographical Files</archref></p>
+			<p> The papers of Laura's two daughters, Elizabeth Brownell Collier, VC 1906, and
+				Katharine Brownell Collier, VC 1908, are also available for research:</p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/508d8526-c6fd-4bcc-ad59-4861da07ee53">Elizabeth Brownell Collier Papers</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/3b8202d2-5fce-4baa-a90f-2b4697fe2f69">Katharine Brownell Collier Papers</archref></p>
 		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<persname source="lcnaf" encodinganalog="600"> Collier, Elizabeth Brownell</persname>
-				<persname source="lcnaf" encodinganalog="600"> Collier, John A.</persname>
-				<persname source="lcnaf" encodinganalog="600"> Collier, Katharine Brownell</persname>
-				<persname source="lcnaf" encodinganalog="600"> Brownell, Chauncey W.</persname>
-				<persname source="lcnaf" encodinganalog="600"> Brownell, Laura Higbee</persname>
+				<persname source="lcnaf" encodinganalog="600">Collier, Elizabeth Brownell</persname>
+				<persname source="lcnaf" encodinganalog="600">Collier, John A.</persname>
+				<persname source="lcnaf" encodinganalog="600">Collier, Katharine Brownell</persname>
+				<persname source="lcnaf" encodinganalog="600">Brownell, Chauncey W.</persname>
+				<persname source="lcnaf" encodinganalog="600">Brownell, Laura Higbee</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Organizations:</head>
-				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Alumni and alumnae</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Alumni and alumnae</corpname>
 			</controlaccess>
 			<controlaccess>
-				<head> Document Types:</head>
-				<genreform source="aat" encodinganalog="655"> Diaries</genreform>
-				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Family </subject>
-				<subject source="local" encodinganalog="690"> Vassar College </subject>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Madeleine Amodio, June 2011.</p>
+			<p>Encoded by Madeleine Amodio, June 2011. Updated by Emma Gronbeck, June 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Collection processed by the Vassar College Library and Archives in November 1994. Last updated 29 June 2011</p>
-			<p>The bulk of this collection is the papers of Laura Brownell Collier; However, Box 4 contains both Laura Brownell Collier and Katharine Brownell Collier, as well as mixed papers that could have originated from either woman.</p>
+			<p>Collection processed by the Vassar College Library and Archives in November 1994. Last updated, 29 June 2011.</p>
+			<p>The bulk of this collection is the papers of Laura Brownell Collier; however, Box 4
+				contains materials related to both Laura Brownell Collier and Katharine Brownell Collier, as well as
+				mixed papers that could have originated from either woman.</p>
 		</processinfo>
 		<custodhist encodinganalog="561">
 			<head>Custodial History</head>
-			<p>This collection was brought to the Vassar College Libraries in the early 1980s by Elizabeth Daniels, the Vassar College Historian, who received them from Mr. Lincoln Brownell, Laura Brownell Collier's closest living relative. </p>
+			<p>This collection was brought to the Vassar College Libraries in the early 1980s by
+				Elizabeth Daniels, the Vassar College Historian, who received them from Mr. Lincoln
+				Brownell, Laura Brownell Collier's closest living relative.</p>
 		</custodhist>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>These papers came in three accessions.</p>
+			<p>Gift of Lincoln Brownell, through Elizabeth Daniels, circa 1980-1984. Received in three accessions.</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p> The Laura Brownell Collier Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>Laura Brownell Collier Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
 		</prefercite>
 		<dsc type="analyticover">
 			<head>Series List</head>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series1">Series I</ref>: PERSONAL CORREPSONDENCE </unittitle>
+						<ref target="series1">Series I.</ref> PERSONAL CORREPSONDENCE, </unittitle>
+					<unitdate type="inclusive" normal="1879/1947">1879-1947</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series2">Series II</ref>: EDUCATIONAL INSTITUTIONS </unittitle>
+						<ref target="series2">Series II.</ref> EDUCATIONAL INSTITUTIONS, </unittitle>
+					<unitdate type="inclusive" normal="1867/1942">1867-1942</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series3">Series III</ref>: ORGANIZATIONS </unittitle>
+						<ref target="series3">Series III.</ref> ORGANIZATIONS, </unittitle>
+					<unitdate type="inclusive" normal="1929/1943">1929-1943</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series4">Series IV</ref>: NOTES AND NOTEBOOKS </unittitle>
+						<ref target="series4">Series IV.</ref> NOTES AND NOTEBOOKS, </unittitle>
+					<unitdate type="inclusive" normal="1881/1943">1881-1943</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series5">Series V</ref>: PERIODICALS AND NEWSPAPER ARTICLES </unittitle>
+						<ref target="series5">Series V.</ref> PERIODICALS AND NEWSPAPER ARTICLES, </unittitle>
+					<unitdate type="inclusive" normal="1874/1949">1874-1949</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series6">Series VI</ref>: PERSONAL BUSINESS </unittitle>
+						<ref target="series6">Series VI.</ref> PERSONAL BUSINESS, </unittitle>
+					<unitdate type="inclusive" normal="1877/1941">1877-1941</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series7">Series VII</ref>: PHOTOGRAPHS </unittitle>
+						<ref target="series7">Series VII.</ref> PHOTOGRAPHS, </unittitle>
+					<unitdate type="inclusive" normal="1874/1934">1874-1934</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series8">Series VIII</ref>: POSTCARDS </unittitle>
+						<ref target="series8">Series VIII.</ref> POSTCARDS, </unittitle>
+					<unitdate type="inclusive" normal="1877/1912">1877-1912</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series9">Series IX</ref>: MEMORABILIA </unittitle>
+						<ref target="series9">Series IX.</ref> MEMORABILIA, </unittitle>
+					<unitdate type="inclusive" normal="1882/1945">1882-1945</unitdate>
 				</did>
 			</c01>
 		</dsc>
 		<dsc type="in-depth">
 			<head>Container List</head>
-			<p/>
 			<c01 level="series" id="series1">
 				<did>
-					<unittitle> SERIES I. PERSONAL CORRESPONDENCE </unittitle>
+					<unittitle>SERIES I. PERSONAL CORRESPONDENCE, </unittitle>
+					<unitdate type="inclusive" normal="1879/1947">1879-1947</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Correspondence to Laura Brownell Collier </unittitle>
+						<unittitle>Correspondence to Laura Brownell Collier (LBC)</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.1 </container>
-							<unittitle> Collier, Elizabeth Brownell (daughter of LBC), </unittitle>
-							<unitdate> 1908-37 </unitdate>
-							<physdesc> (10 items) </physdesc>
+							<container>Folder 1.1</container>
+							<unittitle>Collier, Elizabeth Brownell (daughter of LBC), </unittitle>
+							<unitdate type="inclusive" normal="1908/1937">1908-1937</unitdate>
+							<physdesc>(10 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.2 </container>
-							<unittitle> Collier, John A. (husband of LBC), </unittitle>
-							<unitdate> 1908 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.2</container>
+							<unittitle>Collier, John A. (husband of LBC), </unittitle>
+							<unitdate type="inclusive" normal="1908">1908</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.3 </container>
-							<unittitle> Collier, Katharine Brownell (daughter of LBC), </unittitle>
-							<unitdate> ca. 1904-08 </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 1.3</container>
+							<unittitle>Collier, Katharine Brownell (daughter of LBC), </unittitle>
+							<unitdate type="inclusive" normal="1904/1908">circa 1904-1908</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.4 </container>
-							<unittitle> Collier, Katharine Brownell, </unittitle>
-							<unitdate> 1907-09 </unitdate>
-							<physdesc> (14 items) </physdesc>
+							<container>Folder 1.4</container>
+							<unittitle>Collier, Katharine Brownell, </unittitle>
+							<unitdate type="inclusive" normal="1907/1909">1907-1909</unitdate>
+							<physdesc>(14 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.5 </container>
-							<unittitle> Collier, Katharine Brownell, </unittitle>
-							<unitdate> 1936-42 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.5</container>
+							<unittitle>Collier, Katharine Brownell, </unittitle>
+							<unitdate type="inclusive" normal="1936/1942">1936-1942</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> 1880-84 </unitdate>
-							<physdesc> (10 items) </physdesc>
+							<container>Folder 1.6</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive" normal="1880/1884">1880-1884</unitdate>
+							<physdesc>(10 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.7 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> 1903-21 </unitdate>
-							<physdesc> (7 items) </physdesc>
+							<container>Folder 1.7</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive" normal="1903/1921">1903-1921</unitdate>
+							<physdesc>(7 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.8 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> 1923-38 </unitdate>
-							<physdesc> (13 items) </physdesc>
+							<container>Folder 1.8</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive" normal="1923/1938">1923-1938</unitdate>
+							<physdesc>(13 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> 1939-47 </unitdate>
-							<physdesc> (8 items) </physdesc>
+							<container>Folder 1.9</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive" normal="1939/1947">1939-1947</unitdate>
+							<physdesc>(8 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (5 items) </physdesc>
+							<container>Folder 1.10</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(5 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.11 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (9 items) </physdesc>
+							<container>Folder 1.11</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(9 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.12 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.12</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.2 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.2</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.3 </container>
-							<unittitle> Miscellaneous Correspondence, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.3</container>
+							<unittitle>Miscellaneous Correspondence, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.9 </container>
-							<unittitle> KBC- Correspondence to KBC, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.9</container>
+							<unittitle>Collier, Katharine Brownell - Correspondence to KBC, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Correspondence from Laura Brownell Collier </unittitle>
+						<unittitle>Correspondence from Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> Brownell, Chauncey W. (brother of LBC), </unittitle>
-							<unitdate> 1932, n.d. </unitdate>
-							<physdesc> (5 items) </physdesc>
+							<container>Folder 1.13</container>
+							<unittitle>Brownell, Chauncey W. (brother of LBC), </unittitle>
+							<unitdate type="inclusive" normal="1932">1932, undated</unitdate>
+							<physdesc>(5 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.14 </container>
-							<unittitle> Brownell, Laura Higbee (mother of LBC), </unittitle>
-							<unitdate> 1879, n.d. </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.14</container>
+							<unittitle>Brownell, Laura Higbee (mother of LBC), </unittitle>
+							<unitdate type="inclusive" normal="1879">1879, undated</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.15 </container>
-							<unittitle> Collier, John A., </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.15</container>
+							<unittitle>Collier, John A., </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.16 </container>
-							<unittitle> Collier, Katharine and Elizabeth, </unittitle>
-							<unitdate> 1923 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.16</container>
+							<unittitle>Collier, Katharine and Elizabeth, </unittitle>
+							<unitdate type="inclusive" normal="1923">1923</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.17 </container>
-							<unittitle> various friends(form letter), </unittitle>
-							<unitdate> 1941 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.17</container>
+							<unittitle>Various friends (form letter), </unittitle>
+							<unitdate type="inclusive" normal="1941">1941</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.1 </container>
-							<unittitle> Letters From LBC, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.1</container>
+							<unittitle>Letters From LBC, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series2">
 				<did>
-					<unittitle> SERIES II. EDUCATIONAL INSTITUTIONS </unittitle>
+					<unittitle>SERIES II. EDUCATIONAL INSTITUTIONS, </unittitle>
+					<unitdate type="inclusive" normal="1867/1942">1867-1942</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Burlington Public Schools </unittitle>
+						<unittitle>Burlington Public Schools</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.18 </container>
-							<unittitle> Correspondence from the Superintendent (annotated by LBC), </unittitle>
-							<unitdate> 1867-68 </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 1.18</container>
+							<unittitle>Correspondence from the Superintendent (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1867/1868">1867-1868</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.19 </container>
-							<unittitle> Correspondence from the Superintendent, </unittitle>
-							<unitdate> 1869-70 </unitdate>
-							<physdesc> (7 items) </physdesc>
+							<container>Folder 1.19</container>
+							<unittitle>Correspondence from the Superintendent, </unittitle>
+							<unitdate type="inclusive" normal="1869-870">1869-870</unitdate>
+							<physdesc>(7 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Vassar College </unittitle>
+						<unittitle>Vassar College</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.20 </container>
-							<unittitle> Booklet-Associate Alumnae Annual Meeting, </unittitle>
-							<unitdate> 1922 </unitdate>
-							<physdesc> (TS, 19 p.) </physdesc>
+							<container>Folder 1.20</container>
+							<unittitle>Booklet-Associate Alumnae Annual Meeting, </unittitle>
+							<unitdate type="inclusive" normal="1922">1922</unitdate>
+							<physdesc>(TS, 19 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.21 </container>
-							<unittitle> Report of the Associate Alumnae (annotated by LBC), </unittitle>
-							<unitdate> 1929/30 </unitdate>
-							<physdesc> (TS, 69 p.) </physdesc>
+							<container>Folder 1.21</container>
+							<unittitle>Report of the Associate Alumnae (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate>
+							<physdesc>(TS, 69 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.22 </container>
-							<unittitle> Vassar Quarterly (annotated by LBC), </unittitle>
-							<unitdate> Feb 1931 </unitdate>
-							<physdesc> (TS, 90 p.) </physdesc>
+							<container>Folder 1.22</container>
+							<unittitle>Vassar Quarterly (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="193102">1931 Feb</unitdate>
+							<physdesc>(TS, 90 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.23 </container>
-							<unittitle> Address given by LBC at an Alumnae Luncheon, </unittitle>
-							<unitdate> 9 June 1934 </unitdate>
-							<physdesc> (TS, 2 p.) </physdesc>
+							<container>Folder 1.23</container>
+							<unittitle>Address given by LBC at an Alumnae Luncheon, </unittitle>
+							<unitdate type="inclusive" normal="19340609">1934 Jun 9</unitdate>
+							<physdesc>(TS, 2 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.24 </container>
-							<unittitle> Letter from President MacCracken, </unittitle>
-							<unitdate> 21 June 1934 </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 1.24</container>
+							<unittitle>Letter from President MacCracken, </unittitle>
+							<unitdate type="inclusive" normal="19340621">1934 Jun 21</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.25 </container>
-							<unittitle> Letter from Allan Richardson, Comptroller, re: Brownell-Collier Scholarship Fund, </unittitle>
-							<unitdate> 17 Dec 1937 </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 1.25</container>
+							<unittitle>Letter from Allan Richardson, Comptroller, re:
+								Brownell-Collier Scholarship Fund, </unittitle>
+							<unitdate type="inclusive" normal="19371217">1937 Dec 17</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.26 </container>
-							<unittitle> Alumnae questionnaire, </unittitle>
-							<unitdate> 1939 </unitdate>
-							<physdesc> (MS, 1 p.) </physdesc>
+							<container>Folder 1.26</container>
+							<unittitle>Alumnae questionnaire, </unittitle>
+							<unitdate type="inclusive" normal="1939">1939</unitdate>
+							<physdesc>(MS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.27 </container>
-							<unittitle> Commencement week invitation (annotated by LBC), </unittitle>
-							<unitdate> 1941 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.27</container>
+							<unittitle>Commencement week invitation (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1941">1941</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.28 </container>
-							<unittitle> Draft of a speech by LBC re: VC, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 2 p., 1 draft, 1 fragment) </physdesc>
+							<container>Folder 1.28</container>
+							<unittitle>Draft of a speech by LBC re: VC, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 2 p., 1 draft, 1 fragment)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.12 </container>
-							<unittitle> Vassar College, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.12</container>
+							<unittitle>Vassar College, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Abbott Academy </unittitle>
+						<unittitle>Abbott Academy</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.29 </container>
-							<unittitle>
-								<emph render="underline">The Abbot Courant</emph> (annotated by LBC), </unittitle>
-							<unitdate> Nov 1881 </unitdate>
-							<physdesc> (TS, 48 p.) </physdesc>
+							<container>Folder 1.29</container>
+							<unittitle>The Abbot Courant (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="188111">1881 Nov</unitdate>
+							<physdesc>(TS, 48 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.30 </container>
-							<unittitle> Memorial to Philena McKeen, Principal of Abbot Academy, </unittitle>
-							<unitdate> May 1898 </unitdate>
-							<physdesc> (TS, 58 p.) </physdesc>
+							<container>Folder 1.30</container>
+							<unittitle>Memorial to Philena McKeen, Principal of Abbot Academy, </unittitle>
+							<unitdate type="inclusive" normal="189805">1898 May</unitdate>
+							<physdesc>(TS, 58 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.31 </container>
-							<unittitle> Abbot Academy Club constitution (annotated by LBC), </unittitle>
-							<unitdate> 1914 </unitdate>
-							<physdesc> (TS/MS, 10 p.) </physdesc>
+							<container>Folder 1.31</container>
+							<unittitle>Abbot Academy Club constitution (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1914">1914</unitdate>
+							<physdesc>(TS/MS, 10 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.32 </container>
-							<unittitle> Letter from Alumnae Association incl. draft of LBC's reply, </unittitle>
-							<unitdate> 5 June 1923 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.32</container>
+							<unittitle>Letter from Alumnae Association incl. draft of LBC's reply, </unittitle>
+							<unitdate type="inclusive" normal="19230605">1923 Jun 5</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.33 </container>
-							<unittitle> Abbot Academy prospectus or circular, </unittitle>
-							<unitdate> ca. 1940s </unitdate>
-							<physdesc> (TS, 23 p.) </physdesc>
+							<container>Folder 1.33</container>
+							<unittitle>Abbot Academy prospectus or circular, </unittitle>
+							<unitdate type="inclusive" normal="1940/1949">circa 1940s</unitdate>
+							<physdesc>(TS, 23 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.4 </container>
-							<unittitle> LBC- Abbot Academy, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.4</container>
+							<unittitle>Collier, Laura Brownell- Abbot Academy, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Acadia University </unittitle>
+						<unittitle>Acadia University</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.34 </container>
-							<unittitle> Acadia Bulletin, </unittitle>
-							<unitdate> April 1934 </unitdate>
-							<physdesc> (TS, 24 p.) </physdesc>
+							<container>Folder 1.34</container>
+							<unittitle>Acadia Bulletin, </unittitle>
+							<unitdate type="inclusive" normal="193404">1934 Apr</unitdate>
+							<physdesc>(TS, 24 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.35 </container>
-							<unittitle> Correspondence from the Office of the President (annotated by LBC w/ an explanation of connection to Acadia), </unittitle>
-							<unitdate> 1935 </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 1.35</container>
+							<unittitle>Correspondence from the Office of the President (annotated by
+								LBC with an explanation of connection to Acadia), </unittitle>
+							<unitdate type="inclusive" normal="1935">1935</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.36 </container>
-							<unittitle> Acadia University Calendar, </unittitle>
-							<unitdate> 1935/36 </unitdate>
-							<physdesc> (TS, 164 p.) </physdesc>
+							<container>Folder 1.36</container>
+							<unittitle>Acadia University Calendar, </unittitle>
+							<unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate>
+							<physdesc>(TS, 164 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Miscellaneous Institutions </unittitle>
+						<unittitle>Miscellaneous Institutions</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.37 </container>
-							<unittitle> Princeton University Commencement program (annotated by LBC), </unittitle>
-							<unitdate> 1913 </unitdate>
-							<physdesc> (TS, 11 p.) </physdesc>
+							<container>Folder 1.37</container>
+							<unittitle>Princeton University Commencement program (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1913">1913</unitdate>
+							<physdesc>(TS, 11 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.38 </container>
-							<unittitle> Hamilton College Bulletin (see p. 12 for obituary of John Collier), </unittitle>
-							<unitdate> 1938 </unitdate>
-							<physdesc> (TS, 51 p). </physdesc>
+							<container>Folder 1.38</container>
+							<unittitle>Hamilton College Bulletin (see p. 12 for obituary of John
+								Collier), </unittitle>
+							<unitdate type="inclusive" normal="1938">1938</unitdate>
+							<physdesc>(TS, 51 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.39 </container>
-							<unittitle> Pratt Institute library card, </unittitle>
-							<unitdate> 1942 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.39</container>
+							<unittitle>Pratt Institute library card, </unittitle>
+							<unitdate type="inclusive" normal="1942">1942</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series3">
 				<did>
-					<unittitle> SERIES III. ORGANIZATIONS </unittitle>
+					<unittitle>SERIES III. ORGANIZATIONS, </unittitle>
+					<unitdate type="inclusive" normal="1929/1943">1929-1943</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Alden Kindred of America </unittitle>
+						<unittitle>Alden Kindred of America</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.40 </container>
-							<unittitle> Roster notes, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 6 p.) </physdesc>
+							<container>Folder 1.40</container>
+							<unittitle>Roster notes, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 6 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.5 </container>
-							<unittitle> LBC- Alden Kindred and Clinton Ave. Congregational Church, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.5</container>
+							<unittitle>Collier, Laura Brownell - Alden Kindred and Clinton Ave.
+								Congregational Church, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> American Red Cross </unittitle>
+						<unittitle>American Red Cross</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.41 </container>
-							<unittitle> Correspondence and program (annotated by LBC), </unittitle>
-							<unitdate> 1942 </unitdate>
-							<physdesc> (TS, 3 p.) </physdesc>
+							<container>Folder 1.41</container>
+							<unittitle>Correspondence and program (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1942">1942</unitdate>
+							<physdesc>(TS, 3 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Brooklyn Church and Mission Federation </unittitle>
+						<unittitle>Brooklyn Church and Mission Federation</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.42 </container>
-							<unittitle> Correspondence (annotated by LBC), </unittitle>
-							<unitdate> 1933-34 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.42</container>
+							<unittitle>Correspondence (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1933/1934">1933-1934</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.43 </container>
-							<unittitle> Pamphlet (annotated by LBC), </unittitle>
-							<unitdate> 1942 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.43</container>
+							<unittitle>Pamphlet (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1942">1942</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Brooklyn Colony of the National Society of New England Women </unittitle>
+						<unittitle>Brooklyn Colony of the National Society of New England
+							Women</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.44 </container>
-							<unittitle> By-laws, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 20 p.) </physdesc>
+							<container>Folder 1.44</container>
+							<unittitle>By-laws, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 20 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.45 </container>
-							<unittitle> Programs (annotated by LBC), </unittitle>
-							<unitdate> 1936-38 </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 1.45</container>
+							<unittitle>Programs (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1936/1938">1936-1938</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Clinton Avenue Congregational Church </unittitle>
+						<unittitle>Clinton Avenue Congregational Church</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.46 </container>
-							<unittitle> Church bulletins, </unittitle>
-							<unitdate> 1929 </unitdate>
-							<physdesc> (TS, 10 p.) </physdesc>
+							<container>Folder 1.46</container>
+							<unittitle>Church bulletins, </unittitle>
+							<unitdate type="inclusive" normal="1929">1929</unitdate>
+							<physdesc>(TS, 10 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Meridian Club </unittitle>
+						<unittitle>Meridian Club</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.47 </container>
-							<unittitle> Correspondence, </unittitle>
-							<unitdate> 1938-40 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.47</container>
+							<unittitle>Correspondence, </unittitle>
+							<unitdate type="inclusive" normal="1938/1940">1938-1940</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.49 </container>
-							<unittitle> Constitution, </unittitle>
-							<unitdate> 1930 </unitdate>
-							<physdesc> (TS, 12 p.) </physdesc>
+							<container>Folder 1.49</container>
+							<unittitle>Constitution, </unittitle>
+							<unitdate type="inclusive" normal="1930">1930</unitdate>
+							<physdesc>(TS, 12 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.49 </container>
-							<unittitle> Membership list and receipt (annotated by LBC), </unittitle>
-							<unitdate> 1938-42 </unitdate>
-							<physdesc> (TS, 7 p.) </physdesc>
+							<container>Folder 1.49</container>
+							<unittitle>Membership list and receipt (annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1938/1942">1938-1942</unitdate>
+							<physdesc>(TS, 7 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.6 </container>
-							<unittitle> LBC- Meridian Club, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.6</container>
+							<unittitle>Collier, Laura Brownell- Meridian Club, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Phi Beta Kappa </unittitle>
+						<unittitle>Phi Beta Kappa</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.50 </container>
-							<unittitle> Correspondence, </unittitle>
-							<unitdate> 1940-42 </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 1.50</container>
+							<unittitle>Correspondence, </unittitle>
+							<unitdate type="inclusive" normal="1940/1942">1940-1942</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.51 </container>
-							<unittitle> Publications (some annotated by LBC), </unittitle>
-							<unitdate> 1937-43, n.d. </unitdate>
-							<physdesc> (14 items) </physdesc>
+							<container>Folder 1.51</container>
+							<unittitle>Publications (some annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1937/1943">1937-1943,
+								undated</unitdate>
+							<physdesc>(14 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.13 </container>
-							<unittitle> Phi Beta Kappa, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.13</container>
+							<unittitle>Phi Beta Kappa, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Woman Suffrage Party </unittitle>
+						<unittitle>Woman Suffrage Party</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> map case 5P drawer 9 </container>
-							<unittitle> sash, yellow w/ black letters, "Woman Suffrage Party", </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Map Case - Drawer 37</container>
+							<unittitle>Sash, yellow with black letters, "Woman Suffrage Party", </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Women's University Club (KBC) </unittitle>
+						<unittitle>Women's University Club (KBC)</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.10 </container>
-							<unittitle> KBC- Women's University Club, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.10</container>
+							<unittitle>Collier, Katharine Brownell - Women's University Club, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Miscellaneous Organizations </unittitle>
+						<unittitle>Miscellaneous Organizations</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.14 </container>
-							<unittitle> Miscellaneous Organizations, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.14</container>
+							<unittitle>Miscellaneous Organizations, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series4">
 				<did>
-					<unittitle> SERIES IV. NOTES AND NOTEBOOKS </unittitle>
+					<unittitle>SERIES IV. NOTES AND NOTEBOOKS, </unittitle>
+					<unitdate type="inclusive" normal="1881/1943">1881-1943</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Notes Written by Laura Brownell Collier </unittitle>
+						<unittitle>Notes Written by Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.52 </container>
-							<unittitle> To S.A.B. and C.W.B. Compensations (brothers of LBC), </unittitle>
-							<unitdate> Apr 1922 </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.52</container>
+							<unittitle>To S.A.B. and C.W.B. Compensations (brothers of LBC), </unittitle>
+							<unitdate type="inclusive" normal="192204">1922 Apr</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.53 </container>
-							<unittitle> A Priceless Heritage, </unittitle>
-							<unitdate> 1935 </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.53</container>
+							<unittitle>A Priceless Heritage, </unittitle>
+							<unitdate type="inclusive" normal="1935">1935</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.54 </container>
-							<unittitle> All Shall Have Joy, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.54</container>
+							<unittitle>All Shall Have Joy, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.55 </container>
-							<unittitle> The Blizzard, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 2 p., 2 drafts) </physdesc>
+							<container>Folder 1.55</container>
+							<unittitle>The Blizzard, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 2 p., 2 drafts)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.56 </container>
-							<unittitle> Contrasts, </unittitle>
-							<unitdate> n.d </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.56</container>
+							<unittitle>Contrasts, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.57 </container>
-							<unittitle> The Eternal Conflict/High Tide, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 4 p., 4 drafts) </physdesc>
+							<container>Folder 1.57</container>
+							<unittitle>The Eternal Conflict/High Tide, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 4 p., 4 drafts)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.58 </container>
-							<unittitle> In The Park, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 3 p., 3 drafts) </physdesc>
+							<container>Folder 1.58</container>
+							<unittitle>In The Park, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 3 p., 3 drafts)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.59 </container>
-							<unittitle> Just to say..., </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.59</container>
+							<unittitle>Just to say..., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.60 </container>
-							<unittitle> Lo! First comes our...,, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 4 p., 1 draft (?)) </physdesc>
+							<container>Folder 1.60</container>
+							<unittitle>Lo! First comes our..., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 4 p., 1 draft (?))</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.61 </container>
-							<unittitle> Nature's Work, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.61</container>
+							<unittitle>Nature's Work, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.62 </container>
-							<unittitle> The Recluse, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 3 p., 3 drafts) </physdesc>
+							<container>Folder 1.62</container>
+							<unittitle>The Recluse, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 3 p., 3 drafts)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.63 </container>
-							<unittitle> Suppressed Desires, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.63</container>
+							<unittitle>Suppressed Desires, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.64 </container>
-							<unittitle> Threescore and Ten, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.64</container>
+							<unittitle>Threescore and Ten, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.65 </container>
-							<unittitle> Training Tells (short story), </unittitle>
-							<unitdate> 1917 </unitdate>
-							<physdesc> (TS, 9 p., 1 draft) </physdesc>
+							<container>Folder 1.65</container>
+							<unittitle>Training Tells (short story), </unittitle>
+							<unitdate type="inclusive" normal="1917">1917</unitdate>
+							<physdesc>(TS, 9 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.66 </container>
-							<unittitle> An Interesting Old Plant (bryophyllum), </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.66</container>
+							<unittitle>An Interesting Old Plant (bryophyllum), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.67 </container>
-							<unittitle> Autobiographical notes, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 4 fragments) </physdesc>
+							<container>Folder 1.67</container>
+							<unittitle>Autobiographical notes, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 4 fragments)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.68 </container>
-							<unittitle> Mrs. Elizabeth Collier (upon the death of), </unittitle>
-							<unitdate> 1889 </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.68</container>
+							<unittitle>Mrs. Elizabeth Collier (upon the death of), </unittitle>
+							<unitdate type="inclusive" normal="1889">1889</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.69 </container>
-							<unittitle> Woman's place is in the home..., </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 2 p., 1 draft) </physdesc>
+							<container>Folder 1.69</container>
+							<unittitle>Woman's place is in the home..., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 2 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.70 </container>
-							<unittitle> Fragments of verses, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 10 fragments) </physdesc>
+							<container>Folder 1.70</container>
+							<unittitle>Fragments of verses, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 10 fragments)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.7 </container>
-							<unittitle> By LBC: Manuscript (Memoir) and Letters, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.7</container>
+							<unittitle>By Collier, Laura Brownell: Manuscript (Memoir) and Letters, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.15 </container>
-							<unittitle> Written by KBC/LBC, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.15</container>
+							<unittitle>Written by KBC/LBC, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Notes Written by Others </unittitle>
+						<unittitle>Notes Written by Others</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.71 </container>
-							<unittitle> Sketches: ink/pencil artist unknown, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (5 items) </physdesc>
+							<container>Folder 1.71</container>
+							<unittitle>Sketches: ink/pencil artist unknown, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(5 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.72 </container>
-							<unittitle> This is the... author: John Gadge (?)(facsimile), </unittitle>
-							<unitdate> [1564] </unitdate>
-							<physdesc> (MS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.72</container>
+							<unittitle>This is the... author: John Gadge (?) (facsimile), </unittitle>
+							<unitdate type="inclusive" normal="1564">[1564]</unitdate>
+							<physdesc>(MS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.73 </container>
-							<unittitle> I knew the trees would leaf... author: Martha Dickinson Bianchi, </unittitle>
-							<unitdate> 1942 </unitdate>
-							<physdesc> (TS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.73</container>
+							<unittitle>I knew the trees would leaf... author: Martha Dickinson
+								Bianchi, </unittitle>
+							<unitdate type="inclusive" normal="1942">1942</unitdate>
+							<physdesc>(TS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.74 </container>
-							<unittitle> Guilty or Not Guilty author: Leah Sinsky, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 4 p., 1 draft) </physdesc>
+							<container>Folder 1.74</container>
+							<unittitle>Guilty or Not Guilty author: Leah Sinsky, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 4 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.75 </container>
-							<unittitle> Oh Laura Collier bless your heart..., </unittitle>
-							<unitdate> 1941 </unitdate>
-							<physdesc> (MS, 3 p., 1 draft) </physdesc>
+							<container>Folder 1.75</container>
+							<unittitle>Oh Laura Collier bless your heart..., </unittitle>
+							<unitdate type="inclusive" normal="1941">1941</unitdate>
+							<physdesc>(MS, 3 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.76 </container>
-							<unittitle> Love suffereth long... author unknown , </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.76</container>
+							<unittitle>Love suffereth long... author unknown, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.77 </container>
-							<unittitle> Magnum iter... author unknown, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.77</container>
+							<unittitle>Magnum iter... author unknown, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.78 </container>
-							<unittitle> O true and tried... author unknown, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 1 p., 1 draft) </physdesc>
+							<container>Folder 1.78</container>
+							<unittitle>O true and tried... author unknown, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 1 p., 1 draft)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.79 </container>
-							<unittitle> Notecards w/ verses, </unittitle>
-							<unitdate> 1903-05 </unitdate>
-							<physdesc> (MS, 18 items) </physdesc>
+							<container>Folder 1.79</container>
+							<unittitle>Note cards with verses, </unittitle>
+							<unitdate type="inclusive" normal="1903/1905">1903-1905</unitdate>
+							<physdesc>(MS, 18 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.80 </container>
-							<unittitle> Notecards w/ verses, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 28 items) </physdesc>
+							<container>Folder 1.80</container>
+							<unittitle>Note cards with verses, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 28 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.81 </container>
-							<unittitle> Miscellaneous fragments, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 17 fragments) </physdesc>
+							<container>Folder 1.81</container>
+							<unittitle>Miscellaneous fragments, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 17 fragments)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Notebooks of Laura Brownell Collier </unittitle>
+						<unittitle>Notebooks of Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.82 </container>
-							<unittitle> "South Hall Chronicles" diary while at Abbot Academy and beyond, </unittitle>
-							<unitdate> 1881-1903, 1943 </unitdate>
-							<physdesc> (MS, 113 p., incl. enclosures) </physdesc>
+							<container>Folder 1.82</container>
+							<unittitle>South Hall Chronicles diary while at Abbot Academy and
+								beyond, </unittitle>
+							<unitdate type="inclusive" normal="1881/1943">1881-1903, 1943</unitdate>
+							<physdesc>(MS, 113 p., incl. enclosures)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.83 </container>
-							<unittitle> Calendar, 1910, </unittitle>
-							<unitdate> 1910 </unitdate>
-							<physdesc> (no handwritten notations) </physdesc>
+							<container>Folder 1.83</container>
+							<unittitle>Calendar, </unittitle>
+							<unitdate type="inclusive" normal="1910">1910</unitdate>
+							<physdesc>(no handwritten notations)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.84 </container>
-							<unittitle> "Travel Notes L.B. Collier", </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (MS, 61 p.) </physdesc>
+							<container>Folder 1.84</container>
+							<unittitle>Travel Notes L.B. Collier, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(MS, 61 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.85 </container>
-							<unittitle> Daily Calendar, 1943 removed from metal stand, </unittitle>
-							<unitdate> 1943 </unitdate>
-							<physdesc> (MS, 322 p.) </physdesc>
+							<container>Folder 1.85</container>
+							<unittitle>Daily Calendar (removed from metal stand), </unittitle>
+							<unitdate type="inclusive" normal="1943">1943</unitdate>
+							<physdesc>(MS, 322 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.86 </container>
-							<unittitle> Notebook, probably not LBC's handwriting, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (MS, 118 p.) </physdesc>
+							<container>Folder 1.86</container>
+							<unittitle>Notebook, probably not LBC's handwriting, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(MS, 118 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series5">
 				<did>
-					<unittitle> SERIES V. PERIODICALS AND NEWSPAPER ARTICLES </unittitle>
+					<unittitle>SERIES V. PERIODICALS AND NEWSPAPER ARTICLES, </unittitle>
+					<unitdate type="inclusive" normal="1874/1949">1874-1949</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Periodicals </unittitle>
+						<unittitle>Periodicals</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.1 </container>
-							<unittitle>
-								<emph render="underline">Massachusetts Teacher</emph> (see p. 490), </unittitle>
-							<unitdate> Dec 1874 </unitdate>
-							<physdesc> (TS, 41 p.) </physdesc>
+							<container>Folder 2.1</container>
+							<unittitle>Massachusetts Teacher (see p. 490), </unittitle>
+							<unitdate type="inclusive" normal="187412">1874 Dec</unitdate>
+							<physdesc>(TS, 41 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.2 </container>
-							<unittitle>
-								<emph render="underline">Keith Johnson's Political Atlas</emph> , </unittitle>
-							<unitdate> ca. 1870s </unitdate>
-							<physdesc> (1 book) </physdesc>
+							<container>Folder 2.2</container>
+							<unittitle>Keith Johnson's Political Atlas, </unittitle>
+							<unitdate type="inclusive" normal="1870/1879">circa 1870s</unitdate>
+							<physdesc>(1 book)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.3 </container>
-							<unittitle>
-								<emph render="underline">Vocal Culture and Selections for Reading, </emph>
-							</unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 11 p.) </physdesc>
+							<container>Folder 2.3</container>
+							<unittitle>Vocal Culture and Selections for Reading, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 11 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.4 </container>
-							<unittitle>
-								<emph render="underline">The Chicago Amateur</emph> , </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 8 p.) </physdesc>
+							<container>Folder 2.4</container>
+							<unittitle>The Chicago Amateur, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 8 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.5 </container>
-							<unittitle>
-								<emph render="underline">History Facts and Worth of the Bible</emph> , </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 32 p.) </physdesc>
+							<container>Folder 2.5</container>
+							<unittitle>History Facts and Worth of the Bible, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 32 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Newspaper Articles Written by Laura Brownell Collier </unittitle>
+						<unittitle>Newspaper Articles Written by Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.6 </container>
-							<unittitle> op-ed articles source: <emph render="underline">New York Press</emph> , </unittitle>
-							<unitdate> July-Aug 1915 </unitdate>
-							<physdesc> (TS, 9 p.) </physdesc>
+							<container>Folder 2.6</container>
+							<unittitle>op-ed articles source: New York Press, </unittitle>
+							<unitdate type="inclusive" normal="191507/191508">1915
+								Jul-Aug</unitdate>
+							<physdesc>(TS, 9 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.7 </container>
-							<unittitle> op-ed articles source: <emph render="underline">New York Press</emph> , </unittitle>
-							<unitdate> Sept-Dec 1915 </unitdate>
-							<physdesc> (TS, 15 p.) </physdesc>
+							<container>Folder 2.7</container>
+							<unittitle>op-ed articles source: New York Press, </unittitle>
+							<unitdate type="inclusive" normal="191509/191512">1915
+								Sep-Dec</unitdate>
+							<physdesc>(TS, 15 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.8 </container>
-							<unittitle> op-ed articles source: <emph render="underline">New York Press</emph> , </unittitle>
-							<unitdate> 1916 </unitdate>
-							<physdesc> (TS, 5 p.) </physdesc>
+							<container>Folder 2.8</container>
+							<unittitle>op-ed articles source: New York Press, </unittitle>
+							<unitdate type="inclusive" normal="1916">1916</unitdate>
+							<physdesc>(TS, 5 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.9 </container>
-							<unittitle> letter to editor; publ. poem source: <emph render="underline">Burlington [VT] Free Press, </emph>
-							</unittitle>
-							<unitdate> 1937-42 </unitdate>
-							<physdesc> (TS, 2 p.) </physdesc>
+							<container>Folder 2.9</container>
+							<unittitle>letter to editor; published poem source: Burlington [VT] Free
+								Press, </unittitle>
+							<unitdate type="inclusive" normal="1937/1942">1937-1942</unitdate>
+							<physdesc>(TS, 2 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.10 </container>
-							<unittitle> "Popular Humorists of the Decade;" op-ed articles sources unknown, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 8 p.) </physdesc>
+							<container>Folder 2.10</container>
+							<unittitle>Popular Humorists of the Decade; op-ed articles sources
+								unknown, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 8 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Newspaper Articles About Laura Brownell Collier </unittitle>
+						<unittitle>Newspaper Articles About Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.1 </container>
-							<unittitle> "The Women's College Alumnae Associations" source: <emph render="underline">Harper's Bazar</emph> , </unittitle>
-							<unitdate> 1896 </unitdate>
-							<physdesc> (TS, 2 p.) </physdesc>
+							<container>Folder 5.1</container>
+							<unittitle>The Women's College Alumnae Associations source: Harper's
+								Bazar, </unittitle>
+							<unitdate type="inclusive" normal="1896">1896</unitdate>
+							<physdesc>(TS, 2 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.11 </container>
-							<unittitle> Articles re: donation to Canastota Hospital, NY, </unittitle>
-							<unitdate> 1920-21 </unitdate>
-							<physdesc> (TS, 5 p.) </physdesc>
+							<container>Folder 2.11</container>
+							<unittitle>Articles re: donation to Canastota Hospital, NY, </unittitle>
+							<unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
+							<physdesc>(TS, 5 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder  </container>
-							<unittitle> Article re: LBC's Vassar College semi-centennial reunion, </unittitle>
-							<unitdate> ca. 1924 </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 5.1</container>
+							<unittitle>Article re: LBC's Vassar College semi-centennial reunion, </unittitle>
+							<unitdate type="inclusive" normal="1924">circa 1924</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.12 </container>
-							<unittitle> Articles re: travel, advice, and awards of LBC ,(some annotated by LBC), </unittitle>
-							<unitdate> 1930-42 </unitdate>
-							<physdesc> (TS, 4 p.) </physdesc>
+							<container>Folder 2.12</container>
+							<unittitle>Articles re: travel, advice, and awards of LBC ,(some
+								annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1930/1942">1930-1942</unitdate>
+							<physdesc>(TS, 4 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.13 </container>
-							<unittitle> Obituaries for LBC, </unittitle>
-							<unitdate> Dec 1949 </unitdate>
-							<physdesc> (TS, 2 p.) </physdesc>
+							<container>Folder 2.13</container>
+							<unittitle>Obituaries for LBC, </unittitle>
+							<unitdate type="inclusive" normal="194912">1949 Dec</unitdate>
+							<physdesc>(TS, 2 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.14 </container>
-							<unittitle> Obituaries - Clark, Kate Upson, </unittitle>
-							<unitdate> Feb 1935 </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 2.14</container>
+							<unittitle>Obituaries - Clark, Kate Upson, </unittitle>
+							<unitdate type="inclusive" normal="193502">1935 Feb</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.15 </container>
-							<unittitle> Obituaries - Collier, Helen M. (sister-in-law of LBC), </unittitle>
-							<unitdate> Sept 1903 </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 2.15</container>
+							<unittitle>Obituaries - Collier, Helen M. (sister-in-law of LBC), </unittitle>
+							<unitdate type="inclusive" normal="190309">1903 Sep</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.16 </container>
-							<unittitle> Obituaries - Darling, Frank W., </unittitle>
-							<unitdate> Feb 1941 </unitdate>
-							<physdesc> (TS, 10 p.) </physdesc>
+							<container>Folder 2.16</container>
+							<unittitle>Obituaries - Darling, Frank W., </unittitle>
+							<unitdate type="inclusive" normal="194102">1941 Feb</unitdate>
+							<physdesc>(TS, 10 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.17 </container>
-							<unittitle> Obituaries - Dinsmoor, Alice, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 2.17</container>
+							<unittitle>Obituaries - Dinsmoor, Alice, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.18 </container>
-							<unittitle> Obituaries - Frost, Elinor White, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 2.18</container>
+							<unittitle>Obituaries - Frost, Elinor White, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.19 </container>
-							<unittitle> Obituaries - Kimball, Mrs. James P., </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 2.19</container>
+							<unittitle>Obituaries - Kimball, Mrs. James P., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.20 </container>
-							<unittitle> Obituaries - Montague, Amy Collier (niece of LBC), </unittitle>
-							<unitdate> 1941 </unitdate>
-							<physdesc> (TS, 1 p.) </physdesc>
+							<container>Folder 2.20</container>
+							<unittitle>Obituaries - Montague, Amy Collier (niece of LBC), </unittitle>
+							<unitdate type="inclusive" normal="1941">1941</unitdate>
+							<physdesc>(TS, 1 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Articles About Honorable Guy Charteris </unittitle>
+						<unittitle>Articles About Honorable Guy Charteris</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.21 </container>
-							<unittitle> Articles re: Guy Charteris (shipmate of LBC in 1912), </unittitle>
-							<unitdate> 1912-23 </unitdate>
-							<physdesc> (TS, 6 p.) </physdesc>
+							<container>Folder 2.21</container>
+							<unittitle>Articles re: Guy Charteris (shipmate of LBC in 1912), </unittitle>
+							<unitdate type="inclusive" normal="1912/1923">1912-1923</unitdate>
+							<physdesc>(TS, 6 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.1 </container>
-							<unittitle> Articles re: Guy Charteris (shipmate of LBC in 1912),</unittitle>
-							<unitdate> </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 5.1</container>
+							<unittitle>Articles re: Guy Charteris (shipmate of LBC in 1912), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.22 </container>
-							<unittitle> Articles re: Guy Charteris, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 8 p.) </physdesc>
+							<container>Folder 2.22</container>
+							<unittitle>Articles re: Guy Charteris, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 8 p.)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Miscellaneous Articles </unittitle>
+						<unittitle>Miscellaneous Articles</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.23 </container>
-							<unittitle> Miscellaneous articles, </unittitle>
-							<unitdate> 1936-42 </unitdate>
-							<physdesc> (TS, 4 p.) </physdesc>
+							<container>Folder 2.23</container>
+							<unittitle>Miscellaneous articles, </unittitle>
+							<unitdate type="inclusive" normal="1936/1942">1936-1942</unitdate>
+							<physdesc>(TS, 4 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.24 </container>
-							<unittitle> Miscellaneous articles, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (TS, 15 p.) </physdesc>
+							<container>Folder 2.24</container>
+							<unittitle>Miscellaneous articles, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(TS, 15 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.16 </container>
-							<unittitle> Newspaper Articles, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.16</container>
+							<unittitle>Newspaper Articles, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series6">
 				<did>
-					<unittitle> SERIES VI. PERSONAL BUSINESS </unittitle>
+					<unittitle>SERIES VI. PERSONAL BUSINESS, </unittitle>
+					<unitdate type="inclusive" normal="1877/1941">1877-1941</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 2.25 </container>
-						<unittitle> Letter from <emph render="underline">The Republican</emph> re: publishing LBC, </unittitle>
-						<unitdate> 1877 </unitdate>
-						<physdesc> (MS, 1 p.) </physdesc>
+						<container>Folder 2.25</container>
+						<unittitle>Letter from The Republican re: publishing LBC, </unittitle>
+						<unitdate type="inclusive" normal="1877">1877</unitdate>
+						<physdesc>(MS, 1 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 2.26 </container>
-						<unittitle> Correspondence re: memorial to John A. Collier, Canastota Memorial Hospital, </unittitle>
-						<unitdate> 1921 </unitdate>
-						<physdesc> (MS/TS, 3 p.) </physdesc>
+						<container>Folder 2.26</container>
+						<unittitle>Correspondence re: memorial to John A. Collier, Canastota
+							Memorial Hospital, </unittitle>
+						<unitdate type="inclusive" normal="1921">1921</unitdate>
+						<physdesc>(MS/TS, 3 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 2.27 </container>
-						<unittitle> Correspondence and account statements from White, Weld and Co., a Wall Street firm, </unittitle>
-						<unitdate> 1940-41 </unitdate>
-						<physdesc> (TS, 8 p.) </physdesc>
+						<container>Folder 2.27</container>
+						<unittitle>Correspondence and account statements from White, Weld and Co., a
+							Wall Street firm, </unittitle>
+						<unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate>
+						<physdesc>(TS, 8 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 2.28 </container>
-						<unittitle> Bills and receipts, </unittitle>
-						<unitdate> 1941, n.d. </unitdate>
-						<physdesc> (10 items) </physdesc>
+						<container>Folder 2.28</container>
+						<unittitle>Bills and receipts, </unittitle>
+						<unitdate type="inclusive" normal="1941">1941, undated</unitdate>
+						<physdesc>(10 items)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 2.29 </container>
-						<unittitle> Canceled checks, </unittitle>
-						<unitdate> 1939-41 </unitdate>
-						<physdesc> (2 items) </physdesc>
+						<container>Folder 2.29</container>
+						<unittitle>Canceled checks, </unittitle>
+						<unitdate type="inclusive" normal="1939/1941">1939-1941</unitdate>
+						<physdesc>(2 items)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 2.30 </container>
-						<unittitle> Business cards, </unittitle>
-						<unitdate> n.d. </unitdate>
-						<physdesc> (3 items) </physdesc>
+						<container>Folder 2.30</container>
+						<unittitle>Business cards, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(3 items)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 2.31 </container>
-						<unittitle> Notes re: financial matters, </unittitle>
-						<unitdate> n.d. </unitdate>
-						<physdesc> (MS, 3 fragments) </physdesc>
+						<container>Folder 2.31</container>
+						<unittitle>Notes re: financial matters, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, 3 fragments)</physdesc>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series7">
 				<did>
-					<unittitle> SERIES VII. PHOTOGRAPHS </unittitle>
+					<unittitle>SERIES VII. PHOTOGRAPHS, </unittitle>
+					<unitdate type="inclusive" normal="1874/1934">1874-1934</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Photographs of Laura Brownell Collier </unittitle>
+						<unittitle>Photographs of Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.32 </container>
-							<unittitle> Portrait of LBC seated, holding a book photographer: Sarony's, </unittitle>
-							<unitdate> ca. 1874 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 2.32</container>
+							<unittitle>Portrait of LBC seated, holding a book photographer:
+								Sarony's, </unittitle>
+							<unitdate type="inclusive" normal="1874">circa 1874</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.33 </container>
-							<unittitle> Portrait of LBC profile, seated at desk photographer unknown, </unittitle>
-							<unitdate> ca. 1898 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 2.33</container>
+							<unittitle>Portrait of LBC profile, seated at desk photographer unknown, </unittitle>
+							<unitdate type="inclusive" normal="1898">circa 1898</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.2 </container>
-							<unittitle> Portrait of LBC -head and shoulders -head and torso wearing white dress photographer: Curtis Bell, Inc., </unittitle>
-							<unitdate> 1924 </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 5.2</container>
+							<unittitle>Portrait of LBC - head and shoulders -head and torso wearing
+								white dress photographer: Curtis Bell, Inc., </unittitle>
+							<unitdate type="inclusive" normal="1924">1924</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.34 </container>
-							<unittitle> Photo of LBC full length, standing sideways photographer unknown ref. number 3.599, </unittitle>
-							<unitdate> 1931 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 2.34</container>
+							<unittitle>Photo of LBC full length, standing sideways photographer
+								unknown ref. number 3.599, </unittitle>
+							<unitdate type="inclusive" normal="1931">1931</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.35 </container>
-							<unittitle> Portrait of LBC head and torso, wearing dark dress photographer: Alice Boughton ref. number 3.598, </unittitle>
-							<unitdate> 1931 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 2.35</container>
+							<unittitle>Portrait of LBC head and torso, wearing dark dress
+								photographer: Alice Boughton ref. number 3.598, </unittitle>
+							<unitdate type="inclusive" normal="1931">1931</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.2 </container>
-							<unittitle> Portrait of LBC head and torso, wearing dark dress photographer: Alice Boughton ref. number 3.598, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> (1 Item) </physdesc>
+							<container>Folder 5.2</container>
+							<unittitle>Portrait of LBC head and torso, wearing dark dress
+								photographer: Alice Boughton ref. number 3.598, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 Item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.36 </container>
-							<unittitle> Portrait of LBC w/ Peace Committee of Federation of Protestant Churches, </unittitle>
-							<unitdate> 1933 </unitdate>
-							<physdesc> (1 item ) </physdesc>
+							<container>Folder 2.36</container>
+							<unittitle>Portrait of LBC with Peace Committee of Federation of
+								Protestant Churches, </unittitle>
+							<unitdate type="inclusive" normal="1933">1933</unitdate>
+							<physdesc>(1 item )</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.2 </container>
-							<unittitle> Portrait of LBC w/ Peace Committee of Federation of Protestant Churches, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 5.2</container>
+							<unittitle>Portrait of LBC with Peace Committee of Federation of
+								Protestant Churches, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.37 </container>
-							<unittitle> LBC w/ Helen Jackson Sellers, VC 1874, at their Vassar College 60th reunion, </unittitle>
-							<unitdate> 1934 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 2.37</container>
+							<unittitle>Collier, Laura Brownell with Helen Jackson Sellers, VC 1874, at
+								their Vassar College 60th reunion, </unittitle>
+							<unitdate type="inclusive" normal="1934">1934</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.38 </container>
-							<unittitle> LBC w/ unidentified man and woman in a wooded area ref. numbers 6.560 and 6.561, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 2.38</container>
+							<unittitle>Collier, Laura Brownell with unidentified man and woman in a
+								wooded area ref. numbers 6.560 and 6.561, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Photographs of Friends and Family </unittitle>
+						<unittitle>Photographs of Friends and Family</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.87 </container>
-							<unittitle> Collier, Helen M., </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.87</container>
+							<unittitle>Collier, Helen M., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.88 </container>
-							<unittitle> Marvin, Mary, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.88</container>
+							<unittitle>Marvin, Mary, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.89 </container>
-							<unittitle> Prentiss, Mrs. George H., </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.89</container>
+							<unittitle>Prentiss, Mrs. George H., </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.90 </container>
-							<unittitle> Stanton, Maggie, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.90</container>
+							<unittitle>Stanton, Maggie, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.91 </container>
-							<unittitle> Talmage, David, </unittitle>
-							<unitdate> 1883, n.d. </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 1.91</container>
+							<unittitle>Talmage, David, </unittitle>
+							<unitdate type="inclusive" normal="1883">1883, undated</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.92 </container>
-							<unittitle> VC: Avery, Alida; Backus, Truman J.; Farrar, Charles, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.92</container>
+							<unittitle>VC: Avery, Alida; Backus, Truman J.; Farrar, Charles, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.93 </container>
-							<unittitle> VC photo album of students &amp; faculty, </unittitle>
-							<unitdate> [ca. 1874] </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 1.93</container>
+							<unittitle>VC photo album of students and faculty, </unittitle>
+							<unitdate type="inclusive" normal="1874">[circa 1874]</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Photographs of Trips Taken by Laura Brownell Collier </unittitle>
+						<unittitle>Photographs of Trips Taken by Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.94 </container>
-							<unittitle> View of Lake George, </unittitle>
-							<unitdate> 1882 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 1.94</container>
+							<unittitle>View of Lake George, </unittitle>
+							<unitdate type="inclusive" normal="1882">1882</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.95 </container>
-							<unittitle> Adirondacks-7th Lake, Fulton, Chain, Wheeler's Camp, </unittitle>
-							<unitdate> 1906 </unitdate>
-							<physdesc> (14 items) </physdesc>
+							<container>Folder 1.95</container>
+							<unittitle>Adirondacks - 7th Lake, Fulton, Chain, Wheeler's Camp, </unittitle>
+							<unitdate type="inclusive" normal="1906">1906</unitdate>
+							<physdesc>(14 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.96 </container>
-							<unittitle> Niagara Falls, </unittitle>
-							<unitdate> 1909 </unitdate>
-							<physdesc> (15 items) </physdesc>
+							<container>Folder 1.96</container>
+							<unittitle>Niagara Falls, </unittitle>
+							<unitdate type="inclusive" normal="1909">1909</unitdate>
+							<physdesc>(15 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.97 </container>
-							<unittitle> Canastota Memorial Hospital, </unittitle>
-							<unitdate> 1920 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 1.97</container>
+							<unittitle>Canastota Memorial Hospital, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.98 </container>
-							<unittitle> Mt. Vernon and Washington, DC, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 1.98</container>
+							<unittitle>Mt. Vernon and Washington, DC, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.99 </container>
-							<unittitle> Sleepy Hollow [NY], </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 1.99</container>
+							<unittitle>Sleepy Hollow [NY], </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.100 </container>
-							<unittitle> Miscellaneous photos of houses, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 1.100</container>
+							<unittitle>Miscellaneous photos of houses, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Photographs of Artwork </unittitle>
+						<unittitle>Photographs of Artwork</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.101 </container>
-							<unittitle> Photos of paintings, unmarked, artists unknown, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 1.101</container>
+							<unittitle>Photos of paintings, unmarked, artists unknown, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.17 </container>
-							<unittitle> Miscellaneous, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.17</container>
+							<unittitle>Miscellaneous, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series8">
 				<did>
-					<unittitle> SERIES VIII. POSTCARDS </unittitle>
+					<unittitle>SERIES VIII. POSTCARDS, </unittitle>
+					<unitdate type="inclusive" normal="1877/1912">1877-1912</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Trips Taken by Laura Brownell Collier </unittitle>
+						<unittitle>Trips Taken by Laura Brownell Collier</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.102 </container>
-							<unittitle> European trip-German landscapes, </unittitle>
-							<unitdate> 1877-78 </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 1.102</container>
+							<unittitle>European trip-German landscapes, </unittitle>
+							<unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.103 </container>
-							<unittitle> European trip-German monuments, </unittitle>
-							<unitdate> 1877-78 </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 1.103</container>
+							<unittitle>European trip-German monuments, 1877-78</unittitle>
+							<unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.104 </container>
-							<unittitle> European trip-famous Germans, </unittitle>
-							<unitdate> 1877-78 </unitdate>
-							<physdesc> (7 items) </physdesc>
+							<container>Folder 1.104</container>
+							<unittitle>European trip-famous Germans, </unittitle>
+							<unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate>
+							<physdesc>(7 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.105 </container>
-							<unittitle> European trip-Masterpieces in the Dresden Gallery (annotated by LBC), </unittitle>
-							<unitdate> 1877-78 </unitdate>
-							<physdesc> (8 items) </physdesc>
+							<container>Folder 1.105</container>
+							<unittitle>European trip-Masterpieces in the Dresden Gallery (annotated
+								by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate>
+							<physdesc>(8 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.1 </container>
-							<unittitle> European trip-famous Europeans, </unittitle>
-							<unitdate> 1877-78 </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 3.1</container>
+							<unittitle>European trip-famous Europeans, </unittitle>
+							<unitdate type="inclusive" normal="1877/1878">1877-1878</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.2 </container>
-							<unittitle> European trip-view of Rome, </unittitle>
-							<unitdate> 1878 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 3.2</container>
+							<unittitle>European trip-view of Rome, </unittitle>
+							<unitdate type="inclusive" normal="1878">1878</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.3 </container>
-							<unittitle> Trip to United Kingdom-view of ship, </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 3.3</container>
+							<unittitle>Trip to United Kingdom-view of ship, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.4 </container>
-							<unittitle> Trip to United Kingdom-view of Ireland, </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 3.4</container>
+							<unittitle>Trip to United Kingdom-view of Ireland, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.5 </container>
-							<unittitle> Trip to United Kingdom-views of England, </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 3.5</container>
+							<unittitle>Trip to United Kingdom-views of England, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.6 </container>
-							<unittitle> Trip to United Kingdom-Investiture of the Prince of Wales, </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 3.6</container>
+							<unittitle>Trip to United Kingdom-Investiture of the Prince of Wales, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.18 </container>
-							<unittitle> Miscellaneous, </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.18</container>
+							<unittitle>Miscellaneous, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Landscapes </unittitle>
+						<unittitle>Landscapes</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.7 </container>
-							<unittitle> Long Island and ocean views, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 3.7</container>
+							<unittitle>Long Island and ocean views, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Buildings </unittitle>
+						<unittitle>Buildings</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.8 </container>
-							<unittitle> Cazenovia Seminary-attended by John A. Collier, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (6 items) </physdesc>
+							<container>Folder 3.8</container>
+							<unittitle>Cazenovia Seminary-attended by John A. Collier, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(6 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.9 </container>
-							<unittitle> Brownell Homestead, Williston, VT, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 3.9</container>
+							<unittitle>Brownell Homestead, Williston, VT, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.10 </container>
-							<unittitle> Miscellaneous houses, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (2 items) </physdesc>
+							<container>Folder 3.10</container>
+							<unittitle>Miscellaneous houses, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(2 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series9">
 				<did>
-					<unittitle> SERIES IX. MEMORABILIA </unittitle>
+					<unittitle>SERIES IX. MEMORABILIA, </unittitle>
+					<unitdate type="inclusive" normal="1882/1945">1882-1945</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Travel Information </unittitle>
+						<unittitle>Travel Information</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.11 </container>
-							<unittitle> Brochure of Adirondacks, </unittitle>
-							<unitdate> ca. 1906 </unitdate>
-							<physdesc> (TS, 7 p.) </physdesc>
+							<container>Folder 3.11</container>
+							<unittitle>Brochure of Adirondacks, </unittitle>
+							<unitdate type="inclusive" normal="1906">circa 1906</unitdate>
+							<physdesc>(TS, 7 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.12 </container>
-							<unittitle> Niagara Falls information, </unittitle>
-							<unitdate> ca. 1909 </unitdate>
-							<physdesc> (TS, 2 p.) </physdesc>
+							<container>Folder 3.12</container>
+							<unittitle>Niagara Falls information, </unittitle>
+							<unitdate type="inclusive" normal="1909">circa 1909</unitdate>
+							<physdesc>(TS, 2 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.13 </container>
-							<unittitle> United Kingdom trip: brochures and programs re: Atlantic Transport Lines, </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (5 items) </physdesc>
+							<container>Folder 3.13</container>
+							<unittitle>United Kingdom trip: brochures and programs re: Atlantic
+								Transport Lines, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(5 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.14 </container>
-							<unittitle> U.K. trip: Ireland information, </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (TS, 3 p.) </physdesc>
+							<container>Folder 3.14</container>
+							<unittitle>U.K. trip: Ireland information, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(TS, 3 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.15 </container>
-							<unittitle> U.K. trip: Scotland information (some annotated by LBC), </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (TS, 5 p.) </physdesc>
+							<container>Folder 3.15</container>
+							<unittitle>U.K. trip: Scotland information (some annotated by LBC), </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(TS, 5 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.16 </container>
-							<unittitle> U.K. trip: England information, </unittitle>
-							<unitdate> 1912 </unitdate>
-							<physdesc> (TS, 20 p.) </physdesc>
+							<container>Folder 3.16</container>
+							<unittitle>U.K. trip: England information, </unittitle>
+							<unitdate type="inclusive" normal="1912">1912</unitdate>
+							<physdesc>(TS, 20 p.)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.17 </container>
-							<unittitle> Miscellaneous travel information, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 3.17</container>
+							<unittitle>Miscellaneous travel information, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Miscellaneous Memorabilia </unittitle>
+						<unittitle>Miscellaneous Memorabilia</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.18 </container>
-							<unittitle> Marriage certificate: John Austin Collier and Laura Higbee Brownell, </unittitle>
-							<unitdate> 1882 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 3.18</container>
+							<unittitle>Marriage certificate: John Austin Collier and Laura Higbee
+								Brownell, </unittitle>
+							<unitdate type="inclusive" normal="1882">1882</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.19 </container>
-							<unittitle> Programs, </unittitle>
-							<unitdate> 1910-12, n.d. </unitdate>
-							<physdesc> (4 items) </physdesc>
+							<container>Folder 3.19</container>
+							<unittitle>Programs, </unittitle>
+							<unitdate type="inclusive" normal="1910/1912">1910-1912,
+								undated</unitdate>
+							<physdesc>(4 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.20 </container>
-							<unittitle> Material re: World War II, incl. war ration booklets, </unittitle>
-							<unitdate> ca. 1940-45 </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 3.20</container>
+							<unittitle>Material re: World War II, including war ration booklets, ca.
+								1940-45</unittitle>
+							<unitdate type="inclusive" normal="1940/1945">circa 1940-1945</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.21 </container>
-							<unittitle> Material re: Brooklyn area; LBC's Senators, </unittitle>
-							<unitdate> n.d. </unitdate>
-							<physdesc> (3 items) </physdesc>
+							<container>Folder 3.21</container>
+							<unittitle>Material re: Brooklyn area; LBC's Senators, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(3 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Mapcase </container>
-							<unittitle> World War I poster “Imprunt National 1918 Societe General Pour nou rendre entiere….”, </unittitle>
-							<unitdate> ca. 1918 </unitdate>
-							<physdesc> (1 item) </physdesc>
+							<container>Map Case</container>
+							<unittitle>World War I poster "Imprunt National 1918 Societe General
+								Pour nou rendre entiere…," </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>(1 item) [MISSING as of June 2025]</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.8 </container>
-							<unittitle> LBC- Miscellaneous </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.8</container>
+							<unittitle>Collier, Laura Brownell - Miscellaneous</unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.11 </container>
-							<unittitle> KBC- Political Material </unittitle>
-							<unitdate> </unitdate>
-							<physdesc> </physdesc>
+							<container>Folder 4.11</container>
+							<unittitle>Collier, Katharine Brownell - Political Material</unittitle>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>

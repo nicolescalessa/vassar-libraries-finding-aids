@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
-	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv"> npv_ellery_eloise </eadid>
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_ellery_eloise</eadid>
 		<filedesc>
 			<titlestmt>
 				<titleproper>Guide to the Eloise Ellery Papers, 1870-1959 (bulk 1923-1958)</titleproper>
@@ -11,116 +11,199 @@
 			<publicationstmt>
 				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 				<date>unknown</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
 			<creation>Finding aid encoded by Elizabeth Clarke <date>March 2007</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Ellery, Eloise, 1874-1958</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> Eloise Ellery Papers</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1870-1959 </unitdate>
-			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1923-1958 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 3.4 cubic feet (1200 items in 17 boxes)</physdesc>
+			<unittitle label="Title:" encodinganalog="245">Eloise Ellery Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1870-1959</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1923-1958</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">3.4 cubic feet (1200 items in 17 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, diaries, manuscripts and typescripts, newspaper clippings, travel documents, legal and financial papers, family papers, photographs, printed materials and miscellaneous items relating to the life and work of Eloise Ellery. There is also significant collection of items which belonged to Frank Ellery. </abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, diaries, manuscripts
+				and typescripts, newspaper clippings, travel documents, legal and financial papers,
+				family papers, photographs, printed materials and miscellaneous items relating to
+				the life and work of Eloise Ellery. There is also significant collection of items
+				which belonged to Frank Ellery.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
-			<head>Biographical Note </head>
-			<p>Born in Rochester, NY in 1874, Eloise Ellery (1874 - 1958) was the only child of Frank M. and Mary Alida Alling Ellery. Frank Ellery was a rising member of the Rochester business community. He became Secretary and later trustee of the Security Trust Company in Rochester. Miss Ellery attended the Rochester Free Academy and entered Vassar College as a freshman in 1893. A history student under the tutelage of Vassar's own Lucy Maynard Salmon, Miss Ellery graduated Phi Beta Kappa from Vassar in 1897. That was the beginning of an association which would span her lifetime. Upon graduation from Vassar, she went to Cornell as a Babbott Fellow to do graduate work in history and political science. Fellowships from Vassar, Cornell, and the Association of Collegiate Alumnae allowed Miss Ellery to study at the Sorbonne and do research at the Bibliotheque Nationale from 1899 to 1900. Returning to Vassar in 1900 as an assistant in history, Miss Ellery long remained a vital force in the History
-				Department as well as the College. In 1916, she became a full professor, was department chairman from 1923 to 1932 and retired in 1939 as professor emeritus of history. She served as Secretary of the Faculty from 1910 to 1923.</p>
-			<p>Miss Ellery traveled extensively -- most notable was a trip taken in 1923-1924. On leave from Vassar, she traveled around the world with her father. Stopping in Shanghai, China to visit a former student, Sophia Chen Zen, '19, Miss Ellery met with prominent leaders of Young China. A typescript written by Zen and included within the Collection records the highlights of this visit.</p>
-			<p>A vigorous scholar and experienced traveler, Miss Ellery made for a devoted teacher who demanded top quality work from every student. For many years, Miss Ellery taught Renaissance and Reformation, French Revolution and Contemporary Western Europe as a three year-long course. Writing about Ellery's teaching, Helen D. Lockwood, a student and later colleague of Miss Ellery's, wrote "E.E. drew out and expected to be expressed with thoroughness and polish the would capacity of every student whether the specially able and gifted, the sensitive, problem student or the ordinary run."</p>
-			<p>Innovative in her teaching methods and a devotee of Miss Salmon's philosophy of using primary source materials, Miss Ellery required of all her students a long paper to be done over the whole term. Out of this exercise, Lockwood wrote, "…came the profound inner change in a student's thinking, the toughness and delight of intellectual adventure...."</p>
-			<p>In a letter to Frank Ellery, Vassar's President MacCracken also spoke of Miss Ellery's teaching: "There is no one among the whole one hundred and twenty-five [faculty] who seems to have the ability to lift students up to the best that is in them and keep them steadily and enthusiastically at work as does your daughter..."</p>
-			<p>Yet devotion to her students did not end upon their graduation from Vassar. Amusing and constant, Miss Ellery took her role as correspondent seriously. She oftentimes labored over letters, keeping them informative but at the same time safe from censors. Evidence of this can be found in correspondence form Ilse Hecht '29, a former student teaching in East Germany, Sophia Chen Zen '19, teaching in China, and Irene Mott '22, the wife of a High Court judge living in Nagpur, India. She also wrote frequently to Rebecca L. Lowrie '13, a close personal friend and trustee of Vassar.</p>
-			<p>Outside of teaching, Miss Ellery served as an associate on the staff of Current History from 1921 to 1931, reporting monthly on political developments in Italy, Spain and Portugal. She also wrote many articles for the American Historical Review. Her one book was published in 1915 in a series commemorating Vassar's 50th Anniversary. Expanding her doctoral dissertation into a full-length biography, Miss Ellery published an authoritive work. Brissot de Warville, A Study in the History of the French Revolution was called by one reviewer "the only biography in existence of the Chief of the Girondin party in the French Revolution."</p>
-			<p>Upon her retirement in 1939, Miss Ellery went to Washington, D.C. for a year to study Spanish literature and to follow Congressional matters. She returned to Poughkeepsie in 1940, and remained a familiar and striking figure on campus until her death in July 1958. She was 84.</p>
-			<p>In October, 1958, as part of the College's $25,000,000 Development Program, the Eloise Ellery Chair of History was established. The Chair memorialized "her outstanding service to the College as a teacher, scholar and benefactor."</p>
+			<head>Biographical Note</head>
+			<p>Born in Rochester, NY in 1874, Eloise Ellery (1874 - 1958) was the only child of
+				Frank M. and Mary Alida Alling Ellery. Frank Ellery was a rising member of the
+				Rochester business community. He became Secretary and later trustee of the Security
+				Trust Company in Rochester. Miss Ellery attended the Rochester Free Academy and
+				entered Vassar College as a freshman in 1893. A history student under the tutelage
+				of Vassar's own Lucy Maynard Salmon, Miss Ellery graduated Phi Beta Kappa from
+				Vassar in 1897. That was the beginning of an association which would span her
+				lifetime. Upon graduation from Vassar, she went to Cornell as a Babbott Fellow to do
+				graduate work in history and political science. Fellowships from Vassar, Cornell,
+				and the Association of Collegiate Alumnae allowed Miss Ellery to study at the
+				Sorbonne and do research at the Bibliotheque Nationale from 1899 to 1900. Returning
+				to Vassar in 1900 as an assistant in history, Miss Ellery long remained a vital
+				force in the History Department as well as the College. In 1916, she became a full
+				professor, was department chairman from 1923 to 1932 and retired in 1939 as
+				professor emeritus of history. She served as Secretary of the Faculty from 1910 to
+				1923.</p>
+			<p>Miss Ellery traveled extensively -- most notable was a trip taken in 1923-1924. On
+				leave from Vassar, she traveled around the world with her father. Stopping in
+				Shanghai, China to visit a former student, Sophia Chen Zen, '19, Miss Ellery met
+				with prominent leaders of Young China. A typescript written by Zen and included
+				within the Collection records the highlights of this visit.</p>
+			<p>A vigorous scholar and experienced traveler, Miss Ellery made for a devoted teacher
+				who demanded top quality work from every student. For many years, Miss Ellery taught
+				Renaissance and Reformation, French Revolution and Contemporary Western Europe as a
+				three year-long course. Writing about Ellery's teaching, Helen D. Lockwood, a
+				student and later colleague of Miss Ellery's, wrote "E.E. drew out and expected to
+				be expressed with thoroughness and polish the would capacity of every student
+				whether the specially able and gifted, the sensitive, problem student or the
+				ordinary run."</p>
+			<p>Innovative in her teaching methods and a devotee of Miss Salmon's philosophy of using
+				primary source materials, Miss Ellery required of all her students a long paper to
+				be done over the whole term. Out of this exercise, Lockwood wrote, "…came the
+				profound inner change in a student's thinking, the toughness and delight of
+				intellectual adventure...."</p>
+			<p>In a letter to Frank Ellery, Vassar's President MacCracken also spoke of Miss
+				Ellery's teaching: "There is no one among the whole one hundred and twenty-five
+				[faculty] who seems to have the ability to lift students up to the best that is in
+				them and keep them steadily and enthusiastically at work as does your
+				daughter..."</p>
+			<p>Yet devotion to her students did not end upon their graduation from Vassar. Amusing
+				and constant, Miss Ellery took her role as correspondent seriously. She oftentimes
+				labored over letters, keeping them informative but at the same time safe from
+				censors. Evidence of this can be found in correspondence form Ilse Hecht '29, a
+				former student teaching in East Germany, Sophia Chen Zen '19, teaching in China, and
+				Irene Mott '22, the wife of a High Court judge living in Nagpur, India. She also
+				wrote frequently to Rebecca L. Lowrie '13, a close personal friend and trustee of
+				Vassar.</p>
+			<p>Outside of teaching, Miss Ellery served as an associate on the staff of Current
+				History from 1921 to 1931, reporting monthly on political developments in Italy,
+				Spain and Portugal. She also wrote many articles for the American Historical Review.
+				Her one book was published in 1915 in a series commemorating Vassar's 50th
+				Anniversary. Expanding her doctoral dissertation into a full-length biography, Miss
+				Ellery published an authoritive work. Brissot de Warville, A Study in the History of
+				the French Revolution was called by one reviewer "the only biography in existence of
+				the Chief of the Girondin party in the French Revolution."</p>
+			<p>Upon her retirement in 1939, Miss Ellery went to Washington, D.C. for a year to study
+				Spanish literature and to follow Congressional matters. She returned to Poughkeepsie
+				in 1940, and remained a familiar and striking figure on campus until her death in
+				July 1958. She was 84.</p>
+			<p>In October, 1958, as part of the College's $25,000,000 Development Program, the
+				Eloise Ellery Chair of History was established. The Chair memorialized "her
+				outstanding service to the College as a teacher, scholar and benefactor."</p>
 			<p>For more biographical information see:</p>
 			<p>Barbour, Violet. "Memorandum on Professor Eloise Ellery," 1958.</p>
-			<p>Lockwood, Helen D. "Some Notes on E.E.'s Teaching," 1958 </p>
+			<p>Lockwood, Helen D. "Some Notes on E.E.'s Teaching," 1958</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Correspondence, diaries, manuscripts and typescripts, newspaper clippings, travel documents, legal and financial papers, family papers, photographs, printed materials and miscellaneous items relating to the life and work of Eloise Ellery. There is also significant collection of items which belonged to Frank Ellery. </p>
-			<p>Correspondence is the largest portion of the papers and consists primarily of letters received from her father Frank Ellery, 1891-1929; from Ilse Hecht on teaching in East Germany, 1947-1957; from Rebecca L. Lowrie, friend and Vassar colleague, about personal and professional issues, 1936-1956; from Irene Mott, wife of a High Court Judge in India, about political situations there, Indian people, and World War II, 1924-1951; from C. Mildred Thompson, friend, colleague, and former Dean of the College, about teaching duties, an education conference in London (1944), professional and social life at the University of Georgia, and teaching in Europe, 1941-1952. There is also correspondence regarding the estate of Mary Frazer, family affairs, and other matters, 1929-1958; as well as a few family and personal letters by Ellery, 1899-1957.</p>
-			<p>Ellery's diaries include records of daily activities, 1940-1957, health records, 1953-1955, reading and quotation journal, 1919-1956, and grade books, 1926-1939. Manuscripts and printed materials include an account of Ellery's trip to China, 1923-1924, by her former student Sophia Chen Zen; her published articles, 1928-1929; and articles and clippings about Ellery and her father, Frank Ellery, 1897-1929, and his diaries for 1910-1929; and estate papers, receipts, and inventories for Abby M. Alling, Eloise Ellery, and Mary Frazer, 1929-1958.</p>
+			<p>Correspondence, diaries, manuscripts and typescripts, newspaper clippings, travel
+				documents, legal and financial papers, family papers, photographs, printed materials
+				and miscellaneous items relating to the life and work of Eloise Ellery. There is
+				also significant collection of items which belonged to Frank Ellery.</p>
+			<p>Correspondence is the largest portion of the papers and consists primarily of letters
+				received from her father Frank Ellery, 1891-1929; from Ilse Hecht on teaching in
+				East Germany, 1947-1957; from Rebecca L. Lowrie, friend and Vassar colleague, about
+				personal and professional issues, 1936-1956; from Irene Mott, wife of a High Court
+				Judge in India, about political situations there, Indian people, and World War II,
+				1924-1951; from C. Mildred Thompson, friend, colleague, and former Dean of the
+				College, about teaching duties, an education conference in London (1944),
+				professional and social life at the University of Georgia, and teaching in Europe,
+				1941-1952. There is also correspondence regarding the estate of Mary Frazer, family
+				affairs, and other matters, 1929-1958; as well as a few family and personal letters
+				by Ellery, 1899-1957.</p>
+			<p>Ellery's diaries include records of daily activities, 1940-1957, health records,
+				1953-1955, reading and quotation journal, 1919-1956, and grade books, 1926-1939.
+				Manuscripts and printed materials include an account of Ellery's trip to China,
+				1923-1924, by her former student Sophia Chen Zen; her published articles, 1928-1929;
+				and articles and clippings about Ellery and her father, Frank Ellery, 1897-1929, and
+				his diaries for 1910-1929; and estate papers, receipts, and inventories for Abby M.
+				Alling, Eloise Ellery, and Mary Frazer, 1929-1958.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</extref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
-			<head> Related Materials</head>
-			<p>The Lucy Maynard Salmon and Helen D. Lockwood Collections—both housed in Vassar's Special Collection—contain substantial correspondence between Miss Ellery and these two friends and colleagues.</p>
+			<head>Related Materials</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/78fc0ff4-f510-49a4-8d96-6c0d5dd90bef">The Helen D. Lockwood Papers contains additional correspondence between Miss Ellery and Helen Lockwood.</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/15a76966-7ff8-45ef-9b0e-7b0d40277ade">Rebecca Lawrence Lowrie Papers</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/9c2e1893-3d8a-4dcc-858b-3297bce5f837">The Lucy Maynard Salmon Papers contains additional correspondence between Miss Ellery and Lucy Maynard Salmon.</archref></p>
 		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<persname source="lcnaf" encodinganalog="600"> Ch'en, Heng-che, 1890-1976</persname>
-				<persname source="lcnaf" encodinganalog="600"> Ellery, Frank</persname>
-				<persname source="lcnaf" encodinganalog="600"> Hecht, Ilse, 1907-</persname>
-				<persname source="lcnaf" encodinganalog="600"> Lowrie, Rebecca Lawrence, 1891-1975</persname>
-				<persname source="lcnaf" encodinganalog="600"> Mott, Irene</persname>
-				<persname source="lcnaf" encodinganalog="600"> Thompson, C. Mildred (Clara Mildred), 1881-1975</persname>
-				<persname source="lcnaf" encodinganalog="600"> Frazer, Mary</persname>
-				<persname source="lcnaf" encodinganalog="600"> Alling, Abby M.</persname>
-				
+				<persname source="lcnaf" encodinganalog="600">Ch'en, Heng-che, 1890-1976</persname>
+				<persname source="lcnaf" encodinganalog="600">Ellery, Frank</persname>
+				<persname source="lcnaf" encodinganalog="600">Hecht, Ilse, 1907-</persname>
+				<persname source="lcnaf" encodinganalog="600">Lowrie, Rebecca Lawrence, 1891-1975</persname>
+				<persname source="lcnaf" encodinganalog="600">Mott, Irene</persname>
+				<persname source="lcnaf" encodinganalog="600">Thompson, C. Mildred (Clara Mildred), 1881-1975</persname>
+				<persname source="lcnaf" encodinganalog="600">Frazer, Mary</persname>
+				<persname source="lcnaf" encodinganalog="600">Alling, Abby M.</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Organizations:</head>
-				<corpname source="lcnaf" encodinganalog="610"> Vassar College--Faculty</corpname>
-				<corpname source="lcnaf" encodinganalog="610"> University of Georgia</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Faculty</corpname>
+				<corpname source="lcnaf" encodinganalog="610">University of Georgia</corpname>
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
-				<subject source="lcsh" encodinganalog="650"> Women--Diaries</subject>
-				<subject source="lcsh" encodinganalog="650"> Education--Germany (East)</subject>
-				<subject source="lcsh" encodinganalog="650"> Education--Europe</subject>
-				<subject source="lcsh" encodinganalog="650"> Decedents' estates</subject>
-				<subject source="lcsh" encodinganalog="650"> World War, 1939-1945</subject>
-				<subject source="lcsh" encodinganalog="650"> Women college teachers</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Diaries</subject>
+				<subject source="lcsh" encodinganalog="650">Education--Germany (East)</subject>
+				<subject source="lcsh" encodinganalog="650">Education--Europe</subject>
+				<subject source="lcsh" encodinganalog="650">Decedents' estates</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945</subject>
+				<subject source="lcsh" encodinganalog="650">Women college teachers</subject>
 			</controlaccess>
 			<controlaccess>
 				<head>Places:</head>
-				<geogname source="lcnaf" encodinganalog="651"> India--Politics and government</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> India--Description and travel</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Germany (East)--Description and travel</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> China--Description and travel</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Europe--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">India--Politics and government</geogname>
+				<geogname source="lcnaf" encodinganalog="651">India--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Germany (East)--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">China--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Europe--Description and travel</geogname>
 			</controlaccess>
 			<controlaccess>
-				<head> Document Types:</head>
-				<genreform source="aat" encodinganalog="655"> Diaries</genreform>
-				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Education </subject>
-				<subject source="local" encodinganalog="690"> Travel </subject>
-				<subject source="local" encodinganalog="690"> Vassar College </subject>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Education</subject>
+				<subject source="local" encodinganalog="690">Travel</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Elizabeth Clarke, March 2007.</p>
+			<p>Encoded by Elizabeth Clarke, March 2007. Updated by Emma Gronbeck, June 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -132,28 +215,32 @@
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p>Eloise Ellery Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>Eloise Ellery Papers, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
 		</prefercite>
 		<arrangement encodinganalog="351">
 			<head>Arrangement</head>
-			<p>This collection is arranged in 9 series. Whenever possible all letters have been dated. Undated letters or fragments from a known correspondent are placed at the end of that file. All unidentified correspondence is at the end of the Correspondence series. Frank Ellery's materials have not been separated, but rather have been placed at the end of the appropriate series.</p>
+			<p>This collection is arranged in 9 series. Whenever possible all letters have been
+				dated. Undated letters or fragments from a known correspondent are placed at the end
+				of that file. All unidentified correspondence is at the end of the Correspondence
+				series. Frank Ellery's materials have not been separated, but rather have been
+				placed at the end of the appropriate series.</p>
 		</arrangement>
 		<dsc type="analyticover">
 			<head>Series List</head>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series1"> Series I. </ref> Correspondence </unittitle>
+					<unittitle><ref target="series1">Series I.</ref> Correspondence</unittitle>
 					<physdesc>(Boxes 1-4)</physdesc>
 				</did>
 				<scopecontent>
 					<p>
 						<list type="marked">
-							<item>Personal Correspondence to Eloise Ellery </item>
-							<item>Personal Correspondence from Eloise Ellery </item>
-							<item>Financial and Legal Correspondence to Eloise Ellery </item>
-							<item>Financial and Legal Correspondence from Eloise Ellery </item>
-							<item>Correspondence about Eloise Ellery by Others </item>
+							<item>Personal Correspondence to Eloise Ellery</item>
+							<item>Personal Correspondence from Eloise Ellery</item>
+							<item>Financial and Legal Correspondence to Eloise Ellery</item>
+							<item>Financial and Legal Correspondence from Eloise Ellery</item>
+							<item>Correspondence about Eloise Ellery by Others</item>
 							<item>Frank M. Ellery Correspondence</item>
 							<item>Miscellaneous</item>
 						</list>
@@ -162,96 +249,90 @@
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series2">Series II.</ref> Manuscripts and Typescripts </unittitle>
+					<unittitle><ref target="series2">Series II.</ref> Manuscripts and
+						Typescripts</unittitle>
 					<physdesc>(Box 5)</physdesc>
 				</did>
 				<scopecontent>
 					<p>
 						<list type="marked">
-							<item>Unpublished Material </item>
-							<item>Published Material </item>
+							<item>Unpublished Material</item>
+							<item>Published Material</item>
 						</list>
 					</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series3">Series III.</ref> Printed Materials </unittitle>
+					<unittitle><ref target="series3">Series III.</ref> Printed Materials</unittitle>
 					<physdesc>(Boxes 5-7)</physdesc>
 				</did>
 				<scopecontent>
 					<p>
 						<list type="marked">
-							<item>Addresses and Announcements </item>
-							<item>Articles Written by Eloise Ellery </item>
+							<item>Addresses and Announcements</item>
+							<item>Articles Written by Eloise Ellery</item>
 							<item>Articles Written about Eloise Ellery</item>
 							<item>Booklets</item>
-							<item>Newspaper Clippings </item>
+							<item>Newspaper Clippings</item>
 						</list>
 					</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series4">Series IV.</ref> Personal Commonplace Books </unittitle>
+					<unittitle><ref target="series4">Series IV.</ref> Personal Commonplace
+						Books</unittitle>
 					<physdesc>(Boxes 8-15)</physdesc>
 				</did>
 				<scopecontent>
 					<p>
 						<list type="marked">
-							<item>Eloise Ellery's Daily Diaries </item>
+							<item>Eloise Ellery's Daily Diaries</item>
 							<item>Record Books and Notes</item>
-							<item>Frank M. Ellery's Daily Diaries </item>
+							<item>Frank M. Ellery's Daily Diaries</item>
 						</list>
 					</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series5">Series V.</ref> Legal Documents </unittitle>
-					<physdesc>(Box 16 and Folder 139, drawer 36 mapcase)</physdesc>
+					<unittitle><ref target="series5">Series V.</ref> Legal Documents</unittitle>
+					<physdesc>(Box 16 and Folder 139, Map Case Drawer 34)</physdesc>
 				</did>
 				<scopecontent>
 					<p>
 						<list type="marked">
-							<item>Travel Documents </item>
+							<item>Travel Documents</item>
 							<item>Letter of Introduction</item>
-							<item>Library Cards </item>
-							<item>Estates </item>
-							<item> Oversized </item>
+							<item>Library Cards</item>
+							<item>Estates</item>
+							<item>Oversized</item>
 						</list>
 					</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series6">Series VI.</ref> Financial Documents </unittitle>
+					<unittitle><ref target="series6">Series VI.</ref> Financial Documents</unittitle>
 					<physdesc>(Box 17)</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series7">Series VII.</ref> The Ellery Family</unittitle>
+					<unittitle><ref target="series7">Series VII.</ref> The Ellery Family</unittitle>
 					<physdesc>(Box 17)</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series8">Series VIII.</ref> Photographs</unittitle>
+					<unittitle><ref target="series8">Series VIII.</ref> Photographs</unittitle>
 					<physdesc>(Box 17)</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series9">Series IX.</ref> Fragments</unittitle>
+					<unittitle><ref target="series9">Series IX.</ref> Fragments</unittitle>
 					<physdesc>(Box 17)</physdesc>
 				</did>
 			</c01>
@@ -261,1250 +342,1276 @@
 			<p/>
 			<c01 level="series" id="series1">
 				<did>
-					<unittitle> SERIES I. CORRESPONDENCE </unittitle>
+					<unittitle>SERIES I. CORRESPONDENCE</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Personal Correspondence to Eloise Ellery </unittitle>
+						<unittitle>Personal Correspondence to Eloise Ellery</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.1 </container>
-							<unittitle> Ellery, Frank M., </unittitle>
-							<physdesc> (25 letters, 1 w/ Xerox) </physdesc>
-							<unitdate type="inclusive"> 1891-1928 </unitdate>
+							<container>Folder 1.1</container>
+							<unittitle>Ellery, Frank M., </unittitle>
+							<physdesc>(25 letters, 1 with photocopy)</physdesc>
+							<unitdate type="inclusive" normal="1891/1928">1891-1928</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.2 </container>
-							<unittitle> Ellery, Frank M., </unittitle>
-							<physdesc> (1 poem - 2MS, 2 Xerox) </physdesc>
-							<unitdate type="inclusive"> 1929 </unitdate>
+							<container>Folder 1.2</container>
+							<unittitle>Ellery, Frank M., </unittitle>
+							<physdesc>(1 poem - 2 MS, 2 photocopy)</physdesc>
+							<unitdate type="inclusive" normal="1929">1929</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.3 </container>
-							<unittitle> Hecht, Ilse, </unittitle>
-							<physdesc> (13 letters) </physdesc>
-							<unitdate type="inclusive"> 1947-1952 </unitdate>
+							<container>Folder 1.3</container>
+							<unittitle>Hecht, Ilse, </unittitle>
+							<physdesc>(13 letters)</physdesc>
+							<unitdate type="inclusive" normal="1947/1952">1947-1952</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.4 </container>
-							<unittitle> Hecht, Ilse, </unittitle>
-							<physdesc> (9 letters) </physdesc>
-							<unitdate type="inclusive"> 1953 </unitdate>
+							<container>Folder 1.4</container>
+							<unittitle>Hecht, Ilse, </unittitle>
+							<physdesc>(9 letters)</physdesc>
+							<unitdate type="inclusive" normal="1953">1953</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.5 </container>
-							<unittitle> Hecht, Ilse, </unittitle>
-							<physdesc> (10 letters, 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 1954-1957 </unitdate>
+							<container>Folder 1.5</container>
+							<unittitle>Hecht, Ilse, </unittitle>
+							<physdesc>(10 letters, 1 postcard)</physdesc>
+							<unitdate type="inclusive" normal="1954/1957">1954-1957</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> Lowrie, Rebecca, </unittitle>
-							<physdesc> (15 letters) </physdesc>
-							<unitdate type="inclusive"> 1936-1951 </unitdate>
+							<container>Folder 1.6</container>
+							<unittitle>Lowrie, Rebecca, </unittitle>
+							<physdesc>(15 letters)</physdesc>
+							<unitdate type="inclusive" normal="1936/1951">1936-1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.7 </container>
-							<unittitle> Lowrie, Rebecca, </unittitle>
-							<physdesc> (20 letters) </physdesc>
-							<unitdate type="inclusive"> 1952-1953 </unitdate>
+							<container>Folder 1.7</container>
+							<unittitle>Lowrie, Rebecca, </unittitle>
+							<physdesc>(20 letters)</physdesc>
+							<unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.8 </container>
-							<unittitle> Lowrie, Rebecca, </unittitle>
-							<physdesc> (19 letters) </physdesc>
-							<unitdate type="inclusive"> 1954 </unitdate>
+							<container>Folder 1.8</container>
+							<unittitle>Lowrie, Rebecca, </unittitle>
+							<physdesc>(19 letters)</physdesc>
+							<unitdate type="inclusive" normal="1954">1954</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> Lowrie, Rebecca, </unittitle>
-							<physdesc> (10 letters) </physdesc>
-							<unitdate type="inclusive"> 1955-1956, n.d. </unitdate>
+							<container>Folder 1.9</container>
+							<unittitle>Lowrie, Rebecca, </unittitle>
+							<physdesc>(10 letters)</physdesc>
+							<unitdate type="inclusive" normal="1955/1956">1955-1956, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> Lowrie, Rebecca I, </unittitle>
-							<physdesc> (5 Christmas cards) </physdesc>
-							<unitdate type="inclusive"> n.d. </unitdate>
+							<container>Folder 1.10</container>
+							<unittitle>Lowrie, Rebecca I, </unittitle>
+							<physdesc>(5 Christmas cards)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.11 </container>
-							<unittitle> Lowrie, Rebecca II, </unittitle>
-							<physdesc> (5 Christmas cards, 1 tea mat) </physdesc>
-							<unitdate type="inclusive"> n.d. </unitdate>
+							<container>Folder 1.11</container>
+							<unittitle>Lowrie, Rebecca II, </unittitle>
+							<physdesc>(5 Christmas cards, 1 tea mat)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.12 </container>
-							<unittitle> Mott, Irene, </unittitle>
-							<physdesc> (3 letters, 1 Typescript) </physdesc>
-							<unitdate type="inclusive"> 1924-1939 </unitdate>
+							<container>Folder 1.12</container>
+							<unittitle>Mott, Irene, </unittitle>
+							<physdesc>(3 letters, 1 Typescript)</physdesc>
+							<unitdate type="inclusive">1924-1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.13 </container>
-							<unittitle> Mott, Irene, </unittitle>
-							<physdesc> (4 letters, 1 Christmas card, with pictures) </physdesc>
-							<unitdate type="inclusive"> 1942-1951, n.d. </unitdate>
+							<container>Folder 2.13</container>
+							<unittitle>Mott, Irene, </unittitle>
+							<physdesc>(4 letters, 1 Christmas card, with pictures)</physdesc>
+							<unitdate type="inclusive" normal="1942/1951">1942-1951, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.14 </container>
-							<unittitle> Otley, Roberta, </unittitle>
-							<physdesc> (7 letters, 1 note) </physdesc>
-							<unitdate type="inclusive"> 1939-1958 </unitdate>
+							<container>Folder 2.14</container>
+							<unittitle>Otley, Roberta, </unittitle>
+							<physdesc>(7 letters, 1 note)</physdesc>
+							<unitdate type="inclusive" normal="1939/1958">1939-1958</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.15 </container>
-							<unittitle> Thompson, C. Mildred, </unittitle>
-							<physdesc> (13 letters, 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 1941-1950 </unitdate>
+							<container>Folder 2.15</container>
+							<unittitle>Thompson, C. Mildred, </unittitle>
+							<physdesc>(13 letters, 1 postcard)</physdesc>
+							<unitdate type="inclusive" normal="1941/1950">1941-1950</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.16 </container>
-							<unittitle> Thompson, C. Mildred, </unittitle>
-							<physdesc> (6 letters, 2 postcards, 2 c.c.) </physdesc>
-							<unitdate type="inclusive"> 1952 </unitdate>
+							<container>Folder 2.16</container>
+							<unittitle>Thompson, C. Mildred, </unittitle>
+							<physdesc>(6 letters, 2 postcards, 2 c.c.)</physdesc>
+							<unitdate type="inclusive" normal="1952">1952</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.17 </container>
-							<unittitle> Thompson, C. Mildred, </unittitle>
-							<physdesc> (16 letters, 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 1953-1954 </unitdate>
+							<container>Folder 2.17</container>
+							<unittitle>Thompson, C. Mildred, </unittitle>
+							<physdesc>(16 letters, 1 postcard)</physdesc>
+							<unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.18 </container>
-							<unittitle> Thompson, C. Mildred, </unittitle>
-							<physdesc> (12 letters, 2 postcards, 1 c.c.) </physdesc>
-							<unitdate type="inclusive"> 1955 </unitdate>
+							<container>Folder 2.18</container>
+							<unittitle>Thompson, C. Mildred, </unittitle>
+							<physdesc>(12 letters, 2 postcards, 1 c.c.)</physdesc>
+							<unitdate type="inclusive" normal="1955">1955</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.19 </container>
-							<unittitle> Thompson, C. Mildred, </unittitle>
-							<physdesc> (15 letters, 1 postcard, fragments) </physdesc>
-							<unitdate type="inclusive"> 1956-1957, n.d. </unitdate>
+							<container>Folder 2.19</container>
+							<unittitle>Thompson, C. Mildred, </unittitle>
+							<physdesc>(15 letters, 1 postcard, fragments)</physdesc>
+							<unitdate type="inclusive" normal="1956/1957">1956-1957, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.20 </container>
-							<unittitle> "Miss A"- Benet, </unittitle>
-							<physdesc> (8 letters, 9 postcards) </physdesc>
-							<unitdate type="inclusive"> 1952-1957, n.d. </unitdate>
+							<container>Folder 2.20</container>
+							<unittitle>"Miss A"- Benet, </unittitle>
+							<physdesc>(8 letters, 9 postcards)</physdesc>
+							<unitdate type="inclusive" normal="1952/1957">1952-1957, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.21 </container>
-							<unittitle> Blanding-Canda, </unittitle>
-							<physdesc> (12 letters, 4 cards, 3 postcards) </physdesc>
-							<unitdate type="inclusive"> 1946-1956, n.d. </unitdate>
+							<container>Folder 2.21</container>
+							<unittitle>Blanding-Canda, </unittitle>
+							<physdesc>(12 letters, 4 cards, 3 postcards)</physdesc>
+							<unitdate type="inclusive" normal="1946/1956">1946-1956, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.22 </container>
-							<unittitle> Clifford-Elsworth, </unittitle>
-							<physdesc> (15 letters, 4 cards, 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 1951-1957, n.d. </unitdate>
+							<container>Folder 3.22</container>
+							<unittitle>Clifford-Elsworth, </unittitle>
+							<physdesc>(15 letters, 4 cards, 1 postcard)</physdesc>
+							<unitdate type="inclusive" normal="1951/1957">1951-1957, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.23 </container>
-							<unittitle> Foster-McClelland, </unittitle>
-							<physdesc> (9 letters, 6 cards, 6 postcards) </physdesc>
-							<unitdate type="inclusive"> 1939-1958, n.d. </unitdate>
+							<container>Folder 3.23</container>
+							<unittitle>Foster-McClelland, </unittitle>
+							<physdesc>(9 letters, 6 cards, 6 postcards)</physdesc>
+							<unitdate type="inclusive" normal="1939/1958">1939-1958, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.24 </container>
-							<unittitle> McKnight-Rapin, </unittitle>
-							<physdesc> (12 letters) </physdesc>
-							<unitdate type="inclusive"> 1951-1958, n.d. </unitdate>
+							<container>Folder 3.24</container>
+							<unittitle>McKnight-Rapin, </unittitle>
+							<physdesc>(12 letters)</physdesc>
+							<unitdate type="inclusive" normal="1951/1958">1951-1958, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.25 </container>
-							<unittitle> Reed-Zen, </unittitle>
-							<physdesc> (9 letters, 4 cards, 3 postcards) </physdesc>
-							<unitdate type="inclusive"> 1940-1957, n.d. </unitdate>
+							<container>Folder 3.25</container>
+							<unittitle>Reed-Zen, </unittitle>
+							<physdesc>(9 letters, 4 cards, 3 postcards)</physdesc>
+							<unitdate type="inclusive" normal="1940/1957">1940-1957, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.26 </container>
-							<unittitle> Other Family correspondents, </unittitle>
-							<physdesc> (9 letters, 3 cards, 2 xeroxed telegrams, 4 announcements) </physdesc>
-							<unitdate type="inclusive"> 1933-1956, n.d. </unitdate>
+							<container>Folder 3.26</container>
+							<unittitle>Other Family correspondents, </unittitle>
+							<physdesc>(9 letters, 3 cards, 2 photocopyed telegrams, 4
+								announcements)</physdesc>
+							<unitdate type="inclusive" normal="1933/1956">1933-1956, undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Personal Correspondence from Eloise Ellery </unittitle>
+						<unittitle>Personal Correspondence from Eloise Ellery</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.27 </container>
-							<unittitle> Mother and Father, </unittitle>
-							<physdesc> (1 letter) </physdesc>
-							<unitdate type="inclusive"> 1899 </unitdate>
+							<container>Folder 3.27</container>
+							<unittitle>Mother and Father, </unittitle>
+							<physdesc>(1 letter)</physdesc>
+							<unitdate type="inclusive" normal="1899">1899</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.28 </container>
-							<unittitle> Frank M. Ellery, </unittitle>
-							<physdesc> (3 letters) </physdesc>
-							<unitdate type="inclusive"> 1957 </unitdate>
+							<container>Folder 3.28</container>
+							<unittitle>Frank M. Ellery, </unittitle>
+							<physdesc>(3 letters)</physdesc>
+							<unitdate type="inclusive" normal="1957">1957</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.29 </container>
-							<unittitle> Others, </unittitle>
-							<physdesc> (16 letters, 2 postcards) </physdesc>
-							<unitdate type="inclusive"> 1903-1957 </unitdate>
+							<container>Folder 3.29</container>
+							<unittitle>Others, </unittitle>
+							<physdesc>(16 letters, 2 postcards)</physdesc>
+							<unitdate type="inclusive" normal="1903/1957">1903-1957</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Financial and Legal Correspondence to Eloise Ellery </unittitle>
+						<unittitle>Financial and Legal Correspondence to Eloise Ellery</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.30 </container>
-							<unittitle> Letters of receipt from Vassar College, </unittitle>
-							<physdesc> (12 letters, xerox) </physdesc>
-							<unitdate type="inclusive"> 1933-1940 </unitdate>
+							<container>Folder 3.30</container>
+							<unittitle>Letters of receipt from Vassar College, </unittitle>
+							<physdesc>(12 letters, photocopy)</physdesc>
+							<unitdate type="inclusive" normal="1933/1940">1933-1940</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.31 </container>
-							<unittitle> Letters re: Salary and Pension, </unittitle>
-							<physdesc> (7 letters) </physdesc>
-							<unitdate type="inclusive"> 1929-1939 </unitdate>
+							<container>Folder 3.31</container>
+							<unittitle>Letters re: Salary and Pension, </unittitle>
+							<physdesc>(7 letters)</physdesc>
+							<unitdate type="inclusive" normal="1929/1939">1929-1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.32 </container>
-							<unittitle> Letters re: Frazer Estate, </unittitle>
-							<physdesc> (9 letters) </physdesc>
-							<unitdate type="inclusive"> 1935-1944 </unitdate>
+							<container>Folder 4.32</container>
+							<unittitle>Letters re: Frazer Estate, </unittitle>
+							<physdesc>(9 letters)</physdesc>
+							<unitdate type="inclusive" normal="1935/1944">1935-1944</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.33 </container>
-							<unittitle> Other financial and legal correspondence, </unittitle>
-							<physdesc> (5 letters) </physdesc>
-							<unitdate type="inclusive"> 1933-1954 </unitdate>
+							<container>Folder 4.33</container>
+							<unittitle>Other financial and legal correspondence, </unittitle>
+							<physdesc>(5 letters)</physdesc>
+							<unitdate type="inclusive" normal="1933/1954">1933-1954</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.34 </container>
-							<unittitle> Other professional correspondence, </unittitle>
-							<physdesc> (10 letters) </physdesc>
-							<unitdate type="inclusive"> 1939-1956, n.d. </unitdate>
+							<container>Folder 4.34</container>
+							<unittitle>Other professional correspondence, </unittitle>
+							<physdesc>(10 letters)</physdesc>
+							<unitdate type="inclusive" normal="1939/1956">1939-1956, undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Financial and Legal Correspondence from Eloise Ellery </unittitle>
+						<unittitle>Financial and Legal Correspondence from Eloise Ellery</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.35 </container>
-							<unittitle> Letters re: Frazer Estate, </unittitle>
-							<physdesc> (3 letters, 4 c.c.) </physdesc>
-							<unitdate type="inclusive"> 1934-1944 </unitdate>
+							<container>Folder 4.35</container>
+							<unittitle>Letters re: Frazer Estate, </unittitle>
+							<physdesc>(3 letters, 4 c.c.)</physdesc>
+							<unitdate type="inclusive" normal="1934/1944">1934-1944</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.36 </container>
-							<unittitle> Other professional correspondence, </unittitle>
-							<physdesc> (6 letters, 3 c.c.) </physdesc>
-							<unitdate type="inclusive"> 1933-1954, n.d. </unitdate>
+							<container>Folder 4.36</container>
+							<unittitle>Other professional correspondence, </unittitle>
+							<physdesc>(6 letters, 3 c.c.)</physdesc>
+							<unitdate type="inclusive" normal="1933/1954">1933-1954, undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Correspondence about Eloise Ellery by Others </unittitle>
+						<unittitle>Correspondence about Eloise Ellery by Others</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.37 </container>
-							<unittitle> Letters to Dr. Jane Baldwin, </unittitle>
-							<physdesc> (4 letters) </physdesc>
-							<unitdate type="inclusive"> 1958 </unitdate>
+							<container>Folder 4.37</container>
+							<unittitle>Letters to Dr. Jane Baldwin, </unittitle>
+							<physdesc>(4 letters)</physdesc>
+							<unitdate type="inclusive" normal="1958">1958</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.38 </container>
-							<unittitle> Letters to Helen D. Lockwood, </unittitle>
-							<physdesc> (11 letters, 1 c.c.) </physdesc>
-							<unitdate type="inclusive"> 1958-1959 </unitdate>
+							<container>Folder 4.38</container>
+							<unittitle>Letters to Helen D. Lockwood, </unittitle>
+							<physdesc>(11 letters, 1 c.c.)</physdesc>
+							<unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.39 </container>
-							<unittitle> Letters by Helen D. Lockwood, </unittitle>
-							<physdesc> (11 letters, 1 note) </physdesc>
-							<unitdate type="inclusive"> 1958 </unitdate>
+							<container>Folder 4.39</container>
+							<unittitle>Letters by Helen D. Lockwood, </unittitle>
+							<physdesc>(11 letters, 1 note)</physdesc>
+							<unitdate type="inclusive" normal="1958">1958</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.40 </container>
-							<unittitle> Other correspondence about Eloise Ellery by others, </unittitle>
-							<physdesc> (7 letters) </physdesc>
-							<unitdate type="inclusive"> 1946-1958 </unitdate>
+							<container>Folder 4.40</container>
+							<unittitle>Other correspondence about Eloise Ellery by others, </unittitle>
+							<physdesc>(7 letters)</physdesc>
+							<unitdate type="inclusive" normal="1946/1958">1946-1958</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Frank M. Ellery Correspondence </unittitle>
+						<unittitle>Frank M. Ellery Correspondence</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.41 </container>
-							<unittitle> Letters to Frank Ellery by other than Eloise, </unittitle>
-							<physdesc> (5 letters - 1 with copy, 1 with Xerox) </physdesc>
-							<unitdate type="inclusive"> 1925-1929 </unitdate>
+							<container>Folder 4.41</container>
+							<unittitle>Letters to Frank Ellery by other than Eloise, </unittitle>
+							<physdesc>(5 letters - 1 with copy, 1 with photocopy)</physdesc>
+							<unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.42 </container>
-							<unittitle> Letters by Frank Ellery to other than Eloise, </unittitle>
-							<physdesc> (3 letters) </physdesc>
-							<unitdate type="inclusive"> 1897-1924 </unitdate>
+							<container>Folder 4.42</container>
+							<unittitle>Letters by Frank Ellery to other than Eloise, </unittitle>
+							<physdesc>(3 letters)</physdesc>
+							<unitdate type="inclusive" normal="1897/1924">1897-1924</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Miscellaneous </unittitle>
+						<unittitle>Miscellaneous</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.43 </container>
-							<unittitle> Fragments or unidentified letters, </unittitle>
-							<physdesc> (1 letter, 3 cards, 3 postcards, 1 envelope) </physdesc>
-							<unitdate type="inclusive"> n.d. </unitdate>
+							<container>Folder 4.43</container>
+							<unittitle>Fragments or unidentified letters, </unittitle>
+							<physdesc>(1 letter, 3 cards, 3 postcards, 1 envelope)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series2">
 				<did>
-					<unittitle> SERIES II. MANUSCRIPTS AND TYPESCRIPTS </unittitle>
+					<unittitle>SERIES II. MANUSCRIPTS AND TYPESCRIPTS</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Unpublished Material </unittitle>
+						<unittitle>Unpublished Material</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.44 </container>
-							<unittitle> Barbour, Violet. "Memorandum on Professor Eloise Ellery," </unittitle>
-							<physdesc> (10 page TS and draft) </physdesc>
-							<unitdate type="inclusive"> 1958 </unitdate>
+							<container>Folder 5.44</container>
+							<unittitle>Barbour, Violet. "Memorandum on Professor Eloise Ellery," </unittitle>
+							<physdesc>(10 page TS and draft)</physdesc>
+							<unitdate type="inclusive" normal="1958">1958</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.45 </container>
-							<unittitle> Hecht, Ilse, </unittitle>
-							<physdesc> (TS, 6 pages) </physdesc>
-							<unitdate type="inclusive"> April 20, 1940 </unitdate>
+							<container>Folder 5.45</container>
+							<unittitle>Hecht, Ilse, </unittitle>
+							<physdesc>(TS, 6 pages)</physdesc>
+							<unitdate type="inclusive" normal="19400420">1940 Apr 20</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.46 </container>
-							<unittitle> VC History Department. "Memorial minute," </unittitle>
-							<physdesc> (TS, 4 pages) </physdesc>
-							<unitdate type="inclusive"> Oct. 6, 1958 </unitdate>
+							<container>Folder 5.46</container>
+							<unittitle>VC History Department. "Memorial minute," </unittitle>
+							<physdesc>(TS, 4 pages)</physdesc>
+							<unitdate type="inclusive" normal="19581006">1958 Oct 6</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.47 </container>
-							<unittitle> Lockwood, Helen D. "Some notes on E.E.'s Teaching," </unittitle>
-							<physdesc> (TS, 3 pages) </physdesc>
-							<unitdate type="inclusive"> August 28, 1958 </unitdate>
+							<container>Folder 5.47</container>
+							<unittitle>Lockwood, Helen D. "Some notes on E.E.'s Teaching," </unittitle>
+							<physdesc>(TS, 3 pages)</physdesc>
+							<unitdate type="inclusive" normal="19580828">1958 Aug 28</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.48 </container>
-							<unittitle> Monnier, Mathilde. "Printemps," </unittitle>
-							<physdesc> (TS, 8 pages) </physdesc>
-							<unitdate type="inclusive"> n.d. </unitdate>
+							<container>Folder 5.48</container>
+							<unittitle>Monnier, Mathilde. "Printemps," </unittitle>
+							<physdesc>(TS, 8 pages)</physdesc>
+							<unitdate type="inclusive">undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.49 </container>
-							<unittitle> Zen, Sophia Chen. "Miss E's Trip to China," </unittitle>
-							<physdesc> (TS, 5 pages w/pics) </physdesc>
-							<unitdate type="inclusive"> 1923-1924 </unitdate>
+							<container>Folder 5.49</container>
+							<unittitle>Zen, Sophia Chen. "Miss E's Trip to China," </unittitle>
+							<physdesc>(TS, 5 pages w/pics)</physdesc>
+							<unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.50 </container>
-							<unittitle> Zen, Sophia Chen. "Art of Persuading an Absolute Monarch in Chinese History," </unittitle>
-							<physdesc> (TS 11 pages) </physdesc>
-							<unitdate type="inclusive"> [ca.1952] </unitdate>
+							<container>Folder 5.50</container>
+							<unittitle>Zen, Sophia Chen. "Art of Persuading an Absolute Monarch in
+								Chinese History," </unittitle>
+							<physdesc>(TS 11 pages)</physdesc>
+							<unitdate type="inclusive" normal="1952">[circa 1952]</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.51 </container>
-							<unittitle> Reading Lists, </unittitle>
-							<physdesc> (TS, 11 pages) </physdesc>
-							<unitdate type="inclusive"> [ca. 1948] </unitdate>
+							<container>Folder 5.51</container>
+							<unittitle>Reading Lists, </unittitle>
+							<physdesc>(TS, 11 pages)</physdesc>
+							<unitdate type="inclusive" normal="1948">[circa 1948]</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.52 </container>
-							<unittitle> Unidentified literary works, </unittitle>
-							<physdesc> (3 items) </physdesc>
-							<unitdate type="inclusive"> 1850-1958, n.d. </unitdate>
+							<container>Folder 5.52</container>
+							<unittitle>Unidentified literary works, </unittitle>
+							<physdesc>(3 items)</physdesc>
+							<unitdate type="inclusive" normal="1850/1958">1850-1958, undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Published Material </unittitle>
+						<unittitle>Published Material</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.53 </container>
-							<unittitle> Dunne, Finley Peter "Mr. Dooley...," </unittitle>
-							<physdesc> (2 TS, 14 pages) </physdesc>
-							<unitdate type="inclusive"> March 13, 1912 </unitdate>
+							<container>Folder 5.53</container>
+							<unittitle>Dunne, Finley Peter "Mr. Dooley...," </unittitle>
+							<physdesc>(2 TS, 14 pages)</physdesc>
+							<unitdate type="inclusive" normal="19120313">1912 Mar 13</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.54 </container>
-							<unittitle> "News from Vassar" notices and drafts, </unittitle>
-							<physdesc> (2 TS, 6 pages) </physdesc>
-							<unitdate type="inclusive"> 1958 </unitdate>
+							<container>Folder 5.54</container>
+							<unittitle>"News from Vassar" notices and drafts, </unittitle>
+							<physdesc>(2 TS, 6 pages)</physdesc>
+							<unitdate type="inclusive" normal="1958">1958</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series3">
 				<did>
-					<unittitle> SERIES III. PRINTED MATERIALS </unittitle>
+					<unittitle>SERIES III. PRINTED MATERIALS</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Addresses and Announcements </unittitle>
+						<unittitle>Addresses and Announcements</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.55 </container>
-							<unittitle> Faculty statement to President Taylor, </unittitle>
-							<physdesc> (TS, 2 pages) </physdesc>
-							<unitdate type="inclusive"> [ca. 1913 - 1914] </unitdate>
+							<container>Folder 5.55</container>
+							<unittitle>Faculty statement to President Taylor, </unittitle>
+							<physdesc>(TS, 2 pages)</physdesc>
+							<unitdate type="inclusive" normal="1913/1914">[circa 1913-1914]</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.56 </container>
-							<unittitle> Trustees accept resignation of Eloise, </unittitle>
-							<physdesc> (TS, 1 page) </physdesc>
-							<unitdate type="inclusive"> [March 1939] </unitdate>
+							<container>Folder 5.56</container>
+							<unittitle>Trustees accept resignation of Eloise, </unittitle>
+							<physdesc>(TS, 1 page)</physdesc>
+							<unitdate type="inclusive" normal="193903">[1939 Mar]</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.57 </container>
-							<unittitle> Speech given by Adlai Stevenson, </unittitle>
-							<physdesc> (TS, 5 pages) </physdesc>
-							<unitdate type="inclusive"> June 7, 1954 </unitdate>
+							<container>Folder 5.57</container>
+							<unittitle>Speech given by Adlai Stevenson, </unittitle>
+							<physdesc>(TS, 5 pages)</physdesc>
+							<unitdate type="inclusive" normal="19540607">1954 Jun 7</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Articles Written by Eloise Ellery </unittitle>
+						<unittitle>Articles Written by Eloise Ellery</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.58 </container>
-							<unittitle> Aricles in <emph render="italic">Current History</emph>, </unittitle>
-							<physdesc> (4 articles) </physdesc>
-							<unitdate type="inclusive"> 1928-1929 </unitdate>
+							<container>Folder 6.58</container>
+							<unittitle>Aricles in<emph render="italic">Current History</emph>, </unittitle>
+							<physdesc>(4 articles)</physdesc>
+							<unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Articles Written about Eloise Ellery </unittitle>
+						<unittitle>Articles Written about Eloise Ellery</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.59 </container>
-							<unittitle> Printed picture dedication, <emph render="italic"> Vassarion, </emph></unittitle>
-							<physdesc> (2 pages) </physdesc>
-							<unitdate type="inclusive"> 1913 </unitdate>
+							<container>Folder 6.59</container>
+							<unittitle>Printed picture dedication, <emph render="italic">Vassarion,
+								</emph></unittitle>
+							<physdesc>(2 pages)</physdesc>
+							<unitdate type="inclusive" normal="1913">1913</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.60 </container>
-							<unittitle> "Eloise Ellery Chair," <emph render="italic">Alumnae Magazine,</emph></unittitle>
-							<physdesc> (1 page) </physdesc>
-							<unitdate type="inclusive"> Dec. 1958 </unitdate>
+							<container>Folder 6.60</container>
+							<unittitle>"Eloise Ellery Chair," <emph render="italic">Alumnae
+									Magazine, </emph></unittitle>
+							<physdesc>(1 page)</physdesc>
+							<unitdate type="inclusive" normal="195812">1958 Dec</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Booklets </unittitle>
+						<unittitle>Booklets</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.61 </container>
-							<unittitle> Guidebook of Geneve, </unittitle>
-							<physdesc> (1 item) </physdesc>
+							<container>Folder 6.61</container>
+							<unittitle>Guidebook of Geneve, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 item)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.62 </container>
-							<unittitle> Newcomer, Mabel, "You are a Taxpayer," </unittitle>
-							<physdesc> (1 item) </physdesc>
-							<unitdate type="inclusive"> 1939 </unitdate>
+							<container>Folder 6.62</container>
+							<unittitle>Newcomer, Mabel, "You are a Taxpayer," </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive" normal="1939">1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.63 </container>
-							<unittitle> Thompson, C. Mildred. "Carpet-baggers in U.S. Senate" and "Freedman's Bureau in Georgia," </unittitle>
-							<physdesc> (2 items) </physdesc>
-							<unitdate type="inclusive"> 1914-1921 </unitdate>
+							<container>Folder 6.63</container>
+							<unittitle>Thompson, C. Mildred. "Carpet-baggers in U.S. Senate" and
+								"Freedman's Bureau in Georgia," </unittitle>
+							<physdesc>(2 items)</physdesc>
+							<unitdate type="inclusive" normal="1914/1921">1914-1921</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.64 </container>
-							<unittitle> Miscellaneous: Goodhart's "British Constitution," M.L. King's "Our Struggle," and the 50th Anniversary Security Trust Company </unittitle>
-							<physdesc> (3 items) </physdesc>
-							<unitdate type="inclusive"> 1942-1956 </unitdate>
+							<container>Folder 6.64</container>
+							<unittitle>Miscellaneous: Goodhart's "British Constitution," M.L. King's
+								"Our Struggle," and the 50th Anniversary Security Trust
+								Company</unittitle>
+							<physdesc>(3 items)</physdesc>
+							<unitdate type="inclusive" normal="1942/1956">1942-1956</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Newspaper Clippings </unittitle>
+						<unittitle>Newspaper Clippings</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.65 </container>
-							<unittitle> Articles about Eloise Ellery, </unittitle>
-							<physdesc> (10 articles) </physdesc>
-							<unitdate type="inclusive"> 1915-1958 </unitdate>
+							<container>Folder 7.65</container>
+							<unittitle>Articles about Eloise Ellery, </unittitle>
+							<physdesc>(10 articles)</physdesc>
+							<unitdate type="inclusive" normal="1915/1958">1915-1958</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.66 </container>
-							<unittitle> Articles about Frank M. Ellery, </unittitle>
-							<physdesc> (21 articles) </physdesc>
-							<unitdate type="inclusive"> 1926-1926, n.d. </unitdate>
+							<container>Folder 7.66</container>
+							<unittitle>Articles about Frank M. Ellery, </unittitle>
+							<physdesc>(21 articles)</physdesc>
+							<unitdate type="inclusive" normal="1926">1926, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.67 </container>
-							<unittitle> Articles from Le Figaro, </unittitle>
-							<physdesc> (3 articles) </physdesc>
-							<unitdate type="inclusive"> 1952-1953 </unitdate>
+							<container>Folder 7.67</container>
+							<unittitle>Articles from Le Figaro, </unittitle>
+							<physdesc>(3 articles)</physdesc>
+							<unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.68 </container>
-							<unittitle> Ralph McGill Columns, </unittitle>
-							<physdesc> (3 articles) </physdesc>
-							<unitdate type="inclusive"> 1952-1953 </unitdate>
+							<container>Folder 7.68</container>
+							<unittitle>Ralph McGill Columns, </unittitle>
+							<physdesc>(3 articles)</physdesc>
+							<unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.69 </container>
-							<unittitle> Articles related to correspondents, </unittitle>
-							<physdesc> (8 articles) </physdesc>
-							<unitdate type="inclusive"> 1949-1954, n.d. </unitdate>
+							<container>Folder 7.69</container>
+							<unittitle>Articles related to correspondents, </unittitle>
+							<physdesc>(8 articles)</physdesc>
+							<unitdate type="inclusive" normal="1949/1954">1949-1954, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.70 </container>
-							<unittitle> Editorials, </unittitle>
-							<physdesc> (13 articles) </physdesc>
-							<unitdate type="inclusive"> 1937-1954, n.d. </unitdate>
+							<container>Folder 7.70</container>
+							<unittitle>Editorials, </unittitle>
+							<physdesc>(13 articles)</physdesc>
+							<unitdate type="inclusive" normal="1937/1954">1937-1954, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.71 </container>
-							<unittitle> News articles, </unittitle>
-							<physdesc> (3 articles) </physdesc>
-							<unitdate type="inclusive"> 1928-1955 </unitdate>
+							<container>Folder 7.71</container>
+							<unittitle>News articles, </unittitle>
+							<physdesc>(3 articles)</physdesc>
+							<unitdate type="inclusive" normal="1928/1955">1928-1955</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.72 </container>
-							<unittitle> Obituaries, </unittitle>
-							<physdesc> (20 articles) </physdesc>
-							<unitdate type="inclusive"> 1920-1958, n.d. </unitdate>
+							<container>Folder 7.72</container>
+							<unittitle>Obituaries, </unittitle>
+							<physdesc>(20 articles)</physdesc>
+							<unitdate type="inclusive" normal="1920/1958">1920-1958, undated</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.73 </container>
-							<unittitle> Political cartoons, </unittitle>
-							<physdesc> (3 cartoons) </physdesc>
-							<unitdate type="inclusive"> 1951-1953 </unitdate>
+							<container>Folder 7.73</container>
+							<unittitle>Political cartoons, </unittitle>
+							<physdesc>(3 cartoons)</physdesc>
+							<unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.74 </container>
-							<unittitle> Book reviews, </unittitle>
-							<physdesc> (2 articles) </physdesc>
-							<unitdate type="inclusive"> 1953-1956 </unitdate>
+							<container>Folder 7.74</container>
+							<unittitle>Book reviews, </unittitle>
+							<physdesc>(2 articles)</physdesc>
+							<unitdate type="inclusive" normal="1953/1956">1953-1956</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.75 </container>
-							<unittitle> Weather reports, </unittitle>
-							<physdesc> (8 articles) </physdesc>
-							<unitdate type="inclusive"> [ca. 1924] </unitdate>
+							<container>Folder 7.75</container>
+							<unittitle>Weather reports, </unittitle>
+							<physdesc>(8 articles)</physdesc>
+							<unitdate type="inclusive" normal="1924">[circa 1924]</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.76 </container>
-							<unittitle> Electoral Voting reports, </unittitle>
-							<physdesc> (6 articles) </physdesc>
-							<unitdate type="inclusive"> 1920-1928 </unitdate>
+							<container>Folder 7.76</container>
+							<unittitle>Electoral Voting reports, </unittitle>
+							<physdesc>(6 articles)</physdesc>
+							<unitdate type="inclusive" normal="1920/1928">1920-1928</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.77 </container>
-							<unittitle> Miscellaneous, </unittitle>
-							<physdesc> (20 articles) </physdesc>
-							<unitdate type="inclusive"> 1870-1954, n.d. </unitdate>
+							<container>Folder 7.77</container>
+							<unittitle>Miscellaneous, </unittitle>
+							<physdesc>(20 articles)</physdesc>
+							<unitdate type="inclusive" normal="1870/1954">1870-1954, undated</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series4">
 				<did>
-					<unittitle> SERIES IV. PERSONAL COMMONPLACE BOOKS </unittitle>
+					<unittitle>SERIES IV. PERSONAL COMMONPLACE BOOKS</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Eloise Ellery's Daily Diaries </unittitle>
+						<unittitle>Eloise Ellery's Daily Diaries</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.78 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Dec. 25, 1940-Oct. 4, 1941 </unitdate>
+							<container>Folder 8.78</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19401225/19411004">1940 Dec 25 - 1941 Oct 4</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.79 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1942-April 1, 1942 </unitdate>
+							<container>Folder 8.79</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19420101/19420401">1942 Jan 1 - Apr 1</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.80 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1943-Nov. 24, 1943 </unitdate>
+							<container>Folder 8.80</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19430101/19431124">1943 Jan 1 - Nov 24</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.81 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1944-Nov. 29, 1944 </unitdate>
+							<container>Folder 8.81</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19440101/19441129">1944 Jan 1 - Nov 29</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.82 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1945-Dec. 31, 1945 </unitdate>
+							<container>Folder 8.82</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19450101/19451231">1945</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.83 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1946-Dec. 31, 1946 </unitdate>
+							<container>Folder 8.83</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19460101/19461231">1946</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.84 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1947-Dec. 31, 1947 </unitdate>
+							<container>Folder 8.84</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19470101/19471231">1947</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.85 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1948-Dec. 31, 1948 </unitdate>
+							<container>Folder 9.85</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19480101/19481231">1948</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.86 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1949-Dec. 28, 1949 </unitdate>
+							<container>Folder 9.86</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1949">1949</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.87 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1950-Dec. 31, 1950 </unitdate>
+							<container>Folder 9.87</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1950">1950</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.88 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1951-Dec. 31, 1951 </unitdate>
+							<container>Folder 9.88</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1951">1951</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.89 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1952-Dec. 31, 1952 </unitdate>
+							<container>Folder 9.89</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1952">1952</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.90 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1953-Dec. 31, 1953 </unitdate>
+							<container>Folder 10.90</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1953">1953</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.91 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1954-Dec. 31, 1954 </unitdate>
+							<container>Folder 10.91</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1954">1954</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.92 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1955-Jan. 1, 1956. </unitdate>
+							<container>Folder 10.92</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1955">1955</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.93 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1956-Nov. 1, 1956 </unitdate>
+							<container>Folder 10.93</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19560101/19561101">1956 Jan 1-Nov 1</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.94 </container>
-							<unittitle> Diary of Eloise Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1957-Dec. 31, 1957 </unitdate>
+							<container>Folder 10.94</container>
+							<unittitle>Diary of Eloise Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1957">1957</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Record Books and Notes </unittitle>
+						<unittitle>Record Books and Notes</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.95 </container>
-							<unittitle> Gradebook, </unittitle>
-							<unitdate type="inclusive"> 1926-1927 </unitdate>
+							<container>Folder 11.95</container>
+							<unittitle>Gradebook, </unittitle>
+							<unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.96 </container>
-							<unittitle> Gradebook, </unittitle>
-							<unitdate type="inclusive"> 1948-1939 </unitdate>
+							<container>Folder 11.96</container>
+							<unittitle>Gradebook, </unittitle>
+							<unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.97 </container>
-							<unittitle> Personal Health Record, </unittitle>
-							<unitdate type="inclusive"> 1953-1955 </unitdate>
+							<container>Folder 11.97</container>
+							<unittitle>Personal Health Record, </unittitle>
+							<unitdate type="inclusive" normal="1953/1955">1953-1955</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.98 </container>
-							<unittitle> Journal of Books read and quotations, </unittitle>
-							<unitdate type="inclusive"> 1919-1956 </unitdate>
+							<container>Folder 11.98</container>
+							<unittitle>Journal of Books read and quotations, </unittitle>
+							<unitdate type="inclusive" normal="1919/1956">1919-1956</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.99 </container>
-							<unittitle> Notes from reading I, </unittitle>
-							<physdesc> (116 items) </physdesc>
+							<container>Folder 12.99</container>
+							<unittitle>Notes from reading I, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(116 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.100 </container>
-							<unittitle> Notes from reading II, </unittitle>
-							<physdesc> (163 items) </physdesc>
+							<container>Folder 12.100</container>
+							<unittitle>Notes from reading II, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(163 items)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.101 </container>
-							<unittitle> Notes from reading III, </unittitle>
-							<physdesc> (113 items) </physdesc>
+							<container>Folder 12.101</container>
+							<unittitle>Notes from reading III, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(113 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Frank M. Ellery's Daily Diaries </unittitle>
+						<unittitle>Frank M. Ellery's Daily Diaries</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.102 </container>
-							<unittitle> Diary of Frank Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 3, 1910-Dec. 31, 1910 </unitdate>
+							<container>Folder 13.102</container>
+							<unittitle>Diary of Frank Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1910">1910</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.103 </container>
-							<unittitle> Diary of Frank Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1920-Dec. 31, 1920 </unitdate>
+							<container>Folder 13.103</container>
+							<unittitle>Diary of Frank Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.104 </container>
-							<unittitle> Diary of Frank Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1923-Dec. 31, 1923 </unitdate>
+							<container>Folder 14.104</container>
+							<unittitle>Diary of Frank Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1923">1923</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.105 </container>
-							<unittitle> Diary of Frank Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1924-Dec. 31, 1924 </unitdate>
+							<container>Folder 14.105</container>
+							<unittitle>Diary of Frank Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1924">1924</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.106 </container>
-							<unittitle> Diary of Frank Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1928-Dec. 31, 1928 </unitdate>
+							<container>Folder 15.106</container>
+							<unittitle>Diary of Frank Ellery, </unittitle>
+							<unitdate type="inclusive" normal="1928">1928</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.107 </container>
-							<unittitle> Diary of Frank Ellery, </unittitle>
-							<unitdate type="inclusive"> Jan. 1, 1929-Feb. 4, 1929 </unitdate>
+							<container>Folder 15.107</container>
+							<unittitle>Diary of Frank Ellery, </unittitle>
+							<unitdate type="inclusive" normal="19290101/19290204">1929 Jan 1 - Feb 4</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.108 </container>
-							<unittitle> Items removed from diaries of Frank Ellery, </unittitle>
-							<physdesc> (13 items) </physdesc>
+							<container>Folder 15.108</container>
+							<unittitle>Items removed from diaries of Frank Ellery, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(13 items)</physdesc>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series5">
 				<did>
-					<unittitle> SERIES V. LEGAL DOCUMENTS </unittitle>
+					<unittitle>SERIES V. LEGAL DOCUMENTS</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Travel Documents </unittitle>
+						<unittitle>Travel Documents</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.109 </container>
-							<unittitle> Itinerary of world tour, </unittitle>
-							<physdesc> (4 pages) </physdesc>
-							<unitdate type="inclusive"> March 27, 1923 </unitdate>
+							<container>Folder 16.109</container>
+							<unittitle>Itinerary of world tour, </unittitle>
+							<physdesc>(4 pages)</physdesc>
+							<unitdate type="inclusive" normal="19230327">1923 Mar 27</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.110 </container>
-							<unittitle> Contract for tour, </unittitle>
-							<physdesc> (7 pages) </physdesc>
-							<unitdate type="inclusive"> July 17, 1923 </unitdate>
+							<container>Folder 16.110</container>
+							<unittitle>Contract for tour, </unittitle>
+							<physdesc>(7 pages)</physdesc>
+							<unitdate type="inclusive" normal="19230717">1923 Jul 17</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.111 </container>
-							<unittitle> Mail instructions while on tour, </unittitle>
-							<physdesc> (3 items) </physdesc>
-							<unitdate type="inclusive"> [1923-1924] </unitdate>
+							<container>Folder 16.111</container>
+							<unittitle>Mail instructions while on tour, </unittitle>
+							<physdesc>(3 items)</physdesc>
+							<unitdate type="inclusive" normal="1923/1924">[1923-1924]</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.112 </container>
-							<unittitle> Eloise Ellery's passports, </unittitle>
-							<physdesc> (3 items) </physdesc>
-							<unitdate type="inclusive"> 1923-1930 </unitdate>
+							<container>Folder 16.112</container>
+							<unittitle>Eloise Ellery's passports, </unittitle>
+							<physdesc>(3 items)</physdesc>
+							<unitdate type="inclusive" normal="1923/1930">1923-1930</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.113 </container>
-							<unittitle> Frank Ellery's passport, </unittitle>
-							<physdesc> (1 item) </physdesc>
-							<unitdate type="inclusive"> 1923 </unitdate>
+							<container>Folder 16.113</container>
+							<unittitle>Frank Ellery's passport, </unittitle>
+							<physdesc>(1 item)</physdesc>
+							<unitdate type="inclusive" normal="1923">1923</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Letter of Introduction </unittitle>
+						<unittitle>Letter of Introduction</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.114 </container>
-							<unittitle> Letter from State Department, </unittitle>
-							<physdesc> (1 notice w/seal) </physdesc>
-							<unitdate type="inclusive"> April 25, 1908 </unitdate>
+							<container>Folder 16.114</container>
+							<unittitle>Letter from State Department, </unittitle>
+							<physdesc>(1 notice w/seal)</physdesc>
+							<unitdate type="inclusive" normal="19080425">1908 Apr 25</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.115 </container>
-							<unittitle> Letter from President H.N. MacCracken, </unittitle>
-							<physdesc> (1 page) </physdesc>
-							<unitdate type="inclusive"> June 1, 1939 </unitdate>
+							<container>Folder 16.115</container>
+							<unittitle>Letter from President H.N. MacCracken, </unittitle>
+							<physdesc>(1 page)</physdesc>
+							<unitdate type="inclusive" normal="19390601">1939 Jun 1</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Library Cards </unittitle>
+						<unittitle>Library Cards</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.116 </container>
-							<unittitle> Cards from Library of Congress, Bibliotheque Nationale, </unittitle>
-							<physdesc> (3 cards) </physdesc>
-							<unitdate type="inclusive"> 1934-1941 </unitdate>
+							<container>Folder 16.116</container>
+							<unittitle>Cards from Library of Congress, Bibliotheque Nationale, </unittitle>
+							<physdesc>(3 cards)</physdesc>
+							<unitdate type="inclusive" normal="1934/1941">1934-1941</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Estates </unittitle>
+						<unittitle>Estates</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.117 </container>
-							<unittitle> Alling, Abby M.: Statement of accounts, </unittitle>
-							<physdesc> (7 pages) </physdesc>
-							<unitdate type="inclusive"> [ca. 1929] </unitdate>
+							<container>Folder 16.117</container>
+							<unittitle>Alling, Abby M.: Statement of accounts, </unittitle>
+							<physdesc>(7 pages)</physdesc>
+							<unitdate type="inclusive" normal="1929">[circa 1929]</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.118 </container>
-							<unittitle> Alling, Abby M.: Receipt of assets, </unittitle>
-							<physdesc> (2 pages) </physdesc>
-							<unitdate type="inclusive"> March 29, 1929 </unitdate>
+							<container>Folder 16.118</container>
+							<unittitle>Alling, Abby M.: Receipt of assets, </unittitle>
+							<physdesc>(2 pages)</physdesc>
+							<unitdate type="inclusive" normal="19290329">1929 Mar 29</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.119 </container>
-							<unittitle> Ellery, Eloise: Drafts of will, legatees, </unittitle>
-							<physdesc> (6 items) </physdesc>
-							<unitdate type="inclusive"> 1944-1955 </unitdate>
+							<container>Folder 16.119</container>
+							<unittitle>Ellery, Eloise: Drafts of will, legatees, </unittitle>
+							<physdesc>(6 items)</physdesc>
+							<unitdate type="inclusive" normal="1944/1955">1944-1955</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.120 </container>
-							<unittitle> Ellery, Eloise: Notices to executor, </unittitle>
-							<physdesc> (2 items) </physdesc>
-							<unitdate type="inclusive"> 1939-1955 </unitdate>
+							<container>Folder 16.120</container>
+							<unittitle>Ellery, Eloise: Notices to executor, </unittitle>
+							<physdesc>(2 items)</physdesc>
+							<unitdate type="inclusive" normal="1939/1955">1939-1955</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.121 </container>
-							<unittitle> Ellery, Eloise: Estate inventories by Helen D. Lockwood, </unittitle>
-							<physdesc> (19 items) </physdesc>
-							<unitdate type="inclusive"> 1958 </unitdate>
+							<container>Folder 16.121</container>
+							<unittitle>Ellery, Eloise: Estate inventories by Helen D. Lockwood, </unittitle>
+							<physdesc>(19 items)</physdesc>
+							<unitdate type="inclusive" normal="1958">1958</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.122 </container>
-							<unittitle> Frazer, Mary, </unittitle>
-							<physdesc> (3 items) </physdesc>
-							<unitdate type="inclusive"> 1934-1944 </unitdate>
+							<container>Folder 16.122</container>
+							<unittitle>Frazer, Mary, </unittitle>
+							<physdesc>(3 items)</physdesc>
+							<unitdate type="inclusive" normal="1934/1944">1934-1944</unitdate>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Oversized </unittitle>
+						<unittitle>Oversized</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 36</container>
-							<unittitle> Diploma of Mary Alida Alling Rochester Collegiate Institute </unittitle>
+							<container>Map Case — Drawer 34</container>
+							<unittitle>Diploma of Mary Alida Alling from Rochester Collegiate
+								Institute</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 36</container>
-							<unittitle> Eloise Ellery Vassar College Diploma, </unittitle>
-							<unitdate type="inclusive"> 1897 </unitdate>
+							<container>Map Case — Drawer 34</container>
+							<unittitle>Eloise Ellery Vassar College Diploma, </unittitle>
+							<unitdate type="inclusive" normal="1897">1897</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Mapcase — Drawer 36</container>
-							<unittitle> Eloise Ellery Diploma Ph. D. Cornell University </unittitle>
+							<container>Map Case — Drawer 34</container>
+							<unittitle>Eloise Ellery Diploma Ph. D. Cornell University</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 36</container>
-							<unittitle> Eloise Ellery “Medalla de Plata..." from Don Antonio Maura y Montaner </unittitle>
+							<container>Map Case — Drawer 34</container>
+							<unittitle>Eloise Ellery “Medalla de Plata..." from Don Antonio Maura y
+								Montaner</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 36</container>
-							<unittitle> Frank M. Ellery two (2) certificates of admission to the New York State Bar, </unittitle>
-							<unitdate type="inclusive"> 20 June 1879, 13 June 1879 </unitdate>
+							<container>Map Case — Drawer 34</container>
+							<unittitle>Frank M. Ellery two (2) certificates of admission to the New
+								York State Bar, </unittitle>
+							<unitdate type="inclusive" normal="18790613/18790620">1879 Jun 13, 20</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container>Mapcase — Drawer 36</container>
-							<unittitle> Frank M. Ellery Broadside. Union School Number Ten, </unittitle>
-							<physdesc> (photocopy) </physdesc>
-							<unitdate type="inclusive"> 10 April 1862 </unitdate>
+							<container>Map Case — Drawer 34</container>
+							<unittitle>Frank M. Ellery Broadside. Union School Number Ten, </unittitle>
+							<physdesc>(photocopy)</physdesc>
+							<unitdate type="inclusive" normal="18620410">1862 Apr 10</unitdate>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series6">
 				<did>
-					<unittitle> SERIES VI. FINANCIAL DOCUMENTS </unittitle>
+					<unittitle>SERIES VI. FINANCIAL DOCUMENTS</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.123 </container>
-						<unittitle> Statement of investments, </unittitle>
-						<physdesc> (2 pages) </physdesc>
-						<unitdate type="inclusive"> 1947 </unitdate>
+						<container>Folder 17.123</container>
+						<unittitle>Statement of investments, </unittitle>
+						<physdesc>(2 pages)</physdesc>
+						<unitdate type="inclusive" normal="1947">1947</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.124 </container>
-						<unittitle> Carnegie Foundation pension plan, </unittitle>
-						<physdesc> (2 pages) </physdesc>
-						<unitdate type="inclusive"> [1930] </unitdate>
+						<container>Folder 17.124</container>
+						<unittitle>Carnegie Foundation pension plan, </unittitle>
+						<physdesc>(2 pages)</physdesc>
+						<unitdate type="inclusive" normal="1930">[1930]</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.125 </container>
-						<unittitle> Bills and receipts - Eloise Ellery, </unittitle>
-						<physdesc> (6 items) </physdesc>
-						<unitdate type="inclusive"> 1940-1958 </unitdate>
+						<container>Folder 17.125</container>
+						<unittitle>Bills and receipts - Eloise Ellery, </unittitle>
+						<physdesc>(6 items)</physdesc>
+						<unitdate type="inclusive" normal="1940/1958">1940-1958</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.126 </container>
-						<unittitle> Bills and receipts - Frank Ellery, </unittitle>
-						<physdesc> (1 item) </physdesc>
-						<unitdate type="inclusive"> 1928 </unitdate>
+						<container>Folder 17.126</container>
+						<unittitle>Bills and receipts - Frank Ellery, </unittitle>
+						<physdesc>(1 item)</physdesc>
+						<unitdate type="inclusive" normal="1928">1928</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series7">
 				<did>
-					<unittitle> SERIES VII. THE ELLERY FAMILY </unittitle>
+					<unittitle>SERIES VII. THE ELLERY FAMILY</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.127 </container>
-						<unittitle> Biographical data Eloise Ellery, </unittitle>
-						<physdesc> (4 pages) </physdesc>
-						<unitdate type="inclusive"> 1943-1951 </unitdate>
+						<container>Folder 17.127</container>
+						<unittitle>Biographical data Eloise Ellery, </unittitle>
+						<physdesc>(4 pages)</physdesc>
+						<unitdate type="inclusive" normal="1943/1951">1943-1951</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.128 </container>
-						<unittitle> Biographical data Frank Ellery, </unittitle>
-						<physdesc> (1 item) </physdesc>
+						<container>Folder 17.128</container>
+						<unittitle>Biographical data Frank Ellery, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(1 item)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.129 </container>
-						<unittitle> Family trees and drafts, </unittitle>
-						<physdesc> (11 items) </physdesc>
+						<container>Folder 17.129</container>
+						<unittitle>Family trees and drafts, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(11 items)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.130 </container>
-						<unittitle> Geneology of John Sibley I, </unittitle>
-						<physdesc> (20 pages) </physdesc>
+						<container>Folder 17.130</container>
+						<unittitle>Geneology of John Sibley I, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(20 pages)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.131 </container>
-						<unittitle> Geneology of John Sibley II, </unittitle>
-						<physdesc> (22 pages) </physdesc>
+						<container>Folder 17.131</container>
+						<unittitle>Geneology of John Sibley II, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(22 pages)</physdesc>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series8">
 				<did>
-					<unittitle> SERIES VIII. PHOTOGRAPHS </unittitle>
+					<unittitle>SERIES VIII. PHOTOGRAPHS</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.132 </container>
-						<unittitle> Photos of Eloise Ellery's family, including Frank Ellery, </unittitle>
-						<physdesc> (14 photos) </physdesc>
+						<container>Folder 17.132</container>
+						<unittitle>Photos of Eloise Ellery's family, including Frank Ellery, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(14 photos)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.134 </container>
-						<unittitle> Photos relating to Rebecca L. Lowrie, </unittitle>
-						<physdesc> (10 photos) </physdesc>
+						<container>Folder 17.134</container>
+						<unittitle>Photos relating to Rebecca L. Lowrie, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(10 photos)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.135 </container>
-						<unittitle> Photos of C. Mildred Thompson, </unittitle>
-						<physdesc> (7 photos) </physdesc>
+						<container>Folder 17.135</container>
+						<unittitle>Photos of C. Mildred Thompson, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(7 photos)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.136 </container>
-						<unittitle> Photos of others, </unittitle>
-						<physdesc> (5 photos) </physdesc>
+						<container>Folder 17.136</container>
+						<unittitle>Photos of others, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(5 photos)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.137 </container>
-						<unittitle> Unidenified photos, </unittitle>
-						<physdesc> (9 photos) </physdesc>
+						<container>Folder 17.137</container>
+						<unittitle>Unidenified photos, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(9 photos)</physdesc>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series9">
 				<did>
-					<unittitle> SERIES IX. FRAGMENTS </unittitle>
+					<unittitle>SERIES IX. FRAGMENTS</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 17.138 </container>
-						<unittitle> Miscellaneous: war rationbook, folder covers with notations in Eloise Ellery's hand, </unittitle>
-						<physdesc> (7 items) </physdesc>
+						<container>Folder 17.138</container>
+						<unittitle>Miscellaneous: war rationbook, folder covers with notations in
+							Eloise Ellery's hand, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(7 items)</physdesc>
 					</did>
 				</c02>
 			</c01>

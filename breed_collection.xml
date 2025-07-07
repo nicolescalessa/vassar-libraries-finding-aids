@@ -60,14 +60,11 @@
 				</archref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
-			<head> Related Materials</head>
-			<p>
-				<archref href="https://library.vassar.edu/specialcollections/rarebooks" show="new">
-					Atlas Collection</archref>
-			</p>
+			<head>Related Materials</head>
+			<p><archref href="https://library.vassar.edu/specialcollections/rarebooks" show="new">Atlas Collection</archref></p>
 			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/d9893e8f-9586-4cb5-97a4-45ac250ae564">Edward Lasker Collection of Atlases and Maps</archref></p>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/55f63f04-ef8f-47c9-bf60-ec86cf3f19f3">Miscellaneous Historical Maps Collection</archref></p>
 			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/8ea220d6-2a9e-4c5c-8344-71e490b0e1bb">Richmond John Rathbone Collection of Rare Maps</archref></p>
-			<p>Vassar College Archives Maps Collection</p>
 		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
@@ -119,7 +116,7 @@
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett, July 2011. Updated October 2018 and January 2019. Last updated by Emma Gronbeck, September 2024.</p>
+			<p>Encoded by Laura Streett, July 2011. Updated October 2018 and January 2019. Last updated by Emma Gronbeck, June 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -129,12 +126,12 @@
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Donated by Jocelyn Harrington Breed (VC 1936).</p>
+			<p>Gift of Jocelyn Harrington Breed (VC 1936).</p>
+			<p>Additions to the collection were the gift of Alexandra Breed, 2019-2025. [M2019-2019, M2021-001, M2021-003, M2025-004]</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p>Breed Collection of Maps, Documents, and Prints, Archives and Special Collections Library, Vassar College
-				Libraries.</p>
+			<p>Breed Collection of Maps, Documents, and Prints, Archives and Special Collections Library, Vassar College Libraries.</p>
 		</prefercite>
 		<arrangement encodinganalog="351">
 			<head>Arrangement</head>
@@ -3501,6 +3498,14 @@
 						<p>— Map has been mounted to a backing sheet.</p>
 					</scopecontent>
 				</c02>
+				<c02 level="item">
+					<did>
+						<container>292 (Framed Storage 1.1)</container>
+						<unittitle><emph render="italic">Terra Firma et Novum Regnum Granatense et Popayan</emph>, Amstelodami, Guiljelmus Blaeuw [Willem (Janszoon?) Blaeu], </unittitle>
+						<unitdate>[1631?]</unitdate>
+						<physdesc>(23.75 x 27.25 | tinted)</physdesc>
+					</did>
+				</c02>
 			</c01>
 			<c01 level="series" id="series37">
 				<did>
@@ -4214,7 +4219,7 @@
 					<did>
 						<container>291 (Box 2)</container>
 						<unittitle>[Florida] Pensacola [Fla.] to Peter Chester, gov … by William Mackapern (?)
-							for renwal of a warrant for 200 acres, </unittitle>
+							for renewal of a warrant for 200 acres, </unittitle>
 						<unitdate>1776 Apr 22</unitdate>
 						<physdesc>(1 sheet)</physdesc>
 					</did>

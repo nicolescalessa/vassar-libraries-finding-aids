@@ -2,76 +2,75 @@
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
 	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv">npv_robertson_priscilla
-		</eadid>
+		<eadid countrycode="us" mainagencycode="npv">npv_robertson_priscilla</eadid>
 		<filedesc>
 			<titlestmt>
 				<titleproper>Guide to the Priscilla Robertson Papers, 1889-2000</titleproper>
 				<author>Inventory prepared by Archives and Special Collections Library staff.</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
 			<creation>Finding aid encoded by Jason Kovari, <date>19 Mar 2009.</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Robertson, Priscilla Smith</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245">Priscilla Robertson Papers </unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1889-2000</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">33 boxes (14 cubic feet)</physdesc>
+			<unittitle label="Title:" encodinganalog="245">Priscilla Robertson Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1889-2000</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">13.2 cubic feet (33 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a">Personal and professional correspondence, photographs, publications, diaries, teaching materials, and research materials author, professor, historian and former chairwoman of the Kentucky Civil Liberties Union.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">Personal and professional materials related to author, professor, historian and former chairwoman of the Kentucky Civil Liberties Union, Priscilla Roberts (VC 1930), including correspondence, photographs, publications, diaries, teaching materials, and research materials.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note</head>
-			<p> Born in Paris, Priscilla Smith Robertson (VC 1930) was a former chairwoman of the Kentucky Civil Liberties Union, professor and historian. Robertson served as editor of the <emph render="italic">Humanist</emph> magazine, taught history at the Old Ballard School, Indiana University, Harvard University, Kentucky Southern College and the Louisville School of Art in Anchorage.</p>
-			<p>Robertson's work includes <emph render="italic">The Revolutions of 1848: A Social History</emph>, published 1952, and <emph render="italic">An Experience of Women: Pattern and Change in 19th Century Europe</emph>, published in 1982. She did considerable work with the Southern poor in the 1930s, for which she was honored by the Southern Historical Institution in Lexington two weeks prior to her death. Robertson died 26 Nov 1989.</p>
+			<p>Priscilla Smith Robertson (1910-1989) was an author, professor, historian, and a former chairwoman of the Kentucky Civil Liberties Union. Born in Paris in 1910, Robertson was raised primarily in New England and attended Vassar College, graduating with her BA as part of the Class of 1930. Robertson served as editor of <emph render="italic">The Humanist</emph> magazine, and taught history at the Old Ballard School, Indiana University, Harvard University, Kentucky Southern College, and the Louisville School of Art in Anchorage.</p>
+			<p>Robertson's work includes <emph render="italic">The Revolutions of 1848: A Social History</emph>, published 1952, and <emph render="italic">An Experience of Women: Pattern and Change in 19th Century Europe</emph>, published in 1982. She did considerable work with the Southern poor in the 1930s, for which she was honored by the Southern Historical Institution in Lexington two weeks prior to her death. Robertson died on November 26, 1989.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>The Priscilla Robertson Papers contain correspondence, teaching and research materials, diaries and family biographical materials of the author, historian and former chairwoman of the Kentucky Civil Liberties Union.</p>
+			<p>The collection contains personal and professional materials related to author, professor, historian and former chairwoman of the Kentucky Civil Liberties Union, Priscilla Roberts (VC 1930), including correspondence, photographs, publications, diaries, teaching materials, and research materials.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref>without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
 				<persname source="lcnaf" encodinganalog="600">Agee, James, 1909-1955</persname>
-				<persname encodinganalog="700">Broadus, Eliza</persname>
-				<persname encodinganalog="700">Guild, Aaron </persname>
-				<persname encodinganalog="700">Macneale, Anna</persname>
-				<persname encodinganalog="700">Macneale, Neil</persname>
+				<persname source="local" encodinganalog="700">Broadus, Eliza</persname>
+				<persname source="local" encodinganalog="700">Guild, Aaron</persname>
+				<persname source="local" encodinganalog="700">Macneale, Anna</persname>
+				<persname source="local" encodinganalog="700">Macneale, Neil</persname>
 				<persname source="lcnaf" encodinganalog="700">Plimpton, George</persname>
 				<persname source="lcnaf" encodinganalog="700">Robertson, Ella Broadus, 1872-1945</persname>
-				<persname encodinganalog="700">Smith, Winifred</persname>
+				<persname source="local" encodinganalog="700">Smith, Winifred</persname>
 				<persname source="lcnaf" encodinganalog="700">Kendall family</persname>
-				<persname encodinganalog="700">Macneale family</persname>
+				<persname source="local" encodinganalog="700">Macneale family</persname>
 				<persname source="lcnaf" encodinganalog="700">Plimpton family</persname>
 				<persname source="lcnaf" encodinganalog="700">Smith family</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Organizations:</head>
-				<corpname encodinganalog="610">American Civil Liberties Union of Kentucky</corpname>
+				<corpname source="local" encodinganalog="610">American Civil Liberties Union of Kentucky</corpname>
 				<corpname source="lcnaf" encodinganalog="610">American Civil Liberties Union</corpname>
 			</controlaccess>
 			<controlaccess>
@@ -87,7 +86,7 @@
 				<geogname source="lcnaf" encodinganalog="651">Southern States--History--20th century</geogname>
 			</controlaccess>
 			<controlaccess>
-				<head> Document Types:</head>
+				<head>Document Types:</head>
 				<genreform source="aat" encodinganalog="655">Diaries</genreform>
 			</controlaccess>
 			<controlaccess>
@@ -95,15 +94,15 @@
 				<title render="italic" encodinganalog="630">The Humanist</title>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Education </subject>
-				<subject source="local" encodinganalog="690"> Family </subject>
-				<subject source="local" encodinganalog="690"> History and Historians </subject>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Education</subject>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">History and Historians</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Finding aid encoded by Jason Kovari, 19 Mar 2009.</p>
+			<p>Finding aid encoded by Jason Kovari, 19 Mar 2009. Updated by Emma Gronbeck, July 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -113,20 +112,15 @@
 			<head>Preferred Citation</head>
 			<p>Priscilla Robertson Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
 		</prefercite>
-		<accruals encodinganalog="584">
-			<head>Accruals</head>
-			<p>No further accruals are expected to this collection.</p>
-		</accruals>
 		<dsc type="analyticover">
 			<head>Series List</head>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series1"> Series I. </ref>
-						<emph render="italic">Humanist</emph> Materials</unittitle>
+						<ref target="series1">Series I.</ref> <emph render="italic">Humanist</emph> Materials</unittitle>
 				</did>
 				<scopecontent>
-					<p>Includes mostly editorial correspondence</p>
+					<p>Includes mostly editorial correspondence.</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
@@ -138,44 +132,44 @@
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series3">Series III.</ref>Personal Correspondence</unittitle>
+						<ref target="series3">Series III.</ref> Personal Correspondence</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series4">Series IV.</ref>Diaries, </unittitle>
+						<ref target="series4">Series IV.</ref> Diaries, </unittitle>
 					<unitdate>1890-1922</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series5">Series V.</ref>Writings</unittitle>
+						<ref target="series5">Series V.</ref> Writings</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series6">Series VI.</ref>Teaching Materials</unittitle>
+						<ref target="series6">Series VI.</ref> Teaching Materials</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series7">Series VII.</ref>Personal Materials</unittitle>
+						<ref target="series7">Series VII.</ref> Personal Materials</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series8">Series VIII.</ref>Miscellaneous Materials</unittitle>
+						<ref target="series8">Series VIII.</ref> Miscellaneous Materials</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series9">Series IX.</ref>Biography</unittitle>
+						<ref target="series9">Series IX.</ref> Biography</unittitle>
 				</did>
 			</c01>
 		</dsc>
@@ -184,7 +178,7 @@
 			<p/>
 			<c01 level="series" id="series1">
 				<did>
-					<unittitle> SERIES I. <emph render="italic">Humanist</emph> Materials</unittitle>
+					<unittitle>SERIES I. <emph render="italic">Humanist</emph> Materials</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
@@ -192,69 +186,69 @@
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 1 </container>
-							<unittitle> A-F </unittitle>
+							<container>Box 1</container>
+							<unittitle>A - F</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 2 </container>
-							<unittitle> Friedmann-Hook</unittitle>
+							<container>Box 2</container>
+							<unittitle>Friedmann - Hook</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 2-4 </container>
-							<unittitle> Huber, </unittitle>
-							<unitdate> 1956-1958</unitdate>
+							<container>Boxes 2-4</container>
+							<unittitle>Huber, </unittitle>
+							<unitdate type="inclusive" normal="1956/1958">1956-1958</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 4 </container>
-							<unittitle> I-J </unittitle>
+							<container>Box 4</container>
+							<unittitle>I - J</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 5 </container>
-							<unittitle> Jones-LaBarre </unittitle>
+							<container>Box 5</container>
+							<unittitle>Jones - LaBarre</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 6 </container>
-							<unittitle> Lamont-Lockwood </unittitle>
+							<container>Box 6</container>
+							<unittitle>Lamont - Lockwood</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 7 </container>
-							<unittitle> M-Overstreet </unittitle>
+							<container>Box 7</container>
+							<unittitle>M - Overstreet</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 8 </container>
-							<unittitle> P-Wilson</unittitle>
+							<container>Box 8</container>
+							<unittitle>P - Wilson</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 12 </container>
-							<unittitle> Smith-Wechsler </unittitle>
+							<container>Box 12</container>
+							<unittitle>Smith - Wechsler</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 13 </container>
-							<unittitle> Wescott-S </unittitle>
+							<container>Box 13</container>
+							<unittitle>Wescott - S</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 14 </container>
-							<unittitle> Sanders- Smith, W.A.</unittitle>
+							<container>Box 14</container>
+							<unittitle>Sanders - Smith, W. A.</unittitle>
 						</did>
 					</c03>
 				</c02>
@@ -264,970 +258,939 @@
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 9 </container>
+							<container>Box 9</container>
 							<unittitle>
-								<emph render="italic">Humanist</emph> Controversy and aftermath </unittitle>
+								<emph render="italic">Humanist</emph> Controversy and aftermath</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 10-12 </container>
+							<container>Boxes 10-12</container>
 							<unittitle>
-								<emph render="italic">Humanist</emph> : Old office materials</unittitle>
+								<emph render="italic">Humanist</emph>: Old office materials</unittitle>
 						</did>
 						<scopecontent>
-							<p>Includes staff report, policy, budget</p>
+							<p>Includes staff report, policy, and budget.</p>
 						</scopecontent>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series2">
 				<did>
-					<unittitle> SERIES II. KCLU (American Civil Liberties Union of Kentucky) Materials</unittitle>
-				</did>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unittitle> KCLU (American Civil Liberties Union of Kentucky) Materials</unittitle>
+					<unittitle>SERIES II. KCLU (American Civil Liberties Union of Kentucky) Materials</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Boxes 15-16 </container>
-						<unittitle> KCLU Materials </unittitle>
+						<container>Boxes 15-16</container>
+						<unittitle>KCLU Materials</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 17 </container>
-						<unittitle> KCLU Materials; Service boards </unittitle>
+						<container>Box 17</container>
+						<unittitle>KCLU Materials; Service boards</unittitle>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series3">
 				<did>
-					<unittitle> SERIES III. Personal Correspondence</unittitle>
-					<unitdate type="inclusive">1950-2000</unitdate>
+					<unittitle>SERIES III. Personal Correspondence, </unittitle>
+					<unitdate type="inclusive" normal="1950/2000">1950-2000</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Box 17 </container>
-						<unittitle> A-B </unittitle>
+						<container>Box 17</container>
+						<unittitle>A-B</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 18 </container>
-						<unittitle> Bendit-Brinton </unittitle>
+						<container>Box 18</container>
+						<unittitle>Bendit-Brinton</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 19 </container>
-						<unittitle> Bruun-G </unittitle>
+						<container>Box 19</container>
+						<unittitle>Bruun-G</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 20 </container>
-						<unittitle> H-K </unittitle>
+						<container>Box 20</container>
+						<unittitle>H-K</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 21 </container>
-						<unittitle> Kendall-Lockwood </unittitle>
+						<container>Box 21</container>
+						<unittitle>Kendall-Lockwood</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 22 </container>
-						<unittitle> Luscky-McKay </unittitle>
+						<container>Box 22</container>
+						<unittitle>Luscky-McKay</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 23 </container>
-						<unittitle> N-Plimpton </unittitle>
+						<container>Box 23</container>
+						<unittitle>N-Plimpton</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 24 </container>
-						<unittitle> R-Taylor </unittitle>
+						<container>Box 24</container>
+						<unittitle>R-Taylor</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 25 </container>
-						<unittitle> Tatlock-Webber </unittitle>
+						<container>Box 25</container>
+						<unittitle>Tatlock-Webber</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 25 </container>
-						<unittitle> Weismann-Wolcott </unittitle>
+						<container>Box 25</container>
+						<unittitle>Weismann-Wolcott</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 33</container>
-						<unittitle> Postcards to Winifred Smith </unittitle>
+						<container>Box 33</container>
+						<unittitle>Postcards to Winifred Smith</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 32-33 </container>
-						<unittitle> Mother's letters to Winifred, </unittitle>
-						<unitdate> 1889 </unitdate>
+						<container>Boxes 32-33</container>
+						<unittitle>Mother's letters to Winifred, </unittitle>
+						<unitdate type="inclusive" normal="1889">1889</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series4">
 				<did>
-					<unittitle> SERIES IV. Diaries, </unittitle>
-					<unitdate>1890-1922</unitdate>
+					<unittitle>SERIES IV. Diaries, </unittitle>
+					<unitdate type="inclusive" normal="1890/1922">1890-1922</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Boxes 32-33 </container>
-						<unittitle> H.K.S. — Travel in Europe, </unittitle>
-						<unitdate> 1903 </unitdate>
+						<container>Boxes 32-33</container>
+						<unittitle>H.K.S. — Travel in Europe, </unittitle>
+						<unitdate type="inclusive" normal="1903">1903</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 32-33 </container>
-						<unittitle> H.K.S. — Diary, </unittitle>
-						<unitdate> 1910-1911 </unitdate>
+						<container>Boxes 32-33</container>
+						<unittitle>H.K.S. — Diary, </unittitle>
+						<unitdate type="inclusive" normal="1910/1911">1910-1911</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 32-33 </container>
-						<unittitle> A.M.S. diary, </unittitle>
-						<unitdate> 1922 </unitdate>
+						<container>Boxes 32-33</container>
+						<unittitle>A.M.S. diary, </unittitle>
+						<unitdate type="inclusive" normal="1922">1922</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 32-33 </container>
-						<unittitle> Winifred Smith diary, </unittitle>
-						<unitdate> 1890 </unitdate>
+						<container>Boxes 32-33</container>
+						<unittitle>Winifred Smith diary, </unittitle>
+						<unitdate type="inclusive" normal="1890">1890</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 32-33 </container>
-						<unittitle> W.S. diary, </unittitle>
-						<unitdate> 1892 </unitdate>
+						<container>Boxes 32-33</container>
+						<unittitle>[Winifred Smith] diary, </unittitle>
+						<unitdate type="inclusive" normal="1892">1892</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series5">
 				<did>
-					<unittitle> SERIES V. Writings</unittitle>
+					<unittitle>SERIES V. Writings</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Books</unittitle>
+						<unittitle>Books</unittitle>
 					</did>
-					<c03 level="otherlevel">
-						<did>
-							<unittitle>
-								<emph render="bolditalic"> Revolutions of 1848 </emph>
-							</unittitle>
-						</did>
-						<c04 level="file">
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Letters </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">Revolutions of 1848</emph> - Letters</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Publishing </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">Revolutions of 1848</emph> - Publishing</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Princeton Publishing </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">Revolutions of 1848</emph> - Princeton Publishing</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Reviews </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">Revolutions of 1848</emph> - Reviews</unittitle>
 							</did>
-						</c04>
-					</c03>
-					<c03 level="otherlevel">
-						<did>
-							<unittitle>
-								<emph render="bolditalic"> An Experience of Women: Pattern and Change in 19th century Europe</emph>
-							</unittitle>
-						</did>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Advertising </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Advertising</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Copy Editing </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Copy Editing</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Drennan, J. </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Drennan, J.</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Italian Library </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Italian Library</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Letters </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Letters</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Literary Agent </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Literary Agent</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Pre-Publication Letters </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Pre-Publication Letters</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Readers' Report </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Readers' Report</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Rejections </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Rejections</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Rettig, C. </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Rettig, C.</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Reviews </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Reviews</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Sources </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Sources</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Statistics–Append. </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Statistics–Append.</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Temple Publisher </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">An Experience of Women: Pattern and Change in 19th century Europe</emph> - Temple Publisher</unittitle>
 							</did>
-						</c04>
-					</c03>
-					<c03 level="otherlevel">
-						<did>
-							<unittitle>
-								<emph render="bolditalic"> History of Childhood</emph>
-							</unittitle>
-						</did>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle>
-									<emph render="italic"> History of Childhood</emph>
-								</unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">History of Childhood</emph> - Bulletins</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
+						</c03>
+						<c03 level="file">
 							<did>
-								<container> Box 26 </container>
-								<unittitle> Bulletins </unittitle>
+								<container>Box 26</container>
+								<unittitle><emph render="italic">History of Childhood</emph> - Reviews</unittitle>
 							</did>
-						</c04>
-						<c04 level="file">
-							<did>
-								<container> Box 26 </container>
-								<unittitle> Reviews </unittitle>
-							</did>
-						</c04>
-					</c03>
+						</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
+							<container>Box 26</container>
 							<unittitle>
-								<emph render="italic"> Lewis Farm</emph>
+								<emph render="italic">Lewis Farm</emph>
 							</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Buen </unittitle>
+							<container>Box 26</container>
+							<unittitle>Buen</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Articles</unittitle>
+						<unittitle>Articles</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> C.J. Reviews </unittitle>
+							<container>Box 26</container>
+							<unittitle>C.J. Reviews</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Harper's </unittitle>
+							<container>Box 26</container>
+							<unittitle>Harper's</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Harper's Commentary </unittitle>
+							<container>Box 26</container>
+							<unittitle>Harper's Commentary</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Harper's Housekeeping </unittitle>
+							<container>Box 26</container>
+							<unittitle>Harper's Housekeeping</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Harper's Letters to Editors </unittitle>
+							<container>Box 26</container>
+							<unittitle>Harper's Letters to Editors</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Harper's Publishing </unittitle>
+							<container>Box 26</container>
+							<unittitle>Harper's Publishing</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Kentucky Constitution </unittitle>
+							<container>Box 26</container>
+							<unittitle>Kentucky Constitution</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> My Great-Grandmothers Were Happy </unittitle>
+							<container>Box 26</container>
+							<unittitle>My Great-Grandmothers Were Happy</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Progressive Reviews </unittitle>
+							<container>Box 26</container>
+							<unittitle>Progressive Reviews</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Published Articles </unittitle>
+							<container>Box 26</container>
+							<unittitle>Published Articles</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Sex </unittitle>
+							<container>Box 26</container>
+							<unittitle>Sex</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> South Today </unittitle>
+							<container>Box 26</container>
+							<unittitle>South Today</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Student Barricades </unittitle>
+							<container>Box 26</container>
+							<unittitle>Student Barricades</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Values </unittitle>
+							<container>Box 26</container>
+							<unittitle>Values</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Unpublished</unittitle>
+						<unittitle>Unpublished</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> A.H.A. Talks </unittitle>
+							<container>Box 26</container>
+							<unittitle>A.H.A. Talks</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Fiction Stories </unittitle>
+							<container>Box 26</container>
+							<unittitle>Fiction Stories</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> P. R. Talks </unittitle>
+							<container>Box 26</container>
+							<unittitle>Priscilla Robertson Talks</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Unpublished (General) </unittitle>
+							<container>Box 26</container>
+							<unittitle>Unpublished (General)</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Sharecropper Materials</unittitle>
+						<unittitle>Sharecropper Materials</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> 1938 Student Group-Arkansas </unittitle>
+							<container>Box 26</container>
+							<unittitle>1938 Student Group-Arkansas</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Addresses and Letters </unittitle>
+							<container>Box 26</container>
+							<unittitle>Addresses and Letters</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Agee, James </unittitle>
+							<container>Box 26</container>
+							<unittitle>Agee, James</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Arkansas Lawrences </unittitle>
+							<container>Box 26</container>
+							<unittitle>Arkansas Lawrences</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Arkansas Sharecropper </unittitle>
+							<container>Box 26</container>
+							<unittitle>Arkansas Sharecropper</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Boyle </unittitle>
+							<container>Box 26</container>
+							<unittitle>Boyle</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Butler </unittitle>
+							<container>Box 26</container>
+							<unittitle>Butler</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Florida Lawrences </unittitle>
+							<container>Box 26</container>
+							<unittitle>Florida Lawrences</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Louise's Letters </unittitle>
+							<container>Box 26</container>
+							<unittitle>Louise's Letters</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Louise's Text </unittitle>
+							<container>Box 26</container>
+							<unittitle>Louise's Text</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Memphis Convention </unittitle>
+							<container>Box 26</container>
+							<unittitle>Memphis Convention</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Missouri Highway </unittitle>
+							<container>Box 26</container>
+							<unittitle>Missouri Highway</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Mitchell </unittitle>
+							<container>Box 26</container>
+							<unittitle>Mitchell</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Mitchell's Film </unittitle>
+							<container>Box 26</container>
+							<unittitle>Mitchell's Film</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Myrtle </unittitle>
+							<container>Box 26</container>
+							<unittitle>Myrtle</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> P.R. Work in Arkansas </unittitle>
+							<container>Box 26</container>
+							<unittitle>Priscilla Robertson Work in Arkansas</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Political Autobiography </unittitle>
+							<container>Box 26</container>
+							<unittitle>Political Autobiography</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Printed Sources </unittitle>
+							<container>Box 26</container>
+							<unittitle>Printed Sources</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Publication – Temple </unittitle>
+							<container>Box 26</container>
+							<unittitle>Publication – Temple</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> S.T.F.U. </unittitle>
+							<container>Box 26</container>
+							<unittitle>S.T.F.U.</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Socialist and Communist Fight </unittitle>
+							<container>Box 26</container>
+							<unittitle>Socialist and Communist Fight</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Miscellaneous</unittitle>
+						<unittitle>Miscellaneous</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Publication Efforts </unittitle>
+							<container>Box 26</container>
+							<unittitle>Publication Efforts</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Ideas </unittitle>
+							<container>Box 26</container>
+							<unittitle>Ideas</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Victorian Studies – Children </unittitle>
+							<container>Box 26</container>
+							<unittitle>Victorian Studies – Children</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 26 </container>
-							<unittitle> Sources for Children's Book </unittitle>
+							<container>Box 26</container>
+							<unittitle>Sources for Children's Book</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 29-30 </container>
-							<unittitle> Notes for Children's Book: England, France, Germany, Italy </unittitle>
+							<container>Boxes 29-30</container>
+							<unittitle>Notes for Children's Book: England, France, Germany, Italy</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 29-30 </container>
-							<unittitle> Notes for the History of Civilization </unittitle>
+							<container>Boxes 29-30</container>
+							<unittitle>Notes for the History of Civilization</unittitle>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series6">
 				<did>
-					<unittitle> SERIES VI. Teaching Materials</unittitle>
+					<unittitle>SERIES VI. Teaching Materials</unittitle>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Indiana University</unittitle>
+						<unittitle>Indiana University</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> History 104, History 359, History 103 </unittitle>
+							<container>Box 27</container>
+							<unittitle>History 103, History 104, History 359</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Notes for Lectures </unittitle>
+							<container>Box 27</container>
+							<unittitle>Notes for Lectures</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Herodotus and Greece Notes </unittitle>
+							<container>Box 27</container>
+							<unittitle>Herodotus and Greece Notes</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Student Comments </unittitle>
+							<container>Box 27</container>
+							<unittitle>Student Comments</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Final Exams </unittitle>
+							<container>Box 27</container>
+							<unittitle>Final Exams</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> KSC (Kentucky Southern College)</unittitle>
+						<unittitle>KSC (Kentucky Southern College)</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Tests </unittitle>
+							<container>Box 27</container>
+							<unittitle>Tests</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Letters to art school students </unittitle>
+							<container>Box 27</container>
+							<unittitle>Letters to art school students</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Student records </unittitle>
+							<container>Box 27</container>
+							<unittitle>Student records</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Box 27 </container>
-							<unittitle> Modern Europe </unittitle>
+							<container>Box 27</container>
+							<unittitle>Modern Europe</unittitle>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series7">
 				<did>
-					<unittitle> SERIES VII. Personal Materials </unittitle>
+					<unittitle>SERIES VII. Personal Materials</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Box 31 </container>
-						<unittitle> Priscilla Robertson Personal Materials </unittitle>
+						<container>Box 31</container>
+						<unittitle>Priscilla Robertson Personal Materials</unittitle>
 					</did>
 					<scopecontent>
-						<p> Includes: photos, Academy Award, college, public service, passports, childhood expression, travel, dreams, letters </p>
+						<p>Includes: photographs, Academy Award, college, public service, passports, childhood expression, travel, dreams, letters.</p>
 					</scopecontent>
 				</c02>
 			</c01>
 			<c01 level="series" id="series8">
 				<did>
-					<unittitle> SERIES VIII. Miscellaneous Materials</unittitle>
+					<unittitle>SERIES VIII. Miscellaneous Materials</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Box 28 </container>
-						<unittitle> Arts, letters, and social science </unittitle>
+						<container>Box 28</container>
+						<unittitle>Arts, letters, and social science</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 28 </container>
-						<unittitle> Poetry </unittitle>
+						<container>Box 28</container>
+						<unittitle>Poetry</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 28 </container>
-						<unittitle> Society (Un-American activities, population, religion, peace, the South) </unittitle>
+						<container>Box 28</container>
+						<unittitle>Society (Un-American activities, population, religion, peace, the South)</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 28 </container>
-						<unittitle> Art (photography, costumes) </unittitle>
+						<container>Box 28</container>
+						<unittitle>Art (photography, costumes)</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 28 </container>
-						<unittitle> Language (handwriting, literature, words) </unittitle>
+						<container>Box 28</container>
+						<unittitle>Language (handwriting, literature, words)</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 29 </container>
-						<unittitle> Recreation (puzzles, solitaire…) </unittitle>
+						<container>Box 29</container>
+						<unittitle>Recreation (puzzles, solitaire…)</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 29 </container>
-						<unittitle> Education (progressive education, Vassar, international conference, Ballard philosophy) </unittitle>
+						<container>Box 29</container>
+						<unittitle>Education (progressive education, Vassar, international conference, Ballard philosophy)</unittitle>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 29 </container>
-						<unittitle> Theater (programs) </unittitle>
+						<container>Box 29</container>
+						<unittitle>Theater (programs)</unittitle>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series9">
 				<did>
-					<unittitle> SERIES IX. Biography</unittitle>
+					<unittitle>SERIES IX. Biography</unittitle>
 				</did>
-				<c02 level="file">
-					<did>
-						<container> Boxes 32-33 </container>
-						<unittitle> Addresses: 1 small file drawer </unittitle>
-					</did>
-				</c02>
 				<c02 level="subseries">
+					<did><unittitle>General</unittitle></did>
+					<c03 level="file">
 					<did>
-						<unittitle> Smith Family</unittitle>
+						<container>Boxes 32-33</container>
+						<unittitle>Addresses</unittitle>
 					</did>
-					<c03 level="file">
-						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> P.S. - letters, articles, book reviews, photos </unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> H.P.S. - photos, heresy trials, letters, writing </unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Winifred Smith - photos, teaching, autobiography, letters, writing </unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Smith ancestors - photos, printed materials </unittitle>
-						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Macneale Family</unittitle>
+						<unittitle>Smith Family</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Anna Macneale </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>P.S. (Priscilla Smith?) - letters, articles, book reviews, photos</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Genealogy </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>H.P.S. - photos, heresy trials, letters, writing</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Autobiography—Neil Macneale </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Winifred Smith - photos, teaching, autobiography, letters, writing</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 32-33</container>
+							<unittitle>Smith ancestors - photos, printed materials</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Kendall Family</unittitle>
+						<unittitle>Macneale Family</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> J.P.K. </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Anna Macneale</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> I.P.K. </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Genealogy</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> H.P.K. </unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Kendall ancestors </unittitle>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> E.W.K. </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Autobiography—Neil Macneale</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Plimpton Family</unittitle>
+						<unittitle>Kendall Family</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> George A. Plimpton </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>J.P.K. (J. P. Kendall)</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> E. Plimpton </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>I.P.K. (I. P. Kendall)</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Plimpton genealogy </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>H.P.K. (H. P. Kendall)</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Aaron Guild </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Kendall ancestors</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Plimpton photos </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>E.W.K. (E. W. Kendall)</unittitle>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Miscellaneous ancestors</unittitle>
+						<unittitle>Plimpton Family</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Humphrey </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>George A. Plimpton</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> H.K.S. </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>E. Plimpton</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> E.R.E. </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Plimpton genealogy</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Ella B. Robertson </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Aaron Guild</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Robertson ancestors </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Plimpton photographs</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Miscellaneous ancestors</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Boxes 32-33</container>
+							<unittitle>Humphrey</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> E.B.R. writing </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>H.K.S.</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Robertson ancestors -photos </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>E.R.E.</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Cary's siblings </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Ella B. Robertson</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Miss Lottie letters </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>E.B.R. (Ella B. Robertson) writings</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> A.T.R. Jr. </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Robertson ancestors</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Easley letters </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Robertson ancestors - photos</unittitle>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Boxes 32-33 </container>
-							<unittitle> Eliza Broadus </unittitle>
+							<container>Boxes 32-33</container>
+							<unittitle>Cary's siblings</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 32-33</container>
+							<unittitle>Miss Lottie letters</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 32-33</container>
+							<unittitle>A.T.R. Jr.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 32-33</container>
+							<unittitle>Easley letters</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Boxes 32-33</container>
+							<unittitle>Eliza Broadus</unittitle>
 						</did>
 					</c03>
 				</c02>

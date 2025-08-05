@@ -2,80 +2,93 @@
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
 	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv"> npv_rothwell_william </eadid>
+		<eadid countrycode="us" mainagencycode="npv">npv_rothwell_william</eadid>
 		<filedesc>
 			<titlestmt>
 				<titleproper>Guide to the William F. Rothwell Jr. Papers, 1959-1985</titleproper>
 				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
-				<date>September 2009 </date>
+				<date>September 2009</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Jessica Kemm, <date>September 2009</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Jessica Kemm, <date>September 2009</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
-				<persname>Rothwell, William F., Jr., 1920-2001 </persname>
+				<persname>Rothwell, William F., Jr., 1920-2001</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> William F. Rothwell Jr. Papers </unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1959-1985 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 0.5 cubic feet (1 box)</physdesc>
+			<unittitle label="Title:" encodinganalog="245">William F. Rothwell Jr. Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1959-1985</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.5 cubic feet (1 box)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> Librettos, letters of commendation, and programs from Rothwell's work with the Experimental Theatre of Vassar College </abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">The collection consists of librettos, letters of commendation, and programs from William Rothwell's work with the Experimental Theatre of Vassar College.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note</head>
-			<p>William F. Rothwell Jr., born in Kansas City, Missouri on November 17, 1920, taught in the Vassar College Department of Drama from 1957 until his retirement in 1991. The son of William Francis Rothwell and Frances Eleanor Meade, he served in the U.S. Army from 1942-46 as a tech sergeant. A graduate of the University of Arizona, he earned his Ph.D. at the Yale University School of Drama in 1953. From 1954 until 1957, he was an instructor in drama at the University of California at Berkeley. Coming to Vassar as an Instructor, he became an Assistant Professor in 1959, Associate Professor in 1966, and Professor in 1977. In addition to teaching, he was chair of the drama department on a rotating basis, translated several operas from French and Italian into English for staging at Vassar, and directed many plays, operas and other musical productions. Beginning in 1968, Rothwell was the director of the Experimental Theater at Vassar. Locally, he served on the boards of the Hudson Valley
-				Playwright Music Theater and the Dutchess County Landmarks Association. Rothwell died on May 25, 2001 in Poughkeepsie, NY. </p>
+			<p>William F. Rothwell Jr., born in Kansas City, Missouri on November 17, 1920, taught in the Vassar College Department of Drama from 1957 until his retirement in 1991. The son of William Francis Rothwell and Frances Eleanor Meade, he served in the U.S. Army from 1942-46 as a tech sergeant. A graduate of the University of Arizona, he earned his Ph.D. at the Yale University School of Drama in 1953. From 1954 until 1957, he was an instructor in drama at the University of California at Berkeley. Coming to Vassar as an Instructor, he became an Assistant Professor in 1959, Associate Professor in 1966, and Professor in 1977. In addition to teaching, he was chair of the drama department on a rotating basis, translated several operas from French and Italian into English for staging at Vassar, and directed many plays, operas and other musical productions. Beginning in 1968, Rothwell was the director of the Experimental Theater at Vassar. Locally, he served on the boards of the Hudson Valley Playwright Music Theater and the Dutchess County Landmarks Association. Rothwell died on May 25, 2001 in Poughkeepsie, NY.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Librettos, letters of commendation,and programs from Rothwell's work with the Experimental Theatre of Vassar College </p>
+			<p>The collection consists of librettos, letters of commendation, and programs from William Rothwell's work with the Experimental Theatre of Vassar College.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/6855f2e9-35e3-4122-b3a8-d9373d7f9ad1"
+					>Vassar College Drama Department Records</archref></p>
+		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
-		
 			<controlaccess>
-				<head>Places:</head>
-				<geogname source="lcsh" encodinganalog="651"> Vassar College. Experimental Theatre</geogname>
+				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">Experimental Theatre of Vassar College</corpname>
+				</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">College theater</subject>
+				<subject source="lcsh" encodinganalog="650">Performing arts--New York (State)--Poughkeepsie</subject>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Theater, Drama and Film </subject>
-				<subject source="local" encodinganalog="690"> Vassar College </subject>
+				<head>Places:</head>
+				<geogname source="lcsh" encodinganalog="651">Vassar College. Experimental Theatre</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Theater, Drama and Film</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Jessica Kemm, September 2009. </p>
+			<p>Encoded by Jessica Kemm, September 2009. Updated by Emma Gronbeck, July 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Original processing date unknown. </p>
+			<p>Original processing date unknown.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Gift from Edward Reilly via the Sarah Canino/Music Library, Vassar College, August 13, 2004. </p>
+			<p>Gift from Edward Reilly via the Music Library, Vassar College, 2004 Aug 13.</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -86,86 +99,86 @@
 			<p/>
 			<c01 level="file" id="file">
 				<did>
-					<container> Folder 1.1 </container>
-					<unittitle> Letters of Commendation and Thanks, </unittitle>
-					<unitdate> 1959-1985 </unitdate>
+					<container>Folder 1.1</container>
+					<unittitle>Letters of Commendation and Thanks, </unittitle>
+					<unitdate type="inclusive" normal="1959/1985">1959-1985</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.2 </container>
-					<unittitle> Programs,</unittitle>
-					<unitdate> ca. 1960-1975 </unitdate>
+					<container>Folder 1.2</container>
+					<unittitle>Programs, </unittitle>
+					<unitdate type="inclusive" normal="1960/1975">circa 1960-1975</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.3 </container>
-					<unittitle> Librettos- La Cantera (Angelina), </unittitle>
-					<unitdate> n.d. </unitdate>
+					<container>Folder 1.3</container>
+					<unittitle>Librettos - La Cantera (Angelina), </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.4 </container>
-					<unittitle> Librettos- The Impressarion from Smyrna, </unittitle>
-					<unitdate> n.d. </unitdate>
+					<container>Folder 1.4</container>
+					<unittitle>Librettos - The Impressarion from Smyrna, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.5 </container>
-					<unittitle> Librettos- The Maid of the Mill, </unittitle>
-					<unitdate> ca. 1966 </unitdate>
+					<container>Folder 1.5</container>
+					<unittitle>Librettosn- The Maid of the Mill, </unittitle>
+					<unitdate type="inclusive" normal="1966">circa 1966</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.6 </container>
-					<unittitle> Librettos- The Maid of the Mill - Original Lyrics and Music, </unittitle>
-					<unitdate> n.d. </unitdate>
+					<container>Folder 1.6</container>
+					<unittitle>Librettos - The Maid of the Mill - Original Lyrics and Music,</unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.7 </container>
-					<unittitle> Librettos- The Passionate Pasha (Le Cadi dupé), </unittitle>
-					<unitdate> n.d. </unitdate>
+					<container>Folder 1.7</container>
+					<unittitle>Librettos - The Passionate Pasha (Le Cadi dupé), </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.8 </container>
-					<unittitle> Librettos- Rosina, </unittitle>
-					<unitdate> 1976 </unitdate>
+					<container>Folder 1.8</container>
+					<unittitle>Librettos - Rosina, </unittitle>
+					<unitdate type="inclusive" normal="1976">1976</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.9 </container>
-					<unittitle> Librettos- The Trimph of True Love (L'Ivrone Corrige), </unittitle>
-					<unitdate> ca. 1970 </unitdate>
+					<container>Folder 1.9</container>
+					<unittitle>Librettos - The Trimph of True Love (L'Ivrone Corrige), </unittitle>
+					<unitdate type="inclusive" normal="1970">circa 1970</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.10 </container>
-					<unittitle> Librettos- L'Ivrone Corrige - Original Lyrics and Music, </unittitle>
-					<unitdate> n.d. </unitdate>
+					<container>Folder 1.10</container>
+					<unittitle>Librettos - L'Ivrone Corrige - Original Lyrics and Music, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.11 </container>
-					<unittitle> Photos of an unidentified production, </unittitle>
-					<unitdate> n.d. </unitdate>
+					<container>Folder 1.11</container>
+					<unittitle>Photographs of an unidentified production, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
-					<container> Folder 1.12 </container>
-					<unittitle> Miscellaneous, </unittitle>
-					<unitdate> 1971, n.d. </unitdate>
+					<container>Folder 1.12</container>
+					<unittitle>Miscellaneous, </unittitle>
+					<unitdate type="inclusive" normal="1971">1971, undated</unitdate>
 				</did>
 			</c01>
 		</dsc>

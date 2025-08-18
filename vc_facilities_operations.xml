@@ -6,7 +6,7 @@
 		<eadid countrycode="us" mainagencycode="npv">npv_vc_facilities_operations</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the Vassar College Facilities Operations Records, 1800s-2011 (bulk 1908-1999)</titleproper>
+				<titleproper>Guide to the Vassar College Facilities Operations Records, 1800s-2021 (bulk 1908-1999)</titleproper>
 				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
 			</titlestmt>
 			<publicationstmt>
@@ -29,9 +29,9 @@
 				<persname>Vassar College. Facilities Operations</persname>
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Vassar College Facilities Operations Records</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1800s-2011</unitdate>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1800s-2021</unitdate>
 			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1908-1999</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">circa 275 cubic feet (87 boxes, 364 roll boxes); map case folders</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">circa 277 cubic feet (87 boxes, 368 roll boxes); map case folders</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -59,7 +59,7 @@
 		</scopecontent>
 		<arrangement encodinganalog="351">
 			<head>Arrangement</head>
-			<p>The collection is organized into two series: Series I. Administrative Files, 1879-2011; and Series II. Plans, 1800s-2010.
+			<p>The collection is organized into two series: Series I. Administrative Files, 1879-2021; and Series II. Plans, 1800s-2021.
 			</p>
 		</arrangement>
 		<accessrestrict encodinganalog="506">
@@ -137,7 +137,7 @@
 			<p>Transferred in multiple accessions from multiple departments, particularly Vassar
 				College Facilities Operations, 2003-2024. (A2003-016, A2003-021, A2004-015, A2006-016,
 				A2007-047, A2009-014, A2010-020, A2010-024, A2010-025, A2011-003, A2013-043,
-				A2014-033, A2016-029, A2024-020)</p>
+				A2014-033, A2016-029, A2024-020, A2025-033)</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -150,14 +150,14 @@
 				<did>
 					<unittitle>
 						<ref target="series1">Series I.</ref> Administrative Records, </unittitle>
-					<unitdate type="inclusive">1879-2011</unitdate>
+					<unitdate type="inclusive" normal="1879/2021">1879-2021</unitdate>
 				</did>
 <arrangement><p></p></arrangement>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle><ref target="series2">Series II.</ref> Plans, </unittitle>
-					<unitdate type="inclusive" normal="1800/2010">1800s - 2010</unitdate>
+					<unitdate type="inclusive" normal="1800/2021">1800s - 2021</unitdate>
 				</did>
 				<scopecontent>
 					<head>Scope and Contents</head>
@@ -177,6 +177,7 @@
 					<p>Facilities Operations Center (Buildings and Grounds Service Center), 1991</p>
 					<p>Faculty Housing - General, [1891?]-1989</p>
 					<p>Faculty Housing - Kendrick House, 1926</p>
+					<p>Faculty Housing - Pratt House, 2021, undated</p>
 					<p>Faculty Housing - Williams House, 1919-1941</p>
 					<p>Farm and Ecological Preserve, 1905-1924, undated</p>
 					<p>Gordon Commons (All College Dining Center (ACDC), Students' Building), 1912-1972</p>
@@ -2371,6 +2372,8 @@
 			<c02 level="file"><did><container>Box 78</container><unittitle>[Ely Hall] Building specifications, </unittitle><unitdate type="inclusive" normal="1889">circa 1889</unitdate></did></c02>
 			<c02 level="file"><did><container>Box 78</container><unittitle>[Gordon Commons, ACDC] Students Building - Auditorium, </unittitle><unitdate type="inclusive" normal="1912">1912</unitdate></did></c02>
 			<c02 level="file"><did><container>Box 78</container><unittitle>Landscape Master Plan, </unittitle><unitdate type="inclusive" normal="2011">2011</unitdate></did></c02>
+			<c02 level="file"><did><container>Box 78</container><unittitle>[Faculty Housing] Pratt House, renovation, </unittitle><unitdate type="inclusive" normal="2021">2021</unitdate><physdesc>[2 folders]</physdesc></did></c02>
+			<c02 level="file"><did><container>Box 78</container><unittitle>[Faculty Housing] Pratt House, renovation sketches, </unittitle><unitdate type="inclusive" normal="2021">2021</unitdate><physdesc>[2 folders]</physdesc></did></c02>
 			<c02 level="file"><did><container>Box 79</container><unittitle>[Sanders Classroom] Sanders Chemistry - Clippings, </unittitle><unitdate type="inclusive" normal="1908/1909">1908-1909</unitdate></did></c02>
 			<c02 level="file"><did><container>Box 79</container><unittitle>[Sanders Classroom] Sanders Chemistry - Clippings and press releases, </unittitle><unitdate type="inclusive" normal="1909/1978">1909-1978</unitdate></did></c02>
 			<c02 level="file"><did><container>Box 79</container><unittitle>[Sanders Classroom] Sanders Chemistry - Correspondence, </unittitle><unitdate type="inclusive" normal="1907">1907</unitdate></did></c02>
@@ -2421,7 +2424,6 @@
 <c03 level="file"><did><container>Roll Box 100</container><unittitle>[Plans] Alumnae House Details of Entrance Doors, </unittitle><unitdate type="inclusive" normal="1923">1923</unitdate></did></c03>
 <c03 level="file"><did><container>Roll Box 102</container><unittitle>[Plans] Alumnae House Vestibule and Stairs, </unittitle><unitdate type="inclusive" normal="1923">1923</unitdate></did></c03>
 <c03 level="file"><did><container>Roll Box 102</container><unittitle>[Plans] Alumnae House Interior Arch Detail, </unittitle><unitdate type="inclusive" normal="1923">1923</unitdate></did></c03>
-
 <c03 level="file"><did><container>Roll Box 97</container><unittitle>[Plans] Alumnae House Basement, </unittitle><unitdate type="inclusive" normal="1967">1967</unitdate></did></c03>
 <c03 level="file"><did><container>Roll Box 214</container><unittitle>[Plans] Alumnae House, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
 <c03 level="file"><did><container>Roll Box 296</container><unittitle>[Plans] Alumnae House 3rd Floor, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c03>
@@ -2633,6 +2635,11 @@
 <c03 level="file"><did><container>Roll Boxes 65-66</container><unittitle>[Plans] Kendrick House, </unittitle><unitdate type="inclusive" normal="1926">1926</unitdate></did></c03>
 <c03 level="file"><did><container>Map Case - Drawer 94</container><unittitle>[Plans] Kendrick Hall, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
 <c03 level="file"><did><container>Roll Box 36</container><unittitle>[Plans] "Original Drawings: Kendrick House" Hutchins, Evans and Lefferts, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+</c02><c02 level="subseries"><did><unittitle>Faculty Housing - Pratt House, </unittitle><unitdate type="inclusive" normal="2021">2021, undated</unitdate></did>	
+	<c03 level="file"><did><container>Roll Box 115</container><unittitle>[Plans] Pratt House, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>	
+	<c03 level="file"><did><container>Box 83 (Oversize)</container><unittitle>[Plans] Pratt House, renovation, </unittitle><unitdate type="inclusive" normal="2021">2021</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+	<c03 level="file"><did><container>Map Case - Drawer 55</container><unittitle>[Plans] Pratt House, renovation, </unittitle><unitdate type="inclusive" normal="2021">2021</unitdate></did></c03>	
+	<c03 level="file"><did><container>Roll Boxes 365-368</container><unittitle>[Plans] Pratt House, renovation, </unittitle><unitdate type="inclusive" normal="2021">2021</unitdate></did></c03>	
 </c02><c02 level="subseries"><did><unittitle>Faculty Housing - Williams House, </unittitle><unitdate type="inclusive" normal="1919/1941">1919-1941</unitdate></did>
 <c03 level="file"><did><container>Roll Box 171</container><unittitle>[Plans] Williams Hall, Hunt and Hunt, </unittitle><unitdate type="inclusive" normal="1919">1919</unitdate></did></c03>
 <c03 level="file"><did><container>Roll Box 210</container><unittitle>[Plans] Williams Hall Heating Apparatus, </unittitle><unitdate type="inclusive" normal="1919">1919</unitdate></did></c03>

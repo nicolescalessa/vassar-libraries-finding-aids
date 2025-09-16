@@ -30,7 +30,7 @@
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Vassar College Board of Trustees Records</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1861-2014</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">40 cubic feet (55 boxes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">42.4 cubic feet (58 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -98,13 +98,13 @@
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Elizabeth Clarke, June 2007. Updated by Laura Streett, March 2009. Updated
-				by Emma Gronbeck, January 2025.</p>
+			<p>Encoded by Elizabeth Clarke, June 2007. Updated by Laura Streett, March 2009. Last updated
+				by Emma Gronbeck, September 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
 			<p>Original processing date unknown. Updated by Laura Streett, July 2011, by Mark Seidl,
-				December 2019, and by Emma Gronbeck, November 2022, October 2023, and January 2025.</p>
+				December 2019, and by Emma Gronbeck, November 2022, October 2023, January 2025, and September 2025.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
@@ -114,8 +114,8 @@
 				A2007-060, A2008-004, A2008-022, A2008-026, A2008-027, A2009-006, A2009-045,
 				A2010-005, A2010-006, A2010-008, A2011-013, A2011-035, A2011-054, A2012-016,
 				A2012-027, A2012-030, A2013-031, A2014-027, A2014-054)</p>
-			<p>Some material (in boxes 29-34, 53) was transferred from the Office of the Vice
-				President for Finance in 2007 (A2007-046).</p>
+			<p>Some materials (in boxes 29-34, 53, 56-58) were transferred from the Office of the Vice
+				President for Finance in 2007 and 2025 (A2007-046, A2025-018).</p>
 			<p>Materials from the Trustee Committee on Buildings and Grounds in boxes 48-51 were
 				transferred in 2007 and 2009. (A2007-047, A2009-014)</p>
 		</acqinfo>
@@ -144,7 +144,7 @@
 				<did>
 					<unittitle>
 						<ref target="series2">Series II.</ref> Committees, </unittitle>
-					<unitdate type="inclusive">1861-2006</unitdate>
+					<unitdate type="inclusive">1861-2011</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -2076,6 +2076,7 @@
 							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
+					<c03 level="file"><did><container>Box 58</container><unittitle>Minutes and Reports (with notes and additions), </unittitle><unitdate type="inclusive" normal="199702/200605">1997 Feb - 2006 May</unitdate><physdesc>(29 folders) [RESTRICTED]</physdesc></did></c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 25.15</container>
@@ -2316,6 +2317,7 @@
 							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
+					<c03 level="file"><did><container>Box 58</container><unittitle>Minutes and Reports - Executive Committee Meeting, </unittitle><unitdate type="inclusive" normal="200608">2006 Aug</unitdate><physdesc>[RESTRICTED]</physdesc></did></c03>
 					<c03 level="file">
 						<did>
 							<container>Folders 27.1-27.2</container>
@@ -2324,6 +2326,7 @@
 							<physdesc>[RESTRICTED]</physdesc>
 						</did>
 					</c03>
+					<c03 level="file"><did><container>Box 58</container><unittitle>Minutes and Reports - Executive Committee Meetings, </unittitle><unitdate type="inclusive" normal="200912">2007 Feb - 2009 Dec</unitdate><physdesc>[RESTRICTED]</physdesc></did></c03>
 					<c03 level="file">
 						<did>
 							<container>Folder 27.3</container>
@@ -2595,393 +2598,61 @@
 			<c01 level="series" id="series2">
 				<did>
 					<unittitle>SERIES II. TRUSTEE COMMITTEES, </unittitle>
-					<unitdate type="inclusive" normal="1861/2006">1861-2006</unitdate>
+					<unitdate type="inclusive" normal="1861/2011">1861-2011</unitdate>
 				</did>
-				<c02 level="file">
-					<did>
-						<container>Folder 29.1</container>
-						<unittitle>Audit Committee, </unittitle>
-						<unitdate type="inclusive" normal="1981/2002">1981-2002</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 29.2-29.12</container>
-						<unittitle>Budget Committee, </unittitle>
-						<unitdate type="inclusive" normal="1958/1989">1958-1989</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 29.13-29.19</container>
-						<unittitle>Budget and Finance Committee, </unittitle>
-						<unitdate type="inclusive" normal="1989/2002">1989-2002</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 30.1-30.9</container>
-						<unittitle>Buildings and Grounds Committee, </unittitle>
-						<unitdate type="inclusive" normal="1925/2002">1925-2002</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 54</container>
-						<unittitle>Buildings and Grounds Committee — "Alumnae House - Restoration
-							and Mechanical Upgrade," pre-schematic plans, </unittitle>
-						<unitdate type="inclusive" normal="19941121">1994 Nov 21</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.1</container>
-						<unittitle>Buildings and Grounds Committee — "Avery Courtyard Proposal -
-							Center for Drama and Film" by Balmori Associates, concept art, </unittitle>
-						<unitdate type="inclusive" normal="2000">circa 2000</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 53</container>
-						<unittitle>Buildings and Grounds Committee — "Avery Hall" by Cesar Pelli
-							&amp; Associates, architectural plans, </unittitle>
-						<unitdate type="inclusive" normal="19940329">1994 Mar 29</unitdate>
-						<physdesc>(11 leaves) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 53</container>
-						<unittitle>Buildings and Grounds Committee — "Avery Hall" by Cesar Pelli
-							&amp; Associates, architectural plans, </unittitle>
-						<unitdate type="inclusive" normal="1999126">1999 Dec 6</unitdate>
-						<physdesc>(10 boards) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.2</container>
-						<unittitle>Buildings and Grounds Committee — Capital Project Executive
-							Summary, </unittitle>
-						<unitdate type="inclusive" normal="20001013">2000 Oct 13</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 55 (Oversize)</container>
-						<unittitle>Buildings and Grounds Committee — Chicago Hall Expansion,
-							architectural plans, </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
-						<physdesc>(6 boards) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 48</container>
-						<unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art
-							Center," architectural plans, </unittitle>
-						<unitdate type="inclusive" normal="1989">1989</unitdate>
-						<physdesc>(5 boards) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 49</container>
-						<unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art
-							Center," architectural plans, photographs, and report, </unittitle>
-						<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
-						<physdesc>(10 boards) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.3</container>
-						<unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art
-							Center - Sculpture Garden" by Balmori Associates, </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 54</container>
-						<unittitle>Buildings and Grounds Committee — "Jewett House Renovation Plans"
-							by Herbert S. Newman and Partners, </unittitle>
-						<unitdate type="inclusive" normal="200203">2002 Mar</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.4</container>
-						<unittitle>Buildings and Grounds Committee — "The Renovation and Renewal of
-							Jewett House" by Herbert S. Newman and Partners, </unittitle>
-						<unitdate type="inclusive" normal="200210">2002 Oct</unitdate>
-						<physdesc>(3 copies) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 54</container>
-						<unittitle>Buildings and Grounds Committee — "Kenyon Hall Renovation Design
-							Development" by Gluckman Mayner Architects, </unittitle>
-						<unitdate type="inclusive" normal="200206">2002 Jun</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 54</container>
-						<unittitle>Buildings and Grounds Committee — "Kenyon Hall Renovation" by
-							Gluckman Mayner Architects, </unittitle>
-						<unitdate type="inclusive" normal="20021011">2002 Oct 11</unitdate>
-						<physdesc>(3 copies) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 50</container>
-						<unittitle>Buildings and Grounds Committee — Vassar College Art Department
-							and Gallery, architectural plans, </unittitle>
-						<unitdate type="inclusive" normal="19891019">1989 Oct 19</unitdate>
-						<physdesc>(13 boards) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 53</container>
-						<unittitle>Buildings and Grounds Committee — Vassar College Art Department
-							and Gallery, architectural plans, </unittitle>
-						<unitdate type="inclusive" normal="19891019">1989 Oct 19</unitdate>
-						<physdesc>(7 boards) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 54</container>
-						<unittitle>Buildings and Grounds Committee — "Vassar College Athletics
-							Fields" by Leo A Daly, design plans, </unittitle>
-						<unitdate type="inclusive" normal="200204">2002 Apr</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 51</container>
-						<unittitle>Buildings and Grounds Committee — Vassar College Drama and Film
-							Center, architectural plans, </unittitle>
-						<unitdate type="inclusive" normal="2000">2000</unitdate>
-						<physdesc>(14 boards) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 53</container>
-						<unittitle>Buildings and Grounds Committee — Vassar College Drama and Film
-							Center by Cesar Pelli &amp; Associates, concept art, </unittitle>
-						<unitdate type="inclusive" normal="2000">2000</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 54</container>
-						<unittitle>Buildings and Grounds Committee — "Vassar College Getty
-							Foundation Heritage Grant - Historic Preservation Manual," Platt Byard
-							Dovell White Architects LLP, </unittitle>
-						<unitdate type="inclusive" normal="20070615">2007 Jun 15</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.5</container>
-						<unittitle>Buildings and Grounds Committee — "Vassar College Landscape
-							Master Plan" by Sasaki Associates, Inc., </unittitle>
-						<unitdate type="inclusive" normal="199210">1992 Oct</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.6</container>
-						<unittitle>Buildings and Grounds Committee — "Vassar College Landscape
-							Master Plan, Final Report," </unittitle>
-						<unitdate type="inclusive" normal="19880901">1988 Sep 1</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 53</container>
-						<unittitle>Buildings and Grounds Committee — Vassar College Libraries
-							renovation, floor plans, </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
-						<physdesc>(7 leaves) [RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 54</container>
-						<unittitle>Buildings and Grounds Committee — "Wimpfheimer Nursery School -
-							Draft Building Evaluation Report," </unittitle>
-						<unitdate type="inclusive" normal="200508">2005 Aug</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.7</container>
-						<unittitle>Buildings and Grounds Committee — Unidentified interior concept
-							art, </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 52.8</container>
-						<unittitle>Buildings and Grounds Committee — Unidentified photograph of
-							indoor basketball courts, </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Box 47</container>
-						<unittitle>Buildings and Grounds Committee AND Executive Committee Meeting
-							Minutes, </unittitle>
-						<unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 30.10</container>
-						<unittitle>Coeducation, Committee on, </unittitle>
-						<unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 30.11</container>
-						<unittitle>Education of Women at Vassar, Committee on, </unittitle>
-						<unitdate type="inclusive" normal="1971">1971</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 30.12-30.13</container>
-						<unittitle>Endowment Committee, </unittitle>
-						<unitdate type="inclusive" normal="1952/1957">1952-1957</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 30.14-30.17</container>
-						<unittitle>Faculty and Studies Committee, </unittitle>
-						<unitdate type="inclusive" normal="1915/1938">1915-1938</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 31.1-31.9</container>
-						<unittitle>Faculty and Studies Committee, </unittitle>
-						<unitdate type="inclusive" normal="1938/1971">1938-1971</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 31.10-31.16</container>
-						<unittitle>Investments and Finance Committee, </unittitle>
-						<unitdate type="inclusive" normal="1964/1984">1964-1984</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 32.1-32.9</container>
-						<unittitle>Investments and Finance Committee, </unittitle>
-						<unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 32.10-32.17</container>
-						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive" normal="198903/199105">1989 Mar - 1991
-							May</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 33.1-33.17</container>
-						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive" normal="199105/199312">1991 May - 1993
-							Dec</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 34.1-34.16</container>
-						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive" normal="199403/199806">1994 Mar - 1998
-							Jun</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folders 35.1-35.6</container>
-						<unittitle>Investments Committee, </unittitle>
-						<unitdate type="inclusive" normal="199809/200205">1998 Sep - 2002
-							May</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 35.7</container>
-						<unittitle>Investor Responsibility Committee, </unittitle>
-						<unitdate type="inclusive" normal="1991/2002">1991-2002</unitdate>
-						<physdesc>[RESTRICTED]</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 36.42</container>
-						<unittitle>Joint Committee with the Faculty, </unittitle>
-						<unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 35.8</container>
-						<unittitle>Nominate a President (Alan Simpson), Committee to, </unittitle>
-						<unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 35.9</container>
-						<unittitle>Nominations Committee, </unittitle>
-						<unitdate type="inclusive" normal="198412">1984 Dec</unitdate>
-					</did>
-				</c02>
-			</c01>
+				<c02 level="file"><did><container>Folder 29.1</container><unittitle>Audit Committee, </unittitle><unitdate type="inclusive" normal="1981/2002">1981-2002</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 56</container><unittitle>Audit Committee, </unittitle><unitdate type="inclusive" normal="1981/2011">1981 Oct - 2011 Feb</unitdate><physdesc>(5 folders) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 29.2-29.12</container><unittitle>Budget Committee, </unittitle><unitdate type="inclusive" normal="1958/1989">1958-1989</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 29.13-29.19</container><unittitle>Budget and Finance Committee, </unittitle><unitdate type="inclusive" normal="1989/2002">1989-2002</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 56</container><unittitle>Budget and Finance Committee, </unittitle><unitdate type="inclusive" normal="1998/2010">1998-2010</unitdate><physdesc>(5 folders) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 30.1-30.9</container><unittitle>Buildings and Grounds Committee, </unittitle><unitdate type="inclusive" normal="1925/2002">1925-2002</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 56</container><unittitle>Buildings and Grounds Committee, </unittitle><unitdate type="inclusive" normal="1991/2010">1991 May - 2010 Dec</unitdate><physdesc>(4 folders) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 54</container><unittitle>Buildings and Grounds Committee — "Alumnae House - Restoration and Mechanical Upgrade," pre-schematic plans, </unittitle><unitdate type="inclusive" normal="19941121">1994 Nov 21</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.1</container><unittitle>Buildings and Grounds Committee — "Avery Courtyard Proposal - Center for Drama and Film" by Balmori Associates, concept art, </unittitle><unitdate type="inclusive" normal="2000">circa 2000</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 53</container><unittitle>Buildings and Grounds Committee — "Avery Hall" by Cesar Pelli &amp; Associates, architectural plans, </unittitle><unitdate type="inclusive" normal="19940329">1994 Mar 29</unitdate><physdesc>(11 leaves) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 53</container><unittitle>Buildings and Grounds Committee — "Avery Hall" by Cesar Pelli &amp; Associates, architectural plans, </unittitle><unitdate type="inclusive" normal="1999126">1999 Dec 6</unitdate><physdesc>(10 boards) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.2</container><unittitle>Buildings and Grounds Committee — Capital Project Executive Summary, </unittitle><unitdate type="inclusive" normal="20001013">2000 Oct 13</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 56</container><unittitle>Buildings and Grounds Committee — Capital Project Executive Summary, </unittitle><unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate><physdesc>(2 folders) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 55 (Oversize)</container><unittitle>Buildings and Grounds Committee — Chicago Hall Expansion, architectural plans, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>(6 boards) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 56</container><unittitle>Buildings and Grounds Committee — "Deffered Maintenance Phaseout Program Status Report", </unittitle><unitdate type="inclusive" normal="19900223">1990 Feb 23</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 48</container><unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art Center," architectural plans, </unittitle><unitdate type="inclusive" normal="1989">1989</unitdate><physdesc>(5 boards) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 49</container><unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art Center," architectural plans, photographs, and report, </unittitle><unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate><physdesc>(10 boards) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.3</container><unittitle>Buildings and Grounds Committee — "The Frances Lehman Loeb Art Center - Sculpture Garden" by Balmori Associates, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 54</container><unittitle>Buildings and Grounds Committee — "Jewett House Renovation Plans" by Herbert S. Newman and Partners, </unittitle><unitdate type="inclusive" normal="200203">2002 Mar</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.4</container><unittitle>Buildings and Grounds Committee — "The Renovation and Renewal of Jewett House" by Herbert S. Newman and Partners, </unittitle><unitdate type="inclusive" normal="200210">2002 Oct</unitdate><physdesc>(3 copies) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 54</container><unittitle>Buildings and Grounds Committee — "Kenyon Hall Renovation Design Development" by Gluckman Mayner Architects, </unittitle><unitdate type="inclusive" normal="200206">2002 Jun</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 54</container><unittitle>Buildings and Grounds Committee — "Kenyon Hall Renovation" by Gluckman Mayner Architects, </unittitle><unitdate type="inclusive" normal="20021011">2002 Oct 11</unitdate><physdesc>(3 copies) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 50</container><unittitle>Buildings and Grounds Committee — Vassar College Art Department and Gallery, architectural plans, </unittitle><unitdate type="inclusive" normal="19891019">1989 Oct 19</unitdate><physdesc>(13 boards) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 53</container><unittitle>Buildings and Grounds Committee — Vassar College Art Department and Gallery, architectural plans, </unittitle><unitdate type="inclusive" normal="19891019">1989 Oct 19</unitdate><physdesc>(7 boards) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 54</container><unittitle>Buildings and Grounds Committee — "Vassar College Athletics Fields" by Leo A Daly, design plans, </unittitle><unitdate type="inclusive" normal="200204">2002 Apr</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 51</container><unittitle>Buildings and Grounds Committee — Vassar College Drama and Film Center, architectural plans, </unittitle><unitdate type="inclusive" normal="2000">2000</unitdate><physdesc>(14 boards) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 53</container><unittitle>Buildings and Grounds Committee — Vassar College Drama and Film Center by Cesar Pelli &amp; Associates, concept art, </unittitle><unitdate type="inclusive" normal="2000">2000</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 54</container><unittitle>Buildings and Grounds Committee — "Vassar College Getty Foundation Heritage Grant - Historic Preservation Manual," Platt Byard Dovell White Architects LLP, </unittitle><unitdate type="inclusive" normal="20070615">2007 Jun 15</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.5</container><unittitle>Buildings and Grounds Committee — "Vassar College Landscape Master Plan" by Sasaki Associates, Inc., </unittitle><unitdate type="inclusive" normal="199210">1992 Oct</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.6</container><unittitle>Buildings and Grounds Committee — "Vassar College Landscape Master Plan, Final Report", </unittitle><unitdate type="inclusive" normal="19880901">1988 Sep 1</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 53</container><unittitle>Buildings and Grounds Committee — Vassar College Libraries renovation, floor plans, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>(7 leaves) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 54</container><unittitle>Buildings and Grounds Committee — "Wimpfheimer Nursery School - Draft Building Evaluation Report", </unittitle><unitdate type="inclusive" normal="200508">2005 Aug</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.7</container><unittitle>Buildings and Grounds Committee — Unidentified interior concept art, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 52.8</container><unittitle>Buildings and Grounds Committee — Unidentified photograph of indoor basketball courts, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 47</container><unittitle>Buildings and Grounds Committee AND Executive Committee Meeting Minutes, </unittitle><unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 30.10</container><unittitle>Coeducation, Committee on, </unittitle><unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 30.11</container><unittitle>Education of Women at Vassar, Committee on, </unittitle><unitdate type="inclusive" normal="1971">1971</unitdate></did></c02>
+				<c02 level="file"><did><container>Folders 30.12-30.13</container><unittitle>Endowment Committee, </unittitle><unitdate type="inclusive" normal="1952/1957">1952-1957</unitdate></did></c02>
+				<c02 level="file"><did><container>Folders 30.14-30.17</container><unittitle>Faculty and Studies Committee, </unittitle><unitdate type="inclusive" normal="1915/1938">1915-1938</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 31.1-31.9</container><unittitle>Faculty and Studies Committee, </unittitle><unitdate type="inclusive" normal="1938/1971">1938-1971</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 31.10-31.16</container><unittitle>Investments and Finance Committee, </unittitle><unitdate type="inclusive" normal="1964/1984">1964-1984</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 32.1-32.9</container><unittitle>Investments and Finance Committee, </unittitle><unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 32.10-32.17</container><unittitle>Investments Committee, </unittitle><unitdate type="inclusive" normal="198903/199105">1989 Mar - 1991 May</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 33.1-33.17</container><unittitle>Investments Committee, </unittitle><unitdate type="inclusive" normal="199105/199312">1991 May - 1993 Dec</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 34.1-34.16</container><unittitle>Investments Committee, </unittitle><unitdate type="inclusive" normal="199403/199806">1994 Mar - 1998 Jun</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folders 35.1-35.6</container><unittitle>Investments Committee, </unittitle><unitdate type="inclusive" normal="199809/200205">1998 Sep - 2002 May</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 56</container><unittitle>Investments Committee, </unittitle><unitdate type="inclusive" normal="1999/2000">1999 Sep - 2000 Feb</unitdate><physdesc>(4 folders) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 57</container><unittitle>Investments Committee, </unittitle><unitdate type="inclusive" normal="2000/2001">2000 May -2001 Mar</unitdate><physdesc>(3 folders) [RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 35.7</container><unittitle>Investor Responsibility Committee, </unittitle><unitdate type="inclusive" normal="1991/2002">1991-2002</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Box 57</container><unittitle>Investor Responsibility Committee, </unittitle><unitdate type="inclusive" normal="199110/200405">1991 Oct - 2004 May</unitdate><physdesc>[RESTRICTED]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 36.42</container><unittitle>Joint Committee with the Faculty, </unittitle><unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 35.8</container><unittitle>Nominate a President (Alan Simpson), Committee to, </unittitle><unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 35.9</container><unittitle>Nominations Committee, </unittitle><unitdate type="inclusive" normal="198412">1984 Dec</unitdate></did></c02></c01>
 			<c01 level="series" id="series3">
 				<did>
 					<unittitle>SERIES III. SECRETARY'S FILES, </unittitle>

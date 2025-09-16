@@ -5,7 +5,7 @@
 		<eadid countrycode="us" mainagencycode="npv">npv_koutzen_boris</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the Boris Koutzen Papers, approximately 1916-2002</titleproper>
+				<titleproper>Guide to the Boris Koutzen Papers, approximately 1916-2010</titleproper>
 				<author>Inventory prepared by Vassar College Music Library</author>
 			</titlestmt>
 			<publicationstmt>
@@ -28,9 +28,9 @@
 				<persname>Koutzen, Boris, 1901-1966</persname>
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Boris Koutzen Papers</unittitle>
-			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">approximately 1916-2002</unitdate>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">approximately 1916-2010</unitdate>
 			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">approximately 1916-1966</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">20 cubic feet (58 boxes)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">22 cubic feet (63 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -38,7 +38,7 @@
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note</head>
-			<p>Boris Koutzen was born in Uman, Southern Russia, 1 April 1901. He began composing and studying the violin as a young child, and launched his career as a concert violinist at the age of eleven. His musical education began under his father's tutelage, but in 1918 the family moved to Moscow so Boris could study with Leo Zetlin and Reinhold Glière at the Moscow Conservatory. While a student at the conservatory, Koutzen won the position of first violin in the State Opera House Orchestra, and played for the Moscow Symphony Orchestra under Serge Koussevitzky. Koutzen graduated from the Moscow Conservatory in 1921, studied and played in Germany for two years, then moved to the United States in 1923. His career in the U.S. included playing for the Philadelphia Orchestra under Leopold Stokowski (1924-1927), heading the violin department of the Philadelphia Conservatory (1924-1961), and playing for the NBC Orchestra under Arturo Toscanini (1937-1945). In 1944 he joined the faculty of Vassar College, where he taught violin and conducted the Vassar Orchestra until June 1966. He also taught at Bard College from 1949-1951. Koutzen died of a heart attack 10 December 10 1966 at the age of 65.</p>
+			<p>Boris Koutzen (1901-1966) was born in Uman, Southern Russia, 1 April 1901. He began composing and studying the violin as a young child, and launched his career as a concert violinist at the age of eleven. His musical education began under his father's tutelage, but in 1918 the family moved to Moscow so Boris could study with Leo Zetlin and Reinhold Glière at the Moscow Conservatory. While a student at the conservatory, Koutzen won the position of first violin in the State Opera House Orchestra, and played for the Moscow Symphony Orchestra under Serge Koussevitzky. Koutzen graduated from the Moscow Conservatory in 1921, studied and played in Germany for two years, then moved to the United States in 1923. His career in the U.S. included playing for the Philadelphia Orchestra under Leopold Stokowski (1924-1927), heading the violin department of the Philadelphia Conservatory (1924-1961), and playing for the NBC Orchestra under Arturo Toscanini (1937-1945). In 1944 he joined the faculty of Vassar College, where he taught violin and conducted the Vassar Orchestra until June 1966. He also taught at Bard College from 1949-1951. Koutzen died of a heart attack 10 December 10 1966 at the age of 65.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
@@ -46,11 +46,11 @@
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
@@ -66,8 +66,12 @@
 			</controlaccess>
 			<controlaccess>
 				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Audiocassettes</genreform>
+				<genreform source="aat" encodinganalog="655">Audiovisual materials</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Phonograph records</genreform>			
 				<genreform source="aat" encodinganalog="655">Sheet music</genreform>
-				<genreform source="aat" encodinganalog="655">Scores (documents for music)</genreform>
+				<genreform source="aat" encodinganalog="655">Scores (documents for music)</genreform>	
 			</controlaccess>
 			<controlaccess>
 				<head>VCL Categories:</head>
@@ -76,19 +80,21 @@
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett, March 2010. Updated by Emma Gronbeck, September 2023.</p>
+			<p>Encoded by Laura Streett, March 2010. Last updated by Emma Gronbeck, September 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Processed by the Vassar College Music Library. Updated by Sarah Canino, January 2010. Last update by Laura Streett, February 2011.</p>
+			<p>Processed by the Vassar College Music Library. Updated by Sarah Canino, January 2010. Updated by Laura Streett, February 2011. Last updated by Emma Gronbeck, September 2025.</p>
 		</processinfo>
 		<custodhist encodinganalog="561">
 			<head>Custodial History</head>
 			<p>Transferred from the Vassar College Music Library, 2010.</p>
+			<p>Materials in Series V were transferred from the Vassar College Music Library, 2025. [M2025-013]</p>
 		</custodhist>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
 			<p>Original gift from Nadia Koutzen with later accessions in 1999, 2002 and 2010.</p>
+			<p>Materials in Series V were the gift of Angelika Forndran, 2021, and the Koutzen family.</p>
 		</acqinfo>
 		<altformavail encodinganalog="530">
 			<head>Other Formats</head>
@@ -128,6 +134,13 @@
 					<unittitle>
 						<ref target="series4">Series IV.</ref> Additional Accessions from Nadia Koutzen, </unittitle>
 					<unitdate>1916-1965</unitdate>
+				</did>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> 2025 Accession, </unittitle>
+					<unitdate>circa 1955-2010</unitdate>
 				</did>
 			</c01>
 		</dsc>
@@ -2719,6 +2732,29 @@
 						</did>
 					</c03>
 				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. 2025 Addition</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+					<container>Box 58</container>
+					<unittitle>Unprocessed materials, primarily related to Boris Koutzen and Inez Koutzen, </unittitle>
+					<unitdate>circa 1955-2010</unitdate>
+					</did></c02>
+				<c02 level="file">
+					<did>
+					<container>Boxes 59-60</container>
+					<unittitle>Unprocessed audiocassettes, </unittitle>
+					<unitdate>circa 1970s - circa 1990s</unitdate>
+					</did></c02>
+				<c02 level="file">
+					<did>
+					<container>Boxes 61-62</container>
+					<unittitle>Unprocessed phonograph records (recordings of Koutzen's compositions/performances), </unittitle>
+					<unitdate>circa 1950s - circa 1970s</unitdate>
+					</did></c02>
 			</c01>
 		</dsc>
 	</archdesc>

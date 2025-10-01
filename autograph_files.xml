@@ -27,7 +27,7 @@
 			<head>Collection Summary</head>
 			<unittitle label="Title:" encodinganalog="245">Autograph Files</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1669-1995</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">9 cubic feet (1 filing cabinet, 6 boxes, 3 framed items)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">9.4 cubic feet (1 filing cabinet, 7 boxes, 3 framed items)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -233,6 +233,7 @@
 							target="series24"> X </ref> — <ref target="series25"> Y </ref> — <ref
 							target="series26"> Z </ref>
 					</p>
+					<p><ref target="series27">Miscellaneous Autograph Books</ref></p>
 				</scopecontent>
 			</c01>
 		</dsc>
@@ -11888,6 +11889,18 @@
 						<physdesc>(2 letters)</physdesc>
 					</did>
 				</c02>
+			</c01>
+			<c01 level="series" id="series27">
+				<did>
+					<unittitle>Miscellaneous Autograph Books</unittitle>
+				</did>
+				<c02 level="item"><did><container>Box 7</container><unittitle>Greenwood, Aaron Hobart, </unittitle><unitdate type="inclusive" normal="1860/1861">1860-1861</unitdate></did></c02>
+				<c02 level="item"><did><container>Box 7</container><unittitle>Platt, Hannah M., </unittitle><unitdate type="inclusive" normal="1835/1857">1835-1857</unitdate></did></c02>
+				<c02 level="item"><did><container>Box 7</container><unittitle>Roosevelt, Robert Brownell (?), </unittitle><unitdate type="inclusive" normal="1871/1873">1871-1873</unitdate></did></c02>
+				<c02 level="item"><did><container>Box 7</container><unittitle>Woodruff, Louise M. (Ithica, NY), </unittitle><unitdate type="inclusive" normal="1866/1869">1866-1869</unitdate></did></c02>
+				<c02 level="item"><did><container>Box 7</container><unittitle>Unidentified, </unittitle><unitdate type="inclusive" normal="1866">1866</unitdate></did></c02>
+				<c02 level="item"><did><container>Box 7</container><unittitle>Unidentified, </unittitle><unitdate type="inclusive" normal="1868/1870">1868-1870</unitdate></did></c02>
+				
 			</c01>
 		</dsc>
 	</archdesc>

@@ -1,1389 +1,349 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
-	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv"> npv_straus_autograph </eadid>
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_straus_autograph</eadid>
 		<filedesc>
 			<titlestmt>
 				<titleproper>Guide to the Jesse Isidor Straus Autograph Collection, approximately 1727-1873</titleproper>
 				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 				<date>unknown</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Elizabeth Clarke <date>August 2007</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Elizabeth Clarke, <date>August 2007</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
-			<origination label="Creator:" encodinganalog="100">
-				<persname>Straus, Jesse Isidor</persname>
-			</origination>
-			<unittitle label="Title:" encodinganalog="245"> Jesse Isidor Straus Autograph Collection</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> approximately 1727-1873 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 1.5 cubic feet (4 boxes)</physdesc>
-			<repository label="Repository:" encodinganalog="852$a">
-				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
-			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> Letters, notes, receipts, dispatches, and some facsimile reproductions of documents pertaining to political and cultural events of the 18th and 19th centuries, including the French Revolution. Signers include Holy Roman Emperor Charles VI, Johann Gottfried Von Herder, Helmuth Graf von Moltke, Mozart, Jean Paul Richter, August Wilhelm von Schlegel, Johann Strauss, and Robert Walpole.</abstract>
+			<head>Collection Summary</head>
+			<origination label="Creator:" encodinganalog="100"><persname>Straus, Jesse Isidor</persname></origination>
+			<unittitle label="Title:" encodinganalog="245">Jesse Isidor Straus Autograph Collection</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1727-1873</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.8 cubic feet (3 boxes)</physdesc>
+			<repository label="Repository:" encodinganalog="852$a"><corpname>Archives and Special
+					Collections Library, Vassar College Libraries</corpname></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Letters, notes, receipts, dispatches,
+				and some facsimile reproductions of documents pertaining to political and cultural
+				events of the 18th and 19th centuries, including the French Revolution. Signers
+				include Holy Roman Emperor Charles VI, Johann Gottfried Von Herder, Helmuth Graf von
+				Moltke, Mozart, Jean Paul Richter, August Wilhelm von Schlegel, Johann Strauss, and
+				Robert Walpole.</abstract>
 		</did>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p> Letters, notes, receipts, dispatches, and some facsimile reproductions of documents pertaining to political and cultural events of the 18th and 19th centuries, including the French Revolution. Signers include Holy Roman Emperor Charles VI, Johann Gottfried Von Herder, Helmuth Graf von Moltke, Mozart, Jean Paul Richter, August Wilhelm von Schlegel, Johann Strauss, and Robert Walpole.</p>
+			<p>Letters, notes, receipts, dispatches, and some facsimile reproductions of documents
+				pertaining to political and cultural events of the 18th and 19th centuries,
+				including the French Revolution. Signers include Holy Roman Emperor Charles VI,
+				Johann Gottfried Von Herder, Helmuth Graf von Moltke, Mozart, Jean Paul Richter,
+				August Wilhelm von Schlegel, Johann Strauss, and Robert Walpole.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</extref></p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<persname source="lcnaf" encodinganalog="600"> Charles VI, Holy Roman Emperor, 1685-1740</persname>
-				<persname source="lcnaf" encodinganalog="600"> Herder, Johann Gottfried, 1744-1803</persname>
-				<persname source="lcnaf" encodinganalog="600"> Moltke, Helmuth, Graf von, 1800-1891</persname>
-				<persname source="lcnaf" encodinganalog="600"> Jean Paul, 1763-1825</persname>
-				<persname source="lcnaf" encodinganalog="600"> Schlegel, August Wilhelm von, 1767-1845</persname>
-				<persname source="lcnaf" encodinganalog="600"> Strauss, Johann</persname>
-				<persname source="lcnaf" encodinganalog="600"> Walpole, Robert, Earl of Orford, 1676-1745</persname>
-				<persname source="lcnaf" encodinganalog="600"> Mozart, Wolfgang Amadeus, 1756-1791</persname>
-				<persname source="lcnaf" encodinganalog="600"> Richter, Jean Paul, 1763-1825</persname>
+				<persname source="lcnaf" encodinganalog="600">Charles VI, Holy Roman Emperor, 1685-1740</persname>
+				<persname source="lcnaf" encodinganalog="600">Herder, Johann Gottfried, 1744-1803</persname>
+				<persname source="lcnaf" encodinganalog="600">Moltke, Helmuth, Graf von, 1800-1891</persname>
+				<persname source="lcnaf" encodinganalog="600">Jean Paul, 1763-1825</persname>
+				<persname source="lcnaf" encodinganalog="600">Schlegel, August Wilhelm von, 1767-1845</persname>
+				<persname source="lcnaf" encodinganalog="600">Strauss, Johann</persname>
+				<persname source="lcnaf" encodinganalog="600">Walpole, Robert, Earl of Orford, 1676-1745</persname>
+				<persname source="lcnaf" encodinganalog="600">Mozart, Wolfgang Amadeus, 1756-1791</persname>
+				<persname source="lcnaf" encodinganalog="600">Richter, Jean Paul, 1763-1825</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Places:</head>
-				<geogname source="lcnaf" encodinganalog="651"> Europe--Social life and customs</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Europe--Politics and government</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> France--History--Revolution, 1789</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Europe--Social life and customs</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Europe--Politics and government</geogname>
+				<geogname source="lcnaf" encodinganalog="651">France--History--Revolution, 1789</geogname>
 			</controlaccess>
 			<controlaccess>
-				<head> Document Types:</head>
-				<genreform source="aat" encodinganalog="655"> Autographs</genreform>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Autographs</genreform>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Autographs </subject>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Autographs</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Elizabeth Clarke, August 2007.</p>
+			<p>Encoded by Elizabeth Clarke, August 2007. Updated by Emma Gronbeck, September 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>The original listing was completed in 1942 or 1943. The list was presumably updated to include the 1945 accession. The last known update was a contents check and retyping of the list done in 2007. </p>
+			<p>The original listing was completed in 1942 or 1943. The list was presumably updated
+				to include the 1945 accession. The last known update was a contents check and
+				retyping of the list done in 2007.</p>
 		</processinfo>
 		<custodhist encodinganalog="561">
 			<head>Custodial History</head>
-			<p>The materials in this collection were gathered by Jessi Isidor Straus, the U.S. ambassador to France (1933-1936) and grandfather of Barbara Levy, VC 1942.</p>
+			<p>The materials in this collection were gathered by Jessi Isidor Straus, the U.S.
+				ambassador to France (1933-1936) and grandfather of Barbara Levy, VC 1942.</p>
 		</custodhist>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Barbara Levy donated the bulk of the material in 1939 when she was a freshman at Vassar. She gave a second smaller accession in January 1945 (marked with and asterisk in the container list). The gifts originally formed part of the Lucy Maynard Salmon Collection of Historical Materials.</p>
+			<p>Barbara Levy donated the bulk of the material in 1939 when she was a freshman at
+				Vassar. She gave a second smaller accession in January 1945 (marked with an
+				asterisk in the container list). The gifts originally formed part of the Lucy
+				Maynard Salmon Collection of Historical Materials.</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p>Jesse Isidor Straus Autograph Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>Jesse Isidor Straus Autograph Collection, Archives and Special Collections Library,
+				Vassar College Libraries.</p>
 		</prefercite>
 		<arrangement encodinganalog="351">
 			<head>Arrangement</head>
-			<p>Arranged by country. The items from the 1945 accession are marked with an asterisk (*). </p>
+			<p>Arranged by country. The items from the 1945 accession are marked with an asterisk (*).</p>
 		</arrangement>
 		<dsc type="analyticover">
 			<head>Series List</head>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series1"> Series I. </ref> France </unittitle>
+					<unittitle><ref target="series1">Series I.</ref> France</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series2">Series II.</ref> Germanies </unittitle>
+					<unittitle><ref target="series2">Series II.</ref> Germanies</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series3">Series III.</ref> Great Britain</unittitle>
+					<unittitle><ref target="series3">Series III.</ref> Great Britain</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series4">Series IV.</ref> Scandinavia</unittitle>
+					<unittitle><ref target="series4">Series IV.</ref> Scandinavia</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series5">Series V.</ref> Italy</unittitle>
+					<unittitle><ref target="series5">Series V.</ref> Italy</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series6">Series VI.</ref> United States </unittitle>
+					<unittitle><ref target="series6">Series VI.</ref> United States</unittitle>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle>
-						<ref target="series7">Series VII.</ref> Miscellaneous</unittitle>
+					<unittitle><ref target="series7">Series VII.</ref> Miscellaneous</unittitle>
 				</did>
 			</c01>
 		</dsc>
 		<dsc type="in-depth">
 			<head>Container List</head>
-			<p/>
-			<c01 level="series" id="series1">
-				<did>
-					<unittitle> I. FRANCE </unittitle>
-				</did>
-				<c02 level="subseries">
-					<did>
-						<unittitle> IA. Before 1789 </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> I.A1 </container>
-							<unittitle> Anne, Duc de montmorency, 1493-1567 — Document dealing with landed estates, </unittitle>
-							<unitdate type="inclusive"> 1 June 1562 </unitdate>
-							<physdesc>[oversized]</physdesc>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.A2 </container>
-							<unittitle> Henry IV, King of France, 1553-1610 — Letter to the Count Palatine of the Rhine, </unittitle>
-							<unitdate type="inclusive"> 1610 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.A3 </container>
-							<unittitle> Turenne, Henri de la Tour d’Auvergne vicomte de, 1611-1675 — Letter to Cardinal Mazarin, </unittitle>
-							<unitdate type="inclusive"> 1658 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.A4 </container>
-							<unittitle> Moritz, Graaf von Sachsen, 1696-1750 (Saxe, Hermann-Maurice, comte de) — Document, </unittitle>
-							<unitdate type="inclusive"> 1729 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.A5 </container>
-							<unittitle> Necker, Jacques, 1732-1804 — Order, </unittitle>
-							<unitdate type="inclusive"> March 1780 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.A6 </container>
-							<unittitle> Malesherbes, Chrétien Guillaume de Lamoignon de 1721-1794 — Letter, </unittitle>
-							<unitdate type="inclusive"> January 1787 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> *I.A7 </container>
-							<unittitle> Letter signed L.P.T. d’Orleans, Paris, </unittitle>
-							<unitdate type="inclusive"> 1786 </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> IB. 1789-1799 </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> I.B1 </container>
-							<unittitle> Augereau, Prince Françios Charles, duc de Castiglione, 1757-1816 — Letter, 8 Thermidor year II, </unittitle>
-							<unitdate type="inclusive"> 26 July 1794 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B2 </container>
-							<unittitle> Barère de Vieuzac, Bertrand, 1755-1841 (other names on document) — Committee of Public Safety 17 Messidor of year II, </unittitle>
-							<unitdate type="inclusive"> 5 July 1794 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B3 </container>
-							<unittitle> Barras, Paul François Jean Nicolas, 1755-1829 (other names on document not all identified) — Committee of General Security, 18 Brumaire Year III, </unittitle>
-							<unitdate type="inclusive"> 8 Nov. 1794 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B4 </container>
-							<unittitle> Beauharnais, Alexandre, 1760-1794 (other names on document not all identified) — National Assembly, </unittitle>
-							<unitdate type="inclusive"> 7 August 1791 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B5 </container>
-							<unittitle> Billuad-Varenne, Jean Nicolas, 1756-1819 — See Barère </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B6 </container>
-							<unittitle> Cambacères, Jean Jacques Régis, duc de 1753-1824 (another name on document) — Committee of Public Safety, 21 Pluviôse Year III </unittitle>
-							<unitdate type="inclusive"> 9 Feb. 1795 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B7 </container>
-							<unittitle> Carnot, Lazare Nicoas Marguerite 1753-1823 (other names on document) — Committee of Public Safety, 5 Ventôse Year II, </unittitle>
-							<unitdate type="inclusive"> 23 Feb. 1794 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B8 </container>
-							<unittitle> Chabot, François, 1759-1794 — Declaration of income, </unittitle>
-							<unitdate type="inclusive"> 1793 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B9 </container>
-							<unittitle> Chaumette, Pierre Gaspard, 1763-1794 (in folder with Cambacères) — Commune of Paris, 13 Brumaire Year II </unittitle>
-							<unitdate type="inclusive"> 3 Nov. 1793 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B10 </container>
-							<unittitle> Collot d’Herbois, Jean Marie, 1750-1796 — See Barère and Carnot </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B11 </container>
-							<unittitle> Guillotin, Joseph Ignace, 1738-1814 — Letter, </unittitle>
-							<unitdate type="inclusive"> 12 March 1813 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B12 </container>
-							<unittitle> Jourdan, Jean Baptiste, comte, 1762-1833 — Official military letter, 16 Thermidor Year II </unittitle>
-							<unitdate type="inclusive"> 3 August 1794 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B13 </container>
-							<unittitle> Laignelot, Joseph François, 1752-1829 — See Barras </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B14 </container>
-							<unittitle> Lindet, R. ? Two brothers with Robert as part of name Lindet, Jean Baptiste Robert, 1746-1825 Lindet, Robert Thomas, 1743-1823 See Barère and Carnot </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B15 </container>
-							<unittitle> Marie Antoinette, 1755-1793 — Order, </unittitle>
-							<unitdate type="inclusive"> 2 Jan. 1781? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B16 </container>
-							<unittitle> Méaulle, Jean Nicolas, 1757-1824 — See Barras </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B17 </container>
-							<unittitle> Merlin de Douai, Philippe Antoine, 1754-1838 — See Cambacères </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B18 </container>
-							<unittitle> Mirabeau, Honoré Gabriel Vicot Riqueti, comte de, 1749-1791 — Letter, </unittitle>
-							<unitdate type="inclusive"> 15 Oct. 1779 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B19 </container>
-							<unittitle> Moreau, Jean Victor, 1763-1813 — Letter, </unittitle>
-							<unitdate type="inclusive"> Date? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B20 </container>
-							<unittitle> Moreaux, Jean René, 1758-1795 — See Tallien </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B21 </container>
-							<unittitle> Nogaret, Jacques Ramel, 1760-1819 — See Beauhrnais </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B22 </container>
-							<unittitle> Reverchon, Jacques, 1746-1828 — See Barras </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B23 </container>
-							<unittitle> Rouget de Lisle, Claude Joseph, 1760-1836 — Composition? And letter, </unittitle>
-							<unitdate type="inclusive"> 8 May 1831 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.B24 </container>
-							<unittitle> Tallien, Jean Lambert, 1767-1820 — Committee of Public Safety, 16 Florial Year III </unittitle>
-							<unitdate type="inclusive"> 5 May 1795 </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> IC 1799-1815 (Napoleonic Era) </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> I.C1 </container>
-							<unittitle> Arrighi, Jean Toussaint, duc de Padoue, 1778-1853 — Letter, </unittitle>
-							<unitdate type="inclusive"> 21 April 1810 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C2 </container>
-							<unittitle> Bernadotte, Jean Baptiste Jules, 1764-1844 (later Charles XIV of Sweden and Norway) a. Ministry of War, 8 Fructidor Year VII, </unittitle>
-							<unitdate type="inclusive"> 26 August 1800 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C2 </container>
-							<unittitle> Bernadotte, Jean Baptiste Jules, 1764-1844 (later Charles XIV of Sweden and Norway) — b. Letter, </unittitle>
-							<unitdate type="inclusive"> 1 Oct. 1814 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C3 </container>
-							<unittitle> Berthier, Louis Alexandre, 1753-1815 — Ministry of war, 21 Prairial Year XI, </unittitle>
-							<unitdate type="inclusive"> 10 June 1803 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C4 </container>
-							<unittitle> Bertrand, Henri Gratien, 1773-1844 — Letter, </unittitle>
-							<unitdate type="inclusive"> 10 Jan. 1827 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C5 </container>
-							<unittitle> Bessières, Jean Baptiste, duc d’Istrie, 1766-1813 (Another signature on letter) — Letter, </unittitle>
-							<unitdate type="inclusive"> 1811 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C6 </container>
-							<unittitle> Boissy d’Anglas, François Antoine, comte de, 1755-1826 — Letter, </unittitle>
-							<unitdate type="inclusive"> 23 Jan. 1824 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C7 </container>
-							<unittitle> Brune, Guillaume Marie Anne, 1763-1815 — Official notice, </unittitle>
-							<unitdate type="inclusive"> 26 Oct. 1807 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C8 </container>
-							<unittitle> Caffarelli (five brothers)? Louis M.J.M 1756-1799 C.A. 1758-1826 L.M.J. 1760-1845 J.B. 1763-1815 F.M.A. 1766-1849 — See Lannes </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C9 </container>
-							<unittitle> Davout, Louis Nicolas, duc d’Auerstaedt prince d’Eckműhl, 1770-1823 — Military document, ll Pluviôse Year X, </unittitle>
-							<unitdate type="inclusive"> 31 Jan. 1802 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C10 </container>
-							<unittitle> Duroc, Géraud Christophe Michel, duc de Frioul, 1772-1813 — a.See Bessières </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C10 </container>
-							<unittitle> Duroc, Géraud Christophe Michel, duc de Frioul, 1772-1813 — b. Letter, </unittitle>
-							<unitdate type="inclusive"> 17 Feb. 1811 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C11 </container>
-							<unittitle> Fouché, Joseph, duc d’Ortranto, 1759-1820 — Ministry of the General Police 5 Florial Year VIII, </unittitle>
-							<unitdate type="inclusive"> 25 April 1800 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C12 </container>
-							<unittitle> Gouvion St. Cyr, Laurent, marquis de, 1764-1830 — Ministry of War, </unittitle>
-							<unitdate type="inclusive"> 13 June 1818 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C13 </container>
-							<unittitle> Grouchy, Emmanuel, marquis de 1766-1847 — Ministry or war-receipt, </unittitle>
-							<unitdate type="inclusive"> 19? Dec. 1814 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C14 </container>
-							<unittitle> Josephine Bonaparte, 1763-1814 — Letter, </unittitle>
-							<unitdate type="inclusive"> Date? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C15 </container>
-							<unittitle> Junot, Andoche, duc d’Abrantes, 1771-1813 — Ministry of War-reciept, </unittitle>
-							<unitdate type="inclusive"> 30 Sept. 1806 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C16 </container>
-							<unittitle> Kellermann, François Christophe, duc de Valmy, 1735-1820 — Legion of Honor, </unittitle>
-							<unitdate type="inclusive"> 29? Jan. 1812 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C17 </container>
-							<unittitle> Lannes, Jean, duc de Montebello, prince de Siévers, 1769-1809 (several other names not all identified) — Financial record of consular guard, 7 Frimaire year IX, </unittitle>
-							<unitdate type="inclusive"> 28 Nov. 1800 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C18 </container>
-							<unittitle> Lefebvre, Francois Joseph, duc de Dantzig, 1755-1820 — Notice of military promotion, 13 Brumaire Year XIV, </unittitle>
-							<unitdate type="inclusive"> 4 Nov. 1805 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C19 </container>
-							<unittitle> Macdonald, Jacques Etienne Joseph Alexander, duc de Tarente, 1765-1840 — Royal Order of Legion of Honor, </unittitle>
-							<unitdate type="inclusive"> 8 June 1818 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C20 </container>
-							<unittitle> Marmont, Auguste Frédéric Louis Viesse de, duc de Raguse, 1774-1852 — Royal and Military Order of St. Louis, </unittitle>
-							<unitdate type="inclusive"> 19 March 1819? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C21 </container>
-							<unittitle> Mars, Anne, F.H.B., Mlle, 1779-1847 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C22 </container>
-							<unittitle> Masséna, André, duc de Rivoli, prince d’Essling, 1756-1817 — Ministry of war-receipt, </unittitle>
-							<unitdate type="inclusive"> 28 Aug. 1811 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C23 </container>
-							<unittitle> Moncey, Bon Adrien Jeannot de, duc de Conegliano, 1754-1842 — Official letter from office of the Imperial Guard, </unittitle>
-							<unitdate type="inclusive"> 17 Feb. 1813 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C24 </container>
-							<unittitle> Mortier, Edouard Adolphe Casimir Joseph,duc de Trévisee, 1768-1835 — Royal Order of the Legion of Honor, </unittitle>
-							<unitdate type="inclusive"> 11 May 1833 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C25 </container>
-							<unittitle> Murat, Joachim, 1771-1815 — Note, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C26 </container>
-							<unittitle> Napoleon I, 1769-1821 — Imperial Passport, </unittitle>
-							<unitdate type="inclusive"> 9 Oct. 1812 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C27 </container>
-							<unittitle> Ney, Michel, duc d’Elchingen, 1769-1815 — Official military letter, 16 Prairial year X, </unittitle>
-							<unitdate type="inclusive"> 5 June 1802 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C28 </container>
-							<unittitle> Ordener, Michel, comte, 1755-1811 — See Lannes </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C29 </container>
-							<unittitle> Oudinot, Nicolas Charles, duc de Reggio, 1767-1847 — Army of Italy, letter, 19 Messidor, year VIII, </unittitle>
-							<unitdate type="inclusive"> 8 July 1800 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C30 </container>
-							<unittitle> Perignon, Dominique Catherine de 1754-1818 — Letter, </unittitle>
-							<unitdate type="inclusive"> 13 March 1817 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C31 </container>
-							<unittitle> Poniatowski, Joseph Antoine, prince, 1762-1813 — Document, </unittitle>
-							<physdesc>[oversized]</physdesc>
-							<unitdate type="inclusive"> 1808 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C32 </container>
-							<unittitle> Sérurier, Jean Mathieu Philibert, 1742-1819 (Another name not identified on document) — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d.? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C33 </container>
-							<unittitle> Soult, Nicolas Jean de Dieu, duc de Dalmatie, 1769-1851 — Letter, </unittitle>
-							<unitdate type="inclusive"> 2 April 1835 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C34 </container>
-							<unittitle> Stael-Holstein, Anne L.G. Necker, baronne de, 1766-1817 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C35 </container>
-							<unittitle> Suchet, Louis Gabriel, duc de D’Albufera, 1772-1826 — Letter, </unittitle>
-							<unitdate type="inclusive"> 17 July 1817 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C36 </container>
-							<unittitle> Talleyrand-Périgord, Charles Maurice de, 1754-1838 — Ministry of Foreign Affairs, 9 Vendémiaire, Year VI, </unittitle>
-							<unitdate type="inclusive"> 30 Sept. 1797 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C37 </container>
-							<unittitle> Talma, François Joseph, 1763-1826 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.C38 </container>
-							<unittitle> Victor, Claude Victor Perrin dit, duc der Bellune, 1766-1841 — Letter, </unittitle>
-							<unitdate type="inclusive"> 3 March 1808 </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> I.D 1815-1900 </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> I.D1 </container>
-							<unittitle> Dejazet, Pauline Virginie, 1797-1875 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.D2 </container>
-							<unittitle> Dumas, Alezandre (invitation connected with Dumas Père, but no evidence to prove whether the letter is Père or Fils) Père, 1803-1870 Fils, 1824-1895 — Two items: formal invitation, And a letter, </unittitle>
-							<unitdate type="inclusive"> 1865? n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.D3 </container>
-							<unittitle> Pélissier, Aimable jean Jacques, duc de Malakof, 1794-1864 — Card with signature, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.D4 </container>
-							<unittitle> Rachel Felix, Elizabeth, 1820-1858 — Letter, </unittitle>
-							<unitdate type="inclusive"> 12 June 1847? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.D5 </container>
-							<unittitle> Trochu, Louis Jules,1815-1896 — Letter, </unittitle>
-							<unitdate type="inclusive"> 3 Jan. 1864 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> I.D6 </container>
-							<unittitle> Uhrich, Jean Jacques Alexis, 1802-1886 — Army of Italy, Letter, </unittitle>
-							<unitdate type="inclusive"> 6 April 1860 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> *I.D7 </container>
-							<unittitle> Letter from Napoleon III on embossed note of paper, dated Tuileries, </unittitle>
-							<unitdate type="inclusive"> 5 January 1865 ? </unitdate>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-			<c01 level="series" id="series2">
-				<did>
-					<unittitle> II. THE GERMANIES</unittitle>
-				</did>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.A the Hapsburgs </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.A1 </container>
-							<unittitle> Alva, Fernando Alvarez de Toledo, 1508-1583 — Order, </unittitle>
-							<unitdate type="inclusive"> March 1572 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A2 </container>
-							<unittitle> Wallenstein, Albrecht Eusebius Wenzel von, Herzog von Friedland and Mecklenburg, 1583-1634 — Seal, </unittitle>
-							<unitdate type="inclusive"> 27 August 1630 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A3 </container>
-							<unittitle> Charles VI, 1685-1740 — Seal, </unittitle>
-							<unitdate type="inclusive"> 1727? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A4 </container>
-							<unittitle> Marie Therese, 1717-1780 — Letter to the Bishop of Wurzburg and Bamberg, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A5 </container>
-							<unittitle> Joseph II, 1741-1790 — Imperial decree, </unittitle>
-							<unitdate type="inclusive"> 20 Oct. 1783 </unitdate>
-							<physdesc>[oversized]</physdesc>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A6 </container>
-							<unittitle> Hofer, Andreas, 1767-1810 — Letter, </unittitle>
-							<unitdate type="inclusive"> 5 March 1809 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A7 </container>
-							<unittitle> Laudon or Loudon, Johann Ludwig Alexius, Freiherr von, 1762-1822 — Letter, </unittitle>
-							<unitdate type="inclusive"> 16? August 1811 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A8 </container>
-							<unittitle> Radetsky, Joseph, 1766-1858 — Letter, </unittitle>
-							<unitdate type="inclusive"> 20 April 1822 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A9 </container>
-							<unittitle> Francis Joseph I, 1830-1916 — Note, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A10 </container>
-							<unittitle> Maximilian, Emperor of Mexico, 1832-1867 — Official letter, </unittitle>
-							<unitdate type="inclusive"> 28 Nov. 1866 </unitdate>
-							<physdesc>[oversized]</physdesc>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.A11 </container>
-							<unittitle> Rauscher, Joseph Othmar, Fursterz-bischof von Wien and Kardinal, 1797-1875 — See Pius IX under Italy (III. C 2) </unittitle>
-							<physdesc> (Signature pasted on paper with that of Pius IX. 1876?) </physdesc>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.B Prussia </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.B1 </container>
-							<unittitle> Louise, Queen of Prussia, 1776-1810 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.B2 </container>
-							<unittitle> Blucher, Gebhard Leberrecht von, 1742-1819 — Letter, </unittitle>
-							<unitdate type="inclusive"> 16 Oct. 1815 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.B3 </container>
-							<unittitle> Bismarck Schőnhausen, Karl Otto, Furst von, 1815-1898 (another signature on the document) — Note and envelope, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.B4 </container>
-							<unittitle> Bucher, Lothar, 1817-1892 — See Bismarck </unittitle>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.B5 </container>
-							<unittitle> Moltke, Helmuth, Graf von, 1800-1891 — Series of notes, one of them with the signature of von Moltke. Others not identified, </unittitle>
-							<unitdate type="inclusive"> 1872 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.B5 </container>
-							<unittitle> Moltke, Helmuth, Graf von, 1800-1891 — Note, </unittitle>
-							<unitdate type="inclusive"> 1873 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.B6 </container>
-							<unittitle> Roon, Albrecht, Graf von, 1803-1879 — Letter, </unittitle>
-							<unitdate type="inclusive"> 23 August 1870 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.B7 </container>
-							<unittitle> Werder, August von, 1808-1887 — Letter, </unittitle>
-							<unitdate type="inclusive"> 28 Nov. 1863 or 1873? </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.C German Culture - German enlightenment </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.C1 </container>
-							<unittitle> Goethe, Johann Wolfgang von, 1749-1832 — Letter, </unittitle>
-							<unitdate type="inclusive"> 17? March 1812 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.C1 </container>
-							<unittitle> Goethe, Johann Wolfgang von, 1749-1832 — Letter, </unittitle>
-							<unitdate type="inclusive"> 1829 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.C2 </container>
-							<unittitle> Herder, Johann Gottfried von, 1744-1803 — Letter, </unittitle>
-							<unitdate type="inclusive"> 16 April 1796? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.C3 </container>
-							<unittitle> Humboldt, Alexander von, 1769-1859 — Letter, </unittitle>
-							<unitdate type="inclusive"> Oct. 1832 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.C4 </container>
-							<unittitle> Kant, Immanuel, 1724-1804 — Letter, </unittitle>
-							<unitdate type="inclusive"> 7? Feb. 1800 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.C5 </container>
-							<unittitle> Klopstock, Friedrich Gottlieb, 1724-1803 — Letter, </unittitle>
-							<unitdate type="inclusive"> 11 July 1748 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.C6 </container>
-							<unittitle> Schiller, Johann Christoph Friedrich von, 1759-1805 — Letter, </unittitle>
-							<unitdate type="inclusive"> Date? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.C7 </container>
-							<unittitle> Wieland, Christopher Martin, 1733-1813 — Letter, </unittitle>
-							<unitdate type="inclusive"> 3 Nov. 1802 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> *II.C8 </container>
-							<unittitle> Letter signed "Neuber", a receipt for payment. Miss Luckau thinks signature at left of document is by Goethe. </unittitle>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.D German Culture - The Romantics </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.D1 </container>
-							<unittitle> Grimm, Jacob, 1785-1863 — Letter, </unittitle>
-							<unitdate type="inclusive"> 7? April 1828 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D2 </container>
-							<unittitle> Grimm, Wilhelm Carl, 1786-1859 — Letter, </unittitle>
-							<unitdate type="inclusive"> 27 June 1807 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D3 </container>
-							<unittitle> Richter, Jean Paul Friedrich, 1763-1825 — Letter, </unittitle>
-							<unitdate type="inclusive"> 8? Dec. 1812 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D3 </container>
-							<unittitle> Richter, Jean Paul Friedrich, 1763-1825 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D4 </container>
-							<unittitle> Ruckert, Friedrich, 1788-1866 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D5 </container>
-							<unittitle> Schlegel, August Wilhelmvvon, 1767-1845 — Letter, </unittitle>
-							<unitdate type="inclusive"> date? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D6 </container>
-							<unittitle> Schlegel, Friedrich von, 1772-1829 — Letter, </unittitle>
-							<unitdate type="inclusive"> 3? Nov. 1801 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D7 </container>
-							<unittitle> Schleiermacher, Friedrich Ernst Daniel, 1768-1834 — Letter, </unittitle>
-							<unitdate type="inclusive"> 9 Nov. 1809 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.D8 </container>
-							<unittitle> Uhland, Ludwig, 1787-1862 — Letter, </unittitle>
-							<unitdate type="inclusive"> 13 Oct. 1846 </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.E German culture - Later Nineteenth Century </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.E1 </container>
-							<unittitle> Auerbach, Berthold, 1812-1882 — Letter, </unittitle>
-							<unitdate type="inclusive"> 27 July 1861 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E2 </container>
-							<unittitle> Dingelstedt, Franz, Freiherr von, 1814-1881 — Letter, </unittitle>
-							<unitdate type="inclusive"> 14 June 1846 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E3 </container>
-							<unittitle> Dőllinger, Ignaz von, 1799-1890 — Letter, </unittitle>
-							<unitdate type="inclusive"> 14 April 1876 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E4 </container>
-							<unittitle> Gerstacker, Friedrich, 1816-1872 — Letter, </unittitle>
-							<unitdate type="inclusive"> 20 May 1869 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E5 </container>
-							<unittitle> Grillparzer, Franz, 1791-1872 — Distich, </unittitle>
-							<unitdate type="inclusive"> 25 Oct. 1857 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E6 </container>
-							<unittitle> Hacklander, Friedrich Wilhelm, 1816-1877 — Letter, </unittitle>
-							<unitdate type="inclusive"> 7? March 1856 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E7 </container>
-							<unittitle> Heinsius, Theodor H. 1770-1849 — Letter, </unittitle>
-							<unitdate type="inclusive"> 11 Oct. 1840 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E8 </container>
-							<unittitle> Laube, Heinrich, 1806-1884 — Letter, </unittitle>
-							<unitdate type="inclusive"> 28 Dec. 1848 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E9 </container>
-							<unittitle> Mommsen, Theodor, 1817-1903 — Letter, </unittitle>
-							<unitdate type="inclusive"> 24 May 1856 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E10 </container>
-							<unittitle> Mosenthal, Salomon Hermann, Ritter von, 1821-1877 — Letter, </unittitle>
-							<unitdate type="inclusive"> 1857 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.E11 </container>
-							<unittitle> Virchow Rudolf, 1821-1902 — Letter, </unittitle>
-							<unitdate type="inclusive"> 15 April 1847 </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.F Music </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.F1 </container>
-							<unittitle> Abt, Franz, 1819-1885 — Letter, </unittitle>
-							<unitdate type="inclusive"> 18 Dec. 1866 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.F2 </container>
-							<unittitle> Haydn, Joseph, 1732-1809 — Letter, </unittitle>
-							<unitdate type="inclusive"> 22 May 1788? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.F3 </container>
-							<unittitle> Pleyel, Ignaz, 1757-1831 — Letter, </unittitle>
-							<unitdate type="inclusive"> 1 July 1804 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.F4 </container>
-							<unittitle> Spohr, Louis, 1784-1859 — Letter, </unittitle>
-							<unitdate type="inclusive"> date? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.F5 </container>
-							<unittitle> Strauss, Johann, 1825-1899 — Waltz, </unittitle>
-							<unitdate type="inclusive"> 11 March 1854 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.F6 </container>
-							<unittitle> Weber, Karl Maria von, 1786-1826 — Note, </unittitle>
-							<unitdate type="inclusive"> 3 Feb. 1812? </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> *II.F7 </container>
-							<unittitle> Letter signed by Mozart, 1782, inviting Baroness Waldstetter to his house for "beer in the English manner," </unittitle>
-							<unitdate type="inclusive"> 2 October 1782 </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.G Drama, dancing, singing, etc. </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.G1 </container>
-							<unittitle> Elssler, Fanny, 1810-1884 — Note, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.G2 </container>
-							<unittitle> Janauschek, Fanny, 1830-1904 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.G3 </container>
-							<unittitle> Lucca, Pauline, 1841-1908 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.G4 </container>
-							<unittitle> Montez, Lola, Grafin von Landsfeld, 1818-1861 — Note, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.G5 </container>
-							<unittitle> Seebach, Marie, 1829-1897 — Two letters </unittitle>
-							<unitdate type="inclusive"> 18 Feb. 1864 and 5 Nov. 1898 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.G6 </container>
-							<unittitle> Sontag, Henriette, Countess Rossi, 1806-1854 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> II.H Art </unittitle>
-					</did>
-					<c03 level="item">
-						<did>
-							<container> II.H1 </container>
-							<unittitle> Kaulbach, Wilhelm, 1805-1874 — Letter, </unittitle>
-							<unitdate type="inclusive"> n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.H2 </container>
-							<unittitle> Klenze, Franz Karl Leo von, 1784-1864 — Letter, </unittitle>
-							<unitdate type="inclusive"> 12 May 1832 </unitdate>
-						</did>
-					</c03>
-					<c03 level="item">
-						<did>
-							<container> II.H3 </container>
-							<unittitle> Schwanthaler, Ludwig von, 1802-1848 — Letter, </unittitle>
-							<unitdate type="inclusive"> 1841? </unitdate>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-			<c01 level="series" id="series3">
-				<did>
-					<unittitle> III. GREAT BRITAIN </unittitle>
-				</did>
-				<c02 level="item">
-					<did>
-						<container> III.1 </container>
-						<unittitle> Churchill, John, first Duke of Marlborough, 1650-1722 — Proclamation to the army, </unittitle>
-						<unitdate type="inclusive"> 11 July 1703 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> III.2 </container>
-						<unittitle> Ruys (not identified) — Letter written at the Hague, Holland,telling of the arrival of George II en route to Hanover. In French </unittitle>
-						<unitdate type="inclusive"> 30 April 1755 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> III.3 </container>
-						<unittitle> Charlotte Sophia, Queen of George III, 1744-1818 — Signature, </unittitle>
-						<unitdate type="inclusive"> 1772 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> III.4 </container>
-						<unittitle> Wellesley, Arthur, Duke of Wellington, 1769-1852 — Letter, </unittitle>
-						<unitdate type="inclusive"> 18 April 1843 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> III.5 </container>
-						<unittitle> Acton, John Emerich Edward Dalberg, first baron, 1834-1902 — Letter and envelope, </unittitle>
-						<unitdate type="inclusive"> 17 June 1875? </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> III.6 </container>
-						<unittitle> Buchanan, Andrew, 1807-1882 — Letter, </unittitle>
-						<unitdate type="inclusive"> 29? July 1873 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> *III.7 </container>
-						<unittitle> Fragment of letter to George, Earl of Halifax, signed by Walpole, George Doddington and George Oxenden, </unittitle>
-						<unitdate type="inclusive"> 1730 </unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series4">
-				<did>
-					<unittitle> IV. SCANDINAVIA </unittitle>
-				</did>
-				<c02 level="item">
-					<did>
-						<container> IV.1 </container>
-						<unittitle> Bremer, Frederika, 1801-1865 — Letter, </unittitle>
-						<unitdate type="inclusive"> 13 March 1845 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> IV.2 </container>
-						<unittitle> Thorvaldsen, Albert, 1770-1844 — Receipt, </unittitle>
-						<unitdate type="inclusive"> 27 May 1842 </unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series5">
-				<did>
-					<unittitle> V. ITALY </unittitle>
-				</did>
-				<c02 level="item">
-					<did>
-						<container> V.1 </container>
-						<unittitle> Canova, Antonio, marquis of Ischivia, 1757-1822 — Letter, </unittitle>
-						<unitdate type="inclusive"> 30 Oct. 1817 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> V.2 </container>
-						<unittitle> Pius IX, 1792-1878 — Signature, </unittitle>
-						<unitdate type="inclusive"> 1876? </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> V.3 </container>
-						<unittitle> Ristori, Adelaide, 1822-1906 — Two items: Poem and letter, </unittitle>
-						<unitdate type="inclusive"> 12 March 1858 and 22 July 1863 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> V.4 </container>
-						<unittitle> Taglioni, Marie T. 1804-1884 — Note, </unittitle>
-						<unitdate type="inclusive"> n.d. </unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series6">
-				<did>
-					<unittitle> VI. UNITED STATES </unittitle>
-				</did>
-				<c02 level="item">
-					<did>
-						<container> *VI.1 </container>
-						<unittitle> Letter from Matthew Carey, with reply from John Thompson at the end of the letter. </unittitle>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> *VI.2 </container>
-						<unittitle> Paper money, State of Massachusetts Bay, $4.00, </unittitle>
-						<unitdate type="inclusive"> May, 1780 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> *VI.3 </container>
-						<unittitle> Autograph of Lincoln, apparently clipped from a letter, </unittitle>
-						<unitdate type="inclusive"> 26 October 1864 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> *VI.4 </container>
-						<unittitle> Autograph of Jefferson Davis on a calling card. </unittitle>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> *VI.5 </container>
-						<unittitle> Autograph of Benjamin Harrison on a card with engraved view of White House (?) </unittitle>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> *VI.6 </container>
-						<unittitle> Autograph of Grover Cleveland on a calling card, </unittitle>
-						<unitdate type="inclusive"> 31 August 1885 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> *VI.7 </container>
-						<unittitle> Envelope of seals clipped from documents, American Legation in St. Petersburg, etc. </unittitle>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series7">
-				<did>
-					<unittitle> VII. MISCELLANEOUS </unittitle>
-				</did>
-				<c02 level="item">
-					<did>
-						<container> VII.1 </container>
-						<unittitle> Louise, Queen of Belgium,1812-1850 (Louise d’Orleans) — Letter, </unittitle>
-						<unitdate type="inclusive"> 22 Nov. 1847 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> VII.2 </container>
-						<unittitle> Kauffman, Angelica, 1741-1807 (Swiss) — Letter, </unittitle>
-						<unitdate type="inclusive"> 8 Sept. 1792 </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> VII.3 </container>
-						<unittitle> Caroline (Dealer has identified the signature as the Queen of Bavaria. Place and date under signature are Munich. At this time the Queen of Bavaria was Wilhelmine Auguste, wife of Maximilian I. Other queens of German origin by this name circa 1811 were: Caroline Amelie, of England, 1768-1821; Caroline Amelie of Denmark, 1796-1881; Marie Caroline of Naples, 1752-1814.) </unittitle>
-						<unitdate type="inclusive"> 18 Nov. 1811 </unitdate>
-					</did>
-				</c02>
-			</c01>
+			<c01 level="series" id="series1"><did><unittitle>I. FRANCE</unittitle></did>
+				<c02 level="subseries"><did><unittitle>IA. Before 1789</unittitle></did>
+					<c03 level="file"><did><container>Box 3, I.A1</container><unittitle>Anne, Duc de montmorency, 1493-1567 — Document dealing with landed estates, </unittitle><unitdate type="inclusive" normal="15620601">1562 Jun 1</unitdate><physdesc>[oversize]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 1, I.A2</container><unittitle>Henry IV, King of France, 1553-1610 — Letter to the Count Palatine of the Rhine, </unittitle><unitdate type="inclusive" normal="1610">1610</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.A3</container><unittitle>Turenne, Henri de la Tour d’Auvergne vicomte de, 1611-1675 — Letter to Cardinal Mazarin, </unittitle><unitdate type="inclusive" normal="1658">1658</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.A4</container><unittitle>Moritz, Graaf von Sachsen, 1696-1750 (Saxe, Hermann-Maurice, comte de) — Document, </unittitle><unitdate type="inclusive" normal="1729">1729</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.A5</container><unittitle>Necker, Jacques, 1732-1804 — Order, </unittitle><unitdate type="inclusive" normal="178003">1780 Mar</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.A6</container><unittitle>Malesherbes, Chrétien Guillaume de Lamoignon de 1721-1794 — Letter, </unittitle><unitdate type="inclusive" normal="178701">1787 Jan</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, *I.A7</container><unittitle>Letter signed L.P.T. d’Orleans, Paris, </unittitle><unitdate type="inclusive" normal="1786">1786</unitdate></did></c03></c02>
+				<c02 level="subseries"><did><unittitle>IB. 1789-1799</unittitle></did>
+					<c03 level="file"><did><container>Box 1, I.B1</container><unittitle>Augereau, Prince Françios Charles, duc de Castiglione, 1757-1816 — Letter, 8 Thermidor year II, </unittitle><unitdate type="inclusive" normal="17940726">1794 Jul 26</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B2</container><unittitle>Barère de Vieuzac, Bertrand, 1755-1841 (other names on document) — Committee of Public Safety 17 Messidor of year II, </unittitle><unitdate type="inclusive" normal="17940705">1794 Jul 5</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B3</container><unittitle>Barras, Paul François Jean Nicolas, 1755-1829 (other names on document not all identified) — Committee of General Security, 18 Brumaire Year III, </unittitle><unitdate type="inclusive" normal="17941108">1794 Nov 8</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B4</container><unittitle>Beauharnais, Alexandre, 1760-1794 (other names on document not all identified) — National Assembly, </unittitle><unitdate type="inclusive" normal="17910807">1791 Aug 7</unitdate></did></c03>
+					<c03 level="file"><did><container>I.B5</container><unittitle>Billuad-Varenne, Jean Nicolas, 1756-1819 — See Barère</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B6</container><unittitle>Cambacères, Jean Jacques Régis, duc de 1753-1824 (another name on document) — Committee of Public Safety, 21 Pluviôse Year III, </unittitle><unitdate type="inclusive" normal="17950209">1795 Feb 9</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B7</container><unittitle>Carnot, Lazare Nicoas Marguerite 1753-1823 (other names on document) — Committee of Public Safety, 5 Ventôse Year II, </unittitle><unitdate type="inclusive" normal="17940223">1794 Feb 23</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B8</container><unittitle>Chabot, François, 1759-1794 — Declaration of income, </unittitle><unitdate type="inclusive" normal="1793">1793</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B9</container><unittitle>Chaumette, Pierre Gaspard, 1763-1794 (in folder with Cambacères) — Commune of Paris, 13 Brumaire Year II, </unittitle><unitdate type="inclusive" normal="17931103">1793 Nov 3</unitdate></did></c03>
+					<c03 level="file"><did><container>I.B10</container><unittitle>Collot d’Herbois, Jean Marie, 1750-1796 — See Barère and Carnot</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B11</container><unittitle>Guillotin, Joseph Ignace, 1738-1814 — Letter, </unittitle><unitdate type="inclusive" normal="18130312">1813 Mar 12</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B12</container><unittitle>Jourdan, Jean Baptiste, comte, 1762-1833 — Official military letter, 16 Thermidor Year II, </unittitle><unitdate type="inclusive" normal="17940803">1794 Aug 3</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B13</container><unittitle>Laignelot, Joseph François, 1752-1829 — See Barras</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B14</container><unittitle>Lindet, R. ? Two brothers with Robert as part of name Lindet, Jean Baptiste Robert, 1746-1825 Lindet, Robert Thomas, 1743-1823 See Barère and Carnot</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B15</container><unittitle>Marie Antoinette, 1755-1793 — Order, </unittitle><unitdate type="inclusive" normal="17810102">[1781 Jan 2?]</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+					<c03 level="file"><did><container>I.B16</container><unittitle>Méaulle, Jean Nicolas, 1757-1824 — See Barras</unittitle></did></c03>
+					<c03 level="file"><did><container>I.B17</container><unittitle>Merlin de Douai, Philippe Antoine, 1754-1838 — See Cambacères</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B18</container><unittitle>Mirabeau, Honoré Gabriel Vicot Riqueti, comte de, 1749-1791 — Letter, </unittitle><unitdate type="inclusive" normal="17791015">1779 Oct 15</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B19</container><unittitle>Moreau, Jean Victor, 1763-1813 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>I.B20</container><unittitle>Moreaux, Jean René, 1758-1795 — See Tallien</unittitle></did></c03>
+					<c03 level="file"><did><container>I.B21</container><unittitle>Nogaret, Jacques Ramel, 1760-1819 — See Beauhrnais</unittitle></did></c03>
+					<c03 level="file"><did><container>I.B22</container><unittitle>Reverchon, Jacques, 1746-1828 — See Barras</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B23</container><unittitle>Rouget de Lisle, Claude Joseph, 1760-1836 — Composition? And letter, </unittitle><unitdate type="inclusive" normal="18310508">1831 May 8</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.B24</container><unittitle>Tallien, Jean Lambert, 1767-1820 — Committee of Public Safety, 16 Florial Year III, </unittitle><unitdate type="inclusive" normal="17950505">1795 May 5</unitdate></did></c03></c02>
+				<c02 level="subseries"><did><unittitle>IC. 1799-1815 (Napoleonic Era)</unittitle></did>
+					<c03 level="file"><did><container>Box 1, I.C1</container><unittitle>Arrighi, Jean Toussaint, duc de Padoue, 1778-1853 — Letter, </unittitle><unitdate type="inclusive" normal="18100421">1810 Apr 21</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C2a</container><unittitle>Bernadotte, Jean Baptiste Jules, 1764-1844 (later Charles XIV of Sweden and Norway) — Ministry of War, 8 Fructidor Year VII, </unittitle><unitdate type="inclusive" normal="18000826">1800 Aug 26</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C2b</container><unittitle>Bernadotte, Jean Baptiste Jules, 1764-1844 (later Charles XIV of Sweden and Norway) — Letter, </unittitle><unitdate type="inclusive" normal="18141001">1814 Oct 1</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C3</container><unittitle>Berthier, Louis Alexandre, 1753-1815 — Ministry of war, 21 Prairial Year XI, </unittitle><unitdate type="inclusive" normal="18030610">1803 Jun 10</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C4</container><unittitle>Bertrand, Henri Gratien, 1773-1844 — Letter, </unittitle><unitdate type="inclusive" normal="18270110">1827 Jan 10</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C5</container><unittitle>Bessières, Jean Baptiste, duc d’Istrie, 1766-1813 (Another signature on letter) — Letter, </unittitle><unitdate type="inclusive" normal="1811">1811</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C6</container><unittitle>Boissy d’Anglas, François Antoine, comte de, 1755-1826 — Letter, </unittitle><unitdate type="inclusive" normal="18240123">1824 Jan 23</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C7</container><unittitle>Brune, Guillaume Marie Anne, 1763-1815 — Official notice, </unittitle><unitdate type="inclusive" normal="18071026">1807 Oct 26</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C8</container><unittitle>Caffarelli (five brothers?) Louis M.J.M, 1756-1799; C.A., 1758-1826; L.M.J., 1760-1845; J.B., 1763-1815; F.M.A., 1766-1849 — See Lannes</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C9</container><unittitle>Davout, Louis Nicolas, duc d’Auerstaedt prince d’Eckműhl, 1770-1823 — Military document, ll Pluviôse Year X, </unittitle><unitdate type="inclusive" normal="18020131">1802 Jan 31</unitdate></did></c03>
+					<c03 level="file"><did><container>I.C10a</container><unittitle>Duroc, Géraud Christophe Michel, duc de Frioul, 1772-1813 — See Bessières</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C10b</container><unittitle>Duroc, Géraud Christophe Michel, duc de Frioul, 1772-1813 — Letter, </unittitle><unitdate type="inclusive" normal="18110217">1811 Feb 17</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C11</container><unittitle>Fouché, Joseph, duc d’Ortranto, 1759-1820 — Ministry of the General Police 5 Florial Year VIII, </unittitle><unitdate type="inclusive" normal="18000425">1800 Apr 25</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C12</container><unittitle>Gouvion St. Cyr, Laurent, marquis de, 1764-1830 — Ministry of War, </unittitle><unitdate type="inclusive" normal="18180613">1818 Jun 13</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C13</container><unittitle>Grouchy, Emmanuel, marquis de 1766-1847 — Ministry or war-receipt, </unittitle><unitdate type="inclusive" normal="18141219">1814 Dec [19?]</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C14</container><unittitle>Josephine Bonaparte, 1763-1814 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C15</container><unittitle>Junot, Andoche, duc d’Abrantes, 1771-1813 — Ministry of War-reciept, </unittitle><unitdate type="inclusive" normal="18060930">1806 Sep 30</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C16</container><unittitle>Kellermann, François Christophe, duc de Valmy, 1735-1820 — Legion of Honor, </unittitle><unitdate type="inclusive" normal="18120129">1812 Jan [29?]</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C17</container><unittitle>Lannes, Jean, duc de Montebello, prince de Siévers, 1769-1809 (several other names not all identified) — Financial record of consular guard, 7 Frimaire year IX, </unittitle><unitdate type="inclusive" normal="18001128">1800 Nov 28</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C18</container><unittitle>Lefebvre, Francois Joseph, duc de Dantzig, 1755-1820 — Notice of military promotion, 13 Brumaire Year XIV, </unittitle><unitdate type="inclusive" normal="18051104">1805 Nov 4</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C19</container><unittitle>Macdonald, Jacques Etienne Joseph Alexander, duc de Tarente, 1765-1840 — Royal Order of Legion of Honor, </unittitle><unitdate type="inclusive" normal="18180608">1818 Jun 8</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C20</container><unittitle>Marmont, Auguste Frédéric Louis Viesse de, duc de Raguse, 1774-1852 — Royal and Military Order of St. Louis, </unittitle><unitdate type="inclusive" normal="18190319">[1819 Mar 19?]</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C21</container><unittitle>Mars, Anne, F.H.B., Mlle, 1779-1847 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C22</container><unittitle>Masséna, André, duc de Rivoli, prince d’Essling, 1756-1817 — Ministry of war-receipt, </unittitle><unitdate type="inclusive" normal="18110828">1811 Aug 28</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C23</container><unittitle>Moncey, Bon Adrien Jeannot de, duc de Conegliano, 1754-1842 — Official letter from office of the Imperial Guard, </unittitle><unitdate type="inclusive" normal="18130217">1813 Feb 17</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C24</container><unittitle>Mortier, Edouard Adolphe Casimir Joseph,duc de Trévisee, 1768-1835 — Royal Order of the Legion of Honor, </unittitle><unitdate type="inclusive" normal="18330511">1833 May 11</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C25</container><unittitle>Murat, Joachim, 1771-1815 — Note, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C26</container><unittitle>Napoleon I, 1769-1821 — Imperial Passport, </unittitle><unitdate type="inclusive" normal="18121009">1812 Oct 9</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C27</container><unittitle>Ney, Michel, duc d’Elchingen, 1769-1815 — Official military letter, 16 Prairial year X, </unittitle><unitdate type="inclusive" normal="18020605">1802 Jun 5</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C28</container><unittitle>Ordener, Michel, comte, 1755-1811 — See Lannes</unittitle></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C29</container><unittitle>Oudinot, Nicolas Charles, duc de Reggio, 1767-1847 — Army of Italy, letter, 19 Messidor, year VIII, </unittitle><unitdate type="inclusive" normal="18000708">1800 Jul 8</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C30</container><unittitle>Perignon, Dominique Catherine de 1754-1818 — Letter, </unittitle><unitdate type="inclusive" normal="18170313">1817 Mar 13</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 3, I.C31</container><unittitle>Poniatowski, Joseph Antoine, prince, 1762-1813 — Document, </unittitle><unitdate type="inclusive" normal="1808">1808</unitdate><physdesc>[oversize]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C32</container><unittitle>Sérurier, Jean Mathieu Philibert, 1742-1819 (Another name not identified on document) — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C33</container><unittitle>Soult, Nicolas Jean de Dieu, duc de Dalmatie, 1769-1851 — Letter, </unittitle><unitdate type="inclusive" normal="18350402">1835 Apr 2</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C34</container><unittitle>Stael-Holstein, Anne L.G. Necker, baronne de, 1766-1817 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C35</container><unittitle>Suchet, Louis Gabriel, duc de D’Albufera, 1772-1826 — Letter, </unittitle><unitdate type="inclusive" normal="18170717">1817 Jul 17</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C36</container><unittitle>Talleyrand-Périgord, Charles Maurice de, 1754-1838 — Ministry of Foreign Affairs, 9 Vendémiaire, Year VI, </unittitle><unitdate type="inclusive" normal="17970930">1797 Sep 30</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C37</container><unittitle>Talma, François Joseph, 1763-1826 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.C38</container><unittitle>Victor, Claude Victor Perrin dit, duc der Bellune, 1766-1841 — Letter, </unittitle><unitdate type="inclusive" normal="18080303">1808 Mar 3</unitdate></did></c03></c02>
+				<c02 level="subseries"><did><unittitle>ID. 1815-1900</unittitle></did>
+					<c03 level="file"><did><container>Box 1, I.D1</container><unittitle>Dejazet, Pauline Virginie, 1797-1875 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.D2</container><unittitle>Dumas, Alezandre (invitation connected with Dumas Père, but no evidence to prove whether the letter is Père or Fils) Père, 1803-1870 Fils, 1824-1895 — Two items: formal invitation, And a letter, </unittitle><unitdate type="inclusive" normal="1865">[1865?], undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.D3</container><unittitle>Pélissier, Aimable jean Jacques, duc de Malakof, 1794-1864 — Card with signature, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.D4</container><unittitle>Rachel Felix, Elizabeth, 1820-1858 — Letter, </unittitle><unitdate type="inclusive" normal="18470612">[1847 Jun 12?]</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.D5</container><unittitle>Trochu, Louis Jules,1815-1896 — Letter, </unittitle><unitdate type="inclusive" normal="18640103">1864 Jan 3</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, I.D6</container><unittitle>Uhrich, Jean Jacques Alexis, 1802-1886 — Army of Italy, Letter, </unittitle><unitdate type="inclusive" normal="18600406">1860 Apr 6</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, *I.D7</container><unittitle>Letter from Napoleon III on embossed note of paper, dated Tuileries, </unittitle><unitdate type="inclusive" normal="18650105">[1865 Jan 5?]</unitdate></did></c03></c02></c01>
+			<c01 level="series" id="series2"><did><unittitle>II. THE GERMANIES</unittitle></did>
+				<c02 level="subseries"><did><unittitle>IIA. The Hapsburgs</unittitle></did>
+					<c03 level="file"><did><container>Box 1, II.A1</container><unittitle>Alva, Fernando Alvarez de Toledo, 1508-1583 — Order, </unittitle><unitdate type="inclusive" normal="157203">1572 Mar</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A2</container><unittitle>Wallenstein, Albrecht Eusebius Wenzel von, Herzog von Friedland and Mecklenburg, 1583-1634 — Seal, </unittitle><unitdate type="inclusive" normal="16300827">1630 Aug 27</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A3</container><unittitle>Charles VI, 1685-1740 — Seal, </unittitle><unitdate type="inclusive" normal="1727">[1727?]</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A4</container><unittitle>Marie Therese, 1717-1780 — Letter to the Bishop of Wurzburg and Bamberg, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 3, II.A5</container><unittitle>Joseph II, 1741-1790 — Imperial decree, </unittitle><unitdate type="inclusive" normal="17831020">1783 Oct 20</unitdate><physdesc>[oversize]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A6</container><unittitle>Hofer, Andreas, 1767-1810 — Letter, </unittitle><unitdate type="inclusive" normal="18090305">1809 Mar 5</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A7</container><unittitle>Laudon or Loudon, Johann Ludwig Alexius, Freiherr von, 1762-1822 — Letter, </unittitle><unitdate type="inclusive" normal="18110816">1811 Aug [16?]</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A8</container><unittitle>Radetsky, Joseph, 1766-1858 — Letter, </unittitle><unitdate type="inclusive" normal="18220420">1822 Apr 20</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A9</container><unittitle>Francis Joseph I, 1830-1916 — Note, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 3, II.A10</container><unittitle>Maximilian, Emperor of Mexico, 1832-1867 — Official letter, </unittitle><unitdate type="inclusive" normal="18661128">1866 Nov 28</unitdate><physdesc>[oversize]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 1, II.A11</container><unittitle>Rauscher, Joseph Othmar, Fursterz-bischof von Wien and Kardinal, 1797-1875 — Signature, </unittitle><unitdate type="inclusive" normal="1876">[1876?]</unitdate></did></c03></c02>
+				<c02 level="subseries"><did><unittitle>IIB. Prussia</unittitle></did>
+					<c03 level="file"><did><container>Box 1, II.B1</container><unittitle>Louise, Queen of Prussia, 1776-1810 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.B2</container><unittitle>Blucher, Gebhard Leberrecht von, 1742-1819 — Letter, </unittitle><unitdate type="inclusive" normal="18151016">1815 Oct 16</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.B3</container><unittitle>Bismarck Schőnhausen, Karl Otto, Furst von, 1815-1898 (another signature on the document) — Note and envelope, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.B4</container><unittitle>Bucher, Lothar, 1817-1892 — See Bismarck</unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.B5a</container><unittitle>Moltke, Helmuth, Graf von, 1800-1891 — Series of notes, one of them with the signature of von Moltke. Others not identified, </unittitle><unitdate type="inclusive" normal="1872">1872</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.B5b</container><unittitle>Moltke, Helmuth, Graf von, 1800-1891 — Note, </unittitle><unitdate type="inclusive" normal="1873">1873</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 1, II.B6</container><unittitle>Roon, Albrecht, Graf von, 1803-1879 — Letter, </unittitle><unitdate type="inclusive" normal="18700823">1870 Aug 23</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.B7</container><unittitle>Werder, August von, 1808-1887 — Letter, </unittitle><unitdate type="inclusive" normal="18631128/18731128">[1863 or 1873] Nov 28</unitdate></did></c03></c02>
+				<c02 level="subseries"><did><unittitle>IIC. German Culture - German enlightenment</unittitle></did>
+					<c03 level="file"><did><container>Box 1, II.C1</container><unittitle>Goethe, Johann Wolfgang von, 1749-1832 — Letter, </unittitle><unitdate type="inclusive" normal="18120317">1812 Mar [17?]</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.C1</container><unittitle>Goethe, Johann Wolfgang von, 1749-1832 — Letter, </unittitle><unitdate type="inclusive" normal="1829">1829</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.C2</container><unittitle>Herder, Johann Gottfried von, 1744-1803 — Letter, </unittitle><unitdate type="inclusive" normal="17960416">[1796 Apr 16?]</unitdate><physdesc>[3 folders]</physdesc></did></c03>
+					<c03 level="file"><did><container>Box 1, II.C3</container><unittitle>Humboldt, Alexander von, 1769-1859 — Letter, </unittitle><unitdate type="inclusive" normal="183210">1832 Oct</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.C4</container><unittitle>Kant, Immanuel, 1724-1804 — Letter, </unittitle><unitdate type="inclusive" normal="18000207">1800 Feb [7?]</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.C5</container><unittitle>Klopstock, Friedrich Gottlieb, 1724-1803 — Letter, </unittitle><unitdate type="inclusive" normal="17480711">1748 Jul 11</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.C6</container><unittitle>Schiller, Johann Christoph Friedrich von, 1759-1805 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, II.C7</container><unittitle>Wieland, Christopher Martin, 1733-1813 — Letter, </unittitle><unitdate type="inclusive" normal="18021103">1802 Nov 3</unitdate></did></c03>
+					<c03 level="file"><did><container>Box 1, *II.C8</container><unittitle>Letter signed "Neuber", a receipt for payment. Miss Luckau thinks signature at left of document is by Goethe, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03></c02>
+					<c02 level="subseries"><did><unittitle>IID. German Culture - The Romantics</unittitle></did>
+						<c03 level="file"><did><container>Box 1, II.D1</container><unittitle>Grimm, Jacob, 1785-1863 — Letter, </unittitle><unitdate type="inclusive" normal="18280407">1828 Apr [7?]</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D2</container><unittitle>Grimm, Wilhelm Carl, 1786-1859 — Letter, </unittitle><unitdate type="inclusive" normal="18070627">1807 Jun 27</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D3a</container><unittitle>Richter, Jean Paul Friedrich, 1763-1825 — Letter, </unittitle><unitdate type="inclusive" normal="18121208">1812 Dec [8?]</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D3b</container><unittitle>Richter, Jean Paul Friedrich, 1763-1825 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D4</container><unittitle>Ruckert, Friedrich, 1788-1866 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D5</container><unittitle>Schlegel, August Wilhelmvvon, 1767-1845 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D6</container><unittitle>Schlegel, Friedrich von, 1772-1829 — Letter, </unittitle><unitdate type="inclusive" normal="18011103">1801 Nov [3?]</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D7</container><unittitle>Schleiermacher, Friedrich Ernst Daniel, 1768-1834 — Letter, </unittitle><unitdate type="inclusive" normal="18091109">1809 Nov 9</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+						<c03 level="file"><did><container>Box 1, II.D8</container><unittitle>Uhland, Ludwig, 1787-1862 — Letter, </unittitle><unitdate type="inclusive" normal="18461013">1846 Oct 13</unitdate></did></c03></c02>
+					<c02 level="subseries"><did><unittitle>IIE. German culture - Later Nineteenth Century</unittitle></did>
+						<c03 level="file"><did><container>Box 1, II.E1</container><unittitle>Auerbach, Berthold, 1812-1882 — Letter, </unittitle><unitdate type="inclusive" normal="18610727">1861 Jul 27</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E2</container><unittitle>Dingelstedt, Franz, Freiherr von, 1814-1881 — Letter, </unittitle><unitdate type="inclusive" normal="18460614">1846 Jun 14</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E3</container><unittitle>Dőllinger, Ignaz von, 1799-1890 — Letter, </unittitle><unitdate type="inclusive" normal="18760414">1876 Apr 14</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E4</container><unittitle>Gerstacker, Friedrich, 1816-1872 — Letter, </unittitle><unitdate type="inclusive" normal="18690520">1869 May 20</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E5</container><unittitle>Grillparzer, Franz, 1791-1872 — Distich, </unittitle><unitdate type="inclusive" normal="18571025">1857 Oct 25</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E6</container><unittitle>Hacklander, Friedrich Wilhelm, 1816-1877 — Letter, </unittitle><unitdate type="inclusive" normal="18560307">1856 Mar [7?]</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E7</container><unittitle>Heinsius, Theodor H. 1770-1849 — Letter, </unittitle><unitdate type="inclusive" normal="18401011">1840 Oct 11</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E8</container><unittitle>Laube, Heinrich, 1806-1884 — Letter, </unittitle><unitdate type="inclusive" normal="18481228">1848 Dec 28</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E9</container><unittitle>Mommsen, Theodor, 1817-1903 — Letter, </unittitle><unitdate type="inclusive" normal="18560524">1856 May 24</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E10</container><unittitle>Mosenthal, Salomon Hermann, Ritter von, 1821-1877 — Letter, </unittitle><unitdate type="inclusive" normal="1857">1857</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 1, II.E11</container><unittitle>Virchow Rudolf, 1821-1902 — Letter, </unittitle><unitdate type="inclusive" normal="18470415">1847 Apr 15</unitdate></did></c03></c02>
+					<c02 level="subseries"><did><unittitle>IIF. Music</unittitle></did>
+						<c03 level="file"><did><container>Box 2, II.F1</container><unittitle>Abt, Franz, 1819-1885 — Letter, </unittitle><unitdate type="inclusive" normal="18661218">1866 Dec 18</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.F2</container><unittitle>Haydn, Joseph, 1732-1809 — Letter, </unittitle><unitdate type="inclusive" normal="17880522">[1788 May 22?]</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.F3</container><unittitle>Pleyel, Ignaz, 1757-1831 — Letter, </unittitle><unitdate type="inclusive" normal="18040701">1804 Jul 1</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.F4</container><unittitle>Spohr, Louis, 1784-1859 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.F5</container><unittitle>Strauss, Johann, 1825-1899 — Waltz, </unittitle><unitdate type="inclusive" normal="18540311">1854 Mar 11</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+						<c03 level="file"><did><container>Box 2, II.F6</container><unittitle>Weber, Karl Maria von, 1786-1826 — Note, </unittitle><unitdate type="inclusive" normal="18120203">[1812 Feb 3?]</unitdate><physdesc>[2 folders]</physdesc></did></c03>
+						<c03 level="file"><did><container>Box 2, *II.F7</container><unittitle>Letter signed by Mozart, 1782, inviting Baroness Waldstetter to his house for "beer in the English manner," </unittitle><unitdate type="inclusive" normal="17821002">1782 Oct 2</unitdate><physdesc>[3 folders]</physdesc></did></c03></c02>
+					<c02 level="subseries"><did><unittitle>IIG. Drama, dancing, singing, etc.</unittitle></did>
+						<c03 level="file"><did><container>Box 2, II.G1</container><unittitle>Elssler, Fanny, 1810-1884 — Note, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.G2</container><unittitle>Janauschek, Fanny, 1830-1904 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.G3</container><unittitle>Lucca, Pauline, 1841-1908 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.G4</container><unittitle>Montez, Lola, Grafin von Landsfeld, 1818-1861 — Note, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.G5</container><unittitle>Seebach, Marie, 1829-1897 — Two letters, </unittitle><unitdate type="inclusive" normal="18640218/18981105">1864 Feb 18 and 1898 Nov 5</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.G6</container><unittitle>Sontag, Henriette, Countess Rossi, 1806-1854 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03></c02>
+					<c02 level="subseries"><did><unittitle>IIH. Art</unittitle></did>
+						<c03 level="file"><did><container>Box 2, II.H1</container><unittitle>Kaulbach, Wilhelm, 1805-1874 — Letter, </unittitle><unitdate type="inclusive">undated</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.H2</container><unittitle>Klenze, Franz Karl Leo von, 1784-1864 — Letter, </unittitle><unitdate type="inclusive" normal="18320512">1832 May 12</unitdate></did></c03>
+						<c03 level="file"><did><container>Box 2, II.H3</container><unittitle>Schwanthaler, Ludwig von, 1802-1848 — Letter, </unittitle><unitdate type="inclusive" normal="1841">[1841?]</unitdate></did></c03></c02></c01>
+			<c01 level="series" id="series3"><did><unittitle>III. GREAT BRITAIN</unittitle></did>
+				<c02 level="file"><did><container>Box 2, III.1</container><unittitle>Churchill, John, first Duke of Marlborough, 1650-1722 — Proclamation to the army, </unittitle><unitdate type="inclusive" normal="17030711">1703 Jul 11</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, III.2</container><unittitle>Ruys (not identified) — Letter written at the Hague, Holland,telling of the arrival of George II en route to Hanover. In French, </unittitle><unitdate type="inclusive" normal="17550430">1755 Apr 30</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, III.3</container><unittitle>Charlotte Sophia, Queen of George III, 1744-1818 — Signature, </unittitle><unitdate type="inclusive" normal="1772">1772</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, III.4</container><unittitle>Wellesley, Arthur, Duke of Wellington, 1769-1852 — Letter, </unittitle><unitdate type="inclusive" normal="18430418">1843 Apr 18</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, III.5</container><unittitle>Acton, John Emerich Edward Dalberg, first baron, 1834-1902 — Letter and envelope, </unittitle><unitdate type="inclusive" normal="18750617">[1875 Jun 17?]</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, III.6</container><unittitle>Buchanan, Andrew, 1807-1882 — Letter, </unittitle><unitdate type="inclusive" normal="18730729">1873 Jul [29?]</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, *III.7</container><unittitle>Fragment of letter to George, Earl of Halifax, signed by Walpole, George Doddington and George Oxenden, </unittitle><unitdate type="inclusive" normal="1730">1730</unitdate></did></c02></c01>
+			<c01 level="series" id="series4"><did><unittitle>IV. SCANDINAVIA</unittitle></did>
+				<c02 level="file"><did><container>Box 2, IV.1</container><unittitle>Bremer, Frederika, 1801-1865 — Letter, </unittitle><unitdate type="inclusive" normal="18450313">1845 Mar 13</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, IV.2</container><unittitle>Thorvaldsen, Albert, 1770-1844 — Receipt, </unittitle><unitdate type="inclusive" normal="18420527">1842 May 27</unitdate></did></c02></c01>
+			<c01 level="series" id="series5"><did><unittitle>V. ITALY</unittitle></did>
+				<c02 level="file"><did><container>Box 2, V.1</container><unittitle>Canova, Antonio, marquis of Ischivia, 1757-1822 — Letter, </unittitle><unitdate type="inclusive" normal="18171030">1817 Oct 30</unitdate></did></c02>
+				<c02 level="file"><did><container>V.2</container><unittitle>Pius IX, 1792-1878 — See Rauscher (II.A11)</unittitle><unitdate type="inclusive" normal="1876">[1876?]</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, V.3</container><unittitle>Ristori, Adelaide, 1822-1906 — Two items: Poem and letter, </unittitle><unitdate type="inclusive" normal="18580312/18630722">1858 Mar 12 and 1863 Jul 22</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, V.4</container><unittitle>Taglioni, Marie T. 1804-1884 — Note, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02></c01>
+			<c01 level="series" id="series6"><did><unittitle>VI. UNITED STATES</unittitle></did>
+				<c02 level="file"><did><container>Box 2, *VI.1</container><unittitle>Letter from Matthew Carey, with reply from John Thompson at the end of the letter.</unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, *VI.2</container><unittitle>Paper money, State of Massachusetts Bay, $4.00, May, 1780</unittitle><unitdate type="inclusive" normal="1780">1780</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, *VI.3</container><unittitle>Autograph of Lincoln, apparently clipped from a letter, 26 October 1864</unittitle><unitdate type="inclusive" normal="18641026">1864 Oct 26</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, *VI.4</container><unittitle>Autograph of Jefferson Davis on a calling card.</unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, *VI.5</container><unittitle>Autograph of Benjamin Harrison on a card with engraved view of White House (?), </unittitle><unitdate type="inclusive">undated</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, *VI.6</container><unittitle>Autograph of Grover Cleveland on a calling card, </unittitle><unitdate type="inclusive" normal="18850831">1885 Aug 31</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, *VI.7</container><unittitle>Envelope of seals clipped from documents, American Legation in St. Petersburg, etc., </unittitle><unitdate type="inclusive">undated</unitdate></did></c02></c01>
+			<c01 level="series" id="series7"><did><unittitle>VII. MISCELLANEOUS</unittitle></did>
+				<c02 level="file"><did><container>Box 2, VII.1</container><unittitle>Louise, Queen of Belgium,1812-1850 (Louise d’Orleans) — Letter, </unittitle><unitdate type="inclusive" normal="18471122">1847 Nov 22</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, VII.2</container><unittitle>Kauffman, Angelica, 1741-1807 (Swiss) — Letter, </unittitle><unitdate type="inclusive" normal="17920908">1792 Sep 8</unitdate></did></c02>
+				<c02 level="file"><did><container>Box 2, VII.3</container><unittitle>Caroline (Dealer has identified the signature as the Queen of Bavaria. Place and date under signature are Munich. At this time the Queen of Bavaria was Wilhelmine Auguste, wife of Maximilian I. Other queens of German origin by this name circa 1811 were: Caroline Amelie, of England, 1768-1821; Caroline Amelie of Denmark, 1796-1881; Marie Caroline of Naples, 1752-1814), </unittitle><unitdate type="inclusive" normal="18111118">1811 Nov 18</unitdate></did></c02></c01>
 		</dsc>
 	</archdesc>
 </ead>

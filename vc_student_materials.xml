@@ -32,7 +32,7 @@
 			<unitdate type="inclusive" normal="1859/1989" certainty="approximate"
 				label="Inclusive Dates:" encodinganalog="245$f">1859-2025</unitdate>
 			<unitdate type="bulk" normal="1867/1950" label="Bulk Dates:" encodinganalog="245$f">1867-1967</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">approximately 249.2 cubic feet (213 boxes, 700 volumes, 1 OV folder)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 249.4 cubic feet (213 boxes, 700 volumes, 1 OV folder)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -243,7 +243,7 @@
 					<unittitle>
 						<ref target="series2">Series II.</ref> Autograph Albums, </unittitle>
 					<unitdate type="inclusive" normal="1865/1899" certainty="approximate">circa
-						1865-1899</unitdate>
+						1865 - circa 1933</unitdate>
 					<physdesc>[1 cubic foot (5 boxes)]</physdesc>
 				</did>
 			</c01>
@@ -674,6 +674,13 @@
 				</c02>
 				<c02 level="item">
 					<did>
+						<container>Box 213</container>
+						<unittitle>VC Ex 1874 — Eldredge, Mary H., </unittitle>
+						<unitdate type="inclusive" normal="1872/1873" certainty="approximate">1872-1873</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
 						<container>Box 89</container>
 						<unittitle>VC Ex 1875 — Burd, Abbie Maria (Crosman), </unittitle>
 						<unitdate type="inclusive" normal="1875" certainty="approximate">circa
@@ -745,6 +752,13 @@
 				</c02>
 				<c02 level="item">
 					<did>
+						<container>Box 213</container>
+						<unittitle>VC 1883 — Raymond, Cornelia M., </unittitle>
+						<unitdate type="inclusive" normal="1872/1873" certainty="approximate">1872-1874</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
 						<container>Box 84</container>
 						<unittitle>VC 1883-1886 [Art] — Beyer, Caroline (Rabe), </unittitle>
 						<unitdate type="inclusive" normal="1886" certainty="approximate">circa
@@ -764,6 +778,13 @@
 						<container>Box 85</container>
 						<unittitle>VC Unknown — Campbell, Jennie M. G., </unittitle>
 						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Box 213</container>
+						<unittitle>VC Unknown — Unidentified, </unittitle>
+						<unitdate type="inclusive" normal="1924/1933" certainty="approximate">1924 - circa 1933</unitdate>
 					</did>
 				</c02>
 			</c01>

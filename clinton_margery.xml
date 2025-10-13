@@ -2,92 +2,99 @@
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
 	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv">npv_clinton_margery </eadid>
+		<eadid countrycode="us" mainagencycode="npv">npv_clinton_margery</eadid>
 		<filedesc>
 			<titlestmt>
 				<titleproper>Guide to the Margery Clinton Papers, 1908-1966 (bulk 1908-1910)</titleproper>
 				<author>Inventory prepared by Laura Streett</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 				<date>January 2010</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Laura Streett, <date>2009</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Laura Streett, <date>2009</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
-				<persname>Clinton, Margery </persname>
+				<persname>Clinton, Margery</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> Margery Clinton Papers</unittitle>
-			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1908-1966 </unitdate>
-			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f"> 1908-1910 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 0.3 cubic feet (1 box)</physdesc>
+			<unittitle label="Title:" encodinganalog="245">Margery Clinton Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1908-1966</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1908-1910</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.2 cubic feet (1 box)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> The Margery Clinton Papers include correspondence, photographs, clippings and other materials relating to Clinton's relationship with Samuel Clemens. </abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">The Margery Clinton Papers include correspondence, photographs, clippings and other materials relating to Clinton's relationship with Samuel Clemens (Mark Twain).</abstract>
 		</did>
 		<bioghist encodinganalog="545">
-			<head>Biographical Note </head>
-			<p>Margery Hamilton Clinton (24 Jun 1887 - Feb 1980) was the daughter of Emily de S. Gorsuch and the well-known New York City architect Charles W. Clinton. The Clintons had homes in New York City as well as Tuxedo Park. According to a collection of Samuel Clemens letters edited by John Cooley (<emph render="italic">Mark Twain's Aquarium</emph>, Athens: University of Georgia Press, 1991), Margery Clinton met Clemens some time in 1907 or 1908 through a mutual friend, Mary Rogers, also of Tuxedo Park. The two struck up a friendship, and Clinton was invited on several occasions to Stormfield, Clemens' home in Redding, Connecticut. Visits and correspondence between the two continued through the rest of Clemens' life. His last existing letter to her was 17 November 1909, although there is an empty envelope in the collection postmarked from Bermuda, 10 February 1910. Clemens died 10 weeks later at Stormfield. </p>
-			<p>Clinton later married Lamar R. Leahy, a navy man who had served in WWI and was eventually made Rear Admiral. They had no children. She died in 1980 in New York at the age of 93. </p>
+			<head>Biographical Note</head>
+			<p>Margery Hamilton Clinton (24 Jun 1887 - Feb 1980) was the daughter of Emily de S. Gorsuch and the well-known New York City architect Charles W. Clinton. The Clintons had homes in New York City as well as Tuxedo Park. According to a collection of Samuel Clemens letters edited by John Cooley (<emph render="italic">Mark Twain's Aquarium</emph>, Athens: University of Georgia Press, 1991), Margery Clinton met Clemens some time in 1907 or 1908 through a mutual friend, Mary Rogers, also of Tuxedo Park. The two struck up a friendship, and Clinton was invited on several occasions to Stormfield, Clemens' home in Redding, Connecticut. Visits and correspondence between the two continued through the rest of Clemens' life. His last existing letter to her was 17 November 1909, although there is an empty envelope in the collection postmarked from Bermuda, 10 February 1910. Clemens died 10 weeks later at Stormfield.</p>
+			<p>Clinton later married Lamar R. Leahy, a navy man who had served in WWI and was eventually made Rear Admiral. They had no children. She died in 1980 in New York at the age of 93.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
 			<p>The Margery Clinton Papers include correspondence, photographs, clippings and other materials relating to Clinton's relationship with Samuel Clemens. The most significant items can be found in the correspondence. Although many of the letters are brief, Clemens corresponded with Clinton for at least two years. Most letters are about planned visits or requests for visits (for some reason Clinton is frequently referred to as "the plumber"), but the letters also include updates on Clemens' declining health. Other correspondents include Clemens' daughter Clara; his business manager, Ralph Ashcroft (sometimes referred to as "The Bishop" or "Benares"); and his secretary, Isabel Lyon. There are also two letters from Clinton to her father, one of which includes a description of a visit she and her friend Caroline Rogers had with President William Howard Taft. Armed only with a letter of introduction from Clemens, the two young women asked for and were granted a meeting with the newly
-				elected president the day before his inauguration. </p>
+				elected president the day before his inauguration.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
-			<head> Related Materials</head>
+			<head>Related Materials</head>
 			<p>
-				<archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-samuel-l-clemens-papers-1796-1984-bulk-1853-1909"> Samuel L. Clemens Papers </archref></p>
+				<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-samuel-l-clemens-papers-1796-1984-bulk-1853-1909">Samuel L. Clemens Papers</archref></p>
 		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<persname source="lcnaf" encodinganalog="600"> Twain, Mark, 1835-1910--Last years </persname>
-				<persname source="lcnaf" encodinganalog="600">Lyon, Isabel, 1863-1958 </persname>
+				<persname source="lcnaf" encodinganalog="600">Twain, Mark, 1835-1910</persname>
+				<persname source="lcnaf" encodinganalog="600">Lyon, Isabel, 1863-1958</persname>
 				<persname source="lcnaf" encodinganalog="600">Ashcroft, Ralph W.</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
-				<subject source="lcsh" encodinganalog="650"> Authors, American--20th century--Correspondence</subject>
-				<subject source="lcsh" encodinganalog="650">Humorists, American--20th century--Correspondence</subject>
+				<subject source="lcsh" encodinganalog="650">Authors, American--20th century</subject>
+				<subject source="lcsh" encodinganalog="650">Humorists, American--20th century</subject>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett, January 2010.</p>
+			<p>Encoded by Laura Streett, January 2010. Updated by Emma Gronbeck, October 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Processed by Laura Streett, January 2010</p>
+			<p>Processed by Laura Streett, January 2010.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Gift of Mrs. Nathaniel Burt, February 1982. Mrs. Burt was probably Margaret Clinton Burt, the daughter of Clinton's brother, Charles K. Clinton. </p>
+			<p>Gift of Mrs. Nathaniel Burt, February 1982. Mrs. Burt was probably Margaret Clinton Burt, the daughter of Clinton's brother, Charles K. Clinton.</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -95,182 +102,187 @@
 		</prefercite>
 		<arrangement encodinganalog="351">
 			<head>Arrangement</head>
-			<p>At some point the scrapbook was disbound. The current arrangement does not reflect original order.</p>
+			<p>At some point the scrapbook was unbound. The current arrangement does not reflect original order.</p>
 		</arrangement>
 		<dsc type="in-depth">
 			<head>Container List</head>
 			<c01 level="file">
 				<did>
 					<container>Folder 1</container>
-					<unittitle> Correspondence — Ashcroft, Ralph,</unittitle>
-					<unitdate>1909</unitdate>
+					<unittitle>Correspondence — Ashcroft, Ralph, </unittitle>
+					<unitdate type="inclusive" normal="1909">1909</unitdate>
 					<physdesc>(2 ALS)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 2</container>
-					<unittitle> Correspondence — Ashcroft, Ralph and Isabel Lyon,</unittitle>
-					<unitdate>11 Mar 1909</unitdate>
+					<unittitle>Correspondence — Ashcroft, Ralph and Isabel Lyon, </unittitle>
+					<unitdate type="inclusive" normal="19090311">1909 Mar 11</unitdate>
 					<physdesc>(1 ALS)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 3</container>
-					<unittitle> Correspondence — Clemens, Clara,</unittitle>
-					<unitdate>1910</unitdate>
+					<unittitle>Correspondence — Clemens, Clara, </unittitle>
+					<unitdate type="inclusive" normal="1910">1910</unitdate>
 					<physdesc>(1 ALS, 1 TLS, 1 sympathy acknowledgment card)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 4</container>
-					<unittitle> Correspondence — Clemens, Clara,</unittitle>
-					<unitdate>1912, 1936</unitdate>
+					<unittitle>Correspondence — Clemens, Clara, </unittitle>
+					<unitdate type="inclusive" normal="1912/1936">1912, 1936</unitdate>
 					<physdesc>(1 ALS, 1 postcard)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 5</container>
-					<unittitle> Correspondence — Clemens, Samuel L.,</unittitle>
-					<unitdate>1908</unitdate>
+					<unittitle>Correspondence — Clemens, Samuel L., </unittitle>
+					<unitdate type="inclusive" normal="1908">1908</unitdate>
 					<physdesc>(3 ALS, 1 postcard, 1 personalized invitation to his library fundraiser)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 6</container>
-					<unittitle> Correspondence — Clemens, Samuel L.,</unittitle>
-					<unitdate>Feb - Mar 1909 </unitdate>
+					<unittitle>Correspondence — Clemens, Samuel L., </unittitle>
+					<unitdate type="inclusive" normal="190902/190903">1909 Feb - Mar</unitdate>
 					<physdesc>(3 ALS, 1 transcript of letter to President Taft)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 7</container>
-					<unittitle> Correspondence — Clemens, Samuel L.,</unittitle>
-					<unitdate>Aug - Nov 1909</unitdate>
+					<unittitle>Correspondence — Clemens, Samuel L., </unittitle>
+					<unitdate type="inclusive" normal="190908/190911">1909 Aug - Nov</unitdate>
 					<physdesc>(4 ALS, 1 invitation)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 8</container>
-					<unittitle> Correspondence — Clemens, Samuel L.,</unittitle>
-					<unitdate>1909-1910</unitdate>
+					<unittitle>Correspondence — Clemens, Samuel L., </unittitle>
+					<unitdate type="inclusive" normal="1909/1910">1909-1910</unitdate>
 					<physdesc>(2 empty envelopes)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 9</container>
-					<unittitle> Correspondence — Clinton, Margery to her father,</unittitle>
-					<unitdate>1909</unitdate>
+					<unittitle>Correspondence — Clinton, Margery to her father, </unittitle>
+					<unitdate type="inclusive" normal="1909">1909</unitdate>
 					<physdesc>(1 ALS, 1 fragment)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 10</container>
-					<unittitle> Correspondence — Dilling, Mildred,</unittitle>
-					<unitdate>2 May, n.y.</unitdate>
+					<unittitle>Correspondence — Dilling, Mildred, </unittitle>
+					<unitdate type="inclusive">[no year] May 2</unitdate>
 					<physdesc>(series of 3 postcards)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 11</container>
-					<unittitle> Correspondence — Lyon, Isabel,</unittitle>
-					<unitdate>1908</unitdate>
+					<unittitle>Correspondence — Lyon, Isabel, </unittitle>
+					<unitdate type="inclusive" normal="1908">1908</unitdate>
 					<physdesc>(3 ALS)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 12</container>
-					<unittitle> Correspondence — Lyon, Isabel,</unittitle>
-					<unitdate>1909</unitdate>
+					<unittitle>Correspondence — Lyon, Isabel, </unittitle>
+					<unitdate type="inclusive" normal="1909">1909</unitdate>
 					<physdesc>(2 ALS, 1 wedding invitation, 1 calling card)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 13</container>
-					<unittitle> Correspondence — Lyon, Isabel,</unittitle>
-					<unitdate>n.d.</unitdate>
+					<unittitle>Correspondence — Lyon, Isabel, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 					<physdesc>(3 ALS)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 14</container>
-					<unittitle> Correspondence — Lyon, Mrs. G. V.,</unittitle>
-					<unitdate>1909</unitdate>
+					<unittitle>Correspondence — Lyon, Mrs. G. V., </unittitle>
+					<unitdate type="inclusive" normal="1909">1909</unitdate>
 					<physdesc>(1 ALS)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 15</container>
-					<unittitle> Correspondence — O'Shea, Beth,</unittitle>
-					<unitdate>30 Jan 1947</unitdate>
+					<unittitle>Correspondence — O'Shea, Beth, </unittitle>
+					<unitdate type="inclusive" normal="19470130">1947 Jan 30</unitdate>
 					<physdesc>(1 ALS)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 16</container>
-					<unittitle> Miscellaneous notes and scraps relating to Clinton's experiences with Clemens</unittitle>
+					<unittitle>Miscellaneous notes and scraps relating to Clinton's experiences with Clemens, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 					<physdesc>(1 SLC calling card and 5 additional items)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 17</container>
-					<unittitle> Clemens photographs [at Stormfield]</unittitle>
-					<unitdate>[1908?]</unitdate>
+					<unittitle>Clemens photographs [at Stormfield], </unittitle>
+					<unitdate type="inclusive" normal="1908">[1908?]</unitdate>
 					<physdesc>(2 sheets w/ 8 prints and 8 loose prints)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 18</container>
-					<unittitle> Stormfield guest book photocopies and related correspondence,</unittitle>
-					<unitdate>1936</unitdate>
+					<unittitle>Stormfield guest book photocopies and related correspondence, </unittitle>
+					<unitdate type="inclusive" normal="1936">1936</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 19</container>
-					<unittitle> Mark Twain memorial</unittitle>
+					<unittitle>Mark Twain memorial, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 20</container>
-					<unittitle>"Mark Twain Tonight" material,</unittitle>
-					<unitdate>1959-1966, n.d.</unitdate>
+					<unittitle>"Mark Twain Tonight" material, </unittitle>
+					<unitdate type="inclusive" normal="1959/1966">1959-1966, undated</unitdate>
 					<physdesc>(includes 2 ALS from Hal Holbrook)</physdesc>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 21</container>
-					<unittitle> Clippings</unittitle>
+					<unittitle>Clippings, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 22</container>
-					<unittitle> Miscellaneous</unittitle>
+					<unittitle>Miscellaneous, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="file">
 				<did>
 					<container>Folder 23</container>
-					<unittitle> Original scrapbook cover</unittitle>
+					<unittitle>Original scrapbook cover, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 		</dsc>

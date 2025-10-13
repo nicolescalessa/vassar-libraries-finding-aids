@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
-	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
 		<eadid countrycode="us" mainagencycode="npv">npv_dannreuther_family</eadid>
 		<filedesc>
 			<titlestmt>
@@ -9,89 +10,120 @@
 				<author>Inventory prepared by Laura Streett</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 				<date>July 2009</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Laura Streett, <date>2009</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Laura Streett, <date>2009</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Dannreuther Family</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> Dannreuther Family Papers</unittitle>
-			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1836-1988</unitdate>
+			<unittitle label="Title:" encodinganalog="245">Dannreuther Family Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f"
+				>1836-1988</unitdate>
 			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1875-1925</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">6.75 cubic feet (16 boxes) </physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">6.75 cubic feet (16 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
-				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
+				<corpname>Archives and Special Collections Library, Vassar College
+					Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, date books, sheet music, programs, clippings and scrapbooks relating to the Dannreuther Family, especially the musical careers of Gustav and Nellie Dannreuther.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, date books, sheet
+				music, programs, clippings and scrapbooks relating to the Dannreuther Family,
+				especially the musical careers of Gustav and Nellie Dannreuther.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
-			<head>Biographical Note </head>
-			<p>Gustav Dannreuther (21 July 1853 - 19 Dec 1923) was a violinist, instructor and founding member of the Dannreuther String Quartet. He was the son of Abraham Dannreuther and Sophie Fischbacker. His brother was the pianist Edward Dannreuther. </p>
-			<p> Ellen "Nellie" Morton Taylor Dannreuther (25 May 1858 - 3 July 1942), Gustav's wife, was also a noted musician. She was a pianist who performed on her own as well as with her husband. She was also an instructor, teaching privately and also for a period at Wells College. She was the daughter of Martin Taylor and Martha Gooding. Gustav and Nellie married 12 July 1882 and had three children: Walter Taylor Dannreuther, Martin Taylor Dannreuther, and Gustav Dannreuther, Jr. </p>
+			<head>Biographical Note</head>
+			<p>Gustav Dannreuther (21 July 1853 - 19 Dec 1923) was a violinist, instructor and
+				founding member of the Dannreuther String Quartet. He was the son of Abraham
+				Dannreuther and Sophie Fischbacker. His brother was the pianist Edward
+				Dannreuther.</p>
+			<p>Ellen "Nellie" Morton Taylor Dannreuther (25 May 1858 - 3 July 1942), Gustav's wife,
+				was also a noted musician. She was a pianist who performed on her own as well as
+				with her husband. She was also an instructor, teaching privately and also for a
+				period at Wells College. She was the daughter of Martin Taylor and Martha Gooding.
+				Gustav and Nellie married 12 July 1882 and had three children: Walter Taylor
+				Dannreuther, Martin Taylor Dannreuther, and Gustav Dannreuther, Jr.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Correspondence, date books, sheet music, programs, clippings and scrapbooks relating to the Dannreuther Family, especially the musical careers of Gustav and Nellie Dannreuther. Of particular note are the letters from Nellie Dannreuther to her parents while she was studying in Leipzig from 1875-1876. Related letters can be found in the correspondence of Nellie Morton, Nellie Dannreuther's aunt who served as chaperone for her and two other Buffalo girls during the trip. </p>
+			<p>Correspondence, date books, sheet music, programs, clippings and scrapbooks relating
+				to the Dannreuther Family, especially the musical careers of Gustav and Nellie
+				Dannreuther. Of particular note are the letters from Nellie Dannreuther to her
+				parents while she was studying in Leipzig from 1875-1876. Related letters can be
+				found in the correspondence of Nellie Morton, Nellie Dannreuther's aunt who served
+				as chaperone for her and two other Buffalo girls during the trip.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</extref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
-			<head> Related Materials</head>
-			<p> The chamber music belonging to the Dannreuther String Quartet was given to Vassar College by Gustav Dannreuther in 1919-1920. Much of the practical performing material was absorbed into Vassar's George Sherman Dickinson Music Library collection.</p>
+			<head>Related Materials</head>
+			<p>The chamber music belonging to the Dannreuther String Quartet was given to Vassar
+				College by Gustav Dannreuther in 1919-1920. Much of the practical performing
+				material was absorbed into Vassar's George Sherman Dickinson Music Library
+				collection.</p>
 		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<persname source="lcnaf" encodinganalog="600"> Dannreuther, Gustav</persname>
-				<persname source="local" encodinganalog="600"> Dannreuther, Ellen</persname>
+				<persname source="lcnaf" encodinganalog="600">Dannreuther, Gustav</persname>
+				<persname source="local" encodinganalog="600">Dannreuther, Ellen</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Organizations:</head>
-				<corpname source="local" encodinganalog="610"> Dannreuther String Quartet</corpname>
+				<corpname source="local" encodinganalog="610">Dannreuther String Quartet</corpname>
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
-				<subject source="lcsh" encodinganalog="650"> Musicians--Correspondence</subject>
-				<subject source="lcsh" encodinganalog="650"> Music--Instruction and study--Germany</subject>
-				<subject source="lcsh" encodinganalog="650"> Music--Germany--Leipzig--19th century</subject>
+				<subject source="lcsh" encodinganalog="650">Musicians--Correspondence</subject>
+				<subject source="lcsh" encodinganalog="650">Music--Instruction and study--Germany</subject>
+				<subject source="lcsh" encodinganalog="650">Music--Germany--Leipzig--19th century</subject>
 			</controlaccess>
 			<controlaccess>
 				<head>Places:</head>
-				<geogname source="lcnaf" encodinganalog="651"> Leipzig (Germany)--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Leipzig (Germany)--Description and travel</geogname>
 			</controlaccess>
 			<controlaccess>
-				<head> Document Types:</head>
-				<genreform source="aat" encodinganalog="655"> Scrapbooks</genreform>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Family </subject>
-				<subject source="local" encodinganalog="690"> Music </subject>
-				<subject source="local" encodinganalog="690"> Vassar College </subject>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Family</subject>
+				<subject source="local" encodinganalog="690">Music</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett, August 2009.</p>
+			<p>Encoded by Laura Streett, August 2009. Updated by Emma Gronbeck, October 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -99,52 +131,64 @@
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>15 Dannreuther scrapbooks were transferred from the Vassar College Music Library in 2009. They were loaned to that library by Nellie Dannreuther, presumably after Gustav died in 1923. The rest of the collection was given by Susan Dannreuther, July 2009. </p>
+			<p>15 Dannreuther scrapbooks were transferred from the Vassar College Music Library in
+				2009. They were loaned to that library by Nellie Dannreuther, presumably after
+				Gustav died in 1923. The rest of the collection was given by Susan Dannreuther, July
+				2009.</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p>Dannreuther Family Papers, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>Dannreuther Family Papers, Archives and Special Collections Library, Vassar College
+				Libraries.</p>
 		</prefercite>
 		<dsc type="analyticover">
 			<head>Series List</head>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series1"> Series I. </ref> Gustav Dannreuther's diaries and date books, </unittitle>
+						<ref target="series1">Series I.</ref> Gustav Dannreuther's Diaries and Date
+						Books, </unittitle>
 					<unitdate>1871-1922</unitdate>
 					<physdesc>(Boxes 5-10)</physdesc>
 				</did>
 				<scopecontent>
-					<p>The dates and the contents of the date books in this series overlap. One set is mostly personal while the other two are primarily professional.</p>
+					<p>The dates and the contents of the date books in this series overlap. One set
+						is mostly personal while the other two are primarily professional.</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series2"> Series II. </ref> Correspondence, </unittitle>
+						<ref target="series2">Series II.</ref> Correspondence, </unittitle>
 					<unitdate>1858-1988</unitdate>
 					<physdesc>(Box 11)</physdesc>
 				</did>
 				<scopecontent>
-					<p>Correspondence of significance in this series includes Nellie Dannreuther's letters home while she was studying in Leipzig, Gustav Dannreuther's letters to Nellie while he was away from home, and letters from "Auntie" Dickson, the Dannreuther's nanny, to Nellie as well as the children. Other correspondents include Nellie's aunt, Nellie Morton, and her granddaughter (Alice and Martin Taylor Dannnreuther's daughter) Susan Dannreuther.</p>
+					<p>Correspondence of significance in this series includes Nellie Dannreuther's
+						letters home while she was studying in Leipzig, Gustav Dannreuther's letters
+						to Nellie while he was away from home, and letters from "Auntie" Dickson,
+						the Dannreuther's nanny, to Nellie as well as the children. Other
+						correspondents include Nellie's aunt, Nellie Morton, and her granddaughter
+						(Alice and Martin Taylor Dannnreuther's daughter) Susan Dannreuther.</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series3"> Series III. </ref> Scrapbooks and Clippings, </unittitle>
-					<unitdate>ca. 1865-1963</unitdate>
-					<physdesc>(Boxes 11-13)</physdesc>
+						<ref target="series3">Series III.</ref> Scrapbooks and Clippings, </unittitle>
+					<unitdate>circa 1865-1963</unitdate>
+					<physdesc>(Boxes 11-15)</physdesc>
 				</did>
 				<scopecontent>
-					<p>Several volumes as well as loose material, most documenting the musical careers of Nellie and Gustav Dannreuther.</p>
+					<p>Several volumes as well as loose material, most documenting the musical
+						careers of Nellie and Gustav Dannreuther.</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series4"> Series IV. </ref> Ephemera, </unittitle>
-					<unitdate>1878-1923</unitdate>
+						<ref target="series4">Series IV.</ref> Ephemera, </unittitle>
+					<unitdate>1878-1940</unitdate>
 					<physdesc>(Boxes 9-11)</physdesc>
 				</did>
 				<scopecontent>
@@ -154,15 +198,17 @@
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series5"> Series V. </ref> Photographs, </unittitle>
-					<physdesc>(Boxes 2-4, 10)</physdesc>
+						<ref target="series5">Series V.</ref> Photographs, </unittitle>
+					<unitdate>circa 1910-1940</unitdate>
+					<physdesc>(Boxes 2-4, 10, 16)</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series6"> Series VI. </ref> Miscellaneous, </unittitle>
-					<physdesc>(Boxes 1, 10-12)</physdesc>
+						<ref target="series6">Series VI.</ref> Miscellaneous, </unittitle>
+					<unitdate>1884-1918</unitdate>
+					<physdesc>(Boxes 1, 10-12, 16)</physdesc>
 				</did>
 			</c01>
 		</dsc>
@@ -170,586 +216,629 @@
 			<head>Container List</head>
 			<c01 level="series" id="series1">
 				<did>
-					<unittitle> Gustav Dannreuther's diaries and date books </unittitle>
+					<unittitle>Series I. Gustav Dannreuther's Diaries and Date Books</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Box 5 </container>
-						<unittitle> Diaries, </unittitle>
-						<unitdate> 1905-1914 </unitdate>
-						<physdesc> (8 volumes and 2 folders) </physdesc>
+						<container>Box 5</container>
+						<unittitle>Diaries, </unittitle>
+						<unitdate type="inclusive" normal="1905/1914">1905-1914</unitdate>
+						<physdesc>(8 volumes and 2 folders)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 6 </container>
-						<unittitle> Diaries, </unittitle>
-						<unitdate> 1915-1922 </unitdate>
-						<physdesc> (8 volumes) </physdesc>
+						<container>Box 6</container>
+						<unittitle>Diaries, </unittitle>
+						<unitdate type="inclusive" normal="1915/1922">1915-1922</unitdate>
+						<physdesc>(8 volumes)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 7 </container>
-						<unittitle> Date books </unittitle>
-						<unitdate> 1901-1914 </unitdate>
-						<physdesc> (5 folders of loose sheets) </physdesc>
+						<container>Box 7</container>
+						<unittitle>Date books, </unittitle>
+						<unitdate type="inclusive" normal="1901/1914">1901-1914</unitdate>
+						<physdesc>(5 folders of loose sheets)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 8 </container>
-						<unittitle> Date books, </unittitle>
-						<unitdate> 1877-1901 </unitdate>
-						<physdesc> (15 volumes) </physdesc>
+						<container>Box 8</container>
+						<unittitle>Date books, </unittitle>
+						<unitdate type="inclusive" normal="1877/1901">1877-1901</unitdate>
+						<physdesc>(15 volumes)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 9 </container>
-						<unittitle> Date books, </unittitle>
-						<unitdate> 1902-1912 </unitdate>
-						<physdesc> (11 volumes) </physdesc>
+						<container>Box 9</container>
+						<unittitle>Date books, </unittitle>
+						<unitdate type="inclusive" normal="1902/1912">1902-1912</unitdate>
+						<physdesc>(11 volumes)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 8 </container>
-						<unittitle> Notebook, </unittitle>
-						<unitdate> ca. 1871-1872 </unitdate>
-						<physdesc> (1 volume with enclosures) </physdesc>
+						<container>Box 8</container>
+						<unittitle>Notebook, </unittitle>
+						<unitdate type="inclusive" normal="1871/1872">circa 1871-1872</unitdate>
+						<physdesc>(1 volume with enclosures)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 10 </container>
-						<unittitle> Notebook, </unittitle>
-						<unitdate> ca. 1901 </unitdate>
-						<physdesc> (1 volume) </physdesc>
+						<container>Box 10</container>
+						<unittitle>Notebook, </unittitle>
+						<unitdate type="inclusive" normal="1901">circa 1901</unitdate>
+						<physdesc>(1 volume)</physdesc>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series2">
 				<did>
-					<unittitle> Correspondence </unittitle>
+					<unittitle>Series II. Correspondence</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.1 </container>
-						<unittitle> Dannreuther, Alice Evans to Mr. and Mrs. H.C. Evans, </unittitle>
-						<unitdate> 1918-1921 </unitdate>
+						<container>Folder 11.1</container>
+						<unittitle>Dannreuther, Alice Evans to Mr. and Mrs. H.C. Evans, </unittitle>
+						<unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.2 </container>
-						<unittitle> Dannreuther, Gustav to Nellie Dannreuther, </unittitle>
-						<unitdate> 1881, 1889 </unitdate>
+						<container>Folder 11.2</container>
+						<unittitle>Dannreuther, Gustav to Nellie Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1881/1889">1881, 1889</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.3 </container>
-						<unittitle> Dannreuther, Gustav to Nellie Dannreuther, </unittitle>
-						<unitdate> 1909-1910 </unitdate>
+						<container>Folder 11.3</container>
+						<unittitle>Dannreuther, Gustav to Nellie Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1909/1910">1909-1910</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.4 </container>
-						<unittitle> Dannreuther, Gustav to Nellie Dannreuther, </unittitle>
-						<unitdate> 1920 </unitdate>
+						<container>Folder 11.4</container>
+						<unittitle>Dannreuther, Gustav to Nellie Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1920">1920</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.5 </container>
-						<unittitle> Dannreuther, Gustav to miscellaneous, </unittitle>
-						<unitdate> 1889, 1904, 1920, 1923 </unitdate>
+						<container>Folder 11.5</container>
+						<unittitle>Dannreuther, Gustav to miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1889/1923">1889, 1904, 1920,
+							1923</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.6 </container>
-						<unittitle> Dannreuther, Gustav, Jr. to Gustav Dannreuther, </unittitle>
-						<unitdate> 1920 </unitdate>
+						<container>Folder 11.6</container>
+						<unittitle>Dannreuther, Gustav, Jr. to Gustav Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1920">1920</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.7 </container>
-						<unittitle> Dannreuther, Martin Taylor to Nellie and Gustav Dannreuther, </unittitle>
-						<unitdate> 1899-1904 </unitdate>
+						<container>Folder 11.7</container>
+						<unittitle>Dannreuther, Martin Taylor to Nellie and Gustav Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1899/1904">1899-1904</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.8 </container>
-						<unittitle> Dannreuther, Martin Taylor to Nellie and Gustav Dannreuther, </unittitle>
-						<unitdate> 1912-1923 </unitdate>
+						<container>Folder 11.8</container>
+						<unittitle>Dannreuther, Martin Taylor to Nellie and Gustav Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1912/1923">1912-1923</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.9 </container>
-						<unittitle> Dannreuther, Martin Taylor to Susan Dannreuther, </unittitle>
-						<unitdate> 1926-1933, n.d. </unitdate>
+						<container>Folder 11.9</container>
+						<unittitle>Dannreuther, Martin Taylor to Susan Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1926/1933">1926-1933, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.10 </container>
-						<unittitle> Dannreuther, Martin Taylor to Mr. and Mrs. H.C. Evans, </unittitle>
-						<unitdate> 1916-1929 </unitdate>
+						<container>Folder 11.10</container>
+						<unittitle>Dannreuther, Martin Taylor to Mr. and Mrs. H.C. Evans, </unittitle>
+						<unitdate type="inclusive" normal="1916/1929">1916-1929</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.11 </container>
-						<unittitle> Dannreuther, Martin Taylor to and from miscellaneous, </unittitle>
-						<unitdate> 1904-1965 </unitdate>
+						<container>Folder 11.11</container>
+						<unittitle>Dannreuther, Martin Taylor to and from miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1904/1965">1904-1965</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.12 </container>
-						<unittitle> Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
-						<unitdate> 1870-1875 </unitdate>
+						<container>Folder 11.12</container>
+						<unittitle>Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="1870/1875">1870-1875</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.13 </container>
-						<unittitle> Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
-						<unitdate> Jan - Feb 1876 </unitdate>
+						<container>Folder 11.13</container>
+						<unittitle>Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="187601/187602">1876 Jan - Feb</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.14 </container>
-						<unittitle> Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
-						<unitdate> Mar - May 1876 </unitdate>
+						<container>Folder 11.14</container>
+						<unittitle>Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="187603/187605">1876 Mar - May</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.15 </container>
-						<unittitle> Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
-						<unitdate> June - Aug 1876 </unitdate>
+						<container>Folder 11.15</container>
+						<unittitle>Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="187606/187608">1876 June - Aug</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.16 </container>
-						<unittitle> Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
-						<unitdate> 1878-1890 </unitdate>
+						<container>Folder 11.16</container>
+						<unittitle>Dannreuther, Nellie to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="1878/1890">1878-1890</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.17 </container>
-						<unittitle> Dannreuther, Nellie to miscellaneous </unittitle>
-						<unitdate> 1874-1875, n.d. </unitdate>
+						<container>Folder 11.17</container>
+						<unittitle>Dannreuther, Nellie to miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1874/1875">1874-1875, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.18 </container>
-						<unittitle> Dannreuther, Susan to Taylor and Alice Dannreuther, </unittitle>
-						<unitdate> 1927-1966, n.d. </unitdate>
+						<container>Folder 11.18</container>
+						<unittitle>Dannreuther, Susan to Taylor and Alice Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1927/1966">1927-1966, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.19 </container>
-						<unittitle> Dannreuther, Susan to and from miscellaneous, </unittitle>
-						<unitdate> 1966-1988 </unitdate>
+						<container>Folder 11.19</container>
+						<unittitle>Dannreuther, Susan to and from miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1966/1988">1966-1988</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.20 </container>
-						<unittitle> Dickson, "Auntie" to Nellie Dannreuther, </unittitle>
-						<unitdate> 1888, 1890 1892 </unitdate>
+						<container>Folder 11.20</container>
+						<unittitle>Dickson, "Auntie" to Nellie Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1888/1892">1888, 1890 1892</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.21 </container>
-						<unittitle> Dickson, "Auntie" to Nellie Dannreuther, </unittitle>
-						<unitdate> 1893-1894 </unitdate>
+						<container>Folder 11.21</container>
+						<unittitle>Dickson, "Auntie" to Nellie Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1893/1894">1893-1894</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.22 </container>
-						<unittitle> Dickson, "Auntie" to Walter and Taylor Dannreuther, </unittitle>
-						<unitdate> 1893-1906 </unitdate>
+						<container>Folder 11.22</container>
+						<unittitle>Dickson, "Auntie" to Walter and Taylor Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1893/1906">1893-1906</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.23 </container>
-						<unittitle> Morton, Ellen "Nellie" to Nellie Dannreuther, </unittitle>
-						<unitdate> 1882, n.d. </unitdate>
+						<container>Folder 11.23</container>
+						<unittitle>Morton, Ellen "Nellie" to Nellie Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1882">1882, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.24 </container>
-						<unittitle> Morton, Ellen "Nellie" to Martha and Martin Taylor, </unittitle>
-						<unitdate> 1864-1866 </unitdate>
+						<container>Folder 11.24</container>
+						<unittitle>Morton, Ellen "Nellie" to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="1864/1866">1864-1866</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.25 </container>
-						<unittitle> Morton, Ellen "Nellie" to Martha and Martin Taylor, </unittitle>
-						<unitdate> 1867-1874 </unitdate>
+						<container>Folder 11.25</container>
+						<unittitle>Morton, Ellen "Nellie" to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="1867/1874">1867-1874</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.26 </container>
-						<unittitle> Morton, Ellen "Nellie" to Martha and Martin Taylor, </unittitle>
-						<unitdate> 1875-1880, n.d. </unitdate>
+						<container>Folder 11.26</container>
+						<unittitle>Morton, Ellen "Nellie" to Martha and Martin Taylor, </unittitle>
+						<unitdate type="inclusive" normal="1875/1880">1875-1880, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.27 </container>
-						<unittitle> Morton, Ellen "Nellie" to miscellaneous, </unittitle>
-						<unitdate> ca. 1875-1876 </unitdate>
+						<container>Folder 11.27</container>
+						<unittitle>Morton, Ellen "Nellie" to miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1875/1876">circa 1875-1876</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.28 </container>
-						<unittitle> Taylor, Martin to his family, </unittitle>
-						<unitdate> 1858-1859, 1875-1880 </unitdate>
+						<container>Folder 11.28</container>
+						<unittitle>Taylor, Martin to his family, </unittitle>
+						<unitdate type="inclusive" normal="1858/1880">1858-1859,
+							1875-1880</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.29 </container>
-						<unittitle> Miscellaneous to Alice Dannreuther, </unittitle>
-						<unitdate> 1950-1962, n.d. </unitdate>
+						<container>Folder 11.29</container>
+						<unittitle>Miscellaneous to Alice Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1950/1962">1950-1962, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.30 </container>
-						<unittitle> Miscellaneous to Gustav Dannreuther, </unittitle>
-						<unitdate> 1876-1922 </unitdate>
+						<container>Folder 11.30</container>
+						<unittitle>Miscellaneous to Gustav Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1876/1922">1876-1922</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.31 </container>
-						<unittitle> Miscellaneous to Nellie Dannreuther, </unittitle>
-						<unitdate> 1873-1896, 1907, n.d. </unitdate>
+						<container>Folder 11.31</container>
+						<unittitle>Miscellaneous to Nellie Dannreuther, </unittitle>
+						<unitdate type="inclusive" normal="1873/1907">1873-1896, 1907,
+							undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.32 </container>
-						<unittitle> Miscellaneous Dannreuther Family concerning Gustav's death, </unittitle>
-						<unitdate> 1923 </unitdate>
+						<container>Folder 11.32</container>
+						<unittitle>Miscellaneous Dannreuther Family concerning Gustav's death, </unittitle>
+						<unitdate type="inclusive" normal="1923">1923</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.33 </container>
-						<unittitle> Miscellaneous Evans/Dannreuther Family, </unittitle>
-						<unitdate> 1916-1949 </unitdate>
+						<container>Folder 11.33</container>
+						<unittitle>Miscellaneous Evans/Dannreuther Family, </unittitle>
+						<unitdate type="inclusive" normal="1916/1949">1916-1949</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.34 </container>
-						<unittitle> Miscellaneous Taylor Family, </unittitle>
-						<unitdate> 1836-1891 </unitdate>
+						<container>Folder 11.34</container>
+						<unittitle>Miscellaneous Taylor Family, </unittitle>
+						<unitdate type="inclusive" normal="1836/1891">1836-1891</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.35 </container>
-						<unittitle> Miscellaneous, </unittitle>
-						<unitdate> 1914-1945, n.d. </unitdate>
+						<container>Folder 11.35</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1914/1945">1914-1945, undated</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series3">
 				<did>
-					<unittitle> Scrapbooks and Clippings </unittitle>
+					<unittitle>Series III. Scrapbooks and Clippings</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Scrapbook of Gustav and Nellie Dannreuther family material, </unittitle>
-						<unitdate> 1882-1963 </unitdate>
-						<physdesc> (includes list) </physdesc>
+						<container>Box 12</container>
+						<unittitle>Scrapbook of Gustav and Nellie Dannreuther family material, </unittitle>
+						<unitdate type="inclusive" normal="1882/1963">1882-1963</unitdate>
+						<physdesc>(includes list)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Scrapbook of <emph render="italic">Berkshire Gleaner</emph> clippings as well as earlier family-related clippings and ephemera, </unittitle>
-						<unitdate> 1881-1910 </unitdate>
+						<container>Box 12</container>
+						<unittitle>Scrapbook ofBerkshire Gleanerclippings as well as earlier
+							family-related clippings and ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1881/1910">1881-1910</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 13-15 </container>
-						<unittitle> Scrapbooks of clippings and ephemera related to the Dannreuther's musical careers, including the Dannreuther Quartet and the Beethoven String Quartet, </unittitle>
-						<unitdate> ca 1865 - 1922 </unitdate>
-						<physdesc> (15 volumes) </physdesc>
+						<container>Boxes 13-15</container>
+						<unittitle>Scrapbooks of clippings and ephemera related to the Dannreuther's
+							musical careers, including the Dannreuther Quartet and the Beethoven
+							String Quartet, </unittitle>
+						<unitdate type="inclusive" normal="1865/1922">ca 1865 - 1922</unitdate>
+						<physdesc>(15 volumes)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Scrapbook of Chamber Music Club material, </unittitle>
-						<unitdate> 1889-1900 </unitdate>
+						<container>Box 12</container>
+						<unittitle>Scrapbook of Chamber Music Club material, </unittitle>
+						<unitdate type="inclusive" normal="1889/1900">1889-1900</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Scrapbook of Yale University Chamber Music concerts, </unittitle>
-						<unitdate> 1888-1896 </unitdate>
+						<container>Box 12</container>
+						<unittitle>Scrapbook of Yale University Chamber Music concerts, </unittitle>
+						<unitdate type="inclusive" normal="1888/1896">1888-1896</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Loose scrapbook of material about Edward Dannreuther and other composers </unittitle>
+						<container>Box 12</container>
+						<unittitle>Loose scrapbook of material about Edward Dannreuther and other
+							composers, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.36 </container>
-						<unittitle> Loose clippings regarding the Dannreuther Quartet — research photocopies </unittitle>
+						<container>Folder 11.36</container>
+						<unittitle>Loose clippings regarding the Dannreuther Quartet — research
+							photocopies, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.37 </container>
-						<unittitle> Loose clippings regarding the Dannreuther Quartet — originals </unittitle>
+						<container>Folder 11.37</container>
+						<unittitle>Loose clippings regarding the Dannreuther Quartet — originals, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series4">
 				<did>
-					<unittitle> Ephemera </unittitle>
+					<unittitle>Series IV. Ephemera</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.38 </container>
-						<unittitle> Programs, </unittitle>
-						<unitdate> 1878-1912, 1940 </unitdate>
+						<container>Folder 11.38</container>
+						<unittitle>Programs, </unittitle>
+						<unitdate type="inclusive" normal="1878/1940">1878-1912, 1940</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.39 </container>
-						<unittitle> Programs — laminated, </unittitle>
-						<unitdate> 1908, 1923, n.d. </unitdate>
+						<container>Folder 11.39</container>
+						<unittitle>Programs — laminated, </unittitle>
+						<unitdate type="inclusive" normal="1908/1923">1908, 1923, undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 10 </container>
-						<unittitle> Programs — oversized </unittitle>
+						<container>Box 10</container>
+						<unittitle>Programs — oversized, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 9 </container>
-						<unittitle> Gustav Dannreuther's calling cards </unittitle>
-						<physdesc> (3 cards in a leather sleeve) </physdesc>
+						<container>Box 9</container>
+						<unittitle>Gustav Dannreuther's calling cards, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(3 cards in a leather sleeve)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.40 </container>
-						<unittitle> Booklets, etc. </unittitle>
+						<container>Folder 11.40</container>
+						<unittitle>Booklets, etc., </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.41 </container>
-						<unittitle> Miscellaneous </unittitle>
+						<container>Folder 11.41</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series5">
 				<did>
-					<unittitle> Photographs </unittitle>
+					<unittitle>Series V. Photographs</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Boxes 3-4, 16 </container>
-						<unittitle> Gustav Dannreuther </unittitle>
+						<container>Boxes 3-4</container>
+						<unittitle>Gustav Dannreuther, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 3-4 </container>
-						<unittitle> Nellie Taylor Dannreuther </unittitle>
+						<container>Boxe 16</container>
+						<unittitle>Gustav Dannreuther, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 3-4 </container>
-						<unittitle> Dannreuther Children </unittitle>
+						<container>Boxes 3-4</container>
+						<unittitle>Nellie Taylor Dannreuther, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 3-4 </container>
-						<unittitle> Other Family and Friends </unittitle>
+						<container>Boxes 3-4</container>
+						<unittitle>Dannreuther Children, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Boxes 3-4 </container>
-						<unittitle> Musicians (inc Dannreuther String Quartet) </unittitle>
+						<container>Boxes 3-4</container>
+						<unittitle>Other Family and Friends, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 10, 16 </container>
-						<unittitle> Dannreuther String Quartet </unittitle>
+						<container>Boxes 3-4</container>
+						<unittitle>Musicians (including Dannreuther String Quartet), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 2 </container>
-						<unittitle> Miscellaneous negatives </unittitle>
-						<unitdate> ca. 1910-1940 </unitdate>
+						<container>Boxes 10, 16</container>
+						<unittitle>Dannreuther String Quartet, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 2</container>
+						<unittitle>Miscellaneous negatives, </unittitle>
+						<unitdate type="inclusive" normal="1910/1940">circa 1910-1940</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series6">
 				<did>
-					<unittitle> Miscellaneous </unittitle>
+					<unittitle>Series VI. Miscellaneous</unittitle>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folders 11.42-11.44 </container>
-						<unittitle> Family and genealogical material </unittitle>
+						<container>Folders 11.42-11.44</container>
+						<unittitle>Family and genealogical material, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.45 </container>
-						<unittitle> Nellie and Gustav Dannreuther </unittitle>
+						<container>Folder 11.45</container>
+						<unittitle>Nellie and Gustav Dannreuther, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.46 </container>
-						<unittitle> Nellie and Gustav Dannreuther — Finances </unittitle>
+						<container>Folder 11.46</container>
+						<unittitle>Nellie and Gustav Dannreuther — Finances, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 10 </container>
-						<unittitle> Gustav Dannreuther — Publishing contract for his violin studies book, </unittitle>
-						<unitdate> 1892 </unitdate>
+						<container>Box 10</container>
+						<unittitle>Gustav Dannreuther — Publishing contract for his violin studies
+							book, </unittitle>
+						<unitdate type="inclusive" normal="1892">1892</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Gustav Dannreuther — Bound, annotated sheet music </unittitle>
-						<physdesc> ( 2 volumes) </physdesc>
+						<container>Box 12</container>
+						<unittitle>Gustav Dannreuther — Bound, annotated sheet music, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(2 volumes)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Gustav Dannreuther — Address book </unittitle>
+						<container>Box 12</container>
+						<unittitle>Gustav Dannreuther — Address book, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.47 </container>
-						<unittitle> Martin Taylor Dannreuther — Death </unittitle>
+						<container>Folder 11.47</container>
+						<unittitle>Martin Taylor Dannreuther — Death, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folders 11.48 - 11.49 </container>
-						<unittitle> Martin Taylor Dannreuther — Business records </unittitle>
+						<container>Folders 11.48 - 11.49</container>
+						<unittitle>Martin Taylor Dannreuther — Business records, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.50 </container>
-						<unittitle> Edward Dannreuther </unittitle>
+						<container>Folder 11.50</container>
+						<unittitle>Edward Dannreuther, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.51 </container>
-						<unittitle> Dannreuther Quintet — Finances </unittitle>
+						<container>Folder 11.51</container>
+						<unittitle>Dannreuther Quintet — Finances, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 12 </container>
-						<unittitle> Dannreuther Quartet — Account book for "Orchestra Engagements," </unittitle>
-						<unitdate> 1901-1910 </unitdate>
+						<container>Box 12</container>
+						<unittitle>Dannreuther Quartet — Account book for "Orchestra Engagements," </unittitle>
+						<unitdate type="inclusive" normal="1901/1910">1901-1910</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.52 </container>
-						<unittitle> Dannreuther piano sale </unittitle>
+						<container>Folder 11.52</container>
+						<unittitle>Dannreuther piano sale, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 10 </container>
-						<unittitle> William C. Cornwell's <emph render="italic">Book of the Programmes of the Buffalo Philharmonic Society for the Season of 1884-1885</emph>
-						</unittitle>
-						<physdesc> (2 copies) </physdesc>
+						<container>Box 10</container>
+						<unittitle>William C. Cornwell's Book of the Programmes of the Buffalo
+							Philharmonic Society, </unittitle>
+						<unitdate type="inclusive" normal="1884/1885">1884-1885</unitdate>
+						<physdesc>(2 copies)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 1 </container>
-						<unittitle> Musical Mutual Protective Union directories, </unittitle>
-						<unitdate> 1891-1918 </unitdate>
-						<physdesc> (23 volumes) </physdesc>
+						<container>Box 1</container>
+						<unittitle>Musical Mutual Protective Union directories, </unittitle>
+						<unitdate type="inclusive" normal="1891/1918">1891-1918</unitdate>
+						<physdesc>(23 volumes)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 10 </container>
-						<unittitle> Philharmonic Society of New York </unittitle>
-						<unitdate> 1890-1906 </unitdate>
-						<physdesc> (1 folder) </physdesc>
+						<container>Box 10</container>
+						<unittitle>Philharmonic Society of New York, </unittitle>
+						<unitdate type="inclusive" normal="1890/1906">1890-1906</unitdate>
+						<physdesc>(1 folder)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Box 10 </container>
-						<unittitle> Painting of Walter Dannreuther's home in Lee, MA </unittitle>
+						<container>Box 10</container>
+						<unittitle>Painting of Walter Dannreuther's home in Lee, MA, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 16 </container>
-						<unittitle> Miscellaneous musical manuscripts </unittitle>
+						<container>Box 16</container>
+						<unittitle>Miscellaneous musical manuscripts, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 11.53 </container>
-						<unittitle> Miscellaneous </unittitle>
+						<container>Folder 11.53</container>
+						<unittitle>Miscellaneous, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 			</c01>

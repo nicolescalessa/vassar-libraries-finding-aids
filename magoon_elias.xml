@@ -2,8 +2,7 @@
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
 	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv">npv_magoon_elias
-		</eadid>
+		<eadid countrycode="us" mainagencycode="npv">npv_magoon_elias</eadid>
 		<filedesc>
 			<titlestmt>
 				<titleproper>Guide to the Elias L. Magoon Papers, 1861-1885</titleproper>
@@ -11,29 +10,29 @@
 			<publicationstmt>
 				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 				<date>May 2021</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Mark Seidl <date>May 2021</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Mark Seidl <date>May 2021</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Magoon, Elias Lyman</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245">Elias L. Magoon Papers,</unittitle>
+			<unittitle label="Title:" encodinganalog="245">Elias L. Magoon Papers</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1861-1885</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">0.5 cubic feet (1 box)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.2 cubic feet (1 box)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, reports, and other materials related to the Vassar College art gallery.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">This collection consists of correspondence, reports, and other materials created or collected by Elias Magoon, most of which are related to the Vassar College Art Gallery.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note </head>
@@ -41,30 +40,36 @@
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>This collection consists of correspondence, reports, and other materials related to the Vassar College art gallery.</p>
+			<p>This collection consists of correspondence, reports, and other materials created or collected by Elias Magoon, most of which are related to the Vassar College Art Gallery.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<subject source="lcnaf" encodinganalog="610">Vassar College--Art Gallery</subject>
+				<persname source="lcnaf" encodinganalog="600">Vassar, Matthew, 1792-1868</persname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College--Art Gallery</corpname>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Vassar College Trustees </subject>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Trustees</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Mark Seidl, May 2021</p>
+			<p>Encoded by Mark Seidl, May 2021. Updated by Emma Gronbeck, October 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -82,97 +87,102 @@
 			<head>Container List</head>
 			<c01 level="item">
 				<did>
-					<container>1.1</container>
-					<unittitle>Letters from Magoon to Samuel Caldwell,</unittitle>
-					<unitdate>1883-1884</unitdate>
+					<container>Folder 1</container>
+					<unittitle>Letters from Elias Magoon to Samuel Caldwell, </unittitle>
+					<unitdate type="inclusive" normal="1883/1884">1883-1884</unitdate>
+					<physdesc>[2 letters]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.2</container>
-					<unittitle>Letters from Magoon to Registrar Willard L. Dean,</unittitle>
-					<unitdate>1885</unitdate>
+					<container>Folder 2</container>
+					<unittitle>Letter from Elias Magoon to Registrar Willard L. Dean, </unittitle>
+					<unitdate type="inclusive" normal="1885">1885</unitdate>
+					<physdesc>[1 letter]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.3</container>
-					<unittitle> Letters from Magoon to Lossing,</unittitle>
-					<unitdate>1865-1872</unitdate>
+					<container>Folder 3</container>
+					<unittitle>Letters from Elias Magoon to Benson J. Lossing, </unittitle>
+					<unitdate type="inclusive" normal="1865/1872">1865-1872</unitdate>
+					<physdesc>[3 letters]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.4</container>
-					<unittitle>Letters from Magoon to John Raymond, President</unittitle>
-					<unitdate>1875-1877</unitdate>
+					<container>Folder 4</container>
+					<unittitle>Letters from Elias Magoon to President John Raymond, </unittitle>
+					<unitdate type="inclusive" normal="1875/1877">1875-1877</unitdate>
+					<physdesc>[2 letters]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.5</container>
-					<unittitle>Letters from Magoon to Matthew Vassar,</unittitle>
-					<unitdate>1861-1864</unitdate>
+					<container>Folder 5</container>
+					<unittitle>Letters from Elias Magoon to Matthew Vassar, </unittitle>
+					<unitdate type="inclusive" normal="186101/186408">1861 Jan - 1864 Aug</unitdate>
+					<physdesc>[9 letters]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.6</container>
-					<unittitle>Letters from Magoon to Matthew Vassar</unittitle>
-					<unitdate>1864</unitdate>
+					<container>Folder 6</container>
+					<unittitle>Letters from Elias Magoon to Matthew Vassar, </unittitle>
+					<unitdate type="inclusive" normal="186410/186411">1864 Oct-Nov</unitdate>
+					<physdesc>[6 letters]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.7</container>
-					<unittitle>Letters from Magoon to Martin B. Anderson</unittitle>
-					<unitdate>1838-1883</unitdate>
-					<physdesc>(Photocopies of originals at the University of Rochester)</physdesc>
+					<container>Folder 7</container>
+					<unittitle>Letters from Elias Magoon to Martin B. Anderson, </unittitle>
+					<unitdate type="inclusive" normal="1838/1883">1838-1883</unitdate>
+					<physdesc>[Photocopies. Originals at the University of Rochester]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.8</container>
-					<unittitle>Letters from Magoon to others</unittitle>
-					<unitdate>1860-1882</unitdate>
-					<physdesc>(Photocopies of originals at the University of Rochester)</physdesc>
+					<container>Folder 8</container>
+					<unittitle>Letters from Elias Magoon to others, </unittitle>
+					<unitdate type="inclusive" normal="1860/1882">1860-1882</unitdate>
+					<physdesc>(Photocopies. Originals at the University of Rochester]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.9</container>
-					<unittitle>Catalogue of the Art Gallery given to Cyrus Swan,</unittitle>
-					<unitdate>undated</unitdate>
+					<container>Folder 9</container>
+					<unittitle>Catalogue of the Art Gallery given to Cyrus Swan, </unittitle>
+					<unitdate type="inclusive" normal="1864">1864</unitdate>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.10</container>
-					<unittitle>Report of the Committee on the Art Gallery,</unittitle>
-					<unitdate>1864</unitdate>
+					<container>Folder 10</container>
+					<unittitle>"Report of the Committee on the Art Gallery of Vassar Female College," </unittitle>
+					<unitdate type="inclusive" normal="1864">1864</unitdate>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.11</container>
-					<unittitle>Reports of the Committee on the Art Gallery</unittitle>
-					<unitdate>1864</unitdate>
-					<physdesc>(2 reports)</physdesc>
+					<container>Folder 11</container>
+					<unittitle>Reports of the Committee on the Art Gallery, </unittitle>
+					<unitdate type="inclusive" normal="186402/186406">1864 Feb-Jun</unitdate>
+					<physdesc>[2 reports]</physdesc>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.12</container>
-					<unittitle>Magoon autograph,</unittitle>
-					<unitdate>undated</unitdate>
+					<container>Folder 12</container>
+					<unittitle>Elias Magoon autograph, </unittitle>
+					<unitdate type="inclusive">undated</unitdate>
 				</did>
 			</c01>
 			<c01 level="item">
 				<did>
-					<container>1.13</container>
-					<unittitle>Receipt from Appleton and Co. to Magoon,</unittitle>
-					<unitdate/>
-					<physdesc>(1858)</physdesc>
+					<container>Folder 13</container>
+					<unittitle>Receipt from Appleton and Co. to Elias Magoon, </unittitle>
+					<unitdate type="inclusive" normal="18580608">1858 Jun 8</unitdate>
 				</did>
 			</c01>
 		</dsc>

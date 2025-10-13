@@ -5,50 +5,51 @@
     <eadid countrycode="us" mainagencycode="npv">npv_cummings_ee</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Guide to the E. E. Cummings Collection</titleproper>
+        <titleproper>Guide to the E. E. Cummings Collection, undated</titleproper>
         <author>Inventory prepared by Archives and Special Collections Library Staff.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+        <publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
         <address>
-          <addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+          <addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
         </address>
         <date>12 May 2005</date>
       </publicationstmt>
     </filedesc>
     <profiledesc>
       <creation>Finding aid encoded by Jason Kovari, <date>24 Feb 2009.</date></creation>
-      <langusage>Finding aid written in<language>English.</language></langusage>
+      <langusage>Finding aid written in <language>English.</language></langusage>
     </profiledesc>
   </eadheader>
   <archdesc level="collection" type="inventory">
     <did>
-      <head> Collection Summary</head>
+      <head>Collection Summary</head>
       <origination label="Creator:" encodinganalog="100">
-        <persname>Page, Barbara</persname>
+        <persname>Cummings, E. E. (Edward Estlin), 1894-1962</persname>
       </origination>
-      <unittitle label="Title:" encodinganalog="245">E. E. Cummings Collection.</unittitle>
-      <physdesc label="Quantity:" encodinganalog="300$a">0.01 cubic feet (1 box)</physdesc>
+      <unittitle label="Title:" encodinganalog="245">E. E. Cummings Collection</unittitle>
+      <unitdate type="inclusive" label="Dates:" encodinganalog="245$f">undated</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">0.1 cubic feet (1 box)</physdesc>
       <repository label="Repository:" encodinganalog="852$a">
         <corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
       </repository>
-      <abstract label="Abstract:" encodinganalog="520$a">The E. E. Cummings Collection includes 2 pencil sketches.</abstract>
+      <abstract label="Abstract:" encodinganalog="520$a">The E. E. Cummings Collection includes 2 undated pencil sketches.</abstract>
     </did>
     <bioghist encodinganalog="545">
       <head>Biographical Note</head>
-      <p>Born 14 October 1894 in Cambridge, Massachusetts, Cummings was amongst the most read poets of the late 20th-century. He died 3 September 1962.</p>
+      <p>Born 14 October 1894 in Cambridge, Massachusetts, E. E. Cummings was amongst the most read poets of the late 20th-century. He died on 3 September 1962.</p>
     </bioghist>
     <scopecontent encodinganalog="520">
       <head>Scope and Content Note</head>
-      <p>The E. E. Cummings Collection includes 2 pencil sketches, one of a reclining nude and the other of a couple in an erotic pose.</p>
+      <p>The E. E. Cummings Collection includes 2 pencil sketches, one of a reclining nude and the other of a couple in an erotic pose, both undated.</p>
     </scopecontent>
     <accessrestrict encodinganalog="506">
       <head>Access</head>
-      <p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+      <p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
     </accessrestrict>
     <userestrict encodinganalog="540">
       <head>Restrictions on Use</head>
-      <p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+      <p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
     </userestrict>
     <controlaccess>
       <head>Subject Headings</head>
@@ -61,8 +62,8 @@
         <genreform source="aat" encodinganalog="655">Life drawings</genreform>
       </controlaccess>
       <controlaccess>
-        <head>VCL Categories</head>
-        <subject source="local" encodinganalog="690"> Art and Artists </subject>
+        <head>VCL Categories:</head>
+        <subject source="local" encodinganalog="690">Art and Artists</subject>
       </controlaccess>
     </controlaccess>
     <odd encodinganalog="500">
@@ -77,9 +78,5 @@
       <head>Preferred Citation</head>
       <p>E. E. Cummings Collection, Archives and Special Collections Library, Vassar College Libraries.</p>
     </prefercite>
-    <dsc type="analyticover">
-      <head>Container List</head>
-      <p>There is no container list currently available for this collection.</p>
-    </dsc>
   </archdesc>
 </ead>

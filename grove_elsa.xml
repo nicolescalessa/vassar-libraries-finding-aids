@@ -2,14 +2,14 @@
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
 	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv">npv_grove_elsa </eadid>
+		<eadid countrycode="us" mainagencycode="npv">npv_grove_elsa</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the Elsa Butler Grove Papers, 1921-1969</titleproper>
+				<titleproper>Guide to the Elsa Butler Grove Papers, circa 1915-1969 (bulk 1919-1924)</titleproper>
 				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
 					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
@@ -17,86 +17,92 @@
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Elizabeth Clarke <date>April 2007</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Elizabeth Clarke, <date>April 2007</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Grove, Elsa Butler, 1884-1969</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> Elsa Butler Grove Papers</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1921-1969 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 0.5 cubic feet (2 boxes) </physdesc>
+			<unittitle label="Title:" encodinganalog="245">Elsa Butler Grove Papers</unittitle>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">circa 1915-1969</unitdate>
+			<unitdate type="inclusive" label="Bulk Dates:" encodinganalog="245$f">1919-1924</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.4 cubic feet (1 box)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> The Elsa Butler Grove Collection contains correspondence, typescripts, printed materials and photographs. The most notable portions of the collection relate to her service in the Baltic States and work with the American Red Cross and the Vassar Unit in France during World War I. There is also material related to the proposed establishment of an archives at Vassar College, miscellaneous printed material, and some biographical material.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">The Elsa Butler Grove Papers contains correspondence, typescripts, printed materials, and photographs, primarily related to Grove's service in the Baltic States and work with the American Red Cross and the Vassar Unit in France during World War I.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note </head>
-			<p>Elsa May Butler was born in St. Louis, Missouri on May 16, 1884, the daughter of William Borton and Marie Lange Butler. A 1905 graduate of Vassar College, Grove received her master's degree from the Washington University School of Social Work (1914) and was a fellow at Bryn Mawr (1915-1916). She later became a student at Columbia University Graduate School of Political Science where she studied economics, sociology, and anthropology.</p>
-			<p>Elsa devoted much of her life to medical social work. During World War I, she was in charge of the Vassar College Red Cross welfare unit at Verdun, France (1918) and was decorated by the French government for her services. On June 14, 1921, Grove began an one-year position directing social work in child relief units in Latvia, Estonia and Lithuania for the American Red Cross. During this period of service in the Baltic States, she took extensive notes on the conditions witnessed by the inhabitants of Latvia. Her observations provide the reader with an account of the difficulties of conducting health work overseas, in terms of those administering aid as well as those who are receiving the assistance.</p>
-			<p>Upon her return to the United States, Grove taught hospital service at Teacher's College of Columbia University, Fordham University, Dillard University, Smith College, and Mt. Sinai Hospital (1923-1942). She served as President of the Class of 1905, Vassar College (1935-1940) and was active in numerous professional societies, including the New York Urban League, the National Institute of Immigration Welfare and the American Association of Social Workers.</p>
+			<p>Elsa May Butler was born in St. Louis, Missouri on May 16, 1884, the daughter of William Borton and Marie Lange Butler. A 1905 graduate of Vassar College, Grove received her master's degree from the Washington University School of Social Work in 1914 and was a fellow at Bryn Mawr from 1915-1916. She later became a student at Columbia University Graduate School of Political Science, where she studied economics, sociology, and anthropology.</p>
+			<p>Elsa devoted much of her life to medical social work. During World War I, she was in charge of the Vassar College Red Cross welfare unit at Verdun, France and was decorated by the French government for her services. On June 14, 1921, Grove began an one-year position directing social work in child relief units in Latvia, Estonia and Lithuania for the American Red Cross. During this period of service in the Baltic States, she took extensive notes on the conditions witnessed by the inhabitants of Latvia. Her observations provide an account of the difficulties of conducting health work overseas, in terms of those administering aid as well as those who are receiving the assistance.</p>
+			<p>Upon her return to the United States, Grove taught hospital service at Teacher's College of Columbia University, Fordham University, Dillard University, Smith College, and Mt. Sinai Hospital (1923-1942). She served as President of the Class of 1905, Vassar College from 1935 to 1940, and was active in numerous professional societies, including the New York Urban League, the National Institute of Immigration Welfare, and the American Association of Social Workers.</p>
 			<p>In preparation for Vassar's 100th Anniversary, Grove took a determined interest in the campaign for the establishment of a Women's Archives at Vassar College. It was her considered belief that the gathering of an extensive collection of materials relating to the role of women throughout history would serve as a valuable tool in the betterment of Vassar's academic resources.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Papers primarily concern her work with the American Red Cross and include correspondence, 1921-1924; her diary with entries about her Baltic experiences, 1921; typescript article about government, children, women, labor, and charity work in the Baltic States based on her work there, 1921-1922; photographs of Grove and of Verdun, 1936 and undated; and miscellaneous maps, booklets, and articles. Other items include eight letters relating to the proposed Vassar Archives, 1956; and her obituary, 1969. In addition, there is an unbound scrapbook containing, correspondence, notes, and photographs of her work with the Vassar Unit in France, 1919-1920.</p>
+			<p>The collection primarily contains records of Elsa Butler Grove's work with the American Red Cross, and includes correspondence, 1921-1924; a diary with entries about her Baltic experiences, 1921; typescript articles about government, children, women, labor, and charity work in the Baltic States based on her work there, 1921-1922; photographs of Grove and Verdun; and miscellaneous maps, booklets, and articles. Other items include eight letters relating to the proposed Vassar Archives, 1956; and her obituary, 1969. In addition, there is an unbound scrapbook containing, correspondence, notes, and photographs of her work with the Vassar Unit in France, 1919-1920.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Materials</head>
+			<p><archref href="https://digitallibrary.vassar.edu/collections/finding-aids/2f90c74a-b687-4dcd-b70a-1c952ac3fd7a">Vassar Red Cross Relief Unit</archref></p>
+		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Organizations:</head>
-				<corpname source="lcnaf" encodinganalog="610"> American Red Cross</corpname>
-				<corpname source="lcnaf" encodinganalog="610"> Vassar College. Vassar Archives</corpname>
+				<corpname source="lcnaf" encodinganalog="610">American Red Cross</corpname>
+				<persname source="local" encodinganalog="600">Townsend, Fanny P. Simpson, 1881-1970</persname>
+				<corpname source="local" encodinganalog="610">Vassar Red Cross Relief Unit</corpname>
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
-				<subject source="lcsh" encodinganalog="650"> Charities--Baltic States</subject>
-				<subject source="lcsh" encodinganalog="650"> Women--Baltic States</subject>
-				<subject source="lcsh" encodinganalog="650"> Social work with children</subject>
-				<subject source="lcsh" encodinganalog="650"> Children--Baltic States</subject>
-				<subject source="lcsh" encodinganalog="650"> Labor and laboring classes--Baltic States</subject>
-				<subject source="lcsh" encodinganalog="650"> Medical social work--Europe</subject>
-				<subject source="lcsh" encodinganalog="650"> Women--Diaries</subject>
-				<subject source="lcsh" encodinganalog="650"> International relief</subject>
-				<subject source="lcsh" encodinganalog="650"> World War, 1914-1918--War work--Red Cross</subject>
-				<subject source="lcsh" encodinganalog="650"> Women social workers</subject>
+				<subject source="lcsh" encodinganalog="650">Charities--Baltic States</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Baltic States</subject>
+				<subject source="lcsh" encodinganalog="650">Social work with children</subject>
+				<subject source="lcsh" encodinganalog="650">Children--Baltic States</subject>
+				<subject source="lcsh" encodinganalog="650">Labor and laboring classes--Baltic States</subject>
+				<subject source="lcsh" encodinganalog="650">Medical social work--Europe</subject>
+				<subject source="lcsh" encodinganalog="650">Women--Diaries</subject>
+				<subject source="lcsh" encodinganalog="650">International relief</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1914-1918--War work--Red Cross</subject>
+				<subject source="lcsh" encodinganalog="650">Women social workers</subject>
 			</controlaccess>
 			<controlaccess>
 				<head>Places:</head>
-				<geogname source="lcnaf" encodinganalog="651"> Latvia--Description and travel</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Estonia--Description and travel</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Lithuania--Description and travel</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Baltic States--Politics and government</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Baltic States--Social conditions</geogname>
-				<geogname source="lcnaf" encodinganalog="651"> Verdun (France)--Description--Views</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Latvia--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Estonia--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Lithuania--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Baltic States--Politics and government</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Baltic States--Social conditions</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Verdun (France)--Description--Views</geogname>
 			</controlaccess>
 			<controlaccess>
-				<head> Document Types:</head>
-				<genreform source="aat" encodinganalog="655"> Diaries</genreform>
-				<genreform source="aat" encodinganalog="655"> Maps</genreform>
-				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> War and War Crimes </subject>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">War and War Crimes</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Elizabeth Clarke, April 2007.</p>
+			<p>Encoded by Elizabeth Clarke, April 2007. Updated by Emma Gronbeck, October 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -105,7 +111,7 @@
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Gift of Elsa Butler Grove.</p>
+			<p>Gift of Elsa Butler Grove, 1955.</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -116,543 +122,111 @@
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series1"> Series I. </ref> Correspondence</unittitle>
-					<physdesc>(Box 1)</physdesc>
+						<ref target="series1">Series I. </ref> Correspondence, </unittitle>
+					<unitdate type="inclusive" normal="1919/1924">1919-1924</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series2">Series II.</ref> Unpublished Transcripts by Grove</unittitle>
-					<physdesc>(Box 1</physdesc>
+						<ref target="series2">Series II.</ref> Writings, </unittitle>
+					<unitdate type="inclusive" normal="1921/1954">1921-1954</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series3">Series III.</ref> Printed Materials</unittitle>
-					<physdesc>(Box 1)</physdesc>
+						<ref target="series3">Series III.</ref> Printed Materials, </unittitle>
+					<unitdate type="inclusive" normal="1915/1969">circa 1915-1969</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series4">Series IV.</ref> Diary </unittitle>
-					<physdesc>(Box 1)</physdesc>
+						<ref target="series4">Series IV.</ref> Photographs, </unittitle>
+					<unitdate type="inclusive" normal="1919/1936">circa 1919-1936</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series5">Series V.</ref> Photographs </unittitle>
-					<physdesc>(Box 1)</physdesc>
-				</did>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unittitle>
-						<ref target="series6">Series VI.</ref> Scrapbook</unittitle>
-					<physdesc>(Box 2)</physdesc>
-				</did>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unittitle>
-						<ref target="series7">Series VII.</ref> Fragments </unittitle>
-					<physdesc>(Box 2)</physdesc>
+						<ref target="series5">Series V.</ref> Vassar Unit Scrapbook, </unittitle>
+					<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
 				</did>
 			</c01>
 		</dsc>
 		<dsc type="in-depth">
 			<head>Container List</head>
-			<p/>
-			<c01 level="series" id="series1">
-				<did>
-					<unittitle> SERIES I. CORRESPONDENCE </unittitle>
-				</did>
-				<c02 level="subseries">
-					<did>
-						<unittitle> Letters Concerning the American Red Cross </unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.1 </container>
-							<unittitle> Letters from Grove, </unittitle>
-							<physdesc> (2 letters) </physdesc>
-							<unitdate type="inclusive"> 1922-1924 </unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.2 </container>
-							<unittitle> Letters to Grove, </unittitle>
-							<physdesc> (3 letters) </physdesc>
-							<unitdate type="inclusive"> 1921-1922 </unitdate>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> Letters Concerning Proposed Vassar Archives </unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.3 </container>
-							<unittitle> Letters from Grove, </unittitle>
-							<physdesc> (3 letters) </physdesc>
-							<unitdate type="inclusive"> 1956 </unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.4 </container>
-							<unittitle> Letters to Grove, </unittitle>
-							<physdesc> (3 letters) </physdesc>
-							<unitdate type="inclusive"> 1956, n.d. </unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.5 </container>
-							<unittitle> Letters to and from others, </unittitle>
-							<physdesc> (2 letters) </physdesc>
-							<unitdate type="inclusive"> 1956 </unitdate>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-			<c01 level="series" id="series2">
-				<did>
-					<unittitle> SERIES II. UNPUBLISHED TYPESCRIPTS BY GROVE </unittitle>
-				</did>
-				<c02 level="subseries">
-					<did>
-						<unittitle> Notes Re Baltic States During 1921-1922 </unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> Outline of Notes </unittitle>
-							<physdesc> (cc, 1p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> "Letts" </unittitle>
-							<physdesc> (TS, 3p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> "Latvia" </unittitle>
-							<physdesc> (TS, 4p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> "Before the War" </unittitle>
-							<physdesc> (TS, 5p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> "The War" </unittitle>
-							<physdesc> (TS, 3p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.7 </container>
-							<unittitle> "Experiment in Government" </unittitle>
-							<physdesc> (TS, 5p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.7 </container>
-							<unittitle> "Municipal Bankruptcy" </unittitle>
-							<physdesc> (TS, 1p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.7 </container>
-							<unittitle> "The Policy of Self–Protection" </unittitle>
-							<physdesc> (TS, 2 copies, 3p. each) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.7 </container>
-							<unittitle> "Railroad Travel" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.8 </container>
-							<unittitle> "Fuel Situation" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.8 </container>
-							<unittitle> "Lettish Language" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.8 </container>
-							<unittitle> "Interpreters" </unittitle>
-							<physdesc> (TS, 3p. </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.8 </container>
-							<unittitle> "The Returning Population" </unittitle>
-							<physdesc> (TS, 2 copies, 4p. each) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> "Russians" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> "Widows" </unittitle>
-							<physdesc> (TS, 3p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> "Orphans" </unittitle>
-							<physdesc> (TS, 1p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> "Orphanages" </unittitle>
-							<physdesc> (TS, 5p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> "Schools" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> "University Students" </unittitle>
-							<physdesc> (TS, 1p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> "Rural Child Labor" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> "Unemployment" </unittitle>
-							<physdesc> (TS, 1p) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> "Lettish Women's Corps" </unittitle>
-							<physdesc> (TS, 1p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> "Public Charities" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> "Lettish Private Organizations" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.11 </container>
-							<unittitle> "German Charities" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.11 </container>
-							<unittitle> "General Impressions" </unittitle>
-							<physdesc> (cc, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.11 </container>
-							<unittitle> "American Contact" </unittitle>
-							<physdesc> (TS, 3p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.11 </container>
-							<unittitle> "The Attitude of the Letts Toward Foreign Charities" </unittitle>
-							<physdesc> (TS, 1p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.12 </container>
-							<unittitle> "Some Reflections on American Philanthropy Overseas" </unittitle>
-							<physdesc> (TS, 15p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> "Running an Office Overseas" </unittitle>
-							<physdesc> (TS, 4p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> "Case Work" </unittitle>
-							<physdesc> (TS, 3p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> "American Red Cross...Clothing Distribution in Latvia" </unittitle>
-							<physdesc> (TS, 7p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> "Lesson VII" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> "A Letter to the American Red Cross Commission" </unittitle>
-							<physdesc> (TS, 1p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> "General Conclusions Regarding Health Work Overseas" </unittitle>
-							<physdesc> (cc, 2p.) </physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.13 </container>
-							<unittitle> "Foreign Agencies" </unittitle>
-							<physdesc> (TS, 2p.) </physdesc>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle> Biographical Information </unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.14 </container>
-							<unittitle> Experience outlines of Grove, </unittitle>
-							<physdesc> (cc, 2p.) </physdesc>
-							<unitdate type="inclusive"> 1954 </unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container> Folder 1.14 </container>
-							<unittitle> Experience outlines of Grove, </unittitle>
-							<physdesc> (TS, 5p.) </physdesc>
-							<unitdate type="inclusive"> [1942] </unitdate>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-			<c01 level="series" id="series3">
-				<did>
-					<unittitle> SERIES III. PRINTED MATERIALS </unittitle>
-				</did>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.15 </container>
-						<unittitle> Maps of the Baltic States, </unittitle>
-						<physdesc> (2 maps, 1 w/ Xerox) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.16 </container>
-						<unittitle>
-							<emph render="italic"> The New Jersey Club Woman, </emph> Vol. XXI, No. 4, December 1946 </unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.17 </container>
-						<unittitle> Foreign currency, </unittitle>
-						<physdesc> (2 items) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.17 </container>
-						<unittitle> Newspaper obituary, </unittitle>
-						<physdesc> (1 article) </physdesc>
-						<unitdate type="inclusive"> 1969 </unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.17 </container>
-						<unittitle> Passenger list for steamer to Rotterdam, </unittitle>
-						<physdesc> (1 item) </physdesc>
-						<unitdate type="inclusive"> 1921 </unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.17 </container>
-						<unittitle> "The Baltic Republics," </unittitle>
-						<physdesc> (1 booklet) </physdesc>
-						<unitdate type="inclusive"> 1922 </unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series4">
-				<did>
-					<unittitle> SERIES IV. DIARY </unittitle>
-				</did>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.18 </container>
-						<unittitle> Date Book, </unittitle>
-						<physdesc> (1 diary) </physdesc>
-						<unitdate type="inclusive"> 1921 </unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series5">
-				<did>
-					<unittitle> SERIES V. PHOTOGRAPHS </unittitle>
-				</did>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.19 </container>
-						<unittitle> Photos of Elsa Butler Grove, </unittitle>
-						<physdesc> (4 photos) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.20 </container>
-						<unittitle> Wartime and post-war snapshots, primarily of Verdun, France, </unittitle>
-						<physdesc> (12 photos) </physdesc>
-						<unitdate type="inclusive"> 1936, n.d. </unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series6">
-				<did>
-					<unittitle> SERIES VI. SCRAPBOOK </unittitle>
-				</did>
-				<c02 level="file">
-					<did>
-						<container> Folder 2.1 </container>
-						<unittitle> "Monsieur de Goeljen/Holland," </unittitle>
-						<unitdate type="inclusive"> 4 Aug- 25 Oct 1920 </unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 2.2 </container>
-						<unittitle> "Advice given bearing on work in France" </unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 2.3 </container>
-						<unittitle> "Luxembourg" </unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 2.4 </container>
-						<unittitle> [Work of Vassar Unit] -"Instructions of Committee," </unittitle>
-						<unitdate type="inclusive"> Feb-Nov 1919 </unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 2.5 </container>
-						<unittitle> "Correspondence from America" </unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 2.6 </container>
-						<unittitle> "Publicity" </unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container> Folder 2.7 </container>
-						<unittitle> Photographs, </unittitle>
-						<unitdate type="inclusive"> Nov 1919 - Nov 1920 </unitdate>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series7">
-				<did>
-					<unittitle> SERIES VII. FRAGMENTS </unittitle>
-				</did>
-				<c02 level="file">
-					<did>
-						<container> Folder 1.21 </container>
-						<unittitle> Postcard, translation list, gift summary, certificate from ARC, </unittitle>
-						<physdesc> (4 items) </physdesc>
-						<unitdate type="inclusive"> 1924-1956, n.d. </unitdate>
-					</did>
-				</c02>
-			</c01>
+			<c01 level="series" id="series1"><did><unittitle>Series I. Correspondence, </unittitle><unitdate type="inclusive" normal="1919/1924">1919-1924</unitdate></did>
+				<c02 level="file"><did><container>Folder 1</container><unittitle>Letters from the American Red Cross, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2</container><unittitle>Letters from Grove, Elsa Butler to various, </unittitle><unitdate type="inclusive" normal="1920/1924">1920-1924</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 3</container><unittitle>Letters from Grove, Elsa Butler to various about the Vassar Unit, </unittitle><unitdate type="inclusive" normal="192008/192010">1920 Aug-Oct</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 4</container><unittitle>Letters to/from Kenyon, Helen, </unittitle><unitdate type="inclusive" normal="192005/192007">1920 May-Jul</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 5</container><unittitle>Letters to/from MacCracken, Henry Noble, </unittitle><unitdate type="inclusive" normal="192008/192010">1920 Aug-Oct</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 6</container><unittitle>Letters to/from Townsend, Fanny, </unittitle><unitdate type="inclusive" normal="191911/192008">1919 Nov-1920 Aug</unitdate></did></c02></c01>
+			<c01 level="series" id="series2"><did><unittitle>Series II. Writings, </unittitle><unitdate type="inclusive" normal="1921/1954">1921-1954</unitdate></did>
+				<c02 level="file"><did><container>Folder 7</container><unittitle>Date Book, </unittitle><unitdate type="inclusive" normal="1921">1921</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 8</container><unittitle>"Experience Outlines" (resumes), </unittitle><unitdate type="inclusive" normal="1942/1954">[1942], 1954</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 9</container><unittitle>Notes on Baltic States - Outline of Notes, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(cc, 1p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9</container><unittitle>Notes on Baltic States - Letts, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 3p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9</container><unittitle>Notes on Baltic States - Latvia, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 4p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9</container><unittitle>Notes on Baltic States - Before the War, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 5p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9</container><unittitle>Notes on Baltic States - The War, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 3p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 10</container><unittitle>Notes on Baltic States - Experiment in Government, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 5p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 10</container><unittitle>Notes on Baltic States - Municipal Bankruptcy, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 1p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 10</container><unittitle>Notes on Baltic States - The Policy of Self–Protection, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2 copies, 3p. each)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 10</container><unittitle>Notes on Baltic States - Railroad Travel, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 11</container><unittitle>Notes on Baltic States - Fuel Situation, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 11</container><unittitle>Notes on Baltic States - Lettish Language, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 11</container><unittitle>Notes on Baltic States - Interpreters, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 3p.</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 11</container><unittitle>Notes on Baltic States - The Returning Population, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2 copies, 4p. each)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 12</container><unittitle>Notes on Baltic States - Russians, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 12</container><unittitle>Notes on Baltic States - Widows, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 3p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 12</container><unittitle>Notes on Baltic States - Orphans, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 1p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 12</container><unittitle>Notes on Baltic States - Orphanages, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 5p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 12</container><unittitle>Notes on Baltic States - Schools, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 12</container><unittitle>Notes on Baltic States - University Students, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 1p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 13</container><unittitle>Notes on Baltic States - Rural Child Labor, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 13</container><unittitle>Notes on Baltic States - Unemployment, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 1p)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 13</container><unittitle>Notes on Baltic States - Lettish Women's Corps, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 1p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 13</container><unittitle>Notes on Baltic States - Public Charities, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 13</container><unittitle>Notes on Baltic States - Lettish Private Organizations, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 14</container><unittitle>Notes on Baltic States - German Charities, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 14</container><unittitle>Notes on Baltic States - General Impressions, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(cc, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 14</container><unittitle>Notes on Baltic States - American Contact, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 3p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 14</container><unittitle>Notes on Baltic States - The Attitude of the Letts Toward Foreign Charities, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 1p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 15</container><unittitle>Notes on Baltic States - Some Reflections on American Philanthropy Overseas, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 15p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 16</container><unittitle>Notes on Baltic States - Running an Office Overseas, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 4p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 16</container><unittitle>Notes on Baltic States - Case Work, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 3p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 16</container><unittitle>Notes on Baltic States - American Red Cross...Clothing Distribution in Latvia, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 7p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 16</container><unittitle>Notes on Baltic States - Lesson VII, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 16</container><unittitle>Notes on Baltic States - A Letter to the American Red Cross Commission, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 1p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 16</container><unittitle>Notes on Baltic States - General Conclusions Regarding Health Work Overseas, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(cc, 2p.)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 16</container><unittitle>Notes on Baltic States - Foreign Agencies, </unittitle><unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate><physdesc>(TS, 2p.)</physdesc></did></c02></c01>
+			<c01 level="series" id="series3"><did><unittitle>Series III. Printed Materials, </unittitle><unitdate type="inclusive" normal="1915/1969">circa 1915-1969</unitdate></did>
+				<c02 level="file"><did><container>Folder 17</container><unittitle>Bank Note - Austro-Hungarian, </unittitle><unitdate type="inclusive" normal="1915">circa 1915</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 18</container><unittitle>Bank Note - Russian, </unittitle><unitdate type="inclusive" normal="1918">circa 1918</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 19</container><unittitle>Clippings, </unittitle><unitdate type="inclusive" normal="1920">1920</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 20</container><unittitle>Maps of the Baltic States, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>(2 maps, 1 with Xerox)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 21</container><unittitle>Miscellaneous documents, </unittitle><unitdate type="inclusive" normal="1924">1924, undated</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 22</container><unittitle>Newspaper obituary, </unittitle><unitdate type="inclusive" normal="1969">1969</unitdate><physdesc>(1 article)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 22</container><unittitle>Passenger list for steamer to Rotterdam, </unittitle><unitdate type="inclusive" normal="1921">1921</unitdate><physdesc>(1 item)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 22</container><unittitle>The Baltic Republics, </unittitle><unitdate type="inclusive" normal="1922">1922</unitdate><physdesc>(1 booklet)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 23</container><unittitle>The New Jersey Club Woman, Vol. XXI, No. 4, </unittitle><unitdate type="inclusive" normal="194612">1946 Dec</unitdate></did></c02></c01>
+			<c01 level="series" id="series4"><did><unittitle>Series IV. Photographs, </unittitle><unitdate type="inclusive" normal="1919/1936">circa 1919-1936</unitdate></did>
+				<c02 level="file"><did><container>Folder 24</container><unittitle>Elsa Butler Grove, </unittitle><unitdate type="inclusive">undated</unitdate><physdesc>(4 photos)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 25</container><unittitle>"La Ferme Madalaine", </unittitle><unitdate type="inclusive" normal="1919">circa 1919</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 26</container><unittitle>Goutte de Lait and Verdun, with captions, </unittitle><unitdate type="inclusive" normal="1920">1920</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 27</container><unittitle>Wartime and post-war snapshots, primarily of Verdun, France, </unittitle><unitdate type="inclusive" normal="1919/1936">circa 1919-1936</unitdate><physdesc>(13 photos)</physdesc></did></c02></c01>
+			<c01 level="series" id="series5"><did><unittitle>Series V. Vassar Unit Scrapbook, </unittitle><unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate></did>
+				<c02 level="file"><did><container>Folder 28</container><unittitle>"Advice given bearing on Work in France," correspondence and notes, </unittitle><unitdate type="inclusive" normal="191912/192010">1919 Dec - 1920 Oct</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 29</container><unittitle>"La Dispensaire" and "Goutte de Lait," records, </unittitle><unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 30</container><unittitle>"Forming the Committee," correspondence and notes, </unittitle><unitdate type="inclusive" normal="1920">1920</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 31</container><unittitle>"French correspondence forwarded by Fanny Townsend," </unittitle><unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 32</container><unittitle>"Luxembourg," correspondence and notes, </unittitle><unitdate type="inclusive" normal="192008">1920 Aug</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 33</container><unittitle>"Monsieur de Goeljen/Holland," correspondence, </unittitle><unitdate type="inclusive" normal="192008/192011">1920 Aug-Nov</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 34</container><unittitle>"Report of the Work of the Vassar Unit," </unittitle><unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 35</container><unittitle>"Summary of Work of the Vassar Unit," </unittitle><unitdate type="inclusive" normal="191902/191908">1919 Feb-Aug</unitdate></did></c02></c01>
 		</dsc>
 	</archdesc>
 </ead>

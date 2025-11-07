@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
-	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv"> npv_barrus_clara</eadid>
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_barrus_clara</eadid>
 		<filedesc>
 			<titlestmt>
 				<titleproper>Guide to the Clara Barrus Papers, 1901-1931</titleproper>
@@ -17,70 +18,107 @@
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Laura Streett and Elizabeth Clarke <date>November 2006</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Laura Streett and Elizabeth Clarke <date>November 2006</date>.</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Barrus, Clara, 1864-1931</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> Clara Barrus Papers</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1901-1931 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 5.8 cubic feet (29 boxes)</physdesc>
+			<unittitle label="Title:" encodinganalog="245">Clara Barrus Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1901-1931</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">5.8 cubic feet (29 boxes)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence from John Burroughs to Clara Barrus and Barrus' journals, written from 1901 to 1924, spanning the years in which she was acquainted with Burroughs. Also, scraps of notes or published articles written about or by Barrus. </abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">The collection consists of correspondence from John Burroughs to
+				Clara Barrus, and Barrus's journals, written from 1901 to 1924, which span the years in
+				which she was acquainted with Burroughs. Also included are photographs, scraps of notes, and published articles
+				written about or by Barrus.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
-			<head>Biographical Note </head>
-			<p>Clara Barrus was born in Port Byron, New York in 1864. She studied medicine at Boston University and received her Doctor of Medicine degree in 1888. For several years she was in private practice in Utica, New York, but in 1893 she became an assistant physician at the Middletown Hospital for the Insane. In addition, she served as professor of psychiatry at Women's College of New York City. She left Middletown Hospital after seventeen years, and in 1912 she opened a private sanitarium in Pelham, New York, until her retirement in 1914.</p>
-			<p>Doctor Barrus met John Burroughs while she was practicing medicine, and was associated with him for almost two decades, until his death in 1921. She was Burroughs' friend, secretary, biographer, and almost constant traveling companion. When he died, Barrus was named his literary executor. Among other works, she edited two posthumous volumes of Burroughs' essays, and wrote WHITMAN AND BURROUGHS, COMRADES, about the relationship between Burroughs and poet Walt Whitman.</p>
+			<head>Biographical Note</head>
+			<p>Clara Barrus was born in Port Byron, New York in 1864. She studied medicine at Boston
+				University and received her Doctor of Medicine degree in 1888. For several years she
+				was in private practice in Utica, New York, but in 1893 she became an assistant
+				physician at the Middletown Hospital for the Insane. In addition, she served as
+				professor of psychiatry at Women's College of New York City. She left Middletown
+				Hospital after seventeen years, and in 1912 she opened a private sanitarium in
+				Pelham, New York, until her retirement in 1914.</p>
+			<p>Doctor Barrus met John Burroughs while she was practicing medicine, and was
+				associated with him for almost two decades, until his death in 1921. She was
+				Burroughs' friend, secretary, biographer, and almost constant traveling companion.
+				When he died, Barrus was named his literary executor. Among other works, she edited
+				two posthumous volumes of Burroughs' essays, and wrote <emph render="italic">Whitman and Burroughs, Comrades</emph> (1931), about the relationship between Burroughs and poet Walt Whitman.</p>
 			<p>Clara Barrus died on April 4, 1931, after a long illness.</p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>The bulk of the Clara Barrus Papers is made up of correspondence from John Burroughs to Clara Barrus. Letters from Barrus to Burroughs may be found in the John Burroughs Papers. The rest of the collection is mostly superficial, containing scraps of notes or published articles written about or by Barrus. The notable exception is a series of Clara Barrus' journals, written from 1901 to 1924, spanning the years in which she was acquainted with Burroughs</p>
+			<p>The bulk of the Clara Barrus Papers is made up of correspondence from John Burroughs
+				to Clara Barrus. Letters from Barrus to Burroughs can be found in the John Burroughs
+				Papers. The rest of the collection is mostly superficial, containing photographs, scraps of notes,
+				or published articles written about or by Barrus. The notable exception is a series
+				of Clara Barrus' journals, written from 1901 to 1924, spanning the years in which
+				she was acquainted with Burroughs.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new"
+					>regulations of the Vassar College Archives and Special Collections
+					Library.</extref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
-			<head> Related Materials</head>
-			<p><archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-john-burroughs-papers-1850-1991-bulk-1860-1921">John Burroughs Collection</archref>
+			<head>Related Materials</head>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-john-burroughs-papers-1850-1991-bulk-1860-1921"
+					>John Burroughs Collection</archref>
 			</p>
 		</relatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<persname source="lcnaf" encodinganalog="600"> Burroughs, John, 1837-1921</persname>
+				<persname source="lcnaf" encodinganalog="600">Burroughs, John, 1837-1921</persname>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Literature and Writing </subject>
-				<subject source="local" encodinganalog="690"> Nature and Natural History </subject>
+				<head> Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Clippings (information artifacts)</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Literature and Writing</subject>
+				<subject source="local" encodinganalog="690">Nature and Natural History</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett and Elizabeth Clarke, November 2006.</p>
+			<p>Encoded by Laura Streett and Elizabeth Clarke, November 2006. Updated by Emma
+				Gronbeck, October 2025.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Original guide completed May 1995. </p>
+			<p>Original guide completed May 1995.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
 			<p>Gift of Elizabeth Burroughs Kelley, granddaughter of John Burroughs, 1990.</p>
+			<p>Four letters from Clara Barrus to Charles E. Benton, and one photograph of Barrus
+				with John Burroughs from 1917, were the gift of Susan Herley, 2025. [M2025-014]</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -91,25 +129,29 @@
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series1"> Series I. </ref> Correspondence</unittitle>
+						<ref target="series1">Series I.</ref> Correspondence, </unittitle>
+					<unitdate type="inclusive" normal="1901/1931">1901-1931</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series2"> Series II. </ref> Notes and Notebooks</unittitle>
+						<ref target="series2">Series II.</ref> Notes and Notebooks, </unittitle>
+					<unitdate type="inclusive" normal="1902/1924">circa 1902-1924</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series3"> Series III. </ref> Material about John Burroughs</unittitle>
+						<ref target="series3">Series III.</ref> Material about John Burroughs, </unittitle>
+					<unitdate type="inclusive" normal="1891/1902">circa 1891-1902</unitdate>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series4"> Series IV. </ref> Clippings and Photographs</unittitle>
+						<ref target="series4">Series IV.</ref> Clippings and Photographs, </unittitle>
+					<unitdate type="inclusive" normal="1903/1931">1903-1931</unitdate>
 				</did>
 			</c01>
 		</dsc>
@@ -117,2085 +159,2195 @@
 			<head>Container List</head>
 			<c01 level="series" id="series1">
 				<did>
-					<unittitle> SERIES I. CORRESPONDENCE</unittitle>
+					<unittitle>SERIES I. CORRESPONDENCE, </unittitle>
+					<unitdate type="inclusive" normal="1901/1931">1901-1931</unitdate>
 				</did>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Correspondence to Clara Barrus </unittitle>
+						<unittitle>Correspondence to Clara Barrus</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.1 </container>
-							<unittitle> Aiken, Helen, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> 1910 </unitdate>
+							<container>Folder 1.1</container>
+							<unittitle>Aiken, Helen, </unittitle>
+							<unitdate type="inclusive" normal="1910">1910</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.2 </container>
-							<unittitle> B., F.F., </unittitle>
-							<physdesc> (1 postcard) </physdesc>
-							<unitdate type="inclusive"> Aug 1912 </unitdate>
+							<container>Folder 1.2</container>
+							<unittitle>B., F.F., </unittitle>
+							<unitdate type="inclusive" normal="191208">1912 Aug</unitdate>
+							<physdesc>(1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.3 </container>
-							<unittitle> Baker, Smith, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Sept [n.y.] </unitdate>
+							<container>Folder 1.3</container>
+							<unittitle>Baker, Smith, </unittitle>
+							<unitdate type="inclusive">[no year] Sep</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.4 </container>
-							<unittitle> Burr, Helen, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Sept 1919 </unitdate>
+							<container>Folder 1.4</container>
+							<unittitle>Burr, Helen, </unittitle>
+							<unitdate type="inclusive" normal="191909">1919 Sep</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> May-Oct 1901 </unitdate>
+							<container>Folder 1.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190105/190110">1901
+								May-Oct</unitdate>
+							<physdesc>(9 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1901 </unitdate>
+							<container>Folder 1.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190111">1901 Nov</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 5-15 Dec 1901 </unitdate>
+							<container>Folder 1.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1901125/19011215">1901 Dec
+								5-15</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 17-22 Dec 1901 </unitdate>
+							<container>Folder 1.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19011217/19011222">1901 Dec
+								17-22</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 24-25 Dec 1901 </unitdate>
+							<container>Folder 1.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19011224/19011225">1901 Dec
+								24-25</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.10 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 2-22 Jan 1902 </unitdate>
+							<container>Folder 1.10</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902012/19020122">1902 Jan
+								2-22</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 1.11 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 25-30 Jan 1902 </unitdate>
+							<container>Folder 1.11</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19020125/19020130">1902 Jan
+								25-30</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Feb 1902 </unitdate>
+							<container>Folder 2.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190202">1902 Feb</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 telegram) </physdesc>
-							<unitdate type="inclusive"> Mar-1 Apr 1902 </unitdate>
+							<container>Folder 2.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190203/190204">1902
+								Mar-Apr</unitdate>
+							<physdesc>(7 letters, 1 telegram)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs. w/ 1 sprig of arbutus) </physdesc>
-							<unitdate type="inclusive"> 3-15 Apr 1902 </unitdate>
+							<container>Folder 2.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902043/19020415">1902 Apr
+								3-15</unitdate>
+							<physdesc>(4 letters with 1 sprig of arbutus)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 17-27 Apr 1902 </unitdate>
+							<container>Folder 2.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19020417/19020427">1902 Apr
+								17-27</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 2-12 May 1902 </unitdate>
+							<container>Folder 2.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902052/19020512">1902 May
+								2-12</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 14-31 May 1902 </unitdate>
+							<container>Folder 2.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19020514/19020531">1902 May
+								14-31</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 7-16 June 1902 </unitdate>
+							<container>Folder 2.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902067/19020616">1902 Jun
+								7-16</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 2.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 17-24 June 1902 </unitdate>
+							<container>Folder 2.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19020617/19020624">1902 Jun
+								17-24</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 4-13 July 1902 </unitdate>
+							<container>Folder 3.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902074/19020713">1902 Jul
+								4-13</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 18-29 July 1902 </unitdate>
+							<container>Folder 3.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19020718/19020729">1902 Jul
+								18-29</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Aug 1902 </unitdate>
+							<container>Folder 3.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190208">1902 Aug</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> Sept 1902 </unitdate>
+							<container>Folder 3.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190209">1902 Sep</unitdate>
+							<physdesc>(7 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-12 Oct 1902 </unitdate>
+							<container>Folder 3.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902101/19021012">1902 Oct
+								1-12</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 15-31 Oct 1902 </unitdate>
+							<container>Folder 3.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19021015/19021031">1902 Oct
+								15-31</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 2-13 Nov 1902 </unitdate>
+							<container>Folder 3.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902112/19021113">1902 Nov
+								2-13</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 3.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> 14-27 Nov 1902 </unitdate>
+							<container>Folder 3.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19021114/19021127">1902 Nov
+								14-27</unitdate>
+							<physdesc>(3 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 2-12 Dec 1902 </unitdate>
+							<container>Folder 4.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1902122/19021212">1902 Dec
+								2-12</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 18-31 Dec 1902 </unitdate>
+							<container>Folder 4.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19021218/19021231">1902 Dec
+								18-31</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 2-9 Jan 1903 </unitdate>
+							<container>Folder 4.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1903012/1903019">1903 Jan
+								2-9</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 10-14 (?) Jan 1903 </unitdate>
+							<container>Folder 4.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19030110/19030114">1903 Jan
+								[10-14?]</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 19-29 Jan 1903 </unitdate>
+							<container>Folder 4.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19030119/19030129">1903 Jan
+								19-29</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 5-14 Feb 1903 </unitdate>
+							<container>Folder 4.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1903025/19030214">1903 Feb
+								5-14</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 4.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 16-23 Feb 1903 </unitdate>
+							<container>Folder 4.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19030216/19030223">1903 Feb
+								16-23</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 2-12 Mar 1903 </unitdate>
+							<container>Folder 5.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1903032/19030312">1903 Mar
+								2-12</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 15-21 Mar 1903 </unitdate>
+							<container>Folder 5.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19030315/19030321">1903 Mar
+								15-21</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-5 Apr 1903 </unitdate>
+							<container>Folder 5.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1903041/1903045">1903 Apr
+								1-5</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 10-28 Apr 1903 </unitdate>
+							<container>Folder 5.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19030410/19030428">1903 Apr
+								10-28</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> May 1903 </unitdate>
+							<container>Folder 5.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190305">1903 May</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> 3-19 June 1903 </unitdate>
+							<container>Folder 5.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1903063/19030619">1903 Jun
+								3-19</unitdate>
+							<physdesc>(4 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 22-30 June 1903 </unitdate>
+							<container>Folder 5.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19030622/19030630">1903 Jun
+								22-30</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-12 July 1903 </unitdate>
+							<container>Folder 5.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1903071/19030712">1903 Jul
+								1-12</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 5.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 15-30 July 1903 </unitdate>
+							<container>Folder 5.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19030715/19030730">1903 Jul
+								15-30</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Aug 1903 </unitdate>
+							<container>Folder 6.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190308">1903 Aug</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Sept 1903 </unitdate>
+							<container>Folder 6.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190309">1903 Sep</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Oct 1903 </unitdate>
+							<container>Folder 6.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190310">1903 Oct</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1903 </unitdate>
+							<container>Folder 6.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190311">1903 Nov</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 3-13 Dec 1903 </unitdate>
+							<container>Folder 6.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1903123/19031213">1903 Dec
+								3-13</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 15-29 Dec 1903 </unitdate>
+							<container>Folder 6.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19031215/19031229">1903 Dec
+								15-29</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Jan 1904 </unitdate>
+							<container>Folder 6.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190401">1904 Jan</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 6.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Feb 1904 </unitdate>
+							<container>Folder 6.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190402">1904 Feb</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Mar 1904 </unitdate>
+							<container>Folder 7.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190403">1904 Mar</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-11 Apr 1904 </unitdate>
+							<container>Folder 7.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1904041/19040411">1904 Apr
+								1-11</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 14-27 Apr 1904 </unitdate>
+							<container>Folder 7.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19040414/19040427">1904 Apr
+								14-27</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> May 1904 </unitdate>
+							<container>Folder 7.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190405">1904 May</unitdate>
+							<physdesc>(6 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 2 empty envelopes) </physdesc>
-							<unitdate type="inclusive"> June 1904 </unitdate>
+							<container>Folder 7.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190406">1904 Jun</unitdate>
+							<physdesc>(5 letters, 2 empty envelopes)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> July 1904 </unitdate>
+							<container>Folder 7.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190407">1904 Jul</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-15 Aug 1904 </unitdate>
+							<container>Folder 7.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1904081/19040815">1904 Aug
+								1-15</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 7.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 20-31 Aug 1904 </unitdate>
+							<container>Folder 7.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19040820/19040831">1904 Aug
+								20-31</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Sept 1904 </unitdate>
+							<container>Folder 8.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190409">1904 Sep</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 5-17 Oct 1904 </unitdate>
+							<container>Folder 8.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1904105/19041017">1904 Oct
+								5-17</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (2 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 20-28 Oct 1904 </unitdate>
+							<container>Folder 8.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19041020/19041028">1904 Oct
+								20-28</unitdate>
+							<physdesc>(2 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1904 </unitdate>
+							<container>Folder 8.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190411">1904 Nov</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 8.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Dec 1904 </unitdate>
+							<container>Folder 8.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190412">1904 Dec</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Jan-Feb 1905 </unitdate>
+							<container>Folder 9.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190501/190502">1905
+								Jan-Feb</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Mar 1905 </unitdate>
+							<container>Folder 9.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190503">1905 Mar</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> Apr 1905 </unitdate>
+							<container>Folder 9.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190504">1905 Apr</unitdate>
+							<physdesc>(5 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> May 1905 </unitdate>
+							<container>Folder 9.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190505">1905 May</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> June-July 1905 </unitdate>
+							<container>Folder 9.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190506/190507">1905
+								Jun-Jul</unitdate>
+							<physdesc>(9 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (12 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Aug-Sept 1905 </unitdate>
+							<container>Folder 9.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190508/190509">1905
+								Aug-Sep</unitdate>
+							<physdesc>(12 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> Oct 1905 </unitdate>
+							<container>Folder 9.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190510">1905 Oct</unitdate>
+							<physdesc>(6 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 empty envelope) </physdesc>
-							<unitdate type="inclusive"> Nov 1905 </unitdate>
+							<container>Folder 9.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190511">1905 Nov</unitdate>
+							<physdesc>(6 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 9.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (10 ltrs., 1 fragment) </physdesc>
-							<unitdate type="inclusive"> Dec 1905 </unitdate>
+							<container>Folder 9.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190512">1905 Dec</unitdate>
+							<physdesc>(10 letters, 1 fragment)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 2 empty envelopes) </physdesc>
-							<unitdate type="inclusive"> Jan 1906 </unitdate>
+							<container>Folder 10.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190601">1906 Jan</unitdate>
+							<physdesc>(7 letters, 2 empty envelopes)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Feb 1906 </unitdate>
+							<container>Folder 10.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190602">1906 Feb</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Mar 1906 </unitdate>
+							<container>Folder 10.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190603">1906 Mar</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Apr 1906 </unitdate>
+							<container>Folder 10.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190604">1906 Apr</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (10 ltrs.) </physdesc>
-							<unitdate type="inclusive"> May 1906 </unitdate>
+							<container>Folder 10.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190605">1906 May</unitdate>
+							<physdesc>(10 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (11 ltrs.) </physdesc>
-							<unitdate type="inclusive"> June 1906 </unitdate>
+							<container>Folder 10.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190606">1906 Jun</unitdate>
+							<physdesc>(11 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 10.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (11 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Aug 1906 </unitdate>
+							<container>Folder 10.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190608">1906 Aug</unitdate>
+							<physdesc>(11 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 postcard, 2 empty env.) </physdesc>
-							<unitdate type="inclusive"> Sept 1906 </unitdate>
+							<container>Folder 11.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190609">1906 Sep</unitdate>
+							<physdesc>(7 letters, 1 postcard, 2 empty envelopes)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (2 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Oct 1906 </unitdate>
+							<container>Folder 11.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190610">1906 Oct</unitdate>
+							<physdesc>(2 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1906 </unitdate>
+							<container>Folder 11.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190611">1906 Nov</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Dec 1906 </unitdate>
+							<container>Folder 11.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190612">1906 Dec</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (12 ltrs., 1 telegram) </physdesc>
-							<unitdate type="inclusive"> Jan-Feb 1907 </unitdate>
+							<container>Folder 11.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190701/190702">1907
+								Jan-Feb</unitdate>
+							<physdesc>(12 letters, 1 telegram)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs., 1 empty env.) </physdesc>
-							<unitdate type="inclusive"> Mar 1907 </unitdate>
+							<container>Folder 11.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190703">1907 Mar</unitdate>
+							<physdesc>(8 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 11.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Apr 1907 </unitdate>
+							<container>Folder 11.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190704">1907 Apr</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> May 1907 </unitdate>
+							<container>Folder 12.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190705">1907 May</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> June 1907 </unitdate>
+							<container>Folder 12.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190706">1907 Jun</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> July 1907 </unitdate>
+							<container>Folder 12.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190707">1907 Jul</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> Aug 1907 </unitdate>
+							<container>Folder 12.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190708">1907 Aug</unitdate>
+							<physdesc>(8 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 empty env.) </physdesc>
-							<unitdate type="inclusive"> Sept 1907 </unitdate>
+							<container>Folder 12.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190709">1907 Sep</unitdate>
+							<physdesc>(5 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 empty env.) </physdesc>
-							<unitdate type="inclusive"> Oct 1907 </unitdate>
+							<container>Folder 12.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190710">1907 Oct</unitdate>
+							<physdesc>(7 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1907 </unitdate>
+							<container>Folder 12.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190711">1907 Nov</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 12.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Dec 1907 </unitdate>
+							<container>Folder 12.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190712">1907 Dec</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (10 ltrs., 1 empty env.) </physdesc>
-							<unitdate type="inclusive"> Jan 1908 </unitdate>
+							<container>Folder 13.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190801">1908 Jan</unitdate>
+							<physdesc>(10 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs., 1 postcard, 1 empty env.) </physdesc>
-							<unitdate type="inclusive"> Feb 1908 </unitdate>
+							<container>Folder 13.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190802">1908 Feb</unitdate>
+							<physdesc>(8 letters, 1 postcard, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Mar 1908 </unitdate>
+							<container>Folder 13.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190803">1908 Mar</unitdate>
+							<physdesc>(7 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (11 ltrs., 1 empty env.) </physdesc>
-							<unitdate type="inclusive"> Apr-May 1908 </unitdate>
+							<container>Folder 13.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190804/190805">1908
+								Apr-May</unitdate>
+							<physdesc>(11 letters, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs., 1 fragment, 2 empty env.) </physdesc>
-							<unitdate type="inclusive"> June 1908 </unitdate>
+							<container>Folder 13.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190806">1908 Jun</unitdate>
+							<physdesc>(9 letters, 1 fragment, 2 empty envelopes)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> July 1908 </unitdate>
+							<container>Folder 13.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190807">1908 Jul</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 13.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 2 empty env.) </physdesc>
-							<unitdate type="inclusive"> Aug 1908 </unitdate>
+							<container>Folder 13.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190808">1908 Aug</unitdate>
+							<physdesc>(6 letters, 2 empty envelopes)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 2 postcards, 3 empty envelopes) </physdesc>
-							<unitdate type="inclusive"> Sept 1908 </unitdate>
+							<container>Folder 14.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190809">1908 Sep</unitdate>
+							<physdesc>(4 letters, 2 postcards, 3 empty envelopes)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs., 2 empty env.) </physdesc>
-							<unitdate type="inclusive"> Oct 1908 </unitdate>
+							<container>Folder 14.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190810">1908 Oct</unitdate>
+							<physdesc>(9 letters, 2 empty envelopes)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1908 </unitdate>
+							<container>Folder 14.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190811">1908 Nov</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Dec 1908 </unitdate>
+							<container>Folder 14.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190812">1908 Dec</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 2 fragments, 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Jan 1909 </unitdate>
+							<container>Folder 14.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190901">1909 Jan</unitdate>
+							<physdesc>(6 letters, 2 fragments, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Feb 1909 </unitdate>
+							<container>Folder 14.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190902">1909 Feb</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> June-July 1909 </unitdate>
+							<container>Folder 14.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190906/190907">1909
+								Jun-Jul</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 14.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Aug 1909 </unitdate>
+							<container>Folder 14.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190908">1909 Aug</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Sept-Oct 1909 </unitdate>
+							<container>Folder 15.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190909/190910">1909
+								Sep-Oct</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1909 </unitdate>
+							<container>Folder 15.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190911">1909 Nov</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs., 4 postcards) </physdesc>
-							<unitdate type="inclusive"> Dec 1909 </unitdate>
+							<container>Folder 15.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="190912">1909 Dec</unitdate>
+							<physdesc>(9 letters, 4 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> Jan 1910 </unitdate>
+							<container>Folder 15.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191001">1910 Jan</unitdate>
+							<physdesc>(7 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Feb 1910 </unitdate>
+							<container>Folder 15.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191002">1910 Feb</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Mar 1910 </unitdate>
+							<container>Folder 15.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191003">1910 Mar</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 1 fragment) </physdesc>
-							<unitdate type="inclusive"> 4-9 Apr 1910 </unitdate>
+							<container>Folder 15.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1910044/1910049">1910 Apr
+								4-9</unitdate>
+							<physdesc>(4 letters, 1 fragment)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 telegram, 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 11-26 Apr 1910 </unitdate>
+							<container>Folder 15.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19100411/19100426">1910 Apr
+								11-26</unitdate>
+							<physdesc>(6 letters, 1 telegram, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 3 postcards) </physdesc>
-							<unitdate type="inclusive"> 3-13 May 1910 </unitdate>
+							<container>Folder 15.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1910053/19100513">1910 May
+								3-13</unitdate>
+							<physdesc>(4 letters, 3 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.10 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 21-23 May 1910 </unitdate>
+							<container>Folder 15.10</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19100521/19100523">1910 May
+								21-23</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 15.11 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 1-18 June 1910 </unitdate>
+							<container>Folder 15.11</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1910061/19100618">1910 Jun
+								1-18</unitdate>
+							<physdesc>(5 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 19-30 June 1910 </unitdate>
+							<container>Folder 16.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19100619/19100630">1910 Jun
+								19-30</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 4-15 July 1910 </unitdate>
+							<container>Folder 16.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1910074/19100715">1910 Jul
+								4-15</unitdate>
+							<physdesc>(6 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 18-31 July 1910 </unitdate>
+							<container>Folder 16.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19100713/19100731">1910 Jul
+								13-31</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 3 postcards) </physdesc>
-							<unitdate type="inclusive"> Aug 1910 </unitdate>
+							<container>Folder 16.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191008">1910 Aug</unitdate>
+							<physdesc>(5 letters, 3 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs., 2 postcards, 1 empty env.) </physdesc>
-							<unitdate type="inclusive"> Sept 1910 </unitdate>
+							<container>Folder 16.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191009">1910 Sep</unitdate>
+							<physdesc>(8 letters, 2 postcards, 1 empty envelope)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Oct 1910 </unitdate>
+							<container>Folder 16.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191010">1910 Oct</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> Nov 1910 </unitdate>
+							<container>Folder 16.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191011">1910 Nov</unitdate>
+							<physdesc>(7 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-15 Dec 1910 </unitdate>
+							<container>Folder 16.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1910121/19101215">1910 Dec
+								1-15</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 16.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 telegram) </physdesc>
-							<unitdate type="inclusive"> 17-29 Dec 1910 </unitdate>
+							<container>Folder 16.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19101217/19101229">1910 Dec
+								17-29</unitdate>
+							<physdesc>(5 letters, 1 telegram)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (2 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Jan 1911 </unitdate>
+							<container>Folder 17.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191101">1911 Jan</unitdate>
+							<physdesc>(2 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Apr 1911 </unitdate>
+							<container>Folder 17.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191104">1911 Apr</unitdate>
+							<physdesc>(5 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> May 1911 </unitdate>
+							<container>Folder 17.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191105">1911 May</unitdate>
+							<physdesc>(8 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> 1-11 June 1911 </unitdate>
+							<container>Folder 17.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1911061/19110611">1911 Jun
+								1-11</unitdate>
+							<physdesc>(4 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> 14-22 June 1911 </unitdate>
+							<container>Folder 17.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19110614/19110622">1911 Jun
+								14-22</unitdate>
+							<physdesc>(5 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 11-17 Oct 1911 </unitdate>
+							<container>Folder 17.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19111011/19111017">1911 Oct
+								11-17</unitdate>
+							<physdesc>(5 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 20-28 Oct 1911 </unitdate>
+							<container>Folder 17.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19111020/19111028">1911 Oct
+								20-28</unitdate>
+							<physdesc>(5 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Nov 1911 </unitdate>
+							<container>Folder 17.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191111">1911 Nov</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Dec 1911 </unitdate>
+							<container>Folder 17.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191112">1911 Dec</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.10 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-8 Jan 1912 </unitdate>
+							<container>Folder 17.10</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1912011/1912018">1912 Jan
+								1-8</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.11 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs., 3 postcards, 1 telegram) </physdesc>
-							<unitdate type="inclusive"> 21-29 Jan 1912 </unitdate>
+							<container>Folder 17.11</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19120121/19120129">1912 Jan
+								21-29</unitdate>
+							<physdesc>(3 letters, 3 postcards, 1 telegram)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 17.12 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (2 ltrs., 7 postcards) </physdesc>
-							<unitdate type="inclusive"> Feb 1912 </unitdate>
+							<container>Folder 17.12</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191202">1912 Feb</unitdate>
+							<physdesc>(2 letters, 7 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs., 1 postcard, 1 telegram) </physdesc>
-							<unitdate type="inclusive"> Mar 1912 </unitdate>
+							<container>Folder 18.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191203">1912 Mar</unitdate>
+							<physdesc>(8 letters, 1 postcard, 1 telegram)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Apr 1912 </unitdate>
+							<container>Folder 18.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191204">1912 Apr</unitdate>
+							<physdesc>(7 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> 1-7 May 1912 </unitdate>
+							<container>Folder 18.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1912051/1912057">1912 May
+								1-7</unitdate>
+							<physdesc>(5 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> 8-29 May 1912 </unitdate>
+							<container>Folder 18.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1912058/19120529">1912 May
+								8-29</unitdate>
+							<physdesc>(7 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> June 1912 </unitdate>
+							<container>Folder 18.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191206">1912 Jun</unitdate>
+							<physdesc>(9 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> July 1912 </unitdate>
+							<container>Folder 18.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191207">1912 Jul</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (9 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Aug-Sept 1912 </unitdate>
+							<container>Folder 18.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191208/191209">1912
+								Aug-Sep</unitdate>
+							<physdesc>(9 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Oct 1912 </unitdate>
+							<container>Folder 18.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191210">1912 Oct</unitdate>
+							<physdesc>(7 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Nov 1912 </unitdate>
+							<container>Folder 18.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191211">1912 Nov</unitdate>
+							<physdesc>(5 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 18.10 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Dec 1912 </unitdate>
+							<container>Folder 18.10</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191212">1912 Dec</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs., 3 postcards) </physdesc>
-							<unitdate type="inclusive"> Jan 1913 </unitdate>
+							<container>Folder 19.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191301">1913 Jan</unitdate>
+							<physdesc>(3 letters, 3 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Feb 1913 </unitdate>
+							<container>Folder 19.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191302">1913 Feb</unitdate>
+							<physdesc>(3 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 1-16 Mar 1913 </unitdate>
+							<container>Folder 19.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1913031/19130316">1913 Mar
+								1-16</unitdate>
+							<physdesc>(8 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 1 telegram, 5 postcards) </physdesc>
-							<unitdate type="inclusive"> 17-31 Mar 1913 </unitdate>
+							<container>Folder 19.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19130317/19130331">1913 Mar
+								17-31</unitdate>
+							<physdesc>(4 letters, 1 telegram, 5 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Apr 1913 </unitdate>
+							<container>Folder 19.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191304">1913 Apr</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> May 1913 </unitdate>
+							<container>Folder 19.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191305">1913 May</unitdate>
+							<physdesc>(4 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 3 postcards) </physdesc>
-							<unitdate type="inclusive"> June 1913 </unitdate>
+							<container>Folder 19.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191306">1913 Jun</unitdate>
+							<physdesc>(6 letters, 3 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.8 </container>
-							<unittitle> Burroughs, John,, </unittitle>
-							<physdesc> (1 ltr., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> July 1913 </unitdate>
+							<container>Folder 19.8</container>
+							<unittitle>Burroughs, John,, </unittitle>
+							<unitdate type="inclusive" normal="191307">1913 Jul</unitdate>
+							<physdesc>(1 letter, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs., 5 postcards) </physdesc>
-							<unitdate type="inclusive"> Sept-Nov 1913 </unitdate>
+							<container>Folder 19.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191309/191311">1913
+								Sep-Nov</unitdate>
+							<physdesc>(3 letters, 5 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.10 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> Dec 1913 </unitdate>
+							<container>Folder 19.10</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191312">1913 Dec</unitdate>
+							<physdesc>(6 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 19.11 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Jan 1914 </unitdate>
+							<container>Folder 19.11</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191401">1914 Jan</unitdate>
+							<physdesc>(6 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Feb 1914 </unitdate>
+							<container>Folder 20.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191402">1914 Feb</unitdate>
+							<physdesc>(4 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Mar 1914 </unitdate>
+							<container>Folder 20.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191403">1914 Mar</unitdate>
+							<physdesc>(6 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (8 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Apr 1914 </unitdate>
+							<container>Folder 20.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191404">1914 Apr</unitdate>
+							<physdesc>(8 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> May 1914 </unitdate>
+							<container>Folder 20.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191405">1914 May</unitdate>
+							<physdesc>(7 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> June-Dec 1914 </unitdate>
+							<container>Folder 20.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191406/191412">1914
+								Jun-Dec</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Feb 1915 </unitdate>
+							<container>Folder 20.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191502">1915 Feb</unitdate>
+							<physdesc>(6 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Mar 1915 </unitdate>
+							<container>Folder 20.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191503">1915 Mar</unitdate>
+							<physdesc>(7 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> May-Dec 1915 </unitdate>
+							<container>Folder 20.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191505/191512">1915
+								May-Dec</unitdate>
+							<physdesc>(6 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 2 postcards) </physdesc>
-							<unitdate type="inclusive"> 1-14 Jan 1916 </unitdate>
+							<container>Folder 20.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1916011/19160114">1916 Jan
+								1-14</unitdate>
+							<physdesc>(5 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 20.10 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> 17-31 Jan 1916 </unitdate>
+							<container>Folder 20.10</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19160117/19160131">1916 Jan
+								17-31</unitdate>
+							<physdesc>(7 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (2 ltrs., 1 postcard, 1 telegram) </physdesc>
-							<unitdate type="inclusive"> Feb 1916 </unitdate>
+							<container>Folder 21.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191602">1916 Feb</unitdate>
+							<physdesc>(2 letters, 1 postcard, 1 telegram)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Mar 1916 </unitdate>
+							<container>Folder 21.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191603">1916 Mar</unitdate>
+							<physdesc>(6 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs., 5 postcards) </physdesc>
-							<unitdate type="inclusive"> May-July 1916 </unitdate>
+							<container>Folder 21.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191605/191607">1916
+								May-Jul</unitdate>
+							<physdesc>(3 letters, 5 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1-10 Aug 1916 </unitdate>
+							<container>Folder 21.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1916081/19160810">1916 Aug
+								1-10</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 16-20 Aug 1916 </unitdate>
+							<container>Folder 21.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19160816/19160820">1916 Aug
+								16-20</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 5 postcards) </physdesc>
-							<unitdate type="inclusive"> Sept-15 Nov 1916 </unitdate>
+							<container>Folder 21.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191609/191611">1916
+								Sep-Nov</unitdate>
+							<physdesc>(6 letters, 5 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 1 telegram, 2 postcards) </physdesc>
-							<unitdate type="inclusive"> 16-29 Nov 1916 </unitdate>
+							<container>Folder 21.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="19161116/19161129">1916 Nov
+								16-29</unitdate>
+							<physdesc>(7 letters, 1 telegram, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Dec 1916 </unitdate>
+							<container>Folder 21.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191612">1916 Dec</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 21.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (3 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Feb 1917 </unitdate>
+							<container>Folder 21.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191702">1917 Feb</unitdate>
+							<physdesc>(3 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.1 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Mar 1917 </unitdate>
+							<container>Folder 22.1</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191703">1917 Mar</unitdate>
+							<physdesc>(5 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.2 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs.) </physdesc>
-							<unitdate type="inclusive"> Apr-June 1917 </unitdate>
+							<container>Folder 22.2</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191704/191706">1917
+								Apr-Jun</unitdate>
+							<physdesc>(4 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.3 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (6 ltrs., 1 postcard) </physdesc>
-							<unitdate type="inclusive"> Oct-Dec 1917 </unitdate>
+							<container>Folder 22.3</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191710/191712">1917
+								Oct-Dec</unitdate>
+							<physdesc>(6 letters, 1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.4 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (2 ltrs., 3 postcards) </physdesc>
-							<unitdate type="inclusive"> Jan-May 1918 </unitdate>
+							<container>Folder 22.4</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191801/191805">1918
+								Jan-May</unitdate>
+							<physdesc>(2 letters, 3 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.5 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> July-Dec 1918 </unitdate>
+							<container>Folder 22.5</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191807/191812">1918
+								Jul-Dec</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.6 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (4 ltrs., 6 postcards) </physdesc>
-							<unitdate type="inclusive"> Jan-Aug 1919 </unitdate>
+							<container>Folder 22.6</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191901/191908">1919
+								Jan-Aug</unitdate>
+							<physdesc>(4 letters, 6 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.7 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (7 ltrs., 3 postcards) </physdesc>
-							<unitdate type="inclusive"> Oct 1919 </unitdate>
+							<container>Folder 22.7</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191910">1919 Oct</unitdate>
+							<physdesc>(7 letters, 3 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.8 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (5 ltrs., 4 postcards) </physdesc>
-							<unitdate type="inclusive"> Nov-Dec 1919 </unitdate>
+							<container>Folder 22.8</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="191911/191912">1919
+								Nov-Dec</unitdate>
+							<physdesc>(5 letters, 4 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 22.9 </container>
-							<unittitle> Burroughs, John, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> 1920 </unitdate>
+							<container>Folder 22.9</container>
+							<unittitle>Burroughs, John, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.1 </container>
-							<unittitle> C., H.C., </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Sept 1910 </unitdate>
+							<container>Folder 23.1</container>
+							<unittitle>C., H.C., </unittitle>
+							<unitdate type="inclusive" normal="191009">1910 Sep</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.2 </container>
-							<unittitle> [Cordoba, M.?], </unittitle>
-							<physdesc> (1 fragment) </physdesc>
-							<unitdate type="inclusive"> n.d. </unitdate>
+							<container>Folder 23.2</container>
+							<unittitle>[Cordoba, M.?], </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 fragment)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.2a </container>
-							<unittitle> DeLoach, R.J.H., </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1912, 1916 </unitdate>
+							<container>Folder 23.2a</container>
+							<unittitle>DeLoach, R.J.H., </unittitle>
+							<unitdate type="inclusive" normal="1912/1916">1912, 1916</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.3 </container>
-							<unittitle> Drake, A.W. (Century Company), </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Mar 1910 </unitdate>
+							<container>Folder 23.3</container>
+							<unittitle>Drake, A.W.(Century Company), </unittitle>
+							<unitdate type="inclusive" normal="191003">1910 Mar</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.4 </container>
-							<unittitle> Ford, Mrs. Henry, </unittitle>
-							<physdesc> (1 fragment) </physdesc>
-							<unitdate type="inclusive"> Aug 1923 </unitdate>
+							<container>Folder 23.4</container>
+							<unittitle>Ford, Mrs. Henry, </unittitle>
+							<unitdate type="inclusive" normal="192308">1923 Aug</unitdate>
+							<physdesc>(1 fragment)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.5 </container>
-							<unittitle> Forsyth, Sara, </unittitle>
-							<physdesc> (1 ltr., 1 anno.) </physdesc>
-							<unitdate type="inclusive"> Sept 1921 </unitdate>
+							<container>Folder 23.5</container>
+							<unittitle>Forsyth, Sara, </unittitle>
+							<unitdate type="inclusive" normal="192109">1921 Sep</unitdate>
+							<physdesc>(1 letter, 1 annotated)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.6 </container>
-							<unittitle> Gilbert, E.S., </unittitle>
-							<physdesc> (2 ltrs., 1 anno.) </physdesc>
-							<unitdate type="inclusive"> 1921, n.d. </unitdate>
+							<container>Folder 23.6</container>
+							<unittitle>Gilbert, E.S., </unittitle>
+							<unitdate type="inclusive" normal="1921">1921, undated</unitdate>
+							<physdesc>(2 letters, 1 annotated)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.7 </container>
-							<unittitle> Hendrick, Elizabeth,, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Aug 1916 </unitdate>
+							<container>Folder 23.7</container>
+							<unittitle>Hendrick, Elizabeth, </unittitle>
+							<unitdate type="inclusive" normal="191608">1916 Aug</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.8 </container>
-							<unittitle> Howell, George, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Aug 1916 </unitdate>
+							<container>Folder 23.8</container>
+							<unittitle>Howell, George, </unittitle>
+							<unitdate type="inclusive" normal="191608">1916 Aug</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.9 </container>
-							<unittitle> Johns, Aaron and Annie, </unittitle>
-							<physdesc> (9 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1921-25, n.d. </unitdate>
+							<container>Folder 23.9</container>
+							<unittitle>Johns, Aaron and Annie, </unittitle>
+							<unitdate type="inclusive" normal="1921/1925">1921-1925</unitdate>
+							<physdesc>(9 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.10 </container>
-							<unittitle> Moore, Fillmore, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Apr [n.y.] </unitdate>
+							<container>Folder 23.10</container>
+							<unittitle>Moore, Fillmore, </unittitle>
+							<unitdate type="inclusive">[no year] Apr</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.11 </container>
-							<unittitle> Perry, Burroughs F., </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Apr 1921 </unitdate>
+							<container>Folder 23.11</container>
+							<unittitle>Perry, Burroughs F., </unittitle>
+							<unitdate type="inclusive" normal="192104">1921 Apr</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.12 </container>
-							<unittitle> Philputt, J.M., </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Feb 1910 </unitdate>
+							<container>Folder 23.12</container>
+							<unittitle>Philputt, J.M., </unittitle>
+							<unitdate type="inclusive" normal="191002">1910 Feb</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.13 </container>
-							<unittitle> Plummer, Charles, </unittitle>
-							<physdesc> (1 ltr., 1 anno.) </physdesc>
-							<unitdate type="inclusive"> Mar 1921 </unitdate>
+							<container>Folder 23.13</container>
+							<unittitle>Plummer, Charles, </unittitle>
+							<unitdate type="inclusive" normal="192103">1921 Mar</unitdate>
+							<physdesc>(1 letter, 1 annotated)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.14 </container>
-							<unittitle> Sherk, Henry H., </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1921-24 </unitdate>
+							<container>Folder 23.14</container>
+							<unittitle>Sherk, Henry H., </unittitle>
+							<unitdate type="inclusive" normal="1921/1924">1921-1924</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.15 </container>
-							<unittitle> Vanamee, Grace, </unittitle>
-							<physdesc> (1 ltr., 1 encl.) </physdesc>
-							<unitdate type="inclusive"> Aug 1916 </unitdate>
+							<container>Folder 23.15</container>
+							<unittitle>Vanamee, Grace, </unittitle>
+							<unitdate type="inclusive" normal="191608">1916 Aug</unitdate>
+							<physdesc>(1 letter, 1 enclosure)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.16 </container>
-							<unittitle> Warren, Grace T., </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> July [n.y.] </unitdate>
+							<container>Folder 23.16</container>
+							<unittitle>Warren, Grace T., </unittitle>
+							<unitdate type="inclusive">[no year] Jul</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.17 </container>
-							<unittitle> Winslow, Anne G., </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> July [n.y.] </unitdate>
+							<container>Folder 23.17</container>
+							<unittitle>Winslow, Anne G., </unittitle>
+							<unitdate type="inclusive">[no year] Jul</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.18 </container>
-							<unittitle> Woodworth, Nelly, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Aug 1916 </unitdate>
+							<container>Folder 23.18</container>
+							<unittitle>Woodworth, Nelly, </unittitle>
+							<unitdate type="inclusive" normal="191608">1916 Aug</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.19 </container>
-							<unittitle> empty envelopes (2), </unittitle>
-							<unitdate type="inclusive"> 1912-1924 </unitdate>
+							<container>Folder 23.19</container>
+							<unittitle>empty envelopes (2), </unittitle>
+							<unitdate type="inclusive" normal="1912/1924">1912-1924</unitdate>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.20 </container>
-							<unittitle> M.C. Drake to Addie Barrus Johnson, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Sept 1910 </unitdate>
+							<container>Folder 23.20</container>
+							<unittitle>M.C. Drake to Addie Barrus Johnson, </unittitle>
+							<unitdate type="inclusive" normal="191009">1910 Sep</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 				</c02>
 				<c02 level="subseries">
 					<did>
-						<unittitle> Correspondence from Clara Barrus </unittitle>
+						<unittitle>Correspondence from Clara Barrus</unittitle>
 					</did>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.21 </container>
-							<unittitle> [Burroughs], Julian, </unittitle>
-							<physdesc> (1 postcard) </physdesc>
-							<unitdate type="inclusive"> June [n.y.] </unitdate>
+							<container>Folder 28.10</container>
+							<unittitle>Benton, Charles E.</unittitle>
+							<unitdate type="inclusive" normal="1913/1923">1913-1923</unitdate>
+							<physdesc>(2 letters, 2 postcards)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.22 </container>
-							<unittitle> Burroughs, Ursula, </unittitle>
-							<physdesc> (6 ltrs., 1 anno.) </physdesc>
-							<unitdate type="inclusive"> 1909 </unitdate>
+							<container>Folder 23.21</container>
+							<unittitle>[Burroughs], Julian, </unittitle>
+							<unitdate type="inclusive">[no year] Jun</unitdate>
+							<physdesc>(1 postcard)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.23 </container>
-							<unittitle> Burroughs, Ursula, </unittitle>
-							<physdesc> (5 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1910 </unitdate>
+							<container>Folder 23.22</container>
+							<unittitle>Burroughs, Ursula, </unittitle>
+							<unitdate type="inclusive" normal="1909">1909</unitdate>
+							<physdesc>(6 letters, 1 annotated)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.24 </container>
-							<unittitle> Burroughs, Ursula, </unittitle>
-							<physdesc> (3 ltrs.) </physdesc>
-							<unitdate type="inclusive"> 1911 </unitdate>
+							<container>Folder 23.23</container>
+							<unittitle>Burroughs, Ursula, </unittitle>
+							<unitdate type="inclusive" normal="1910">1910</unitdate>
+							<physdesc>(5 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.25 </container>
-							<unittitle> Drake, Ruth, </unittitle>
-							<physdesc> (1 ltr. and transcript) </physdesc>
-							<unitdate type="inclusive"> Apr 1921 </unitdate>
+							<container>Folder 23.24</container>
+							<unittitle>Burroughs, Ursula, </unittitle>
+							<unitdate type="inclusive" normal="1911">1911</unitdate>
+							<physdesc>(3 letters)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 23.26 </container>
-							<unittitle> Haring, H.A., </unittitle>
-							<physdesc> (13 ltrs., 1 anno.) </physdesc>
-							<unitdate type="inclusive"> 1921-1931 </unitdate>
+							<container>Folder 23.25</container>
+							<unittitle>Drake, Ruth, </unittitle>
+							<unitdate type="inclusive" normal="192104">1921 Apr</unitdate>
+							<physdesc>(1 letter and transcript)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 24.1 </container>
-							<unittitle> Reed [Vassar student], </unittitle>
-							<physdesc> (1 ltr. [transcript]) </physdesc>
-							<unitdate type="inclusive"> 1919 </unitdate>
+							<container>Folder 23.26</container>
+							<unittitle>Haring, H.A., </unittitle>
+							<unitdate type="inclusive" normal="1921/1931">1921-1931</unitdate>
+							<physdesc>(13 letters, 1 annotated)</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 24.2 </container>
-							<unittitle> Worthington, Ruth, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> Sept 1926 </unitdate>
+							<container>Folder 24.1</container>
+							<unittitle>Reed [Vassar student], </unittitle>
+							<unitdate type="inclusive" normal="1919">1919</unitdate>
+							<physdesc>(1 letter [transcript])</physdesc>
 						</did>
 					</c03>
 					<c03 level="file">
 						<did>
-							<container> Folder 24.3 </container>
-							<unittitle> Barrus "letter" in French, </unittitle>
-							<physdesc> (1 ltr.) </physdesc>
-							<unitdate type="inclusive"> n.d. </unitdate>
+							<container>Folder 24.2</container>
+							<unittitle>Worthington, Ruth, </unittitle>
+							<unitdate type="inclusive" normal="192609">1926 Sep</unitdate>
+							<physdesc>(1 letter)</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 24.3</container>
+							<unittitle>Barrus "letter" in French, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>(1 letter)</physdesc>
 						</did>
 					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series2">
 				<did>
-					<unittitle> SERIES II. NOTES AND NOTEBOOKS</unittitle>
+					<unittitle>SERIES II. NOTES AND NOTEBOOKS, </unittitle>
+					<unitdate type="inclusive" normal="1902/1924">circa 1902-1924</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.3 </container>
-						<unittitle> Notes on corrections of MSS, </unittitle>
-						<physdesc> (MS, 3 p., photocopies, 2 anno.) </physdesc>
-						<unitdate type="inclusive"> ca. 1902, n.d. </unitdate>
+						<container>Folder 24.3</container>
+						<unittitle>Notes on corrections of MSS, </unittitle>
+						<unitdate type="inclusive" normal="1902">circa 1902, undated</unitdate>
+						<physdesc>(MS, 3 p., photocopies, 2 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.4 </container>
-						<unittitle> "Our Santa Claus", </unittitle>
-						<physdesc> (MS, 2 p.) </physdesc>
-						<unitdate type="inclusive"> 1920 </unitdate>
+						<container>Folder 24.4</container>
+						<unittitle>Our Santa Claus, </unittitle>
+						<unitdate type="inclusive" normal="1920">1920</unitdate>
+						<physdesc>(MS, 2 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.5 </container>
-						<unittitle> copies of inscriptions CB wrote in books for friends, </unittitle>
-						<physdesc> (MS, 6 p.) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
+						<container>Folder 24.5</container>
+						<unittitle>copies of inscriptions CB wrote in books for friends, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, 6 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.6 </container>
-						<unittitle> miscellaneous notes, </unittitle>
-						<physdesc> (MS/TS, 3 p., 3 fragments) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
+						<container>Folder 24.6</container>
+						<unittitle>miscellaneous notes, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS/TS, 3 p., 3 fragments)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.7 </container>
-						<unittitle> "A Study in Handwriting" by Elizabeth Tuttle, </unittitle>
-						<physdesc> (MS, 2 p.) </physdesc>
-						<unitdate type="inclusive"> Oct 1901 </unitdate>
+						<container>Folder 24.7</container>
+						<unittitle>A Study in Handwriting by Elizabeth Tuttle, </unittitle>
+						<unitdate type="inclusive" normal="190110">1901 Oct</unitdate>
+						<physdesc>(MS, 2 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.8 </container>
-						<unittitle> Notes by EBK on a brochure printed by CB, </unittitle>
-						<physdesc> (MS, 2 p.) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
+						<container>Folder 24.8</container>
+						<unittitle>Notes by EBK on a brochure printed by CB, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, 2 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.9 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 94 p., 2 p. anno.) </physdesc>
-						<unitdate type="inclusive"> 1901-04 </unitdate>
+						<container>Folder 24.9</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="1901/1904">1901-1904</unitdate>
+						<physdesc>(MS, 94 p., 2 p. annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 24.10 </container>
-						<unittitle> Journal, photocopy, </unittitle>
-						<physdesc> (MS, 119 p.) </physdesc>
-						<unitdate type="inclusive"> 1901-1904 </unitdate>
+						<container>Folder 24.10</container>
+						<unittitle>Journal, photocopy, </unittitle>
+						<unitdate type="inclusive" normal="1901/1904">1901-1904</unitdate>
+						<physdesc>(MS, 119 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.1 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 6 p.) </physdesc>
-						<unitdate type="inclusive"> Jan 1905, July 1918 </unitdate>
+						<container>Folder 25.1</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="190501/191807">1905 Jan, 1918
+							Jul</unitdate>
+						<physdesc>(MS, 6 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.2 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 73 p.) </physdesc>
-						<unitdate type="inclusive"> May-Oct 1911; July 1913; July- Sept 1914 </unitdate>
+						<container>Folder 25.2</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="191105/191409">1911 May-Oct, 1913 Jul,
+							1914 Jul-Sep</unitdate>
+						<physdesc>(MS, 73 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.3 </container>
-						<unittitle> Journal Kelley transcript, </unittitle>
-						<physdesc> (MS, 2 p.) </physdesc>
-						<unitdate type="inclusive"> June-July 1914 </unitdate>
+						<container>Folder 25.3</container>
+						<unittitle>Journal Kelley transcript, </unittitle>
+						<unitdate type="inclusive" normal="191406/191407">1914 Jun-Jul</unitdate>
+						<physdesc>(MS, 2 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.4 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (TS, 7 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> 1915 </unitdate>
+						<container>Folder 25.4</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="1915">1915</unitdate>
+						<physdesc>(TS, 7 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.5 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (TS, 9 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> 1916 </unitdate>
+						<container>Folder 25.5</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="1916">1916</unitdate>
+						<physdesc>(TS, 9 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.6 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (TS, 25 p., photocopy) </physdesc>
-						<unitdate type="inclusive"> 1916-1917 </unitdate>
+						<container>Folder 25.6</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="1916/1917">1916-1917</unitdate>
+						<physdesc>(TS, 25 p., photocopy)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.7 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 120 p.) </physdesc>
-						<unitdate type="inclusive"> 1917 </unitdate>
+						<container>Folder 25.7</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>(MS, 120 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 25.8 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 100 p.) </physdesc>
-						<unitdate type="inclusive"> Jan-Apr 1918 </unitdate>
+						<container>Folder 25.8</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="191801/191804">1918 Jan-Apr</unitdate>
+						<physdesc>(MS, 100 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 26.1 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 167 p.) </physdesc>
-						<unitdate type="inclusive"> Apr-Dec 1918 </unitdate>
+						<container>Folder 26.1</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="191804/191812">1918 Apr-Dec</unitdate>
+						<physdesc>(MS, 167 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 26.2 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 203 p.) </physdesc>
-						<unitdate type="inclusive"> Jan-Dec 1919 </unitdate>
+						<container>Folder 26.2</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="191901/191912">1919 Jan-Dec</unitdate>
+						<physdesc>(MS, 203 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 26.3 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 24 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> Dec 1919 </unitdate>
+						<container>Folder 26.3</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="191912">1919 Dec</unitdate>
+						<physdesc>(MS, 24 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 26.4 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 75 p.) </physdesc>
-						<unitdate type="inclusive"> Jan-Mar 1920 </unitdate>
+						<container>Folder 26.4</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="192001/192003">1920 Jan-Mar</unitdate>
+						<physdesc>(MS, 75 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 26.5 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 7 p., photocopy, 1 anno.) </physdesc>
-						<unitdate type="inclusive"> 1-16 Apr 1920 </unitdate>
+						<container>Folder 26.5</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="1920041/19200416">1920 Apr
+							1-16</unitdate>
+						<physdesc>(MS, 7 p., photocopy, 1 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 27.1 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 99 p.) </physdesc>
-						<unitdate type="inclusive"> Apr-July 1920 </unitdate>
+						<container>Folder 27.1</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="192004/192007">1920 Apr-Jul</unitdate>
+						<physdesc>(MS, 99 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 27.2 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 108 p.) </physdesc>
-						<unitdate type="inclusive"> July-Dec 1920 </unitdate>
+						<container>Folder 27.2</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="192007/192012">1920 Jul-Dec</unitdate>
+						<physdesc>(MS, 108 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 27.3 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 49 p.) </physdesc>
-						<unitdate type="inclusive"> Jan-Mar 1921 </unitdate>
+						<container>Folder 27.3</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="192101/192103">1921 Jan-Mar</unitdate>
+						<physdesc>(MS, 49 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 27.4 </container>
-						<unittitle> Journal [Kelley transcript?], </unittitle>
-						<physdesc> (MS, 7 p.) </physdesc>
-						<unitdate type="inclusive"> 25-27 Mar 1921 </unitdate>
+						<container>Folder 27.4</container>
+						<unittitle>Journal [Kelley transcript?], </unittitle>
+						<unitdate type="inclusive" normal="19210325/19210327">1921 Mar
+							25-27</unitdate>
+						<physdesc>(MS, 7 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 27.5 </container>
-						<unittitle> Journal, </unittitle>
-						<physdesc> (MS, 49 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> Jan-Apr 1924 </unitdate>
+						<container>Folder 27.5</container>
+						<unittitle>Journal, </unittitle>
+						<unitdate type="inclusive" normal="192401/192404">1924 Jan-Apr</unitdate>
+						<physdesc>(MS, 49 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container> * Box 29 </container>
-						<unittitle> Scrapbook [oversized], </unittitle>
-						<unitdate type="inclusive"> ca. 1903-1913 </unitdate>
+						<container>Box 29</container>
+						<unittitle>Scrapbook, </unittitle>
+						<unitdate type="inclusive" normal="1903/1913">circa 1903-1913</unitdate>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series3">
 				<did>
-					<unittitle> SERIES III. MATERIAL ABOUT JOHN BURROUGHS</unittitle>
+					<unittitle>SERIES III. MATERIAL ABOUT JOHN BURROUGHS, </unittitle>
+					<unitdate type="inclusive" normal="1891/1902">circa 1891-1902</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 28.1 </container>
-						<unittitle> Reminiscences of Burroughs by Barrus, </unittitle>
-						<physdesc> (MS, 13 p.) </physdesc>
-						<unitdate type="inclusive"> ca. 1891-1902 </unitdate>
+						<container>Folder 28.1</container>
+						<unittitle>Reminiscences of Burroughs by Barrus, </unittitle>
+						<unitdate type="inclusive" normal="1891/1902">circa 1891-1902</unitdate>
+						<physdesc>(MS, 13 p.)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 28.2 </container>
-						<unittitle> Notes by Barrus on Burroughs' book on Audubon, </unittitle>
-						<physdesc> (MS, 2 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> Folder 28.3 </container>
-						<unittitle> Notes by Barrus to Burroughs (criticisms of MSS), </unittitle>
-						<physdesc> (MS/TS, 14 p., 3 anno.) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
+						<container>Folder 28.2</container>
+						<unittitle>Notes by Barrus on Burroughs' book on Audubon, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, 2 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 28.4 </container>
-						<unittitle> List of articles about Burroughs, </unittitle>
-						<physdesc> (MS, 1 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
+						<container>Folder 28.3</container>
+						<unittitle>Notes by Barrus to Burroughs (criticisms of MSS), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS/TS, 14 p., 3 annotated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.4</container>
+						<unittitle>List of articles about Burroughs, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(MS, 1 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
 			</c01>
 			<c01 level="series" id="series4">
 				<did>
-					<unittitle> SERIES IV. CLIPPINGS AND PHOTOGRAPHS</unittitle>
+					<unittitle>SERIES IV. CLIPPINGS AND PHOTOGRAPHS, </unittitle>
+					<unitdate type="inclusive" normal="1903/1931">1903-1931</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
-						<container> Folder 28.5 </container>
-						<unittitle> Articles by Barrus, </unittitle>
-						<physdesc> (37 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> 1903-1928, n.d. </unitdate>
+						<container>Folder 28.5</container>
+						<unittitle>Articles by Barrus, </unittitle>
+						<unitdate type="inclusive" normal="1903/1928">1903-1928, undated</unitdate>
+						<physdesc>(37 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 28.6 </container>
-						<unittitle> Articles about Barrus, </unittitle>
-						<physdesc> (10 p., 1 anno.) </physdesc>
-						<unitdate type="inclusive"> 1914-1928, n.d. </unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container> Folder 28.7 </container>
-						<unittitle> Obituaries of Barrus, </unittitle>
-						<physdesc> (2 p., photocopies) </physdesc>
-						<unitdate type="inclusive"> 1931 </unitdate>
+						<container>Folder 28.6</container>
+						<unittitle>Articles about Barrus, </unittitle>
+						<unitdate type="inclusive" normal="1914/1928">1914-1928, undated</unitdate>
+						<physdesc>(10 p., 1 annotated)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 28.8 </container>
-						<unittitle> miscellaneous clippings, </unittitle>
-						<physdesc> (17 p., 2 anno.) </physdesc>
-						<unitdate type="inclusive"> 1910-11, n.d. </unitdate>
+						<container>Folder 28.7</container>
+						<unittitle>Obituaries of Barrus, </unittitle>
+						<unitdate type="inclusive" normal="1931">1931</unitdate>
+						<physdesc>(2 p., photocopies)</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container> Folder 28.9 </container>
-						<unittitle> Photographs, </unittitle>
-						<physdesc> (7 photos, 1 anno.) </physdesc>
-						<unitdate type="inclusive"> n.d. </unitdate>
+						<container>Folder 28.8</container>
+						<unittitle>Miscellaneous clippings, </unittitle>
+						<unitdate type="inclusive" normal="1910/1911">1910-1911, undated</unitdate>
+						<physdesc>(17 p., 2 annotated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.9</container>
+						<unittitle>Photographs, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>(7 photographs, 1 annotated)</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 28.11</container>
+						<unittitle>Photograph - Barrus with John Burroughs, </unittitle>
+						<unitdate type="inclusive" normal="19170527">1917 May 27</unitdate>
+						<physdesc>(1 annotated photograph)</physdesc>
 					</did>
 				</c02>
 			</c01>

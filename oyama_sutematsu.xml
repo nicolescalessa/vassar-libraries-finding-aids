@@ -5,7 +5,7 @@
 		<eadid countrycode="us" mainagencycode="npv">npv_oyama_sutematsu</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the Sutematsu Yamakawa Oyama Papers, 1872-1983 (bulk 1882-1919)</titleproper>
+				<titleproper>Guide to the Sutematsu Yamakawa Oyama Papers, 1872-2015 (bulk 1882-1919)</titleproper>
 				<author>Inventory prepared by Laura Streett</author>
 			</titlestmt>
 			<publicationstmt>
@@ -28,8 +28,9 @@
 				<persname>Oyama, Sutematsu, 1860-1919</persname>
 			</origination>
 			<unittitle label="Title:" encodinganalog="245">Sutematsu Yamakawa Oyama Papers</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">1872-1983 (bulk 1882-1919)</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">0.6 cubic feet (2 boxes)</physdesc>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1872-2015</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1882-1919</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">0.4 cubic feet (1 box)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -107,25 +108,25 @@
 				in Japan before and after her marriage. The main correspondents are her Vassar
 				classmate, Jessie Wheeler, and the daughter of her first U.S. sponsor, Alice Bacon.
 				The rest of the collection consists of magazine and newspaper clippings covering the
-				period 1872-1983, with the bulk from 1882 to 1919. Also in the collection are a
+				period 1872-2015, with the bulk from 1882 to 1919. Also in the collection are a
 				letter from Sutematsu's daughter, Hisako, to Anne S. Wyman (VC 1882), thanking Mrs.
 				Wyman for her condolences on the death of Princess Oyama; and a small series of
 				letters of the Vassar Club to the Japan Society regarding Vassar College's donation
 				of Princess Oyama's court robe to the Society.</p>
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
-			<p>This collection is open for research according to the <archref
+			<p>This collection is open for research according to the <extref
 					href="https://library.vassar.edu/specialcollections/policies" show="new"
 					>regulations of the Vassar College Archives and Special Collections
-					Library</archref> without any additional restrictions.</p>
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
 			<p>Permission to quote (publish) from unpublished or previously published material must
-				be obtained as described in the <archref
+				be obtained as described in the <extref
 					href="https://library.vassar.edu/specialcollections/policies" show="new"
 					>regulations of the Vassar College Archives and Special Collections
-					Library.</archref></p>
+					Library.</extref></p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
@@ -166,7 +167,7 @@
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett, October 2005. Updated by Emma Gronbeck, August 2024.</p>
+			<p>Encoded by Laura Streett, October 2005. Updated by Emma Gronbeck, November 2025.</p>
 		</odd>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
@@ -190,8 +191,8 @@
 			<head>Series List</head>
 			<c01 level="series">
 				<did>
-					<unittitle><ref target="series1">Series I.</ref> Correspondence</unittitle>
-					<physdesc>(Box 1)</physdesc>
+					<unittitle><ref target="series1">Series I.</ref> Correspondence, </unittitle>
+					<unittitle type="inclusive">1882-1966</unittitle>
 				</did>
 				<scopecontent>
 					<p>This series includes letters from Sutematsu Oyama as well as a set of letters
@@ -203,19 +204,18 @@
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle><ref target="series2">Series II.</ref> Printed materials</unittitle>
-					<physdesc>(Box 2)</physdesc>
+					<unittitle><ref target="series2">Series II.</ref> Printed Materials, </unittitle>
+					<unittitle type="inclusive">1872-2015</unittitle>
 				</did>
 				<scopecontent>
-					<p>This series includes a number of articles and newspaper clippings about
+					<p>This series includes a number of articles and newspaper clippings both written by and about
 						Sutematsu Oyama both while she was alive and after her death in 1919.</p>
 				</scopecontent>
 			</c01>
 			<c01 level="series">
 				<did>
-					<unittitle><ref target="series3">Series III.</ref> Miscellaneous
-						materials</unittitle>
-					<physdesc>(Box 2)</physdesc>
+					<unittitle><ref target="series3">Series III.</ref> Miscellaneous Materials, </unittitle>
+					<unittitle type="inclusive">1872-1978</unittitle>
 				</did>
 				<scopecontent>
 					<p>The material in this series includes photographs, Vassar College realia and
@@ -226,228 +226,42 @@
 		</dsc>
 		<dsc type="in-depth">
 			<head>Container List</head>
-			<c01 level="series" id="series1">
-				<did>
-					<unittitle>SERIES I. CORRESPONDENCE</unittitle>
-				</did>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Letters by Sutematsu Oyama</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.1</container>
-							<unittitle>Sutematsu Oyama to Alice Bacon, </unittitle>
-							<unitdate type="inclusive">1882-1883</unitdate>
-							<physdesc>(11 letters)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.2</container>
-							<unittitle>Sutematsu Oyama to Alice Bacon, </unittitle>
-							<unitdate type="inclusive">1884-1894</unitdate>
-							<physdesc>(4 letters)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.3</container>
-							<unittitle>Sutematsu Oyama to Alice Bacon, </unittitle>
-							<unitdate type="inclusive">1899-1903</unitdate>
-							<physdesc>(11 letters)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.4</container>
-							<unittitle>Sutematsu Oyama to Alice Bacon, </unittitle>
-							<unitdate type="inclusive">1904-1918</unitdate>
-							<physdesc>(12 letters)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.5</container>
-							<unittitle>Typescripts of Sutematsu Oyama to Alice Bacon, </unittitle>
-							<unitdate type="inclusive">1882-1919</unitdate>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.6</container>
-							<unittitle>Sutematsu Oyama to J. B. Sargent, Esq., </unittitle>
-							<unitdate type="inclusive">1904</unitdate>
-							<physdesc>(2 letters)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.7</container>
-							<unittitle>Sutematsu Oyama to Jessie F. Wheeler, </unittitle>
-							<unitdate type="inclusive">1882</unitdate>
-							<physdesc>(5 letters with 2 transcripts, 2 postcards, 1 annotated note by
-								Wheeler)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.8</container>
-							<unittitle>Sutematsu Oyama to others, </unittitle>
-							<unitdate type="inclusive">circa 1885-1905</unitdate>
-							<physdesc>(3 letters, 1 postcard)</physdesc>
-						</did>
-					</c03>
-				</c02>
-				<c02 level="subseries">
-					<did>
-						<unittitle>Letters relating to Sutematsu Oyama</unittitle>
-					</did>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.9</container>
-							<unittitle>Baroness Hisako Oyama Ida (daughter of Sutematsu) to Alice
-								Bacon, </unittitle>
-							<unitdate type="inclusive">1903, undated</unitdate>
-							<physdesc>(1 postcard, 1 letter)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.10</container>
-							<unittitle>Baroness Hisako Oyama Ida to Anne Southworth Wyman, </unittitle>
-							<unitdate type="inclusive">9 July [1919]</unitdate>
-							<physdesc>(1 letter)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.11</container>
-							<unittitle>Prince Kashiwa Oyama (son of Sutematsu) to Jessie F. Wheeler, </unittitle>
-							<unitdate type="inclusive">17 September 1941</unitdate>
-							<physdesc>(1 postcard)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.12</container>
-							<unittitle>Shigeko Nagai Uriu to Alice Bacon, </unittitle>
-							<unitdate type="inclusive">7 July 1908</unitdate>
-							<physdesc>(1 letter)</physdesc>
-						</did>
-					</c03>
-					<c03 level="file">
-						<did>
-							<container>Folder 1.13</container>
-							<unittitle>Miscellaneous correspondence relating to Sutematsu Yamakawa
-								Oyama, </unittitle>
-							<unitdate type="inclusive">1924-1966</unitdate>
-							<physdesc>(1 transcript, 1 memo, 5 letters)</physdesc>
-						</did>
-					</c03>
-				</c02>
-			</c01>
-			<c01 level="series">
-				<did>
-					<unittitle id="series2">SERIES II. PRINTED MATERIALS</unittitle>
-				</did>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.1</container>
-						<unittitle>Articles published about Sutematsu Yamakawa Oyama, </unittitle>
-						<unitdate type="inclusive">1872-1882</unitdate>
-						<physdesc>(photocopies)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.2</container>
-						<unittitle>Articles published about Sutematsu Yamakawa Oyama, </unittitle>
-						<unitdate type="inclusive">1904- 1983</unitdate>
-						<physdesc>(photocopies)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.3</container>
-						<unittitle>Newspaper clippings about Sutematsu Yamakawa Oyama, </unittitle>
-						<unitdate type="inclusive">1878-1932</unitdate>
-						<physdesc>(photocopies)</physdesc>
-					</did>
-				</c02>
-			</c01>
-			<c01 level="series" id="series3">
-				<did>
-					<unittitle>SERIES III. MISCELLANEOUS MATERIALS</unittitle>
-				</did>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.4</container>
-						<unittitle>Portions of the Record Book of the VC Class of 1882; History of
-							the Class of 1882, prepared for the 50th reunion, </unittitle>
-						<unitdate type="inclusive">1932</unitdate>
-						<physdesc>(photocopies)</physdesc>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.5</container>
-						<unittitle>Biographical information collected by the VC Alumnae Office, </unittitle>
-						<unitdate type="inclusive">undated</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.6</container>
-						<unittitle>Autograph cards of Sutematsu Oyama, </unittitle>
-						<unitdate type="inclusive">1881, undated</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.7</container>
-						<unittitle>Wedding announcement of Sutematsu Yamakawa and Iwao Oyama, </unittitle>
-						<unitdate type="inclusive">1883</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.8</container>
-						<unittitle>Goodwill message from the Women's Patriotic Association of Japan, </unittitle>
-						<unitdate type="inclusive">December 1918</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.9</container>
-						<unittitle>Handwritten guest list of dinner in Tokyo honoring Jessie
-							Wheeler, </unittitle>
-						<unitdate type="inclusive">20 April 1928</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.10</container>
-						<unittitle>Photographs of Sutematsu Yamakawa Oyama while at Vassar, </unittitle>
-						<unitdate type="inclusive">circa 1878-1882</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.11</container>
-						<unittitle>Photographs of Sutematsu Yamakawa Oyama before and after Vassar, </unittitle>
-						<unitdate type="inclusive">circa 1872, 1882-1900</unitdate>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.12</container>
-						<unittitle>Photographs of Sutematsu Yamakawa Oyama’s friends, family and
-							others, </unittitle>
-						<unitdate type="inclusive">1928, 1932, undated</unitdate>
-					</did>
-				</c02>
-			</c01>
+			<c01 level="series" id="series1"><did><unittitle>SERIES I. CORRESPONDENCE</unittitle></did>
+				<c02 level="subseries"><did><unittitle>Letters by Sutematsu Oyama</unittitle></did>
+					<c03 level="file"><did><container>Folder 1.1</container><unittitle>Oyama, Sutematsu to Bacon, Alice, </unittitle><unitdate type="inclusive" normal="1882/1883">1882-1883</unitdate><physdesc>(11 letters)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.2</container><unittitle>Oyama, Sutematsu to Bacon, Alice, </unittitle><unitdate type="inclusive" normal="1884/1894">1884-1894</unitdate><physdesc>(4 letters)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.3</container><unittitle>Oyama, Sutematsu to Bacon, Alice, </unittitle><unitdate type="inclusive" normal="1899/1903">1899-1903</unitdate><physdesc>(11 letters)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.4</container><unittitle>Oyama, Sutematsu to Bacon, Alice, </unittitle><unitdate type="inclusive" normal="1904/1918">1904-1918</unitdate><physdesc>(12 letters)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.5</container><unittitle>Oyama, Sutematsu to Bacon, Alice, </unittitle><unitdate type="inclusive" normal="1882/1918">1882-1918</unitdate><physdesc>(transcripts)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.8</container><unittitle>Oyama, Sutematsu to Hemquemburg, Elizabeth Fletcher, </unittitle><unitdate type="inclusive" normal="19050529">1905 May 29</unitdate><physdesc>(1 postcard)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.8</container><unittitle>Oyama, Sutematsu to Howe, Elizabeth M., </unittitle><unitdate type="inclusive" normal="1885/1886">circa 1885-1886</unitdate><physdesc>(1 letter)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.6</container><unittitle>Oyama, Sutematsu to Sargent, J. B., Esq., </unittitle><unitdate type="inclusive" normal="190411/190412">1904 Nov-Dec</unitdate><physdesc>(2 letters)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.7</container><unittitle>Oyama, Sutematsu to Wheeler, Jessie F., </unittitle><unitdate type="inclusive" normal="188208/188212">1882 Aug-Dec</unitdate><physdesc>(5 letters with 2 transcripts, 2 postcards, 1 annotated note by Wheeler)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.8</container><unittitle>Oyama, Sutematsu to Wyman, Anne Southworth, </unittitle><unitdate type="inclusive" normal="1893/1905">1893, circa 1905</unitdate><physdesc>(2 letters)</physdesc></did></c03></c02>
+				<c02 level="subseries"><did><unittitle>Letters relating to Sutematsu Oyama</unittitle></did>
+					<c03 level="file"><did><container>Folder 1.9</container><unittitle>Ida, Hisako Oyama, Baroness (daughter of Sutematsu) to Bacon, Alice, </unittitle><unitdate type="inclusive" normal="1903">1903, undated</unitdate><physdesc>(1 postcard, 1 letter)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.10</container><unittitle>Ida, Hisako Oyama, Baroness to Wyman, Anne Southworth, </unittitle><unitdate type="inclusive" normal="19190709">[1919] Jul 9</unitdate><physdesc>(1 letter)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.11</container><unittitle>Oyama, Kashiwa, Prince (son of Sutematsu) to Wheeler, Jessie F., </unittitle><unitdate type="inclusive" normal="19410917">1941 Sep 17</unitdate><physdesc>(1 postcard)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.12</container><unittitle>Uriu, Shigeko Nagai to Bacon, Alice, </unittitle><unitdate type="inclusive" normal="19080707">1908 Jul 7</unitdate><physdesc>(1 letter)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.13a</container><unittitle>Wheeler, Jessie F. to Howe, Elizabeth M., </unittitle><unitdate type="inclusive" normal="192805">1928 May</unitdate><physdesc>(transcript)</physdesc></did></c03>
+					<c03 level="file"><did><container>Folder 1.13b</container><unittitle>Miscellaneous correspondence relating to Sutematsu Yamakawa Oyama, </unittitle><unitdate type="inclusive" normal="1937/1966">1937-1966</unitdate><physdesc>(1 memo, 5 letters)</physdesc></did></c03></c02></c01>
+			<c01 level="series" id="series2"><did><unittitle>SERIES II. PRINTED MATERIALS</unittitle></did>
+				<c02 level="file"><did><container>Folder 2.1a</container><unittitle>Articles by Sutematsu Yamakawa Oyama, </unittitle><unitdate type="inclusive" normal="1880/1905">1880-1905</unitdate><physdesc>(photocopies)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.1b</container><unittitle>Articles and clippings about Sutematsu Yamakawa Oyama, </unittitle><unitdate type="inclusive" normal="1872/1896">1872-1896</unitdate><physdesc>(photocopies)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.2</container><unittitle>Articles and clippings about Sutematsu Yamakawa Oyama, </unittitle><unitdate type="inclusive" normal="1901/1929">1901-1929</unitdate><physdesc>(photocopies)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.3</container><unittitle>Articles and clippings about Sutematsu Yamakawa Oyama, </unittitle><unitdate type="inclusive" normal="1950/2015">circa 1950-2015</unitdate><physdesc>(photocopies)</physdesc></did></c02></c01>
+			<c01 level="series" id="series3"><did><unittitle>SERIES III. MISCELLANEOUS MATERIALS</unittitle></did>
+				<c02 level="file"><did><container>Folder 2.4</container><unittitle>Materials from the Class of 1882 (including portions of the record book of the VC Class of 1882 and a History of the Class of 1882)</unittitle><unitdate type="inclusive" normal="1882/1932">1882-1932</unitdate><physdesc>(photocopies)</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 2.5</container><unittitle>Biographical information collected by the VC Alumnae Office, </unittitle><unitdate type="inclusive" normal="1919/1978">1919-1978</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.6</container><unittitle>Autograph cards of Sutematsu Oyama, </unittitle><unitdate type="inclusive" normal="1881">1881, undated</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.7</container><unittitle>Wedding announcement of Sutematsu Yamakawa and Iwao Oyama, </unittitle><unitdate type="inclusive" normal="18831108">1883 Nov 8</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.8</container><unittitle>Goodwill message to the Alumnae of Vassar College from the Women's Patriotic Association of Japan, </unittitle><unitdate type="inclusive" normal="191811">1918 Nov</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.9</container><unittitle>Handwritten guest list of dinner in Tokyo honoring Jessie Wheeler, </unittitle><unitdate type="inclusive" normal="19280420">1928 Apr 20</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.10</container><unittitle>Photographs of Sutematsu Yamakawa Oyama while at Vassar, </unittitle><unitdate type="inclusive" normal="1878/1882">circa 1878-1882</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.11a</container><unittitle>Photographs of Sutematsu Yamakawa Oyama before Vassar, </unittitle><unitdate type="inclusive" normal="1872/1876">1872-circa 1876</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.11b</container><unittitle>Photographs of Sutematsu Yamakawa Oyama after Vassar, </unittitle><unitdate type="inclusive" normal="1884">1884, undated</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.12</container><unittitle>Photographs of Sutematsu Yamakawa Oyama’s friends, family and others, </unittitle><unitdate type="inclusive" normal="1904/1932">1904-1932, undated</unitdate></did></c02>
+				<c02 level="file"><did><container>Folder 2.13</container><unittitle>Illustrated frame which originally contained a photograph of Oyama with Alice Bacon, Shigeko Uriu, and Ume Tsuda, </unittitle><unitdate type="inclusive">undated</unitdate></did></c02></c01>
 		</dsc>
 	</archdesc>
 </ead>

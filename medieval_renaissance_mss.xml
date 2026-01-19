@@ -29,7 +29,7 @@
 				<corpname>Vassar College. Library</corpname></origination>
 			<unittitle label="Title:" encodinganalog="245">Medieval and Renaissance Manuscripts Collection</unittitle>
 			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">11th century - 17th century</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">22 codices, 79 leaves and cuttings (3 boxes, 2 map folders)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">22 codices, 80 leaves and cuttings (3 boxes, 2 map folders)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -123,7 +123,7 @@
 			<head>Encoding Information</head>
 			<p>Encoded by Elizabeth Clarke, April 2007.</p>
 			<p>Updated by Mark Seidl, October 2011, September 2014, and April 2019.</p>
-			<p>Last updated by Emma Gronbeck, October 2024.</p>
+			<p>Last updated by Emma Gronbeck, January 2026.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
@@ -142,6 +142,7 @@
 			<p>Leaf 74 was purchased from Bernard Quaritch, Ltd., February 2011. [M2011-006]</p>
 			<p>Leaf 83 was the bequest of Frederich Hammond, November 2023. [M2024-004]</p>
 			<p>Leaf 84 was purchased from Les Enluminures, September 2024. [M2024-019]</p>
+			<p>Leaf 85 was the gift of Robin Currie, January 2026. [M2026-001]</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
@@ -975,6 +976,14 @@
 						<container type="box"> (Box 2)</container>
 						<unittitle>A Leaf from the Rosenbaum Psalter-Hours [Flanders or the Rhineland, or England], </unittitle>
 						<unitdate type="inclusive" normal="1260" certainty="approximate">circa 1260</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="item">Leaf 85</container>
+						<container type="box"> (Box 1)</container>
+						<unittitle>A Leaf from a Book of Hours [France], </unittitle>
+						<unitdate type="inclusive" normal="1480/1490" certainty="approximate">circa 1480-1490</unitdate>
 					</did>
 				</c02>
 			</c01>

@@ -32,7 +32,7 @@
 			<unitdate type="inclusive" normal="1859/1989" certainty="approximate"
 				label="Inclusive Dates:" encodinganalog="245$f">1859-2025</unitdate>
 			<unitdate type="bulk" normal="1867/1950" label="Bulk Dates:" encodinganalog="245$f">1867-1967</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">approximately 249.4 cubic feet (213 boxes, 700 volumes, 1 OV folder)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 249.8 cubic feet (214 boxes, 701 volumes, 1 OV folder)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -278,15 +278,15 @@
 					<unittitle>
 						<ref target="series8">Series VIII.</ref> Papers, </unittitle>
 					<unitdate type="inclusive" normal="1860/1984">1860-1984</unitdate>
-					<physdesc>[3.2 cubic feet (14 boxes, 1 volume)]</physdesc>
+					<physdesc>[3.4 cubic feet (15 boxes, 1 volume)]</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
 						<ref target="series9">Series IX.</ref> Scrapbooks, </unittitle>
-					<unitdate type="inclusive" normal="1871/1963">1871-1963</unitdate>
-					<physdesc>[approximately 149.6 cubic feet (364 volumes)]</physdesc>
+					<unitdate type="inclusive" normal="1871/1976">1871-1976</unitdate>
+					<physdesc>[approximately 149.8 cubic feet (365 volumes)]</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -6208,6 +6208,34 @@
 				</c02>
 				<c02 level="file">
 					<did>
+						<container>Box 214</container>
+						<unittitle>VC 1947 — Dodson, Gertrude (Robertson) — Economics 105, </unittitle>
+						<unitdate type="inclusive" normal="194704">1947 Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 214</container>
+						<unittitle>VC 1947 — Dodson, Gertrude (Robertson) — English 105 and 244c, </unittitle>
+						<unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 214</container>
+						<unittitle>VC 1947 — Dodson, Gertrude (Robertson) — History 230 and 268, </unittitle>
+						<unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Box 214</container>
+						<unittitle>VC 1947 — Dodson, Gertrude (Robertson) — Philosophy 110, </unittitle>
+						<unitdate type="inclusive" normal="1946">1945-1946</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
 						<container>Box 91</container>
 						<unittitle>VC 1947 — Thompson, Jane (Fiske) — Dance [Phys Ed 380), </unittitle>
 						<unitdate type="inclusive" normal="1947">1947</unitdate>
@@ -6375,8 +6403,8 @@
 			<c01 level="series" id="series9">
 				<did>
 					<unittitle>SERIES IX. SCRAPBOOKS (Memory Books), </unittitle>
-					<unitdate type="inclusive" normal="1871/1963">1871-1963</unitdate>
-					<physdesc>[364 volumes]</physdesc>
+					<unitdate type="inclusive" normal="1871/1976">1871-1976</unitdate>
+					<physdesc>[365 volumes]</physdesc>
 				</did>
 				<c02 level="item">
 					<did>
@@ -8693,6 +8721,13 @@
 				</c02>
 				<c02 level="item">
 					<did>
+						<container>Scrapbook 362</container>
+						<unittitle>VC 1926 — Harden, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1872/1976">1872-1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
 						<container>Scrapbook 342 (Oversize)</container>
 						<unittitle>VC 1926 — Hasbrouck, Ruth I., </unittitle>
 						<unitdate type="inclusive" normal="1922/1926">1922-1926</unitdate>
@@ -9069,9 +9104,9 @@
 					<did>
 						<container>Album 2</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/brooks-anna-baker-1868"
-								>VC 1868 — Brooks, Anna Baker, </archref>
+								>VC 1868 — Brooks, Anna Baker, </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1868">1868</unitdate>
 					</did>
@@ -9079,9 +9114,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 265</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/warner-martha-s-1868"
-								>VC 1868 — Warner, Martha S.</archref>, </unittitle>
+								>VC 1868 — Warner, Martha S.</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1868">1868</unitdate>
 					</did>
 				</c02>
@@ -9284,9 +9319,9 @@
 					<did>
 						<container>Album 22</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/nhb-1879"
-								>VC 1879 — [Braden, Nannie H.?], </archref>
+								>VC 1879 — [Braden, Nannie H.?], </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1875/1879" certainty="approximate">circa
 							1875-1879</unitdate>
@@ -9310,9 +9345,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 27</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/unidentified-1879"
-								>VC 1879 — Unidentified</archref>, </unittitle>
+								>VC 1879 — Unidentified</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1879">1879</unitdate>
 					</did>
 				</c02>
@@ -9327,9 +9362,9 @@
 					<did>
 						<container>Album 34</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/babbott-lydia-pratt-1880"
-								>VC Ex 1880 — Babbott, Lydia (Pratt), </archref>
+								>VC Ex 1880 — Babbott, Lydia (Pratt), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1880">1880</unitdate>
 					</did>
@@ -9503,9 +9538,9 @@
 					<did>
 						<container>Album 59</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/cooley-nellie-wooster-1886-0"
-								>VC 1886 — Cooley, Nellie (Wooster), </archref>
+								>VC 1886 — Cooley, Nellie (Wooster), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1886">1886</unitdate>
 					</did>
@@ -9514,9 +9549,9 @@
 					<did>
 						<container>Album 60</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/cooley-nellie-wooster-1886"
-								>VC 1886 — Cooley, Nellie (Wooster), </archref>
+								>VC 1886 — Cooley, Nellie (Wooster), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1886">1886</unitdate>
 					</did>
@@ -9561,9 +9596,9 @@
 					<did>
 						<container>Album 66</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/briggs-grace-rideout-1888"
-								>VC 1888 — Briggs, Grace (Rideout), </archref>
+								>VC 1888 — Briggs, Grace (Rideout), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1888">1888</unitdate>
 					</did>
@@ -9572,9 +9607,9 @@
 					<did>
 						<container>Album 67</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/briggs-grace-rideout-1888-1"
-								>VC 1888 — Briggs, Grace (Rideout), </archref>
+								>VC 1888 — Briggs, Grace (Rideout), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1888">1888</unitdate>
 					</did>
@@ -9583,9 +9618,9 @@
 					<did>
 						<container>Album 68</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/briggs-grace-rideout-1888-0"
-								>VC 1888 — Briggs, Grace (Rideout), </archref>
+								>VC 1888 — Briggs, Grace (Rideout), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1888">1888</unitdate>
 					</did>
@@ -9594,9 +9629,9 @@
 					<did>
 						<container>Album 307</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/brinckerhoff-julia-1889"
-								>VC Ex 1888 — Brinkerhoff, Julia, </archref>
+								>VC Ex 1888 — Brinkerhoff, Julia, </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1885/1889" certainty="approximate">circa
 							1885-1889</unitdate>
@@ -9613,9 +9648,9 @@
 					<did>
 						<container>Album 64</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/bond-mabel-cornish-1889-0"
-								>VC 1889 — Bond, Mabel (Cornish), </archref>
+								>VC 1889 — Bond, Mabel (Cornish), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1889">1889</unitdate>
 					</did>
@@ -9624,9 +9659,9 @@
 					<did>
 						<container>Album 65</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/bond-mabel-cornish-1889"
-								>VC 1889 — Bond, Mabel (Cornish), </archref>
+								>VC 1889 — Bond, Mabel (Cornish), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1889">1889</unitdate>
 					</did>
@@ -9649,9 +9684,9 @@
 					<did>
 						<container>Album 87</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/freeman-keen-1889"
-								>VC 1889 — Freeman, Corinne (Keen), </archref>
+								>VC 1889 — Freeman, Corinne (Keen), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1889">1889</unitdate>
 					</did>
@@ -9660,9 +9695,9 @@
 					<did>
 						<container>Album 88</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/freeman-keen-1889-0"
-								>VC 1889 — Freeman, Corinne (Keen), </archref>
+								>VC 1889 — Freeman, Corinne (Keen), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1889">1889</unitdate>
 					</did>
@@ -9693,9 +9728,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 81</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/rockwell-anna-g-1890"
-								>VC 1890 — Rockwell, Anna G.</archref>, </unittitle>
+								>VC 1890 — Rockwell, Anna G.</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1887/1890">1887-1890</unitdate>
 					</did>
 				</c02>
@@ -9703,9 +9738,9 @@
 					<did>
 						<container>Album 37</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-student-photo-albums/furness-caroline-1891"
-								>VC 1891 — Furness, Caroline, </archref>
+								>VC 1891 — Furness, Caroline, </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1891">1891</unitdate>
 					</did>
@@ -9765,9 +9800,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 312</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/thorne-gertrude-g-1895"
-								>VC 1895 — Thorne, Elisabeth G.</archref>, </unittitle>
+								>VC 1895 — Thorne, Elisabeth G.</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1895" certainty="approximate">circa
 							1895</unitdate>
 					</did>
@@ -9853,9 +9888,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 95</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/smith-gertrude-1897"
-								>VC 1897 — Smith, Gertrude (cyanotypes)</archref>, </unittitle>
+								>VC 1897 — Smith, Gertrude (cyanotypes)</extref>, </unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
@@ -9870,9 +9905,9 @@
 					<did>
 						<container>Album 124</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/borden-fanny-1898"
-								>VC 1898 — Borden, Fanny (cyanotypes), </archref>
+								>VC 1898 — Borden, Fanny (cyanotypes), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1894/1908">1894-1908</unitdate>
 					</did>
@@ -9902,9 +9937,9 @@
 					<did>
 						<container>Album 92</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/mooney-mabel-schmidt-1900"
-								>VC 1900 — Mooney, Mabel (Schmidt), </archref>
+								>VC 1900 — Mooney, Mabel (Schmidt), </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -9933,18 +9968,18 @@
 				<c02 level="item">
 					<did>
 						<container>Album 85</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/warner-mary-whitman-1901"
-								>VC 1901 — Warner, Mary (Whitman)</archref>, </unittitle>
+								>VC 1901 — Warner, Mary (Whitman)</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1901">1901</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
 						<container>Album 86</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/warner-mary-whitman-1901-0"
-								>VC 1901 — Warner, Mary (Whitman)</archref>, </unittitle>
+								>VC 1901 — Warner, Mary (Whitman)</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1901">1901</unitdate>
 					</did>
 				</c02>
@@ -9966,9 +10001,9 @@
 					<did>
 						<container>Album 84</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/moore-elisabeth-1902"
-								>VC 1902 — Moore, Elizabeth, </archref>
+								>VC 1902 — Moore, Elizabeth, </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1899/1902">1899-1902</unitdate>
 					</did>
@@ -9976,9 +10011,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 298</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/utter-grace-l-1902"
-								>VC 1902 — Utter, Grace L.</archref>, </unittitle>
+								>VC 1902 — Utter, Grace L.</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1898/1902" certainty="approximate">circa
 							1898-1902</unitdate>
 					</did>
@@ -10108,9 +10143,9 @@
 					<did>
 						<container>Album 114</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/kenyon-helen-1905-1"
-								>VC 1905 — Kenyon, Helen, </archref>
+								>VC 1905 — Kenyon, Helen, </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10119,9 +10154,9 @@
 					<did>
 						<container>Album 115</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/kenyon-helen-1905-2"
-								>VC 1905 — Kenyon, Helen, </archref>
+								>VC 1905 — Kenyon, Helen, </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10130,9 +10165,9 @@
 					<did>
 						<container>Album 116</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/kenyon-helen-1905-0"
-								>VC 1905 — Kenyon, Helen, </archref>
+								>VC 1905 — Kenyon, Helen, </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10141,9 +10176,9 @@
 					<did>
 						<container>Album 281</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/kenyon-helen-1905"
-								>VC 1905 — Kenyon, Helen, </archref>
+								>VC 1905 — Kenyon, Helen, </extref>
 						</unittitle>
 						<unitdate type="inclusive" >undated</unitdate>
 					</did>
@@ -10161,9 +10196,9 @@
 					<did>
 						<container>Album 306</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/barnes-caroline-s-1905"
-								>VC 1905 — Ross, Caroline (Barnes), </archref>
+								>VC 1905 — Ross, Caroline (Barnes), </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1901/1905" certainty="approximate">circa
 							1901-1905</unitdate>
@@ -10245,9 +10280,9 @@
 					<did>
 						<container>Album 103</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/cutler-ruth-e-1907-0"
-								>VC 1907 — Cutler, Ruth E., </archref>
+								>VC 1907 — Cutler, Ruth E., </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10256,9 +10291,9 @@
 					<did>
 						<container>Album 104</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/cutler-ruth-e-1907"
-								>VC 1907 — Cutler, Ruth E., </archref>
+								>VC 1907 — Cutler, Ruth E., </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10397,9 +10432,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 327</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/stratton-ethel-hannah-1909"
-								>VC 1909 — Stratton, Ethel (Hannah)</archref>, </unittitle>
+								>VC 1909 — Stratton, Ethel (Hannah)</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1906/1909" certainty="approximate">circa
 							1906-1909</unitdate>
 					</did>
@@ -10416,9 +10451,9 @@
 					<did>
 						<container>Album 286</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/hawk-della-j-1910"
-								>VC 1910 — Hawk, Della J., </archref>
+								>VC 1910 — Hawk, Della J., </extref>
 						</unittitle>
 						<unitdate type="inclusive" normal="1910" certainty="approximate">circa
 							1910</unitdate>
@@ -10427,18 +10462,18 @@
 				<c02 level="item">
 					<did>
 						<container>Album 160</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/thom-katherine-bissell-1910"
-								>VC 1910 — Thom, Katharine (Bissell)</archref>, </unittitle>
+								>VC 1910 — Thom, Katharine (Bissell)</extref>, </unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
 						<container>Album 161</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/thom-katherine-bissell-1910-0"
-								>VC 1910 — Thom, Katharine (Bissell)</archref>, </unittitle>
+								>VC 1910 — Thom, Katharine (Bissell)</extref>, </unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
 				</c02>
@@ -10580,9 +10615,9 @@
 					<did>
 						<container>Album 233</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/morrill-elizabeth-1912-0"
-								>VC 1912 — Morrill, Elizabeth (Cutter), </archref>
+								>VC 1912 — Morrill, Elizabeth (Cutter), </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10591,9 +10626,9 @@
 					<did>
 						<container>Album 234</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/morrill-elizabeth-1912-1"
-								>VC 1912 — Morrill, Elizabeth (Cutter), </archref>
+								>VC 1912 — Morrill, Elizabeth (Cutter), </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10602,9 +10637,9 @@
 					<did>
 						<container>Album 235</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/morrill-elizabeth-1912"
-								>VC 1912 — Morrill, Elizabeth (Cutter), </archref>
+								>VC 1912 — Morrill, Elizabeth (Cutter), </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10706,9 +10741,9 @@
 					<did>
 						<container>Album 216</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/babbott-elizabeth-french-1914"
-								>VC 1914 — Babbott, Elizabeth (French), </archref>
+								>VC 1914 — Babbott, Elizabeth (French), </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10717,9 +10752,9 @@
 					<did>
 						<container>Album 140</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/boyden-alice-g-1914-0"
-								>VC 1914 — Boyden, Alice G., </archref>
+								>VC 1914 — Boyden, Alice G., </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -10728,9 +10763,9 @@
 					<did>
 						<container>Album 141</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/boyden-alice-g-1914"
-								>VC 1914 — Boyden, Alice G., </archref>
+								>VC 1914 — Boyden, Alice G., </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -11152,22 +11187,22 @@
 					<did>
 						<container>Album 236</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/moss-margaret-morris-benney-1918"
-								>VC 1918 — Moss, Margaret Morris (Benney), </archref>
+								>VC 1918 — Moss, Margaret Morris (Benney), </extref>
 						</unittitle>
-						<unitdate type="inclusive">undated</unitdate>
+						<unitdate type="inclusive" normal="1914/1916">1914-1916</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
 						<container>Album 237</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/moss-margaret-morris-benney-1918-0"
-								>VC 1918 — Moss, Margaret Morris (Benney), </archref>
+								>VC 1918 — Moss, Margaret Morris (Benney), </extref>
 						</unittitle>
-						<unitdate type="inclusive">undated</unitdate>
+						<unitdate type="inclusive" normal="1916/1918">1916-1918</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
@@ -11230,9 +11265,9 @@
 					<did>
 						<container>Album 227</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/momsen-dorothea-harnecker-1919"
-								>VC 1919 — Momsen, Dorothea (Harnecker), </archref>
+								>VC 1919 — Momsen, Dorothea (Harnecker), </extref>
 						</unittitle>
 						<unitdate type="inclusive">undated</unitdate>
 					</did>
@@ -11240,9 +11275,9 @@
 				<c02 level="item">
 					<did>
 						<container>Album 326</container>
-						<unittitle><archref
+						<unittitle><extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/towle-florence-wilson-1919"
-								>VC 1919 — Towle, Florence</archref>, </unittitle>
+								>VC 1919 — Towle, Florence</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1915/1919">1915-1919</unitdate>
 					</did>
 				</c02>
@@ -11379,10 +11414,10 @@
 					<did>
 						<container>Album 270</container>
 						<unittitle>
-							<archref
+							<extref
 								href="https://digitallibrary.vassar.edu/collections/other-collections/student-photo-albums/janish-jeane-russell-1924"
 								>VC 1924 — Janish, Jeanne (Russell) — Vassar College campus and
-								friends, </archref>
+								friends</extref>, 
 						</unittitle>
 						<unitdate type="inclusive" normal="1920/1924">1920-1924</unitdate>
 					</did>
@@ -11457,14 +11492,14 @@
 				<c02 level="item">
 					<did>
 						<container>Album 268</container>
-						<unittitle>VC 1931 — Hobby, Gladys, </unittitle>
+						<unittitle><extref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-student-photo-albums/efc5d053-c85b-4d8a-abd6">VC 1931 — Hobby, Gladys</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
 						<container>Album 269</container>
-						<unittitle>VC 1931 — Hobby, Gladys, </unittitle>
+						<unittitle><extref href="https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-student-photo-albums/0102d675-50b9-4065-90e0">VC 1931 — Hobby, Gladys</extref>, </unittitle>
 						<unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate>
 					</did>
 				</c02>

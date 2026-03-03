@@ -143,17 +143,22 @@
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Original processing date unknown. Materials in Box 15 incorperated into collection by Emma Gronbeck, June 2024, from unprocessed materials in the College Archives.</p>
+			<p>Original processing date unknown. Materials in Boxes 14 and 15 were incorperated into the collection by Emma Gronbeck, June 2024, from unprocessed materials in the College Archives.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
 			<p>An artificial collection, collected by various departments of the Library from
 				multiple sources over several decades.</p>
 		</acqinfo>
+		<altformavail encodinganalog="530">
+			<head>Other Formats</head>
+			<p>Many of the photographs in Boxes 12 and 13 have been digitized as the Vassar College Early Images Collection and are <extref href="https://digitallibrary.vassar.edu/collections/other-collections?f[0]=collection:5588">available online in the Vassar College Digital Library</extref>.</p>
+		</altformavail>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
 			<p>Vassar College Archives Files, Archives and Special Collections Library, Vassar College Libraries.</p>
 		</prefercite>
+	
 		<dsc type="in-depth">
 			<head>Folder List</head>
 			<p/>
@@ -3280,6 +3285,13 @@
 			</c01>
 			<c01 level="file">
 				<did>
+					<container>Box 14</container>
+					<unittitle>Scholarships — R. H. McDonald, contract and modifications, </unittitle>
+					<unitdate type="inclusive">1877-1887</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
 					<container>Box 15, Folder 9.29</container>
 					<unittitle>Scholarships — Adolph Sutro Scholarship, </unittitle>
 					<unitdate type="inclusive">1913 Dec 13</unitdate>
@@ -5008,6 +5020,11 @@
 					<container>Box 12, Folder 7.107</container>
 					<unittitle>Zoology Department</unittitle>
 					<physdesc>[SEE ALSO: Natural History Department]</physdesc>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<unittitle>NOTE: Many of the photographs in Boxes 12 and 13 have been digitized as the Vassar College Early Images Collection and are <extref href="https://digitallibrary.vassar.edu/collections/other-collections?f[0]=collection:5588">available online in the Vassar College Digital Library</extref>.</unittitle>
 				</did>
 			</c01>
 			<c01 level="file">

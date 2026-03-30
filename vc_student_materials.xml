@@ -32,7 +32,7 @@
 			<unitdate type="inclusive" normal="1859/1989" certainty="approximate"
 				label="Inclusive Dates:" encodinganalog="245$f">1859-2025</unitdate>
 			<unitdate type="bulk" normal="1867/1950" label="Bulk Dates:" encodinganalog="245$f">1867-1967</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">approximately 249.8 cubic feet (214 boxes, 701 volumes, 1 OV folder)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 250.3 cubic feet (214 boxes, 702 volumes, 1 OV folder)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -285,8 +285,8 @@
 				<did>
 					<unittitle>
 						<ref target="series9">Series IX.</ref> Scrapbooks, </unittitle>
-					<unitdate type="inclusive" normal="1871/1976">1871-1976</unitdate>
-					<physdesc>[approximately 149.8 cubic feet (365 volumes)]</physdesc>
+					<unitdate type="inclusive" normal="1866/1976">1866-1976</unitdate>
+					<physdesc>[approximately 150.3 cubic feet (366 volumes)]</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -6410,20 +6410,27 @@
 			<c01 level="series" id="series9">
 				<did>
 					<unittitle>SERIES IX. SCRAPBOOKS (Memory Books), </unittitle>
-					<unitdate type="inclusive" normal="1871/1976">1871-1976</unitdate>
-					<physdesc>[365 volumes]</physdesc>
+					<unitdate type="inclusive" normal="1866/1976">1866-1976</unitdate>
+					<physdesc>[366 volumes]</physdesc>
 				</did>
 				<c02 level="item">
 					<did>
+						<container>Scrapbook 210 (Oversize)</container>
+						<unittitle>VC 1869 — Goodsell, Abby F., </unittitle>
+						<unitdate type="inclusive" normal="1866/1889">1866-1889</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
 						<container>Scrapbook 1</container>
-						<unittitle>VC 1870-1874 [Special]— Hastings, Alice O., </unittitle>
+						<unittitle>VC 1870-1874 [Special] — Hastings, Alice O., </unittitle>
 						<unitdate type="inclusive" normal="1873/1877">1873-1877</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">
 					<did>
 						<container>Scrapbook 2</container>
-						<unittitle>VC 1870-1874 [Special]— Hastings, Alice O., </unittitle>
+						<unittitle>VC 1870-1874 [Special] — Hastings, Alice O., </unittitle>
 						<unitdate type="inclusive" normal="1873/1877">1873-1877</unitdate>
 					</did>
 				</c02>

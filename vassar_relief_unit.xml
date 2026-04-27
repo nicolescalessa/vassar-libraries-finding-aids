@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
 <ead relatedencoding="MARC21">
-	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
-		<eadid countrycode="us" mainagencycode="npv"> npv_vassar_relief_unit
-		</eadid>
+	<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+		dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="npv">npv_vassar_relief_unit</eadid>
 		<filedesc>
 			<titlestmt>
-				<titleproper>Guide to the American Red Cross Vassar Relief Unit Records, 1914-1920</titleproper>
+				<titleproper>Guide to the American Red Cross Vassar Relief Unit Collection, 1910-1961 (bulk 1916-1926)</titleproper>
 				<author>Inventory prepared by Archives and Special Collections Library, Vassar College Libraries</author>
 			</titlestmt>
 			<publicationstmt>
-				<publisher>Archives and Special Collections Library, Vassar College Libraries </publisher>
+				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
 					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
@@ -18,343 +18,3344 @@
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>Finding aid encoded by Laura Streett, <date>2008</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<creation>Finding aid encoded by Laura Streett, <date>2008</date>.</creation>
+			<langusage>Finding aid written in <language>English</language>.</langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
-				<corpname>American Red Cross. Vassar Unit</corpname>
-			</origination>
+				<corpname>American Red Cross. Vassar Unit</corpname></origination>
 			<unittitle label="Title:" encodinganalog="245">American Red Cross Vassar Relief Unit Records</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1914-1920 </unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 6 cubic feet (17 boxes)</physdesc>
+			<unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="245$f">1910-1961</unitdate>
+			<unitdate type="bulk" label="Bulk Dates:" encodinganalog="245$f">1917-1925</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">7 cubic feet (14 boxes), 1 framed item</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> Records concerning the Vassar Relief Unit's their work in France during and after World War I.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">Records concerning the American Red Cross Vassar Relief Unit's work in France during and after
+				World War I, including letters, photographs, reports, financial statements, account
+				books, artwork, clippings, Red Cross publications, Vassar Unit
+				newsletters, and realia.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Administrative History</head>
-			<p>In January 1918, the Associate Alumnae of Vassar College voted to send a delegation of Vassar graduates to France to assist in the relief efforts of the American Red Cross. There are many sources of further information on the Vassar Relief Unit, including:</p>
-			<p>Lambie, Margaret. <emph render="underline">Verdun Experiences</emph>. Washington: Courant Press, 1945. [Main D570.9 .L28 1945] </p>
-			<p>Several articles in the <emph render="italic"> Vasssar Quarterly</emph> [Main LH1.V3 V37] </p>
-			<p>The <archref href="https://digitallibrary05.vassar.edu/collections/finding-aids/guide-vassar-college-subject-files-1864-2018"> Vassar College Subject Files</archref> [folders 26.57-26.60] </p>
+			<p>In January 1918, the Associate Alumnae of Vassar College voted to send a delegation
+				of Vassar graduates to France to assist in the relief efforts of the American Red
+				Cross. The Vassar Unit left the Red Cross recreation huts in Savenay at the end of February, 1919 and began their relief work in Verdun in mid-March after regrouping in Paris. The
+				Unit's nurse, Gertrude Hodgman, had already agreed to a position with the Red
+				Cross's Palestine Commission, so Margaret Tupper was recruited to join the Unit in
+				Verdun as their new nurse. Ruth Crippen and Lida Little also returned to the United States in early
+				1919.</p>
+			<p>In Verdun, the relief unit worked with the local government and the French Red Cross to provide services and supplies to French refugees returning to Verdun after the end of the war. The unit in Verdun set up a dispensary and a milk station, known as the "Goutte de Lait," or "Drop of Milk," which pasteurized and distributed free milk to the children of Verdun. The work in Verdun was transition from the original members of the unit to Elsa Butler Grove in January of 1919, and eventually entirely into the management of the French by September of 1920.</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<p><list>
+					<head><emph render="bold">Alumnae Association of Vassar College</emph></head>
+					<item>Helen Kenyon (VC 1905) - President, AAVC</item>
+					<item>Mabel Kirk (VC 1900) - Chairman, Alumnae Endowment Committee</item>
+					<item>Harriet Sawyer (VC 1907) - Executive Secretary, AAVC</item>
+					<item>Fanny P. Townsend (VC 1902) - Chairman, General War Service Committee of the Alumnae</item>
+			</list>
+			</p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<p><list>
+					<head><emph render="bold">Members of the Vassar Red Cross Relief Unit</emph></head>
+					<item>Margaret Lambie (VC 1907) - Director, 1918 Aug - 1919 Jun</item>
+					<item>Lida A. Little (VC 1906) - Secretary, 1918 Aug - 1919 Apr</item>
+					<item>Elsa Butler Grove (VC 1905) - Vice-President / Medical social worker, 1919 Dec - 1920 Sep</item>
+					<item>Helen Bradfield (VC 1906) - Social worker, 1918 Aug - 1920(?)</item>
+					<item>Ruth Crippen (VC 1904) - Social worker, 1918 Aug - 1919 Mar(?)</item>
+					<item>Ruth Cutler (VC 1912) - Social worker, 1918 Aug - 1918 Dec 27 (Died from pneumonia in Paris)</item>
+					<item>Gertrude Hodgman (VC 1912) - Head Nurse, 1918 Aug - 1919 Feb(?)</item>
+					<item>Marion R. Meyers (VC 1910) - Dietician, 1918 Aug - 1920(?)</item>
+					<item>Ethel M. Riddle (VC 1910) - Head Social Worker, 1918 Aug - 1919 Feb(?)</item>
+					<item>Elinor Prudden (VC 1912) - Social worker, 1918 Aug - After 1920 Feb(?)</item>
+					<item>Margaret Tupper (VC 1906) - Nurse, 1919 Apr - Before 1920 Apr(?)</item>
+					<item>Ruth Tuttle (VC 1913) - Social worker, 1919 Mar(?) - 1920(?)</item>
+				</list></p>
+		</bioghist>
+		<bioghist encodinganalog="545">
+			<p><list>
+					<head><emph render="bold">Members of the Vassar Y.M.C.A. Canteen Unit</emph></head>
+					<item>Elizabeth K. Van der Veer (VC 1906) - Unit head</item>
+					<item>Dorothea Gay (VC 1911), 1918 Aug - 1918 Nov 9 (Died from pneumonia in Bordeaux)</item>
+					<item>Helen I. Haight (VC 1898)</item>
+					<item>Laura C. Hickox (VC 1905)</item>
+					<item>Anne Hopson (VC 1907)</item>
+					<item>Elizabeth Maltby (VC 1915)</item>
+					<item>Elizabeth Page (VC 1912)</item>
+					<item>Mary C. Prizer (VC 1910)</item>
+					<item>Gertrude Valentine (VC 1912), 1918 Sep - 1919 Jun (Died in an automobile accident in Le Mans)</item>
+					<item>Emily Ford Ward (VC 1906)</item>
+					<item>Irma Waterhouse (VC 1914)</item>	
+				</list></p>
 		</bioghist>
 		<scopecontent encodinganalog="520">
 			<head>Scope and Content Note</head>
-			<p>Records concerning the Vassar Relief Unit's their work in France during and after World War I, including letters, photographs, reports, financial statements, account books, clippings, circular letters, Red Cross publications, and Vassar Unit newsletters. Correspondence is primarily of Elsa Butler Grove and Margaret Lambie. There are also two diaries kept by Grove concerning a trip to France in 1914 and her experiences with the Vassar Unit in 1920. There are also various realia and uniforms of the Vassar Unit. </p>
+			<p>Records concerning the American Red Cross Vassar Relief Unit's work in France during and after
+				World War I, including letters, photographs, reports, financial statements, account
+				books, artwork, clippings, Red Cross publications, Vassar Unit
+				newsletters, and realia.</p>
 		</scopecontent>
+		<arrangement encodinganalog="351">
+			<head>Arrangement</head>
+			<p>The collection is organized into eleven series.</p>
+		</arrangement>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections
+					Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must
+				be obtained as described in the <extref
+					href="https://library.vassar.edu/specialcollections/policies" show="new">
+					regulations of the Vassar College Archives and Special Collections Library.
+				</extref></p>
 		</userestrict>
 		<relatedmaterial encodinganalog="544 1">
-			<head> Related Materials</head>
+			<head>Related Materials</head>
 			<p>
-				<archref href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-elsa-butler-grove-papers-1921-1969">Elsa Butler Grove Papers</archref></p>
+				<archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-elsa-butler-grove-papers-1921-1969"
+					>Elsa Butler Grove Papers</archref></p>
+			<p><extref href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/3l403e/alma991013555319707396">Letters written by Fanny P. Simpson Townsend during her time as a Vassar student were collected and published as "The Turn of the Century Group" by her daughter, Frances Townsend Marshall, in 1973.[Main Library LD7186 .S55 1973]</extref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/93c4e644-2931-438a-a832-72380ebccb14"
+					>Vassar College Training Camp for Nurses Records</archref></p>
+			<p><extref href="https://vassar.primo.exlibrisgroup.com/permalink/01VAC_INST/3l403e/alma991002204429707396">Lambie, Margaret. <emph render="underline">Verdun Experiences</emph>. Washington: Courant Press, 1945. [Main Library D570.9 .L28 1945]</extref></p>
+			<p><archref
+					href="https://digitallibrary.vassar.edu/collections/finding-aids/guide-vassar-college-subject-files-1864-2018"
+					>The Vassar College Subject Files [folders 26.57-26.60] contain additional
+					information on the Vassar Unit.</archref></p>
 		</relatedmaterial>
+		<separatedmaterial encodinganalog="544 0">
+			<head>Separated Materials</head>
+			<p>A small collection of books primarily belonging to Margaret Lambie was removed from the collection and catalogued separately.</p>
+		</separatedmaterial>
 		<controlaccess>
 			<head>Subject Headings</head>
 			<controlaccess>
 				<head>Names:</head>
-				<persname source="lcnaf" encodinganalog="600"> Grove, Elsa Butler, 1884-1969</persname>
-				<persname source="lcnaf" encodinganalog="600"> Lambie, Margaret</persname>
+				<persname source="lcnaf" encodinganalog="600">Cutler, Ruth, 1890-1918</persname>
+				<persname source="lcnaf" encodinganalog="600">Finley, John H. (John Huston), 1863-1940</persname>
+				<persname source="lcnaf" encodinganalog="600">Grove, Elsa Butler, 1884-1969</persname>
+				<persname source="lcnaf" encodinganalog="600">Haight, Elizabeth Hazelton, 1872-1964</persname>
+				<persname source="local" encodinganalog="600">Hodgman, Gertrude</persname>
+				<persname source="local" encodinganalog="600">Kenyon, Helen, 1884-1978</persname>
+				<persname source="lcnaf" encodinganalog="600">Lambie, Margaret</persname>
+				<persname source="local" encodinganalog="600">Little, Lida A., 1883-1964</persname>
+				<persname source="local" encodinganalog="600">Meyers, Marion R., 1888-1974</persname>
+				<persname source="lcnaf" encodinganalog="600">Stimson, Julia C. (Julia Catherine), 1881-1948</persname>
 				<persname source="local" encodinganalog="600">Townsend, Fanny P. Simpson, 1881-1970</persname>
+				<persname source="local" encodinganalog="600">Valentine, Gertrude C., -1919</persname>
+				<persname source="lcnaf" encodinganalog="600">Van der Veer, Elizabeth Kirkpatrick</persname>
 			</controlaccess>
 			<controlaccess>
 				<head>Organizations:</head>
+				<corpname source="lcnaf" encodinganalog="610">American National Red Cross</corpname>
 				<corpname source="lcnaf" encodinganalog="610">Vassar College--Students</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Vassar College. Associate Alumnae</corpname>
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects:</head>
-				<subject source="lcsh" encodinganalog="650"> International relief</subject>
-				<subject source="lcsh" encodinganalog="650"> Medical social work--France--Verdun</subject>
-				<subject source="lcsh" encodinganalog="650"> World War, 1914-1918--France</subject>
-				<subject source="lcsh" encodinganalog="650"> World War, 1914-1918--War work--Red Cross</subject>
-				<subject source="lcsh" encodinganalog="650"> Women--Diaries</subject>
-				<subject source="lcsh" encodinganalog="650"> Women college students</subject>
+				<subject source="lcsh" encodinganalog="650">Humanitarian assistance--France--20th century</subject>
+				<subject source="lcsh" encodinganalog="650">Medical social work--France--Savenay</subject>
+				<subject source="lcsh" encodinganalog="650">Medical social work--France--Verdun</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1914-1918--Civilian relief</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1914-1918--France</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1914-1918--War work--Red Cross</subject>
+				<subject source="lcsh" encodinganalog="650">Women college students</subject>
 			</controlaccess>
 			<controlaccess>
 				<head>Places:</head>
-				<geogname source="lcnaf" encodinganalog="651"> France--Description and travel</geogname>
+				<geogname source="lcnaf" encodinganalog="651">France--Description and travel--20th century</geogname>
+				<geogname source="lcnaf" encodinganalog="651">France--Economic conditions--20th century</geogname>
+				<geogname source="lcnaf" encodinganalog="651">France--Social conditions--20th century</geogname>
+				<geogname source="lcnaf" encodinganalog="651">Verdun (France)--Description and travel--20th century</geogname>
 			</controlaccess>
 			<controlaccess>
-				<head> Document Types:</head>
-				<genreform source="aat" encodinganalog="655"> Photographs</genreform>
-				<genreform source="aat" encodinganalog="655"> Account books</genreform>
-				<genreform source="aat" encodinganalog="655"> Diaries</genreform>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Account books</genreform>
+				<genreform source="aat" encodinganalog="655">Artwork</genreform>
+				<genreform source="aat" encodinganalog="655">Certificates</genreform>
+				<genreform source="aat" encodinganalog="655">Clippings</genreform>
+				<genreform source="aat" encodinganalog="655">Clothing</genreform>
+				<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+				<genreform source="aat" encodinganalog="655">Diaries</genreform>
+				<genreform source="aat" encodinganalog="655">Drawings (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Financial records</genreform>
+				<genreform source="aat" encodinganalog="655">Medals</genreform>
+				<genreform source="aat" encodinganalog="655">Newsletters</genreform>
+				<genreform source="aat" encodinganalog="655">Paintings (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Paper money</genreform>
+				<genreform source="aat" encodinganalog="655">Passports</genreform>
+				<genreform source="aat" encodinganalog="655">Photograph albums</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs</genreform>
+				<genreform source="aat" encodinganalog="655">Pins (jewelry)</genreform>
+				<genreform source="aat" encodinganalog="655">Plaques</genreform>
+				<genreform source="aat" encodinganalog="655">Postcards</genreform>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Prints (visual works)</genreform>
+				<genreform source="aat" encodinganalog="655">Publications (documents)</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+				<genreform source="aat" encodinganalog="655">Reports</genreform>
+				<genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+				<genreform source="aat" encodinganalog="655">Shrapnel</genreform>
+				<genreform source="aat" encodinganalog="655">Travel Documents</genreform>
+				<genreform source="aat" encodinganalog="655">Watercolors (paintings)</genreform>
 			</controlaccess>
 			<controlaccess>
-				<head>VCL Categories</head>
-				<subject source="local" encodinganalog="690"> Vassar College Non-campus Organizations </subject>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Vassar College Non-campus Organizations</subject>
 			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
-			<p>Encoded by Laura Streett, July 2008.</p>
+			<p>Encoded by Emma Gronbeck, January 2026.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Boxes 1-12 are from the first accession, only boxes 1-2 have been processed, boxes 3-12 remain unprocessed. Five other boxes are a second accession and are not numbered as part of this collection (A2005-005) and include uniforms, other realia, correspondence, photographs, and publications.</p>
+			<p>The majority of materials in the Vassar Unit Collection were gifted to the Vassar
+				Library in 1956 by Elsa Butler Grove and in 1960 by Margaret Lambie. These materials
+				were partially processed at an unknown date. Materials were added to and separated
+				from the collection at unknown dates. Photographs were separated from the collection
+				and added to the Vassar College Photograph Files, and then returned to the Vassar
+				Unit Collection. Materials were also separated from the Elsa Butler Grove Papers and
+				added to the Vassar Unit Collection.</p>
+			<p>The collection was re-processed in 2025 by Emma Gronbeck, with the goal of
+				re-grouping material in the collection by provenance. As a result, many materials
+				created by Elsa Butler Grove were separated from the collection and added to the
+				Elsa Butler Grove Papers, including correspondence, photographs, reports, and
+				realia.</p>
+			<p>Materials in the collection were grouped together by creator when one could be
+				identified. Materials without a discernible provenance were added to either Series
+				I. General or Series X. Publications. Because letters from both sides of many
+				correspondences were present in the collection, the decision was made to place
+				letters written by an individual with a dedicated series in the collection in that
+				series (i.e. letters written by Fanny P. Townsend are almost all collected in Series
+				VII. Fanny P. Townsend Papers), so in many instances a researcher will need folders
+				from two different series in order to see both sides of a conversation.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Gift of multiple donors.</p>
+			<p>Gift of Lida A. Little (VC 1906), 1 Jul 1925.</p>
+			<p>Gift of Elsa Butler Grove (VC 1905), Jun 1956.</p>
+			<p>Gift of Margaret Lambie (VC 1907), 12 Jul 1960.</p>
+			<p>Some materials of Marion R. Meyers (VC 1910) were the gift of Paula R. Hyatt (niece
+				of Marion Meyers), 4 Mar 1988.</p>
+			<p>Ruth Cutler's papers were the gift of Gift of Pamela Fricke, February 2009.</p>
+			<p>The illuminated list of alumnae abroad created by Margaret Beck (VC 1919) in Series I was transferred from the Alumnae House in 2018. (A2018-014)</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
-			<p>American Red Cross Vassar Relief Unit Records, Archives and Special Collections Library, Vassar College Libraries.</p>
+			<p>American Red Cross Vassar Relief Unit Collection, Archives and Special Collections
+				Library, Vassar College Libraries.</p>
 		</prefercite>
 		<dsc type="analyticover">
 			<head>Series List</head>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series1"> Series I. </ref> Correspondence </unittitle>
+						<ref target="series1">Series I.</ref> General, </unittitle>
+					<unitdate type="inclusive">1917-1961</unitdate>
 				</did>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains general and miscellaneous records related to the Vassar Red Cross Relief Unit, Y.M.C.A. Canteen Unit, Vassar Unit Committee, and activities of the Alumnae Association of Vassar College related to alumnae engaged in war work and relief services abroad. Correspondence includes letters to and from Helen Kenyon, the President of the Alumnae Association, Harietta Sawyer, the Executive Secretary; and Mabel Horst Kirk, Chairman of the Alumnae Endowment Committee, as well as between other related persons and organizations. The "Vassar Alumnae in Foreign Service" subseries consists mainly of letters sent to the Alumnae Association by alumnae abroad or their close relatives, generally describing the work they were engaged in overseas. Other materials included in this series are photographs of the Vassar Unit and its members, printed ephemera, financial and operational records of the Vassar Unit, and writings by members of the Vassar Unit on their experiences.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Organized into 6 subseries: Correspondence, Photographs, Printed Ephemera, Vassar Alumnae in Foreign Service, Vassar Unit and AAVC Records, and Writings.</p>
+				</arrangement>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series2">Series II.</ref> Other Material </unittitle>
+						<ref target="series2">Series II.</ref> Ruth Crippen Papers, </unittitle>
+					<unitdate type="inclusive">1913, 1918-1919</unitdate>
 				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Ruth Hicks Crippen (1881-1972) was born in 1881 to J. Hicks and Alice Hotchkiss Crippen and graduated from Vassar College in 1905. She taught English at West High School in Rochester, New York, for most of her career, until her retirement in 1951.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series includes letters from Ruth Crippen (VC 1905) to her family and to Fanny Townsend, as well as one letter from Vassar College President James Monroe Taylor to Crippen regarding the main gate to the college.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
 			</c01>
 			<c01 level="series">
 				<did>
 					<unittitle>
-						<ref target="series3">Series III.</ref>Later Accession(A2005-005)</unittitle>
+						<ref target="series3">Series III.</ref> Ruth Cutler Papers, </unittitle>
+					<unitdate type="inclusive">1910-1919</unitdate>
 				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Ruth Cutler was a member of the Vassar College Class of 1912. She was an active supporter of the Goodfellowship Club while on campus, a social club for Vassar's maintenance staff. In 1918, she traveled to France to work as part of the American Red Cross Vassar Relief Unit. Only four weeks later she became ill with influenza and died.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series includes letters from Ruth Cutler (VC 1912) to her family, and four letters from Elinor Prudden (also VC 1912), who traveled with Cutler. The letters document Cutler's travel by ship to France and her service there with the Red Cross. Prudden’s letters are to Cutler’s family describing the circumstances of Cutler’s death from pneumonia.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series4">Series IV.</ref> Gertrude Hodgman Papers, </unittitle>
+					<unitdate type="inclusive">1918-1920</unitdate>
+				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Gertrude Hodgman graduated from Vassar College in 1912 and earned her nursing diploma from Johns Hopkins in 1916. She was awarded the medal of Verdun's Société Blessaire aux Militaire for her service after the war, and went on to continue her service with the Red Cross in Syria from 1919 to 1922. After returning to the United States she earned her master's from Columbia University and taught nursing at Yale for several years between various international jobs.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains correspondence to and from Gertrude Hodgman, who served as the nurse of the Vassar Unit through December of 1918. Also included are several documents related to the American Red Cross Commission to Palestine, clippings about Hodgman, and a timeline of Hodgman's life.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series5">Series V.</ref> Margaret Lambie Papers, </unittitle>
+					<unitdate type="inclusive">1916-1958</unitdate>
+				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Margaret Lambie (1885-1982) was born in Northampton, Massachusetts to Jasper E. Lambie and Henrietta E. Bryan. She graduated from Vassar College in 1907 and was an active suffragist. In 1918, she was appointed director of the Vassar Red Cross Relief Unit and worked in Savenay and Verdun. She earned her law degree from George Washington University Law School in 1925 and a certificate in international law in 1926 from the Hague Academy of International Law in the Netherlands. In 1928, she was admitted to practice law in New York and the District of Columbia, and relocated to Washington D.C., where she began a long career in international law. She retired from law practice and relocated to Essex, Massachusetts in 1965, and passed away in 1982 at the age of 97.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains materials collected and created by Vassar Unit Director, Margaret Lambie. It includes correspondence between Margaret Lambie and her family, Vassar Unit members, and French colleagues and acquaintances; clippings and printed ephemera related to Lambie, the Vassar Unit, and Verdun; reports and other records of the Vassar Unit; photographs of the "Goutte de Lait," Lambie, and others; and materials related to Lambie's article, "Verdun Experiences," which was republished as a book after the Second World War. Also included are copies of the pamphlet, "To You, the Girls of France," which was created by Vassar students to be distributed to French girls' and women's schools to show support and solidarity through writing and poetry. This pamphlet was one of many created by American colleges and universities and taken to France by John H. Finley. Many schools created handmade responses to this pamphlet in order to show their appreciation, featuring prose, poetry, illustrations, and paintings. These response pamphlets were collected by Finley and given to the Alumnae Association of Vassar College.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series6">Series VI.</ref> Lida A. Little Papers, </unittitle>
+					<unitdate type="inclusive">1914-1924</unitdate>
+				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Lida Agnese Little (1883-1964) was born in Crocker, Iowa on January 18, 1883 to
+						Gust B. Little (1858-1901) and Ora M. (Armstrong) Little (1858-1890). When
+						Little was orphaned at 18 after the death of her father, she was taken in by
+						her widowed paternal aunt, Luella M. (Little) Wilson, who would occupy a
+						parental role for Little for the rest of her life. With family, Little often went by the nickname "Dolly." Jarvis Douglas Little (1899-1956) was Little's
+						cousin, the son of her father's younger brother, William Douglas Little.
+						(1862-1901).</p>
+					<p>Little graduated from Vassar College as part of the Class of 1906 and after graduation, taught English, Latin, and History at the Stevan School of Girls in Chicago Illinois. In 1918, she joined the Vassar Red Cross Relief Unit as its secretary and spent time in Savenay, France. After the war, she continued to work for the Alumnae Association for several years, before returning home to California in 1930 and working as a social worker for seniors in Los Angeles. In 1939, she was hospitalized in Camarillo State Mental Hospital and remained in-patient there for many years. She was transferred to Patton State Hospital in the mid-1950s and passed away there in 1964.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains materials collected and created by Vassar Unit Secretary, Lida A. Little. It includes correspondence between Little and her family (primarily her aunt, Luella M. Wilson), Vassar Unit members, and French colleagues and acquaintances; clippings and printed ephemera related the Vassar Unit and Verdun; an account book, reports, and other records of the Vassar Unit; medical and travel documents; photographs of Little, France, and the Vassar Unit; and writings by Little, including two works of fiction.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series7">Series VII.</ref> Marion R. Meyers Papers, </unittitle>
+					<unitdate type="inclusive">1918-1921</unitdate>
+				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Marion Rose Meyers (1888-1974) was born in Rochester, New York, and graduated from Vassar College in 1910. After graduation, she lived and studied in France, Italy, and Switzerland. In 1918, she joined the Vassar Red Cross Relief Unit as the unit's dietician. She was honored by the City of Verdun for her work with the Vassar Unit's milk station, the "Goutte de Lait." After returning to the United States, Meyers became a visiting social worker in the Rochester Public School District for over twenty years. She received her Master's in Child Development from the University of Rochester in 1933. She retired from social work in 1948 and relocated to Coronado, California. She passed away in 1974, at the age of 86.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains materials collected and created by Marion R. Meyers, the Vassar Unit's dietician. It includes correspondence from Meyers to her family, Fanny P. Townsend, and others; Red Cross and travel documents; photographs; and records of the Vassar Unit and "Goutte de Lait."</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series8">Series VIII.</ref> Fanny P. Townsend Papers, </unittitle>
+					<unitdate type="inclusive">1918-1925</unitdate>
+				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Fanny P. Simpson (1881-1970) graduated from Vassar College in 1902. She married Edward P. Townsend, a banker, in 1905 and had one daughter, Frances (Townsend) Marshall (VC 1930) in 1908. Townsend was Chairman of the General War Service Committee of the Alumnae Association of Vassar College during World War I and remained active in the Alumnae Association for many years. She also worked with other women's organizations throughout her life, including the Y.W.C.A., Women's University Club, and the Women's City Club of New York.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains materials collected and created by Fanny P. (Simpson) Townsend, Chairman of the General War Service Committee of the Alumnae Association of Vassar College. It primarily includes correspondence between Townsend and various members of the Vassar Unit, Canteen Unit, and Alumnae Association, as well as other Vassar alumnae abroad. It also includes some clippings, a photograph album, printed ephemera, reports received from Elsa Butler Grove, and an article about the Vassar Unit published by Townsend in the Vassar Quarterly.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series9">Series IX.</ref> Gertrude C. Valentine Papers, </unittitle>
+					<unitdate type="inclusive">1918-1919</unitdate>
+				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Gertrude C. Valentine graduated from Vassar College in 1912. She was a member of the Y.M.C.A. Canteen Unit and died in an automobile accident in Le Mans, France, in June, 1919.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains letters and reports from Gertrude C. Valentine, a member of the Y.M.C.A. Canteen Unit to her family and other members of the Vassar Unit. Also included are photographs of Valentine and of her funeral in 1919.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series10">Series X.</ref> Elizabeth K. Van der Veer Papers, </unittitle>
+					<unitdate type="inclusive">1918-1919</unitdate>
+				</did>
+				<bioghist>
+					<head>Biographical Note</head>
+					<p>Elizabeth K. Van der Veer (1884-1963) was born on April 20, 1884 in Trenton, New Jersey, to Augustus and Evelyn Gaston Van der Veer. She graduated from Vassar College as part of the class of 1906 and went on to have a life-long career in social work. After graduating from Vassar, she taught English and French at Sommerville High School in New Jersey for ten years. When the Alumnae Association of Vassar College was organizing volunteers for work overseas, she was selected to direct the Vassar Y.M.C.A. Canteen Unit, which was stationed in Bordeaux, France, through the end of World War I. Upon returning to the United States, Van der Veer received training in social work and spent several years working as a social worker and investigator for Somerset Hospital. In 1932, she was appointed director of the Somerset County Welfare Board, a position she retained for 22 years until her retirement in 1954. She passed away in 1963 after a short illness.</p>
+				</bioghist>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains correspondence to and from Elizabeth K. Van der Veer, who headed the Vassar Y.M.C.A. Canteen Unit.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series11">Series XI.</ref> Publications, </unittitle>
+					<unitdate type="inclusive">1917-1961</unitdate>
+				</did>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains clippings and publications related to the Vassar Unit, Vassar alumnae in work overseas, and Verdun. The newsletter "Toot Sweet" was published by the Vassar Unit members stationed in Savenay, France in 1918, and later Verdun from 1919-1921.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Arranged alphabetically by file title.</p>
+				</arrangement>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>
+						<ref target="series12">Series XII.</ref> Realia, </unittitle>
+					<unitdate type="inclusive">1918-1919, undated</unitdate>
+				</did>
+				<scopecontent>
+					<head>Scope and Content Note</head>
+					<p>This series contains objects owned or collected by members of the Vassar Unit, including a Red Cross uniform, medals and pins, other Red Cross accessories, two sets of "Nénette and Rintintin" yarn charms, a large piece of shrapnel, machine gun cartridges, and other miscellaneous objects.</p>
+				</scopecontent>
+				<arrangement>
+					<p>Organized into six subseries by object provenance: General, Margaret Lambie, Lida A. Little, Fanny P. Townsend, Margaret Tupper, and Gertrude C. Valentine.</p>
+				</arrangement>
 			</c01>
 		</dsc>
 		<dsc type="in-depth">
 			<head>Container List</head>
 			<c01 level="series" id="series1">
 				<did>
-					<unittitle> SERIES I. Correspondence</unittitle>
+					<unittitle>Series I. General, </unittitle>
+					<unitdate type="inclusive" normal="1917/1961">1917-1961</unitdate>
 				</did>
-				<c02 level="item">
+				<c02 level="subseries">
 					<did>
-						<container>Folder 1.1</container>
-						<unitdate>14 Jan 1918 to 26 Apr 1918</unitdate>
+						<unittitle>Correspondence</unittitle>
 					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.1</container>
+							<unittitle>American Red Cross to Haight, Elizabeth, </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.2</container>
+							<unittitle>Haight, Elizabeth Hazelton from B., L. H., </unittitle>
+							<unitdate type="inclusive" normal="191905">1919 May</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.3</container>
+							<unittitle>Haight, Elizabeth Hazelton from Kenyon, Helen, </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.4</container>
+							<unittitle>Haight, Elizabeth Hazelton to/from Kirk, Mabel Horst (with
+								reports), </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.5</container>
+							<unittitle>Haight, Helen I. to Haight, Elizabeth Hazelton, </unittitle>
+							<unitdate type="inclusive" normal="191901/191902">1919
+								Jan-Feb</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.6</container>
+							<unittitle>Hickox, Laura to friends, </unittitle>
+							<unitdate type="inclusive" normal="191809/191903">1918 Sep-1919
+								Mar</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.7</container>
+							<unittitle>Kenyon, Helen to/from others, </unittitle>
+							<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+							<physdesc>[31 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.8</container>
+							<unittitle>Kirk, Mabel Horst to/from alumnae and donors, </unittitle>
+							<unitdate type="inclusive" normal="1918">1918</unitdate>
+							<physdesc>[16 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.9</container>
+							<unittitle>Kirk, Mabel Horst to/from the Metropolitan Trust Company, </unittitle>
+							<unitdate type="inclusive" normal="191808/191906">1918 Aug-1919
+								Jun</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.10</container>
+							<unittitle>Kirk, Mabel Horst from others, </unittitle>
+							<unitdate type="inclusive" normal="191805/191903">1918 May-1919
+								Mar</unitdate>
+							<physdesc>[10 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.11</container>
+							<unittitle>Others to others, </unittitle>
+							<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.12</container>
+							<unittitle>Prudden, Elinor to family,, </unittitle>
+							<unitdate type="inclusive" normal="191902/191905">1919
+								Feb-May</unitdate>
+							<physdesc>[6 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.13</container>
+							<unittitle>Sawyer, Harriet to Grove, Elsa Butler, </unittitle>
+							<unitdate type="inclusive" normal="192007/192008">1920
+								Jul-Aug</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.14</container>
+							<unittitle>Sawyer, Harriet to/from others, </unittitle>
+							<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+							<physdesc>[9 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.15</container>
+							<unittitle>Slotkins, Katherine to unidentified, </unittitle>
+							<unitdate type="inclusive" normal="19180727">1918 Jul 27</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.16</container>
+							<unittitle>Taylor, Lily R. to unidentified, </unittitle>
+							<unitdate type="inclusive" normal="19181215">1918 Dec 15</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.17</container>
+							<unittitle>Villages Libérés to MacCracken, H. N., </unittitle>
+							<unitdate type="inclusive" normal="191903">1919 Mar</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.18</container>
+							<unittitle>Waterhouse, Irma to Green, Annie, </unittitle>
+							<unitdate type="inclusive" normal="19180922">1918 Sep 22</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.19</container>
+							<unittitle>Vassar Centennial and the Vassar Unit, </unittitle>
+							<unitdate type="inclusive" normal="1961">1961</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.20</container>
+							<unittitle>Letters and reports from the Vassar Unit, </unittitle>
+							<unitdate type="inclusive" normal="191809/191810">1918
+								Sep-Oct</unitdate>
+							<physdesc>[8 letters; 2 copies]</physdesc>
+						</did>
+					</c03>
 				</c02>
-				<c02 level="file">
+				<c02 level="subseries">
 					<did>
-						<container>Folder 1.2</container>
-						<unitdate>29 Apr 1918 to 9 May 1918</unitdate>
+						<unittitle>Photographs</unittitle>
 					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.21</container>
+							<unittitle>General Pershing greeting Julia Stimson (VC 1901), </unittitle>
+							<unitdate type="inclusive" normal="19190605">1919 Jun 5</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.22</container>
+							<unittitle>Goutte de Lait, Verdun, France, </unittitle>
+							<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.23</container>
+							<unittitle>Vassar Unit, Miscellaneous, </unittitle>
+							<unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.24</container>
+							<unittitle>Vassar Unit, Miscellaneous, </unittitle>
+							<unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
+							<physdesc>[mounted]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.25</container>
+							<unittitle>Vassar Unit before departure; Helen Kenyon and Vassar Unit at
+								her home, </unittitle>
+							<unitdate type="inclusive" normal="1918">1918, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.26</container>
+							<unittitle>Vassar Unit in Savenay, France, </unittitle>
+							<unitdate type="inclusive" normal="1918">1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.27</container>
+							<unittitle>Vassar Unit in Verdun, France, </unittitle>
+							<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.28</container>
+							<unittitle>Vassar Unit members, </unittitle>
+							<unitdate type="inclusive" normal="1917/1919">1917-1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.29</container>
+							<unittitle>Verdun war memorial, </unittitle>
+							<unitdate type="inclusive" normal="1944">1944</unitdate>
+						</did>
+					</c03>
 				</c02>
-				<c02 level="file">
+				<c02 level="subseries">
 					<did>
-						<container>Folder 1.3</container>
-						<unitdate>11 May 1918 to 5 June 1918</unitdate>
+						<unittitle>Printed Ephemera</unittitle>
 					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.30</container>
+							<unittitle>American National Red Cross, </unittitle>
+							<unitdate type="inclusive" normal="1918/1918">1918-1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 13.1 (Oversize)</container>
+							<unittitle>Certificate of Service, American Field Service in France to
+								the students of Vassar College, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12</container>
+							<unittitle>Certificate from the Ville de Verdun for "La Goutte de Lait,"
+								blank, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[2 items, rolled]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.31</container>
+							<unittitle>Flyer from the Women's Patriotic Association of Japan to the
+								AAVC, </unittitle>
+							<unitdate type="inclusive" normal="191812">1918 Dec</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.32</container>
+							<unittitle>Miscellaneous, </unittitle>
+							<unitdate type="inclusive" normal="1920">1920, undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 12</container>
+							<unittitle>Print - "Un coin de Verdun un 1919", </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[rolled]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.33</container>
+							<unittitle>Vassar Unit, </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+						</did>
+					</c03>
 				</c02>
-				<c02 level="file">
+				<c02 level="subseries">
 					<did>
-						<container>Folder 1.4</container>
-						<unitdate>7 June 1918 to 27 Sep 1918</unitdate>
+						<unittitle>Vassar Alumnae in Foreign Service</unittitle>
 					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.34</container>
+							<unittitle>Beattys, Adele M. (VC 1915), </unittitle>
+							<unitdate type="inclusive" normal="191902">1919 Feb</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.35</container>
+							<unittitle>Cowell, Mona H. (VC 1915), </unittitle>
+							<unitdate type="inclusive" normal="191811">1918 Nov</unitdate>
+							<physdesc>[1 letter]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 1.36</container>
+							<unittitle>du Bois, Marguerite (VC 1912), </unittitle>
+							<unitdate type="inclusive" normal="191902/191903">1919
+								Feb-Mar</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.1</container>
+							<unittitle>Dudley, Edith (VC 1913), </unittitle>
+							<unitdate type="inclusive" normal="191809/191903">1918 Sep-1919
+								Mar</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.2</container>
+							<unittitle>Ellsworth, Blanche E. (VC 1914), </unittitle>
+							<unitdate type="inclusive" normal="191902">1919 Feb</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.3</container>
+							<unittitle>Evans, Esther R. (VC 19??), </unittitle>
+							<unitdate type="inclusive" normal="191903/191904">1919
+								Mar-Apr</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.4</container>
+							<unittitle>Harris, Ella Frances (VC 1906), </unittitle>
+							<unitdate type="inclusive" normal="191901/191904">1919
+								Jan-Apr</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.5</container>
+							<unittitle>Knight, Margaret (VC 1903), </unittitle>
+							<unitdate type="inclusive" normal="1917/1919">1917-1919</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.6</container>
+							<unittitle>Lesher, Theresa (VC 1915), </unittitle>
+							<unitdate type="inclusive" normal="191709">1917 Sep</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.7</container>
+							<unittitle>Lyall, Agnes (VC 1905), </unittitle>
+							<unitdate type="inclusive" normal="191903/191904">1919
+								Mar-Apr</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.8</container>
+							<unittitle>Orr, Gertrude (VC 1911), reports, </unittitle>
+							<unitdate type="inclusive" normal="191901/191902">1919
+								Jan-Feb</unitdate>
+							<physdesc>[2 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.9</container>
+							<unittitle>Roberts, Annabel Scharff (VC 1913), biographical
+								questionnaire, </unittitle>
+							<unitdate type="inclusive" normal="1918">1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.10</container>
+							<unittitle>Street, Mildred (VC 1910), </unittitle>
+							<unitdate type="inclusive" normal="191812/191909">1918 Dec-1919
+								Sep</unitdate>
+							<physdesc>[5 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.11</container>
+							<unittitle>Tallant, Edith (VC 1905), </unittitle>
+							<unitdate type="inclusive" normal="191904/191910">1919
+								Apr-Oct</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.12</container>
+							<unittitle>Welles, Katherine R. (VC 1915), </unittitle>
+							<unitdate type="inclusive" normal="191902/191904">1919
+								Feb-Apr</unitdate>
+							<physdesc>[4 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.13</container>
+							<unittitle>Unidentified letters, </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[3 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.14</container>
+							<unittitle>Letters to the AAVC concerning alumnae war work, </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+							<physdesc>[63 letters]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Framed Storage 2.7</container>
+							<unittitle> List of Vassar alumnae who served in WWI, illustrated in the
+								style of an illuminated manuscript by Margaret Beck McCallum (VC
+								1919), </unittitle>
+							<unitdate type="inclusive" normal="1919">1919</unitdate>
+							<physdesc>[framed]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.15</container>
+							<unittitle>Lists and notes on alumnae in foreign service, </unittitle>
+							<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+						</did>
+					</c03>
 				</c02>
-				<c02 level="file">
+				<c02 level="subseries">
 					<did>
-						<container>Folder 1.5</container>
-						<unitdate>1 Febr 1921, 9-11 Oct1935, 21 Dec1958, 21 March 1972 and n.d.</unitdate>
+						<unittitle>Vassar Unit and AAVC Records</unittitle>
 					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.16</container>
+							<unittitle>Vassar Alumnae War Service Fund, </unittitle>
+							<unitdate type="inclusive" normal="191803/191804">1918
+								Mar-Apr</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.17</container>
+							<unittitle>Vassar Unit Committee, planning and minutes (kept by Fanny
+								Townsend), </unittitle>
+							<unitdate type="inclusive" normal="191801/191910">1918 Jan-1919
+								Oct</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.18</container>
+							<unittitle>Vassar Unit Committee, reports, </unittitle>
+							<unitdate type="inclusive" normal="1918/1920">1918, 1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.19</container>
+							<unittitle>Vassar Unit Fund, </unittitle>
+							<unitdate type="inclusive" normal="1922/1923">1922-1923</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.20</container>
+							<unittitle>Vassar Unit financial records and reports, </unittitle>
+							<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.21</container>
+							<unittitle>Vassar Unit receipts submitted to Mabel Horst Kirk
+								(Treasurer), </unittitle>
+							<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.22</container>
+							<unittitle>Vassar Unit records, </unittitle>
+							<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.23</container>
+							<unittitle>Vassar Y.M.C.A. Canteen Unit, </unittitle>
+							<unitdate type="inclusive" normal="1918">1918</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Writings</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.24</container>
+							<unittitle>Grove, Elsa Butler, "Verdun, 1920-1921", </unittitle>
+							<unitdate type="inclusive" normal="1936">1936</unitdate>
+							<physdesc>[16 p.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.25</container>
+							<unittitle>"Goodbye to Savenay," letters from the Vassar Unit, </unittitle>
+							<unitdate type="inclusive" normal="1919">1919</unitdate>
+							<physdesc>[8 p.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.26</container>
+							<unittitle>Haight, Elizabeth Hazelton, "Vassar Alumnae in Foreign
+								Service", </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[3 p.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.27</container>
+							<unittitle>Haight, Elizabeth Hazelton, "The Vassar Unit at Verdun", </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[3 p.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.28</container>
+							<unittitle>Haight, Elizabeth Hazelton, "The Vassar Unit in France", </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[11 p.]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 2.29</container>
+							<unittitle>Prudden, Elinor, "Verdun - A Sketch" , </unittitle>
+							<unitdate type="inclusive" normal="19190601">1919 Jun 1</unitdate>
+							<physdesc>[12 p.]</physdesc>
+						</did>
+					</c03>
 				</c02>
 			</c01>
 			<c01 level="series" id="series2">
 				<did>
-					<unittitle> SERIES II. Other Material</unittitle>
+					<unittitle>Series II. Ruth Crippen Papers, </unittitle>
+					<unitdate type="inclusive" normal="1913/1919">1913, 1918-1919</unitdate>
+				</did>
+				<c02 level="file"><did><container>Folder 9.18</container><unittitle>Correspondence - Crippen, Ruth to Crippen, Crosman, </unittitle><unitdate type="inclusive" normal="19181011">1918 Oct 11</unitdate><physdesc>[1 letter]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9.19</container><unittitle>Correspondence - Crippen, Ruth to family, </unittitle><unitdate type="inclusive" normal="191809/191810">1918 Sep-Oct</unitdate><physdesc>[8 letters]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9.20</container><unittitle>Correspondence - Crippen, Ruth to family, </unittitle><unitdate type="inclusive" normal="191811/191812">1918 Nov-Dec</unitdate><physdesc>[8 letters]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9.21</container><unittitle>Correspondence - Crippen, Ruth to Townsend, Fanny (with reports), </unittitle><unitdate type="inclusive" normal="191809/191903">1918 Sep - 1919 Mar</unitdate><physdesc>[13 letters]</physdesc></did></c02>
+				<c02 level="file"><did><container>Folder 9.22</container><unittitle>Correspondence - Taylor, James Monroe to Crippen, Ruth, </unittitle><unitdate type="inclusive" normal="19130703">1913 Jul 3</unitdate><physdesc>[1 letter]</physdesc></did></c02></c01>
+
+			<c01 level="series" id="series3">
+				<did>
+					<unittitle>Series III. Ruth Cutler Papers, </unittitle>
+					<unitdate type="inclusive" normal="1910/1919">1910-1919</unitdate>
 				</did>
 				<c02 level="file">
 					<did>
-						<container>Folder 1.6</container>
-						<unittitle> Bibliography of material pertaining to the Vassar Unit</unittitle>
+						<container>Folder 2.30</container>
+						<unittitle>Correspondence - Cutler, Ruth to friends and family, </unittitle>
+						<unitdate type="inclusive" normal="19101918">1910, 1918</unitdate>
+						<physdesc>[13 letters]</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container>Folder 1.7</container>
-						<unittitle> First members of the Vassar Unit</unittitle>
+						<container>Folder 2.31</container>
+						<unittitle>Correspondence - Cutler, Ruth to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="19181130">1918 Nov 30</unitdate>
+						<physdesc>[1 letter]</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container>Folder 1.8</container>
-						<unittitle> French Tank</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 1.9</container>
-						<unittitle> Questionnaire for Biographical Address Register [Anabel Scharff Roberts, VC 1913]</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 1.10</container>
-						<unittitle> Required Equipment</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 1.11</container>
-						<unittitle> Miscellaneous</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 1.12-1.13</container>
-						<unittitle> Articles</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 1.14-1.17</container>
-						<unittitle> Printed Material</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 1.18</container>
-						<unittitle> Clippings</unittitle>
-					</did>
-				</c02>
-				<c02 level="file">
-					<did>
-						<container>Folder 2.19-2.20</container>
-						<unittitle> Photographs</unittitle>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 2</container>
-						<unittitle> Scrapbooks (4)</unittitle>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Boxes 3-12</container>
-						<unittitle> Unprocessed material</unittitle>
+						<container>Folder 2.32</container>
+						<unittitle>Correspondence - Prudden, Elinor to the family of Ruth Cutler
+							about her death, </unittitle>
+						<unitdate type="inclusive" normal="191812/191904">1918 Dec-1919
+							Apr</unitdate>
+						<physdesc>[5 letters]</physdesc>
 					</did>
 				</c02>
 			</c01>
-			<c01 level="series" id="series3">
+			<c01 level="series" id="series4">
 				<did>
-					<unittitle> SERIES III. Later Accession (A2005-005)</unittitle>
+					<unittitle>Series IV. Gertrude Hodgman Papers, </unittitle>
+					<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
 				</did>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 1</container>
-						<unittitle> Ambulance Plate,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 1</container>
-						<unittitle> Medals,</unittitle>
-						<unitdate>ca. 1916-1920</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 1</container>
-						<unittitle> Machine Gun Cartridges,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 1</container>
-						<unittitle> Vassar Unit Rubber Stamps,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 1</container>
-						<unittitle> Shrapnel,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 1</container>
-						<unittitle> Rolled certificates,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
+						<container>Folder 2.33</container>
+						<unittitle>American Red Cross Commission to Palestine, Colonel Finley's
+							speech, </unittitle>
+						<unitdate type="inclusive" normal="19190318">1919 Mar 18</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container>Folder 2.1</container>
-						<unittitle> Photographs,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
+						<container>Folder 2.34</container>
+						<unittitle>American Red Cross Commission to Palestine, departure suggestions
+							for personnel leaving Paris, </unittitle>
+						<unitdate type="inclusive" normal="19190128">1919 Jan 28</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container>Folder 2.2</container>
-						<unittitle> Correspondence,</unittitle>
-						<unitdate>1919-1920</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Folder 2.3</container>
-						<unittitle>"Verdun, 1920-1921 - 1936," Memoir of a return to Verdun by Elsa Butler Grove,</unittitle>
-						<unitdate>1936</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Folder 2.4</container>
-						<unittitle><emph render="underline">French Schools in War Time</emph>,</unittitle>
-						<unitdate>1917</unitdate>
+						<container>Folder 2.35</container>
+						<unittitle>Clippings about Gertrude Hodgman, </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container>Folder 2.5</container>
-						<unittitle> Miscellaneous,</unittitle>
-						<unitdate>1917-1936</unitdate>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<container>Box 3</container>
-						<unittitle>2 copper and wood plaques entitled "Verdun et ses Champs de Bataille par le Capitaine d'Art, Gerard,"</unittitle>
-						<unitdate>n.d.</unitdate>
+						<container>Folder 2.36</container>
+						<unittitle>Correspondence - American Red Cross to Hodgman, Gertrude, </unittitle>
+						<unitdate type="inclusive" normal="191805/191808">1918 May-Aug</unitdate>
+						<physdesc>[2 letters]</physdesc>
 					</did>
 				</c02>
 				<c02 level="file">
 					<did>
-						<container>Box 3</container>
-						<unittitle> Publications,</unittitle>
-						<unitdate>1916-1919</unitdate>
+						<container>Folder 2.37</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to Kenyon, Helen, </unittitle>
+						<unitdate type="inclusive" normal="191805">1918 May</unitdate>
+						<physdesc>[2 letters]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 4</container>
-						<unittitle> Red Cross Uniform of L. Little,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
+						<container>Folder 2.38</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="191810/191901">1918 Oct-1919
+							Jan</unitdate>
+						<physdesc>[6 letters]</physdesc>
 					</did>
 				</c02>
-				<c02 level="item">
+				<c02 level="file">
 					<did>
-						<container>Box 5</container>
-						<unittitle> Uniform of Elsa Butler,</unittitle>
-						<unitdate>ca. 1917-1919</unitdate>
+						<container>Folder 2.39</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to mother, </unittitle>
+						<unitdate type="inclusive" normal="19180926/19181009">1918 Sep 26-Oct
+							9</unitdate>
+						<physdesc>[5 letters]</physdesc>
 					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 2.40</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to mother, </unittitle>
+						<unitdate type="inclusive" normal="19181013/19190108">1918 Oct 13 - 1919 Jan
+							8</unitdate>
+						<physdesc>[20 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.1</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to mother, </unittitle>
+						<unitdate type="inclusive" normal="19190112/19190209">1919 Jan 12-Feb
+							9</unitdate>
+						<physdesc>[6 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.2</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to mother, </unittitle>
+						<unitdate type="inclusive" normal="19190211/19190307">1919 Feb 11-Mar
+							7</unitdate>
+						<physdesc>[6 letters with transcripts]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.3</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to mother, </unittitle>
+						<unitdate type="inclusive" normal="19190314/19190624">1919 Mar 14-Jun
+							24</unitdate>
+						<physdesc>[19 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.4</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to mother, </unittitle>
+						<unitdate type="inclusive" normal="1919073/19190817">1919 Jul 3-Aug
+							17</unitdate>
+						<physdesc>[6 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.5</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to others, </unittitle>
+						<unitdate type="inclusive" normal="191902">1919 Feb</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.6</container>
+						<unittitle>Correspondence - Hodgman, Gertrude to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191810/192007">1918 Oct-1920
+							Jul</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.7</container>
+						<unittitle>Timeline of Gertrude Hodgman's life, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series5">
+				<did>
+					<unittitle>Series V. Margaret Lambie Papers, </unittitle>
+					<unitdate type="inclusive" normal="1916/1958">1916-1958</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.8</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.9</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1938/1948">1938-1948</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.10</container>
+						<unittitle>Clippings (French), </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.11</container>
+						<unittitle>Clippings - Opening of the Goutte de Lait, </unittitle>
+						<unitdate type="inclusive" normal="19190817">1919 Aug 17</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.12</container>
+						<unittitle>Clippings - Vassar Unit, </unittitle>
+						<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.13</container>
+						<unittitle>Correspondence - American Red Cross to/from Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate>
+						<physdesc>[15 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.14</container>
+						<unittitle>Correspondence - Assistance for Verdun in WWII, </unittitle>
+						<unitdate type="inclusive" normal="193912/194010">1939 Dec-1940
+							Oct</unitdate>
+						<physdesc>[20 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.15</container>
+						<unittitle>Correspondence - Bondaux, E. (President of the French Red Cross
+							in Verdun), </unittitle>
+						<unitdate type="inclusive" normal="1920/1936">1920-1936</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.16</container>
+						<unittitle>Correspondence - Couten, Louis (Comité d'Assistance de
+							l'Arrondissment de Verdun) to/from Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="191902/191908">1919 Feb-Aug</unitdate>
+						<physdesc>[7 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.17</container>
+						<unittitle>Correspondence - Dernancourt, M. Thimothe ("Oeuvre Mon Soldat"
+							correspondent) to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="191602/191903">1916 Feb-1919
+							Mar</unitdate>
+						<physdesc>[15 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.18</container>
+						<unittitle>Correspondence - Gauny, Madeleine to/from Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.19</container>
+						<unittitle>Correspondence - Kenyon, Helen to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1918/1938">1918-1938</unitdate>
+						<physdesc>[7 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.20</container>
+						<unittitle>Correspondence - Lambie, Margaret to/from Haight, Elizabeth
+							Hazelton, </unittitle>
+						<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+						<physdesc>[12 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.21</container>
+						<unittitle>Correspondence - Lambie, Margaret to Hodgman, Gertrude, </unittitle>
+						<unitdate type="inclusive" normal="19181015">1918 Oct 15</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.22</container>
+						<unittitle>Correspondence - Lambie, Margaret to [Kenyon?], Helen, </unittitle>
+						<unitdate type="inclusive" normal="1920">1920, undated</unitdate>
+						<physdesc>[4 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.23</container>
+						<unittitle>Correspondence - Lambie, Margaret to Little, Lida A., </unittitle>
+						<unitdate type="inclusive" normal="1919/1923">1919-1923</unitdate>
+						<physdesc>[5 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.24</container>
+						<unittitle>Correspondence - Lambie, Margaret to Meyers, Marion, </unittitle>
+						<unitdate type="inclusive" normal="19190711">1919 Jul 11</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.25</container>
+						<unittitle>Correspondence - Lambie, Margaret to others, </unittitle>
+						<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+						<physdesc>[13 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.26</container>
+						<unittitle>Correspondence - Lambie, Margaret to mother, </unittitle>
+						<unitdate type="inclusive" normal="191812/191901">1918 Dec-1919
+							Jan</unitdate>
+						<physdesc>[4 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.27</container>
+						<unittitle>Correspondence - Lambie, Margaret to Sawyer, Harriet, </unittitle>
+						<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.28</container>
+						<unittitle>Correspondence - Lambie, Margaret to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191809/192108">1918 Sep-1921
+							Aug</unitdate>
+						<physdesc>[17 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.29</container>
+						<unittitle>Correspondence - Lambie, Margaret to unidentified, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.30</container>
+						<unittitle>Correspondence - "Oeuvre Mon Soldat" program to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1916/1917">1916-1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.31</container>
+						<unittitle>Correspondence - Others to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate>
+						<physdesc>[31 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.32</container>
+						<unittitle>Correspondence - Others to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1941/1958">1941-1958</unitdate>
+						<physdesc>[7 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.33</container>
+						<unittitle>Correspondence - [Mademoiselle Pilla?] to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1919/1958">1919-1958</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.34</container>
+						<unittitle>Correspondence - Prudden, Elinor to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="191812/191911">1918 Dec, 1919
+							Nov</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.35</container>
+						<unittitle>Correspondence - Stimson, Julia C. to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.36</container>
+						<unittitle>Correspondence - Trocmé, C. to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1919/1922">1919-1922</unitdate>
+						<physdesc>[7 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.37</container>
+						<unittitle>Correspondence - Uniforms for the French Red Cross in WWII, </unittitle>
+						<unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate>
+						<physdesc>[6 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 3.38</container>
+						<unittitle>Correspondence - Verdun 40th Anniversary event, </unittitle>
+						<unitdate type="inclusive" normal="1952/1958">1952-1958</unitdate>
+						<physdesc>[26 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.1</container>
+						<unittitle>The Florence Nightingale School of Nursing, </unittitle>
+						<unitdate type="inclusive" normal="1921">1921</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.2</container>
+						<unittitle>Goutte de Lait records, </unittitle>
+						<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.3</container>
+						<unittitle>Lambie, Margaret - Certificate from the Ville de Verdun, </unittitle>
+						<unitdate type="inclusive" normal="19530115">1953 Jan 15</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 13.2 (Oversize)</container>
+						<unittitle>Lambie, Margaret - Certificate from the Ville de Verdun for La
+							Goutte de Lait, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.4</container>
+						<unittitle>Lambie, Margaret - Passport restrictions, </unittitle>
+						<unitdate type="inclusive" normal="191806/191809">1918 Jun-Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.5</container>
+						<unittitle>Lambie, Margaret - Work and travel documents, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.6</container>
+						<unittitle>Memorial Service for American Nurses at the Florence Nightingale
+							School, </unittitle>
+						<unitdate type="inclusive" normal="19210605">1921 Jun 5</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.7</container>
+						<unittitle>Miscellaneous documents, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.8</container>
+						<unittitle>Name cards and notes from French associates, </unittitle>
+						<unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.9</container>
+						<unittitle>Pencil drawing by Leo David of Verdun (?), </unittitle>
+						<unitdate type="inclusive" normal="19190421">1919 Apr 21</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.10</container>
+						<unittitle>Photographs - E. Bondaux (President of the French Red Cross in
+							Verdun), </unittitle>
+						<unitdate type="inclusive" normal="193507">1935 Jul</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.11</container>
+						<unittitle>Photographs - Goutte de Lait, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.12</container>
+						<unittitle>Photographs - Goutte de Lait, No. 2-14, </unittitle>
+						<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.13</container>
+						<unittitle>Photographs - Goutte de Lait, No. 15-16, </unittitle>
+						<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.14</container>
+						<unittitle>Photographs - Goutte de Lait, No. 17-20, 22-25, </unittitle>
+						<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.15</container>
+						<unittitle>Photographs - Margaret Lambie, </unittitle>
+						<unitdate type="inclusive" normal="1919">1919, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.16</container>
+						<unittitle>Photographs - Vassar tank, miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.17</container>
+						<unittitle>Photographs - "To You, the Girls of France," response examples, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.18</container>
+						<unittitle>Postcards of France, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.19</container>
+						<unittitle>Printed Ephemera - Map of military operations in France, </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.20</container>
+						<unittitle>Printed Ephemera - The Red Cross, </unittitle>
+						<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.21</container>
+						<unittitle>Printed Ephemera - "The Vassar Unit for Service Abroad under the
+							American Red Cross", </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.22</container>
+						<unittitle>Printed Ephemera and miscellaneous documents, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919, undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.23</container>
+						<unittitle>Publications - "France in Three Invasions", </unittitle>
+						<unitdate type="inclusive" normal="1940/1949">circa 1940s</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.24</container>
+						<unittitle>Publications - Morris, Charles D., "L'Exemple de Florence
+							Nightingale", </unittitle>
+						<unitdate type="inclusive" normal="1921">1921</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.25</container>
+						<unittitle>Reports by Margaret Lambie, </unittitle>
+						<unitdate type="inclusive" normal="191810/192208">1918 Oct-1922
+							Aug</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.26</container>
+						<unittitle>Reports by Margaret Lambie, </unittitle>
+						<unitdate type="inclusive" normal="191810/191910">1918 Oct-1919
+							Oct</unitdate>
+						<physdesc>[copy 2]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.27</container>
+						<unittitle>Reports by Margaret Lambie - Financial Reports, </unittitle>
+						<unitdate type="inclusive" normal="191810/191909">1918 Oct-1919
+							Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.28</container>
+						<unittitle>Reports by Dr. Sénique, </unittitle>
+						<unitdate type="inclusive" normal="1920/1922">1920-1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.29</container>
+						<unittitle>"To You, the Girls of France" - Booklet, </unittitle>
+						<unitdate type="inclusive" normal="1917">circa 1917</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.30</container>
+						<unittitle>"To You, the Girls of France" - Clipping, "French Girl Students'
+							Response to America", </unittitle>
+						<unitdate type="inclusive" normal="19171104">1917 Nov 4</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 4.31</container>
+						<unittitle>"To You, the Girls of France" - Response, Académie de Grenoble,
+							Lycée de Jeunes Filles de Tournon, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>[watercolor and pencil on vellum(?)]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.1</container>
+						<unittitle>"To You, the Girls of France" - Response, Académie de Nancy,
+							Collège de Jeunes Filles d'Epinal, </unittitle>
+						<unitdate type="inclusive" normal="19170627">1917 Jun 27</unitdate>
+						<physdesc>[watercolor and ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.1</container>
+						<unittitle>"To You, the Girls of France" - Response, Collège de Jeunes
+							Filles de Remiremont, </unittitle>
+						<unitdate type="inclusive" normal="191706">1917 Jun</unitdate>
+						<physdesc>[watercolor and ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.2</container>
+						<unittitle>"To You, the Girls of France" - Response, Collège de Jeunes
+							Filles de Toul, </unittitle>
+						<unitdate type="inclusive" normal="19170630">1917 Jun 30</unitdate>
+						<physdesc>[ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.2</container>
+						<unittitle>"To You, the Girls of France" - Response, Collège de Neufchâteau, </unittitle>
+						<unitdate type="inclusive" normal="191706">1917 Jun</unitdate>
+						<physdesc>[watercolor, ink, and crayon[?] on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.3</container>
+						<unittitle>"To You, the Girls of France" - Response, Collège de Verdun, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>[watercolor on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.4</container>
+						<unittitle>"To You, the Girls of France" - Response, Collège Jules-Ferry, </unittitle>
+						<unitdate type="inclusive" normal="191707">1917 Jul</unitdate>
+						<physdesc>[watercolor and ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.5</container>
+						<unittitle>"To You, the Girls of France" - Response, L'Ecole Normale
+							d'Institutrices de la Meuse, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>[watercolor, ink, and paint on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.3</container>
+						<unittitle>"To You, the Girls of France" - Response, L'Ecole Normale
+							d'Institutrices de Poitiers, </unittitle>
+						<unitdate type="inclusive" normal="19170622">1917 Jun 22</unitdate>
+						<physdesc>[watercolor on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.4</container>
+						<unittitle>"To You, the Girls of France" - Response, L'Ecole Primaire
+							Supérieure de Bar-le-Duc, Meuse, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>[ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.5</container>
+						<unittitle>"To You, the Girls of France" - Response, L'Ecole Supérieure de
+							Jeunes Filles, Nancy, </unittitle>
+						<unitdate type="inclusive" normal="19170616">1917 Jun 16</unitdate>
+						<physdesc>[watercolor on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.6</container>
+						<unittitle>"To You, the Girls of France" - Response, Institution
+							Sainte-Rose, Nancy, </unittitle>
+						<unitdate type="inclusive" normal="19170611">1917 Jun 11</unitdate>
+						<physdesc>[ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.7</container>
+						<unittitle>"To You, the Girls of France" - Response, Lycée de Jeunes Filles
+							Besançon, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>[ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.8</container>
+						<unittitle>"To You, the Girls of France" - Response, Lycée de Jeunes Filles
+							de Dijon, </unittitle>
+						<unitdate type="inclusive" normal="191706">1917 Jun</unitdate>
+						<physdesc>[watercolor on paper; 2 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.9</container>
+						<unittitle>"To You, the Girls of France" - Response, Lycée de Jeunes Filles
+							de Moulins, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>[ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.10</container>
+						<unittitle>"To You, the Girls of France" - Response, Lycée Jeanne d'Arc,
+							Nancy, </unittitle>
+						<unitdate type="inclusive" normal="19170623">1917 Jun 23</unitdate>
+						<physdesc>[watercolor on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.11</container>
+						<unittitle>"To You, the Girls of France" - Response, Lycée Victor Duruy, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+						<physdesc>[watercolor and ink on paper]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.12</container>
+						<unittitle>"To You, the Girls of France" - Response, University of Lyon, "A
+							nos Soeurs d'Amerique", </unittitle>
+						<unitdate type="inclusive" normal="191707">1917 Jul</unitdate>
+						<physdesc>[print pamphlet; 3 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.13</container>
+						<unittitle>Vassar alumnae memorial service, </unittitle>
+						<unitdate type="inclusive" normal="191903/191906">1919 Mar-Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.14</container>
+						<unittitle>Vassar Unit records, </unittitle>
+						<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.15</container>
+						<unittitle>Washington Unit Women's Overseas Service League, </unittitle>
+						<unitdate type="inclusive" normal="1922/1924">1922-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.16</container>
+						<unittitle>Writings - Lambie, Margaret, "The Vassar Unit", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[3 p.]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.17</container>
+						<unittitle>Writings - Lambie, Margaret, "Verdun Experiences,"
+							correspondence, </unittitle>
+						<unitdate type="inclusive" normal="1945/1953">1945-1953</unitdate>
+						<physdesc>[15 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.18</container>
+						<unittitle>Writings - Lambie, Margaret, "Verdun Experiences," publicity, </unittitle>
+						<unitdate type="inclusive" normal="1945">1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.19</container>
+						<unittitle>Writings - Lambie, Margaret, "Verdun Experiences," Vassar
+							Quarterly, </unittitle>
+						<unitdate type="inclusive" normal="191911">1919 Nov</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series6">
+				<did>
+					<unittitle>Series VI. Lida A. Little Papers (VC 1906), </unittitle>
+					<unitdate type="inclusive" normal="1914/1924">1914-1924</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.20</container>
+						<unittitle>Clippings - Miscellaneous, </unittitle>
+						<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.21</container>
+						<unittitle>Clippings - Vassar Unit and the Red Cross, </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.22</container>
+						<unittitle>Correspondence - Bondaux, E. to Little, Lida A., </unittitle>
+						<unitdate type="inclusive" normal="1922">1922</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.23</container>
+						<unittitle>Correspondence - Family to Little, Lida A., </unittitle>
+						<unitdate type="inclusive" normal="191808">1918 Aug, undated</unitdate>
+						<physdesc>[10 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.24</container>
+						<unittitle>Correspondence - Little, J. Douglas to Little, Lida A. "Dolly", </unittitle>
+						<unitdate type="inclusive" normal="19181020">1918 Oct 20</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.25</container>
+						<unittitle>Correspondence - Little, J. Douglas to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="1914/1917">1914-1917</unitdate>
+						<physdesc>[10 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.26</container>
+						<unittitle>Correspondence - Little, J. Douglas to/from Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+						<physdesc>[9 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.27</container>
+						<unittitle>Correspondence - Little, J. Douglas to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="191901/191904">1919 Jan-Apr</unitdate>
+						<physdesc>[4 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.28</container>
+						<unittitle>Correspondence - Little, Lida A. to Crippen, Ruth, </unittitle>
+						<unitdate type="inclusive" normal="19181216">1918 Dec 16</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.29</container>
+						<unittitle>Correspondence - Little, Lida A. to Hodgman, Gertrude, </unittitle>
+						<unitdate type="inclusive" normal="19181029">1918 Oct 29</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.30</container>
+						<unittitle>Correspondence - Little, Lida A. to Hopkins, Mrs. William Nixon, </unittitle>
+						<unitdate type="inclusive" normal="191809">1918 Sep</unitdate>
+						<physdesc>[1 postcard]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.31</container>
+						<unittitle>Correspondence - Little, Lida A. to Sawyer, Harriet, </unittitle>
+						<unitdate type="inclusive" normal="19210323">1921 Mar 23</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.32</container>
+						<unittitle>Correspondence - Little, Lida A. to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+						<physdesc>[10 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.33</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="19180727/19180815">1918 Jul 27 - 1918 Aug
+							15</unitdate>
+						<physdesc>[16 letters, 1 drawing]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.34</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="19180816/19180831">1918 Aug
+							16-31</unitdate>
+						<physdesc>[13 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.35</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="191809">1918 Sep</unitdate>
+						<physdesc>[12 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 5.36</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="191810/191811">1918 Oct-Nov</unitdate>
+						<physdesc>[12 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.1</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="191812">1918 Dec</unitdate>
+						<physdesc>[7 letters, 1 drawing]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.2</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="191901/191902">1919 Jan-Feb</unitdate>
+						<physdesc>[8 letters, 1 drawing]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.3</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="191903/191904">1919 Mar-Apr</unitdate>
+						<physdesc>[5 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.4</container>
+						<unittitle>Correspondence - Little, Lida A. to Wilson, Luella M., </unittitle>
+						<unitdate type="inclusive" normal="191905">1919 May, undated</unitdate>
+						<physdesc>[1 letter, 1 postcard, 4 telegrams</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.5</container>
+						<unittitle>Correspondence - Others to Little, Lida A., </unittitle>
+						<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+						<physdesc>[6 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.6</container>
+						<unittitle>Little, Lida A. - Letters of introduction from the American Red
+							Cross, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.7</container>
+						<unittitle>Little, Lida A. - Medical information and passport application
+							for Vassar Unit, </unittitle>
+						<unitdate type="inclusive" normal="191806/191808">1918 Jun-Aug</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.8</container>
+						<unittitle>Little, Lida A. - References for Vassar Unit, </unittitle>
+						<unitdate type="inclusive" normal="191804/191806">1918 Apr-Jun</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.9</container>
+						<unittitle>Little, Lida A. - Travel documents, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.10</container>
+						<unittitle>Photographs - French countryside, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">circa 1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.11</container>
+						<unittitle>Photographs - Little, Lida A. and family, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">circa 1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.12</container>
+						<unittitle>Photographs - Red Cross and A.E.F. personnel, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">circa 1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.13</container>
+						<unittitle>Postcard book - Calvaire du Pont-Chateau, France, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.14</container>
+						<unittitle>Postcard book - Nantes, France, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.15</container>
+						<unittitle>Postcard book - War pictures, France, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.16</container>
+						<unittitle>Postcards of France, </unittitle>
+						<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.17</container>
+						<unittitle>Postcards of North Africa, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.18</container>
+						<unittitle>Postcards of the Rhine River, Germany, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.19</container>
+						<unittitle>Printed Ephemera - German propaganda leaflet, </unittitle>
+						<unitdate type="inclusive" normal="191809">1918 Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.20</container>
+						<unittitle>Publications - Informational booklets from the Red Cross, </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+						<physdesc>[4 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.21</container>
+						<unittitle>Publications - Songbooks, </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.22</container>
+						<unittitle>Red Cross documents and printed ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.23</container>
+						<unittitle>Sketches and printed ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">circa 1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.24</container>
+						<unittitle>Vassar Unit - Account book kept by Lida A. Little, </unittitle>
+						<unitdate type="inclusive" normal="191809/191903">1918 Sep-1919
+							Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.25</container>
+						<unittitle>Vassar Unit records, </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 6.26</container>
+						<unittitle>Women's City and County Club, Poughkeepsie, NY, </unittitle>
+						<unitdate type="inclusive" normal="1918/1924">1918-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.1</container>
+						<unittitle>Writings - Little, Lida A., "The Ban" (short story), </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.2</container>
+						<unittitle>Writings - Little, Lida A., "Salvage at Savenay, France", </unittitle>
+						<unitdate type="inclusive" normal="19190822">1919 Aug 22</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.3</container>
+						<unittitle>Writings - Little, Lida A., "Saved from a Living Death: A
+							Hawaiian Romance," outline, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series7">
+				<did>
+					<unittitle>Series VII. Marion R. Meyers Papers, </unittitle>
+					<unitdate type="inclusive" normal="1918/1921">1918-1921</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.4</container>
+						<unittitle>Clippings and ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.5</container>
+						<unittitle>Correspondence - Meyers, Marion R. to Meyers, Morris M. and Rose
+							S. (parents), </unittitle>
+						<unitdate type="inclusive" normal="191812/191901">1918 Dec-1919
+							Jan</unitdate>
+						<physdesc>[8 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.6</container>
+						<unittitle>Correspondence - Meyers, Marion R. to Meyers, Morris M. and Rose
+							S., </unittitle>
+						<unitdate type="inclusive" normal="191903/191905">1919 Mar-May</unitdate>
+						<physdesc>[10 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.7</container>
+						<unittitle>Correspondence - Meyers, Marion R. to Meyers, Morris M. and Rose
+							S., </unittitle>
+						<unitdate type="inclusive" normal="191906">1919 Jun</unitdate>
+						<physdesc>[8 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.8</container>
+						<unittitle>Correspondence - Meyers, Marion R. to Meyers, Morris M. and Rose
+							S., </unittitle>
+						<unitdate type="inclusive" normal="191907">1919 Jul</unitdate>
+						<physdesc>[8 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.9</container>
+						<unittitle>Correspondence - Meyers, Marion R. to Meyers, Morris M. and Rose
+							S., </unittitle>
+						<unitdate type="inclusive" normal="191908/191909">1919 Aug-Sep</unitdate>
+						<physdesc>[7 letters, 6 postcards]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.10</container>
+						<unittitle>Correspondence - Meyers, Marion R. to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191812/191909">1918 Dec-1919
+							Sep</unitdate>
+						<physdesc>[5 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.11</container>
+						<unittitle>Correspondence - Others to Meyers, Marion R., </unittitle>
+						<unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
+						<physdesc>[8 letters, 1 postcard, 1 telegram]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.12</container>
+						<unittitle>Meyers, Marion R. - A.E.F. records, </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.13</container>
+						<unittitle>Meyers, Marion R. - American Red Cross records, </unittitle>
+						<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.14</container>
+						<unittitle>Meyers, Marion R. - Passport, </unittitle>
+						<unitdate type="inclusive" normal="191809">1918 Sep</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.15</container>
+						<unittitle>Photographs, </unittitle>
+						<unitdate type="inclusive" normal="1920">circa 1920</unitdate>
+						<physdesc>[2 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.16</container>
+						<unittitle>Vassar Unit and Goutte de Lait records, </unittitle>
+						<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series8">
+				<did>
+					<unittitle>Series VIII. Fanny P. Townsend Papers, </unittitle>
+					<unitdate type="inclusive" normal="1918/1925">1918-1925</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Box 12</container>
+						<unittitle>Certificate from the Ville de Verdun for "La Goutte de Lait", </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+						<physdesc>[rolled]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.17</container>
+						<unittitle>Clippings - Verdun and Vassar Unit, </unittitle>
+						<unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.18</container>
+						<unittitle>Correspondence - Bradfield, Helen G. to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191811/191905">1918 Nov-1919
+							May</unitdate>
+						<physdesc>[5 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.19</container>
+						<unittitle>Correspondence - Crippen, Ruth (with reports) to/from Townsend,
+							Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191809/191903">1918 Sep-1919
+							Mar</unitdate>
+						<physdesc>[13 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.20</container>
+						<unittitle>Correspondence - Gauny, Madeleine to/from Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191909/191912">1919 Sep-Dec</unitdate>
+						<physdesc>[4 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.21</container>
+						<unittitle>Correspondence - Grove, Elsa Butler to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.22</container>
+						<unittitle>Correspondence - Haight, Helen Ives to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191812/191906">1918 Dec-1919
+							Jun</unitdate>
+						<physdesc>[7 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.23</container>
+						<unittitle>Correspondence - Hickox, Laura to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191809/191905">1918 Sep-1919
+							May</unitdate>
+						<physdesc>[4 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.24</container>
+						<unittitle>Correspondence - Hopson, Anne W. to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191810/191811">1918 Oct-Nov</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.25</container>
+						<unittitle>Correspondence - Kenyon, Helen to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191801/192009">1918 Jan-1920
+							Sep</unitdate>
+						<physdesc>[21 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.26</container>
+						<unittitle>Correspondence - Knight, Alice M. to Sawyer, Harriet, </unittitle>
+						<unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
+						<physdesc>[4 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.27</container>
+						<unittitle>Correspondence - Maltby, Elizabeth M. to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191811/191907">1918 Nov-1919
+							Jul</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.28</container>
+						<unittitle>Correspondence - Others to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191802/192101">1918 Feb-1921
+							Jan</unitdate>
+						<physdesc>[9 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.29</container>
+						<unittitle>Correspondence - Page, Elizabeth to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191811/191901">1918 Nov-1919
+							Jan</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.30</container>
+						<unittitle>Correspondence - Prizer, Mary C. to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191812/191905">1918 Dec-1919
+							May</unitdate>
+						<physdesc>[4 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.31</container>
+						<unittitle>Correspondence - Prudden, Elinor to/from Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191811/191908">1918 Nov-1919
+							Aug</unitdate>
+						<physdesc>[9 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.32</container>
+						<unittitle>Correspondence - Sawyer, Harriet to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191807/192101">1918 Jul-1921
+							Jan</unitdate>
+						<physdesc>[10 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.33</container>
+						<unittitle>Correspondence - Stimson, Julia C. to/from Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191812/191902">1918 Dec-1919
+							Feb</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.34</container>
+						<unittitle>Correspondence - Townsend, Fanny to/from Brezee, Edna, </unittitle>
+						<unitdate type="inclusive" normal="191911/192003">1919 Nov-1920
+							Mar</unitdate>
+						<physdesc>[8 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.35</container>
+						<unittitle>Correspondence - Townsend, Fanny to Grove, Elsa Butler, </unittitle>
+						<unitdate type="inclusive" normal="191912/192104">1919 Dec-1921
+							Apr</unitdate>
+						<physdesc>[7 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.36</container>
+						<unittitle>Correspondence - Townsend, Fanny to Haight, Elizabeth Hazelton, </unittitle>
+						<unitdate type="inclusive" normal="191801/191904">1918 Jan-1919
+							Apr</unitdate>
+						<physdesc>[24 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.37</container>
+						<unittitle>Correspondence - Townsend, Fanny to Kenyon, Helen, </unittitle>
+						<unitdate type="inclusive" normal="191802/192107">1918 Feb-1921
+							Jul</unitdate>
+						<physdesc>[18 letters, 2 telegrams]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.38</container>
+						<unittitle>Correspondence - Townsend, Fanny to/from Kirk, Mabel Horst, </unittitle>
+						<unitdate type="inclusive" normal="191806/191906">1918 Jun-1919
+							Jun</unitdate>
+						<physdesc>[37 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.39</container>
+						<unittitle>Correspondence - Townsend, Fanny to Lambie, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="191804/192104">1918 Apr-1921
+							Apr</unitdate>
+						<physdesc>[19 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 7.40</container>
+						<unittitle>Correspondence - Townsend, Fanny to Meyers, Marion R., </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.1</container>
+						<unittitle>Correspondence - Townsend, Fanny to others, </unittitle>
+						<unitdate type="inclusive" normal="191904/191905">1919 Apr-May</unitdate>
+						<physdesc>[2 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.2</container>
+						<unittitle>Correspondence - Townsend, Fanny to Van der Veer, Elizabeth, </unittitle>
+						<unitdate type="inclusive" normal="191811/191903">1918 Nov-1919
+							Mar</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.3</container>
+						<unittitle>Correspondence - Tupper, Margaret to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191904/191907">1919 Apr-Jul</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.4</container>
+						<unittitle>Correspondence - Tuttle, Ruth to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="19181201">1918 Dec 1</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.5</container>
+						<unittitle>Correspondence - Waterhouse, Irma to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="19180826">1918 Aug 26</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.6</container>
+						<unittitle>Photograph album, </unittitle>
+						<unitdate type="inclusive" normal="1920">1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.7</container>
+						<unittitle>Posters, </unittitle>
+						<unitdate type="inclusive" normal="1920">circa 1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.8</container>
+						<unittitle>Printed ephemera, </unittitle>
+						<unitdate type="inclusive" normal="1919/1925">1919, 1925</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.9</container>
+						<unittitle>Reports from Elsa Butler Grove, </unittitle>
+						<unitdate type="inclusive" normal="192005/192007">1920 May-Jul</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.10</container>
+						<unittitle>Writings - Townsend, Fanny P., "The Vassar Unit," Vassar
+							Quarterly, </unittitle>
+						<unitdate type="inclusive" normal="191805">1918 May</unitdate>
+						<physdesc>[4 p.]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series9">
+				<did>
+					<unittitle>Series IX. Gertrude C. Valentine Papers, </unittitle>
+					<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.11</container>
+						<unittitle>Correspondence - Valentine, Gertrude to family(?), </unittitle>
+						<unitdate type="inclusive" normal="191810">1918 Oct</unitdate>
+						<physdesc>[3 letters, transcripts]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.12</container>
+						<unittitle>Correspondence - Valentine, Gertrude to Haight, Elizabeth
+							Hazelton, </unittitle>
+						<unitdate type="inclusive" normal="191810/191905">1918 Oct-1919
+							May</unitdate>
+						<physdesc>[2 letters, 1 postcard]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.13</container>
+						<unittitle>Correspondence - Valentine, Gertrude to Sawyer, Harriet, </unittitle>
+						<unitdate type="inclusive" normal="191810">1918 Oct</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.14</container>
+						<unittitle>Correspondence - Valentine, Gertrude to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="19181004">1918 Oct 4</unitdate>
+						<physdesc>[1 letter]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.15</container>
+						<unittitle>Correspondence - Valentine, Gertrude to Van der Veer, Elizabeth, </unittitle>
+						<unitdate type="inclusive" normal="191810/191906">1918 Oct-1919
+							Jun</unitdate>
+						<physdesc>[8 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.16</container>
+						<unittitle>Correspondence - Valentine, Gertrude to unknown, </unittitle>
+						<unitdate type="inclusive" normal="191811/191903">1918 Nov-1919
+							Mar</unitdate>
+						<physdesc>[5 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.17</container>
+						<unittitle>Photographs - Gertrude Valentine with YMCA workers; Gertrude
+							Valentine's funeral, </unittitle>
+						<unitdate type="inclusive" normal="1919">1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.18</container>
+						<unittitle>Reports, </unittitle>
+						<unitdate type="inclusive" normal="191810/191903">1918 Oct-1919
+							Mar</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series10">
+				<did>
+					<unittitle>Series X. Elizabeth Van der Veer Papers, </unittitle>
+					<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.19</container>
+						<unittitle>Correspondence - Hopson, Anne W. to Van der Veer, Elizabeth, </unittitle>
+						<unitdate type="inclusive" normal="191810/191904">1918 Oct-1919
+							Apr</unitdate>
+						<physdesc>[6 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.20</container>
+						<unittitle>Correspondence - Van der Veer, Elizabeth to Haight, [Elizabeth
+							Hazelton?], </unittitle>
+						<unitdate type="inclusive" normal="19190108">1919 Jan 8</unitdate>
+						<physdesc>[1 letter with transcript]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.21</container>
+						<unittitle>Correspondence - Van der Veer, Elizabeth to Townsend, Fanny, </unittitle>
+						<unitdate type="inclusive" normal="191809/191906">1918 Sep-1919
+							Jun</unitdate>
+						<physdesc>[14 letters]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.22</container>
+						<unittitle>Correspondence - Waterhouse, Irma to Van der Veer, Elizabeth, </unittitle>
+						<unitdate type="inclusive" normal="191810/191904">1918 Oct-1919
+							Apr</unitdate>
+						<physdesc>[3 letters]</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series11">
+				<did>
+					<unittitle>Series XI. Publications, </unittitle>
+					<unitdate type="inclusive" normal="1917/1961">1917-1961</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.23</container>
+						<unittitle>Bibliography - List of Vassar Quarterly articles about the Vassar
+							Unit, </unittitle>
+						<unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.24</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.25</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1936/1938">1936-1938</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.26</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.27</container>
+						<unittitle>Clippings, </unittitle>
+						<unitdate type="inclusive" normal="1956/1961">1956-1961</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.28</container>
+						<unittitle>Clippings (French), </unittitle>
+						<unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.29</container>
+						<unittitle>Clippings (Italian), </unittitle>
+						<unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.30</container>
+						<unittitle>Clippings - French tank at Vassar, </unittitle>
+						<unitdate type="inclusive" normal="1920/1934">1920, 1934</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.31</container>
+						<unittitle>Clippings - Miscellaneous, </unittitle>
+						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.32</container>
+						<unittitle>Clippings - President MacCracken's address, </unittitle>
+						<unitdate type="inclusive" normal="191811">1918 Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.33</container>
+						<unittitle>Clippings - Vassar Unit and Vassar alumnae, </unittitle>
+						<unitdate type="inclusive" normal="1918/1924">1918-1924</unitdate>
+						<physdesc>[photocopies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.34</container>
+						<unittitle>Leaflet - "The American Red Cross Canteen Service and Hospital
+							Hut Service in France", </unittitle>
+						<unitdate type="inclusive" normal="19181004">1918 Oct 4</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 8.35</container>
+						<unittitle>Newsletter - "Carry On, Vassar!," AAVC Publicity Committee, Vol.
+							1, No. 1-3, </unittitle>
+						<unitdate type="inclusive" normal="191901/191903">1919 Jan-Mar</unitdate>
+						<physdesc>[3 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.6</container>
+						<unittitle>Newsletter - "Red Cross Bulletin," No. 3, 15, 16, 17, </unittitle>
+						<unitdate type="inclusive" normal="191804/191807">1918 Apr-Jul</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.7</container>
+						<unittitle>Newsletter - "Red Cross Bulletin," No. 26, 27, 28, 31, </unittitle>
+						<unitdate type="inclusive" normal="191809/191811">1918 Sep-Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.1</container>
+						<unittitle>Newsletter - "The Thermometer," Vol. 1, No. 1-12, weekly
+							newsletter of the Vassar Farm Unit and Training Camp for Nurses, </unittitle>
+						<unitdate type="inclusive" normal="19180627/19180912">1918 Jun 27-Sep
+							12</unitdate>
+						<physdesc>[bound item]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.2</container>
+						<unittitle>Newsletter - "The Thermometer," Vol. 1, No. 11-12, </unittitle>
+						<unitdate type="inclusive" normal="191809">1918 Sep</unitdate>
+						<physdesc>[2 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.3</container>
+						<unittitle>Newsletter - "Toot Sweet," Vol. 1, No. 1-4, newsletter of the
+							American Red Cross at the Hospital Center in Savenay, France, </unittitle>
+						<unitdate type="inclusive" normal="1919 3/4">1919 Mar-Apr</unitdate>
+						<physdesc>[photocopies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.8</container>
+						<unittitle>Newsletter - "Toot Sweet," Vol. 1, No. 1-2, </unittitle>
+						<unitdate type="inclusive" normal="191903">1919 Mar</unitdate>
+						<physdesc>[3 copies each]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.9</container>
+						<unittitle>Newsletter - "Toot Sweet," Vol. 1, No. 3-4, </unittitle>
+						<unitdate type="inclusive" normal="191904">1919 Apr</unitdate>
+						<physdesc>[3 copies each]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.10</container>
+						<unittitle>Newsletter - "Toot Sweet," Vol. 1, No. 5, </unittitle>
+						<unitdate type="inclusive" normal="19190510">1919 May 10</unitdate>
+						<physdesc>[3 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.4</container>
+						<unittitle>Newsletter - "Toot Sweet," Vol. 2, No. 1, </unittitle>
+						<unitdate type="inclusive" normal="192002">1920 Feb</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.5</container>
+						<unittitle>Newsletter - "Toot Sweet," Vol. 3, No. 1, </unittitle>
+						<unitdate type="inclusive" normal="192103">1921 Mar</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.6</container>
+						<unittitle>Newsletter - "Toot Sweet", </unittitle>
+						<unitdate type="inclusive" normal="192604">1926 Apr</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.7</container>
+						<unittitle>Newsletter - "Toot Sweet - Twenty Year Edition", </unittitle>
+						<unitdate type="inclusive" normal="1939">1939</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.8</container>
+						<unittitle>Newsletter - "War Work Bulletin," YWCA War Work Council, No. 48,
+							50, 60, </unittitle>
+						<unitdate type="inclusive" normal="191811/191902">1918 Nov, 1919
+							Feb</unitdate>
+						<physdesc>[3 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.9</container>
+						<unittitle>Newspaper - The Vassar Miscellany News, articles about the Vassar
+							Unit, </unittitle>
+						<unitdate type="inclusive" normal="191809/191911">1918 Sep-1919
+							Nov</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 12.11</container>
+						<unittitle>Newspaper - The Vassar Miscellany News, Vol. 2, No. 58-59, </unittitle>
+						<unitdate type="inclusive" normal="191806">1918 Jun</unitdate>
+						<physdesc>[2 items]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.10</container>
+						<unittitle>Pamphlet - "French-English Guide - Verdun et ses Champs de
+							Bataille", </unittitle>
+						<unitdate type="inclusive" normal="1919">[1919?]</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.11</container>
+						<unittitle>Pamphlet - "The Training Camp for Nurses at Vassar College", </unittitle>
+						<unitdate type="inclusive" normal="1918">1918</unitdate>
+						<physdesc>[3 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.12</container>
+						<unittitle>Pamphlet - "Ville de Verdun - La Goutte de Lait Oeuvre
+							Luxembourgeoise", </unittitle>
+						<unitdate type="inclusive" normal="1921">circa 1921</unitdate>
+						<physdesc>[3 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 13.3 (Oversize)</container>
+						<unittitle>Periodical - L'Illustration, "La Fete de la Victoire", </unittitle>
+						<unitdate type="inclusive" normal="19190726">1919 Jul 26</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.13</container>
+						<unittitle>Periodical - "La Revue de France - Géographique et Industrielle", </unittitle>
+						<unitdate type="inclusive" normal="1955">1955</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.14</container>
+						<unittitle>Periodical - "Peirce School Alumni Journal," featuring experience
+							in France during the war, </unittitle>
+						<unitdate type="inclusive" normal="191812">1918 Dec</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.15</container>
+						<unittitle>Periodical - Vassar College Bulletin, Vol. 8, No. 3, "Vassar
+							Alumnae in Foreign Service", </unittitle>
+						<unitdate type="inclusive" normal="191905">1919 May</unitdate>
+						<physdesc>[3 copies]</physdesc>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container>Folder 9.16</container>
+						<unittitle>Report - Finley, John H., "French Schools in War Time,"
+							University of the State of New York, </unittitle>
+						<unitdate type="inclusive" normal="1917">1917</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="series12">
+				<did>
+					<unittitle>Series XII. Realia, </unittitle>
+					<unitdate type="inclusive" normal="1918/1919">1918-1919, undated</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>General</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Ambulance Plate, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.9</container>
+							<unittitle>American Red Cross pins, eagle insignia for overseas service
+								in WWI (2), </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+							<physdesc>[2 items]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.4</container>
+							<unittitle>American Red Cross uniform buttons (6), </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[2 small, 2 medium, 2 large]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.3</container>
+							<unittitle>American Red Cross uniform buttons (8), </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[5 small, 1 medium, 2 large]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.4</container>
+							<unittitle>American Red Cross uniform cuff links (2), </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[2 items]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.4</container>
+							<unittitle>American Red Cross uniform pins - 1 ornate "RC" and cross
+								pin, 2 cross pins, 2 "U.S." pins, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[5 items]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.3</container>
+							<unittitle>American Red Cross uniform pins - 2 cross pins, 1 cross in
+								white circle pin, 1 "U.S." pin, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[4 items]</physdesc>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Machine gun cartridges, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.2</container>
+							<unittitle>Medal - "France 1917-1918," commemorating the arrival of
+								American soldiers in France, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.1</container>
+							<unittitle>Medal - Verdun "On ne Passe Pas," full size version in
+								leather envelope, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Shrapnel, </unittitle>
+							<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Vassar Unit rubber stamps, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[3 items]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Margaret Lambie</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.8</container>
+							<unittitle>American Red Cross Foreign Service badge with 2 stripes, each
+								representing 6 months overseas, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.8</container>
+							<unittitle>American Red Cross ID tag No. 4370, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>American Red Cross uniform, arm band, blue, </unittitle>
+							<unitdate type="inclusive" normal="1919">1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.5</container>
+							<unittitle>Medal, "A La Gloire des Héros de Verdun MCMXVI", </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.6</container>
+							<unittitle>Medal, "SBM, 1914-1919," Société Française de Secours aux
+								Blessés Militaires (French Society for Aid to Wounded Soldiers), </unittitle>
+							<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.6</container>
+							<unittitle>Medal, S.B., Société Française de Secours aux Blessés
+								Militaires (French Society for Aid to Wounded Soldiers), </unittitle>
+							<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.7</container>
+							<unittitle>Medal, Verdun "On ne Passe Pas," small version, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Yarn dolls, "Nénette and Rintintin", </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+							<physdesc>[2 sets]</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Lida A. Little</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Box 14 (Oversize)</container>
+							<unittitle>American Red Cross uniform, including jacket with pins, hat, skirt, and cloak, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Handkerchief - "Souvenir de France", </unittitle>
+							<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Box 10</container>
+							<unittitle>Wooden axe with names from the "309 Engineers" written on the
+								head, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Fanny P. Townsend</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 9.17</container>
+							<unittitle>Banner - "Cantine pour Civils", </unittitle>
+							<unitdate type="inclusive" normal="1919">circa 1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.10</container>
+							<unittitle>Medal - "SBM, 1914-1919," Société Française de Secours aux
+								Blessés Militaires, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.10</container>
+							<unittitle>Medal - Verdun "On ne Passe Pas," small version, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Margaret Tupper</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.11</container>
+							<unittitle>Medal - S.B., Société Française de Secours aux Blessés
+								Militaires, </unittitle>
+							<unitdate type="inclusive">undated</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Gertrude C. Valentine</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container>Folder 11.12</container>
+							<unittitle>Y.M.C.A. service pin, </unittitle>
+							<unitdate type="inclusive" normal="1918">circa 1918</unitdate>
+						</did>
+					</c03>
 				</c02>
 			</c01>
 		</dsc>

@@ -32,7 +32,7 @@
 			<unitdate type="inclusive" normal="1859/1989" certainty="approximate"
 				label="Inclusive Dates:" encodinganalog="245$f">1859-2025</unitdate>
 			<unitdate type="bulk" normal="1867/1950" label="Bulk Dates:" encodinganalog="245$f">1867-1967</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a">approximately 250.3 cubic feet (214 boxes, 702 volumes, 1 OV folder)</physdesc>
+			<physdesc label="Quantity:" encodinganalog="300$a">approximately 251 cubic feet (214 boxes, 705 volumes, 1 OV folder)</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
@@ -185,11 +185,11 @@
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
 			<p>Encoded by Elizabeth Clarke and Laura Streett, April 2008. Updated by Mark Seidl,
-				November 2019-January 2020. Updated by Emma Gronbeck, November 2022 - May 2025.</p>
+				November 2019-January 2020. Updated by Emma Gronbeck, November 2022 - June 2026.</p>
 		</odd>
 		<processinfo encodinganalog="583">
 			<head>Processing Information</head>
-			<p>Original processing date unknown. Last updated by Emma Gronbeck, May 2025.</p>
+			<p>Original processing date unknown. Last updated by Emma Gronbeck, June 2026.</p>
 		</processinfo>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
@@ -286,7 +286,7 @@
 					<unittitle>
 						<ref target="series9">Series IX.</ref> Scrapbooks, </unittitle>
 					<unitdate type="inclusive" normal="1866/1976">1866-1976</unitdate>
-					<physdesc>[approximately 150.3 cubic feet (366 volumes)]</physdesc>
+					<physdesc>[approximately 150.7 cubic feet (368 volumes)]</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -302,7 +302,7 @@
 					<unittitle>
 						<ref target="series11">Series XI.</ref> Photograph Albums, </unittitle>
 					<unitdate type="inclusive" normal="1865/1948" certainty="approximate">1865-1948</unitdate>
-					<physdesc>[approximately 52.4 cubic feet (336 volumes)]</physdesc>
+					<physdesc>[approximately 52.6 cubic feet (337 volumes)]</physdesc>
 				</did>
 			</c01>
 			<c01 level="series">
@@ -8277,6 +8277,13 @@
 				</c02>
 				<c02 level="item">
 					<did>
+						<container>Scrapbook 364</container>
+						<unittitle>VC 1914 — Harvey, Katherine K. (Farnam), </unittitle>
+						<unitdate type="inclusive" normal="1910/1914">1910-1914</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
 						<container>Scrapbook 243 (Oversize)</container>
 						<unittitle>VC 1914 — McGuire, Frances (Grant), </unittitle>
 						<unitdate type="inclusive" normal="1910/1927">1910-1927</unitdate>
@@ -8645,6 +8652,14 @@
 						<container>Scrapbook 340 (Oversize)</container>
 						<unittitle>VC Ex 1922 — Billings, Katharine H., </unittitle>
 						<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Scrapbook 363 (Oversize)</container>
+						<unittitle>VC 1922 — Bliss, Margaret, </unittitle>
+						<unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate>
+						<physdesc>[15 pages]</physdesc>
 					</did>
 				</c02>
 				<c02 level="item">
@@ -10803,6 +10818,13 @@
 						<container>Album 217</container>
 						<unittitle>VC 1914 — Finn, Mona (Cowell), </unittitle>
 						<unitdate type="inclusive">undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<container>Album 343</container>
+						<unittitle>VC 1914 — Harvey, Katherine K. (Farnam), </unittitle>
+						<unitdate type="inclusive" normal="1912/1916">1912-1916</unitdate>
 					</did>
 				</c02>
 				<c02 level="item">

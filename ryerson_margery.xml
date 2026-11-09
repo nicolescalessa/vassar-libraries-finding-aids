@@ -11,29 +11,29 @@
 			<publicationstmt>
 				<publisher>Archives and Special Collections Library, Vassar College Libraries</publisher>
 				<address>
-					<addressline> Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
+					<addressline>Box 20, 124 Raymond Ave., Poughkeepsie, NY, 12604-0020</addressline>
 				</address>
 				<date>May 2020</date>
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
 			<creation>Finding aid encoded by Mark Seidl <date>May 2020</date></creation>
-			<langusage>Finding aid written in<language>English.</language></langusage>
+			<langusage>Finding aid written in <language>English.</language></langusage>
 		</profiledesc>
 	</eadheader>
 	<archdesc level="collection" type="inventory">
 		<did>
-			<head> Collection Summary</head>
+			<head>Collection Summary</head>
 			<origination label="Creator:" encodinganalog="100">
 				<persname>Ryerson, Margery</persname>
 			</origination>
-			<unittitle label="Title:" encodinganalog="245"> Margery Ryerson Papers</unittitle>
-			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> approximately 1905-1963</unitdate>
-			<physdesc label="Quantity:" encodinganalog="300$a"> 2 boxes</physdesc>
+			<unittitle label="Title:" encodinganalog="245">Margery Ryerson Papers</unittitle>
+			<unitdate type="inclusive" label="Dates:" encodinganalog="245$f">approximately 1905-1963</unitdate>
+			<physdesc label="Quantity:" encodinganalog="300$a">2 boxes</physdesc>
 			<repository label="Repository:" encodinganalog="852$a">
 				<corpname>Archives and Special Collections Library, Vassar College Libraries</corpname>
 			</repository>
-			<abstract label="Abstract:" encodinganalog="520$a"> Correspondence, class notes, printed material and realia documenting the student years of Margery Ryerson and her involvement in subsequent alumnae events.</abstract>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, class notes, printed material and realia documenting the student years of artist and teacher Margery Ryerson (1886-1989) and her involvement in subsequent Vassar alumnae events.</abstract>
 		</did>
 		<bioghist encodinganalog="545">
 			<head>Biographical Note </head>
@@ -45,11 +45,11 @@
 		</scopecontent>
 		<accessrestrict encodinganalog="506">
 			<head>Access</head>
-			<p>This collection is open for research according to the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library</archref> without any additional restrictions.</p>
+			<p>This collection is open for research according to the <extref href="https://library.vassar.edu/specialcollections/policies" show="new">regulations of the Vassar College Archives and Special Collections Library</extref> without any additional restrictions.</p>
 		</accessrestrict>
 		<userestrict encodinganalog="540">
 			<head>Restrictions on Use</head>
-			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <archref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library. </archref></p>
+			<p>Permission to quote (publish) from unpublished or previously published material must be obtained as described in the <extref href="https://library.vassar.edu/specialcollections/policies" show="new"> regulations of the Vassar College Archives and Special Collections Library.</extref></p>
 		</userestrict>
 		<controlaccess>
 			<head>Subject Headings</head>
@@ -61,6 +61,17 @@
 				<head>Subjects:</head>
 				<subject source="lcsh" encodinganalog="650">Women artists--United States--20th century</subject>
 			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform source="aat" encodinganalog="655">Printed ephemera</genreform>
+				<genreform source="aat" encodinganalog="655">Publications</genreform>
+				<genreform source="aat" encodinganalog="655">Realia</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>VCL Categories:</head>
+				<subject source="local" encodinganalog="690">Art and Artists</subject>
+				<subject source="local" encodinganalog="690">Vassar College</subject>
+			</controlaccess>
 		</controlaccess>
 		<odd encodinganalog="500">
 			<head>Encoding Information</head>
@@ -68,7 +79,7 @@
 		</odd>
 		<acqinfo encodinganalog="541">
 			<head>Acquisition Information</head>
-			<p>Gift of the LeClair Family (via Janet LeClair) (M2019-038).</p>
+			<p>Gift of the LeClair Family (via Janet LeClair), 2019. (M2019-038).</p>
 		</acqinfo>
 		<prefercite encodinganalog="524">
 			<head>Preferred Citation</head>
